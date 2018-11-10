@@ -1,0 +1,5636 @@
+
+华东师范大学学报自然科学版
+ECNU_xblk
+标题： 新刊速递 | 华东师范大学学报（自然科学版）2018年第五期目录
+
+网址: http://mp.weixin.qq.com/s?timestamp=1541270395&src=3&ver=1&signature=-FwpRla5Qz-ZXB8aCcqLNPL2SOVZAXDliw17bDfrDMpqETL0gzhemPScZNKJA*siVOCi2SxfDz9v8W79yGTqftwUbecBMSLM1bDzN6vtqL1o09BMei5fK0H8iC6E8ZQVwcBOmbu*cxlQKWNCz2bWsSAUxteoG6oQuAsVXtmUiLk=
+
+封面图片网址: http://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesa7ia3hMK53Y6zw1SzqwGSibHDibXVL0riaf5kEX2XXB1SGdM3Wgibywax34ZaoYicQokXQe5h15RGJRgjA/0?wx_fmt=jpeg
+
+发表时间: 2018年9月26日10时
+
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+       
+       
+        
+         
+          
+           
+            
+           
+          
+         
+        
+       
+       
+       
+      
+     
+    
+    
+     
+      
+       
+       
+       
+       
+       
+        
+         
+          
+           
+            
+             
+              华东师范大学学报
+              
+             
+            
+            
+             
+              自然科学版
+              
+             
+            
+            
+             
+              2018年第五期
+             
+            
+            
+             
+              目录
+             
+            
+           
+          
+         
+        
+       
+       
+        
+        
+        
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      庆祝华东师范大学
+      
+     
+     
+      数据科学与工程学院成立二周年
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        “新型互联网应用中的数据管理技术”
+       
+       
+      
+     
+     
+      
+       专辑
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+         
+          
+           导　语
+          
+         
+        
+        
+         
+        
+        
+         互联网的飞速发展正在深刻影响着社会和经济的方方面面。从搜索引擎到电子商务、从在线广告到即时消息、从数字娱乐到在线教育、从移动支付到分享经济，互联网应用已经改变了我们的娱乐、社交、购物、物流、出行、支付等等方面，并对金融、电信、制造、能源、零售等行业的变革产生了深远影响。数据是行业变革的动力来源。传感器和终端技术的发展使得数据收集更为便捷；通信网络技术的进步使得数据传输更加廉价、快速；新兴存储介质和设备的出现不仅降低了数据存储成本，还极大提升了数据访问性能。上述技术的进步使得数据资源被快速累积起来。海量数据资源的管理、分析和应用是企业和机构提升核心竞争力、服务水平和政府提高治理水平的关键之处。在教育、金融、电信、政府治理等领域，亟需高可用、高可靠、高性能的数据管理技术和系统功能来管理海量、多源、异构、分布数据。
+        
+        
+         
+        
+        
+         本期专辑围绕“新型互联网应用中的数据管理技术”这个主题，在全国范围内征集稿件，受到了学术界的广泛关注。经过专辑编委员会的认真评阅，共收录了１６篇高质量学术论文。这些稿件分别来自国内６个高校，包括上海交通大学、云南大学、桂林电子科技大学、南京农业大学、上海电力学院、华东师范大学等。根据主题不同，将这些论文划分为３个类别：综述论文（４篇）、高性能数据库管理（５篇）、新型互联网应用技术（７篇）。
+        
+        
+         
+        
+        
+         ４篇综述论文分别从不同角度回顾了各研究领域的现有工作，并展望未来。余若男等人认识到场景文字检测问题深受目标检测和图像分割算法发展的影响，介绍了近年来场景文字检测工作进展，比较分析了各算法的优点及不足，并总结了相关的基准数据集和评价方法；汤路民等人列举了非干预式感知的个性化学业求助资源推荐研究状况，并展望了未来研究方向，包括学业求助非干预式感知、学业求助多源异构数据分析，以及学业求助资源个性化推荐方法；涂云山等人综述了面向新硬件的数据处理软件技术，从计算、传输、存储这３个方面讨论了面向新型硬件的数据处理软件技术，梳理和分析了相关工作，总结概述了已取得的进展，分析了存在的问题和挑战；李娜等人综述了在异构网络中的实体匹配技术的研究现状与进展，特别是针对海量数据的可扩展实体匹配方法，包括运用监督学习和非监督学习这两类技术。
+        
+        
+         
+        
+        
+         ５篇关于高性能数据库管理的论文分别从查询、存储、分布式协议、系统等角度开展研究。徐石磊等人研究了ＯＬＡＰ应用中常见的分组聚合问题，根据分布式数据库多副本的特点提出了并行实现方案，并在开源数据库系统上得以实现；俞文谦等人认识到列存储技术能够有效提高Ｉ／Ｏ 效率、优化分析处理性能，提出了一种面向Ｃｅｄａｒ系统的列存储机制，分析了其适用场景并针对这种机制改进了Ｃｅｄａｒ的数据扫描和批量更新方法；黄建伟等人认识到在分布式和并发的环境中实现主键维护功能还要面临主键唯一性约束、事务性维护、高处理性能的挑战，提出了一种在分布式日志结构数据库系统中高效维护主键的方法；赵春扬等人详细介绍了经典的分布式一致性协议以及在目前常见的几种分布式数据库系统中一致性协议的应用，从读写操作、节点类型与网络通信等方面进行了对比与分析；贺小龙等人认识到在高性能硬件上重新设计与实现事务型数据库系统的重要性，介绍了在大内存、多核环境下事务型数据库系统的新近研究工作，并结合开源数据库系统ＯｃｅａｎＢａｓｅ 介绍了新型ＯＬＴＰ系统的设计方案。
+        
+        
+         
+        
+        
+         ７篇关于新型互联网应用技术的论文中，徐阳等人认识到在基于位置服务应用中将会产生海量空间文本数据，提出了基于Ｓｐａｒｋ的两层索引框架，采用分阶段过滤的策略来处理空间文本查询，执行性能较高；田福粮等人提出了一个基于区块链的智能电表身份认证方案，保证了交易的完整性和有效性；齐学成等人设计实现了基于区块链的仓单管理系统，确保标的仓单的准确性和真实性，该系统构建倒排索引以提高查询效率，且支持复杂查询；张衡等人提出了一种提前终止策略，可提前判断两个文本是否满足预先设定的相似度阈值，将该技术应用到题库判重应用中能够显著减少计算时间；唐海波等人提出了一种基于犓Ｍｅａｎｓ的平衡约束聚类算法，修改了犓Ｍｅａｎｓ算法每次迭代中数据点的分配策略，从而可对每个簇可包含的数据点数目上限进行约束；袁培森等人提出了一个深度哈希算法，通过获取符合哈希编码规范的位编码实现对商标图像数据快速检索；麻友等人针对社会媒体数据的非结构、多主题特征，基于ＬＤＡ 模型挖掘数据中的隐含主题，利用数据特征词序列和知识图谱描述的实体及实体间的关联关系，实现对特定领域数据的抽取。
+        
+        
+         
+        
+        
+         最后，谨在此感谢各位作者为专辑提供优质稿源，感谢各位评审专家，特别感谢华东师范大学学报编辑部自然科学版各位老师在收稿、审稿、校稿过程中的大力支持和辛勤工作。新型互联网应用是大数据应用领域的重要组成部分，希望本专辑能为新型互联网应用中的数据管理问题、研究进展和技术发展趋势等提供一个技术窗口，推动相关领域的研究进展和应用实施。
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+         
+          
+           “新型互联网应用中的数据管理技术”专辑
+          
+         
+        
+        
+         
+          
+           编委会
+          
+         
+        
+        
+         （排名不分先后）
+        
+        
+         杜小勇　教　授　中国人民大学
+        
+        
+         金澈清　教　授　华东师范大学
+        
+        
+         李战怀　教　授　西北工业大学
+        
+        
+         彭敦陆　教　授　上海理工大学
+        
+        
+         钱卫宁　教　授　华东师范大学
+        
+        
+         王国仁　教　授　北京理工大学
+        
+        
+         印　鉴　教　授　中山大学
+        
+        
+         于　戈　教　授　东北大学
+        
+        
+         岳　昆　教　授　云南大学
+        
+        
+         周傲英　教　授　华东师范大学
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+        
+        
+         
+          
+           综述论文
+          
+         
+        
+        
+        
+       
+      
+     
+     
+      
+       
+        
+         
+          
+           
+            
+             
+              
+               
+                
+               
+              
+              
+               
+                1 / 余若男，黄定江，董启文
+               
+              
+              
+               
+                
+                 基于深度学习的场景文字检测研究进展
+                
+               
+              
+              
+               
+                17 / 汤路民，余若男，董启文，洪道诚，傅云斌
+               
+              
+              
+               
+                
+                 基于非干预式感知的个性化学业求助资源推荐研究进展
+                
+               
+              
+              
+               
+                30 / 涂云山，储佳佳，张耀，翁楚良
+               
+              
+              
+               
+                
+                 面向新硬件的数据处理软件技术
+                
+               
+              
+              
+               
+                41 / 李娜，金冈增，周晓旭，郑建兵，高明
+               
+              
+              
+               
+                
+                 异构网络中实体匹配算法综述
+                
+               
+              
+              
+               
+              
+             
+            
+           
+          
+         
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+        
+        
+         
+          
+           高能性数据库管理
+          
+         
+        
+        
+        
+       
+      
+     
+     
+      
+       
+        
+         
+          
+           
+            
+             
+              
+               
+              
+              
+               
+                56 / 徐石磊，魏星，江红，钱卫宁，周傲英
+               
+              
+              
+               
+                
+                 分布式数据库系统中的并行分组聚合实现
+                
+               
+              
+              
+               
+                67 / 俞文谦，胡爽，胡卉芪
+               
+              
+              
+               
+                
+                 面向Ｃｅｄａｒ的列存储设计与实现
+                
+               
+              
+              
+               
+                79 / 黄建伟，张召，钱卫宁
+               
+              
+              
+               
+                
+                 分布式日志结构数据库系统的主键维护方法研究
+                
+               
+              
+              
+               
+                91 / 赵春扬，肖冰，郭进伟，钱卫宁
+               
+              
+              
+               
+                
+                 一致性协议在分布式数据库系统中的应用
+                
+               
+              
+              
+               
+                107 / 贺小龙，马海欣，何毓锟，庞天泽，赵琼
+               
+              
+              
+               
+                
+                 新型ＯＬＴＰ系统的技术与实践
+                
+               
+              
+              
+               
+              
+             
+            
+           
+          
+         
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+        
+        
+         
+          
+           新型互联网应用技术
+          
+         
+        
+        
+        
+       
+      
+     
+     
+      
+       
+        
+         
+          
+           
+            
+             
+              
+               
+              
+              
+               
+                120 / 徐阳，王志杰，钱诗友
+               
+              
+              
+               
+                
+                 基于分布式平台Ｓｐａｒｋ的空间文本查询分析
+                
+               
+              
+              
+               
+                135 / 田福粮，田秀霞，陈希
+               
+              
+              
+               
+                
+                 基于区块链的智能电表身份认证方案
+                
+               
+              
+              
+               
+                144 / 齐学成，朱燕超，邵奇峰，张召，金澈清
+               
+              
+              
+               
+                
+                 基于区块链的仓单管理系统
+                
+               
+              
+              
+               
+                154 / 张衡，陈良育
+               
+              
+              
+               
+                
+                 Ｌｅｖｅｎｓｈｔｅｉｎ算法优化及在题库判重中的应用
+                
+               
+              
+              
+               
+                164 / 唐海波，林煜明，李优
+               
+              
+              
+               
+                
+                 一种基于犓Ｍｅａｎｓ的平衡约束聚类算法
+                
+               
+              
+              
+               
+                
+                
+               
+              
+              
+               
+                172 / 袁培森，张勇，李美玲，顾兴健
+               
+              
+              
+               
+                
+                 基于深度哈希学习的商标图像检索研究
+                
+               
+              
+              
+               
+                183 / 麻友，岳昆，张子辰，王笑一，郭建斌
+               
+              
+              
+               
+                
+                 基于知识图谱和ＬＤＡ 模型的社会媒体数据抽取
+                
+               
+              
+             
+            
+           
+          
+         
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+   
+    
+     
+    
+   
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+      点击「
+      
+       
+        阅读原文
+       
+      
+      」访问
+      
+       
+        
+         华东师范大学学报自然科学版官网
+        
+       
+      
+     
+    
+   
+  
+ 
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesa7ia3hMK53Y6zw1SzqwGSibH1kFIcLoeXZph7WZIEcE64QG78XHLuAgNTBALgWpicjnbyDZFzqC5P6Q/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/iazosh2EOkpicQUu8bDBLMibYZ3GMq487mf5CPy378jq1tKISb4PhXrMpCyFUlcsVBfia1OaHThSP8l81qfUicRPlCQ/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/Wc9PqPkwwcvuIEoFzOpm85xMgt4Evib93FZ9z31uDB0GVLPIgrQOgr23icGFGgtrzEj8WSdeNZ56GGYQd8hO1lJQ/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesa7ia3hMK53Y6zw1SzqwGSibHpia5z1HAJtneqtMMac7CS2KjW8zzmk1dhfUfsQ7oWe4mt7b84ajw0bg/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesa7ia3hMK53Y6zw1SzqwGSibH7ibicFsKwSRtPrX3pY74ibd7CAqzgtRuszoSeSgWGoZWoQkoQibpYMH0BA/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesa7ia3hMK53Y6zw1SzqwGSibHvvqAyIqbG2Sn5XK4vhV5GwIFDWQgibsveuL3mZqZyu5HEjMPHCBfZlg/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesa7ia3hMK53Y6zw1SzqwGSibHCkndKssENImj6zbZ4EGZic1Iodo6Lib1F6ibev8nzMialwpJJEWiajpAbjw/640?wx_fmt=jpeg
+
+标题： 本刊编委刘明耀教授课题组发现靶向MYOF的抗癌候选化合物
+
+网址: http://mp.weixin.qq.com/s?timestamp=1541270395&src=3&ver=1&signature=-FwpRla5Qz-ZXB8aCcqLNPL2SOVZAXDliw17bDfrDMpqETL0gzhemPScZNKJA*siVOCi2SxfDz9v8W79yGTqfqEx8HNfQhhGyt-8wP7gzyPZspGmC7Hdy3O6CrVt21G2rgFTaBvuKfuXuFudP1dy2C*6hLgt-KduXbXk9nihjL4=
+
+封面图片网址: http://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesb9AK2KKOicW4c9DxERpZjQmEokJKukhLRQFHibZTU7lkLyatnsmPmib9BxjUmScAnH1oSHoLIcf1kXg/0?wx_fmt=jpeg
+
+发表时间: 2018年9月16日16时
+
+  
+   
+    
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+       
+      
+     
+     
+      
+       
+        
+         Myoferlin（MYOF）图：维基百科
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       Myoferlin（MYOF）是进化上保守的ferlin蛋白质家族的成员之一，与细胞迁移和侵袭密切相关，参与细胞多种功能，如细胞膜内吞作用和修复、囊泡运输、蛋白稳定和细胞运动等。MYOF在乳腺癌的进程中起重要作用，可以作为乳腺癌治疗的重要分子靶点，但是目前尚无针对该靶点的药物报道。
+      
+     
+     
+      
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+      
+      
+      
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       国际知名学术期刊Nature子刊《自然通讯》（Nature Communications）日前在线刊登了华东师大生命科学学院/上海市调控生物学重点实验室刘明耀教授课题组的最新研究成果“Asmall molecule targeting myoferlin exerts promising anti-tumor effects on breast cancer”，该成果首次报道靶向Myoferlin的小分子化合物，为研发靶向Myoferlin的抗肿瘤药物奠定了坚实基础。
+      
+     
+     
+      
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       这是该团队继2016年在
+       
+        Nature Communications和Leukemia
+       
+       上发表论文分别报道中草药单体抗耐药性前列腺癌、合成化合物抗耐药性白血病后，在肿瘤新药研发领域取得的又一重要进展。
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       化合物WJ460可在纳摩尔级水平上显著抑制乳腺癌细胞侵袭，并在体内抑制乳腺癌生长和转移，且显著延长患病动物生存期
+      
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       肿瘤转移作为恶性肿瘤重要生物学特征之一，既是患者死亡的主要原因，也是研究的重大挑战。肿瘤细胞侵袭是肿瘤转移的关键环节，通过靶向细胞侵袭过程中的重要蛋白，可以控制肿瘤转移，达到治疗目的。
+      
+     
+     
+      
+     
+     
+      
+       近年来，刘明耀教授课题组建立了针对多个分子靶点的肿瘤药物筛选模型，开展规模性小分子化合物、临床药物及药物组合筛选。
+      
+     
+     
+      
+       
+      
+     
+     
+      
+       本研究首先筛选自主合成的500多个小分子化合物，发现一类新的噻唑啉酮类小分子化合物具有明显的抗肿瘤细胞迁移和侵袭效果，系统的构效关系研究发现，
+       
+        其中一种新化合物WJ460可以在纳摩尔级水平上显著抑制乳腺癌细胞侵袭，并在体内抑制乳腺癌生长和转移，且显著延长患病动物生存期。
+       
+      
+     
+     
+      
+       
+      
+     
+     
+      
+       
+        作用机理上，WJ460特异性地直接靶向MYOF的关键结构域C2D起作用，本研究还探索了WJ460抗乳腺癌的相关分子机制，并初步探索了WJ460对其他肿瘤转移的抑制作用。
+       
+      
+      
+       相关成果已申请国家发明专利并获得2项授权，进一步转化研究也在进行中。
+      
+     
+     
+      
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+      
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       刘明耀教授、易正芳研究员和陈益华研究员为本论文共同通讯作者，张涛博士和李静婕博士为共同第一作者，
+       
+        本课题由华东师范大学、上海奉贤区中心医院、上海市第一人民医院合作完成，华东师范大学为第一作者单位。
+       
+       该研究得到国家自然科学基金、国家重大研究计划以及上海市教委和科委项目的资助。
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       图为化合物WJ460抑制乳腺癌肺转移
+      
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+      
+     
+     
+      
+       
+        通讯作者简介
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       刘明耀教授，1992年获美国马里兰大学细胞生物学博士学位，1993年至1998年先后在美国约翰∙霍普金斯大学医学院神经科学系和加州理工学院生物学部做博士后研究，1999年至2007年先后在美国德克萨斯农工大学生物科学与技术研究所任助理教授、副教授及终身正教授，2007年受聘回国加入华东师范大学，组建生命医学研究所并任所长，2008年入选国家首批“千人计划”，2011年12月起担任上海市调控生物学重点实验室主任、教育部创新团队带头人、国家重大科学研究计划（973项目）首席科学家，2012年起任华东师范大学生命科学学院院长，同年获得国家科学技术进步一等奖并入选上海市优秀学科带头人，2014年获得上海市白玉兰纪念奖，2017年起担任中国细胞生物学会肿瘤细胞分会会长。刘明耀教授课题组致力于基因编辑、细胞治疗与靶向新药研发领域。回国后作为首席科学家主持国家重大科学研究计划，主持国家自然科学基金重点项目和国家重大新药创制项目，已在Cell、Science、Nature、Nature Medicine、Nature Biotechnology、Nature Communications、PNAS等国际学术刊物上发表SCI论文200余篇，申请专利100余项，获得授权专利30余项。
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       易正芳研究员， 2007年加入刘明耀教授团队，主要从事新药和新型医疗器械研发工作。先后主持多项科技部973项目子课题和国家自然科学基金。以通讯作者身份在Nature Communications、Leukemia、Cancer  Research，NucleicAcids Res.等国际期刊上发表论文70余篇，任多家SCI期刊审稿人，申请国内和国际专利70余项，22项已获授权，并有10项成功转让。2012年获国家科技进步一等奖。
+      
+     
+     
+      
+      
+     
+     
+      
+       陈益华研究员， 2009年加入刘明耀教授团队，主要进行药物先导化合物的设计、合成与优化等方面的工作。近年来以通讯作者身份在Nature Communications、Journal of Medicinal Chemistry、Leukemia、 Journal of National Cancer Institute和European Journal of MedicinalChemistry等国际知名期刊上发表论文30余篇，同时担任国内外多种SCI期刊的审稿人。作为负责人主持国家自然科学基金和上海市科委“生物医药支撑项目”，作为学术骨干参与国家重大研发计划和新药创制等。申请国家发明专利二十余项，授权十余项，其中五项已成功转让。获第十八届中国药学会-施维雅青年药物化学奖。
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       来源 | 生命科学学院
+      
+     
+     
+      
+       编辑 | zqsg
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+       
+      
+     
+    
+   
+  
+ 
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesb9AK2KKOicW4c9DxERpZjQmjvcfdBIkib10gzGHJN8z35DpicK7nNuZkJiaZUhQP23nAlxKZSwdhRRIQ/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesb9AK2KKOicW4c9DxERpZjQmmYoR8sRxIbvJJric5tGvj2T3pibLeh3jqnlLwAhPaRVtTErgo937pI7g/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesb9AK2KKOicW4c9DxERpZjQmEHGnlqk7WbA3I0Wvsr38KeviawpSFdfUMpxO4h5J1K2tIck36sU0LFA/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesb9AK2KKOicW4c9DxERpZjQmzSqk8cKF7iaUxSARYf2toyXqbkYqAChePDv5icHfrQJomxdlvicqHzN0w/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesb9AK2KKOicW4c9DxERpZjQmatbwFWoib5M6YR86Qmm4OmFx5aI0wfew7DDjLIUDFiasibw26oxztxEtQ/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesb9AK2KKOicW4c9DxERpZjQm52jibzhUymmHuzhnFRgUsodbsIGZwBvdHxmgmwiaJBOmKALH3HeaxsOw/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesb9AK2KKOicW4c9DxERpZjQmQia6cyXjOABB7x512QHCiafrnVWgUvxofw0MfkLuCblQZj7vnblpQAtA/640?wx_fmt=jpeg
+
+标题： 新刊速递 | 华东师范大学学报（自然科学版）2018年第四期目录
+
+网址: http://mp.weixin.qq.com/s?timestamp=1541270395&src=3&ver=1&signature=-FwpRla5Qz-ZXB8aCcqLNPL2SOVZAXDliw17bDfrDMpqETL0gzhemPScZNKJA*siVOCi2SxfDz9v8W79yGTqfrjgRA2cwDdAP5sBlX0QM1l8w3*ypcXBb9LLml2Kkpg6fJEhda1JgSbqlETctdoCsh6Y6wbpIE8ajevsb9dHqEg=
+
+封面图片网址: http://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesaA34hyQQQxu5eGbtOviaeiabbL5Co3icplLpkbeXn9HbuyyaocwWrbU8p8cwD0b9Vh27MQ9aYMZ9MeA/0?wx_fmt=jpeg
+
+发表时间: 2018年7月23日9时
+
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+       
+       
+        
+         
+          
+           
+            
+           
+          
+         
+        
+       
+       
+       
+      
+     
+    
+    
+     
+      
+       
+       
+       
+       
+       
+        
+         
+          
+           
+            
+             
+              华东师范大学学报
+              
+             
+            
+            
+             
+              自然科学版
+              
+             
+            
+            
+             
+              2018年第四期
+             
+            
+            
+             
+              目录
+             
+            
+           
+          
+         
+        
+       
+       
+        
+        
+        
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+        
+        
+         
+          
+           数学
+          
+         
+        
+        
+        
+       
+      
+     
+     
+      
+       
+        
+         
+          
+           
+            
+             
+              
+               
+                
+               
+              
+              
+               
+                1 / 杨高翔, 赵临龙
+               
+              
+              
+               
+                
+                 耦合时空时滞的单种群模型行波解的存在性
+                
+               
+              
+              
+               
+                9 / 张道祥, 孙光讯, 胡伟, 凯歌
+               
+              
+              
+               
+                
+                 具有非线性收获效应的捕食者-食饵系统的空间Turing斑图
+                
+               
+              
+              
+               
+                23 / 杨月英, 马萍
+               
+              
+              
+               
+                
+                 关于,Neuman-Sándor,平均的两个最佳不等式
+                
+               
+              
+              
+               
+                32 / 雍进军, 陈果良, 徐伟孺
+               
+              
+              
+               
+                
+                 线性矩阵方程的斜,Hermit{P,k+1},Hamilton解
+                
+               
+              
+              
+               
+                47 / 陈海珍, 周圣武, 孙祥艳
+               
+              
+              
+               
+                
+                 混合分数布朗运动下的回望期权定价
+                
+               
+              
+              
+               
+              
+             
+            
+           
+          
+         
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+        
+        
+         
+          
+           计算机科学
+          
+         
+        
+        
+        
+       
+      
+     
+     
+      
+       
+        
+         
+          
+           
+            
+             
+              
+               
+              
+              
+               
+                59 / 廖春和, 华嘉逊, 田秀霞, 秦波, 金澈清
+               
+              
+              
+               
+                
+                 一种实时轨迹隐私保护策略
+                
+               
+              
+              
+               
+                70 / 艾丽斯, 唐卫红, 傅云斌, 董启民, 郑建兵, 高明
+               
+              
+              
+               
+                
+                 抽取式自动文本生成算法
+                
+               
+              
+              
+               
+                80 / 杨青, 王海洋, 卞梦阳, 张敬伟, 林煜明, 张会兵, 张海涛
+               
+              
+              
+               
+                
+                 融合贝叶斯推理与随机游走的好友推荐
+                
+               
+              
+              
+               
+                90 / 王彦朝, 胡卉芪, 张召, 刘小兵, 段惠超
+               
+              
+              
+               
+                
+                 数据存储与处理分离架构下的子链接消除及优化
+                
+               
+              
+              
+               
+                99 / 朱淑鑫, 李悦, 袁培森, 徐焕良, 王康, 谢忠红
+               
+              
+              
+               
+                
+                 基于Hadoop/Hive的乳制品溯源数据计算及性能优化
+                
+               
+              
+              
+               
+                109 / 王涛
+               
+              
+              
+               
+                
+                 量子化学中的高性能计算
+                
+               
+              
+              
+               
+                120 / 张巍, 郑骏, 逄娇娜, 白玥
+               
+              
+              
+               
+                
+                 基于自相似矩阵的协同过滤推荐算法
+                
+               
+              
+              
+               
+              
+             
+            
+           
+          
+         
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+        
+        
+         
+          
+           物理学与电子学
+          
+         
+        
+        
+        
+       
+      
+     
+     
+      
+       
+        
+         
+          
+           
+            
+             
+              
+               
+              
+              
+               
+                129 / 楼智美, 王元斌, 王鹏
+               
+              
+              
+               
+                
+                 一类典型二阶非线性微分方程的近似解析解研究
+                
+               
+              
+              
+               
+                
+                 
+                
+               
+              
+             
+            
+           
+          
+         
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+        
+        
+         
+          
+           生命科学
+          
+         
+        
+        
+        
+       
+      
+     
+     
+      
+       
+        
+         
+          
+           
+            
+             
+              
+               
+                
+               
+              
+              
+               
+                138 / 师雪芹, 唐霞, 韦玉梅, 王健
+               
+              
+              
+               
+                
+                 安徽省细鳞苔科植物物种多样性调查与研究
+                
+               
+              
+              
+               
+                
+                 
+                
+               
+              
+             
+            
+           
+          
+         
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+        
+        
+         
+          
+           生态与环境科学
+          
+         
+        
+        
+        
+       
+      
+     
+     
+      
+       
+        
+         
+          
+           
+            
+             
+              
+               
+              
+              
+               
+                147 / 李国志
+               
+              
+              
+               
+                
+                 浙江省生态足迹时空差异及因素分解研究
+                
+               
+              
+              
+               
+                
+                 
+                
+               
+              
+             
+            
+           
+          
+         
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+        
+        
+         
+          
+           河口海岸学
+          
+         
+        
+        
+        
+       
+      
+     
+     
+      
+       
+        
+         
+          
+           
+            
+             
+              
+               
+              
+              
+               
+                159 / 于亚文, 戴志军, 梅雪菲, 王杰, 魏稳
+               
+              
+              
+               
+                
+                 近60年来洞庭湖出湖泥沙动态变化与影响机制
+                
+               
+              
+              
+               
+                171 / 朱平, 吴辉
+               
+              
+              
+               
+                
+                 夏季长江口与苏北海域之间的水体运动及其对动力因子的响应
+                
+               
+              
+              
+               
+                184 / 白玫, 吴辉
+               
+              
+              
+               
+                
+                 利用SOM神经网络研究长江口邻近海域海表温度特征
+                
+               
+              
+              
+               
+              
+              
+               
+              
+             
+            
+           
+          
+         
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+      点击「
+      
+       
+        阅读原文
+       
+      
+      」访问
+      
+       
+        
+         华东师范大学学报自然科学版官网
+        
+       
+      
+     
+    
+   
+  
+ 
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesaA34hyQQQxu5eGbtOviaeiab27DEQwC7HZb8nWYtsw6ic8TmouaCf7VRiawOjibbtibichL7la67sIKxT7w/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesaA34hyQQQxu5eGbtOviaeiabYyatrEKkwIgcsgXEHianl2wGygDx8ZeH74oVBY9v8YGummpqpGxlicNA/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesaA34hyQQQxu5eGbtOviaeiab6xDbUISnE5iaStSe26Wia0Zld4FyuJ9OenMab9NKQWqgro16OQhAd5rw/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesaA34hyQQQxu5eGbtOviaeiabtragLWfibE3m7iazWv3X7kphvE6epENQ8C2YaQBE9At40kOFgUiaqat8Q/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesaA34hyQQQxu5eGbtOviaeiabTibkP8XsicQibfq1gSAWicA4fic9fibBwngjXHKzWKpI3Hm6MDJF7ZPibiagmg/640?wx_fmt=jpeg
+
+标题： 新刊速递 | 华东师范大学学报（自然科学版）2018年第三期目录
+
+网址: http://mp.weixin.qq.com/s?timestamp=1541270395&src=3&ver=1&signature=-FwpRla5Qz-ZXB8aCcqLNPL2SOVZAXDliw17bDfrDMpqETL0gzhemPScZNKJA*siVOCi2SxfDz9v8W79yGTqfnmcOgYw2nv-WgWpbXJD4bhtuBz6kjhdFT8Z5BtGfOiZfOL2USh3GLMk4Er4q566kQcIfmlPQA8qlHnnX2uv6Sw=
+
+封面图片网址: http://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesa2VIOHFUDBQthS1lpGxd84KsspiaTCn0CFjjgNvn1q1PSCQYflRiahZAnGYbpsGds6mnoxar9TLic9w/0?wx_fmt=jpeg
+
+发表时间: 2018年5月25日15时
+
+  
+   
+    
+     
+    
+   
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+       
+       
+        
+         
+          
+           
+            
+           
+          
+         
+        
+       
+       
+       
+      
+     
+    
+    
+     
+      
+       
+       
+       
+       
+       
+        
+         
+          
+           
+            
+             
+              华东师范大学学报
+              
+             
+            
+            
+             
+              自然科学版
+              
+             
+            
+            
+             
+              2018年第三期
+             
+            
+            
+             
+              目录
+             
+            
+           
+          
+         
+        
+       
+       
+        
+        
+        
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+        
+        
+         
+          
+           
+            数学
+           
+          
+         
+        
+        
+        
+       
+      
+     
+     
+      
+       
+        
+         
+          
+           
+            
+             
+              
+               
+              
+              
+               
+                关于克罗内克二重和与非全纯艾森斯坦级数的一个注记(英)
+               
+              
+              
+               沈力健（1）
+               
+              
+              
+               
+                sl(n+1)的次正则幂零表示的同态空间(英)
+               
+              
+              
+               宜阳，舒斌，叶刚（18）
+              
+              
+               最高权
+               
+               模的
+               
+               分解(英)
+              
+             
+            
+           
+           
+            
+             
+              
+               柴维君, 夏利猛（25）
+              
+              
+               
+                三参数射影平坦芬斯勒度量的构造
+               
+              
+              
+               刘金梦, 宋卫东（30）
+              
+              
+               
+                欧氏空间中超曲面的L2调和2-形式
+               
+              
+              
+               张全锐，刘建成（38）
+              
+              
+               
+               
+              
+              
+               
+               
+                凸函数及其Jensen型不等式
+               
+              
+              
+               宋振云, 胡付高（46）
+              
+              
+               
+              
+             
+            
+           
+          
+         
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+        
+        
+         
+          
+           
+            计算机科学
+           
+          
+         
+        
+        
+        
+       
+      
+     
+     
+      
+       
+        
+         
+          
+           
+            
+             
+              
+               
+              
+              
+               
+                面向企业知识图谱构建的中文实体关系抽取
+               
+              
+              
+               孙晨，付英男，程文亮，钱卫宁(55)
+              
+              
+               
+                面向食品溯源数据服务的多QoS约束服务选择优化算法研究
+               
+              
+              
+               袁培森, 黎薇，任守纲，徐焕良(67)
+              
+              
+               
+                基于特征工程的视频点击率预测算法
+               
+              
+              
+               
+                匡俊，唐卫红，陈雷慧，陈辉，曾炜，董启民，高明（77）
+               
+              
+              
+               
+                基于分布式数据库Cedar的高效工单管理系统设计与实现
+               
+              
+              
+               潘宇晨，李宇明，张春熙，张蓉，洪道诚(88)
+              
+              
+               
+                近似边界精度信息熵的属性约简
+               
+              
+              
+               梁宝华, 吴其林(97)
+              
+              
+               
+                研究生信息平台中权限管理的设计与实现
+               
+              
+              
+               顾航，夏帆，宋树彬，肖李敏，董启文，徐林昊，周傲英(109)
+              
+              
+               
+              
+             
+            
+           
+          
+         
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+        
+        
+         
+          
+           
+            物理学与电子学
+           
+          
+         
+        
+        
+        
+       
+      
+     
+     
+      
+       
+        
+         
+          
+           
+            
+             
+              
+               
+              
+              
+               
+                强子结构的协变手征有效理论分析
+               
+              
+              
+               温莉宏, 杨继锋(121)
+              
+              
+               
+                磁偶极作用对铁基纳米晶条带LDGMI效应的影响
+               
+              
+              
+               苏亚攀, 潘海林, 赵振杰，袁萌平(129)
+              
+              
+               
+              
+             
+            
+           
+          
+         
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+        
+        
+         
+          
+           
+            地理学
+           
+          
+         
+        
+        
+        
+       
+      
+     
+     
+      
+       
+        
+         
+          
+           
+            
+             
+              
+               
+              
+              
+               
+                多尺度探查偷车案件的犯罪时空热点
+               
+              
+              
+               任浙豪，张昊天，刘苇航，过仲阳（136）
+              
+              
+               
+                高光谱红外探测仪温湿度廓线在华东地区的真实性检验
+               
+              
+              
+               顾雅茹，刘延安，刘朝顺，李正龙（146）
+              
+              
+               
+                上海市养老机构空间分布研究
+               
+              
+              
+               陈洁, 姚申君, 吴健平, 黄乐乐, 任浙豪（157）
+              
+              
+               
+              
+             
+            
+           
+          
+         
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+        
+        
+         
+          
+          
+          
+           
+            河口海岸学
+           
+          
+         
+        
+        
+        
+       
+      
+     
+     
+      
+       
+        
+         
+          
+           
+            
+             
+              
+               
+              
+              
+               
+                长江河口南北槽分流口工程及瑞丰沙地形变化对分流比的影响
+               
+              
+              
+               道付海，栾华龙，杨万伦，丁平兴，葛建忠（170）
+              
+              
+               
+              
+             
+            
+           
+          
+         
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+        
+        
+         
+          
+           
+            生命科学
+           
+          
+         
+        
+        
+        
+       
+      
+     
+     
+      
+       
+        
+         
+          
+           
+            
+             
+              
+               
+              
+              
+               
+                白眶鹟莺等12种上海市鸟类新记录
+               
+              
+              
+               施宏亮，施剑勇，袁晓，薄顺奇（184）
+              
+              
+               
+                新疆泥炭藓科新资料
+               
+              
+              
+               刘艳，维尼拉·伊利哈尔，古丽尼尕尔·艾依斯热洪，买买提明·苏来曼（190）
+              
+              
+               
+                靶向吲哚胺2,3-双加氧酶（IDO）的肿瘤免疫治疗小分子抑制剂研发进展
+               
+              
+              
+               陈瑞，方艳芬，章雄文（196）
+              
+              
+               
+              
+             
+            
+           
+          
+         
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+        
+        
+         
+          
+           
+            生态与环境科学
+           
+          
+         
+        
+        
+        
+       
+      
+     
+     
+      
+       
+        
+         
+          
+           
+            
+             
+              
+               
+              
+              
+               
+                环境介质中有机污染物浓度时间变化滞后现象及其影响因素初探
+               
+              
+              
+               莫俊超，何源， 刘刚（212）
+              
+              
+               
+                胶州湾海岸带生态脆弱性时空变化分析
+               
+              
+              
+               庞立华，孔范龙，郗敏，李悦（222）
+              
+              
+               
+              
+             
+            
+           
+          
+         
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+      点击「
+      
+       
+        阅读原文
+       
+      
+      」访问
+      
+       
+        
+         华东师范大学学报自然科学版官网
+        
+       
+      
+     
+    
+   
+  
+ 
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesa2VIOHFUDBQthS1lpGxd84aDyibicxqDDTqHCnk9g6ibc07bTXKZBscLhdbiaqJVBmazV0MDcic9Fu1tw/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesa2VIOHFUDBQthS1lpGxd84Jrwzgv1Us2boLn8K1WQSPLaPJVnKHS3gyfhs7QSs51sg2gUcribpDXw/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesa2VIOHFUDBQthS1lpGxd84gZ91WCfxoySyjtGiayFTgdGpf79kcZNlaxib1Khp1o3EDJibNUpo1eXrA/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesa2VIOHFUDBQthS1lpGxd84RWKnBicMFhaaHPQwDvlOHPKvwvA6EOkUzS6Vd19HAjONhb9gA1c1N5A/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesa2VIOHFUDBQthS1lpGxd84BMYjkS2M8rhXj4iaRexQauqnicp3ZIglLeDichx5mHaZ92Yae5SFEkwPw/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesa2VIOHFUDBQthS1lpGxd84bhnn18DADC7wo8L2pLh8l6ibiaKHftskY46nFtokaVADhayUFoQRYBGA/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesa2VIOHFUDBQthS1lpGxd84g09SgHPCcGTrswsvMAdavmBomLN9NenWDkz7oxceULP40qBDknF5fg/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesa2VIOHFUDBQthS1lpGxd845J1xqdtqkS2eD6WwAIcc6HRrpZfZl6jrzyN1JSCHp0Ru21K4m5V8MA/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesa2VIOHFUDBQthS1lpGxd84LmiaDFvITTylD8aXPnLhtyvZylMTgPfK3hsMaL9eOtbJgBBtic1eKyOg/640?wx_fmt=jpeg
+
+标题： 华东师大武海斌团队《科学》子刊发文挑战经典热机
+
+网址: http://mp.weixin.qq.com/s?timestamp=1541270395&src=3&ver=1&signature=-FwpRla5Qz-ZXB8aCcqLNPL2SOVZAXDliw17bDfrDMpqETL0gzhemPScZNKJA*siVOCi2SxfDz9v8W79yGTqfjn4zH35w9ZjZTno3jWA*qtL8WxlHtEZKXPRAyBJ8ny5b0M7Q-wngoj115kM2wmwYSroqI9Cg8Tlw2ue*tVv*SY=
+
+封面图片网址: http://mmbiz.qpic.cn/mmbiz_jpg/bAZ0XOxmB0pvWLxhDYPHoEfib2bE08ARSXqjkA8NehDmkiaicUibJI0pfSaBYArO8E18bS3WiayCpAMBqia0OVeDy9fA/0?wx_fmt=jpeg
+
+发表时间: 2018年4月29日15时
+
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+   
+    
+     北京时间今日凌晨
+    
+    
+     ，
+    
+    
+     国际著名学术期刊
+    
+    
+     《
+    
+    
+     科学进展
+    
+    
+     》Science Advances
+    
+    
+     发表了
+    
+   
+   
+    
+     华东师大精密光谱科学与技术国家重点实验室武海斌课题组
+    
+   
+   
+    
+     的研究成果
+    
+    
+     ——
+    
+   
+   
+    
+     “Superadiabatic quantum friction suppression in finite-time thermodynamics”
+    
+   
+   
+    
+     。
+    
+   
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+   精密光谱科学与技术国家重点实验室武海斌
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+   
+    
+     该工作由华东师范大学武海斌课题组和美国麻省理工学院和美国麻省大学波士顿校区教授合作完成
+    
+    
+     ，
+    
+    
+     华东师范大学为第一完成单位
+    
+    
+     ，
+    
+    
+     精密光谱实验室紫江青年学者邓书金为论文第一作者
+    
+    
+     ，
+    
+    
+     武海斌教授是论文通讯作者
+    
+    
+     。
+    
+   
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+   
+    
+     该研究通过精密操控强相互作用超冷费米气体实现了强关联多体系统的零摩擦做功
+    
+    
+     ，
+    
+    
+     利用量子绝热捷径操控极大地提高了量子热机在绝热冲程时的输出功率和输出效率
+    
+    
+     ，
+    
+    
+     为实现
+    
+   
+   
+    
+     多体量子热机
+    
+   
+   
+    
+     提供新方法和思路
+    
+    
+     。
+    
+   
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+   经典热机和量子热机的四冲程工作示意图
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+   
+    
+     发动机是现代工业的心脏
+    
+    
+     ，
+    
+    
+     与人们的生产生活息息相关
+    
+    
+     。
+    
+    
+     传统意义上的发动机是一种将其他形式的能量转化成机械能对外做功从而驱动某些器械的机器
+    
+    
+     ，
+    
+    
+     如内燃机
+    
+    
+     （
+    
+    
+     汽油发动机等
+    
+    
+     ）、
+    
+    
+     外燃机
+    
+    
+     （
+    
+    
+     斯特林发动机
+    
+    
+     、
+    
+    
+     蒸汽机等
+    
+    
+     ）、
+    
+    
+     电动机等
+    
+    
+     。
+    
+   
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+   
+    
+     但传统的发动机在效率和功率两者之间寻找平衡
+    
+    
+     ：
+    
+    
+     提高其中一个参数时
+    
+    
+     ，
+    
+    
+     另一个参数值必然要下降
+    
+    
+     ，
+    
+    
+     这主要是由于发动机在对外做功时所产生的摩擦耗散等所引起的
+    
+    
+     。
+    
+    
+     膨胀或者压缩过快使发动机工作介质不仅无法提高输出功率
+    
+    
+     ，
+    
+    
+     反而会产生极大的摩擦耗散进而降低输出效率
+    
+    
+     ，
+    
+    
+     严重影响其输出功率
+    
+    
+     ，
+    
+   
+   
+    
+     导致经典发动机的热机效率往往低于其理论极限
+    
+    
+     。
+    
+   
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+  
+   量子热机绝热冲程的量子摩擦和对外做功
+  
+ 
+ 
+  
+  
+  
+   A图表征绝热冲程的量子摩擦，局域透热驱动量子绝热捷径过程（红色曲线和蓝色数据）能够回归至1表征系统量子摩擦被大幅度抑制，实现了零摩擦做功。B图表征系统对外做功，采用局域透热驱动的量子绝热捷径过程红色曲线系统对外做功增加42.3%，实现了最大功率输出。
+  
+  
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+   量子热机可突破当前热机输出功率和效率互相限制的难题，在相同能量输入条件下可输出更多的能量，并且速率更快。但量子绝热过程中不可避免产生的量子摩擦，制约着量子热机的效率和输出功率，且量子绝热过程所花费时间越短，量子摩擦越大。
+  
+ 
+ 
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+   有别于经典热机的是，量子热机使用量子系统作为工作物质，其摩擦损耗可以通过量子绝热操控来得到有效抑制，甚至在一定条件下利用相干特性可以突破经典热机极限，制成高效率高输出功率的量子热机。
+  
+ 
+ 
+  
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+   论文第一作者邓书金博士（右）和武海斌教授
+  
+ 
+ 
+  
+   
+    
+   
+  
+ 
+ 
+  
+   武海斌教授课题组利用强关联费米多体系统实现了量子绝热冲程的零摩擦做功，有效提高了输出效率和输出功率。在强关联量子多体系统中，每个原子都可以视为一个单独的量子热机，多体的强关联系统使量子热机在工作时相互协作、共同对外做功。
+  
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+   “这项研究所运用的透热驱动的量子绝热捷径方案，是一种无耗散的量子绝热驱动方案，很大程度上缩短整个量子绝热冲程所花费的时间，而且不会产生量子摩擦，实现高功率输出。”武海斌说。
+  
+ 
+ 
+  
+  
+  
+ 
+ 
+  
+   
+    
+     这项工作得到了科技部量子调控重点专项
+    
+    
+     、
+    
+    
+     国家自然科学基金重点项目以
+     
+      
+       及上海市重大基础研究项目的资助
+      
+      
+       。
+      
+     
+    
+   
+  
+ 
+ 
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+   近年来，武海斌课题组在量子热力学和动力学研究中开展了一系列研究，实验研究了强相互作用超冷费米气体普适的Efimovian膨胀动力学[Science 353, 371(2016)]以及超级Efimovian膨胀动力学[Phys. Rev. Lett. 120, 125301 (2018)]；并且首次在强相互作用超冷费米气体中实现了有限时间内的量子绝热捷径[Phys. Rev. A 97, 013628 (2018)]，在强相互作用超冷量子气体的量子热力学操控中积累了丰富的研究经验。
+  
+ 
+ 
+  
+ 
+ 
+  
+   文、来源 | 精密光谱科学与技术国家重点实验室
+  
+ 
+ 
+  
+   摄影 | 吕安琪
+  
+ 
+ 
+  
+   编辑 | 吴冬妮
+  
+  
+   
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+   
+    阅读更多
+   
+  
+ 
+ 
+  
+   
+    重磅！Science发表华东师大武海斌课题组最新成果
+   
+  
+  
+   
+  
+ 
+ 
+  
+   
+    个头高，看得准？Science官网发布华东师大联合研究成果
+   
+  
+  
+ 
+ 
+  
+   华东师大胡文浩团队Science子刊发布多组分反应研究重要进展
+  
+ 
+ 
+  
+  
+  
+  
+ 
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/bAZ0XOxmB0qucoMLL0xFaY5trDsQSGedK8YaQaPhcfFmvSrMXjyEiaEFNbW8axohlsfMg2LDMOzdhjZ36ibqbRaQ/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/bAZ0XOxmB0pvWLxhDYPHoEfib2bE08ARSATBiaAkp86MFaBbQV7BVBeBd86kkGaCzibxzesWels0HBgYcBAvKDbSQ/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/bAZ0XOxmB0pvWLxhDYPHoEfib2bE08ARSicuxU1zUic2NibXL0iakibSrp2bzicQxic5hKT2TrxOHdnt8LDX6YqSvlXnNw/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/bAZ0XOxmB0pvWLxhDYPHoEfib2bE08ARS6mGHoa2ic0fln7E8vRT7kYJQtEe7jVSwPTR9Ia3Zcia20GhglB7QIzcg/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/bAZ0XOxmB0p4Q67TngNTwD6O6ATN9JcpY1V0gyPq2eSGI7ayTibe9ft9hmD77Myy3Xgf0FGyGFdiaKrsqn0jtBHg/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/bAZ0XOxmB0pvWLxhDYPHoEfib2bE08ARS2WOleX4LXmOauI0Jqjzjqv8uPsfwEIEp6AnklUYx0DVnp1ib3kQia8rg/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/bAZ0XOxmB0qucoMLL0xFaY5trDsQSGed6IcFsXwGibuIIdyX7O5PxD2gECTNlBATbib9l3diajguGFbe65ZWrZobw/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/bAZ0XOxmB0p4Q67TngNTwD6O6ATN9JcpWiaZv4szH7gdWwWNSaxvugqmVhBfSALicSgpDsAS8aXMo13qNEFagRBw/640?wx_fmt=png
+
+标题： 《华东师范大学学报（自然科学版）》 新型互联网应用中的数据管理技术专刊 征文通知
+
+网址: http://mp.weixin.qq.com/s?timestamp=1541270395&src=3&ver=1&signature=-FwpRla5Qz-ZXB8aCcqLNPL2SOVZAXDliw17bDfrDMpqETL0gzhemPScZNKJA*siVOCi2SxfDz9v8W79yGTqfugFEuR*Y2fMmCWcG3HrqICB1ggjqMhSdXTbTwy40Pd1OK0LBYm3nt8owjOoK2OO1vcFo7GITU*xVErz4fLOlKQ=
+
+封面图片网址: http://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesZAso4uiaKmusz0iaXMn2VSHjVvviaXw4pCxAwiaNZ8xa9VzKYH1PBG6oicAn73SEFKc8JZmW3KwHEJlmA/0?wx_fmt=jpeg
+
+发表时间: 2018年4月25日9时
+
+  
+   
+    
+     
+      
+       
+        《华东师范大学学报（自然科学版）》
+       
+      
+     
+    
+    
+     
+      
+       
+        新型互联网应用中的数据管理技术专刊
+       
+      
+     
+    
+    
+     
+      
+       
+        
+         2018
+        
+       
+       
+        
+         征文通知
+        
+       
+      
+      
+      
+     
+    
+    
+     
+      
+       
+      
+      
+      
+      
+      
+      
+       
+        
+         互联网的飞速发展正在深刻影响着社会和经济的方方面面。从搜索引擎到电子商务，从在线广告到即时消息，从数字娱乐到在线教育，从移动支付到分享经济，互联网应用已经改变了我们的娱乐、社交、购物、物流、出行、支付等方式，并对金融、电信、制造、能源、零售等行业的变革产生深远影响。数据是行业变革的动力来源。传感器和终端技术的发展使得数据收集更为便捷；通信网络技术的进步使得数据传输更加廉价、快速；新兴存储介质和设备的出现不仅降低了数据存储成本，还极大提升了数据访问性能。上述技术进步使得数据资源被快速累积起来。海量数据资源的管理、分析和应用是企业和机构提升核心竞争力和服务水平、政府提高治理水平的关键之处。在教育、金融、电信、政府治理等领域，亟需高可用、高可靠、高性能的数据管理技术和系统功能来管理海量、多源、异构、分布数据。
+        
+       
+      
+      
+       
+        
+         《华东师范大学学报（自然科学版）》将于2018年推出“新型互联网应用中的数据管理技术”专刊，总结国内外相关领域取得的研究成果，展望进一步的发展方向，探讨新型互联网应用中的数据管理问题、研究进展和技术发展趋势。
+        
+       
+      
+      
+       
+      
+      
+       
+      
+      
+       
+      
+      
+       
+        
+         
+          
+         
+         
+         
+         
+          
+          
+          
+           专刊题目
+          
+         
+        
+       
+      
+      
+       
+      
+      
+       
+        
+         
+         
+         
+          
+         
+        
+        
+         
+          
+           
+            
+             新型互联网应用中的数据管理技术
+            
+           
+          
+         
+        
+        
+        
+        
+        
+       
+      
+      
+       
+      
+      
+       
+      
+      
+       
+      
+      
+       
+      
+      
+       
+        
+         
+          
+           
+          
+          
+          
+          
+           
+           
+           
+            特约编辑
+           
+          
+         
+        
+       
+      
+     
+     
+      
+     
+     
+      
+       
+        
+         
+          
+         
+        
+       
+      
+     
+     
+      
+       
+        
+         周
+        
+       
+       
+        
+         傲英
+         
+         
+        
+        
+         
+          （华东师范大学）
+         
+        
+       
+      
+     
+     
+      
+     
+     
+      
+     
+     
+      
+       
+        
+         
+          
+         
+        
+       
+      
+     
+     
+      
+       
+        
+         杜小勇（中国人民大学）
+        
+       
+      
+     
+     
+      
+     
+     
+      
+       
+        
+         
+          
+         
+        
+       
+      
+     
+     
+      
+       
+        
+         于戈（东北大学）
+        
+       
+      
+     
+     
+      
+     
+     
+      
+     
+     
+      
+       
+        
+         
+          
+         
+         
+         
+         
+          
+          
+          
+           论文范围
+          
+          
+          
+         
+        
+       
+      
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            本专刊关注在教育、金融、电信、政府治理等领域中应用和服务互联网化所带来的数据采集、存储、索引、查询、事务处理、分析挖掘等新问题。专刊拟收录如下研究方向的论文：
+           
+          
+         
+         
+          
+         
+         
+          
+           
+            1. 在线与移动教育平台数据管理系统设计与实现；
+           
+          
+         
+         
+          
+         
+         
+          
+           
+            2. 教育大数据采集、管理、分析及其应用；
+           
+          
+         
+         
+          
+         
+         
+          
+           
+            3. 支持分享经济的数据管理方法、技术与系统；
+           
+          
+         
+         
+          
+         
+         
+          
+           
+            4. 区块链与分享型数据库系统；
+           
+          
+         
+         
+          
+         
+         
+          
+           
+            5. 支持新型金融应用的数据管理技术与系统；
+           
+          
+         
+         
+          
+         
+         
+          
+           
+            6. 面向异构体系结构的数据管理系统；
+           
+          
+         
+         
+          
+         
+         
+          
+           
+            7. 高性能分布式数据处理技术与系统；
+           
+          
+         
+         
+          
+         
+         
+          
+           
+            8. 面向领域的大数据管理系统基准评测。
+           
+          
+         
+         
+          
+         
+         
+          
+           
+            征文范围不仅限于上述内容，所有与新型互联网应用中的数据管理相关的内容均可投稿。
+           
+          
+         
+        
+       
+      
+      
+       
+      
+      
+       
+      
+      
+       
+        
+         
+          
+         
+         
+         
+         
+          
+          
+          
+           投稿要求
+           
+          
+          
+          
+         
+        
+       
+      
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            1. 投稿方式：
+           
+          
+         
+         
+          
+           
+            钱卫宁（wnqian@dase.ecnu.edu.cn）；
+           
+          
+         
+         
+          
+           金澈清（cqjin@dase.ecnu.edu.cn）。
+          
+         
+         
+          
+           
+            
+             注意事项
+            
+           
+           
+            ：请在投稿时，在邮件主题里写明“
+            
+             新型互联网应用中的数据管理技术专刊
+            
+            ”字样。
+           
+          
+         
+         
+          
+         
+         
+          
+           
+            2. 稿件格式：参照《华东师范大学学报（自然科学版）》论文格式 (学报网站上提供了论文模版http://202.101.26.143/journalx_zkb/basicinfo/viewHtmlFile.action?magId=1&id=23，可下载)。
+           
+          
+         
+         
+          
+         
+         
+          
+           
+            3. 投稿文章未在正式出版物上发表过，也不在其他刊物或会议的审稿过程中，不存在一稿多投现象；保证投稿文章的合法性(无抄袭、剽窃、侵权等不良行为)。
+           
+          
+         
+         
+          
+         
+         
+          
+           
+            4. 其他投稿须知请参阅《华东师范大学学报》投稿须知http://202.101.26.143/journalx_zkb/basicinfo/viewHtmlFile.action?magId=1&id=8。
+           
+          
+         
+         
+          
+         
+         
+          
+           
+            5. 专刊投稿文章不收审理费和版面费；通过初审的投稿作者需提交投稿声明；发表之后，将赠送样刊。
+           
+          
+         
+        
+       
+      
+      
+       
+      
+      
+       
+      
+      
+       
+        
+         
+          
+         
+         
+         
+         
+          
+          
+          
+           重要时间
+          
+          
+          
+         
+        
+       
+      
+      
+       
+      
+      
+       
+        
+         
+          
+           
+            截稿日期：2018年5月27日
+           
+          
+         
+         
+          
+           
+            录用通知发出时间：2018年6月10日
+           
+          
+         
+         
+          
+           
+            录用修改稿提交日期：2018年6月24日
+           
+          
+         
+         
+          
+           
+            出版日期：2018年9月
+           
+          
+         
+        
+       
+      
+      
+       
+      
+      
+       
+      
+      
+       
+      
+      
+       
+        
+         
+          
+           
+          
+         
+         
+          
+           
+            
+             
+              
+               华东师范大学数据科学与工程学院
+              
+             
+            
+           
+          
+          
+           
+            
+            
+           
+          
+          
+           
+            
+           
+          
+         
+        
+       
+      
+      
+       
+      
+      
+       
+      
+     
+    
+   
+  
+  
+   
+  
+  
+   
+  
+  
+   
+  
+  
+   
+  
+  
+   
+  
+  
+   
+  
+  
+   
+  
+  
+   
+  
+  
+   
+    点击「
+   
+   
+    
+     阅读原文
+    
+   
+   
+    」访问
+   
+   
+    
+     
+      华东师范大学学报自然科学版官网
+     
+    
+   
+  
+ 
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88ZiclCTfjb8o6p1RdT4icEneFcYwNT1l28TXIEvflicA5A6IKDN0TPdFKROSWn2kSD24IY03RKDBa34Q/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ZiclCTfjb8o6p1RdT4icEneFrgnkcqA39gyBOHFHjMzhQ7dmQCs0MmQh1jlsojYK8OeDNmVJQxcSvw/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88ZiclCTfjb8o6p1RdT4icEneFce9icMeGFNSS6UQCx1R2ZyMktRcia9gk29DRpUX5LsZSstC6bXbtKwmw/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesYEJVjHjOZsK9DEMg1b3BzwzCajxufFglGibxaEqeK7SOn6XWoF8b4gydEQJlqS0e7ypicI6sfSq8IQ/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesYEJVjHjOZsK9DEMg1b3BzwTa0muGBK6mIngl84bgJWNTEzHlQsm3WA1uabicz495V2Gspd78oEePw/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ZiclCTfjb8o6p1RdT4icEneFax0TswKg6IC67BpSZdHZzAZHaOdqIDsXZ7q0cnicsPCWJm0y4dW0tFg/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ZiclCTfjb8o6p1RdT4icEneFGkQhDDx64icqhArOibxPNo51NfdqAjnOuAoNbQ7AXZUTU4GZvsIiczxibQ/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88ZiclCTfjb8o6p1RdT4icEneFAwIicnVo6icqPbquy485xKXQibqU2DfJsoCUsuj7XSBJpK7ibJhOwcXgwQ/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesYEJVjHjOZsK9DEMg1b3BzwS9b1EspEX6BgC4kok3TUaK5ybx3vymvCJAPEU3m8vTw9KG6ek8HWEw/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ZiclCTfjb8o6p1RdT4icEneFQ4WQHtTCl6x2bF7p0CzUGDWZItdZVbr0LBXvAnWRiaibBl7KI2Rt6Mjw/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ZiclCTfjb8o6p1RdT4icEneFN403VGeIKkDKlNLDCdoh8kCic8tI3xOmqqbEAwvprNS5pxXFJcWYUXg/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/pTlFPeRFesZAibTmFueKCpzyricBRuYTL9TOZc86SOpBibdiaPnJYcK7855ic2agSeefDssU5GBVlOVLkfvf3nErSQA/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88ZiclCTfjb8o6p1RdT4icEneFr7967QzdXg7BicfMWUia75F9ibmPFEeHvdOVAGOLKURtThLNibC7nR6ibmQ/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ZiclCTfjb8o6p1RdT4icEneFL1tGuTMkTlC7GRhxLcO2ICSvapmMHJib1DOsZqBWnGZFbOsuwXChicMw/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesYEJVjHjOZsK9DEMg1b3BzwHluPTcSXTOgPyFlDBqB731Re65Qo4wCsRaCz8RZD5lVNgIwhl1QsMQ/640?wx_fmt=jpeg
+
+标题： 华东师范大学程义云团队又一次在蛋白质胞内递送领域获重要进展
+
+网址: http://mp.weixin.qq.com/s?timestamp=1541270395&src=3&ver=1&signature=-FwpRla5Qz-ZXB8aCcqLNPL2SOVZAXDliw17bDfrDMpqETL0gzhemPScZNKJA*siVOCi2SxfDz9v8W79yGTqfgMxWQbajEIM66UFYykwSp0g*5BaDo9m1CWqLBut5VvZqoCle-evQL-clsMzeZVGJ3HUS17StzLdlYeCNIxHEh8=
+
+封面图片网址: http://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesaNAPnGNO15XwCbyC6DoudbXvaNClFDSgSPRe3jnRLzibm3e0b8SCXyS75pM04fS7wLqsJyhsqnfyg/0?wx_fmt=jpeg
+
+发表时间: 2018年4月16日8时
+
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+   华东师范大学程义云团队将
+   
+    含氟高分子成功应用于蛋白质胞内递送，在多种细胞中实现了高效的蛋白质递送
+   
+   。
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+   该成果近日发表于著名学术期刊Nature Communications（The fluorination
+ effect of fluoroamphiphiles in cytosolic protein delivery, Nat. 
+Commun., 2018, 9, 1377）。
+  
+  
+   这种递送方法的优点在于不需要对蛋白质进行任何的化学修饰，递送过程中不会造成蛋白质分子的变性，且递送后能够很好地维持这些蛋白质分子的生物活性。
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+   生命科学学院程义云教授
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+   蛋白质治疗是当今生物医学领域的研究热点。相比于传统的小分子药物，蛋白质药物具有靶向性强、安全性好、疗效显著、FDA审批快等优势。
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+   然而基因组编码的蛋白质中超过70%难以通过细胞膜，这为蛋白质类药物的开发以及新蛋白质的功能研究造成了巨大的障碍。
+   
+    如何将蛋白质分子高效、安全地递送到目标细胞对于蛋白质治疗以及基础生物学研究至关重要。
+   
+  
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+   程义云课题组在2014年报道了含氟高分子在基因递送过程中的氟效应（Nat.Commun., 2014, 5, 3053）。在阳离子高分子材料上修饰含氟功能基团不仅能极大地提高其基因转染效率，还能够显著降低高分子材料的剂量，提高其抗血清性能，同时解决了阳离子高分子基因载体的几个瓶颈问题。含氟烷基链既疏水又疏油，可同时提高阳离子高分子的血清稳定性、细胞摄入、内含体逃逸，以及胞内核酸释放能力，从而大幅提高了其基因递送性能。
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+  
+  
+   含氟高分子在蛋白质胞内递送过程中展现了优异的氟效应
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+   此外，含氟高分子在水溶液中易自组装成纳米胶束或纳米聚集体，同时兼具阳离子高分子和脂质体类载体的优点（Angew.Chem. Int. Ed., 2015, 54, 11647）。考虑到蛋白质胞内递送与基因递送的相似之处，研究人员推测可以利用含氟高分子优异的自组装性能以及其在胞外、胞内的独特理化性质，将蛋白质分子与含氟高分子共组装形成高分子复合物，进而打破蛋白质胞内递送过程中存在的多重屏障，实现高效的蛋白质递送。
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+   然而，该研究并没有想象中的那么顺利，之前适用于基因递送的含氟高分子在蛋白质胞内递送中效率极低。
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+   经分析，这是由于蛋白质分子与核酸之间的差异造成的：所有的核酸分子均带有负电荷，可以通过静电相互作用与含氟高分子形成复合物，进而克服胞外、胞内的各种屏障；而蛋白质分子的带电状态不明确，依赖于其自身的等电点以及溶液的酸碱度，因此在含氟高分子基因递送中获得的经验并不适用于蛋白质递送。
+  
+ 
+ 
+  
+  
+  
+ 
+ 
+  
+   为此，程义云课题组决定采用材料库的策略，重头筛选适用于蛋白质递送的含氟高分子材料，将不同的含氟小分子化合物接枝到聚乙烯亚胺上，得到了一个含氟高分子材料库，并对库中高分子材料的蛋白质递送性能进行筛选，成功获得了两种高性能含氟高分子材料，其蛋白质转染效率远超商业化转染试剂PulsinTM等。这些含氟高分子可以将包括牛血清白蛋白、β-半乳糖苷酶、皂角素，小肽等在内的多种蛋白质分子高效递送到不同的细胞中，且能够维持这些蛋白质或小肽的生物活性。
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+   更为可喜的是这些含氟高分子在递送蛋白质过程中展现了独特的氟效应。如果将含氟烷基链替换为传统的碳氢基烷基链，则所获得的两亲性高分子由于相似相容原理，容易滞留在细胞膜的表面，不能有效将蛋白质递送到胞内；而含氟烷基链既疏水又疏油、表面能低，更容易吸附到细胞膜的表面，并顺利通过细胞膜以及内涵体膜等生物屏障。
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+   研究发现，含氟高分子更有利于与蛋白质组装成均一的纳米颗粒，对蛋白质的二级结构影响较小，有利于通过细胞膜，且具有较好的生物相容性，因而具有优异的蛋白质递送性能。对于含氟高分子的递送效率而言，含氟烷基链的长度以及接枝率至关重要。长链以及高接枝率更有利于体现氟效应，但是过度的亲氟基团会造成含氟高分子体现自组装程囊泡等超分子结构，这种超分子结构中的富氟双层膜会阻止蛋白质分子的装载，从而造成蛋白质递送失败，这也是适用于基因递送的含氟高分子为什么不能有效递送蛋白质的主要原因。
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+   因此，在设计含氟高分子用于蛋白质胞内递送时，需要特别注意含氟烷基链的长度及接枝率。该研究为新型蛋白质载体的设计提供了一种全新的思路。通过该方法制备的材料在蛋白质转染等生物技术领域具有重要的应用前景。
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+   目前，该课题组已经着手就本项技术开发一种新型蛋白质转染试剂，有望近期将其实现产品化，填补目前蛋白质转染试剂市场的空白。
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+  
+  
+ 
+ 
+  
+   该论文的第一作者为华东师范大学生命科学学院硕士研究生张振京，通讯作者为程义云教授。华东师范大学为该论文的唯一单位。该研究得到了国家自然科学基金杰出青年基金、面上项目，上海市优秀学术带头人等项目的经费支持。
+  
+ 
+ 
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+   来源 | 生命科学学院
+  
+ 
+ 
+  
+   编辑 | 吴冬妮
+  
+ 
+ 
+  
+ 
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/bAZ0XOxmB0qucoMLL0xFaY5trDsQSGedoUIcRqDtnag1nBqn133ZcrHa4uzWu1DD2cBPCviba0wnLCCwO7YwVow/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/bAZ0XOxmB0q1VhbpgTlMLzsOwHodr1QGlIh6rVoly7UrcqXpnyGuFSXPq3kFLhYicPqVN5XtNqVQjSYTicib6am6Q/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/bAZ0XOxmB0rzlgYVN4Y9kCEsV84gWYekPRjsev8ayJ7nqqcCEy5lpibfLricjeFBuHeBciaaIMjibZ7PRnSk3A3E1w/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/bAZ0XOxmB0rzlgYVN4Y9kCEsV84gWYekejYmBS9DT8ns8B8maGG5Z7UB04WVa903zdECpSSXbAibf36nMhI84iaw/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/bAZ0XOxmB0qucoMLL0xFaY5trDsQSGedXZIZZ9SuIq0bf70oN95C4ueia3ibIs9q8tPBXMe5hVYmWzPljUhPRf8A/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/bAZ0XOxmB0q1VhbpgTlMLzsOwHodr1QG7pAh4SAia2mnjsZVrMEw9gXIqAKyy4238tdNW2zYJxcDSxgDWXsoMKg/640?wx_fmt=jpeg
+
+标题： 华东师大-纽约大学脑与认知科学联合研究发现全新高效神经信号传播机制
+
+网址: http://mp.weixin.qq.com/s?timestamp=1541270395&src=3&ver=1&signature=-FwpRla5Qz-ZXB8aCcqLNPL2SOVZAXDliw17bDfrDMpqETL0gzhemPScZNKJA*siVOCi2SxfDz9v8W79yGTqfsNP6h*3cb9-jTZxVVxUsu5ZuLm9KFpIyHQdhRk*VTRtY-zkDbN8J7s5Ld3zu61xzjsNsTT1XYQ0l3VMd0XLVZY=
+
+封面图片网址: http://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesZP0BAneQ7ia5ZycuOSoUKicHlC76XmIddjJibMuFNZ27usxPd5QoHUypkGSPwUxTve7lMVWWl8wJqNw/0?wx_fmt=jpeg
+
+发表时间: 2018年4月12日8时
+
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+   华东师范大学心理与认知科学学院、脑功能基因组学（教育部、上海市）重点实验室国家千人计划学者、特聘教授，华东师大-纽约大学脑与认知科学联合研究中心教授，国际著名计算神经科学家汪小京近期发现了一种
+   
+    新的高效神经信号传播机制。
+   
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+   这一新发现的机制有望促进我们对于“
+   
+    意识是如何产生的
+   
+   ”这一问题的理解。这一研究成果最近发表在著名顶级神经科学杂志Neuron上。
+  
+ 
+ 
+  
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+   汪小京博士：上海纽约大学创始教务长和研究副校长。现任纽约大学全球神经科学教授，及物理与数学兼职教授，并任纽约大学斯沃茨理论神经科学中心联合主任；同时任华东师范大学-纽约大学脑与认知科学联合研究中心（上海纽约大学）教授；
+  
+  
+   本文所提及的论文Inter-areal balanced amplification enhances signalpropagation in a large-scale circuit model of the primate cortex 的通讯作者。
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+   Madhura Joglekar博士以汪小京教授实验室博士后的身份参与该项研究，现在纽约大学Courant数学研究所任教。
+  
+ 
+ 
+  
+  
+  
+ 
+ 
+  
+   “当我们在日常环境中活动时，外部环境通过刺激我们的感官，产生大量的神经信号；这些神经信号则必须被传递到相关的大脑区域。”汪小京教授解释说， “然而我们的大脑是一个由数百亿神经元互相连接所构成的，极其复杂的网络，可以划分出一百个以上的功能区，要理解这些神经信号是如何在不同大脑区域间高效传播并非易事。”
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+   本图描绘了汪小京教授等人的冲动传递网络模型中基于异步机制的信号传递过程
+  
+ 
+ 
+  
+  
+  
+ 
+ 
+  
+   我们的大脑总体上是一个层级结构，即从较“低级”的感知区域到“高级”的认知区域等不同层级的功能区。这些区域内同时包含兴奋性神经元与抑制性神经元，分别激发或抑制其它神经元的活动。
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+   为理解这些神经元如何彼此相互作用产生神经信号，并且这些神经信号是如何在不同层级间互相传递，脑与认知科学联合研究中心的科学家们采用了
+   
+    最新的神经连接组学（Connectomics）定量分析方法
+   
+   ，利用猕猴的大脑解剖连接性数据，构建了其多脑区的神经网络模型。
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+  
+  
+ 
+ 
+  
+   有趣的是，今天人工智能最热的“深度网络”多局限于从低级脑区到高级脑区前馈的连接，而我们大脑具有大量从高级脑区到低级脑区的反馈连接。
+   
+    汪小京团队的新模型包括了真实的灵长类大脑的反馈连接结构。
+   
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+   研究者发现在一个大尺度的灵长类大脑模型中，大脑的兴奋和抑制信号往往是互相平衡的，有利于产生一个较为稳定的神经信号的传输——兴奋性神经元的刺激保证有效信号的传输，而抑制性神经元则保证信号的传输不至于失控。
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+  
+  
+   论文链接请点击文末阅读原文
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+   “令人意外的是，通过模型我们发现只有当神经信号足够强（超过某一阈值）时，神经信号才能抵达负责高级认知活动的前额叶皮层。”本文的第一作者M. Joglekar博士介绍说。
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+   值得注意的是，这一全脑的激活模式与人类有意识地知觉感觉信息时的激活模式相似——这一对比暗示了这种平衡的大范围神经网络活动机制与产生有意识加工间的关联性。
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+   来源 | 心理与认知科学学院
+  
+ 
+ 
+  
+   编辑 | 吴冬妮
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  
+   更多阅读
+  
+ 
+ 
+  
+   
+    特稿｜纽约大学–华东师大联合物理研究所是怎样建成的？
+   
+  
+  
+   
+  
+ 
+ 
+  
+   
+    祝福上海纽约大学首届毕业生！东方明珠亮灯
+   
+  
+  
+ 
+ 
+  
+ 
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/bAZ0XOxmB0rzlgYVN4Y9kCEsV84gWYekD899IMegdbjwh8KTq5eSgYiaoeriaqpWSpY4rpSIm4Po0kIFlPsfGSibQ/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/bAZ0XOxmB0qucoMLL0xFaY5trDsQSGedK8YaQaPhcfFmvSrMXjyEiaEFNbW8axohlsfMg2LDMOzdhjZ36ibqbRaQ/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/bAZ0XOxmB0rzlgYVN4Y9kCEsV84gWYekXgiaDo9gSa8csOldP3FCZ6Dgiayoel8fia2IuYcfAicaN7Ps4Ee5yeXO9w/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/bAZ0XOxmB0rzlgYVN4Y9kCEsV84gWYekNvE9DVyTHfY0phgkgicBJmxh57a1ZVUyrP28qNTgQSejdWblborTjJA/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/bAZ0XOxmB0qucoMLL0xFaY5trDsQSGed6IcFsXwGibuIIdyX7O5PxD2gECTNlBATbib9l3diajguGFbe65ZWrZobw/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/bAZ0XOxmB0rzlgYVN4Y9kCEsV84gWYekL3BIGzCko6icM2nvHVgIHthXHQJpdSyWHkj492V6NKpSa0fHsflSG1A/640?wx_fmt=png
+
+标题： 我校与新加坡世界科技出版社商讨扩大学术出版合作
+
+网址: http://mp.weixin.qq.com/s?timestamp=1541270395&src=3&ver=1&signature=-FwpRla5Qz-ZXB8aCcqLNPL2SOVZAXDliw17bDfrDMpqETL0gzhemPScZNKJA*siVOCi2SxfDz9v8W79yGTqfkZz2dPCMm*jgTp*p8XMJsq3hOhrTQsKQp2K68Py4wvZoF3xDM7KlYtQlyIH4d5wo5gOoh4d9nvZ8oOPb3F4OAs=
+
+封面图片网址: http://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesYxwLjiaibBglK3uMvpTFlAJbfNOzRvia5C9yiclLUhXwpA7ZhNVataQZW4lNVwicfo3hFib5V8LvljyJzQ/0?wx_fmt=jpeg
+
+发表时间: 2018年4月11日9时
+
+  
+   4月3日，新加坡世界科技出版社主编兼社长潘国驹一行访问我校，与我校相关部门就学术出版方面的合作项目进行了座谈交流。副校长孙真荣出席了座谈会。
+  
+ 
+ 
+  
+   
+  
+ 
+ 
+  会上，孙真荣对潘国驹一行的到访表示欢迎，并简要介绍了华东师大的校史、校情和发展愿景。他指出，适应“双一流”建设以及国际化发展的需要，我校将进一步加强传统优势学科和学科交叉融合领域的学术传播，因此与世界科技出版社在图书、期刊领域的合作将继续进行并争取有进一步拓展。潘国驹先生对我校的热情接待表示感谢，他介绍了世界科技出版社的发展状况以及与我国学术机构开展出版合作的相关情况，高度评价了华东师范大学的学科优势，指出近年合作推出的我校理科英文丛书ECNU Scientific Reports在学术界获得了良好的口碑，并表示双方有着良好的合作基础和合作契机。
+ 
+ 
+  
+ 
+ 
+  
+   副校长
+  
+  
+   孙真荣会见
+   
+    新加坡世界科技出版社
+   
+   
+    主编兼社长
+   
+   
+    潘国驹一行
+   
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  我校与新加坡世界科技出版社商讨扩大学术出版合作
+ 
+ 
+  1981年成立的世界科技出版社（World Scientific Publishing）总部位于新加坡，是亚太地区最大的英文科技出版公司，在欧美以及亚洲设立有多家的分支机构，在北京和上海也设有办公室。三十多年来，世界科技出版集团不仅出版了大量高学术水准的图书，而且旗下拥有两百多种学术期刊，其中有数十种为SCI收录期刊。
+ 
+ 
+  
+ 
+ 
+  近年来，我校学报编辑部与新加坡世界科技出版社合作出版的华东师大理科英文学术丛书ECNU Scientific Reports目前已出版6卷（其中前四卷已全部被BkCI收录），已签订出版协议尚待出版的有3卷。由学报编辑部编辑、我校出版社出版的华东师范大学文科英文集刊ECNU REVIEW不仅引起国内外学术界的关注和好评，其学术价值也得到了新加坡世界科技出版社期刊编辑委员会的认可，该社与华东师范大学出版社已签长期合作协议，双方以ECNU REVIEW为基础，推出系列丛书WSPC—ECNU Series on China，计划陆续出版并在全球发行。
+ 
+ 
+  
+ 
+ 
+  座谈会上，我校学报编辑部主任刘晓虹，出版社副社长龚海燕，学报编辑部编审王善平、编辑赵伟等分别介绍了目前合作项目的进展情况，新加坡世界科技出版社上海办事处经理傅明炎、销售总监严民、编辑郑斯龙、编辑王晶以及市场执行员叶秋心等也参加了座谈，双方就进一步加强合作的方向及可能性等进行了交流讨论。我校国际交流处也派员参加了座谈会。
+ 
+ 
+  
+ 
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesYxwLjiaibBglK3uMvpTFlAJbESkHHAxd0o7lTXUicia7ficRn1vppLafD7Fjs6iaSd3joZdIPLBNRBgvEw/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesYxwLjiaibBglK3uMvpTFlAJbsCvEa1xVDDfFbFAnORtHtUEcQ3sz5h86Sice9uF3ecWOfE0hb0N6ZNw/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesYxwLjiaibBglK3uMvpTFlAJbLiaZO64baf1QbaF0iatmH8hPLFkJ9P5JtTAcn32lgxP2zrQP2uuKKmcw/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesYxwLjiaibBglK3uMvpTFlAJbCOiaGZRT1JghdEAsTnWnFHDrLThlKuRFoenB4g3W0pia8VnymVJYbzhw/640?wx_fmt=jpeg
+
+标题： 宋春芝, 董晓蕾, 曹珍富：高效可验证的隐私保护推荐系统
+
+网址: http://mp.weixin.qq.com/s?timestamp=1541270395&src=3&ver=1&signature=-FwpRla5Qz-ZXB8aCcqLNPL2SOVZAXDliw17bDfrDMpqETL0gzhemPScZNKJA*siVOCi2SxfDz9v8W79yGTqfjp*DWwyDGj1bQHyZkCZe-SS*1ZH-6dn5DP4UtOQ-zj5t-tamRjdWopXVeoteMw3uieZW1oD-CdaKTwjR0OInOM=
+
+封面图片网址: http://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesZAibTmFueKCpzyricBRuYTL9rJfjOLf8wF06zaiah7v1IR6SSDZEaYdg5Y9Q68nsCAiaveotj5bFibLWw/0?wx_fmt=jpeg
+
+发表时间: 2018年3月29日10时
+
+  
+   
+    
+     
+      
+       
+       
+       
+        
+         
+          
+           
+            
+             点击上方蓝字关注“公众号”
+            
+           
+          
+         
+        
+       
+      
+     
+    
+    
+     
+      
+       
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+        
+        
+         
+          摘  要
+         
+        
+        
+        
+       
+      
+     
+     
+      
+       
+        
+         针对个性化推荐服务系统存在的隐私泄露问题，提出了一个高效可验证的隐私保护推荐系统，能在保护用户数据隐私的前提下，实现用户对云端计算出的推荐模型的正确性验证；利用脊回归实现对用户数据的拟合；利用Yao的混淆电路技术实现推荐模型的计算以及对模型的正确性验证.用户端和云端使用一种新的数据聚合算法AGG（Aggregation）来替换大多数已有工作中使用的公钥同态加密算法，减少了用户端和云端的计算开销，使得系统效率更高.给出了方案的安全性分析以及效率分析.
+        
+        
+         关键词：个性化推荐系统；脊回归；隐私保护；混淆电路；可验证计算
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+       
+       
+       
+      
+     
+     
+      
+       
+        
+         
+          
+           
+            
+             Efficient verifiable privacy-preserving recommendation system
+            
+           
+           
+            
+             SONG Chun-zhi, DONG Xiao-lei, CAO Zhen-fu
+            
+           
+           
+            
+             
+              Abstract:
+             
+            
+            
+             To address the problem of privacy disclosure in traditional personalized recommendation systems, this paper proposes an efficient verifiable privacy-preserving recommendation system, which can provide user the way to verify the correctness of the resulting model of cloud computing under the premise of protecting user's data privacy. This paper uses ridge regression to find the best-fit linear curve of user's input data, and implements Yao's garbled circuit to realize the computation and the correctness verification of the recommendation model. The user and the cloud use a newly-devised privacy preserving data aggregation method named AGG (Aggregation) to replace public key homomorphic encryption used in most existing work, which can reduce the computational overhead of the user and the cloud, thus making the system more efficient. The security analysis and the efficiency analysis of the scheme are given at the end of the article.
+            
+           
+           
+            
+             
+              Key words:
+             
+            
+            
+             personalized recommendation system；ridge regression；privacy preservation；garbled circuits； verifiable computation
+            
+           
+          
+         
+        
+       
+      
+     
+     
+      
+       
+       
+       
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+         收稿日期：2017-06-25
+        
+        
+         基金项目：国家自然科学基金（61602180，61632012，61672239）；上海市自然科学基金（16ZR1409200）；上海市高新技术领域项目（16511101400）
+        
+        
+         第一作者：宋春芝, 女, 硕士研究生, 研究方向为密码学与网络安全.
+        
+        
+         通信作者：董晓蕾, 女, 教授, 博士生导师, 研究方向为密码学与网络安全.
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+       
+      
+     
+     
+      
+       
+        
+         原文发表在《华东师范大学学报（自然科学版）》2018年第二期
+         
+        
+        
+         因微信文字排版限制，无法全文转载，如需阅读全文，请点击左下角
+        
+       
+      
+     
+     
+      
+       
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+      点击「
+      
+       
+        阅读原文
+       
+      
+      」访问
+      
+       
+        
+         华东师范大学学报自然科学版官网
+        
+       
+      
+     
+    
+   
+  
+ 
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesZAibTmFueKCpzyricBRuYTL92gpk7RS3LibP9StncQQkH5lnsibpNmL0TjLd8qIk6Igl6YZibgSneDhzA/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/iauziax5xQOI3nR13uE2pnBib2bq1CSglnCP75q20DRzZ3Na6icmFfhZWUiaFT4Mn98QePibf5ZicBOzde1LXvflSpXpw/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesZAibTmFueKCpzyricBRuYTL9KfBqYvx0oHUibBtkuX0qFs7AQqTaX3jicF0MmyFgeU0u2aUBHDj8xYsQ/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/ia6SJ2B6SHuV6Uuktj7Vk36etTlEibjyhloSUNfibTmeW7ZcAYJ4JGN6CDYYw9Uib5DHUcOb4b6HfFVHyGrZq0CmBA/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_gif/I8dn0KW7xiajOgJXke3Ku2XeuQV7ReKIpMyNMJVpG0xMBV6pLCTt5obo286Kk0De4WWcaCErFTUlftoujrZQSEA/640?wx_fmt=gif
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/ntLa6XNnKTwT8nfzyH4DzIvzR2pZkArKWtwET8QqgV8FEDQ3j9NjJGVBnkfQBsQqBsqmv21vKKdECXbvpLcm7g/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/pTlFPeRFesZAibTmFueKCpzyricBRuYTL9TOZc86SOpBibdiaPnJYcK7855ic2agSeefDssU5GBVlOVLkfvf3nErSQA/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesZAibTmFueKCpzyricBRuYTL9fsTVLcyW2iakaUfSRE5ABIIGyn76RMkdP0CS1FTVhKfumGQlGQ68zBA/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesZAibTmFueKCpzyricBRuYTL9NtrPIWDwFYu5h9gyme4H6467xM3jdkJj9Mj2TC5guotwyiaNaLn0C7w/640?wx_fmt=jpeg
+
+标题： 徐侃, 郑骏：一类多日均衡满意度的旅行规划算法
+
+网址: http://mp.weixin.qq.com/s?timestamp=1541270395&src=3&ver=1&signature=-FwpRla5Qz-ZXB8aCcqLNPL2SOVZAXDliw17bDfrDMpqETL0gzhemPScZNKJA*siVOCi2SxfDz9v8W79yGTqfjp*DWwyDGj1bQHyZkCZe-SBMMGF*--oz8zwu9aGRH5ni1ADscS*dBniGBwWLiQ4oH52BC1lwpX4ZJkzhJ60Eyc=
+
+封面图片网址: http://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesZAibTmFueKCpzyricBRuYTL9HUrkIxW2Xicqp2xtk05hvicAOYzmtGibicfMiafqdnKlo0oFGDreLh4IPuQ/0?wx_fmt=jpeg
+
+发表时间: 2018年3月29日10时
+
+  
+   
+    
+     
+      
+       
+       
+       
+        
+         
+          
+           
+            
+             点击上方蓝字关注“公众号”
+            
+           
+          
+         
+        
+       
+      
+     
+    
+    
+     
+      
+       
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+        
+        
+         
+          摘  要
+         
+        
+        
+        
+       
+      
+     
+     
+      
+       
+        
+         基于位置的服务是确定移动用户所在位置并根据位置来提供的一种服务，其中，旅行规划是众多服务应用中的热点之一.通过基于位置的服务，人们可以根据自己的偏好制订不同的旅行规划.然而，在大多数研究中，旅行规划只关注于在所有兴趣点中制订一条符合旅行要求的路线.当游客决定在所在城市游玩多日时，这些研究所制订的路线给游客所带来的旅行满意度就会逐天递减，不符合多日旅程线路规划的制订.为了提高游客旅行时多日旅行满意度的稳定性问题，将天数因素作为多日旅行规划的参数之一，通过获取兴趣点集合的相关信息，如位置、评分、类别等，构建兴趣点网络模型，利用启发式算法得出最佳的路线，制订有效的多日旅行规划.实验结果证明，所提出的算法可以高效地得到多条旅行均衡的高质量旅行路线.
+        
+        
+         
+         
+         
+         
+        
+        
+         
+          关键词
+         
+         ：
+         
+          多日旅行规划
+         
+         
+          基于位置服务
+         
+         
+          普适计算
+         
+         
+         
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+       
+       
+       
+      
+     
+     
+      
+       
+        
+         
+          
+           
+            
+            
+           
+           
+            
+             
+              Balancing travel satisfaction algorithm for multi-day trip planning
+             
+            
+           
+           
+            
+             XU Kan
+             
+             
+             
+              
+             
+             , ZHENG Jun
+             
+             
+             
+              
+             
+             
+              
+             
+            
+           
+           
+            
+            
+           
+           
+            
+             
+              Abstract
+             
+             : Location-based service is a kind of service that obtains the location of mobile user and provides it according to location. Among them, one of the active topics is trip planning. People can make different trip planning to meet their multiple requirements by location-based service. However, in most studies, trip planning only focus on searching one route in many locations according to user's demands. When people are trying to visit the city more than one day, the travel satisfaction of the routes provided by previous researches would reduce by day. Hence, the previous work cannot meet the requirement of multi-day trip planning. To improve the satisfaction stability of multi-day trip planning, we use trip day as one of the multi-day travel planning parameters. We acquire points of interest (POIs) information (e.g., location, scoring, category, etc.) and construct a POI network model, obtain optimal trip routes through heuristic algorithm, develop an effective multi-day travel planning. The experimental results demonstrate that our proposed method can plan a multi-day trip with high quality and more balanced route.
+            
+           
+           
+            
+            
+           
+           
+            
+             
+              Key words
+             
+             :
+             
+              multi-day trip planning
+             
+             
+              location-based service
+             
+             
+              ubiquitous computing
+             
+            
+           
+          
+         
+        
+       
+      
+     
+     
+      
+       
+       
+       
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+         收稿日期：2017-01-23
+        
+        
+         第一作者：徐侃, 男, 硕士研究生, 研究方向为普适计算。
+        
+        
+         通信作者：郑骏, 男, 教授级高级工程师, 博士生导师, 研究方向为Web应用技术。
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+       
+      
+     
+     
+      
+       
+        
+         原文发表在《华东师范大学学报（自然科学版）》2018年第二期
+         
+        
+        
+         因微信文字排版限制，无法全文转载，如需阅读全文，请点击左下角
+        
+       
+      
+     
+     
+      
+       
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+      点击「
+      
+       
+        阅读原文
+       
+      
+      」访问
+      
+       
+        
+         华东师范大学学报自然科学版官网
+        
+       
+      
+     
+    
+   
+  
+ 
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesZAibTmFueKCpzyricBRuYTL92gpk7RS3LibP9StncQQkH5lnsibpNmL0TjLd8qIk6Igl6YZibgSneDhzA/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/iauziax5xQOI3nR13uE2pnBib2bq1CSglnCP75q20DRzZ3Na6icmFfhZWUiaFT4Mn98QePibf5ZicBOzde1LXvflSpXpw/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesZAibTmFueKCpzyricBRuYTL9KfBqYvx0oHUibBtkuX0qFs7AQqTaX3jicF0MmyFgeU0u2aUBHDj8xYsQ/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/pTlFPeRFesZAibTmFueKCpzyricBRuYTL96Ht2caW6JjePlX8hGv5zyrO78UCicDcZaIpabVcmaUTZmXzynhoqXGg/640?wx_fmt=gif
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/ia6SJ2B6SHuV6Uuktj7Vk36etTlEibjyhloSUNfibTmeW7ZcAYJ4JGN6CDYYw9Uib5DHUcOb4b6HfFVHyGrZq0CmBA/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_gif/I8dn0KW7xiajOgJXke3Ku2XeuQV7ReKIpMyNMJVpG0xMBV6pLCTt5obo286Kk0De4WWcaCErFTUlftoujrZQSEA/640?wx_fmt=gif
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/pTlFPeRFesZAibTmFueKCpzyricBRuYTL9VDWEaQDibD1MP4ic3J7BAa3e6W5du0eLMuKVV3icbIxcjteVibfltMPrCg/640?wx_fmt=gif
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/ntLa6XNnKTwT8nfzyH4DzIvzR2pZkArKWtwET8QqgV8FEDQ3j9NjJGVBnkfQBsQqBsqmv21vKKdECXbvpLcm7g/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/pTlFPeRFesZAibTmFueKCpzyricBRuYTL9TOZc86SOpBibdiaPnJYcK7855ic2agSeefDssU5GBVlOVLkfvf3nErSQA/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesZAibTmFueKCpzyricBRuYTL9fsTVLcyW2iakaUfSRE5ABIIGyn76RMkdP0CS1FTVhKfumGQlGQ68zBA/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesZAibTmFueKCpzyricBRuYTL9NtrPIWDwFYu5h9gyme4H6467xM3jdkJj9Mj2TC5guotwyiaNaLn0C7w/640?wx_fmt=jpeg
+
+标题： 李敏茜, 毛嘉莉, 袁培森, 金澈清：基于卡口监测数据流的套牌车检测
+
+网址: http://mp.weixin.qq.com/s?timestamp=1541270395&src=3&ver=1&signature=-FwpRla5Qz-ZXB8aCcqLNPL2SOVZAXDliw17bDfrDMpqETL0gzhemPScZNKJA*siVOCi2SxfDz9v8W79yGTqfjp*DWwyDGj1bQHyZkCZe-SJZ5-E0zFxEfqdMec*4WWZMlkOSlTJSFE*mf8TGPcyOKHE3-OY*ZrjR3DRRgsvWGU=
+
+封面图片网址: http://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesZAibTmFueKCpzyricBRuYTL95Wz3MB6WbiaroGKHrPiaSicKRicduuBlSlILxRKuBkWU07QsguN0KHTSQQ/0?wx_fmt=jpeg
+
+发表时间: 2018年3月29日10时
+
+  
+   
+    
+     
+      
+       
+       
+       
+        
+         
+          
+           
+            
+             点击上方蓝字关注“公众号”
+            
+           
+          
+         
+        
+       
+      
+     
+    
+    
+     
+      
+       
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+        
+        
+         
+          摘  要
+         
+        
+        
+        
+       
+      
+     
+     
+      
+       
+        
+         套牌车行为不仅扰乱公共交通秩序，还危害了真实车主的利益，给社会带来了极大危害，整治套牌车刻不容缓.广泛使用的卡口时间对比法使用统一的速度阈值检测套牌车辆，一旦阈值设置不当，容易造成套牌误判和漏检，导致检测结果准确率低.针对这样的问题，本文提出了一种两阶段的套牌车检测框架.离线部分根据历史卡口摄像头监测数据分时段对各路段建立速度分布，确定不同时段各路段的正常速度阈值；在线部分基于滑动窗口模型，根据正常速度阈值，对各路段实时通行车辆进行持续监测，将高频度出现速度异常的车辆判定为套牌车.最后使用真实卡口监测数据集对所提方法进行有效性验证，实验结果表明该方法能够有效避免噪声数据干扰，从而显著提升了套牌车检测的准确率.
+        
+        
+         
+         
+         
+         
+        
+        
+         
+          关键词
+         
+         ：
+         
+          套牌车
+         
+         
+          异常检测
+         
+         
+          速度分布
+         
+         
+          滑动窗口
+         
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+       
+       
+       
+      
+     
+     
+      
+       
+        
+         
+          
+           
+            
+             
+              Detection of fake plate vehicles based on traffic data stream
+             
+            
+           
+           
+            
+             
+              LI Min-xi
+             
+             
+              1
+             
+             
+              
+             
+             
+              ,
+             
+             
+              MAO Jia-li
+             
+             
+              2
+             
+             
+              ,
+             
+             
+              YUAN Pei-sen
+             
+             
+              3
+             
+             
+              ,
+             
+             
+              JIN Che-qing
+             
+             
+              1
+             
+             
+              
+             
+             
+              
+             
+             
+             
+            
+           
+           
+            
+             
+              Abstract:
+             
+            
+            
+             
+              Since vehicles using fake plate violate traffic laws and regulations, infringe the rights of legal license owners and harm social benefits, it is therefore of great urgency to solve this social problem. In current detection methods, unified speed threshold is used to detect fake plate vehicles. Once an inappropriate threshold was set, it would lead to misjudgements and omissions, and thereby results in a low judgement accuracy. To solve this problem, we propose a two-phase fake plate vehicles detection framework. In the offline part, we train a distributed speed model based on sparse traffic trajectory data to calculate time-dependent thresholds for different roads. In the online part, we apply a sliding-window method to monitor whether a car is an outlier. If a car is continually detected as an outlier, it will be judged as a fake, and vice versa. We then use a real dataset to evaluate our method. The results demonstrate negative influences of noise data can be avoided by our method, so the accuracy of fake plate vehicles detection can be improved significantly.
+             
+            
+           
+           
+            
+             
+              Key words:
+             
+            
+            
+             
+             
+             
+              fake plate vehicle
+             
+             
+             
+             
+              anomaly detection
+             
+             
+             
+             
+              speed distribution
+             
+             
+             
+             
+              sliding window
+             
+            
+           
+          
+         
+        
+       
+      
+     
+     
+      
+       
+       
+       
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+         收稿日期：2017-06-19
+        
+        
+         基金项目：国家重点研发计划重点专项（973）（2016YFB1000905）；国家自然科学基金（61370101，61532021，U1501252，U1401256，61402180）
+        
+        
+         第一作者：李敏茜, 女, 硕士研究生, 研究方向为基于位置的服务。
+        
+        
+         通信作者：金澈清, 男, 教授, 博士生导师, 研究方向为基于位置的服务。
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+       
+      
+     
+     
+      
+       
+        
+         原文发表在《华东师范大学学报（自然科学版）》2018年第二期
+         
+        
+        
+         因微信文字排版限制，无法全文转载，如需阅读全文，请点击左下角
+        
+       
+      
+     
+     
+      
+       
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+      点击「
+      
+       
+        阅读原文
+       
+      
+      」访问
+      
+       
+        
+         华东师范大学学报自然科学版官网
+        
+       
+      
+     
+    
+   
+  
+ 
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesZAibTmFueKCpzyricBRuYTL92gpk7RS3LibP9StncQQkH5lnsibpNmL0TjLd8qIk6Igl6YZibgSneDhzA/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/iauziax5xQOI3nR13uE2pnBib2bq1CSglnCP75q20DRzZ3Na6icmFfhZWUiaFT4Mn98QePibf5ZicBOzde1LXvflSpXpw/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesZAibTmFueKCpzyricBRuYTL9KfBqYvx0oHUibBtkuX0qFs7AQqTaX3jicF0MmyFgeU0u2aUBHDj8xYsQ/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/pTlFPeRFesZAibTmFueKCpzyricBRuYTL96Ht2caW6JjePlX8hGv5zyrO78UCicDcZaIpabVcmaUTZmXzynhoqXGg/640?wx_fmt=gif
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/ia6SJ2B6SHuV6Uuktj7Vk36etTlEibjyhloSUNfibTmeW7ZcAYJ4JGN6CDYYw9Uib5DHUcOb4b6HfFVHyGrZq0CmBA/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_gif/I8dn0KW7xiajOgJXke3Ku2XeuQV7ReKIpMyNMJVpG0xMBV6pLCTt5obo286Kk0De4WWcaCErFTUlftoujrZQSEA/640?wx_fmt=gif
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/pTlFPeRFesZAibTmFueKCpzyricBRuYTL9VDWEaQDibD1MP4ic3J7BAa3e6W5du0eLMuKVV3icbIxcjteVibfltMPrCg/640?wx_fmt=gif
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/ntLa6XNnKTwT8nfzyH4DzIvzR2pZkArKWtwET8QqgV8FEDQ3j9NjJGVBnkfQBsQqBsqmv21vKKdECXbvpLcm7g/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/pTlFPeRFesZAibTmFueKCpzyricBRuYTL9TOZc86SOpBibdiaPnJYcK7855ic2agSeefDssU5GBVlOVLkfvf3nErSQA/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesZAibTmFueKCpzyricBRuYTL9fsTVLcyW2iakaUfSRE5ABIIGyn76RMkdP0CS1FTVhKfumGQlGQ68zBA/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesZAibTmFueKCpzyricBRuYTL9NtrPIWDwFYu5h9gyme4H6467xM3jdkJj9Mj2TC5guotwyiaNaLn0C7w/640?wx_fmt=jpeg
+
+标题： 李捷荧, 李宇明, 张小磊, 张蓉：Woodpecker:支持细粒度冲突模拟的数据库测试框架
+
+网址: http://mp.weixin.qq.com/s?timestamp=1541270395&src=3&ver=1&signature=-FwpRla5Qz-ZXB8aCcqLNPL2SOVZAXDliw17bDfrDMpqETL0gzhemPScZNKJA*siVOCi2SxfDz9v8W79yGTqfjp*DWwyDGj1bQHyZkCZe-QAoMDi8Gqg5kTgVR5lLIM6LF3*2XKdO*7htGMO81aHKsqQzvbeVe1phHruGPLFDYs=
+
+封面图片网址: http://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesZAibTmFueKCpzyricBRuYTL94NqxC6yvZk6SwGq98kFO7DXZSrQGDR6vq6IOMWosZjyR75mKzIGduw/0?wx_fmt=jpeg
+
+发表时间: 2018年3月29日10时
+
+  
+   
+    
+     
+      
+       
+       
+       
+        
+         
+          
+           
+            
+             点击上方蓝字关注“公众号”
+            
+           
+          
+         
+        
+       
+      
+     
+    
+    
+     
+      
+       
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+        
+        
+         
+          摘  要
+         
+        
+        
+        
+       
+      
+     
+     
+      
+       
+        
+         随着应用的丰富以及应用对性能的要求提升，各种形态的数据库开发业务应运而生，如行存、列存以及内存型等.因而数据库测试也变得越发重要.现有的数据库自动化测试框架在测试的灵活性、功能的全面性以及测试工作的细致性上都存在问题.首先，测试功能支持不够全面，无法同时支持功能测试、性能测试和数据库系统功能测试；其次，广泛使用的TPC-C基准测试在粗粒度仓库级别上模拟负载冲突，无法量化表示冲突，因此冲突模拟与实际预期误差较大；最后，测试案例的使用一般是静态的，无法动态地进行测试案例的组织和运行.对此，设计并实现了一个灵活的数据库自动化测试框架Woodpecker：提供一套语义丰富、易用、高效的测试任务描述语言，第一次实现上述3种测试任务混合运行的测试框架，并且首次支持量化的负载冲突模拟，包括读写冲突和写写冲突.实验部分以主键自增测试为例，展示了Woodpecker测试描述语言的优势，通过实验说明了Woodpecker对混合测试任务的支持，实验还展示了Woodpecker负载冲突细粒度模拟的正确性和可用性.
+        
+        
+         
+         
+         
+         
+        
+        
+         
+          关键词
+         
+         ：
+         
+          数据库
+         
+         
+          测试框架
+         
+         
+          冲突模拟
+         
+         
+         
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+       
+       
+       
+      
+     
+     
+      
+       
+        
+         
+          
+           
+            
+             
+              Woodpecker: Fine-grained contention simulation database testing framework
+             
+            
+           
+           
+            
+             
+              LI Jie-ying
+             
+             
+             
+             
+              
+             
+             
+              ,
+             
+             
+              LI Yu-ming
+             
+             
+             
+             
+              ,
+             
+             
+              ZHANG Xiao-lei
+             
+             
+             
+             
+              ,
+             
+             
+              ZHANG Rong
+             
+             
+             
+             
+              
+             
+             
+              
+             
+            
+           
+           
+            
+             
+              Abstract:
+             
+            
+            
+             
+              With the rich and the growing peformance requirement of applications, various database developments appear, such as row-based, column-based, main memory database and so on. Hence database testing becomes more and more important. Existing automated testing frameworks of database have some problems in flexibility of test, integrality of function and the granularity of test. Firstly they can't support functional test, performance test and DBMS functional test at the same time. Secondly popular benchmark TPC-C simulates workload contention by warehouse which can't quantify contention and maybe execution is different with expectation. Finally the use of test case is static, they can't organize and run test case dynamically. As a consequence this paper presents a flexible database testing framework which is called Woodpecker, its test task descriptive language has abundant primitives, easy-to-use and could write test case efficiently. Woodpecker is the first test framework that can mix three above-mentioned tests in one test case, and simulates workload contention in fine granularity which include read-write contention and write-write contention. We use a simple case in auto increment testing to show the descriptive language's advantage, last we verify the capacity of mixing three tests in Woodpecker, and besides, we show the results of workload contention simulation in performance test.
+             
+            
+           
+           
+            
+             
+              Key words:
+             
+            
+            
+             
+              database
+             
+             
+             
+             
+              testing framework
+             
+             
+             
+             
+              contention simulation
+             
+            
+           
+          
+         
+        
+       
+      
+     
+     
+      
+       
+       
+       
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+         收稿日期：2017-06-19
+        
+        
+         第一作者：李捷荧, 男, 硕士研究生, 研究方向为分布式数据库.
+        
+        
+         通信作者：张蓉, 女, 教授, 研究方向为数据库.
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+       
+        
+       
+      
+     
+     
+      
+       
+        
+         原文发表在《华东师范大学学报（自然科学版）》2018年第二期
+         
+        
+        
+         因微信文字排版限制，无法全文转载，如需阅读全文，请点击左下角
+        
+       
+      
+     
+     
+      
+       
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+    
+   
+  
+  
+   
+    
+     
+      点击「
+      
+       
+        阅读原文
+       
+      
+      」访问
+      
+       
+        
+         华东师范大学学报自然科学版官网
+        
+       
+      
+     
+    
+   
+  
+ 
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesZAibTmFueKCpzyricBRuYTL92gpk7RS3LibP9StncQQkH5lnsibpNmL0TjLd8qIk6Igl6YZibgSneDhzA/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/iauziax5xQOI3nR13uE2pnBib2bq1CSglnCP75q20DRzZ3Na6icmFfhZWUiaFT4Mn98QePibf5ZicBOzde1LXvflSpXpw/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesZAibTmFueKCpzyricBRuYTL9KfBqYvx0oHUibBtkuX0qFs7AQqTaX3jicF0MmyFgeU0u2aUBHDj8xYsQ/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/pTlFPeRFesZAibTmFueKCpzyricBRuYTL96Ht2caW6JjePlX8hGv5zyrO78UCicDcZaIpabVcmaUTZmXzynhoqXGg/640?wx_fmt=gif
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/ia6SJ2B6SHuV6Uuktj7Vk36etTlEibjyhloSUNfibTmeW7ZcAYJ4JGN6CDYYw9Uib5DHUcOb4b6HfFVHyGrZq0CmBA/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_gif/I8dn0KW7xiajOgJXke3Ku2XeuQV7ReKIpMyNMJVpG0xMBV6pLCTt5obo286Kk0De4WWcaCErFTUlftoujrZQSEA/640?wx_fmt=gif
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/pTlFPeRFesZAibTmFueKCpzyricBRuYTL9VDWEaQDibD1MP4ic3J7BAa3e6W5du0eLMuKVV3icbIxcjteVibfltMPrCg/640?wx_fmt=gif
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/ntLa6XNnKTwT8nfzyH4DzIvzR2pZkArKWtwET8QqgV8FEDQ3j9NjJGVBnkfQBsQqBsqmv21vKKdECXbvpLcm7g/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_png/pTlFPeRFesZAibTmFueKCpzyricBRuYTL9TOZc86SOpBibdiaPnJYcK7855ic2agSeefDssU5GBVlOVLkfvf3nErSQA/640?wx_fmt=png
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesZAibTmFueKCpzyricBRuYTL9fsTVLcyW2iakaUfSRE5ABIIGyn76RMkdP0CS1FTVhKfumGQlGQ68zBA/640?wx_fmt=jpeg
+
+图片地址: https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesZAibTmFueKCpzyricBRuYTL9NtrPIWDwFYu5h9gyme4H6467xM3jdkJj9Mj2TC5guotwyiaNaLn0C7w/640?wx_fmt=jpeg
