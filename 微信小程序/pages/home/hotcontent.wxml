@@ -1,0 +1,76 @@
+<view class="item" bindtap="seeDetail">
+  <view class="title">努力拼搏，青春飞扬--记我院学子参加校2018年运动会</view>
+  <view class="pic">
+    <image src="http://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88Z4WkKsc6iczuYbIWthhMmjHI0NBiaicichKApDZx6icicDDibBSGNxzQ1iad0H0QjoFXicOGX5xu1c4BZiaWAg/0?wx_fmt=jpeg" style="width:50%;height:80px;"></image>
+    <image src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88Z4WkKsc6iczuYbIWthhMmjHKakT3MUDmMuKYwrSpiaOPbicX0q4yoZ5FzVC9ic0Cs1Yv3pyutMyt7JJQ/640?wx_fmt=jpeg" style="width:50%;height:80px;"></image>
+    <view class="introduction">我院第一次参加华东师范大学的运动会，58名本科生和研究生在历时一月余的努力准备之后，踏上了前往运动会的征程。</view>
+  </view>
+  <view class="info">
+    <view class="desc">
+       <text> 华东师范大学数据学院</text>
+       <text>今天</text>
+    </view>
+    <view class="opr">
+      <view>x</view>
+    </view>
+  </view>
+</view>
+<view class="hr"></view>
+
+<view class="item2" bindtap="seeDetail">
+  <view class="title2">重磅！华东师大成立中国创意写作研究院 获千万资助</view>
+  <view class="pic2">
+     <view class="introduction2">让我们看一看本周有什么活动吧~</view>
+     <image src="http://mmbiz.qpic.cn/mmbiz_jpg/bAZ0XOxmB0odPWl2hIjAzQib2Fd6rKp7Pun74Wztoc9xDuCFxQtLK3WtvibUgyfNKC6ecKeyNBtcUAyia8nqUw6IQ/0?wx_fmt=jpeg" style="width:50%;height:80px;"></image>
+    
+  </view>
+  <view class="info">
+    <view class="desc">
+       <text>ECNUers</text>
+       <text>2018年10月29日</text>
+    </view>
+    <view class="opr">
+      <view>x</view>
+    </view>
+  </view>
+</view>
+<view class="hr"></view>
+
+<view class="item2" bindtap="seeDetail">
+  <view class="title2">好看的人都来运动啦！</view>
+  <view class="pic2">
+    <view class="introduction2">在华东师大射箭游泳燃烧你的卡路里…</view>
+    <image src="http://mmbiz.qpic.cn/mmbiz_jpg/bAZ0XOxmB0rDopDPrSnjRwmBRia8BwWKrfibIJGxO4fMburgzs8UCl3L5wHz4bkIGYxMRQib7RHSDU4WM9GzEQNIw/0?wx_fmt=jpeg" style="width:50%;height:80px;"></image>
+  </view>
+  <view class="info">
+    <view class="desc">
+       <text>ECNUers</text>
+       <text>148评论</text>
+       <text>61分钟之前</text>
+    </view>
+    <view class="opr">
+      <view>x</view>
+    </view>
+  </view>
+</view>
+<view class="hr"></view>
+
+<view class="item" bindtap="seeDetail">
+  <view class="title">……</view>
+  <view class="pic">
+    <image src="/images/news/10.jpg" style="width:30%;height:69px;"></image>
+    <image src="/images/news/11.jpg" style="width:30%;height:69px;"></image>
+    <image src="/images/news/12.jpg" style="width:30%;height:69px;"></image>
+  </view>
+  <view class="info">
+    <view class="desc">
+       <text>……</text>
+       <text>44评论</text>
+       <text>126分钟之前</text>
+    </view>
+    <view class="opr">
+      <view>x</view>
+    </view>
+  </view>
+</view>
+<view class="hr"></view>

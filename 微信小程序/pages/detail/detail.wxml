@@ -1,0 +1,29 @@
+<view class="content">
+   <swiper style='height:800px'><swiper-item>
+     <view class='title'>
+       努力拼搏，青春飞扬--记我院学子参加校2018年运动会
+     </view>
+     <view class='desc'>
+       <view class='sourse'>
+         <view class='s1'>DaSE@ECNU  </view>
+         <view class='s2'> 华东师范大学数据学院  </view>
+         <view class='s1'>前天</view>
+       </view>
+     </view>
+     <view class='article'>
+       <view>
+         二〇一八年十月三十日，普通而又不寻常的一天。
+         当初升的晨光尚未弥漫在天际之时，中山北路校区的体育馆门前已挤满熙熙攘攘的人群。他们一身白袍，干练利落，洋溢着属于青春的生命与活力，脸上不乏轻松自若的笑容。虽然太阳尚还隐没于雾霭沉沉中，他们眼中闪烁的希望的眸光亦如太阳一般闪耀。
+         他们正是数据科学与工程学院首次出征校运会的运动健儿们。在历时一月之余的努力准备之后，由58名本科生和研究生组成的运动员方队，踏上了2018年华东师范大学运动会的征途。
+       </view>
+       <view class='pic1'>
+       <image src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88Z4WkKsc6iczuYbIWthhMmjHeMrWN2HjUOvmKd2JJapjib9j2gtO6UevfLwL7kq6iaT01peqJVluFOJw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" style="width:50%;height:100px;"></image>
+       <image src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88Z4WkKsc6iczuYbIWthhMmjHKakT3MUDmMuKYwrSpiaOPbicX0q4yoZ5FzVC9ic0Cs1Yv3pyutMyt7JJQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" style="width:50%;height:100px;"></image>
+       </view>
+       <view class='subtitle'>开幕式</view>
+       <view>正值金秋十月，骄阳如焰，晴空万里，运动场上每个人的心绪都随着运动员进行曲的奏起而变得激荡，数据科学与工程学院的同学组成的方阵踏着有力的步伐向着主席团走来。金色的阳光映照着他们的脸庞，凉爽的秋风吹起了他们的衣角；他们嘹亮的口号是唱起的战歌，他们整齐的步伐是擂动的战鼓， “不为追逐别人的脚步，只是为了超越自己”，心怀若谷杳杳意，身伴凌云飒飒风，运动场不是0和1组成的代码海洋，他们却始终用自己的信念与坚持，去找寻自己的方向，去追逐自己的成功。</view>
+      <text>后面内容省略</text>
+     </view>
+
+   </swiper-item></swiper>
+</view>

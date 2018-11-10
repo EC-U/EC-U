@@ -1,0 +1,39 @@
+{
+  "pages":[
+    "pages/home/home",
+    "pages/schedule/schedule",
+    "pages/settings/settings",
+    "pages/detail/detail",
+    "pages/create/create"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "EC&U",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "selectedColor": "#D53E37",
+    "backgroundColor": "#F5F5F5",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "主页",
+        "iconPath": "images/bottombar/首页.png",
+        "selectedIconPath": "images/bottombar/首页 (1).png"
+      },
+      {
+        "pagePath": "pages/schedule/schedule",
+        "iconPath": "images/bottombar/上箭头.png",
+        "selectedIconPath": "images/bottombar/下箭头.png"
+      },
+      {
+        "pagePath": "pages/settings/settings",
+        "text": "设置",
+        "iconPath": "images/bottombar/设置.png",
+        "selectedIconPath": "images/bottombar/设置 (1).png"
+      }
+    ]
+  }
+}

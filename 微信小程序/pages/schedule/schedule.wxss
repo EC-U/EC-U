@@ -1,0 +1,90 @@
+.scroll {
+  height: 600px;
+  z-index: 1;
+  position: relative;
+}
+.sw{
+  height:1200rpx;
+  width:100%;
+  display:flex;
+  position: absolute;
+  z-index: 2;
+}
+.calendar{
+  height:1200rpx;
+  width:100%;
+  display:flex;
+  position: absolute;
+  z-index: 1;
+}
+.flex-item {
+  width: 95rpx;
+  height: 100px;
+}
+
+.kcb-item {
+  position: absolute;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.smalltext {
+  font-size: 8pt;
+  color: #fff;
+  padding-left: 2px;
+}
+
+.top {
+  display: flex;
+  flex-direction: row;
+  margin-left: 35rpx;
+  background-color: #d2e6b3;
+  color: #7cba23;
+}
+
+.top-text {
+  width: 100rpx;
+  height: 35rpx;
+  font-size: 9pt;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+::-webkit-scrollbar{
+  width: 0;
+  height: 0;
+  color: transparent;
+}
+.left {
+  width: 35rpx;
+  height: 100rpx;
+  font-size: 9pt;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.right {
+  width: 60rpx;
+  height: 50rpx;
+  margin-right: 700rpx;
+  font-size: 8pt;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.line{
+  position: absolute;
+  z-index: 1;
+}
+.content{
+  margin-left: 35rpx;
+  position: absolute;
+  z-index: 2;
+}
+
+.temp{
+  color: red;
+}
