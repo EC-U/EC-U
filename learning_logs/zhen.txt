@@ -1,0 +1,4 @@
+2018.11.12
+introduction of tensorflow:
+https://github.com/aymericdamien/TensorFlow-Examples
+	linear regression
