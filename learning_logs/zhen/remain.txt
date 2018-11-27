@@ -1,0 +1,5 @@
+GradientDescent（梯度下降） in tensorflow
+Eagle api in tensorflow
+Softmax + cross entropy//done
+what is one hot label
+L1 distance
