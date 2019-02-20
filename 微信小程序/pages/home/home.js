@@ -10,7 +10,8 @@ Page({
       "http://dase.ecnu.edu.cn/dase-module-admin/uploads/image/20180612/1528767203369018104.jpg"
     ],
     currentTab: 0,
-    flag: 0
+    flag: 0,
+    categories: []
   },
   switchNav: function (e) {
     console.log(e);
@@ -27,6 +28,19 @@ Page({
     wx.navigateTo({
       url: '../detail/detail',
     })
-  }
+  },
+  onLoad: function () {
+    this.loadCategories();
+  },
 
+  loadCategories: function () {
+    var categories = wx.getStorageSync("categories");
+    var result = new Array();
+    for (var i = 0; i < categories.length; i++) {
+      if (categories[i].status == '1') {
+        result.push(categories[i]);
+      }
+    }
+    this.setData({ categories: result });
+  }
 })

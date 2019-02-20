@@ -41,4 +41,9 @@ Page({
       })
     }
   },
+  schedule: function () {
+    wx.navigateTo({
+      url: '../schedule2/schedule2',
+    })
+  }
 })
