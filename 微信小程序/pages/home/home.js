@@ -11,7 +11,10 @@ Page({
     ],
     currentTab: 0,
     flag: 0,
-    categories: []
+    categories: [],
+    messages: [],
+    title:''
+    
   },
   switchNav: function (e) {
     console.log(e);
@@ -30,21 +33,36 @@ Page({
     })
   },
   onLoad: function () {
-    this.loadCategories();
-    wx.request({
-      url: 'http://122.152.233.115:8080/v1/text/2',
-      header: {
-        'content-type': 'application/json' // 默认值
-      },
-      data: {},
-      method:'GET',
-      success: function (res) {
-        console.log(res.data);
-      }
+    //var that = this; 
+    this.loadCategories();    
+    this.loadmessages();
 
-    })
   },
   
+  loadmessages: function() {
+    var that = this; 
+    var message = new Array();
+    for (var i = 4; i < 7; i++) {
+      wx.request({
+        url: 'http://122.152.233.115:8080/v1/text/' + String(i),
+        header: {
+          'content-type': 'application/json'
+        },
+        method: 'GET',
+        success: function (res) {
+          console.log(res.data.Title);
+          that.setData({ title: res.data.Title })
+          //message.push(res.data)
+        }
+
+      })
+    }
+    
+    //this.setData({ messages: message })
+    console.log(message);
+    //that.data.messages = message;
+  },
+
   loadCategories: function () {
     var categories = wx.getStorageSync("categories");
     var result = new Array();
@@ -56,3 +74,4 @@ Page({
     this.setData({ categories: result });
   }
 })
+
