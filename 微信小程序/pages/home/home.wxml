@@ -31,7 +31,7 @@
    <view class="hr1"></view>
    <swiper current="{{currentTab}}" style="height:800px">
     <swiper-item><include src="hotcontent.wxml"/></swiper-item>
-    <swiper-item>推荐内容</swiper-item>
+    <swiper-item><include src="recommendation.wxml"/></swiper-item>
     <swiper-item>
       <view class='items'>
         <block wx:for="{{categories}}">

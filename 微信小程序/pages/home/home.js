@@ -31,8 +31,20 @@ Page({
   },
   onLoad: function () {
     this.loadCategories();
-  },
+    wx.request({
+      url: 'http://122.152.233.115:8080/v1/text/2',
+      header: {
+        'content-type': 'application/json' // 默认值
+      },
+      data: {},
+      method:'GET',
+      success: function (res) {
+        console.log(res.data);
+      }
 
+    })
+  },
+  
   loadCategories: function () {
     var categories = wx.getStorageSync("categories");
     var result = new Array();

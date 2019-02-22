@@ -1,6 +1,20 @@
 //app.js
 App({
   onLaunch: function () {
+    wx.request({
+      url: 'http://122.152.233.115:8080/v1/text',
+      header: {
+        'content-type': 'application/json' // 默认值
+      },
+      data: {
+        id: '2'
+      },
+      method: 'GET',
+      success: function (res) {
+        console.log(res.data);
+      }
+
+    })
     var categories = wx.getStorageSync('categories');
     if(!categories){
       categories = this.loadCategory();
