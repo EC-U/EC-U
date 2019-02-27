@@ -1,10 +1,16 @@
 // pages/detail/detail.js
 Page({
 
-  /**
-   * 页面的初始数据
-   */
   data: {
-      
-  }
+      url:''
+  },
+  onLoad: function (options) {
+    console.log(options.detail)
+    var str = options.detail;
+    this.setData({
+      url:str
+    })
+    console.log(options.detail)
+  },
+
 })

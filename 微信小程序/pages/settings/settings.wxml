@@ -37,7 +37,7 @@
 
   <view class="hr"></view>
   <view class="item">
-     <view class="title">我要发布</view>
+     <view class="title" >我要发布</view>
      <view class="detail2">
        <text> ></text>
      </view>
