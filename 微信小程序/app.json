@@ -4,7 +4,8 @@
     "pages/schedule/schedule",
     "pages/settings/settings",
     "pages/detail/detail",
-    "pages/create/create"
+    "pages/schedule2/schedule2",
+    "pages/category/category"
   ],
   "window":{
     "backgroundTextStyle":"light",

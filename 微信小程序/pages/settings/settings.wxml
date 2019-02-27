@@ -57,4 +57,10 @@
      </view>
   </view>
 <view class="hr"></view>
+  <view class="item" bindtap="schedule">
+     <view class="title">课程表（测试）</view>
+     <view class="detail2">
+       <text> ></text>
+     </view>
+  </view>
 </view>

@@ -11,7 +11,7 @@
   background-color: #ffffff
 }
 .nav-item{
-  width: 33.3%;
+  width: 25%;
   font-size:15px; 
 }
 .select{
@@ -20,7 +20,7 @@
 }
 .normal{
   font-size: 14px;
-}
+} 
 .hr1{
   height: 10px;
   background-color: #cccccc;
@@ -92,4 +92,17 @@
 }
 .pic2 image{
 
+}
+
+.items{
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  font-size: 13px;
+}
+
+.item3{
+  width: 30%;
+  float: left;
+  margin-bottom: 50px;
 }
