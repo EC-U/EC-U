@@ -42,6 +42,21 @@ while(1):
                         fp.write(html)
                     with open("./" + gzh_name + "/" + title + "/" + "img.txt","w",encoding="utf-8") as fp:
                         fp.write(str(img))
+                    with open("./" + gzh_name + "/" + title + "/" + "url.txt","w",encoding="utf-8") as fp:
+                        fp.write(str(article['content_url']))
+                    with open("./" + gzh_name + "/" + title + "/" + "abstract.txt","w",encoding="utf-8") as fp:
+                        fp.write(str(article['abstract']))
+                    with open("./" + gzh_name + "/" + title + "/" + "cover.txt","w",encoding="utf-8") as fp:
+                        fp.write(str(article['cover']))
+                    with open("./" + gzh_name + "/" + title + "/" + "author.txt","w",encoding="utf-8") as fp:
+                        fp.write(str(article['author']))
+                    with open("./" + gzh_name + "/" + title + "/" + "datetime.txt","w",encoding="utf-8") as fp:
+                        fp.write(str(article['datetime']))
+                    with open("./" + gzh_name + "/" + title + "/" + "send_id.txt","w",encoding="utf-8") as fp:
+                        fp.write(str(article['send_id']))
+
+
+
         except:
             pass
 
