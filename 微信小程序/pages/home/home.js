@@ -13,7 +13,8 @@ Page({
     flag: 0,
     categories: [],
     messages: [],
-    title:''
+    message:'',
+    url:''
     
   },
   switchNav: function (e) {
@@ -27,10 +28,17 @@ Page({
     }
     page.setData({ flag: id });
   },
-  seeDetail:function(){
-    wx.navigateTo({
-      url: '../detail/detail',
+  seeDetail:function(e){
+    var url = e.currentTarget.dataset.url;        //获取下标
+    /*wx.setStorage({                                   //设置本地缓存
+      url: url
     })
+    console.log(Url);*/
+    //console.log(url)
+    wx.navigateTo({
+      url: '../detail/detail?detail=' + url,
+    })
+
   },
   onLoad: function () {
     //var that = this; 
@@ -41,7 +49,8 @@ Page({
   
   loadmessages: function() {
     var that = this; 
-    var message = new Array();
+    var messages = new Array();
+    var message = new Object();
     for (var i = 4; i < 7; i++) {
       wx.request({
         url: 'http://122.152.233.115:8080/v1/text/' + String(i),
@@ -50,9 +59,17 @@ Page({
         },
         method: 'GET',
         success: function (res) {
-          console.log(res.data.Title);
-          that.setData({ title: res.data.Title })
-          //message.push(res.data)
+          //console.log(res.data.Title);
+          message.Author=res.data.Author;
+          message.Title=res.data.Title;
+          message.Id = res.data.Id;
+          message.Summary = res.data.Summary;
+          message.Text = res.data.Text;
+          message.Time = res.data.Time;
+          message.Url = res.data.Url;
+          messages.push(message)
+          that.setData({ messages: messages })
+          
         }
 
       })

@@ -1,4 +1,4 @@
-<view class="content">
+<!--<view class="content">
    <swiper style='height:800px'><swiper-item>
      <view class='title'>
        努力拼搏，青春飞扬--记我院学子参加校2018年运动会
@@ -26,4 +26,6 @@
      </view>
 
    </swiper-item></swiper>
-</view>
+</view>-->
+<text>666</text>
+<web-view src='{{url}}'></web-view>
