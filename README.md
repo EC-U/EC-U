@@ -1,4 +1,4 @@
-# EC-U
-ECNU double creation project by Dylan Niu
-
-两天了还没有人push吗…… ————2018/11/14
+2019-3-1
+	多爬取社团的公众号
+	需要大量标注数据
+	考虑用其他学校、公众号的推文以获取大量数据
