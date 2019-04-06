@@ -1,0 +1,911 @@
+
+ <section class="tn-Powered-by-XIUMI" style="white-space: normal;">
+  <section class="tn-Powered-by-XIUMI" style="margin: 0px; padding: 10px; border: 2px dotted white; border-image-source: none; color: rgb(255, 255, 255); line-height: 1.4; font-family: inherit; font-size: 1em; text-decoration: inherit; max-width: 100%; box-sizing: border-box; box-shadow: rgb(225, 225, 225) 8px 8px 3px; background-color: rgb(71, 193, 168);">
+   <section class="tn-Powered-by-XIUMI" style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box;">
+    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; white-space: pre-wrap; min-height: 1em; max-width: 100%; box-sizing: border-box !important;">
+     <span style="font-family: inherit; font-size: 1em; line-height: 1.4; text-decoration: inherit;">
+      编者按：2015年10月17-18日在华东师范大学举行的“全国首届教育实证研究论坛”，盛况空前，受到教育研究领域相关人员以及相关媒体的广泛关注。论坛特邀专家的发言文稿已陆续通过“教育公平协同创新中心”公共号发布，本期是本次论坛最后一次推送！欲参阅更多专家的发言稿，请关注本公众号后查看历史消息。
+     </span>
+     <span style="margin: 0px; padding: 0px; line-height: 1.4; font-family: inherit; font-size: 1em; text-decoration: inherit; max-width: 100%; box-sizing: border-box !important;">
+     </span>
+    </p>
+   </section>
+  </section>
+  <strong>
+   <span style="font-family: 宋体;">
+    <br/>
+   </span>
+  </strong>
+  <br/>
+ </section>
+ <p style="white-space: normal;">
+  <strong>
+   <span style="font-family: 宋体;">
+    <br/>
+   </span>
+  </strong>
+ </p>
+ <p style="white-space: normal; text-align: center;">
+  <strong>
+   <span style="font-family: 宋体;">
+    定量研究方法在教育经济学中的应用
+   </span>
+  </strong>
+ </p>
+ <p style="white-space: normal; text-align: right;">
+  <span style="font-family: 宋体;">
+   ——在“全国首届教育实证研究论坛”上的发言
+  </span>
+ </p>
+ <p style="white-space: normal; text-align: center;">
+  <span style="font-family: 宋体;">
+   岳昌君
+  </span>
+  <span style="font-family: 宋体;">
+   北京大学教育学院副院长
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   我今天跟大家分享的题目是“定量研究方法在教育经济学中的应用”。实证研究方法有很多，我想聚焦在定量研究方法上，谈谈自己作研究和学习的一点体会。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   我们进入了一个史无前例的阶段，人类从物质和黄金为基础的社会，进入了以能源和信息为基础的社会。全球
+  </span>
+  70
+  <span style="font-family: 宋体;">
+   亿人口中近
+  </span>
+  30
+  <span style="font-family: 宋体;">
+   亿成为网络人口。三分之二的美国工作是跟信息处理有关的。最早提出“大数据”时代到来的麦肯锡称：“数据，已经渗透到当今每一个行业和业务领域，成为重要的生产因素。对于海量数据的挖掘和运用，预示着新一波生产率增长和消费者盈余浪潮的到来。”第三次工业革命正在来临，制造业正转向数字化。这些变化给了我们一个启示，教育研究是否也正在转向数字化？
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   教科文组织每年发布教育统计报告，并且给出世界教育指标体系构架图。各国教育的需求和供给受经济、政治、社会、文化、人口结构等外部因素的影响。普遍的情况是教育需求很大，而教育供给相对不足，因此教育研究考虑更多的是在供给方面。当教育资源不足，教育产品成为稀缺产品的时候，教育资源如何分配和利用就成为关注的重点。因此，教育效率和教育公平是特别值得关注的。除了数量，教育质量也非常重要。评价教育公平、效率、质量都要用数据说话，因此定量方法在教育研究中是常见的方法。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <strong>
+   <span style="font-family: 宋体;">
+    一、为什么数值大小是重要的
+   </span>
+  </strong>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   我想从四个方面谈谈我作教育研究和学习的体会。第一，为什么数值大小是重要的？很多人说实证研究的意义不大，认为不做实证研究也能知道结论。实际上，定量研究不仅关注变量之间的正负关系，还特别能够知道数值的大小。以个人教育收益率的研究为例。首先要问上学对于个人收入究竟有多大好处？我们不仅知道教育收益率为正，更要知道具体数值！第二个问题，为什么
+  </span>
+  90
+  <span style="font-family: 宋体;">
+   年代比
+  </span>
+  80
+  <span style="font-family: 宋体;">
+   年代上大学机会多了，可是社会对上大学的需求声音更强烈了？我们需要从教育收益率的变化趋势来分析。第三个问题，男性与女性的教育收益率有差异吗？如果有差异，女性上大学收益更大的话，我们就要更多保护女性受教育的权利。第四个问题，哪一个教育层级的教育收益率最大？不同层级的教育收益率大小会决定政府教育经费的投资效率。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   下面就以教育收益率为例来看如何做教育收益率的研究（有关效率问题）。参考文献是我发表在《经济学季刊》上的一篇文章《教育对个人收入差异的影响》和专著《教育计量学》。采用的方法是计量回归方法，包括四个过程：模型设计、模型估计、模型检验、模型应用。在模型设计中首先要有理论假说。明瑟在解释收入差异时，认为在一个完全竞争的劳动力市场上，人力资本是决定个人收入的关键因素。因此，可以提出理论假设：个人收入水平随着个人从学校教育中获得的知识和工作中积累的能力提高而增加。有了理论要建立数学模型，确定变量之间的关系，人们的收入与受教育年限和工作年限有关系。再把它变成具体的模型，收入的对数与受教育年限呈线性关系，与工作年限呈二次函数关系。加入随机扰动项，将数学模型变为计量回归模型，这样模型就确定好了。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   第二过程是模型估计。估计必须要有数据。文章使用的数据就是国家统计局城镇居民入户调查数据。估计的方法是
+  </span>
+  OLS
+  <span style="font-family: 宋体;">
+   回归方法，用的统计软件是
+  </span>
+  STATA
+  <span style="font-family: 宋体;">
+   。回归结果得到了参数值的估计大小。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   第三过程是模型检验。一是理论检验。理论上说受教育年限的系数是正的，工作年限的二次函数是开口向下的。各项回归系数与理论假设完全一致，不仅符号是对的，而且取值范围也是合理的。二是统计检验，系数和模型的显著性在统计上都达到
+  </span>
+  1%
+  <span style="font-family: 宋体;">
+   。拟合优度为
+  </span>
+  0.166
+  <span style="font-family: 宋体;">
+   。三是计量检验，文章进行了异方差和多重共线性检验。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   第三过程是模型应用。教育收益率为
+  </span>
+  8.2%
+  <span style="font-family: 宋体;">
+   ，说明多上一年学平均来说年收入会增加
+  </span>
+  8.2%
+  <span style="font-family: 宋体;">
+   。国际平均水平在
+  </span>
+  12%
+  <span style="font-family: 宋体;">
+   左右，所以
+  </span>
+  2000
+  <span style="font-family: 宋体;">
+   年时我国城镇居民的教育收益率还比较低。另外看看工作年限对收入的影响，通过回归结果可以计算出来，哪一年的收入能够达到最大值？结果显示到
+  </span>
+  74
+  <span style="font-family: 宋体;">
+   年的时候才会达到最大值。这说明人们的收入情况都是在抛物线的左边。可以解释，为什么大家都不愿意退休？当人们的收入正在增加的时候你还让他退休，没有人愿意。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   关于第二个问题，教育收益率是如何变化的？从
+  </span>
+  1988
+  <span style="font-family: 宋体;">
+   年到
+  </span>
+  2001
+  <span style="font-family: 宋体;">
+   年，教育收益率的总体趋势非常明显，呈现上升的趋势，由
+  </span>
+  1988
+  <span style="font-family: 宋体;">
+   年的
+  </span>
+  4.0%
+  <span style="font-family: 宋体;">
+   上升至
+  </span>
+  2001
+  <span style="font-family: 宋体;">
+   年的
+  </span>
+  10.2%
+  <span style="font-family: 宋体;">
+   。为什么
+  </span>
+  80
+  <span style="font-family: 宋体;">
+   年代初上大学的机会只有
+  </span>
+  4%
+  <span style="font-family: 宋体;">
+   ，可是人们对高等教育入学机会的不满并不大？是因为上不上大学，人们的收入差异并不大。而现在是否上过大学的收入差别非常大，并且不同大学的收入差别也很大。所以，教育收益率的变化改变了人们对高等教育的需求。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   关于第三个问题，教育收益率是否存在性别差异。我们利用虚拟变量法将两模型合并为一个模型。来看教育收益率是否有性别差别？回归结果显示，女性教育收益率为
+  </span>
+  9.74%
+  <span style="font-family: 宋体;">
+   ，男性为
+  </span>
+  6.6%
+  <span style="font-family: 宋体;">
+   。男性比女性低
+  </span>
+  0.032
+  <span style="font-family: 宋体;">
+   个百分点，说明女性上大学是更合算的。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   关于第四个问题，哪一教育层级的教育收益率最大？通过把不同教育层级用虚拟变量的形式引入回归模型，回归结果发现初中生教育收益率为
+  </span>
+  4.6%
+  <span style="font-family: 宋体;">
+   ，高中生是
+  </span>
+  6.0%
+  <span style="font-family: 宋体;">
+   ，中专是
+  </span>
+  8.6%
+  <span style="font-family: 宋体;">
+   ，专科生
+  </span>
+  9.1%
+  <span style="font-family: 宋体;">
+   ，而本科生以上达到
+  </span>
+  12.7%
+  <span style="font-family: 宋体;">
+   。说明教育层级越高，教育收益率越大。这是中国的特有现象。美国的基础教育回报率最高，因此美国政府给基础教育投资更多，而我们国家政府给高等教育的投资相对更多。中美两国的公共教育投资都是与效率一致的。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   第二个例子是有关高校毕业生流动的研究（有关公平问题）。高校毕业生的流动模式是什么样的形式？流动会带来什么样的后果？我的一篇相关文章发表《中国高等教育》，题目是“我国阶梯型劳动利市场中的高校毕业生就业结构与对策”。这篇文章讨论了跨省流动和跨城乡流动。指出“向上向东”的流动模式，提出“逆向补贴”的不公平观点。研究发现，毕业生流动中“孔雀东南飞”的现象严重。京津沪地区的流入与流出比达到
+  </span>
+  12.5%
+  <span style="font-family: 宋体;">
+   ，京津沪的学生每流出去
+  </span>
+  1
+  <span style="font-family: 宋体;">
+   人，流入的是
+  </span>
+  12.5
+  <span style="font-family: 宋体;">
+   人。从流动规模看，京津沪地区净流入
+  </span>
+  12.7
+  <span style="font-family: 宋体;">
+   万人。东部地区（不含京津沪）净流入
+  </span>
+  15.4
+  <span style="font-family: 宋体;">
+   万人。中部地区净流出
+  </span>
+  24
+  <span style="font-family: 宋体;">
+   万人。西部地区净流出
+  </span>
+  4
+  <span style="font-family: 宋体;">
+   万人。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   从分省比较看，在图中蓝颜色表示净流出省份，黄颜色是净流入。统计指标是流入与流出比，西部有三个省份，新疆、西藏、云南，都是净流入。但是看规模的话这三个省份的流入规模非常小。按规模排序，净流入最多的省份依次是广东、北京、上海、江苏、浙江、天津。净流出最多的是湖南、安徽、河南、山西、山东、广西。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   高校毕业生“向东”流动意味着人才的流失。高校毕业生“向东”流动也是资金的流失，是一种“逆向补贴”。以
+  </span>
+  2009
+  <span style="font-family: 宋体;">
+   年为例：中部地区净流出
+  </span>
+  170,046
+  <span style="font-family: 宋体;">
+   人，相当于向其他地区补贴了
+  </span>
+  34.56
+  <span style="font-family: 宋体;">
+   亿元教育经费。西部地区净流出
+  </span>
+  63,532
+  <span style="font-family: 宋体;">
+   人，相当于向其他地区补贴了
+  </span>
+  12.91
+  <span style="font-family: 宋体;">
+   亿元教育经费。京津沪地区净流入
+  </span>
+  116,656
+  <span style="font-family: 宋体;">
+   人，相当于从其他地区获得了
+  </span>
+  23.71
+  <span style="font-family: 宋体;">
+   亿元教育经费补贴。东部地区（不包括京津沪）净流入
+  </span>
+  116,985
+  <span style="font-family: 宋体;">
+   人，相当于从其他地区获得了
+  </span>
+  23.78
+  <span style="font-family: 宋体;">
+   亿元教育经费补贴。因此，中西部地区其实每年都向东部补贴，所以我建议公共财政应该多向中西部地区倾斜，让中西部有更多的像北大、清华、北师大、华师大一样的好学校，让他们在当地就有好学上。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <strong>
+   <span style="font-family: 宋体;">
+    二、定量方法有何独特的价值
+   </span>
+  </strong>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   以上两个例子我想说的是，数值的大小有的时候是非常重要的。第二点我想谈一下，定量方法到底有什么独特的价值呢？不做定量研究有些结果是不是能够发现？从我的体会讲，有些时候只有定量方法才能够帮助我们有更多的发现，定量方法会给教育研究插上飞翔的翅膀。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   下面我以分位数回归方法为例，说明方法的独特性。研究教育收益率通常采用多元线性回归模型，衡量的是收入（对数形式）的算数平均值与解释变量之间的关系。那么中位数、具体的
+  </span>
+  10%
+  <span style="font-family: 宋体;">
+   、
+  </span>
+  20%
+  <span style="font-family: 宋体;">
+   、
+  </span>
+  30%
+  <span style="font-family: 宋体;">
+   等百分位数与解释变量有怎样的关系？分位数回归就是看不同收入群体的教育收益率大小。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   在教育经济学中经常讨论公平与效率的关系问题，两者是否能够兼得？人们常常觉得好像追求效率就不能保证公平，反之亦然。我的一项研究发现，其实在有些情况下，公平和效率可以是一致的。这篇文章“教育对不同群体收入的影响”发表在《北大教育评论》上，《新华文摘》可能觉得结论有意思，所以就全文转载了。文章主要探讨了“低能力”群体的教育收益率。分学历层级看，受教育程度越高，人们的收入就越多。从分组的收入差异看，有一个明显的趋势，教育程度越高，组内收入的基尼系数越小。研究生组内的基尼系数为
+  </span>
+  0.291
+  <span style="font-family: 宋体;">
+   ，而小学组内的基尼系数为
+  </span>
+  0.415
+  <span style="font-family: 宋体;">
+   。可见，提高全体居民的受教育水平，有利于缩小居民的收入差距。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   采用分位数回归方法，可以估计各百分位数与受教育年限和工作年限的关系。
+  </span>
+  PPT
+  <span style="font-family: 宋体;">
+   上给出了具体数学公式和计量回归模型。分位数回归结果显示，位于最低收入
+  </span>
+  10%
+  <span style="font-family: 宋体;">
+   的组，教育收益率最高，为
+  </span>
+  16.0%
+  <span style="font-family: 宋体;">
+   。位于最低收入
+  </span>
+  20%
+  <span style="font-family: 宋体;">
+   、
+  </span>
+  30%
+  <span style="font-family: 宋体;">
+   、
+  </span>
+  40%
+  <span style="font-family: 宋体;">
+   的组，教育收益率分别为
+  </span>
+  13.7%
+  <span style="font-family: 宋体;">
+   、
+  </span>
+  12.7%
+  <span style="font-family: 宋体;">
+   、
+  </span>
+  11.8%
+  <span style="font-family: 宋体;">
+   ，均高于
+  </span>
+  50%
+  <span style="font-family: 宋体;">
+   、
+  </span>
+  60%
+  <span style="font-family: 宋体;">
+   、
+  </span>
+  70%
+  <span style="font-family: 宋体;">
+   、
+  </span>
+  80%
+  <span style="font-family: 宋体;">
+   、
+  </span>
+  90%
+  <span style="font-family: 宋体;">
+   百分位数的教育收益率。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   基本结论有两点：我国城镇居民的个人教育收益率已经超过
+  </span>
+  10
+  <span style="font-family: 宋体;">
+   ％，普通最小二乘法的回归系数为
+  </span>
+  12.3
+  <span style="font-family: 宋体;">
+   ％，中位数回归系数为
+  </span>
+  10.8
+  <span style="font-family: 宋体;">
+   ％。从分位数回归的结果看，“弱收入能力群体”的教育收益率显著高于“强收入能力群体”的教育收益率。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   政策含义为：教育对收入有显著的影响
+  </span>
+  (
+  <span style="font-family: 宋体;">
+   教育收益率高
+  </span>
+  )
+  <span style="font-family: 宋体;">
+   。教育机会均等有利于促进收入平等（教育层次高的群体收入差异的基尼系数小）。在教育投资方面，可以实现公平与效率的统一
+  </span>
+  (
+  <span style="font-family: 宋体;">
+   “低收入能力群体”的个人教育收益率相对更大
+  </span>
+  )
+  <span style="font-family: 宋体;">
+   。这篇文章的核心在于教育投资，说明某些方面可以实现公平与效率的统一。本文的这个发现，是源于分位数回归的特殊方法。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   再举一个有关性别歧视的例子。性别歧视到底存在不存在呢？对于个别人来讲肯定存在，对于群体来讲，未必。如果有歧视，歧视所占的比例到底有多大？如果没有实证研究，很难回答这个问题。在实证研究中，
+  </span>
+  Oaxaca
+  <span style="font-family: 宋体;">
+   性别差异分解模型就可以很好地回答这一问题。我本人指导的一篇博士论文“我国高校毕业生就业性别差异研究”和一篇硕士论文“
+  </span>
+  20
+  <span style="font-family: 宋体;">
+   世纪
+  </span>
+  90
+  <span style="font-family: 宋体;">
+   年代以来性别工资差异研究”，就是采用这一方法。如果没有定量研究方法肯定是估计不出来的。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   我们可以将
+  </span>
+  Oaxaca
+  <span style="font-family: 宋体;">
+   性别差异分解模型扩展，分析别的差异问题。我与一位博士生今年在《高等教育研究》上发表了一篇文章“城乡背景下高校毕业生就业差异的实证研究”，采用的也是这一方法。结果显示，农村背景的高校毕业生在工作落实上存在被歧视现象（
+  </span>
+  42.9%
+  <span style="font-family: 宋体;">
+   ），而在起薪上不存在歧视。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   还有很多定量研究方法，北卡罗莱纳大学比尔教授的发言提到，教育数据经常都是分层的，学生来自不同的地区、不同的学校、不同的班级，这种数据适合采用分层线性模型。有的时候研究问题是多投入，多产出，有一些中间变量，这时候需要采用结构方程模型。如果我们研究效率，产出为单一变量，则适合用随机前沿模型。如果是多投入多产出，适合用数据包络分析方法。如果研究增值问题，需要用倍差分析模型（
+  </span>
+  DID
+  <span style="font-family: 宋体;">
+   ），适用于对政策干涉的评价。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   很多教授的发言都谈到了问题导向，确实如此。实证研究的定量方法非常多，必须先确定问题，然后再寻找相应的方法。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <strong>
+   <span style="font-family: 宋体;">
+    三、怎样解释实证研究的结果
+   </span>
+  </strong>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   第三方面我想谈一下，怎样解释实证研究的结果？现在的统计软件很多，给教育研究者带来了很大的便捷，但如何使用非常重要，特别是对实证研究结果的解释，需要特别小心。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   以城乡居民的教育差异为例。我们来看国家统计局
+  </span>
+  1982
+  <span style="font-family: 宋体;">
+   年、
+  </span>
+  1990
+  <span style="font-family: 宋体;">
+   年、
+  </span>
+  2000
+  <span style="font-family: 宋体;">
+   年三次人口普查数据中分城乡的平均受教育年限。绿颜色和蓝颜色分别表示城市和农村的平均受教育年限。从柱状图中大家能看出怎样的趋势？城乡之间教育差异到底变大了？还是变小了？还是没有变化？显然，我们可以看到城市和农村的平均受教育年限都在增长，像这样的统计数据可以有不同的观点。第一种观点是相对差异（农村
+  </span>
+  /
+  <span style="font-family: 宋体;">
+   城市）变小了。
+  </span>
+  1982
+  <span style="font-family: 宋体;">
+   年农村的平均受教育年限与城市的比值是
+  </span>
+  63%
+  <span style="font-family: 宋体;">
+   ，
+  </span>
+  1990
+  <span style="font-family: 宋体;">
+   年上升至
+  </span>
+  68%
+  <span style="font-family: 宋体;">
+   ，
+  </span>
+  2000
+  <span style="font-family: 宋体;">
+   年上升到
+  </span>
+  72%
+  <span style="font-family: 宋体;">
+   ，所以相对差异变小了。第二种观点是绝对差异（城市减农村）没有变小也没有变大。看城乡之间绝对年数的差异，
+  </span>
+  1982
+  <span style="font-family: 宋体;">
+   年相差
+  </span>
+  2.9
+  <span style="font-family: 宋体;">
+   年、
+  </span>
+  1990
+  <span style="font-family: 宋体;">
+   年相差
+  </span>
+  2.8
+  <span style="font-family: 宋体;">
+   年，
+  </span>
+  2000
+  <span style="font-family: 宋体;">
+   年相差
+  </span>
+  2.9
+  <span style="font-family: 宋体;">
+   年。第三种观点是教育对收入的影响变大了。
+  </span>
+  1982
+  <span style="font-family: 宋体;">
+   年，城乡受教育程度都比较低，差三年对收入的影响是
+  </span>
+  Y1
+  <span style="font-family: 宋体;">
+   ，
+  </span>
+  2000
+  <span style="font-family: 宋体;">
+   年差三年对收入的影响是
+  </span>
+  Y2
+  <span style="font-family: 宋体;">
+   ，从图上可以看到，收入差异明显变大了。所以我们对这个结果分析时需要很小心。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   第六个例子是变异系数的应用。文章“普通高校经费的地区差异分析”发表在《中国高校研究》上。考察一个变量统计描述上通常从集中趋势、变异程度和分布状况进行分析。变异系数看的是相对差异，这篇文章计算了
+  </span>
+  1998-2010
+  <span style="font-family: 宋体;">
+   年间各地区普通高校生均经费的变异系数。从四个口径的统计结果看，总体趋势都是倒
+  </span>
+  U
+  <span style="font-family: 宋体;">
+   形状的，
+  </span>
+  2005
+  <span style="font-family: 宋体;">
+   年是最高点。结果显示，
+  </span>
+  1999
+  <span style="font-family: 宋体;">
+   年到
+  </span>
+  2005
+  <span style="font-family: 宋体;">
+   年生均经费的变异系数呈现增长趋势，
+  </span>
+  2006
+  <span style="font-family: 宋体;">
+   年以后都是下降趋势。不用统计很难发现这个现象，我们在分析时要特别小心，对背后的原因要努力寻找。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   什么是生均经费？就是经费总投入除以学生总数，分子分母都在变，哪个变得更大呢？很容易知道分母变得更大，因为分母是高校学生规模。改革开放以来，中国的高校扩招呈现两位数增长其实只有两次，一次是
+  </span>
+  1992
+  <span style="font-family: 宋体;">
+   年和
+  </span>
+  1993
+  <span style="font-family: 宋体;">
+   年，连续两年都是两位数的增长速度。第二次扩招是
+  </span>
+  1999
+  <span style="font-family: 宋体;">
+   年到
+  </span>
+  2005
+  <span style="font-family: 宋体;">
+   年，连续扩招了七年。
+  </span>
+  2006
+  <span style="font-family: 宋体;">
+   年之后增速下降到个位数。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   下面再以公共教育投资比例的研究为例。王善迈教授的发言介绍了公共教育投资比例
+  </span>
+  4%
+  <span style="font-family: 宋体;">
+   的研究的由来。
+  </span>
+  2002
+  <span style="font-family: 宋体;">
+   年，教育部成立中国教育与人力资源问题报告课题组，对公共教育投资比例
+  </span>
+  4%
+  <span style="font-family: 宋体;">
+   的问题进行了后续研究。研究结果《从人口大国迈向人力资源强国》由高等教育出版社正式出版。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   我本人承担了公共教育投资比例的计量回归预测。下面我主要讲讲研究方法。首先是理论假说：教育投入供不应求的情况下，一般而言，公共教育投资比例随着经济发展水平的提高而增加。其次是定量方法，采用一元线性回归模型：
+  </span>
+  edugdp=a+bln(GDPPC)+u
+  <span style="font-family: 宋体;">
+   ，数据来源于
+  </span>
+  UNESCO
+  <span style="font-family: 宋体;">
+   的世界教育指数（
+  </span>
+  WEI
+  <span style="font-family: 宋体;">
+   ）和世界银行世界发展指数（
+  </span>
+  WDI
+  <span style="font-family: 宋体;">
+   ）。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  PPT
+  <span style="font-family: 宋体;">
+   表中给出的是结果应用，对未来十几年的预测。预测结果显示，
+  </span>
+  2014
+  <span style="font-family: 宋体;">
+   年时中国财政性教育经费投资比例为
+  </span>
+  4.14%
+  <span style="font-family: 宋体;">
+   ，
+  </span>
+  2014
+  <span style="font-family: 宋体;">
+   年的实际比例是
+  </span>
+  4.15%
+  <span style="font-family: 宋体;">
+   ，可见当时（
+  </span>
+  12
+  <span style="font-family: 宋体;">
+   年前）的预测还是比较准的。
+  </span>
+  PPT
+  <span style="font-family: 宋体;">
+   图上比较了我本人的预测与总报告的观点。蓝颜色是我做的结果，黄颜色是主报告的结果。我当时预测
+  </span>
+  2010
+  <span style="font-family: 宋体;">
+   年的比例是
+  </span>
+  4.0%
+  <span style="font-family: 宋体;">
+   ，主报告是
+  </span>
+  4.5%
+  <span style="font-family: 宋体;">
+   。
+  </span>
+  2020
+  <span style="font-family: 宋体;">
+   年我预测是
+  </span>
+  4.3%
+  <span style="font-family: 宋体;">
+   ，总报告是
+  </span>
+  5.0%
+  <span style="font-family: 宋体;">
+   。我没有预测
+  </span>
+  2050
+  <span style="font-family: 宋体;">
+   年的情况。从计量经济学的方法看，不能对
+  </span>
+  50
+  <span style="font-family: 宋体;">
+   年后的情况预测，意义不大。因为离样本平均值越远，预测值的置信系数就越小，就没有意义了。因此，定量研究方法不是万能的，一定考虑使用的条件和有效性。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <strong>
+   <span style="font-family: 宋体;">
+    四、教育研究中有哪些数据库
+   </span>
+  </strong>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   最后是教育研究当中有哪些数据库？做研究，特别是实证研究，再好的办法也好不过数据。国际比较常用的数据有
+  </span>
+  OECD
+  <span style="font-family: 宋体;">
+   的教育数据库《
+  </span>
+  Education at a Glance
+  <span style="font-family: 宋体;">
+   》、
+  </span>
+  UNESCO
+  <span style="font-family: 宋体;">
+   统计局的《世界教育指标》、世界银行《世界发展指标》等等。微观调查数据是个体的，家庭的，常常更有用处。国外的调查数据常用的有：美国的综合社会调查（
+  </span>
+  GSS
+  <span style="font-family: 宋体;">
+   ）、欧洲社会调查（
+  </span>
+  ESS
+  <span style="font-family: 宋体;">
+   ）、英国家庭追踪调查（
+  </span>
+  BHPS
+  <span style="font-family: 宋体;">
+   ）、英国社会态度调查（
+  </span>
+  BAS
+  <span style="font-family: 宋体;">
+   ）等等。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   有关中国的调查数据常见的有：国家统计局调查队的入户调查数据、北大的中国家庭动态跟踪调查（
+  </span>
+  CFPS
+  <span style="font-family: 宋体;">
+   ）、中国人民大学中国综合社会调查（
+  </span>
+  CGSS
+  <span style="font-family: 宋体;">
+   ）、北卡大学与中国卫生部联合的中国健康与养老调查（
+  </span>
+  China Health and Nutrition Survey
+  <span style="font-family: 宋体;">
+   ，
+  </span>
+  CHNS
+  <span style="font-family: 宋体;">
+   ）等等。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   我们北大也经常作一些调查，比如说高校毕业生就业状况调查，每两年进行一次，每次规模在两万人左右。我们还有首都高校的就业调查数据和首都高校学生发展调查，等等。总之，我们特别注重数据库的建设，只有好的数据库，有好的研究方法，才能做出好的成果。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   总结一下，这是一个全球化、互联网与大数据交互的时代。教育研究的空间和方法不断扩大和增加，教育研究越来越多地体现出以下特点：用数据来描述现象，用模型解释变化，用理论分析原因，用实证建言政策。所以教育研究者要做到心中有“数”。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   北京大学赵耀辉老师说：“
+  </span>
+  2015
+  <span style="font-family: 宋体;">
+   年的诺贝尔经济学奖颁给了
+  </span>
+  Angus Deaton
+  <span style="font-family: 宋体;">
+   教授，很多人觉得意外，因为
+  </span>
+  Deaton
+  <span style="font-family: 宋体;">
+   教授名下没有什么革命性的理论突破，他的工作都是实证研究，而且都是应用了微观个体数据对消费、贫困、福祉等领域开展研究工作。这在诺贝尔经济学奖的历史上是第一次。从这个意义上看，诺贝尔奖承认了一个已经发生的事实，就是经济学的重心已经从研究理论和宏观总体现象转移到了微观实证研究，它同时发出了一个重要的信号，即未来经济学科发展趋势将更加注重基于微观数据的研究。”对教育研究来说可能也是重要的启示，教育研究也将越来越多地关注微观调查数据，针对具体的教育问题进行分析。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 28px;">
+  <span style="font-family: 宋体;">
+   我的发言到此为止，谢谢大家的聆听！
+  </span>
+ </p>
+ <p style="white-space: normal; text-align: right;">
+  <br/>
+ </p>
+ <p style="white-space: normal; text-align: right;">
+  <br/>
+ </p>
+ <p style="white-space: normal; text-align: right;">
+  来源|嘉宾论坛发言速记稿整理
+ </p>
+ <p style="white-space: normal; text-align: right;">
+  编辑|张凯
+ </p>
+ <p style="white-space: normal; text-align: right;">
+  审核|李政涛
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p>
+  <br/>
+ </p>
+ <section class="" style="white-space: normal; box-sizing: border-box; background-color: rgb(255, 255, 255);">
+  <section class="" style="box-sizing: border-box;">
+   <section class="tn-Powered-by-XIUMI">
+    <section class="tn-Powered-by-XIUMI" style="border-color: rgb(95, 156, 239); margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: inherit; font-size: 1em; text-decoration: inherit; max-width: 100%; box-sizing: border-box;">
+     <section class="tn-Powered-by-XIUMI" style="margin: 0px; padding: 0px; height: 16px; max-width: 100%; box-sizing: border-box;">
+      <section class="tn-Powered-by-XIUMI" style="border-color: rgb(95, 156, 239); margin: 0px; padding: 0px; width: 24px; height: 16px; border-top-width: 6px; border-left-width: 6px; border-top-style: solid; border-left-style: solid; float: left; max-width: 100%; box-sizing: border-box;">
+      </section>
+      <section class="tn-Powered-by-XIUMI" style="border-color: rgb(95, 156, 239); margin: 0px; padding: 0px; width: 24px; height: 16px; border-top-width: 6px; border-right-width: 6px; border-top-style: solid; border-right-style: solid; float: right; max-width: 100%; box-sizing: border-box;">
+      </section>
+      <section class="tn-Powered-by-XIUMI" style="margin: 0px; padding: 0px; color: transparent; clear: both; display: inline-block; max-width: 100%; box-sizing: border-box;">
+      </section>
+     </section>
+     <section class="tn-Powered-by-XIUMI" style="margin: -13px 3px; padding: 12px; border-radius: 6px; border: 1px solid rgb(95, 156, 239); border-image-source: none; line-height: 1.4; font-family: inherit; max-width: 100%; box-sizing: border-box;">
+      <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; text-align: center; max-width: 100%; box-sizing: border-box;">
+       <strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important;">
+        本公众号主要用于发布华东师范大学教育公平协同创新中心的阶段性及重大研究成果，敬请长按以下二维码关注我们！
+       </strong>
+      </p>
+     </section>
+     <section class="tn-Powered-by-XIUMI" style="margin: 0px; padding: 0px; height: 16px; max-width: 100%; box-sizing: border-box;">
+      <p style="margin-top: 0px; margin-bottom: 0px; border-color: rgb(95, 156, 239); padding: 0px; width: 24px; height: 16px; border-bottom-width: 6px; border-left-width: 6px; border-bottom-style: solid; border-left-style: solid; float: left; max-width: 100%; box-sizing: border-box;">
+       <strong style="margin: 0px; padding: 0px; text-align: center; line-height: 1.4; font-family: inherit; font-size: 1em; text-decoration: inherit; max-width: 100%; box-sizing: border-box !important;">
+        <br/>
+       </strong>
+      </p>
+     </section>
+    </section>
+   </section>
+   <p>
+    <br/>
+   </p>
+   <p style="text-align: center;">
+    <img data-ratio="1" data-s="300,640" data-type="jpeg" data-w="172" src="http://mmbiz.qpic.cn/mmbiz/3lSKGbngNK7BmOnEFPia2MGk2tKNf9NrM2rqLPDibZN54lXkOkP31h2MbNlXNvpaiaxVIgXwLIvFckkNibYccGaSIg/0?wx_fmt=jpeg"/>
+   </p>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p>
+  <br/>
+ </p>

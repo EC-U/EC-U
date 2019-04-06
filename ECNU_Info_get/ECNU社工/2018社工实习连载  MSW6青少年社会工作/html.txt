@@ -1,0 +1,288 @@
+
+ <section style="white-space: normal;box-sizing: border-box;">
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="width: 1em;height: 1em;float: right;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+     <section style="margin-top: 0.17em;margin-left: 0.57em;width: 0.33em;height: 0.33em;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+     </section>
+     <section style="width: 0.5em;height: 0.5em;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+     </section>
+    </section>
+    <section style="margin-bottom: -1em;padding-top: 10px;padding-bottom: 10px;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="text-align: center;box-sizing: border-box;">
+         <p style="clear: none;box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           栏目简介
+          </strong>
+         </p>
+         <p style="clear: none;text-align: left;text-indent: 2em;box-sizing: border-box;">
+          <span style="font-size: 14px;box-sizing: border-box;">
+           为增进社会工作专业学生的专业发展、自我成长和职业规划，促进社会工作专业学生培养过程中的理论与实务能力提升、教师-学生-督导三方互动，推进社会工作专业教学体系专业化、教学活动多元化和教学成果品牌化，社会工作系将2018年度学生专业实习成果进行整理和展示，以期在社会工作专业实习实践、总结和反思基础上，实现“以理论促实务、以实务促理论”的教学理念。让我们一起来看看大家的实习都是怎样的吧！
+          </span>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="width: 1em;height: 1em;float: left;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+     <section style="margin-left: 0.5em;width: 0.5em;height: 0.5em;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+     </section>
+     <section style="margin-left: 0.17em;width: 0.33em;height: 0.33em;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+     </section>
+    </section>
+    <section style="width: 1em;height: 1em;float: right;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+     <section style="width: 0.5em;height: 0.5em;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+     </section>
+     <section style="margin-left: 0.57em;width: 0.33em;height: 0.33em;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+     </section>
+    </section>
+    <section style="clear: both;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section style="margin: auto;width: 8px;height: 8px;border-radius: 50%;background-color: rgb(0, 0, 0);box-sizing: border-box;">
+      </section>
+      <section style="margin-top: -5px;margin-right: auto;margin-left: auto;width: 22px;box-sizing: border-box;">
+       <section style="height: 20px;transform: rotate(45deg);transform-origin: left center 0px;float: left;border-left: 1px solid rgb(142, 201, 101);border-top-color: rgb(142, 201, 101);border-right-color: rgb(142, 201, 101);border-bottom-color: rgb(142, 201, 101);box-sizing: border-box;">
+       </section>
+       <section style="height: 20px;border-left: 1px solid rgb(142, 201, 101);transform: rotate(-45deg);transform-origin: right center 0px;float: right;border-top-color: rgb(142, 201, 101);border-right-color: rgb(142, 201, 101);border-bottom-color: rgb(142, 201, 101);box-sizing: border-box;">
+       </section>
+       <section style="clear: both;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section style="margin-top: -3px;padding: 2px 8px;display: inline-block;vertical-align: top;border-radius: 5px;color: rgb(255, 255, 255);background-color: rgb(142, 201, 101);box-sizing: border-box;">
+      <p style="box-sizing: border-box;">
+       <strong style="box-sizing: border-box;">
+        实习概况
+       </strong>
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="padding-top: 10px;padding-bottom: 10px;display: inline-block;width: 556px;vertical-align: top;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="padding-right: 25px;padding-left: 25px;color: rgb(6, 6, 6);font-size: 14px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          实习机构：
+         </strong>
+        </p>
+        <p style="box-sizing: border-box;">
+         上海复源社工师事务所
+        </p>
+        <p style="box-sizing: border-box;">
+         上海市闵行区活力社区服务中心
+        </p>
+        <p style="box-sizing: border-box;">
+         上海市闵行区橄榄枝社工师事务所
+        </p>
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          学校督导：
+         </strong>
+         王海萍 韩晓燕
+        </p>
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          机构督导：
+         </strong>
+         熊春燕 刘璐
+        </p>
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          组员：
+         </strong>
+         李欠 倪梦迪 毛欠 赵梦月 梁永杰
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="padding-top: 10px;padding-bottom: 10px;display: inline-block;width: 556px;vertical-align: top;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: -10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="padding-right: 5px;padding-left: 5px;display: inline-block;vertical-align: top;height: 1.8em;line-height: 1.8em;background-color: rgb(142, 201, 101);color: rgb(255, 255, 255);border-radius: 5px 0px 0px 5px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          实习简介
+         </strong>
+        </p>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 0.5em;height: 1.8em;border-left: 0.9em solid rgb(142, 201, 101);box-sizing: border-box;border-bottom: 0.9em solid transparent !important;border-top: 0.9em solid transparent !important;">
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;box-sizing: border-box;">
+        <p>
+         根据所在实习机构的不同，在“橄榄枝”实习的同学在实习前期、中期和后期分别参与负责了机构评星材料准备及项目申请书撰写、社区需求调研和项目初期对接及活动开展、个案工作开展和生涯规划意识提升小组，而在“活力社区”实习的同学主要参与负责了活力学堂协管、活力学堂课程开发及教案设计、大型活动筹备执行和项目进展报告等材料撰写整理的工作。
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 8px;margin-bottom: 8px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 556px;vertical-align: top;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+        <img class="" data-backh="282" data-backw="377" data-before-oversubscription-url="https://mmbiz.qpic.cn/mmbiz_png/8mXKElyEribIwtXNCan3u8Prg3SJ9ofhDu911OEfjhuia19C1Ev6mnCJbdkyiaNN0YWdesCUUFVpLJOURhOxG7P6Q/640?wx_fmt=png" data-copyright="0" data-cropselx1="0" data-cropselx2="556" data-cropsely1="0" data-cropsely2="288" data-oversubscription-url="http://mmbiz.qpic.cn/mmbiz_jpg/8mXKElyEribJ4SJ9iam5PSaS6DJXsAO6xu7dp5v6rXOODgo5EET7au5evg4A2KIIY5boKl3MicZjicvkiauiaMdiaR4dg/0?wx_fmt=jpeg" data-ratio="0.6552631578947369" data-type="png" data-w="760" src="https://mmbiz.qpic.cn/mmbiz_png/8mXKElyEribIwtXNCan3u8Prg3SJ9ofhDRU4c3RSgM83nfWW8j3A36gn53uqcVsMqdSQzssEXx7ibB9ousc9nhQg/640?wx_fmt=png" style="height: 364px;vertical-align: middle;box-sizing: border-box;width: 556px;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="padding-top: 10px;padding-bottom: 10px;display: inline-block;width: 556px;vertical-align: top;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: -10px;margin-bottom: 10px;text-align: right;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 0.5em;height: 1.8em;border-right: 0.9em solid rgb(142, 201, 101);box-sizing: border-box;border-bottom: 0.9em solid transparent !important;border-top: 0.9em solid transparent !important;">
+       </section>
+       <section style="padding-right: 5px;padding-left: 5px;display: inline-block;vertical-align: top;height: 1.8em;line-height: 1.8em;background-color: rgb(142, 201, 101);color: rgb(255, 255, 255);border-radius: 0px 4px 4px 0px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          实习小故事
+         </strong>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;box-sizing: border-box;">
+        <p>
+         绘本课的教室在图书室，书架上的大量图书都是按照编号整齐摆放的，但绘本课期间，孩子们会任意挑选书架上的书来看，临走时却又忘了摆回原处。所以这给我的整理工作带来一定困难，有一次下课在我收拾教室的时候，班上有两个女孩子还在教室里，“你愿意帮老师一起收拾吗？”“好！”其中一个长相甜美的女孩子爽快地答应了，那个年纪大一点的女孩子也答应了，“那以后你们做我的课代表好吗？”“好！”“那以后你就是我的小课代表，你就是我的小小课代表啦。”孩子们很开心，兴高采烈地帮我把教室收拾地井井有条，我们之间的距离一下子拉近了。
+        </p>
+        <p>
+         相似的情景还发生在趣味英语班级上。已经不止一次下课后，一个女孩子跑到我这里在我耳边悄悄说：“上课的时候他们很吵，吵得我们都没法上课了。”我让她描述一下是哪些人，其中谁吵得最凶。我开始留意她描述的那几个男孩子，在接下来每节课开始前，我提前来到班级，告诉大家我的“好主意”——实行轮流纪律委员制，每节课由我或者上周的小纪律委员指定，这两位小纪律委员的职责是找出本节课表现最好的两位同学，然后由此产生下节课的两位小纪律委员。这个方法在这周的课堂上奏了效，从上课志愿者老师的口中了解到这节课的纪律确实比上几周课堂好很多。
+        </p>
+        <p>
+         每个人都是渴望被认为是有价值的，孩子们的这种渴望表现得尤为明显。“课代表”、“纪律委员”对他们来说象征着一种荣誉和责任，也是一种变相的肯定。当他们被冠以此名的时候，会表现得更加卖力，把自己最好的一面展现出来，自然赢得更多的肯定和夸赞，从而形成一种良性循环。 （文/倪梦迪)
+        </p>
+        <p style="text-align: center;">
+         <img class="" data-copyright="0" data-ratio="0.7637540453074434" data-s="300,640" data-type="png" data-w="618" src="https://mmbiz.qpic.cn/mmbiz_png/8mXKElyEribIwtXNCan3u8Prg3SJ9ofhD3GmvwDXRaM4lQXE8f50wD5VEX3k6cCL1sOEf8nkPhmH7KhTxfa9Pcg/640?wx_fmt=png" style=""/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="padding-top: 10px;padding-bottom: 10px;display: inline-block;width: 556px;vertical-align: top;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: -10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="padding-right: 5px;padding-left: 5px;display: inline-block;vertical-align: top;height: 1.8em;line-height: 1.8em;background-color: rgb(142, 201, 101);color: rgb(255, 255, 255);border-radius: 5px 0px 0px 5px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          实习反思
+         </strong>
+        </p>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 0.5em;height: 1.8em;border-left: 0.9em solid rgb(142, 201, 101);box-sizing: border-box;border-bottom: 0.9em solid transparent !important;border-top: 0.9em solid transparent !important;">
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;box-sizing: border-box;">
+        <p>
+         <strong>
+          社会工作所学并不是社会工作职业的全部，你要进步的空间远远比你想象的多。
+         </strong>
+        </p>
+        <p>
+         在小组的开展过程中，工作者对组员的关注和接纳程度很大程度上决定了组员在小组中的参与度。对于个别小组组员而言，他们可能成绩不好，在班级中不被老师关注，工作者在小组中对于该组员的肯定和接纳会让他们感觉到被重视，体验到与班级不同的感觉，从而更加放心的在小组中表露自己，在和其他组员的互动中和小组改变氛围的影响之下，实现小组和个人改变的目标。
+        </p>
+        <p>
+         每一个小组组员都是一个独立的个体，在小组开展过程中，不仅要着重于小组目标的实现，如果组员在小组中表达了自己和小组主题不一致的问题，工作者也应该予以关注。
+        </p>
+        <p>
+         社工在活动中需要获得的基本信任，能建立良好的专业关系，从而社工能获得较准确以及较真实的组员想法，最终组员会愿意与社工分享自己的感受，社工应注意提高控场能力，特别是对于一些积极兴奋的组员，社工需要给予适当的提醒，有的组员不愿参与的情况可能是认为开场游戏有点幼稚。
+        </p>
+        <p>
+         政府定期或不定期对于社会工作机构开展的听证会能够极大地帮助社会工作专业进步，不仅仅是邀请社会工作机构的负责人，如果能邀请一线社会工作者，那么得到的专业建议将会更多。
+        </p>
+        <p>
+         无论从事什么领域，无论面对何种任务，都时刻以专业价值和专业性要求自己，从策划一场活动、完成一份执行方案，到志愿者和学员的招募、管理，活动的执行，再到活动后的总结反思会议，都可以把社工的理念和技巧运用进来。（文/所有组员）
+        </p>
+        <p style="text-align: center;">
+         <img class="" data-copyright="0" data-ratio="0.657192075796727" data-s="300,640" data-type="png" data-w="1161" src="https://mmbiz.qpic.cn/mmbiz_png/8mXKElyEribIwtXNCan3u8Prg3SJ9ofhD5K3ZCfGLwrdZTib1IlCiaXUEpib3HxZoicEib5nibB3RSurzxXRHhOaW8pOQ/640?wx_fmt=png" style=""/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="text-align: right;box-sizing: border-box;">
+      <br/>
+     </p>
+     <p style="text-align: right;box-sizing: border-box;">
+      <span style="font-size: 14px;box-sizing: border-box;">
+       编辑 | 魏晴
+      </span>
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="text-align: right;box-sizing: border-box;">
+      <br/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <img data-ratio="0.60625" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/8mXKElyEribIwtXNCan3u8Prg3SJ9ofhDrcRmNECtiaves1ajj6XIgw9iaLRwzFn5LN9LwVZEmqLZcHbGFu5sLEQw/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+   <p>
+    <br/>
+   </p>
+   <p>
+    <br/>
+   </p>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

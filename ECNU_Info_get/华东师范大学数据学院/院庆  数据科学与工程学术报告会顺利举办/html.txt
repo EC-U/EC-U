@@ -1,0 +1,884 @@
+
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 30px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 95%;vertical-align: top;box-shadow: rgb(185, 185, 185) 1.41421px 1.41421px 6px;padding: 5px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: -20px 0% 5px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.0604167" data-type="png" data-w="480" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6GJyuqTnILvdkWGwTjw1NeHiaCgpgJ9e8yibMEj8G6se9wIL9wPABrTeA/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;box-sizing: border-box;">
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         2018年12月24日下午，数据科学与工程学术报告会在华东师范大学中北校区办公楼小礼堂举办。本次报告会邀请了学院6位老师和学生代表介绍各自实验室的工作和成果，内容涵盖区块链数据库、数据库查询和并行化、混合负载处理优化、IT在线实训平台的建设、金融大数据处理实践、智慧交通实践等方面。本次报告会由我院董启文教授主持，学院70余名师生参加了报告会。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 5px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.665625" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6dwRos22OhFeaWLeaV3thBfTkad2bSpM0nPZNeHSjFtPfJ5zczGvepw/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: bottom;width: 88%;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-bottom: 5px;margin-left: 0%;box-sizing: border-box;">
+       <section style="display: inline-block;box-sizing: border-box;">
+        <section style="display: inline-block;vertical-align: bottom;border-bottom: 1px dashed rgb(175, 175, 175);margin-bottom: 0.25em;padding-left: 5px;padding-right: 5px;font-size: 14px;box-sizing: border-box;">
+         <p style="box-sizing: border-box;">
+          <span style="font-size: 14px;">
+           <strong>
+            一、区块链数据库——师大链（张召）
+           </strong>
+          </span>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 50px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 95%;vertical-align: top;box-shadow: rgb(176, 190, 197) 0px 0px 10px;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);padding-bottom: 20px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: -40px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 90%;vertical-align: top;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);padding: 10px;background-color: rgb(255, 255, 255);box-shadow: rgb(207, 116, 53) 0px 0px 3px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: justify;font-size: 14px;color: rgb(211, 160, 3);line-height: 1.8;box-sizing: border-box;">
+           <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+            张召副教授介绍了区块链实验室在过去一年半的工作和成果，以及师大链的自主研发过程。她从区块链相关知识入手，由浅入深一步一步地剖析了现有区块链系统中数据管理所存在的问题，并由此引出师大链的设计目标和实验室正在进行的工作。区块链数据库主要是对区块数据进行管理，她的研究团队对区块数据添加了关系语义，提出了以layered index为代表的索引结构，并基于索引优化了各种算子的执行，师大链支持来自轻客户端丰富的可验证查询，支持SQL-Like语言。最后，她向我们介绍了师大链的发展之路以及即将完成的2.0版本所增加的新功能，即高效的共识算法、智能合约并行执行、支持轻客户端，并指出师大链的未来将会给我们带来更多精彩内容。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;padding-right: 3px;padding-left: 3px;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;padding-right: 10px;padding-bottom: 10px;padding-left: 10px;margin-bottom: -2em;width: 100%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.665625" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6ZmHbfL9bhHUDw3OjIUtxNn5TwNSTy76QstqqVh7IIVhsF5XJoYa1bw/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="width: 6px;height: 6px;float: left;background-color: rgb(62, 62, 62);margin-left: -3px;border-radius: 100%;box-sizing: border-box;">
+       </section>
+       <section style="width: 6px;height: 6px;margin-right: -3px;background-color: rgb(62, 62, 62);float: right;border-radius: 100%;box-sizing: border-box;">
+       </section>
+       <section style="height: 2em;border-left: 1px solid rgb(62, 62, 62);border-bottom: 1px solid rgb(62, 62, 62);border-right: 1px solid rgb(62, 62, 62);border-top-color: rgb(62, 62, 62);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 20px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 97%;vertical-align: top;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="display: inline-block;vertical-align: top;width: 50%;border-style: solid;border-width: 0px;border-radius: 0px;border-color: rgb(255, 255, 255);box-shadow: rgb(255, 255, 255) 0px 0px 3px;padding-top: 10px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(255, 255, 255) 0px 0px 0px;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="0.7765625" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6OwjmhkBo3kianpDKQcMlwy1TmDYdjFw5NreSDvJUmAVuDd5BFia1jFtQ/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+          </section>
+          <section style="display: inline-block;vertical-align: top;width: 50%;box-shadow: rgb(255, 255, 255) 0px 0px 3px;padding-top: 10px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="text-align: left;box-sizing: border-box;">
+              <p style="box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(255, 255, 255) 0px 0px 0px;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="0.4127764" data-type="png" data-w="407" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6icokQkzwQE9j0A4H52LtoKcfSzBxFCeKE2iaYdX2lxDEqEcY1uiafgSMg/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="text-align: left;box-sizing: border-box;">
+              <p style="box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-top: -10px;margin-right: 0%;margin-left: 0%;transform: translate3d(5px, 0px, 0px);box-sizing: border-box;">
+             <section style="text-align: right;font-size: 12px;color: rgb(152, 152, 152);box-sizing: border-box;">
+              <p style="box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;font-size: 12px;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <span style="font-size: 10px;">
+             师大链系统架构                  师大区块链数据库的发展之路
+            </span>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: bottom;width: 88%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-bottom: 5px;margin-left: 0%;box-sizing: border-box;">
+       <section style="display: inline-block;box-sizing: border-box;">
+        <section style="display: inline-block;vertical-align: bottom;border-bottom: 1px dashed rgb(175, 175, 175);margin-bottom: 0.25em;padding-left: 5px;padding-right: 5px;font-size: 14px;box-sizing: border-box;">
+         <p style="box-sizing: border-box;">
+          <span style="font-size: 14px;">
+           <strong>
+            二、面向内存计算系统的查询流水线并行化研究（方祝和、翁楚良）
+           </strong>
+          </span>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 50px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 95%;vertical-align: top;box-shadow: rgb(176, 190, 197) 0px 0px 10px;border-style: none;border-width: 0px;border-radius: 0px;border-color: rgb(62, 62, 62);padding-bottom: 20px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: -40px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 90%;vertical-align: top;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);padding: 10px;background-color: rgb(255, 255, 255);box-shadow: rgb(207, 116, 53) 0px 0px 3px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: justify;font-size: 14px;color: rgb(211, 160, 3);line-height: 1.8;box-sizing: border-box;">
+           <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+            博士生方祝和同学介绍了所在实验室在面向分布式内存数据库的查询流水线并行化方面的研究工作。他们提出了两项动态调度技术——自适应填充和优先权抢占，以应对流水线调度中的“资源浪费”与“执行顺序”的两大挑战。基于这两项技术，他们在自主研发的Ginkgo系统中设计并实现了一个两层的实时调度器。最后，他指出实验室针对Executor随着硬件变化而日新月异而提出的一系列工作展望：一、GPU+CPU的异构体系结构。CPU适合于控制复杂逻辑，而GPU擅长高并发计算，二者各有所长，尤其是在统一内存地址机制出现后，二者可以互相访问内存和显存，如何根据应用场景来充分发挥GPU和CPU的特点是一个难题；二、RDMA。NUMA中的远程内存访问和RDMA访问相比来说，RDMA的带宽更高，latency也在同一个水平上，如果有统一内存地址空间，那么RDMA互连的机器构成一个更大的NUMA架构，这个改变将会引发一连串的变化，他提到实验室现在也在尝试如何用RDMA来优化分布式执行引擎。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;padding-right: 3px;padding-left: 3px;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;padding-right: 10px;padding-bottom: 10px;padding-left: 10px;margin-bottom: -2em;width: 100%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.665625" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6Vc8P589BCddia4ak52OIBkmDtibhK1tJ8wiapSROXkoW4J2ZCzEH2dgiag/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="width: 6px;height: 6px;float: left;background-color: rgb(62, 62, 62);margin-left: -3px;border-radius: 100%;box-sizing: border-box;">
+       </section>
+       <section style="width: 6px;height: 6px;margin-right: -3px;background-color: rgb(62, 62, 62);float: right;border-radius: 100%;box-sizing: border-box;">
+       </section>
+       <section style="height: 2em;border-left: 1px solid rgb(62, 62, 62);border-bottom: 1px solid rgb(62, 62, 62);border-right: 1px solid rgb(62, 62, 62);border-top-color: rgb(62, 62, 62);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 97%;vertical-align: top;border-top: 5px solid rgb(255, 255, 255);border-top-left-radius: 0px;box-shadow: rgb(255, 255, 255) 0px 1px 2px;padding: 10px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(255, 255, 255) 0px 0px 0px;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.4390625" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6pdYp2o3eGAA9eRN4MBfL6dicoYLzh7O81guHtVOkuR9ZJwb2ibhpicCAA/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 12px;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <span style="font-size: 10px;">
+             两层调度框架
+            </span>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="display: inline-block;vertical-align: top;width: 50%;box-shadow: rgb(255, 255, 255) 0px 0px 0px;padding-right: 5px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="0.3666667" data-type="png" data-w="360" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6rHDWa5SPTlp12wbsE6r3evPCS3x7A6X9ymQFxyKpps4TGnK7sqJdDw/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="text-align: left;font-size: 12px;box-sizing: border-box;">
+              <p style="text-align: center;box-sizing: border-box;">
+               <span style="font-size: 10px;">
+                自适应填充
+               </span>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+          <section style="display: inline-block;vertical-align: top;width: 50%;padding-left: 5px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="0.3867403" data-type="png" data-w="362" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6Mq8xWF1X9G7MoKN65LREd4oHj84pN9RXKDTx7D6rW3KuHS2GicUcBgw/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="text-align: left;font-size: 12px;box-sizing: border-box;">
+              <p style="text-align: center;box-sizing: border-box;">
+               <span style="font-size: 10px;">
+                优先权抢占
+               </span>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: bottom;width: 88%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-bottom: 5px;margin-left: 0%;box-sizing: border-box;">
+       <section style="display: inline-block;box-sizing: border-box;">
+        <section style="display: inline-block;vertical-align: bottom;border-bottom: 1px dashed rgb(175, 175, 175);margin-bottom: 0.25em;padding-left: 5px;padding-right: 5px;font-size: 14px;box-sizing: border-box;">
+         <p style="box-sizing: border-box;">
+          <span style="font-size: 14px;">
+           <strong>
+            三、支持新型关键业务的混合负载处理优化实践（胡卉芪）
+           </strong>
+          </span>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 50px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 95%;vertical-align: top;box-shadow: rgb(176, 190, 197) 0px 0px 10px;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);padding-bottom: 20px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: -40px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 90%;vertical-align: top;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);padding: 10px;background-color: rgb(255, 255, 255);box-shadow: rgb(207, 116, 53) 0px 0px 3px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: justify;font-size: 14px;color: rgb(211, 160, 3);line-height: 1.8;box-sizing: border-box;">
+           <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+            助理研究员胡卉芪老师介绍了分布式数据库系统项目组取得一些科研进展以及项目组在与中国交通银行的合作过程中成功落地了的一些科研成果。这些落地的成果深刻地践行了数据科学与工程学院“做有用的研究”的理念，做到了将科研与产业应用紧密结合起来。在整个汇报中，胡卉芪老师从应用的演变的角度介绍了项目组如何紧追实际应用来实现对新型关键业务的支撑。接下来，胡卉芪老师也介绍了项目组在针对应用做出的一些前沿的科研型的预研工作，保证了科研基于应用、科研领先应用。报告最后，胡卉芪老师为大家介绍了项目组研发的三款系统：CEDAR、CBase以及SolarDB的特点以及它们三者之间的关系。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;padding-right: 3px;padding-left: 3px;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;padding-right: 10px;padding-bottom: 10px;padding-left: 10px;margin-bottom: -2em;width: 100%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.665625" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6YTAdEw10JiakCLWT1bs3ePcc6qnsTibic1GtNhE6W1LD6ooUmg4piamXDg/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="width: 6px;height: 6px;float: left;background-color: rgb(62, 62, 62);margin-left: -3px;border-radius: 100%;box-sizing: border-box;">
+       </section>
+       <section style="width: 6px;height: 6px;margin-right: -3px;background-color: rgb(62, 62, 62);float: right;border-radius: 100%;box-sizing: border-box;">
+       </section>
+       <section style="height: 2em;border-left: 1px solid rgb(62, 62, 62);border-bottom: 1px solid rgb(62, 62, 62);border-right: 1px solid rgb(62, 62, 62);border-top-color: rgb(62, 62, 62);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 20px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 97%;vertical-align: top;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="display: inline-block;vertical-align: top;width: 50%;border-style: solid;border-width: 0px;border-radius: 0px;border-color: rgb(255, 255, 255);box-shadow: rgb(255, 255, 255) 0px 0px 3px;padding-top: 10px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(255, 255, 255) 0px 0px 0px;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="0.620438" data-type="png" data-w="411" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6KsNDib82p3YSTFv1pS1FXR6YrYSWpozdY0ickXOrcice280DV0qGf4m5w/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-top: 8px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="color: rgb(160, 160, 160);font-size: 12px;box-sizing: border-box;">
+              <p style="box-sizing: border-box;">
+               <span style="color: rgb(0, 0, 0);font-size: 10px;">
+                Cedar发展历程
+               </span>
+              </p>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-top: -10px;margin-right: 0%;margin-left: 0%;transform: translate3d(-5px, 0px, 0px);box-sizing: border-box;">
+             <section style="text-align: left;color: rgb(152, 152, 152);font-size: 12px;box-sizing: border-box;">
+              <p style="box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+          <section style="display: inline-block;vertical-align: top;width: 50%;box-shadow: rgb(255, 255, 255) 0px 0px 3px;padding-top: 10px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(255, 255, 255) 0px 0px 0px;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="0.61875" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6sOicic04ibdficjjgKg6HwpGS0fic8K6KMGrq4LByc84YVpjhntnqiatPGicA/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-top: 8px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="font-size: 12px;color: rgb(160, 160, 160);box-sizing: border-box;">
+              <p style="box-sizing: border-box;">
+               <span style="color: rgb(0, 0, 0);font-size: 10px;">
+                Cedar内核架构
+               </span>
+              </p>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-top: -10px;margin-right: 0%;margin-left: 0%;transform: translate3d(5px, 0px, 0px);box-sizing: border-box;">
+             <section style="text-align: right;font-size: 12px;color: rgb(152, 152, 152);box-sizing: border-box;">
+              <p style="box-sizing: border-box;">
+               <br/>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: bottom;width: 88%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-bottom: 5px;margin-left: 0%;box-sizing: border-box;">
+       <section style="display: inline-block;box-sizing: border-box;">
+        <section style="display: inline-block;vertical-align: bottom;border-bottom: 1px dashed rgb(175, 175, 175);margin-bottom: 0.25em;padding-left: 5px;padding-right: 5px;font-size: 14px;box-sizing: border-box;">
+         <p style="box-sizing: border-box;">
+          <span style="font-size: 14px;">
+           <strong>
+            四、面向情景式学习的IT在线实训平台的建设与挑战（王伟）
+           </strong>
+          </span>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 50px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 95%;vertical-align: top;box-shadow: rgb(176, 190, 197) 0px 0px 10px;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);padding-bottom: 20px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: -40px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 90%;vertical-align: top;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);padding: 10px;background-color: rgb(255, 255, 255);box-shadow: rgb(207, 116, 53) 0px 0px 3px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: justify;font-size: 14px;color: rgb(211, 160, 3);line-height: 1.8;box-sizing: border-box;">
+           <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+            王伟研究员介绍了新时代的教育特点，并对新时代下的“计算教育学”的概念进行了较好的阐释，他认为新时代的教育在学习对象、学习技术、学习环境上都与传统教育有所不同，并提出新时代下的计算教育学是以学习者、教育大数据和教育服务为中心的观点。他的团队设计出了面向情景式学习的IT在线实训平台（KFCoding平台），目前推出的校内版已经成功运用于数据学院数据二期的《数据科学与工程导论》课程中。他表示，KFCoding平台将不断地收集计算教育学下的新诉求，以情景式学习环境作为基础设施，最终形成一个开源、开放、共享的数据科学与工程教研一体化的平台，以满足不同人群的需求。
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;padding-right: 3px;padding-left: 3px;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;padding-right: 10px;padding-bottom: 10px;padding-left: 10px;margin-bottom: -2em;width: 100%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.665625" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6Ln9Ov9uUh7LCfP5icJMq9MJzjVm4n96oKR8QSabvMSITvgZ9ukqvRqA/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="width: 6px;height: 6px;float: left;background-color: rgb(62, 62, 62);margin-left: -3px;border-radius: 100%;box-sizing: border-box;">
+       </section>
+       <section style="width: 6px;height: 6px;margin-right: -3px;background-color: rgb(62, 62, 62);float: right;border-radius: 100%;box-sizing: border-box;">
+       </section>
+       <section style="height: 2em;border-left: 1px solid rgb(62, 62, 62);border-bottom: 1px solid rgb(62, 62, 62);border-right: 1px solid rgb(62, 62, 62);border-top-color: rgb(62, 62, 62);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.2721088" data-type="png" data-w="588" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M67J7hSJuCmggqvV8lDsLp46fkEJNjyIll2btzSZrJdOyQvHkuu0Oa4w/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;font-size: 12px;box-sizing: border-box;">
+        <p style="text-align: center;box-sizing: border-box;">
+         <span style="font-size: 10px;">
+          IT在线实训平台的发展历史
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.4329372" data-type="png" data-w="589" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6MFHCWWfibw2310c03mhPJ0qjOoBk7t7D8FHcYNcTuu9bmGF1AZvUEGA/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;font-size: 12px;box-sizing: border-box;">
+        <p style="text-align: center;box-sizing: border-box;">
+         <span style="font-size: 10px;">
+          完整的“数据科学与工程导论”生态
+         </span>
+        </p>
+        <p style="text-align: center;box-sizing: border-box;">
+         <span style="font-size: 10px;">
+          <br/>
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: bottom;width: 88%;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-bottom: 5px;margin-left: 0%;box-sizing: border-box;">
+       <section style="display: inline-block;box-sizing: border-box;">
+        <section style="display: inline-block;vertical-align: bottom;border-bottom: 1px dashed rgb(175, 175, 175);margin-bottom: 0.25em;padding-left: 5px;padding-right: 5px;font-size: 14px;box-sizing: border-box;">
+         <p style="box-sizing: border-box;">
+          <span style="font-size: 14px;">
+           <strong>
+            五、金融大数据处理实践（罗轶凤）
+           </strong>
+          </span>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 50px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 95%;vertical-align: top;box-shadow: rgb(176, 190, 197) 0px 0px 10px;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);padding-bottom: 20px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: -40px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 90%;vertical-align: top;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);padding: 10px;background-color: rgb(255, 255, 255);box-shadow: rgb(207, 116, 53) 0px 0px 3px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: justify;font-size: 14px;color: rgb(211, 160, 3);line-height: 1.8;box-sizing: border-box;">
+           <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+            罗轶凤副教授介绍了金融大数据处理实践过程中所涉及的一些业务背景比如金融知识图谱的构建，事件库的作用，展示了投研知识图谱和公司产品图谱的示例，并围绕目前事件库开发中涉及的三项工作即事件识别与分类、命名实体识别(ner）和实体对关系抽取进行了详细分析与介绍。事件分类作为事件库构建的基础工作，在后期的内容推荐和事件识别中有重要作用；Ner作为Nlp处理中的基础内容在许多领域都有重要作用，在事件库的构建中会直接影响目标实体的识别精度；实体对关系抽取旨在判断金融语料中命名实体间的关系，为后期构建知识图谱奠定基础。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;padding-right: 3px;padding-left: 3px;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;padding-right: 10px;padding-bottom: 10px;padding-left: 10px;margin-bottom: -2em;width: 100%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.665625" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6heCwDlL242jpN8odlUHJibzmW6eaKlCy9aclvkP7icX1ZicvpqIdklrYw/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="width: 6px;height: 6px;float: left;background-color: rgb(62, 62, 62);margin-left: -3px;border-radius: 100%;box-sizing: border-box;">
+       </section>
+       <section style="width: 6px;height: 6px;margin-right: -3px;background-color: rgb(62, 62, 62);float: right;border-radius: 100%;box-sizing: border-box;">
+       </section>
+       <section style="height: 2em;border-left: 1px solid rgb(62, 62, 62);border-bottom: 1px solid rgb(62, 62, 62);border-right: 1px solid rgb(62, 62, 62);border-top-color: rgb(62, 62, 62);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;box-sizing: border-box;">
+        <section style="background-color: rgb(255, 255, 255);padding-right: 18px;padding-left: 18px;color: rgb(33, 150, 243);box-sizing: border-box;">
+        </section>
+        <section style="width: 6px;height: 6px;border-radius: 100%;float: left;margin-top: -14px;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+        </section>
+        <section style="width: 6px;height: 6px;border-radius: 100%;float: right;margin-top: -14px;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+        </section>
+        <section style="clear: both;box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="border-width: 2px;border-style: solid;border-color: rgb(255, 255, 255);margin-top: -12px;padding: 18px 10px 10px;border-radius: 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 100%;border-bottom: 0px solid rgb(255, 255, 255);border-bottom-right-radius: 0px;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.6284153" data-type="png" data-w="549" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6DZF8ESHHj8vMCgADSXvlUlqqNg3995WzypUEhpoyLrfwdPOp1rLo6w/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;font-size: 12px;box-sizing: border-box;">
+           <p style="text-align: center;box-sizing: border-box;">
+            <span style="font-size: 10px;">
+             公司产品图谱示例
+            </span>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="display: inline-block;vertical-align: top;width: 50%;padding-right: 5px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="0.6504559" data-type="png" data-w="329" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6oXvK2Xv473U7gp0C2piabFfxibaTs0PFjZzKNq0zEjbiaI5WHp7EvB8SQ/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+          </section>
+          <section style="display: inline-block;vertical-align: top;width: 50%;padding-left: 5px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="0.7080292" data-type="png" data-w="274" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M66iadal1nibyBVzfTEnibTQSP2zOXfx6UHExHuy1URfOJ91W83ADu7wvtw/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 12px;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <span style="font-size: 10px;">
+             投研知识图谱关系图                    事理图谱示例
+            </span>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: bottom;width: 88%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-bottom: 5px;margin-left: 0%;box-sizing: border-box;">
+       <section style="display: inline-block;box-sizing: border-box;">
+        <section style="display: inline-block;vertical-align: bottom;border-bottom: 1px dashed rgb(175, 175, 175);margin-bottom: 0.25em;padding-left: 5px;padding-right: 5px;font-size: 14px;box-sizing: border-box;">
+         <p style="box-sizing: border-box;">
+          <span style="font-size: 14px;">
+           <strong>
+            六、时空数据赋能智慧交通实践（毛嘉莉）
+           </strong>
+          </span>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 50px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 95%;vertical-align: top;box-shadow: rgb(176, 190, 197) 0px 0px 10px;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);padding-bottom: 20px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: -40px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 90%;vertical-align: top;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);padding: 10px;background-color: rgb(255, 255, 255);box-shadow: rgb(207, 116, 53) 0px 0px 3px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: justify;font-size: 14px;color: rgb(211, 160, 3);line-height: 1.8;box-sizing: border-box;">
+           <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+            毛嘉莉研究员介绍了使用时空数据解决交通拥堵问题所开展的系列工作。她首先提及普遍存在的交通拥堵问题是由于交通管理低效无法满足日益增长的交通出行需求所致，并提出时空数据赋能智慧交通的概念，即融合海量的时空数据，运用物联网、云计算、人工智能等技术自动获取知识，以提供实时、精准的交通信息服务。随后，她展示了她们实验室在交通出行、路径规划、异常检测、地图更新等方面的研究成果，着重介绍了与企业合作的交叉路口识别研究课题中面临的挑战与解决的技术思路。最后，她指出发展智慧交通需要设计高效的实时处理与精准分析方法。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;padding-right: 3px;padding-left: 3px;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;padding-right: 10px;padding-bottom: 10px;padding-left: 10px;margin-bottom: -2em;width: 100%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.665625" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6YAsNIC48qLyXrJwTocqicHV42bz0S2ibtmDGq0jKGxcxKiaIvHzicNQS9w/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="width: 6px;height: 6px;float: left;background-color: rgb(62, 62, 62);margin-left: -3px;border-radius: 100%;box-sizing: border-box;">
+       </section>
+       <section style="width: 6px;height: 6px;margin-right: -3px;background-color: rgb(62, 62, 62);float: right;border-radius: 100%;box-sizing: border-box;">
+       </section>
+       <section style="height: 2em;border-left: 1px solid rgb(62, 62, 62);border-bottom: 1px solid rgb(62, 62, 62);border-right: 1px solid rgb(62, 62, 62);border-top-color: rgb(62, 62, 62);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="1.1335404" data-type="png" data-w="322" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6Mnib5Dnwpk5K8kEib8T8eS0Cp62E9UbxDIiauhUYpcNxEwBpuG82WsPrg/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;font-size: 12px;box-sizing: border-box;">
+        <p style="text-align: center;box-sizing: border-box;">
+         <span style="font-size: 10px;">
+          时空数据赋能智慧交通的整体过程分析
+         </span>
+        </p>
+        <p style="text-align: center;box-sizing: border-box;">
+         <span style="font-size: 10px;">
+          <br/>
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="height: auto;box-sizing: border-box;">
+   <section style="min-height: 40px;margin: 10px 0%;box-sizing: border-box;">
+    <section style="width: 100%;margin-right: auto;margin-left: auto;box-sizing: border-box;">
+     <table class="table-box" width="100%">
+      <tbody style="box-sizing: border-box;">
+       <tr powered-by="xiumi.us" style="box-sizing: border-box;">
+        <td colspan="1" rowspan="1" style="border-color: rgb(62, 62, 62);border-radius: 0px;vertical-align: middle;box-sizing: border-box;padding: 0px;" width="2.0000%">
+         <br/>
+        </td>
+        <td colspan="1" rowspan="1" style="border-color: rgb(62, 62, 62);border-radius: 0px;border-style: none;padding: 0px 5px;vertical-align: middle;box-sizing: border-box;" width="92.3800%">
+         <section powered-by="xiumi.us" style="height: auto;box-sizing: border-box;">
+          <section style="min-height: 40px;margin: 5px 0%;box-sizing: border-box;">
+           <section style="width: 100%;margin-right: auto;margin-left: auto;box-sizing: border-box;">
+            <table class="table-box" width="100%">
+             <tbody style="box-sizing: border-box;">
+              <tr powered-by="xiumi.us" style="box-sizing: border-box;">
+               <td colspan="1" rowspan="1" style="border-color: rgb(62, 62, 62);border-radius: 0px;padding: 10px 8px;box-sizing: border-box;" width="100.0000%">
+                <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                 <section style="box-sizing: border-box;">
+                  <section style="text-align: center;line-height: 1.8;font-size: 14px;box-sizing: border-box;">
+                   <p style="text-align: justify;text-indent: 2em;white-space: normal;box-sizing: border-box;">
+                    通过聆听学院部分教师代表与博士生同学的精彩报告，在场的同学们对学院的“应用驱动创新”的发展理念有了更深入的解读，也对学院不同领域方向的研究成果增进了了解。此外，本次报告会为老师与同学们提供了良好的学术交流机会，为以后开展交叉性科学研究起到了一定的推动作用。
+                   </p>
+                  </section>
+                 </section>
+                </section>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </section>
+          </section>
+         </section>
+        </td>
+        <td colspan="1" rowspan="1" style="border-color: rgb(62, 62, 62);border-radius: 0px;vertical-align: middle;box-sizing: border-box;padding: 0px;" width="2.0000%">
+         <br/>
+        </td>
+       </tr>
+      </tbody>
+     </table>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>
+ <p>
+  <br/>
+ </p>
+ <p style="white-space: normal;font-family: 微软雅黑;text-align: right;font-size: 15px;">
+  <span style="font-family: 宋体, SimSun;font-size: 12px;text-indent: 28px;">
+   文案 |
+  </span>
+  <span style="font-family: 宋体, SimSun;font-size: 12px;text-indent: 28px;">
+   方敏、刘婷婷、魏星、黄立波、梁鑫
+  </span>
+ </p>
+ <p style="white-space: normal;font-family: 微软雅黑;text-align: right;font-size: 15px;">
+  <span style="font-family: 宋体, SimSun;font-size: 12px;text-indent: 28px;">
+   摄影 |
+  </span>
+  <span style="font-family: 宋体, SimSun;font-size: 12px;text-indent: 28px;">
+   杨大为、刘婷婷
+  </span>
+ </p>
+ <p style="white-space: normal;font-family: 微软雅黑;text-align: right;font-size: 15px;">
+  <span style="font-family: 宋体, SimSun;font-size: 12px;text-indent: 28px;">
+   排版 | 方
+  </span>
+  <span style="font-family: 宋体, SimSun;font-size: 12px;text-indent: 28px;">
+   敏
+  </span>
+ </p>
+ <section data-role="outer" label="Powered by 135editor.com" style="white-space: normal;font-size: 16px;font-family: 微软雅黑;text-align: right;">
+  <p style="margin-top: 5px;margin-bottom: 5px;color: rgb(63, 62, 63);letter-spacing: 2px;text-indent: 2em;line-height: normal;">
+   <br/>
+  </p>
+  <p style="margin-top: 5px;margin-bottom: 5px;color: rgb(63, 62, 63);letter-spacing: 2px;text-indent: 2em;line-height: normal;">
+   <br/>
+  </p>
+  <p style="margin-top: 5px;margin-bottom: 5px;color: rgb(63, 62, 63);letter-spacing: 2px;text-indent: 2em;line-height: normal;">
+   <br/>
+  </p>
+  <p style="color: rgb(63, 62, 63);font-family: Helvetica, Arial, sans-serif;letter-spacing: 2px;text-align: center;">
+   <br/>
+  </p>
+  <section class="_135editor" data-role="paragraph" style="color: rgb(63, 62, 63);letter-spacing: 2px;text-align: center;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section class="" style='width: 8em;height: 8em;display: inline-block;vertical-align: bottom;border-radius: 100%;border-width: 2px;border-style: solid;border-color: rgb(166, 91, 203);box-shadow: rgb(204, 204, 204) 0.707107px 0.707107px 2px;background-image: url("https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88YWwsMV4AF23UjKdMSFRQmzxSMvjNnPXf2icFNfDkMgRLmwhsVNM37lNZX4phkuqdcj3Q3qS3XB1Pw/640?wx_fmt=jpeg");background-size: cover;background-position: 50% 50%;background-repeat: no-repeat;box-sizing: border-box;'>
+    <section class="" style="width: 124px;height: 124px;overflow: hidden;">
+     <strong>
+      <img class="" data-ratio="1.0020449897750512" data-type="jpeg" data-w="489" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88YWwsMV4AF23UjKdMSFRQmzxSMvjNnPXf2icFNfDkMgRLmwhsVNM37lNZX4phkuqdcj3Q3qS3XB1Pw/640?wx_fmt=jpeg" style="height: 124.25px;width: 124px;opacity: 0;" width="100%"/>
+     </strong>
+    </section>
+   </section>
+   <p>
+    <br/>
+   </p>
+   <section class="" style="margin-top: -4em;padding: 4em 15px 10px;border-width: 1px;border-style: solid;border-color: rgb(166, 91, 203);border-radius: 16px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+    <section class="_135editor" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section class="">
+      <section class="">
+       <p>
+        华东师范大学数据科学与工程学院
+       </p>
+      </section>
+     </section>
+    </section>
+    <section class="_135editor" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section class="" style="padding-top: 0.5em;padding-bottom: 0.5em;box-sizing: border-box;">
+      <section class="" style="height: 1px;background-color: rgb(166, 91, 203);">
+      </section>
+     </section>
+    </section>
+    <section class="_135editor" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section class="" style="margin: auto;padding-top: 10px;width: 223.188px;box-sizing: border-box;">
+      <img class="" data-ratio="1" data-type="jpeg" data-w="258" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88YWwsMV4AF23UjKdMSFRQmzI2NUVw52jWqc8bFyPRTJOcNRFSzIDTy24ibpjH5NPMic8pbHL4dW3Cxw/640?wx_fmt=jpeg" style="vertical-align: middle;"/>
+     </section>
+    </section>
+   </section>
+   <p>
+    <br/>
+   </p>
+  </section>
+  <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <p>
+    <br/>
+   </p>
+   <p>
+    <br/>
+   </p>
+  </section>
+  <p>
+   <br/>
+  </p>
+  <p>
+   <br/>
+  </p>
+  <p>
+   <br/>
+  </p>
+ </section>
+ <p>
+  <br/>
+ </p>

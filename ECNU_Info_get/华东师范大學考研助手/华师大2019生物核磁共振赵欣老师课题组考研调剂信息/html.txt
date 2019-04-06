@@ -1,0 +1,176 @@
+
+ <section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;">
+  <section class="_135editor" data-id="94513" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section style="text-align: center;padding: 12px;box-sizing: border-box;">
+    <section style="display: inline-block;padding-right: 12px;padding-bottom: 4px;padding-left: 12px;border-bottom: 2px solid rgb(24, 163, 162);box-sizing: border-box;">
+     <section style="border-width: 2px;border-style: solid;border-color: rgb(24, 163, 162);padding: 3px;border-radius: 6px;background: rgb(230, 248, 244);box-sizing: border-box;">
+      <section class="135brush" data-brushtype="text" style="box-sizing: border-box;border-radius: 6px;border-width: 2px;border-style: dashed;border-color: rgb(158, 217, 204);background: rgb(254, 254, 254);letter-spacing: 1.5px;line-height: 1.75em;padding: 5px 1em;">
+       <strong>
+        课题组调剂信息
+       </strong>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="_135editor" data-color="#1e9be8" data-custom="#1e9be8" data-id="93976" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section style="padding: 0.6em;box-sizing: border-box;">
+    <img class="" data-ratio="0.06478405315614617" data-type="png" data-w="602" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/HqfVjH48Ea93A4PG8kBLqVibDB0yiaTE4UID58xmfFGpM6NubrMFqpBZMohcPPEosaqpWicvF4VJ99flko3yKhA4A/640?wx_fmt=png" style="width: 100%;display: block;"/>
+    <section style="padding-right: 4px;padding-left: 4px;box-sizing: border-box;">
+     <section style="box-shadow: rgb(229, 229, 229) 1px 1px 6px 0px;border-bottom-left-radius: 15px;border-bottom-right-radius: 15px;background: rgb(254, 254, 254);box-sizing: border-box;">
+      <section style='padding: 1em 1.4em 1em 0.6em;box-shadow: rgb(229, 229, 229) -1px 1px 6px 0px;border-bottom-left-radius: 15px;border-bottom-right-radius: 15px;background: url("https://mmbiz.qpic.cn/mmbiz_png/HqfVjH48Ea93A4PG8kBLqVibDB0yiaTE4UHibN6jH07MBjgMrKXuh6icYSTkcqBLloUwhNh5Lkg0MagfSncqFZVd0w/640?wx_fmt=png") left bottom / 40% no-repeat;box-sizing: border-box;'>
+       <section style="border-top: 1px solid rgb(30, 155, 232);border-right: 1px solid rgb(30, 155, 232);border-left: none;border-bottom: none;box-sizing: border-box;">
+        <section style="width: 22px;margin-top: -7px;background-image: initial;background-position: initial;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;padding-top: 2px;padding-bottom: 2px;box-sizing: border-box;">
+         <img class="" data-ratio="0.7894736842105263" data-type="png" data-w="19" src="https://mmbiz.qpic.cn/mmbiz_png/HqfVjH48Ea93A4PG8kBLqVibDB0yiaTE4UzI3oIibSSPf0DgfftEs1icRGGEq7rtLpmoXvUTxHyQ0f1Kcejpiaicj10g/640?wx_fmt=png" style="width: 12px;display: block;margin-right: auto;margin-left: auto;"/>
+        </section>
+        <p style="padding: 0.7em 0.8em 1.2em 1em;font-size: 14px;letter-spacing: 1.5px;line-height: 1.5em;">
+         学校：
+         <span style="background-color: initial;caret-color: red;">
+          华东师大
+         </span>
+        </p>
+        <p style="padding: 0.7em 0.8em 1.2em 1em;font-size: 14px;letter-spacing: 1.5px;line-height: 1.5em;">
+         <span style="background-color: initial;caret-color: red;">
+          年级：2019
+         </span>
+        </p>
+        <p style="padding: 0.7em 0.8em 1.2em 1em;font-size: 14px;letter-spacing: 1.5px;line-height: 1.5em;">
+         <span style="background-color: initial;caret-color: red;">
+          招生人数：—
+         </span>
+        </p>
+        <p style="padding: 0.7em 0.8em 1.2em 1em;font-size: 14px;letter-spacing: 1.5px;line-height: 1.5em;">
+         <span style="background-color: initial;caret-color: red;">
+          招生状态：正在招生中
+         </span>
+        </p>
+       </section>
+       <section style="text-align: right;margin-top: -9px;">
+        <section data-width="50%" style="width:50%;display: inline-block;">
+         <section data-width="100%" style="width: 100%;height: 1px;background: #1e9be8;color: #ffffff;">
+         </section>
+         <section style="width: 22px;background-image: initial;background-position: initial;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;margin-top: -5px;padding-top: 2px;padding-bottom: 2px;box-sizing: border-box;">
+          <img class="" data-ratio="0.7894736842105263" data-type="png" data-w="19" src="https://mmbiz.qpic.cn/mmbiz_png/HqfVjH48Ea93A4PG8kBLqVibDB0yiaTE4UzI3oIibSSPf0DgfftEs1icRGGEq7rtLpmoXvUTxHyQ0f1Kcejpiaicj10g/640?wx_fmt=png" style="width: 13px;display: block;margin-right: auto;margin-left: auto;transform: scale(-1);"/>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="_135editor" data-id="94168" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section style="text-align: center;">
+    <section style="font-size: 40px;color: rgb(187, 189, 192);opacity: 0.3;font-weight: bold;margin-bottom: -50px;margin-left: -6px;letter-spacing: 3px;">
+     0
+     <span class="autonum" data-original-title="" title="">
+      1
+     </span>
+    </section>
+    <section style="display: inline-block;">
+     <section style="display: flex;justify-content: center;align-items: center;">
+      <section style="width: 1.3em;height: 1.3em;border-radius: 100%;background-image: -webkit-linear-gradient(top, rgb(61, 224, 173), rgb(208, 242, 233));box-sizing: border-box;">
+      </section>
+      <section class="135brush" data-brushtype="text" style="padding: 4px 0.8em;letter-spacing: 1.5px;transform: rotate(0deg);">
+       <strong>
+        导师简介
+       </strong>
+      </section>
+      <section style="width: 1.5em;height: 1.5em;border-radius: 100%;background-image: -webkit-linear-gradient(left, rgb(62, 212, 233), rgb(137, 237, 246));box-sizing: border-box;">
+      </section>
+      <section style="width: 1em;height: 1em;border-radius: 100%;background: rgba(91, 168, 238, 0.6);margin-left: -8px;margin-top: 10px;box-sizing: border-box;">
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <p>
+    <br/>
+   </p>
+   <p style="text-indent: 2em;">
+    <strong>
+     <span style="font-size: 14px;">
+      赵欣教授
+     </span>
+    </strong>
+    <span style="font-size: 14px;">
+     ，1986年毕业于兰州大学现代物理系，1989年中国原子能研究院获工学硕士学位，1992年中国原子能研究院获工学博士学位（导师：汪德熙院士、林漳基研究员；研究方向：环境放射化学）。2003年瑞典斯得哥尔摩大学获理学博士学位（导师：Prof. Malcolm H. Levitt；研究方向：固体核磁共振理论及应用）。2003-2005年英国牛津大学生物化学系及英国国家生物固体核磁中心博士后、高级研究助理（导师：Prof. Anthony Watts；研究方向：生物固体核磁共振研究）。2006-2008年日本大阪大学蛋白质研究所外国人PI研究室准教授、执行PI，从事膜蛋白结构生物学的固体核磁共振研究。2008年9月全职回国组建上海市磁共振重点实验室膜蛋白结构生物学研究单元，现为华东师范大学教授、博士生导师，上海市 浦江人才基金获得者，中国生物物理学会分子生物物理专业委员会委员。
+     <strong>
+      研究方向为膜蛋白结构、功能及相关疾病抑制机理研究。
+     </strong>
+    </span>
+   </p>
+   <p style="text-indent: 2em;">
+    <span style="font-size: 14px;">
+     本课题组具有Nicolet 8700研究级高端FTIR光谱仪，岛津HPLC、UV、动力学光谱仪等多种研究级分析仪器，以及依托上海市磁共振重点实验室的强大固体和液体核磁共振谱仪资源。
+    </span>
+   </p>
+   <section class="_135editor" data-id="94168" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section style="text-align: center;">
+     <section style="font-size: 40px;color: rgb(187, 189, 192);opacity: 0.3;font-weight: bold;margin-bottom: -50px;margin-left: -6px;letter-spacing: 3px;">
+      0
+      <span class="autonum" data-num="2" data-original-title="" title="">
+       2
+      </span>
+     </section>
+     <section style="display: inline-block;">
+      <section style="display: flex;justify-content: center;align-items: center;">
+       <section style="width: 1.3em;height: 1.3em;border-radius: 100%;background-image: -webkit-linear-gradient(top, rgb(61, 224, 173), rgb(208, 242, 233));box-sizing: border-box;">
+       </section>
+       <section class="135brush" data-brushtype="text" style="padding: 4px 0.8em;letter-spacing: 1.5px;transform: rotate(0deg);">
+        <strong>
+         招生要求
+        </strong>
+       </section>
+       <section style="width: 1.5em;height: 1.5em;border-radius: 100%;background-image: -webkit-linear-gradient(left, rgb(62, 212, 233), rgb(137, 237, 246));box-sizing: border-box;">
+       </section>
+       <section style="width: 1em;height: 1em;border-radius: 100%;background: rgba(91, 168, 238, 0.6);margin-left: -8px;margin-top: 10px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <p style="text-indent: 2em;">
+    <br/>
+   </p>
+   <p style="text-indent: 2em;">
+    <span style="font-size: 14px;">
+     本科专业为生物和化学类，诚邀有志于从事交叉学科、热衷于膜蛋白及结构生物学研究的本科生联系申请！
+    </span>
+   </p>
+   <p style="text-indent: 2em;">
+    <span style="font-size: 14px;">
+     将简历发至邮箱：807507277@qq.com（或903080941@qq.com 或444685803@qq.com 或chen_sijin1112@163.com）
+    </span>
+   </p>
+   <p style="text-indent: 2em;">
+    <br/>
+   </p>
+   <p style="text-indent: 2em;">
+    <span style="font-size: 14px;">
+     提示：本文内容由学校导师实验室自行发布，信息准确度有待考量，请广大考生谨慎选择。
+    </span>
+   </p>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>
+ <p style="text-indent: 2em;">
+  <strong>
+   <span style="font-size: 14px;">
+    想了解更多考研复试、调剂资讯，欢迎大家扫描二维码或者阅读第二条图文，我们一起交流一起进步！
+   </span>
+  </strong>
+ </p>
+ <p style="text-align: center;">
+  <img class="" data-copyright="0" data-ratio="1.5777777777777777" data-s="300,640" data-type="png" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_png/HqfVjH48Ea8uYH06ahEOsoQ7EvCuqOY0SQeBliaHQ973bDxAicib3EmaXKobwVicEvH8AVoNUquS5cTlWRXqd096Cw/640?wx_fmt=png" style=""/>
+ </p>
+ <p style="text-indent: 2em;">
+  <strong>
+   <span style="font-size: 14px;">
+   </span>
+  </strong>
+  <br/>
+ </p>

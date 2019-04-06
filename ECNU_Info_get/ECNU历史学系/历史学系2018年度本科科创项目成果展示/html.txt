@@ -1,0 +1,70 @@
+
+ <section style="box-sizing: border-box;">
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 30px 0% 20px;padding-left: 5px;padding-right: 5px;box-sizing: border-box;">
+    <section style="transform: rotate(3deg);-webkit-transform: rotate(3deg);-moz-transform: rotate(3deg);-o-transform: rotate(3deg);box-sizing: border-box;">
+     <section style="border-width: 1px;border-style: solid;border-color: rgb(237, 193, 203);background-color: rgb(232, 177, 190);box-sizing: border-box;">
+      <section style="transform: rotate(-3deg);-webkit-transform: rotate(-3deg);-moz-transform: rotate(-3deg);-o-transform: rotate(-3deg);box-sizing: border-box;">
+       <section style="border-width: 1px;border-style: dashed;border-color: rgb(232, 177, 190);width: 100%;padding: 10px;background-color: rgb(255, 255, 255);box-shadow: rgb(166, 90, 108) 0px 0px 6px inset;border-radius: 0px;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="text-align: right;margin: -36px 0% 0px;transform: translate3d(10px, 0px, 0px);-webkit-transform: translate3d(10px, 0px, 0px);-moz-transform: translate3d(10px, 0px, 0px);-o-transform: translate3d(10px, 0px, 0px);box-sizing: border-box;">
+          <section style="display: inline-block;width: 30px;height: 60px;vertical-align: top;overflow: hidden;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin: 0px 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 100%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+              <img data-ratio="1.8894737" data-type="png?x-oss-process=style/xmwebp" data-w="380" src="https://mmbiz.qpic.cn/mmbiz_png/387XWlA2OHJR0b7G1ySjHPXvic5M6d64unMhbibFzLpdEDpIeUdYLxMXo5pTfGKZlwdozn7qya3HNvMzNwxSPPiaQ/640?wx_fmt=png?x-oss-process=style/xmwebp" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: justify;font-size: 15px;color: rgb(117, 117, 117);line-height: 1.8;box-sizing: border-box;">
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            为了配合学校创新创业教育周的活动，历史学系组织了2018年度本科科创项目的成果展，将本年度结项的14项成果制作成展板，放置在系二楼走廊进行展示，希望为低年级同学提供学习样板的同时，在历史学系本科同学中间培养起浓厚的科研氛围，进一步提升我系本科生培养的质量。
+           </p>
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            详情见如下链接（或直接阅读原文）
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <a data-linktype="2" href="https://mp.weixin.qq.com/s?__biz=MzAxNjY5NDIwMA==&amp;mid=2650639578&amp;idx=2&amp;sn=b2d2ff829df710f900ac6b5d64520cec&amp;scene=21#wechat_redirect" style="box-sizing: border-box;" target="_blank">
+             https://mp.weixin.qq.com/s/RdFMsvJoncizyoSvAAymqg
+            </a>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: -35px 0% 0px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 25%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <img data-ratio="0.6742424" data-type="png?x-oss-process=style/xmwebp" data-w="396" src="https://mmbiz.qpic.cn/mmbiz_png/KsLD0aaMWDksEjicaOPTUztJJFQkldmKUOu1rR5xFGRKSzmxAxjRYM6rwvBnKhsibFjeggPqyiapPvtVkkj2kwX3w/640?wx_fmt=png?x-oss-process=style/xmwebp" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>

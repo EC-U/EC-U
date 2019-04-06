@@ -1,0 +1,583 @@
+
+ <section data-role="outer" label="Powered by 135editor.com" style="font-size: 16px;">
+  <section class="_135editor" data-id="94052" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section data-width="100%" style="width: 100%;">
+    <section data-bgless="spin" data-bglessp="280" data-bgopacity="50%" style="width: 5em;height: 5em;background: rgb(231, 246, 253);border-bottom-right-radius: 100%;margin-bottom: -4.8em;box-sizing: border-box;">
+    </section>
+    <section style="padding-right: 0.3em;padding-left: 0.2em;box-sizing: border-box;">
+     <section style="box-shadow: rgb(230, 230, 230) 0px 0px 3px;margin-right: auto;margin-left: auto;border-width: 1px;border-style: solid;border-color: rgb(240, 240, 240);transform: rotate(0deg);">
+      <section class="135brush" data-autoskip="1" data-bgless="spin" data-bglessp="280" data-bgopacity="50%" style="font-size: 14px;letter-spacing: 1.5px;line-height: 1.75em;background: rgba(255, 255, 255, 0.8);color: rgb(63, 62, 63);padding: 1em;box-sizing: border-box;">
+       <p style="text-indent: 2em;line-height: 1.75em;">
+        <span style="font-size: 15px;color: rgb(127, 127, 127);">
+         1月21日，华东师范大学孟宪承书院师生实践团抵达
+        </span>
+        <span style="font-size: 15px;color: rgb(2, 30, 170);">
+         <strong>
+          澳门大学蔡继有书院
+         </strong>
+        </span>
+        <span style="font-size: 15px;color: rgb(127, 127, 127);">
+         ，开展为期5天的
+        </span>
+        <span style="font-size: 15px;color: rgb(255, 169, 0);">
+         <strong>
+          2019年寒假沪澳城市文化交流项目
+         </strong>
+        </span>
+        <span style="font-size: 15px;color: rgb(127, 127, 127);">
+         。本次实践团由书院辅导员兼党建中心指导老师叶林娟老师，书院兼职班主任罗艺老师与来自生物科学、城区、数学、化学、地理、社会学、环境工程、法学、生态学、思政、物理与汉语言文学12个专业的16名同学组成。同期到访蔡继有书院的还有西安交通大学崇实书院的师生访学团。
+        </span>
+       </p>
+      </section>
+     </section>
+    </section>
+    <section data-bgless="spin" data-bglessp="120" data-bgopacity="50%" style="width: 5em;height: 5em;background: rgb(192, 182, 235);border-top-left-radius: 100%;float: right;margin-top: -4.7em;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <p>
+    <br/>
+   </p>
+  </section>
+  <p style="text-align: center;">
+   <img class="" data-copyright="0" data-ratio="0.75" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0af5S9ZVqM1hy7stY60rfVjT2gEoXpP3010TDsMicYKFHick0B3oQMqXD4Aib2RCe9xmhxu7oLbXIXEhg/640?wx_fmt=jpeg" style=""/>
+  </p>
+  <p style="text-align: center;">
+   <span style="color: rgb(147, 137, 82);font-size: 14px;">
+    抵达澳门
+   </span>
+  </p>
+  <p>
+   <br/>
+  </p>
+  <section class="_135editor" data-id="93802" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section style="text-align: center;">
+    <section style="display: inline-block;">
+     <section style="text-align: right;margin-bottom: -14px;margin-right:1.6em;">
+      <section style="display: inline-block;background: rgb(255, 255, 255);padding-right: 2px;padding-left: 2px;box-sizing: border-box;">
+       <span style="color: rgb(127, 127, 127);">
+        //
+       </span>
+      </section>
+     </section>
+     <section style="border-width: 1px;border-style: solid;border-color: rgb(51, 51, 51);box-sizing: border-box;">
+      <section class="135brush" data-brushtype="text" style="padding: 10px 1.5em;letter-spacing: 1.5px;box-sizing: border-box;">
+       <span style="color: rgb(127, 127, 127);">
+        <strong>
+         <span style="color: rgb(127, 127, 127);font-size: 17px;">
+          体验异地书院生活
+         </span>
+        </strong>
+       </span>
+      </section>
+     </section>
+     <section style="text-align: left;margin-top: -14px;margin-left:1.6em;">
+      <section style="display: inline-block;background: rgb(255, 255, 255);padding-right: 2px;padding-left: 2px;box-sizing: border-box;">
+       <span style="color: rgb(127, 127, 127);">
+        //
+       </span>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <p style="line-height: 1.75em;text-indent: 2em;">
+   <span style="font-size: 15px;color: rgb(127, 127, 127);">
+    16位同学入住蔡继有书院，与本校同学及老师进行了交流，了解了
+   </span>
+   <span style="font-size: 15px;color: rgb(255, 169, 0);">
+    <strong>
+     蔡继有书院的系统组成、“四位一体”的教育模式以及五项能力指
+    </strong>
+    <strong>
+     标
+    </strong>
+   </span>
+   <span style="font-size: 15px;color: rgb(127, 127, 127);">
+    ，通过四位一体的模式，
+   </span>
+   <span style="font-size: 15px;color: rgb(2, 30, 170);">
+    <strong>
+     学院负责专业教育和研习教育，书院负责学生的通识教育和社群教育
+    </strong>
+   </span>
+   <span style="font-size: 15px;color: rgb(127, 127, 127);">
+    。而书院的分配则是完全随机，每一个书院下都会有来自各个专业的同学们；同学们平时的饮食、课后活动都在书院大楼中进行，院长、副院长、书院导师也和同学们住在一起，可以经常进行交流沟通，透过生活互相学习、共同成长。书院对院生有学分要求，且会举办各种各样的活动，比如
+   </span>
+   <span style="font-size: 15px;color: rgb(2, 30, 170);">
+    <strong>
+     邀请非书院导师举办博雅讲座、暑期社会实践以及国内外交流项目等
+    </strong>
+   </span>
+   <span style="font-size: 15px;color: rgb(127, 127, 127);">
+    。
+   </span>
+  </p>
+  <p style="text-align: center;">
+   <img class="" data-copyright="0" data-ratio="0.66640625" data-s="300,640" data-type="jpeg" data-w="1280" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0af5S9ZVqM1hy7stY60rfVjTmcibQJcF3fSg82YX4GtqHVgA2FjFBXXJBsZyAXvPba4u688ibzemZkKg/640?wx_fmt=jpeg" style=""/>
+  </p>
+  <p style="line-height: 1.75em;text-indent: 0em;text-align: center;">
+   <span style="font-size: 14px;color: rgb(147, 137, 82);">
+    蔡继有书院的老师介绍书院培养模式
+   </span>
+  </p>
+  <p style="text-align: center;">
+   <img class="" data-copyright="0" data-ratio="0.66640625" data-s="300,640" data-type="jpeg" data-w="1280" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0af5S9ZVqM1hy7stY60rfVjT6gbfakvxtwicbONbhRlyOefqC1q6uhso77w31WxAYILq5siaRyyEClRg/640?wx_fmt=jpeg" style=""/>
+  </p>
+  <p style="line-height: 1.75em;text-indent: 0em;text-align: center;">
+   <span style="font-size: 15px;color: rgb(127, 127, 127);">
+   </span>
+   <span style="color: rgb(147, 137, 82);font-size: 14px;">
+    参观书院
+   </span>
+  </p>
+  <p style="line-height: 1.75em;text-indent: 0em;">
+   <span style="font-size: 15px;color: rgb(127, 127, 127);">
+    <br/>
+   </span>
+  </p>
+  <p style="line-height: 1.75em;text-indent: 2em;">
+   <span style="font-size: 15px;color: rgb(127, 127, 127);">
+    22日上午各位同学老师们在蔡继有书院老师的带领下参观
+   </span>
+   <span style="font-size: 15px;color: rgb(2, 30, 170);">
+    <strong>
+     澳门大学校园和蔡继有书院
+    </strong>
+   </span>
+   <span style="font-size: 15px;color: rgb(127, 127, 127);">
+    ，近距离地参观同学们生活和学习的地方——图书馆、学生宿舍、学生活动室、体育馆等等。还特别参观了
+   </span>
+   <span style="font-size: 15px;color: rgb(255, 169, 0);">
+    <strong>
+     中药质量研究国家重点实验室
+    </strong>
+   </span>
+   <span style="font-size: 15px;color: rgb(127, 127, 127);">
+    ，在陈新副院长、赵静副教授以及郑颖副教授的讲解下，我们走进了化学生物科学相关的药理世界。
+   </span>
+  </p>
+  <p>
+   <img class="" data-copyright="0" data-ratio="0.66625" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0af5S9ZVqM1hy7stY60rfVjT28eRJ3UBWjeTGickYVJUZKq7penNvE2FcNDg5MseHZUfaq5PFgWwDBg/640?wx_fmt=jpeg" style=""/>
+  </p>
+  <p>
+   <img class="" data-copyright="0" data-ratio="0.66625" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0af5S9ZVqM1hy7stY60rfVjTvqAkHPT1Gcc1MaL0gG0gViaQpVQpJdp5XFicOGAo9vAzLOX3k8IOPLdg/640?wx_fmt=jpeg" style=""/>
+  </p>
+  <p>
+   <img class="" data-copyright="0" data-ratio="0.66625" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0af5S9ZVqM1hy7stY60rfVjTxjM16lsol5WaxFs7fZiafEfhIDq7CGn6icfian7YL0bWCnjNlsxr8iabEQ/640?wx_fmt=jpeg" style=""/>
+  </p>
+  <p>
+   <img class="" data-copyright="0" data-ratio="0.66625" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0af5S9ZVqM1hy7stY60rfVjT2ylOAwXZxt36U7iaukicASibyKuQWuypKhIbu93n2OGjf0ibNyNUPZrsGA/640?wx_fmt=jpeg" style=""/>
+  </p>
+  <p style="text-align: center;">
+   <span style="font-size: 14px;color: rgb(147, 137, 82);">
+    参观中药实验室
+    <br/>
+   </span>
+  </p>
+  <p style="text-align: center;">
+   <img class="" data-copyright="0" data-ratio="0.66625" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0af5S9ZVqM1hy7stY60rfVjToGSwen9Fj7JKV5qcgtL373B9qCZBqkycYp1QANkJiaxGSIbkxrQIiaUA/640?wx_fmt=jpeg" style=""/>
+  </p>
+  <p style="text-align: center;">
+   <span style="font-size: 14px;color: rgb(147, 137, 82);">
+    澳大图书馆
+   </span>
+  </p>
+  <p style="text-align: center;">
+   <img class="" data-copyright="0" data-ratio="0.66625" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0af5S9ZVqM1hy7stY60rfVjTkOic3V0Yj9H9FZVXPxVn0ZTmRw9G5m1yiaBLCMme1BbIBVzR3IzNmYTA/640?wx_fmt=jpeg" style=""/>
+  </p>
+  <p style="text-align: center;">
+   <span style="color: rgb(147, 137, 82);font-size: 14px;">
+    澳大一隅
+   </span>
+  </p>
+  <p style="text-align: center;">
+   <img class="" data-copyright="0" data-ratio="0.66625" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0af5S9ZVqM1hy7stY60rfVjT6myb14ErEbaNBibZ9y5zEYQw4cD8XJjLGH3OhsjdTgtQE2p0BJ34DvQ/640?wx_fmt=jpeg" style=""/>
+  </p>
+  <p style="text-align: center;">
+   <span style="color: rgb(147, 137, 82);font-size: 14px;">
+   </span>
+  </p>
+  <p style="text-align: center;">
+   <span style="color: rgb(147, 137, 82);font-size: 14px;">
+    孟宪承书院与崇实书院合影
+   </span>
+  </p>
+  <p>
+   <br/>
+  </p>
+  <section class="_135editor" data-id="93802" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section style="text-align: center;">
+    <section style="display: inline-block;">
+     <section style="text-align: right;margin-bottom: -14px;margin-right:1.6em;">
+      <section style="display: inline-block;background: rgb(255, 255, 255);padding-right: 2px;padding-left: 2px;box-sizing: border-box;">
+       <span style="color: rgb(127, 127, 127);">
+        //
+       </span>
+      </section>
+     </section>
+     <section style="border-width: 1px;border-style: solid;border-color: rgb(51, 51, 51);box-sizing: border-box;">
+      <section class="135brush" data-brushtype="text" style="padding: 10px 1.5em;letter-spacing: 1.5px;box-sizing: border-box;">
+       <span style="color: rgb(127, 127, 127);">
+        <strong>
+         <span style="color: rgb(127, 127, 127);font-size: 17px;">
+          城市文化的碰撞
+         </span>
+        </strong>
+       </span>
+      </section>
+     </section>
+     <section style="text-align: left;margin-top: -14px;margin-left:1.6em;">
+      <section style="display: inline-block;background: rgb(255, 255, 255);padding-right: 2px;padding-left: 2px;box-sizing: border-box;">
+       <span style="color: rgb(127, 127, 127);">
+        //
+       </span>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <p style="text-indent: 2em;line-height: 1.75em;">
+   <span style="font-size: 15px;color: rgb(127, 127, 127);">
+    下午16位同学在蔡继有书院老师同学的陪同下参观了
+   </span>
+   <span style="font-size: 15px;color: rgb(255, 169, 0);">
+    <strong>
+     具有澳门特色地标建筑
+    </strong>
+   </span>
+   <span style="font-size: 15px;color: rgb(127, 127, 127);">
+    。在
+   </span>
+   <span style="font-size: 15px;color: rgb(2, 30, 170);">
+    <strong>
+     氹仔
+    </strong>
+   </span>
+   <span style="font-size: 15px;color: rgb(127, 127, 127);">
+    ，中葡文化交融让人眼前一亮，而
+   </span>
+   <span style="font-size: 15px;color: rgb(2, 30, 170);">
+    <strong>
+     大三巴、大炮台
+    </strong>
+   </span>
+   <span style="font-size: 15px;color: rgb(127, 127, 127);">
+    等建筑无疑勾起了同学们对澳门历史的兴趣。
+   </span>
+  </p>
+  <p style="text-align: center;">
+   <img class="" data-copyright="0" data-ratio="0.66625" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0af5S9ZVqM1hy7stY60rfVjT2pXArQhQyJb0YE0AFm8MvgkgibJCcYYP1gaGVfibic3TCoKZzqVic6uVbw/640?wx_fmt=jpeg" style=""/>
+  </p>
+  <p style="text-align: center;">
+   <span style="color: rgb(147, 137, 82);font-size: 14px;">
+    澳门的西式建筑
+   </span>
+  </p>
+  <p style="text-align: center;">
+   <img class="" data-copyright="0" data-ratio="1" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0af5S9ZVqM1hy7stY60rfVjTSRaZo94bib1nUIMsFk8O14nJHLibdvMVlTliabU2a4nmjoGZXib7kcd79g/640?wx_fmt=jpeg" style=""/>
+  </p>
+  <p style="text-align: center;">
+   <img class="" data-copyright="0" data-ratio="1" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0af5S9ZVqM1hy7stY60rfVjTO9HpibDia6WtEG6ptyOKqrAvIgLjvQ1kmzARLv40383FhqAlzSDP7mSg/640?wx_fmt=jpeg" style=""/>
+  </p>
+  <p style="text-align: center;">
+   <span style="color: rgb(147, 137, 82);font-size: 14px;">
+    澳门博物馆
+   </span>
+   <br/>
+  </p>
+  <p style="text-align: center;">
+   <img class="" data-copyright="0" data-ratio="1.0012515644555695" data-s="300,640" data-type="jpeg" data-w="799" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0af5S9ZVqM1hy7stY60rfVjTXcLCrX1RR3uF7HEd3lfkkagjEs0bZc69NGEd2FbAabqBPDAubRE1Zg/640?wx_fmt=jpeg" style=""/>
+  </p>
+  <p style="text-align: center;">
+   <span style="color: rgb(147, 137, 82);font-size: 14px;">
+    大炮台
+   </span>
+   <br/>
+  </p>
+  <p style="text-align: center;">
+   <img class="" data-copyright="0" data-ratio="0.75" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0af5S9ZVqM1hy7stY60rfVjTdCVibiabia4IPCULPib4ChmlUiczeyPyLX0Smbu6T0wCsydczQmqemdsU7w/640?wx_fmt=jpeg" style=""/>
+  </p>
+  <p style="text-align: center;">
+   <span style="color: rgb(147, 137, 82);font-size: 14px;">
+    大三巴
+   </span>
+   <br/>
+  </p>
+  <p>
+   <br/>
+  </p>
+  <section class="_135editor" data-id="93802" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section style="text-align: center;">
+    <section style="display: inline-block;">
+     <section style="text-align: right;margin-bottom: -14px;margin-right:1.6em;">
+      <section style="display: inline-block;background: rgb(255, 255, 255);padding-right: 2px;padding-left: 2px;box-sizing: border-box;">
+       <span style="color: rgb(127, 127, 127);">
+        //
+       </span>
+      </section>
+     </section>
+     <section style="border-width: 1px;border-style: solid;border-color: rgb(51, 51, 51);box-sizing: border-box;">
+      <section class="135brush" data-brushtype="text" style="padding: 10px 1.5em;letter-spacing: 1.5px;box-sizing: border-box;">
+       <span style="font-size: 17px;color: rgb(127, 127, 127);">
+        <strong>
+         发人深省的感想
+        </strong>
+       </span>
+      </section>
+     </section>
+     <section style="text-align: left;margin-top: -14px;margin-left:1.6em;">
+      <section style="display: inline-block;background: rgb(255, 255, 255);padding-right: 2px;padding-left: 2px;box-sizing: border-box;">
+       <span style="color: rgb(127, 127, 127);">
+        //
+       </span>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="_135editor" data-id="93479" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section style="padding-top: 15px;box-sizing: border-box;">
+    <section style="font-size: 14px;padding: 1em 0.8em;border-radius: 10px;background-image: linear-gradient(rgb(245, 250, 251), white);background-position: initial;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;letter-spacing: 1.5px;box-sizing: border-box;">
+     <section data-width="100%" style="width:100%;display:flex;justify-content:flex-start;">
+      <section style="width: 25px;height: 25px;border-radius: 50%;background: rgb(225, 245, 253);padding: 2px;margin-top: -25px;box-shadow: gray 2px 2px 5px;box-sizing: border-box;">
+       <img class="" data-ratio="0.65" data-type="png" data-w="20" data-width="80%" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0af5S9ZVqM1hy7stY60rfVjT1o6uVxAn7xFPBUtiaN2e0N5sWTT0p9aR8H6HJrHfsmyKVsiaHTWia0iacg/640?wx_fmt=png" style="display:block;margin-top:5px;width:80%;margin-left:auto;margin-right:auto;transform: rotate(180deg);-webkit-transform: rotate(180deg);-moz-transform: rotate(180deg);-ms-transform: rotate(180deg);-o-transform: rotate(180deg);"/>
+      </section>
+     </section>
+     <section class="135brush">
+      <p style="text-indent: 2em;line-height: 1.75em;">
+       <span style="font-size: 15px;color: rgb(127, 127, 127);">
+        第一天，为这座城市寻到的第一个标签是月光女神阿尔特弥斯。如月光一般温柔。哪怕是博彩业和旅游业极度发达的城市，还是百种风情汇聚，一把揉碎以后落进四季常温的风里。不经意间，便能在街边转角遇见，像是四溢的香气，丝丝入扣甜进心底。
+       </span>
+      </p>
+      <p style="text-indent: 2em;line-height: 1.75em;">
+       <span style="font-size: 15px;color: rgb(127, 127, 127);">
+        生活在这里碎成了片。午后出行时，街边的小店日常招徕客人，本地话自然流出，带着一点亲切。葡式风情的屋檐下载着厚重历史，染上颜色万千，红色深情优雅，水绿色低调沉稳。正像闹市之上也有教堂一处，喂饱生活的同时还能使灵魂富足。更像当地的特色植物，吸饱水分，尽情蒸腾。更像爬上墙的彩绘，迈开步子舞蹈。
+       </span>
+      </p>
+      <p style="text-indent: 2em;line-height: 1.75em;">
+       <span style="font-size: 15px;color: rgb(127, 127, 127);">
+        这个城市，按着两个时钟转动：一则步伐飞快，任血液沸腾；一则缓缓前行，落进时光罅隙。
+       </span>
+       <span style="font-size: 15px;color: rgb(255, 169, 0);">
+        <strong>
+         即便是旅人的匆忙一瞥，也能寻到属于自己的合适位置。
+        </strong>
+       </span>
+      </p>
+      <p style="text-align: right;line-height: 1.75em;">
+       <span style="font-size: 15px;color: rgb(127, 127, 127);">
+        ------邹悠然
+       </span>
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+  <p>
+   <br/>
+  </p>
+  <section class="_135editor" data-id="93477" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section style="padding-top: 15px;box-sizing: border-box;">
+    <section style="font-size: 14px;padding: 1em 0.8em;border-radius: 10px;background-image: linear-gradient(rgb(251, 247, 245), white);background-position: initial;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;letter-spacing: 1.5px;box-sizing: border-box;">
+     <section data-width="100%" style="width:100%;display:flex;justify-content:flex-end;">
+      <section style="width: 25px;height: 25px;border-radius: 50%;background: rgb(253, 231, 225);padding: 2px;margin-top: -25px;box-shadow: gray 2px 2px 5px;box-sizing: border-box;">
+       <img class="" data-ratio="0.65" data-type="png" data-w="20" data-width="80%" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0af5S9ZVqM1hy7stY60rfVjT1o6uVxAn7xFPBUtiaN2e0N5sWTT0p9aR8H6HJrHfsmyKVsiaHTWia0iacg/640?wx_fmt=png" style="display:block;margin-top:5px;width:80%;margin-left:auto;margin-right:auto;"/>
+      </section>
+     </section>
+     <section class="135brush">
+      <p style="text-indent: 2em;line-height: 1.75em;">
+       <span style="font-size: 15px;color: rgb(127, 127, 127);">
+        站在澳大的校园中，与珠海横琴仅一墙之隔，不知对面耸立的高楼中工作读书的人们在遥望这所城市时会是怎样的心情?想来也应该是诸多感慨吧，突然对这所城市的历史充满了好奇，
+       </span>
+       <span style="font-size: 15px;color: rgb(255, 169, 0);">
+        <strong>
+         那些被记入史册然后家喻户晓的片段，还有那些被遗留在岁月里的人物故事，那些凝聚成这所城市现有面貌气息的点点滴滴。
+        </strong>
+       </span>
+      </p>
+      <p style="text-align: right;line-height: 1.75em;">
+       <span style="font-size: 15px;color: rgb(127, 127, 127);">
+        ------左冉
+       </span>
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+  <p>
+   <br/>
+  </p>
+  <section class="_135editor" data-id="93479" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section style="padding-top: 15px;box-sizing: border-box;">
+    <section style="font-size: 14px;padding: 1em 0.8em;border-radius: 10px;background-image: linear-gradient(rgb(245, 250, 251), white);background-position: initial;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;letter-spacing: 1.5px;box-sizing: border-box;">
+     <section data-width="100%" style="width:100%;display:flex;justify-content:flex-start;">
+      <section style="width: 25px;height: 25px;border-radius: 50%;background: rgb(225, 245, 253);padding: 2px;margin-top: -25px;box-shadow: gray 2px 2px 5px;box-sizing: border-box;">
+       <img class="" data-ratio="0.65" data-type="png" data-w="20" data-width="80%" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0af5S9ZVqM1hy7stY60rfVjT1o6uVxAn7xFPBUtiaN2e0N5sWTT0p9aR8H6HJrHfsmyKVsiaHTWia0iacg/640?wx_fmt=png" style="display:block;margin-top:5px;width:80%;margin-left:auto;margin-right:auto;transform: rotate(180deg);-webkit-transform: rotate(180deg);-moz-transform: rotate(180deg);-ms-transform: rotate(180deg);-o-transform: rotate(180deg);"/>
+      </section>
+     </section>
+     <section class="135brush">
+      <p style="line-height: 1.75em;text-indent: 2em;">
+       <span style="font-size: 15px;color: rgb(127, 127, 127);">
+        我感触很深刻的是
+       </span>
+       <span style="font-size: 15px;color: rgb(255, 169, 0);">
+        <strong>
+         澳大对学生的培养方向
+        </strong>
+       </span>
+       <span style="color: rgb(255, 169, 0);">
+        <span style="font-size: 15px;">
+         ——发展院生国际本土化的趋势，即传承中华文化的同时，提升国际竞争力
+        </span>
+       </span>
+       <span style="font-size: 15px;color: rgb(127, 127, 127);">
+        。澳门的教育资源丰富，文化多样，这是和内地不太一样的，所以也注定了它的教育不一样，比起内地大多数学校来，澳门大学更加趋向于国际化方向，所以才会有了这种培养理念，从这几天接触到的澳大学生的表现和能力来看，这一教育理念也践行得很好。
+       </span>
+      </p>
+      <p style="line-height: 1.75em;text-align: right;">
+       <span style="font-size: 15px;color: rgb(127, 127, 127);">
+        ------陈玉丹
+       </span>
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <p>
+    <br/>
+   </p>
+  </section>
+  <section class="_135editor" data-id="93477" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section style="padding-top: 15px;box-sizing: border-box;">
+    <section style="font-size: 14px;padding: 1em 0.8em;border-radius: 10px;background-image: linear-gradient(rgb(251, 247, 245), white);background-position: initial;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;letter-spacing: 1.5px;box-sizing: border-box;">
+     <section data-width="100%" style="width:100%;display:flex;justify-content:flex-end;">
+      <section style="width: 25px;height: 25px;border-radius: 50%;background: rgb(253, 231, 225);padding: 2px;margin-top: -25px;box-shadow: gray 2px 2px 5px;box-sizing: border-box;">
+       <img class="" data-ratio="0.65" data-type="png" data-w="20" data-width="80%" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0af5S9ZVqM1hy7stY60rfVjT1o6uVxAn7xFPBUtiaN2e0N5sWTT0p9aR8H6HJrHfsmyKVsiaHTWia0iacg/640?wx_fmt=png" style="display:block;margin-top:5px;width:80%;margin-left:auto;margin-right:auto;"/>
+      </section>
+     </section>
+     <section class="135brush">
+      <p style="line-height: 1.75em;text-indent: 2em;">
+       <span style="font-size: 15px;color: rgb(127, 127, 127);">
+        澳大的书院组成与孟宪承书院有类似之处，在院长、副院长之下，还有小导师、导师、院生会、非驻院导师、院生会、行政人员等等。导师数量很多，差不多每十个学生就有一个导师。虽然孟宪承书院也有导师，但师生比十分低，并没有发挥好导师的作用。同时澳大的导师来自各个专业，也就是
+       </span>
+       <span style="font-size: 15px;color: rgb(255, 169, 0);">
+        <strong>
+         每个学生能接触不同专业的老师
+        </strong>
+       </span>
+       <span style="font-size: 15px;color: rgb(127, 127, 127);">
+        ，而孟宪承书院的导师就是自己的任课老师，依旧以自己的专业为起点。
+       </span>
+      </p>
+      <p style="line-height: 1.75em;text-align: right;">
+       <span style="font-size: 15px;color: rgb(127, 127, 127);">
+        ------魏春晖
+       </span>
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+  <p>
+   <br/>
+  </p>
+  <section class="_135editor" data-id="93479" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section style="padding-top: 15px;box-sizing: border-box;">
+    <section style="font-size: 14px;padding: 1em 0.8em;border-radius: 10px;background-image: linear-gradient(rgb(245, 250, 251), white);background-position: initial;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;letter-spacing: 1.5px;box-sizing: border-box;">
+     <section data-width="100%" style="width:100%;display:flex;justify-content:flex-start;">
+      <section style="width: 25px;height: 25px;border-radius: 50%;background: rgb(225, 245, 253);padding: 2px;margin-top: -25px;box-shadow: gray 2px 2px 5px;box-sizing: border-box;">
+       <img class="" data-ratio="0.65" data-type="png" data-w="20" data-width="80%" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0af5S9ZVqM1hy7stY60rfVjT1o6uVxAn7xFPBUtiaN2e0N5sWTT0p9aR8H6HJrHfsmyKVsiaHTWia0iacg/640?wx_fmt=png" style="display:block;margin-top:5px;width:80%;margin-left:auto;margin-right:auto;transform: rotate(180deg);-webkit-transform: rotate(180deg);-moz-transform: rotate(180deg);-ms-transform: rotate(180deg);-o-transform: rotate(180deg);"/>
+      </section>
+     </section>
+     <section class="135brush">
+      <p style="line-height: 1.75em;text-indent: 2em;">
+       <span style="font-size: 15px;color: rgb(127, 127, 127);">
+        人行道没有红绿灯是我最惊讶的一件事！车辆会主动停下让行人通过，即使是一个行人也如此。一开始觉得这样太浪费时间了，而且也很不安全。但了解后才知道这边的交通事故很少，可能没有红绿灯反而能让司机提高警惕吧，行人也会快速通过，而不是为了几秒钟绿灯拼闯。
+       </span>
+       <span style="font-size: 15px;color: rgb(255, 169, 0);">
+        <strong>
+         文化不同，看待问题的思维也应该转换，仔细去想，每件事的背后都不简单。
+        </strong>
+       </span>
+      </p>
+      <p style="line-height: 1.75em;text-align: right;">
+       <span style="font-size: 15px;color: rgb(127, 127, 127);">
+        ------张阿芳
+       </span>
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+  <p>
+   <br/>
+  </p>
+  <section class="_135editor" data-id="93477" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section style="padding-top: 15px;box-sizing: border-box;">
+    <section style="font-size: 14px;padding: 1em 0.8em;border-radius: 10px;background-image: linear-gradient(rgb(251, 247, 245), white);background-position: initial;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;letter-spacing: 1.5px;box-sizing: border-box;">
+     <section data-width="100%" style="width:100%;display:flex;justify-content:flex-end;">
+      <section style="width: 25px;height: 25px;border-radius: 50%;background: rgb(253, 231, 225);padding: 2px;margin-top: -25px;box-shadow: gray 2px 2px 5px;box-sizing: border-box;">
+       <img class="" data-ratio="0.65" data-type="png" data-w="20" data-width="80%" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0af5S9ZVqM1hy7stY60rfVjT1o6uVxAn7xFPBUtiaN2e0N5sWTT0p9aR8H6HJrHfsmyKVsiaHTWia0iacg/640?wx_fmt=png" style="display:block;margin-top:5px;width:80%;margin-left:auto;margin-right:auto;"/>
+      </section>
+     </section>
+     <section class="135brush">
+      <p style="line-height: 1.75em;text-indent: 2em;">
+       <span style="font-size: 15px;color: rgb(127, 127, 127);">
+        或许是作为生态学专业学生的自觉，坐在前往澳门大学的大巴上，第一时间吸引我的是两边快速经过的行道树。与上海常见的悬铃木、香樟不同，这边见到的较多的是蒲葵、合欢树等。但也有相同的部分，比如作为灌木的小叶黄杨和红花檵木。路边遇到的植物大多在上海都不怎么常见，这
+       </span>
+       <span style="font-size: 15px;color: rgb(255, 169, 0);">
+        <strong>
+         激发了我极大的兴趣，想要在接下来的日子里去认识了解它们。
+        </strong>
+       </span>
+      </p>
+      <p style="line-height: 1.75em;text-align: right;">
+       <span style="font-size: 15px;color: rgb(127, 127, 127);">
+        ------赵钊
+       </span>
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+  <p>
+   <br/>
+  </p>
+  <p style="text-align: right;">
+   <span style="font-size: 15px;color: rgb(127, 127, 127);">
+    文字 | 付楠
+   </span>
+  </p>
+  <p style="text-align: right;">
+   <span style="font-size: 15px;color: rgb(127, 127, 127);">
+    图片 | 孟宪承书院参访团
+   </span>
+  </p>
+  <p style="text-align: right;">
+   <span style="font-size: 15px;color: rgb(127, 127, 127);">
+    编辑 | 段睿颖
+   </span>
+  </p>
+  <section class="_135editor" data-id="92689" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section data-width="100%" style="width: 100%;display: flex;justify-content: center;box-sizing: border-box;">
+    <section data-width="100%" style="margin-top: 10px;margin-right: auto;margin-left: auto;padding-top: 10px;padding-bottom: 10px;width: 100%;display: flex;box-sizing: border-box;">
+     <section data-width="100%" style="width: 100%;margin-right: 5px;border-top: 1px solid rgb(156, 155, 156);box-sizing: border-box;">
+     </section>
+     <section style="width:40px;">
+      <img class="" data-ratio="1" data-type="png" data-w="35" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0af5S9ZVqM1hy7stY60rfVjT2Hn25D76qbQkzfvK6q6LzjrNeZzTGmJU9Agpp6WmsRksKIYjRuRQdg/640?wx_fmt=png" style="width: 100%;margin-top: -10px;display: block;justify-content: center;"/>
+     </section>
+     <section data-width="100%" style="width: 100%;margin-left: 5px;border-top: 1px solid rgb(156, 155, 156);box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <p style="text-align: center;">
+   <img class="" data-copyright="0" data-ratio="0.6541176470588236" data-s="300,640" data-type="png" data-w="850" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0aexcUjYRDIrDP7RTicHTiapqnicIIZvI7vfAQKfInKIw53MEM11V1nibicf91hdfm8rQCXKZRzIx1UMfkA/640?wx_fmt=png" style=""/>
+  </p>
+  <p>
+   <br/>
+  </p>
+ </section>

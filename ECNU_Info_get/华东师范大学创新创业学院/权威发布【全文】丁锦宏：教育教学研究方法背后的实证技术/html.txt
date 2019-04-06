@@ -1,0 +1,385 @@
+
+ <p style="text-align:center">
+  <strong>
+   <span style="font-size:16px;font-family:宋体">
+   </span>
+  </strong>
+ </p>
+ <section class="tn-Powered-by-XIUMI" style="white-space: normal;">
+  <section class="tn-Powered-by-XIUMI" style="margin: 0px; padding: 10px; border: 2px dotted white; border-image-source: none; color: rgb(255, 255, 255); line-height: 1.4; font-family: inherit; font-size: 1em; text-decoration: inherit; max-width: 100%; box-sizing: border-box; box-shadow: rgb(225, 225, 225) 8px 8px 3px; background-color: rgb(71, 193, 168);">
+   <section class="tn-Powered-by-XIUMI" style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box;">
+    <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; white-space: pre-wrap; min-height: 1em; max-width: 100%; box-sizing: border-box !important;">
+     <span style="margin: 0px; padding: 0px; line-height: 1.4; font-family: inherit; font-size: 1em; text-decoration: inherit; max-width: 100%; box-sizing: border-box !important;">
+      编者按：为期两天的“全国首届教育实证研究论坛”顺利闭幕，相关特邀专家的发言文稿将陆续通过“教育公平协同创新中心”公共号发布，敬请期待！
+     </span>
+    </p>
+   </section>
+  </section>
+ </section>
+ <p style="text-align:center">
+  <strong>
+   <span style="font-size:16px;font-family:宋体">
+    <br/>
+   </span>
+  </strong>
+  <br/>
+ </p>
+ <p style="text-align: center;">
+  <strong>
+   <span style="font-size:16px;font-family:宋体">
+   </span>
+  </strong>
+ </p>
+ <p style="text-align:center">
+  <strong>
+   <span style="font-size:16px;font-family:宋体">
+    教育教学研究方法背后的实证技术
+   </span>
+  </strong>
+ </p>
+ <p style="text-align:right">
+  <span style="font-family:宋体">
+   ——在“全国首届教育实证研究论坛”上的发言
+  </span>
+ </p>
+ <p style="text-align:center">
+  <span style="font-family:宋体">
+   丁锦宏
+  </span>
+  <span style="font-family:宋体">
+   南通大学教育科学学院院长
+  </span>
+ </p>
+ <p>
+ </p>
+ <p style="text-indent: 28px">
+  <span style="font-family:宋体">
+   各位专家，非常荣幸有机会在这里和大家分享这几年来我在教育研究方面做的一些事情。今天上午几位专家就实证研究作了精彩报告，特别是刚才杨向东教授非常完美地向我们展现了一个典型的、基于数据的研究过程。我要汇报的却是研究过程研究当中最小的一个环节，这个环节很容易被忽视，但，我们在实践中常常感觉最费时、费力，直接影响研究的信度和效度。这个环节就是——研究方法的技术，重点是数据获得技术。
+  </span>
+ </p>
+ <p style="text-indent: 28px">
+  <span style="font-family:宋体">
+   我从两个方面向大家报告：
+  </span>
+ </p>
+ <p>
+  <strong>
+   <span style="font-family:宋体">
+    第一，教育研究方法背后的一般技术。
+   </span>
+  </strong>
+ </p>
+ <p style="text-indent: 28px">
+  <span style="font-family:宋体">
+   教育研究方法背后的技术有很多。基于证据的研究，某种意义上说就是从事物现象中寻找背后的要素。在研究中，“现象”往往表现为音频、视频、图像、文本记录等，而这些“材料”一般是通过观察法、访谈法、文献法、问卷法获得的。
+  </span>
+ </p>
+ <p style="text-indent: 28px">
+  <span style="font-family:宋体">
+   例一，我曾指导研究生做过一个基于几百个贪官贪污腐败过程的研究。这个研究成果后来获得全国大学生“挑战杯”三等奖。这是一个很偶然的研究，当时是廉政文化研究所委托的一个课题。我们按照标准筛选出了
+  </span>
+  30
+  <span style="font-family:宋体">
+   个案，对
+  </span>
+  30
+  <span style="font-family:宋体">
+   个案的传记、庭审记录、司法案卷进行梳理分析。此时遇到的最大难题就是巨量文本数据怎么分析？
+  </span>
+  Nvivo
+  <span style="font-family:宋体">
+   质性分析软件在这项研究中发挥了重要作用。现在不少博士都知道这个软件了，但是，在当时（
+  </span>
+  2010
+  <span style="font-family:宋体">
+   ）教育学研究领域，知道的人不多。
+  </span>
+ </p>
+ <p style="text-indent: 28px">
+  <span style="font-family:宋体">
+   例二，
+  </span>
+  2008
+  <span style="font-family:宋体">
+   年开始，我追踪研究了一个城郊结合部，以流动儿童为主组成的小学班级。从一年级一直追踪他们到六年级。心理学研究发现，儿童在他成长发展过程当中，如果伙伴关系不断变换，对孩子的成长是不利的。当时我从理论思考角度，认为当时国家关注留守儿童，随着父母亲在城市里不断奔波，就在不断地改变他们的伙伴关系。
+  </span>
+ </p>
+ <p style="text-indent: 28px">
+  <span style="font-family:宋体">
+   当时要解决人际关系网络关系图，当时我和我的学生一起在一个大房间里面，我们把白纸铺在地上，努力画出每年这个班级
+  </span>
+  40
+  <span style="font-family:宋体">
+   多个儿童的“社会关系图”。对于莫雷诺的人际关系测量，
+  </span>
+  6
+  <span style="font-family:宋体">
+   个人关系图很好画，超过
+  </span>
+  10
+  <span style="font-family:宋体">
+   个人关系就很难画。在我们一筹莫展之际，我想，这个问题肯定不止我们会遇到，国外学者一定也会遇到，后来，我们发现，加州大学欧文（
+  </span>
+  Irvine
+  <span style="font-family:宋体">
+   ）分校斯蒂芬·博加提（
+  </span>
+  Stephen Borgatti
+  <span style="font-family:宋体">
+   ）、马丁·埃弗里特（
+  </span>
+  Martin
+  <span style="font-family:宋体">
+   ·
+  </span>
+  Everett
+  <span style="font-family:宋体">
+   ）和林顿·弗里曼（
+  </span>
+  Linton Freeman
+  <span style="font-family:宋体">
+   ）等，他们是做社会学研究的，也遇到这个问题，他们也不会，但是他们有一点是值得我学习的，因为他们遇到问题很难解决后不是放弃，而是寻找了一个数学图论的专家，又找了一个计算机编程专家，合作研究，后来就开发了了
+  </span>
+  UCINET
+  <span style="font-family:宋体">
+   。
+  </span>
+ </p>
+ <p style="text-indent: 28px">
+  <span style="font-family:宋体">
+   我们往往遇到这种情况就没办法了，大多数选择放弃。有一年，我在英国的约克大学访问，我的一个朋友也是同乡，他已经是英国人了，是约克大学的终身教授，在他的实验室我看到一套研究仪器，因为仪器外观并不太精致，一看就知道属于“自制”类，我问他这是从哪儿买的？他说是自己研发的，成本几百万英镑。我问他，那研究之后不需要这些仪器了怎么办？他说卖给中国人。我非常受刺激和震撼！我们经常到外面买别人的东西，能不能做一些自己的东西？就这样引起了我的思考。
+  </span>
+ </p>
+ <p style="text-indent: 28px">
+  <span style="font-family:宋体">
+   这个思考一直影响了我后来的研究过程。为什么我们自己不能做？现在大家都知道问卷调查可以在线远程做。当时，委托给网站和调查公司的在线调查其误差风险是比较大的。基于此，我自己研发了一个在线调查系统，地址是
+  </span>
+  http://linux.ntu.edu.cn/limesurvey/admin/admin.php
+  <span style="font-family:宋体">
+   ，有专家感兴趣可以看看，这是我们自己开发的一个基于开源的远程问卷调查平台。
+  </span>
+ </p>
+ <p style="text-indent: 28px">
+  <span style="font-family:宋体">
+   刚才和各位专家分享的是我的几个基于证据研究案例的一般技术。下面就课堂教学研究的方法背后技术和大家分享。
+  </span>
+ </p>
+ <p>
+  <strong>
+   <span style="font-family:宋体">
+    二、课堂教学研究背后的技术
+   </span>
+  </strong>
+ </p>
+ <p style="text-indent: 28px">
+  <span style="font-family:宋体">
+   课堂研究一般有三种策略：课堂教学的效果研究、课堂教学的内容分析，课堂教学的微观社会学分析。因为大家都是研究专家，我在这里不会给大家整个完整的课堂研究过程，我只是跟大家分享做课堂研究可以怎么做，可以从哪些方面做。接下来我以课堂观察为例，谈谈我的思考。
+  </span>
+ </p>
+ <p style="text-indent: 28px">
+  <span style="font-family:宋体">
+   第一，课堂教学的效果研究。一般来说你，我们可以通过直接检测和间接检测两种路径来实现。考试、提问等都属于直接检测方法。这些各位专家都非常熟悉。间接检测是通过中介变量来间接了解课堂教学效果的方法。全国著名的儿童教育家李吉林老师情境教学李老师科研成果获得了全国首届基础教育教学改革特等奖第一名，
+  </span>
+  2007
+  <span style="font-family:宋体">
+   年以来，我向李吉林老师学习，配合李吉林老师，主要是在情境教学的有效性证据部分做了一些工作。那么，从间接的角度如何做课堂研究呢？我们知道，课堂教学的过程，关键是学生有没有发生学习。无论采用何种教学模式，学生在课堂上学习的专注程度（注意力）是一个非常重要的指标。而这个指标怎么取得呢？所以我们做了李老师课堂的情境教学模式和非情境教学模式学生注意力状况的研究。在在智力测验中，注意力水平可以用量表做，但是，在课堂学习过程中，学生的注意力怎么检测呢？生理心理学研究发现，心电、心律是反应人的注意力状态的敏感而活跃指标。当时，我们用心率仪做的，取得了较好的研究成果。不少专家是做有效教学的，大家发现，有效教学很难做，因为我们基本找不到被大家公认的指标。
+  </span>
+ </p>
+ <p style="text-indent: 28px">
+  <span style="font-family:宋体">
+   第二种课堂研究是对课堂教学过程的内容方面分析。内容分析的方法有
+  </span>
+  NVIVO
+  <span style="font-family:宋体">
+   技术。现在华东师范大学的一些教育学博士都在使用，现在已经到了
+  </span>
+  11.0
+  <span style="font-family:宋体">
+   版本了。
+  </span>
+  2001
+  <span style="font-family:宋体">
+   年我在澳大利亚
+  </span>
+  Latrobe University
+  <span style="font-family:宋体">
+   做高访时知道，澳洲一位做质化研究的女老师，在面对大量的音频、文本等，无法处理，她在
+  </span>
+  Latrobe University
+  <span style="font-family:宋体">
+   计算机系工作的丈夫帮她开发了一个文本、音频处理软件，也就是大家比较熟悉的
+  </span>
+  NVIVO
+  <span style="font-family:宋体">
+   ，现在已经更新到了
+  </span>
+  11.0
+  <span style="font-family:宋体">
+   版本，功能十分强大。
+  </span>
+ </p>
+ <p style="text-indent: 28px">
+  <span style="font-family:宋体">
+   课堂教学的内容分析的手段很多，例如，我们曾经运用
+  </span>
+  Obersver XT
+  <span style="font-family:宋体">
+   ，对著名特级教师李吉林老师的情境教学模式进行多点（视角）分析，取得了很好成效。
+  </span>
+ </p>
+ <p style="text-indent: 28px">
+  <span style="font-family:宋体">
+   第三，课堂教学的微观社会学分析。从形式角度研究课堂，最常用的方法可以算佛兰德斯课堂观察系统。看似简单，我们做这个的时候其实很难，课堂过程的打点。因为我们是这样做的，左手要有一个秒表，有一个超时定义，每隔三秒钟你要观察一次，观察到的特征在
+  </span>
+  1
+  <span style="font-family:宋体">
+   到
+  </span>
+  10
+  <span style="font-family:宋体">
+   的代码，你要做记录，你左手一个码表，右手一张纸，一个笔，大家知道其实这个误差是很大的，因为你一定要看表，一定要记录，又要观察课堂，就算是智力超强的也是很难的。
+  </span>
+ </p>
+ <p style="text-indent: 28px">
+  <span style="font-family:宋体">
+   我去寻找，看看有没有人开发一个工具，结果发现全世界都没有人做过，于是我就做了一个产品，“弗兰德思课堂观察分析系统”，我们为使用者设计了一个云计算环境，只要研究者按照佛兰德斯课堂观察规则记录课堂，结束后，按“发送”健，系统自动就算好了结果反馈给研究者。
+  </span>
+ </p>
+ <p>
+  <strong>
+   <span style="font-family:宋体">
+    最后有几点说明。
+   </span>
+  </strong>
+ </p>
+ <p style="text-indent: 28px">
+  <span style="font-family:宋体">
+   第一，强调基于实证的教育研究，并不意味否定教育理论思辨的价值。十八年前我在做研究生的时候，我在南京师范大学上吴康宁老师的课，是上教育学元研究方面，我为了完成这个作业，在网络上查到了
+  </span>
+  328
+  <span style="font-family:宋体">
+   篇文章，通读后，我用半天时间完成了一篇文章，“还教学以本来面目”，后来《新华文摘》以封面要目全文转摘了。但是，做实证研究情况就不一样了。我非常理解为什么在华东师范大学教育学部、北京师范大学教育学部在这个时候鼓与吁，提出一个教育研究要基于证据的研究。
+  </span>
+ </p>
+ <p style="text-indent: 28px">
+  <span style="font-family:宋体">
+   第二，深证研究并不就是研究范式，质化研究常常需要通过数据来表达。
+  </span>
+ </p>
+ <p style="text-indent: 28px">
+  <span style="font-family:宋体">
+   第三，中小学教师基于问题解决的行动研究是非常有价值的，但教育研究田野上，还需要基于事实和现象背后因素的探索。
+  </span>
+ </p>
+ <p style="text-indent: 28px">
+  <span style="font-family:宋体">
+   第四，国际教育研究舞台上应该有“中国声音”，既往“声音”很低，原因不仅仅是语言障碍。
+  </span>
+ </p>
+ <p style="text-indent: 28px">
+  <span style="font-family:宋体">
+   谢谢大家！
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <section class="" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section class="Powered-by-XIUMI V5" style="box-sizing: border-box;">
+     <section class="" style="box-sizing: border-box;">
+      <section class="" style="box-sizing: border-box;">
+       <p style="box-sizing: border-box;">
+       </p>
+       <p style="box-sizing: border-box;">
+        <br/>
+       </p>
+       <p style="box-sizing: border-box;">
+        <br/>
+       </p>
+       <p style="box-sizing: border-box;">
+        【本文版权归作者本人和“全国首届教育实证研究论坛”组委会，转载请务必注明出处！】
+        <br/>
+       </p>
+       <p style="box-sizing: border-box;">
+        <br/>
+       </p>
+       <p style="text-align: right; box-sizing: border-box;">
+        来源|根据嘉宾本人发言内容整理
+       </p>
+       <section style="text-align: right; box-sizing: border-box;">
+        编辑|张凯
+       </section>
+       <section style="text-align: right; box-sizing: border-box;">
+        审核|李政涛
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <p style="text-align: right; box-sizing: border-box;">
+    <br/>
+   </p>
+   <p style="text-align: right; box-sizing: border-box;">
+    <br/>
+   </p>
+   <section class="tn-Powered-by-XIUMI">
+    <section class="tn-Powered-by-XIUMI" style="border-color: rgb(95, 156, 239); margin: 0px; padding: 0px; color: rgb(51, 51, 51); font-family: inherit; font-size: 1em; text-decoration: inherit; max-width: 100%; box-sizing: border-box;">
+     <section class="tn-Powered-by-XIUMI" style="margin: 0px; padding: 0px; height: 16px; max-width: 100%; box-sizing: border-box;">
+      <section class="tn-Powered-by-XIUMI" style="border-color: rgb(95, 156, 239); margin: 0px; padding: 0px; width: 24px; height: 16px; border-top-width: 6px; border-left-width: 6px; border-top-style: solid; border-left-style: solid; float: left; max-width: 100%; box-sizing: border-box;">
+      </section>
+      <section class="tn-Powered-by-XIUMI" style="border-color: rgb(95, 156, 239); margin: 0px; padding: 0px; width: 24px; height: 16px; border-top-width: 6px; border-right-width: 6px; border-top-style: solid; border-right-style: solid; float: right; max-width: 100%; box-sizing: border-box;">
+      </section>
+      <section class="tn-Powered-by-XIUMI" style="margin: 0px; padding: 0px; color: transparent; clear: both; display: inline-block; max-width: 100%; box-sizing: border-box;">
+      </section>
+     </section>
+     <section class="tn-Powered-by-XIUMI" style="margin: -13px 3px; padding: 12px; border-radius: 6px; border: 1px solid rgb(95, 156, 239); border-image-source: none; line-height: 1.4; font-family: inherit; max-width: 100%; box-sizing: border-box;">
+      <p style="margin-top: 0px; margin-bottom: 0px; padding: 0px; text-align: center; max-width: 100%; box-sizing: border-box;">
+       <strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important;">
+        本公众号主要用于发布华东师范大学教育公平协同创新中心的阶段性及重大研究成果，敬请长按以下二维码关注我们！
+       </strong>
+      </p>
+     </section>
+     <section class="tn-Powered-by-XIUMI" style="margin: 0px; padding: 0px; height: 16px; max-width: 100%; box-sizing: border-box;">
+      <p style="margin-top: 0px; margin-bottom: 0px; border-color: rgb(95, 156, 239); padding: 0px; width: 24px; height: 16px; border-bottom-width: 6px; border-left-width: 6px; border-bottom-style: solid; border-left-style: solid; float: left; max-width: 100%; box-sizing: border-box;">
+       <strong style="margin: 0px; padding: 0px; text-align: center; line-height: 1.4; font-family: inherit; font-size: 1em; text-decoration: inherit; max-width: 100%; box-sizing: border-box !important;">
+        <br/>
+       </strong>
+      </p>
+     </section>
+    </section>
+   </section>
+   <p>
+    <br/>
+   </p>
+   <p style="text-align: center;">
+    <img data-ratio="1" data-s="300,640" data-type="jpeg" data-w="172" src="http://mmbiz.qpic.cn/mmbiz/3lSKGbngNK7BmOnEFPia2MGk2tKNf9NrM2rqLPDibZN54lXkOkP31h2MbNlXNvpaiaxVIgXwLIvFckkNibYccGaSIg/0?wx_fmt=jpeg"/>
+   </p>
+   <p style="text-align: right;">
+    <br/>
+   </p>
+   <p style="text-align: right; box-sizing: border-box;">
+    <br/>
+   </p>
+  </section>
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p>
+  <br/>
+ </p>
+ <section class="" style="white-space: normal; box-sizing: border-box; background-color: rgb(255, 255, 255);">
+  <section class="" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>
+ <p>
+  <br/>
+ </p>
+ <p>
+  <br/>
+ </p>

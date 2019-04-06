@@ -1,0 +1,927 @@
+
+ <section class="xmteditor" data-label="powered by xmt.cn" data-tools="新媒体管家" style="display:none;">
+ </section>
+ <section class="xmteditor" data-label="powered by xmt.cn" data-tools="新媒体管家" style="display:none;">
+ </section>
+ <section class="" data-color="rgb(172, 29, 16)" data-custom="rgb(172, 29, 16)" data-info="135一键排版" style="white-space: normal;">
+  <section class="">
+   <section class="">
+    <section class="" powered-by="xiumi.us">
+     <section>
+      <section class="" data-id="9174" data-style-type="2" data-tools="新媒体排版">
+       <section class="" powered-by="xiumi.us">
+        <section class="">
+         <section class="">
+          <section class="">
+           <section class="" powered-by="xiumi.us">
+            <section class="">
+             <section class="">
+              <p style="text-align: center;line-height: 1.75em;">
+               <span style="font-size: 15px;">
+                专业课真题的重要性不言而喻
+                <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+               </span>
+              </p>
+              <p style="text-align: center;line-height: 1.75em;">
+               <span style="font-size: 15px;">
+                但是大部分院校都是封题操作
+               </span>
+              </p>
+              <p style="text-align: center;line-height: 1.75em;">
+               <span style="font-size: 15px;">
+                只能靠学长学姐回忆版
+               </span>
+              </p>
+              <p style="text-align: center;line-height: 1.75em;">
+               <span style="font-size: 15px;">
+                下面咱们就一起来看看这些趁热回忆起来的真题
+               </span>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+         <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+        </section>
+       </section>
+      </section>
+      <section data-id="9151" data-style-type="2" data-tools="新媒体排版">
+       <section data-id="24" data-tools="135编辑器">
+        <section>
+         <section>
+          <section data-role="outer" label="Powered by 135editor.com">
+           <section data-role="outer" label="Powered by 135editor.com">
+            <section data-role="outer" label="Powered by 135editor.com">
+             <section data-role="outer" label="Powered by 135editor.com">
+              <section data-role="outer" label="Powered by 135editor.com">
+               <section data-role="outer" label="Powered by 135editor.com">
+                <section data-color="#59c3f9" data-id="88268" data-tools="135编辑器">
+                 <p style="text-align: center;line-height: 1.75em;">
+                  <img class="" data-croporisrc="https://mmbiz.qpic.cn/mmbiz_jpg/NaXFtCDc3w7J9MPXEiarsl35xwkCVpnWxQka4PgFIzN8KvcsibI8htybJQSZiacCEhblxGrqLdtfuDmMc4WRtNoTg/?wx_fmt=jpeg" data-cropx1="0" data-cropx2="200" data-cropy1="13" data-cropy2="181" data-ratio="0.84" data-type="jpeg" data-w="200" src="https://mmbiz.qpic.cn/mmbiz_jpg/OAsniaHK5cL4vJXa4CzL8aDZ8H4GJYqbwlwzQV5IxHXvpcSNv3KFbWPJJ2pIHYiaTC6QeF9s1dOPmdqX9ydyVgDg/640?wx_fmt=jpeg" style="height: 168px;width: 200px;box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;"/>
+                 </p>
+                 <p>
+                  <br/>
+                 </p>
+                 <section data-role="outer" label="Powered by 135editor.com">
+                  <section data-role="outer" label="Powered by 135editor.com">
+                   <section class="" data-id="92644" data-tools="135编辑器">
+                    <section>
+                     <section>
+                      <section class="">
+                       <p style="text-align: left;line-height: 1.75em;">
+                        <span style="color: rgb(64, 118, 0);font-size: 15px;">
+                         <strong>
+                          @MelonGua：
+                         </strong>
+                        </span>
+                       </p>
+                       <section class="" data-tools="新媒体排版" style='max-width: 100%;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;widows: 1;font-family: "PingFang SC", "Source Sans Pro", "Hiragino Sans GB", "Helvetica Neue", Helvetica, "Microsoft Yahei", arial, sans-serif;font-size: 14px;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;'>
+                        <section class="" style="margin-top: 17px;max-width: 100%;box-sizing: border-box;border-width: 0px;border-style: none;border-color: initial;overflow-wrap: break-word !important;">
+                         <section class="" style="margin: 3px auto;padding: 15px;max-width: 100%;color: rgb(121, 121, 121);line-height: 24px;box-shadow: rgb(170, 170, 170) 0px 0px 3px;border-width: 2px;border-style: solid;border-color: rgb(240, 240, 240);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+                          <p style="line-height: 1.75em;text-align: left;">
+                           <span style="font-size: 15px;">
+                            <strong>
+                             <span style="color: rgb(0, 82, 255);">
+                              2019北大软微
+                             </span>
+                            </strong>
+                           </span>
+                          </p>
+                          <p style="line-height: 1.75em;text-align: left;">
+                           <span style="color: rgb(0, 0, 0);font-size: 15px;">
+                            选择题中规中矩，数据结构就是栈出入，AOE，迪杰斯特拉一些正常题。计算机网络也是比较正常。唯一感到超纲的就是操作系统出了个自旋锁的题，我完全一脸懵逼。大题涉及树的先序中序后序遍历，哈夫曼树，折半查找，ARP，文件目录，TCP三次握手，虚拟内存和页面置换算法。就记得这么多吧，欢迎其他朋友补充～
+                           </span>
+                          </p>
+                         </section>
+                         <section style="max-width: 100%;width: 0px;height: 0px;clear: both;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+                          <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+                         </section>
+                        </section>
+                       </section>
+                       <p style="line-height: 1.75em;">
+                        <br/>
+                       </p>
+                       <p style="text-align: left;line-height: 1.75em;">
+                        <span style="color: rgb(64, 118, 0);font-size: 15px;">
+                         <strong>
+                          @wingnut：
+                         </strong>
+                        </span>
+                       </p>
+                       <section class="" data-tools="新媒体排版" style='font-variant-numeric: normal;font-variant-east-asian: normal;max-width: 100%;letter-spacing: 0.544px;widows: 1;font-family: "PingFang SC", "Source Sans Pro", "Hiragino Sans GB", "Helvetica Neue", Helvetica, "Microsoft Yahei", arial, sans-serif;font-size: 14px;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;'>
+                        <section class="" style="margin-top: 17px;max-width: 100%;box-sizing: border-box;border-width: 0px;border-style: none;border-color: initial;overflow-wrap: break-word !important;">
+                         <section class="" style="margin: 3px auto;padding: 15px;max-width: 100%;color: rgb(121, 121, 121);line-height: 24px;box-shadow: rgb(170, 170, 170) 0px 0px 3px;border-width: 2px;border-style: solid;border-color: rgb(240, 240, 240);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+                          <p style="line-height: 1.75em;text-align: left;">
+                           <span style="font-size: 15px;">
+                            <strong>
+                             <span style="color: rgb(0, 82, 255);">
+                              2019北大软微
+                             </span>
+                            </strong>
+                           </span>
+                          </p>
+                          <p style="line-height: 1.75em;text-align: left;">
+                           <span style="letter-spacing: 0.544px;color: rgb(0, 0, 0);font-size: 15px;">
+                            也有一个手算迪杰斯特拉的。最后一题TCP的在以前真题里出现过。不过话说我们是九道大题吗？我现在死活只能想起八道
+                           </span>
+                          </p>
+                         </section>
+                         <section style="max-width: 100%;width: 0px;height: 0px;clear: both;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+                          <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+                         </section>
+                        </section>
+                       </section>
+                       <p style="line-height: 1.75em;text-align: left;">
+                        <br/>
+                       </p>
+                       <p style="line-height: 1.75em;text-align: left;">
+                        <span style="font-size: 15px;">
+                         <strong style="color: rgb(64, 118, 0);">
+                          @ppppinr：
+                         </strong>
+                         <br/>
+                        </span>
+                       </p>
+                      </section>
+                     </section>
+                    </section>
+                   </section>
+                   <section class="" data-id="92644" data-tools="135编辑器">
+                    <section>
+                     <section>
+                      <section class="">
+                       <section class="" data-tools="新媒体排版" style='font-variant-numeric: normal;font-variant-east-asian: normal;max-width: 100%;letter-spacing: 0.544px;widows: 1;font-family: "PingFang SC", "Source Sans Pro", "Hiragino Sans GB", "Helvetica Neue", Helvetica, "Microsoft Yahei", arial, sans-serif;font-size: 14px;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;'>
+                        <section class="" style="margin-top: 17px;max-width: 100%;box-sizing: border-box;border-width: 0px;border-style: none;border-color: initial;overflow-wrap: break-word !important;">
+                         <section class="" style="margin: 3px auto;padding: 15px;max-width: 100%;color: rgb(121, 121, 121);line-height: 24px;box-shadow: rgb(170, 170, 170) 0px 0px 3px;border-width: 2px;border-style: solid;border-color: rgb(240, 240, 240);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+                          <p style="line-height: 1.75em;text-align: left;">
+                           <span style="font-size: 15px;">
+                            <strong style="color: rgb(0, 0, 0);letter-spacing: 0.544px;">
+                             <span style="color: rgb(0, 82, 255);">
+                              863
+                             </span>
+                            </strong>
+                           </span>
+                          </p>
+                          <p style="line-height: 1.75em;text-align: left;">
+                           <span style="font-size: 15px;color: rgb(0, 0, 0);letter-spacing: 0.544px;">
+                            选择题比较基础，并不难。算法是链表快速排序的递归算法。另一道数据结构是平衡二叉树的构建和前中后序遍历序列。组成原理有一道根据命中率来推cache的字节，是2还是4路组相连映射，倒着推是第一次见，网络的题型中规中矩，有一道给了代码让你算访存次数和输出时间的？
+                           </span>
+                          </p>
+                         </section>
+                         <section style="max-width: 100%;width: 0px;height: 0px;clear: both;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+                          <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+                         </section>
+                        </section>
+                       </section>
+                       <p style="line-height: 1.75em;">
+                        <br/>
+                       </p>
+                      </section>
+                     </section>
+                    </section>
+                   </section>
+                   <section class="" data-id="92644" data-tools="135编辑器">
+                    <section>
+                     <section>
+                      <section class="">
+                       <p style="text-align: left;line-height: 1.75em;">
+                        <span style="color: rgb(64, 118, 0);font-size: 15px;">
+                         <strong>
+                          @khali：
+                         </strong>
+                        </span>
+                       </p>
+                       <section class="" data-id="92644" data-tools="135编辑器">
+                        <section>
+                         <section>
+                          <section class="">
+                           <section class="" data-tools="新媒体排版" style='font-variant-numeric: normal;font-variant-east-asian: normal;max-width: 100%;letter-spacing: 0.544px;widows: 1;font-family: "PingFang SC", "Source Sans Pro", "Hiragino Sans GB", "Helvetica Neue", Helvetica, "Microsoft Yahei", arial, sans-serif;font-size: 14px;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;'>
+                            <section class="" style="margin-top: 17px;max-width: 100%;box-sizing: border-box;border-width: 0px;border-style: none;border-color: initial;overflow-wrap: break-word !important;">
+                             <section class="" style="margin: 3px auto;padding: 15px;max-width: 100%;color: rgb(121, 121, 121);line-height: 24px;box-shadow: rgb(170, 170, 170) 0px 0px 3px;border-width: 2px;border-style: solid;border-color: rgb(240, 240, 240);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+                              <p style="line-height: 1.75em;text-align: left;">
+                               <strong style='color: rgb(0, 82, 255);font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-size: 15px;letter-spacing: normal;widows: 2;'>
+                                中山大学408
+                               </strong>
+                              </p>
+                              <p style="line-height: 1.75em;text-align: left;">
+                               <span style="font-size: 15px;color: rgb(0, 0, 0);letter-spacing: 0.544px;">
+                                1.选择题：
+                                <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+                                平衡二叉树高度计算，AOE网，hash平均查找长度，cache映射，100BASET用什么线
+                                <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+                                其他记不太清，都是基础题，细是蛮细的
+                                <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+                                2.算法题:
+                                <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+                                初始序列为a1 a2 a3...变为a1 an a2 an-1...
+                                <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+                                要求空间复杂度为1，时间复杂度尽可能小
+                                <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+                                3.pv操作:
+                                <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+                                哲学家进餐，不过中间再加了个碟子，且要让尽可能多的哲学家吃到，且不死锁
+                                <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+                                4.队列设计:
+                                <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+                                具体记不太清，就是给定一个队列限制条件，让你根据条件设计一个队列
+                                <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+                                5.组原大题:
+                                <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+                                一段程序和汇编代码，让你分析
+                                <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+                                6.后面紧跟一题让你算cache
+                                <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+                                <strong>
+                                 计算机网络:
+                                </strong>
+                                <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+                                子网划分和通信之类
+                               </span>
+                              </p>
+                             </section>
+                             <section style="max-width: 100%;width: 0px;height: 0px;clear: both;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+                              <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+                             </section>
+                            </section>
+                           </section>
+                           <p style="line-height: 1.75em;">
+                            <br/>
+                           </p>
+                          </section>
+                         </section>
+                        </section>
+                       </section>
+                       <section class="" data-id="92644" data-tools="135编辑器">
+                        <section>
+                         <section>
+                          <section class="">
+                           <p style="text-align: left;line-height: 1.75em;">
+                            <span style="color: rgb(64, 118, 0);font-size: 15px;">
+                             <strong>
+                              <strong>
+                               @suck_vagina：
+                              </strong>
+                             </strong>
+                            </span>
+                           </p>
+                          </section>
+                         </section>
+                        </section>
+                       </section>
+                       <section class="" data-tools="新媒体排版" style='font-variant-numeric: normal;font-variant-east-asian: normal;max-width: 100%;letter-spacing: 0.544px;widows: 1;font-family: "PingFang SC", "Source Sans Pro", "Hiragino Sans GB", "Helvetica Neue", Helvetica, "Microsoft Yahei", arial, sans-serif;font-size: 14px;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;'>
+                        <section class="" style="margin-top: 17px;max-width: 100%;box-sizing: border-box;border-width: 0px;border-style: none;border-color: initial;overflow-wrap: break-word !important;">
+                         <section class="" style="margin: 3px auto;padding: 15px;max-width: 100%;color: rgb(121, 121, 121);line-height: 24px;box-shadow: rgb(170, 170, 170) 0px 0px 3px;border-width: 2px;border-style: solid;border-color: rgb(240, 240, 240);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+                          <p style="line-height: 1.75em;text-align: left;">
+                           <br/>
+                          </p>
+                          <section class="" powered-by="xiumi.us">
+                           <section>
+                            <section data-id="9151" data-style-type="2" data-tools="新媒体排版">
+                             <section data-id="24" data-tools="135编辑器">
+                              <section>
+                               <section>
+                                <section data-role="outer" label="Powered by 135editor.com">
+                                 <section data-role="outer" label="Powered by 135editor.com">
+                                  <section data-role="outer" label="Powered by 135editor.com">
+                                   <section data-role="outer" label="Powered by 135editor.com">
+                                    <section data-role="outer" label="Powered by 135editor.com">
+                                     <section data-role="outer" label="Powered by 135editor.com">
+                                      <section data-color="#59c3f9" data-id="88268" data-tools="135编辑器">
+                                       <section data-role="outer" label="Powered by 135editor.com">
+                                        <section data-role="outer" label="Powered by 135editor.com">
+                                         <section class="" data-id="92644" data-tools="135编辑器">
+                                          <section>
+                                           <section>
+                                            <section class="">
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="color: rgb(0, 82, 255);font-size: 15px;">
+                                               <strong>
+                                                清华大学912
+                                               </strong>
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <br/>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;">
+                                               <strong>
+                                                <span style="color: rgb(0, 0, 0);">
+                                                 数据结构（70分）
+                                                </span>
+                                               </strong>
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               一．判断题（10*2分）
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               1.n^log(log(log n)) = O([logn!])
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               2.汉夫曼编码树不同深度的两颗子树互换，必定会改变编码长度。
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               3.序列中逆序数互换，逆序对必定减少。
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               4.伸展树若不具备局部性，平摊复杂度就无法达到O(logn)
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               5.KMP的next[]表即使不采取优化，也能使得KMP达到线性的效率
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               6.具有2018个叶节点的树，对其进行层次遍历辅助队列大小最多不超过2018
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               7.只通过前序遍历和后序遍历无法唯一确定树形
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="color: rgb(0, 0, 0);font-size: 15px;letter-spacing: 0.544px;">
+                                               8.基数排序的底层排序如果不稳定，最终结果有可能会出错
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               9.有2019个叶节点的树的种类要比2018？？的种类要多
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               10.忘记了
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               二．论述题（8 * 4分）
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               1.逆波兰表达式为什么相比普通表达式计算上有效？既然在将普通表达式转换成为逆波兰的过程中已经将表达式计算出来，为什么还要进行转换？
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               2.深度优先搜索时，什么情况下是是前向边，什么情况下是后向边
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               3.插入排序相比于选择排序有什么优点，举两个并简要说明。
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               4.Dijkstra在处理稠密图时候利用多叉堆而非二叉堆，这是为什么？如何确立多叉堆的叉数
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               5.相比于一般的锦标赛树，败者树有什么优点
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               6.红黑树在什么情况下要优于AVL树，并解释说明为什么
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               7.相比于开散列，闭散列有什么优点，举两个并简要说明。
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               8.KMP相比于蛮力算法，在什么情况下才能发挥效用，并解释说明为什么
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               三．算法题（7+3+4分）
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               struct BinNode {
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               int size;
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               BinNode* lc, rc
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               }
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               Binnode* rank(Binnode* T,  int k) {
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               //请填写代码
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               }
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               求出后序遍历的第k大的结点，要求时间复杂度和空间复杂度不超过O(depth(x))(x为第k大的节点)，请不要试图直接模拟后序遍历，那样效率一定不达标，不得分
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               1. 填写代码已完成上述功能 （不超过12行）
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               2. 解释说明代码思想，可以画一幅图
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               3. 分析和计算你代码的时间复杂度和空间复杂度
+                                              </span>
+                                             </p>
+                                             <p>
+                                              <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="color: rgb(0, 0, 0);">
+                                               <strong>
+                                                <span style="font-size: 15px;">
+                                                 计算机原理（30分）
+                                                </span>
+                                               </strong>
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               一．选择题
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               1. 下列哪一项没有容错能力
+                                               <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+                                               A. RAID0
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               B. RAID1
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               C. RAID5
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               D. RAID6
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               2. 下列关于静态存储器和动态存储器的描述正确的是
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               反正选那个静态存储器靠D触发器，不需要定期刷新，动态存储器靠电容，要定期刷新
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               3.
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               4.
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               5
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               二．填空题
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               1. +1234的32位补码 （16进制）
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               2. -27.625的IEEE574表示（16进制）
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               3.解决数据冲突的方法，给出三个
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               4.缓存丢失的方式，给出三个
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               三．计算题（5分）
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               给你一堆参数，然后给你5条指令，让你计算
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               1．在单周期cpu下运行时间
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               2．在多周期cpu下运行时间
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               3．在5级流水下运行时间
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <br/>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="color: rgb(0, 0, 0);">
+                                               <strong>
+                                                <span style="font-size: 15px;">
+                                                 操作系统（30分）
+                                                </span>
+                                               </strong>
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               一．填空题
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               1.系统里面会有stride机制，就是说进程分配时间和其优先级成反比，优先级越低进程上CPU运行的时间就会更长，用八位无符号数来表示进程A的运行时间有可能会溢出，但是只要做小小的技巧就可以判断时间，然后又引入进程B，讨论他们stride的关系
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               2.PV操作填空
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               3.A的节点引用为1，B对A的进行硬链接，C对B进行硬链接，D对A软连接，问B，C的节点引用
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               4.
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               二．判断题
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               1.main()函数只有一个线程
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               2.不安全状态一定是死锁
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               3.
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               三．选择题
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               1．下列哪个是对的
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               A．虚拟内存空间比实际的地址空间大
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               B．虚拟内存空间比实际的地址空间小
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               C．虚拟内存空间连续存放，实际内存一定连续存放
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               D．虚拟内存空间不连续存放，实际内存有可能连续存放
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               2.
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               四．回答题（不记得什么题，我瞎起的名字）
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               1.给你一长段ucore代码
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               问代码中哪里体现了页表的切换，堆栈的切换，和代码中switch_to的两个参数的来源
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               2.给你一张内存图，告诉你A的起始位置0x00, B的起始0x10,问A访问0x04和B访问0x??的过程
+                                              </span>
+                                             </p>
+                                             <p>
+                                              <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="color: rgb(0, 0, 0);">
+                                               <strong>
+                                                <span style="font-size: 15px;">
+                                                 计算机网络（20分）
+                                                </span>
+                                               </strong>
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               一．选择题
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               1.以太网中最短帧长1000bit，最远两点相距离100m,数据在光纤中的传播速率为2*10^8m/s,问最大发送速率
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               A.1Gb/s
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               B.2Gb/s
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               C.100Mb/s
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               D.200Mb/s
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               2.
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               二．给你一幅图，图中有三个子网，子网1有100台主机，子网2有50台主机，子网3有20台主机，而且还有三个路由器R1，R2，R3，给你一个地址的路由集合。
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               第一问，让你合理地分配子网1，2，3和路由器R1，R2，R3各个端口的IP地址
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               第二问，A，B是子网1中的主机，C是子网2中的主机
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               问A-B， A-C之间通信时候ARP协议的不同
+                                              </span>
+                                             </p>
+                                             <p style="text-align: left;line-height: 1.75em;">
+                                              <span style="font-size: 15px;color: rgb(0, 0, 0);">
+                                               第三问，问A-C通信，在这个过程中数据报中IP的源地址和目的地址，MAC源地址和目的地址。
+                                              </span>
+                                             </p>
+                                            </section>
+                                           </section>
+                                          </section>
+                                         </section>
+                                        </section>
+                                       </section>
+                                      </section>
+                                     </section>
+                                    </section>
+                                   </section>
+                                  </section>
+                                 </section>
+                                </section>
+                               </section>
+                              </section>
+                             </section>
+                            </section>
+                           </section>
+                          </section>
+                         </section>
+                         <section style="max-width: 100%;width: 0px;height: 0px;clear: both;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+                          <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+                         </section>
+                        </section>
+                       </section>
+                      </section>
+                     </section>
+                    </section>
+                   </section>
+                  </section>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <section class="" data-id="91597" data-tools="135编辑器" style="white-space: normal;">
+  <section class="" data-color="rgb(172, 29, 16)" data-custom="rgb(172, 29, 16)" data-role="paragraph">
+   <section class="">
+    <section class="">
+     <section class="">
+      <section class="" data-brushtype="text">
+       <p style="text-align: right;line-height: 1.75em;">
+        <br/>
+       </p>
+      </section>
+      <p style="font-variant-numeric: normal;font-variant-east-asian: normal;max-width: 100%;min-height: 1em;widows: 1;letter-spacing: 0.5px;line-height: 1.75em;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+       <br/>
+      </p>
+      <p style="font-variant-numeric: normal;font-variant-east-asian: normal;max-width: 100%;min-height: 1em;widows: 1;letter-spacing: 0.5px;line-height: 1.75em;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+       <br/>
+      </p>
+      <p style="font-variant-numeric: normal;font-variant-east-asian: normal;max-width: 100%;min-height: 1em;widows: 1;letter-spacing: 0.5px;line-height: 1.75em;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+       <span style="max-width: 100%;font-size: 15px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+        <strong style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+         往期活动推荐
+        </strong>
+       </span>
+      </p>
+      <p style="font-variant-numeric: normal;font-variant-east-asian: normal;max-width: 100%;min-height: 1em;letter-spacing: 0.544px;line-height: 27.2px;widows: 1;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+       <span data-txtless="spin" data-txtlessp="120" style="max-width: 100%;font-size: 15px;color: rgb(228, 157, 172);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+        ◆
+       </span>
+       <span style="max-width: 100%;font-size: 15px;color: rgb(250, 211, 172);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+        ◆
+       </span>
+       <span data-txtless="spin" data-txtlessp="-120" style="max-width: 100%;font-size: 15px;color: rgb(255, 233, 234);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+        ◆
+        <span data-txtless="spin" data-txtlessp="120" style="max-width: 100%;color: rgb(121, 134, 175);">
+         ◆
+        </span>
+        <span style="max-width: 100%;color: rgb(17, 163, 215);">
+         ◆
+        </span>
+       </span>
+      </p>
+      <section class="" data-tools="新媒体排版" style='font-variant-numeric: normal;font-variant-east-asian: normal;max-width: 100%;letter-spacing: 0.544px;widows: 1;font-family: "PingFang SC", "Source Sans Pro", "Hiragino Sans GB", "Helvetica Neue", Helvetica, "Microsoft Yahei", arial, sans-serif;font-size: 14px;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;'>
+       <section class="" powered-by="xiumi.us" style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+        <section class="" style="margin-top: 0.5em;margin-bottom: 0.5em;max-width: 100%;box-sizing: border-box;text-align: center;overflow-wrap: break-word !important;">
+         <section class="" style="padding: 10px;max-width: 100%;box-sizing: border-box;border-width: 3px;border-style: solid;border-color: rgb(204, 204, 204);box-shadow: rgb(102, 102, 102) 2.82843px 2.82843px 7px;overflow-wrap: break-word !important;">
+          <p style="max-width: 100%;min-height: 1em;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+           <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+          </p>
+          <p style="max-width: 100%;min-height: 1em;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+           <strong style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+            <span style="max-width: 100%;font-size: 15px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+             还可以参加的往期活动
+            </span>
+           </strong>
+          </p>
+          <p style="max-width: 100%;min-height: 1em;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+           <br/>
+          </p>
+          <p style="max-width: 100%;min-height: 1em;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+           <strong style="max-width: 100%;letter-spacing: 0.544px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+            <span style="max-width: 100%;font-size: 15px;color: rgb(64, 118, 0);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+             扫描下方二维码添加学姐拉你进资源群
+            </span>
+           </strong>
+          </p>
+          <p style="padding-right: 0.5em;padding-left: 0.5em;max-width: 100%;min-height: 1em;line-height: 1.75em;letter-spacing: 0.5px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+           <span style="max-width: 100%;color: rgb(255, 76, 65);font-size: 15px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+            ▼
+           </span>
+          </p>
+          <p style="max-width: 100%;min-height: 1em;line-height: 1.75em;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+           <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+          </p>
+          <p style="max-width: 100%;min-height: 1em;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+           <img class="" data-copyright="0" data-ratio="1" data-s="300,640" data-type="png" data-w="260" src="https://mmbiz.qpic.cn/mmbiz_png/OAsniaHK5cL5ZdrmxBAsdAKd5yJDPzBCARq1PicVRLXibpnOLJEj4uuMOfrIAMCibCx4XgwPXfjCmGWzVYQppvHS4Q/640?wx_fmt=png" style="box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;box-sizing: border-box !important;overflow-wrap: break-word !important;width: 192px !important;visibility: visible !important;"/>
+          </p>
+          <p style="max-width: 100%;min-height: 1em;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+           <br/>
+          </p>
+          <p style="max-width: 100%;min-height: 1em;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+           <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+          </p>
+         </section>
+        </section>
+       </section>
+      </section>
+      <p style="font-variant-numeric: normal;font-variant-east-asian: normal;max-width: 100%;min-height: 1em;letter-spacing: 0.544px;line-height: 27.2px;widows: 1;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+       <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+      </p>
+      <p style="font-variant-numeric: normal;font-variant-east-asian: normal;max-width: 100%;min-height: 1em;letter-spacing: 0.544px;line-height: 27.2px;widows: 1;text-align: left;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+       <span style="font-size: 15px;">
+        活动真实有效，已经有数千人参加啦~
+       </span>
+       <img class="" data-ratio="1" data-type="xmt-emoji" data-w="19" src="https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_95.png" style="display: inline-block;vertical-align: text-bottom;box-sizing: border-box !important;overflow-wrap: break-word !important;width: 20px !important;visibility: visible !important;"/>
+      </p>
+      <p style="font-variant-numeric: normal;font-variant-east-asian: normal;max-width: 100%;min-height: 1em;letter-spacing: 0.544px;line-height: 27.2px;widows: 1;text-align: left;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+       <span style="font-size: 15px;">
+        觉得文章不错的小伙伴记得转发、点赞哦
+       </span>
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

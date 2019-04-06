@@ -1,0 +1,256 @@
+
+ <section style="box-sizing: border-box;">
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style='display: inline-block;width: 100%;vertical-align: top;background-position: 300% 16.782%;background-repeat: repeat;background-size: 100.078%;background-attachment: scroll;line-height: 1.6;letter-spacing: 0px;padding: 10px;border-width: 0px;background-image: url("https://mmbiz.qpic.cn/mmbiz_gif/PZemXADYa6er3UzalEtM8ttz6MIWvA8ZfQBfIgFvKqxxdaGeeDKktZTicsBJNG5lmBuCgnGsfOZNJh9zlibDdIhA/640?wx_fmt=gif");box-sizing: border-box;'>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: -20px 0% 10px;transform: translate3d(-1px, 0px, 0px);-webkit-transform: translate3d(-1px, 0px, 0px);-moz-transform: translate3d(-1px, 0px, 0px);-o-transform: translate3d(-1px, 0px, 0px);box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 45%;box-sizing: border-box;">
+        <img data-ratio="0.3638814" data-type="png" data-w="371" src="https://mmbiz.qpic.cn/mmbiz_png/Sb9M5Vr2icLaOeicGKLn1iczarEWRtRUcQyYTkhiaNQJHdTe0Cg1tK9V6KjqFC3Qbc5AuFES4swZE6Bib2HJFQGwJicA/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="width: 100%;border-top: 1px solid rgb(249, 110, 87);box-sizing: border-box;">
+       </section>
+       <section style="padding: 0px 9px;margin: -9px 0px;box-sizing: border-box;">
+        <section style="border-left: 1px solid rgb(249, 110, 87);border-right: 1px solid rgb(249, 110, 87);padding: 15px;box-sizing: border-box;">
+         <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <section style="text-align: center;box-sizing: border-box;">
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             <span style="font-size: 17px;box-sizing: border-box;">
+              <strong style="box-sizing: border-box;">
+               题目
+              </strong>
+             </span>
+            </p>
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             <span style="font-size: 15px;box-sizing: border-box;">
+              多玛斯仁爱之德与儒家仁爱之比较
+             </span>
+            </p>
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            </p>
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             <span style="font-size: 17px;box-sizing: border-box;">
+              <strong style="box-sizing: border-box;">
+               时间
+              </strong>
+             </span>
+            </p>
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             <span style="font-size: 15px;box-sizing: border-box;">
+              2018年12月21日
+              <span style="letter-spacing: 0px;box-sizing: border-box;">
+               15:30-17:30
+              </span>
+             </span>
+            </p>
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            </p>
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             <span style="font-size: 17px;box-sizing: border-box;">
+              <strong style="box-sizing: border-box;">
+               地点
+              </strong>
+             </span>
+            </p>
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             <span style="font-size: 15px;box-sizing: border-box;">
+              华东师范大学闵行校区
+             </span>
+            </p>
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             <span style="font-size: 15px;box-sizing: border-box;">
+              冯契学术成就陈列室
+             </span>
+            </p>
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            </p>
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             <span style="font-size: 17px;box-sizing: border-box;">
+              <strong style="box-sizing: border-box;">
+               主讲人
+              </strong>
+             </span>
+            </p>
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             <span style="box-sizing: border-box;">
+              潘小慧
+             </span>
+             教授
+            </p>
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             <span style="font-size: 15px;color: rgb(160, 160, 160);box-sizing: border-box;">
+              台湾辅仁大学哲学系
+             </span>
+            </p>
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            </p>
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             <span style="font-size: 17px;box-sizing: border-box;">
+              <strong style="box-sizing: border-box;">
+               主持人
+              </strong>
+             </span>
+            </p>
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             <span style="box-sizing: border-box;">
+              付长珍 教授
+             </span>
+            </p>
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             <span style="font-size: 15px;box-sizing: border-box;">
+              <span style="color: rgb(160, 160, 160);box-sizing: border-box;">
+               华东师范大学哲学系
+              </span>
+             </span>
+            </p>
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            </p>
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             <span style="font-size: 17px;box-sizing: border-box;">
+              <strong style="box-sizing: border-box;">
+               主办
+              </strong>
+             </span>
+            </p>
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             <span style="font-size: 15px;box-sizing: border-box;">
+              华东师范大学哲学系
+             </span>
+            </p>
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             <br style="box-sizing: border-box;"/>
+            </p>
+           </section>
+          </section>
+         </section>
+         <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="margin-top: 10px;margin-bottom: 10px;padding: 0px 3px;text-align: center;overflow: hidden;box-sizing: border-box;">
+           <section style="padding: 3px 10px;margin-bottom: -1em;color: rgb(249, 110, 87);box-sizing: border-box;">
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             <strong style="box-sizing: border-box;">
+              主讲人简介
+             </strong>
+            </p>
+           </section>
+           <section style="height: 2.8em;box-sizing: border-box;">
+            <section style="transform: rotate(-45deg);-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-o-transform: rotate(-45deg);box-sizing: border-box;">
+             <section style="width: 2em;height: 2em;margin: auto;display: inline-block;box-sizing: border-box;">
+              <section style="width: 6px;height: 6px;margin: 0px 0px 0px -3px;border-radius: 100%;background-color: rgb(249, 110, 87);box-sizing: border-box;">
+              </section>
+              <section style="height: 100%;border-left: 1px solid rgb(249, 110, 87);border-bottom: 1px solid rgb(249, 110, 87);box-sizing: border-box;">
+              </section>
+              <section style="width: 6px;height: 6px;float: right;margin: -3px -5px 0px 0px;border-radius: 100%;background-color: rgb(249, 110, 87);box-sizing: border-box;">
+              </section>
+             </section>
+            </section>
+            <section style="width: 100%;display: inline-block;vertical-align: top;margin-top: -0.8em;box-sizing: border-box;">
+             <section style="border-top: 1px solid rgb(249, 110, 87);box-sizing: border-box;">
+             </section>
+             <section style="width: 6px;height: 6px;margin-top: -3px;border-radius: 100%;background-color: rgb(249, 110, 87);box-sizing: border-box;">
+             </section>
+             <section style="width: 6px;height: 6px;margin: -6px 0px 0px;float: right;border-radius: 100%;background-color: rgb(249, 110, 87);box-sizing: border-box;">
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+         <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <section style="text-align: justify;font-size: 15px;box-sizing: border-box;">
+            <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+             <strong style="box-sizing: border-box;">
+              潘小慧，台湾辅仁大学哲学系教授
+             </strong>
+             ，中国古代思想家荀子、西方中世纪哲学家多玛斯、比较伦理学和儿童哲学研究著名专家。曾任台湾辅仁大学哲学系主任、《哲学与文化》（A&amp;HCI）社长。
+             <span style="letter-spacing: 0px;box-sizing: border-box;">
+              主要著作有《德行与伦理─多玛斯的德行伦理学》（台南，闻道出版社，2009年再版）， 《从解蔽心看荀子的知识论与方法学》（台北，花木兰文化出版社，2009年版），《儿童哲学的理论与实务》（台北，辅仁大学出版社，2008年版），《四德行论——以多玛斯哲学与儒家哲学为对比的探究》（台北，哲学与文化月刊杂志社，2007年版），《伦理的理论与实践》（台北，文史哲，2005年版）等。曾多次访问大陆，在北京、山东、山西、内蒙古、浙江等地众多高校学术机构举办多场学术活动，主讲中世纪哲学、儿童哲学和比较哲学。
+             </span>
+            </p>
+            <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+             <br style="box-sizing: border-box;"/>
+            </p>
+           </section>
+          </section>
+         </section>
+         <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="margin-top: 10px;margin-bottom: 10px;padding: 0px 3px;text-align: center;overflow: hidden;box-sizing: border-box;">
+           <section style="padding: 3px 10px;margin-bottom: -1em;font-size: 18px;color: rgb(249, 110, 87);box-sizing: border-box;">
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             <strong style="box-sizing: border-box;">
+              内容简介
+             </strong>
+            </p>
+           </section>
+           <section style="height: 2.8em;box-sizing: border-box;">
+            <section style="transform: rotate(-45deg);-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-o-transform: rotate(-45deg);box-sizing: border-box;">
+             <section style="width: 2em;height: 2em;margin: auto;display: inline-block;box-sizing: border-box;">
+              <section style="width: 6px;height: 6px;margin: 0px 0px 0px -3px;border-radius: 100%;background-color: rgb(249, 110, 87);box-sizing: border-box;">
+              </section>
+              <section style="height: 100%;border-left: 1px solid rgb(249, 110, 87);border-bottom: 1px solid rgb(249, 110, 87);box-sizing: border-box;">
+              </section>
+              <section style="width: 6px;height: 6px;float: right;margin: -3px -5px 0px 0px;border-radius: 100%;background-color: rgb(249, 110, 87);box-sizing: border-box;">
+              </section>
+             </section>
+            </section>
+            <section style="width: 100%;display: inline-block;vertical-align: top;margin-top: -0.8em;box-sizing: border-box;">
+             <section style="border-top: 1px solid rgb(249, 110, 87);box-sizing: border-box;">
+             </section>
+             <section style="width: 6px;height: 6px;margin-top: -3px;border-radius: 100%;background-color: rgb(249, 110, 87);box-sizing: border-box;">
+             </section>
+             <section style="width: 6px;height: 6px;margin: -6px 0px 0px;float: right;border-radius: 100%;background-color: rgb(249, 110, 87);box-sizing: border-box;">
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+         <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <section style="text-align: justify;font-size: 15px;box-sizing: border-box;">
+            <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+             中国的儒家与西方基督宗教各是两大文化两个源远流长的传统，各有其历久弥新的思想智慧与优点。二者在终极关怀上都显示出对超越的向往（不论是“上帝”或“天”）。所不同者在于对超越的肯定之后，对超越者之不同理解及对神人关系之不同理解。反映在仁爱问题上，就有了“人伦之爱”与“人神之爱”的不同；在对仇敌及对罪人的态度上亦有所异。本次讲座以多玛斯“仁爱”思想为核心，探究其对象、主体、来源、秩序等，并对比中国儒家的仁爱思想，观其可沟通及差异之处。
+            </p>
+            <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+             <br style="box-sizing: border-box;"/>
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="width: 100%;border-bottom: 1px solid rgb(249, 110, 87);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;color: rgb(72, 72, 72);box-sizing: border-box;">
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: right;font-size: 12px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      文案 | 徐二林
+     </p>
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      编辑 | 袁传志
+     </p>
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      审核 | 王永涛
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>

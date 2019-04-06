@@ -1,0 +1,564 @@
+
+ <section style="box-sizing: border-box;">
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <img data-ratio="0.3" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesYfXyzpH2GpY70bCwGVpPEzOV5wVnqOluFnG8oJeRjgH1E9hqeGwnK2VBopPfvY5JvzN5FygFQe5Q/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <br/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: middle;width: 50%;padding: 0px 5px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="margin-left: auto;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -6px;width: 0px;border-bottom: 3px solid rgb(95, 156, 239);border-left: 3px solid rgb(95, 156, 239);border-top: 3px solid rgb(255, 255, 255) !important;border-right: 3px solid rgb(255, 255, 255) !important;box-sizing: border-box;">
+       </section>
+       <section style="border-left: 6px solid rgb(178, 219, 191);border-top: 6px solid rgb(178, 219, 191);border-right-color: rgb(178, 219, 191);border-bottom-color: rgb(178, 219, 191);box-sizing: border-box;">
+        <section style="background-color: rgb(255, 255, 255);padding: 10px;box-sizing: border-box;">
+         <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="text-align: center;margin: 0px 0%;box-sizing: border-box;">
+           <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+            <img data-ratio="1.3938412" data-type="jpeg" data-w="617" src="https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesYfXyzpH2GpY70bCwGVpPEz5ibDk1sPLFm3vLibgEChW5ksG2Kh5ezA303rQcZ90beynxV6KDJREwcg/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-top: -6px;width: 0px;border-top: 3px solid rgb(95, 156, 239);border-right: 3px solid rgb(95, 156, 239);border-bottom: 3px solid rgb(255, 255, 255) !important;border-left: 3px solid rgb(255, 255, 255) !important;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: middle;width: 50%;padding: 0px 5px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="height: 1.4em;border-left: 1px solid rgb(158, 158, 158);margin-bottom: -0.9em;margin-left: 0.5em;box-sizing: border-box;">
+       </section>
+       <section style="width: 2.5em;border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+       </section>
+       <section style="padding: 0px 0.5em;box-sizing: border-box;">
+        <section style="padding: 10px;box-sizing: border-box;">
+         <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <section style="text-align: center;font-size: 14px;color: rgb(201, 36, 8);box-sizing: border-box;">
+            <p style="text-align: center;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+             <strong style="box-sizing: border-box;">
+              华东师范大学学报
+              <br style="box-sizing: border-box;"/>
+             </strong>
+            </p>
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;text-align: center;">
+             <strong style="box-sizing: border-box;">
+              自然科学版
+              <br style="box-sizing: border-box;"/>
+             </strong>
+            </p>
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;text-align: center;">
+             <strong style="box-sizing: border-box;">
+              2018年第六期
+             </strong>
+            </p>
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;text-align: center;">
+             <strong style="box-sizing: border-box;">
+              目录
+             </strong>
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="width: 2.5em;margin-left: auto;box-sizing: border-box;">
+        <section style="width: 2.5em;border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+        </section>
+        <section style="height: 1.4em;border-left: 1px solid rgb(158, 158, 158);margin-top: -0.9em;margin-left: 2em;box-sizing: border-box;">
+         <br/>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style='display: inline-block;width: 100%;vertical-align: top;background-position: 0% 0%;background-repeat: repeat;background-size: 64.8852%;background-attachment: scroll;letter-spacing: 0px;padding: 15px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/EGCg8HicICqRWBGQGtvVntPZwZzxBPdQAKOKF8qB8qA5QdOEiaBx6xGvUKG4yTBOo1QJD6nGsa3aZDiaRmO5xicqoQ/640?wx_fmt=png");box-sizing: border-box;'>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;box-sizing: border-box;">
+        <p style="text-align: center;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="text-align: center;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          <span style="font-size: 18px;box-sizing: border-box;">
+           前言
+          </span>
+         </strong>
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="text-align: center;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         黄民生
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;line-height: 2em;">
+         <span style="font-size: 15px;">
+          华东师范大学是国内较早开展水污染控制、水环境治理和水生态修复的主要高校之一，
+          <span style="letter-spacing: 0px;box-sizing: border-box;">
+           从２０世纪７０年代初开始，先后在苏州河环境综合整治等重大项目中做出了重要贡献．
+          </span>
+         </span>
+        </p>
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;line-height: 2em;">
+         <span style="font-size: 15px;">
+          从2015年开始，我国分批实施了海绵城市和黑臭水体治理等工作计划，要系统解决我
+          <span style="font-size: 15px;letter-spacing: 0px;box-sizing: border-box;">
+           国城市发展过程中面临的水安全、水污染、水环境、水生态问题，如城市内涝、径流污染、水体黑臭和水生态失衡等．应国家环境保护的形势和需要，本课题组近年来主持和参与了多项国家及地方的科研项目（国家科技重大专项2013ZX07310001、2014ZX07101012、2017ZX07207001、2018ZX07208008，国家自然科学基金51278192、41877477，上海市科技创新重大项目16495810201，上海市科技创新重点项目18DZ1203806，上海市自然科学基金16ZR1408800，上海市浦江人才计划16PJD023，上海市普陀区高层次人才创新项目2014-A-18），分别在污水的新型脱氮技术、城市海绵工程的污染减排效应、多塘湿地和垂直流湿地的减污效果、城市黑臭河道原位脱氮途径与调控、城市水绿复合系统的蚊虫孳生现状和机制等方面开展了相关工作．其中，城市水绿复合系统的蚊虫孳生现状和机制研究旨在评价城市水污染控制和水环境治理过程中因中尺度和微尺度生境变化而造成的蚊虫密度消长、种群结构变化，并探索蚊害防制的对策和方法，为实现城市生态环境与城市卫生健康的和谐发展提供科学依据．
+          </span>
+         </span>
+        </p>
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;line-height: 2em;">
+         <span style="letter-spacing: 0px;box-sizing: border-box;font-size: 15px;">
+          <br style="box-sizing: border-box;"/>
+         </span>
+        </p>
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;line-height: 2em;">
+         <span style="font-size: 15px;">
+          本专辑是课题组相关科研成果的汇编，供同行参考．因能力和水平有限，不
+          <span style="font-size: 15px;letter-spacing: 0px;box-sizing: border-box;">
+           足之处在所难免，敬请读者批评指正．
+          </span>
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 0px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;transform: translate3d(0px, 0px, 0px);-webkit-transform: translate3d(0px, 0px, 0px);-moz-transform: translate3d(0px, 0px, 0px);-o-transform: translate3d(0px, 0px, 0px);box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;box-sizing: border-box;">
+        <section style="width: 0px;margin-bottom: -10px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);border-top: 5px solid rgb(255, 255, 255);border-left: 5px solid rgb(255, 255, 255);border-right: 5px solid transparent !important;border-bottom: 5px solid transparent !important;box-sizing: border-box;">
+        </section>
+        <section style="background-color: rgb(122, 220, 181);padding: 3px 10px;text-align: center;font-size: 19px;color: rgb(2, 115, 86);box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          <span style="font-size: 16px;">
+           <strong style="box-sizing: border-box;">
+            <span style="text-align: justify;">
+             水污染控制、水环境治理和水生态修复
+            </span>
+           </strong>
+          </span>
+         </p>
+        </section>
+        <section style="width: 0px;margin-top: -10px;margin-left: auto;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);border-right: 5px solid rgb(255, 255, 255);border-bottom: 5px solid rgb(255, 255, 255);border-top: 5px solid transparent !important;border-left: 5px solid transparent !important;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 0px 0px 0px 16px;border-width: 0px;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;border-left: 2px dashed rgb(160, 160, 160);border-bottom-left-radius: 0px;padding: 0px 0px 0px 10px;box-sizing: border-box;">
+           <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="text-align: justify;font-size: 14px;line-height: 2;box-sizing: border-box;">
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br/>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 15px;">
+                好氧反硝化菌及其在污水处理和环境修复中的研究进展
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="color: rgb(136, 136, 136);">
+                丁钰，张婷月，黄民生，何岩，曹承进（１）
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 15px;">
+                基于城镇生活污水厂提标改造的新型原位强化脱氮装置试验研究
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="color: rgb(136, 136, 136);">
+                崔贺，杨银川，黄民生，杨乐，尹超，何岩，曹承进（１２）
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 15px;">
+                异养硝化—好氧反硝化细菌的筛选及其脱氮性能研究
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="color: rgb(136, 136, 136);">
+                张婷月，丁钰，黄民生（２２）
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 15px;">
+                海绵城市的发展沿革及其对径流污染控制的研究现状
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="color: rgb(136, 136, 136);">
+                杨银川，肖冰，崔贺，黄民生，邹颖，何岩，曹承进（３２）
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 15px;">
+                典型海绵工程单项措施的污染物减排效应分析
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="color: rgb(136, 136, 136);">
+                杨银川，肖冰，崔贺，黄民生，尹超，何岩，曹承进（４３）
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 15px;">
+                洱海调蓄多塘湿地磷截留效果及影响因子研究
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="color: rgb(136, 136, 136);">
+                李丹，黄民生，郑丙辉，储昭升（５０）
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 15px;">
+                垂直流人工湿地强化农村生活污水脱氮试验研究
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="color: rgb(136, 136, 136);">
+                崔贺，陆昕渝，常越亚，黄民生，李丹，何岩，曹承进（５９）
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 15px;">
+                城市河道内源硫影响厌氧氨氧化过程的研究进展
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="color: rgb(136, 136, 136);">
+                何岩，陈静涵，黄民生，许怡雯（６８）
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 15px;">
+                内源硫影响污染河湖磷营养盐环境行为的研究进展
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="color: rgb(136, 136, 136);">
+                许怡雯，韩静，何岩，黄民生（７４）
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 15px;">
+                ＬＡＳ在城市黑臭河道中的生物降解
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="color: rgb(136, 136, 136);">
+                尹超，黄民生，何岩，崔贺，王迪芳，张婷月，肖冰（８１）
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 15px;">
+                感潮型重污染河道内源硫、铁与氮行为的耦合作用
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="color: rgb(136, 136, 136);">
+                关会敏，朱瑾，何岩，黄民生，周
+                <span style="font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 12px;background-color: rgb(255, 255, 255);">
+                 焜
+                </span>
+                ，朱林林（８８）
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 15px;">
+                城市河道介体强化总氮削减的微生物群落结构分析
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="color: rgb(136, 136, 136);">
+                韩静，许怡雯，何岩，黄民生（９７）
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 15px;">
+                海绵城市中海绵体的蚊幼孳生现状及成因分析———以池州市为例
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="color: rgb(136, 136, 136);">
+                肖冰，杨银川，陆昕渝，李欣然，黄民生，尹超，何岩（１０５）
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 15px;">
+                城市水绿复合系统的蚊虫孳生现状及机制分析———以上海市长风公园水体滨岸和
+                <span style="letter-spacing: 0px;box-sizing: border-box;">
+                 外环西段绿地排水系统为例
+                </span>
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="letter-spacing: 0px;box-sizing: border-box;color: rgb(136, 136, 136);">
+                肖冰，陆昕渝，黄民生，李欣然，尹超，何岩（１１３）
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 15px;">
+                上海东区水质净化厂尾水湿地池水质与蚊幼孳生分析
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="color: rgb(136, 136, 136);">
+                陆昕渝，肖冰，黄民生，何岩，李欣然，尹超，冷培恩（１２２）
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="color: rgb(136, 136, 136);">
+                附录
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="color: rgb(136, 136, 136);">
+                ２０１７—２０１８学年华东师范大学授予理学、工学博士学位人员名单（１３１）
+               </span>
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="color: rgb(136, 136, 136);">
+                华东师范大学报（自然科学版）２０１８年总目次（总第１９７—２０２期） （ⅰ）
+               </span>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 0px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 0px 0px 0px 16px;border-width: 0px;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;border-left: 2px dashed rgb(160, 160, 160);border-bottom-left-radius: 0px;padding: 0px 0px 0px 10px;box-sizing: border-box;">
+           <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin: 10px 0%;box-sizing: border-box;">
+             <section style="text-align: justify;font-size: 14px;line-height: 1.8;box-sizing: border-box;">
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <br/>
+    </section>
+   </section>
+   <p style="text-align: center;">
+    <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjA4MDYyOA==&amp;mid=2650196660&amp;idx=1&amp;sn=bcaca6f3f3146cee1697b4ca494cfff2&amp;chksm=83b52e2fb4c2a7393c8e6c26915b3b3b919411ff3dcc707deadf8bced28fa438d2628234b7b6&amp;scene=21#wechat_redirect" target="_blank">
+     <span class="js_jump_icon h5_image_link" data-positionback="static" style="top: auto;left: auto;margin: 0px;right: auto;bottom: auto;">
+      <img class="" data-croporisrc="https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesYfXyzpH2GpY70bCwGVpPEzibiaoMy85yiazBENLa6VpKaFhjC8TvuoibhuKXV0LibZ4ocIXRDvLMM4LRg/0?wx_fmt=jpeg" data-cropx1="0" data-cropx2="1280" data-cropy1="424.37275985663086" data-cropy2="1039.1397849462367" data-ratio="0.4796875" data-s="300,640" data-type="jpeg" data-w="1280" src="https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesYfXyzpH2GpY70bCwGVpPEzNkymVgCtgWM1PiavtpDBgz7STn0vic8Vao8fb1CA047jODFgogv8HOaQ/640?wx_fmt=jpeg" style="width: 558px;height: 268px;margin: 0px;"/>
+     </span>
+    </a>
+   </p>
+   <p style="text-align: center;">
+    <br/>
+   </p>
+   <p style="text-align: center;">
+    <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjA4MDYyOA==&amp;mid=2650196637&amp;idx=1&amp;sn=ecbec49e78290bb41d2fb38316de6814&amp;chksm=83b52e06b4c2a71085e83c0b33e35fdec04282ca171a1f832d4f4aefc15a23eb6ab444d6ed92&amp;scene=21#wechat_redirect" target="_blank">
+     <span class="js_jump_icon h5_image_link" data-positionback="static" style="top: auto;left: auto;margin: 0px;right: auto;bottom: auto;">
+      <img class="" data-croporisrc="https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesaA34hyQQQxu5eGbtOviaeiab27DEQwC7HZb8nWYtsw6ic8TmouaCf7VRiawOjibbtibichL7la67sIKxT7w/0?wx_fmt=jpeg" data-cropx1="0" data-cropx2="800" data-cropy1="282.43727598566306" data-cropy2="625.089605734767" data-ratio="0.4275" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesYfXyzpH2GpY70bCwGVpPEznO7t3uEdFSVoDogY3oVDiasLMnliaO9uWHWL62ic1p5JL9Mhfia1jwI6FQ/640?wx_fmt=jpeg" style="width: 558px;height: 239px;margin: 0px;"/>
+     </span>
+    </a>
+   </p>
+   <p style="text-align: center;">
+    <br/>
+   </p>
+   <p style="text-align: center;">
+    <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjA4MDYyOA==&amp;mid=2650196627&amp;idx=1&amp;sn=2c137fc7b89e9dff779aab477e9edbf8&amp;chksm=83b52e08b4c2a71e5c3b723b24c9c40512fbe232fed1f2a56281116edcaeb66299fba19bae36&amp;scene=21#wechat_redirect" target="_blank">
+     <span class="js_jump_icon h5_image_link" data-positionback="static" style="top: auto;left: auto;margin: 0px;right: auto;bottom: auto;">
+      <img class="" data-croporisrc="https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesa2VIOHFUDBQthS1lpGxd84Jrwzgv1Us2boLn8K1WQSPLaPJVnKHS3gyfhs7QSs51sg2gUcribpDXw/0?wx_fmt=jpeg" data-cropx1="0" data-cropx2="628" data-cropy1="216.08602150537632" data-cropy2="485.0681003584229" data-ratio="0.428343949044586" data-s="300,640" data-type="jpeg" data-w="628" src="https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesYfXyzpH2GpY70bCwGVpPEzlbVtCDoYFPwMjlJnv7VBZnHMyZ9UrzecBsjck0fEyyAKsBRMM0RibEA/640?wx_fmt=jpeg" style="width: 558px;height: 239px;margin: 0px;"/>
+     </span>
+    </a>
+   </p>
+   <p style="text-align: center;">
+    <br/>
+   </p>
+   <p style="text-align: center;">
+    <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjA4MDYyOA==&amp;mid=2650196559&amp;idx=1&amp;sn=a2a9249f8fcf82bf22074e4fb2df71b7&amp;chksm=83b52ed4b4c2a7c2d1bf650cad50166720fc21a2d452a30e2ac7ed3f61c4b28b60ecd83de58e&amp;scene=21#wechat_redirect" target="_blank">
+     <span class="js_jump_icon h5_image_link" data-positionback="static" style="top: auto;left: auto;margin: 0px;right: auto;bottom: auto;">
+      <img class="" data-croporisrc="https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesYEJVjHjOZsK9DEMg1b3Bzwz4HeJo2dNIQUicJlMlsrlXFzJ16KZhE9RTE5Dbxp68o4UFR3FnzEibBw/0?wx_fmt=jpeg" data-cropx1="0" data-cropx2="800" data-cropy1="279.5698924731183" data-cropy2="617.921146953405" data-ratio="0.4225" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesYfXyzpH2GpY70bCwGVpPEztmjpqia5jicfLIFs2ml67NpkegYtkaDX0sg9B30Sahe9FYkPjHzWibnUg/640?wx_fmt=jpeg" style="width: 558px;height: 236px;margin: 0px;top: auto;left: auto;right: auto;bottom: auto;"/>
+     </span>
+    </a>
+   </p>
+   <p style="text-align: center;">
+    <br/>
+   </p>
+   <p style="text-align: center;">
+    <a href="http://mp.weixin.qq.com/s?__biz=MzAxMjA4MDYyOA==&amp;mid=2650196543&amp;idx=1&amp;sn=f2e76117516cc86b7b37fc90d1e94f93&amp;chksm=83b52ea4b4c2a7b2a31da80c8f539b0c626e50e765c6ffb7b6153c69e543848c55704f24e239&amp;scene=21#wechat_redirect" target="_blank">
+     <span class="js_jump_icon h5_image_link" data-positionback="static" style="top: auto;left: auto;margin: 0px;right: auto;bottom: auto;">
+      <img class="" data-croporisrc="https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesa3pVic3pTVuicWiaZfSH08pCoEclEWCXJ9xjcRfnG7jnPmP5j98J4OYVWea3bQ6XQxj5D5SDGeL0klA/0?wx_fmt=jpeg" data-cropx1="0" data-cropx2="800" data-cropy1="278.13620071684585" data-cropy2="607.8853046594982" data-ratio="0.41125" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesYfXyzpH2GpY70bCwGVpPEznbz2kKFSBJdaj9pTZ1LWYfogTQBJ4frd3UeaGUC0zjDDejPQ72TXFA/640?wx_fmt=jpeg" style="width: 558px;height: 230px;margin: 0px;"/>
+     </span>
+    </a>
+   </p>
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+    </section>
+    <br/>
+   </section>
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <img data-ratio="1.403125" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesYfXyzpH2GpY70bCwGVpPEzybmqGMGLfwvQGicaazEh5HibY0qjr8zOUl3yqW4ibhRR2Bv3ZQkRicrqicA/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <img data-ratio="0.96875" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesYfXyzpH2GpY70bCwGVpPEzf5rXvyOicwCXy9fxx4wYryYutSPke60tfibgZkQfIia1oX6toF9H7w6MA/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <img data-ratio="0.4375" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/pTlFPeRFesYfXyzpH2GpY70bCwGVpPEzn9tjHAcM0mY1rjAiaeT0NXREFib7YNLuQibkWJ3MCajQwRB7DficYH1bicA/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="font-size: 12px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      点击「
+      <strong style="box-sizing: border-box;">
+       <span style="color: rgb(201, 36, 8);box-sizing: border-box;">
+        阅读原文
+       </span>
+      </strong>
+      」访问
+      <span style="color: rgb(70, 116, 37);box-sizing: border-box;">
+       <strong style="box-sizing: border-box;">
+        <span style="color: rgb(70, 116, 37);box-sizing: border-box;">
+         华东师范大学学报自然科学版官网
+        </span>
+       </strong>
+      </span>
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>

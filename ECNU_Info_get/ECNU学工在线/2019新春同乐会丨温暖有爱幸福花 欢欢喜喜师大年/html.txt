@@ -1,0 +1,662 @@
+
+ <section border-box="border-box" break-word="break-word" data-id="91775" data-tools="135编辑器" gb="gb" hiragino="hiragino" important="important" none="none" normal="normal" px="px" rgb="rgb" sans="sans" style="max-width: 100%;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;line-height: 27.2px;white-space: normal;widows: 1;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;" yahei="yahei">
+  <section data-role="paragraph" style="max-width: 100%;box-sizing: border-box;border-width: 0px;border-style: initial;border-color: initial;word-wrap: break-word !important;">
+   <section style="padding: 10px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+    <section style="padding: 15px 10px 30px;max-width: 100%;box-sizing: border-box;border-radius: 15px;border-width: 2px;border-style: solid;border-color: rgb(182, 60, 60);word-wrap: break-word !important;">
+     <section style="margin-right: auto;margin-left: auto;max-width: 100%;line-height: 25px;color: rgb(70, 70, 70);word-break: break-word;box-sizing: border-box !important;word-wrap: break-word !important;">
+      <p style="max-width: 100%;min-height: 1em;box-sizing: border-box !important;word-wrap: break-word !important;">
+       <span style="font-size: 14px;color: rgb(127, 127, 127);max-width: 100%;font-family: 宋体;box-sizing: border-box !important;word-wrap: break-word !important;">
+        温暖有爱幸福花，欢欢喜喜师大年！
+       </span>
+       <span style="max-width: 100%;font-size: 14px;color: rgb(171, 25, 66);box-sizing: border-box !important;word-wrap: break-word !important;">
+        <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+         1
+         <span style="font-size: 14px;max-width: 100%;font-family: 宋体;box-sizing: border-box !important;word-wrap: break-word !important;">
+          月
+         </span>
+         30
+         <span style="font-size: 14px;max-width: 100%;font-family: 宋体;box-sizing: border-box !important;word-wrap: break-word !important;">
+          日
+         </span>
+        </strong>
+       </span>
+       <span style="font-size: 14px;color: rgb(127, 127, 127);max-width: 100%;font-family: 宋体;box-sizing: border-box !important;word-wrap: break-word !important;">
+        ，我们即将相聚在师大校园举办
+       </span>
+       <span style="max-width: 100%;font-size: 14px;color: rgb(171, 25, 66);box-sizing: border-box !important;word-wrap: break-word !important;">
+        <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+         2019
+         <span style="font-size: 14px;max-width: 100%;font-family: 宋体;box-sizing: border-box !important;word-wrap: break-word !important;">
+          年迎新春师生同乐会
+         </span>
+        </strong>
+       </span>
+       <span style="font-size: 14px;color: rgb(127, 127, 127);max-width: 100%;font-family: 宋体;box-sizing: border-box !important;word-wrap: break-word !important;">
+        。师生同聚，其乐融融，辞旧迎新，展望未来。
+       </span>
+       <br style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+      </p>
+     </section>
+    </section>
+    <section style="margin-top: -7px;margin-right: auto;margin-left: auto;padding-right: 8px;padding-left: 8px;max-width: 100%;box-sizing: border-box;width: 30px;display: -webkit-flex;background-color: rgb(254, 254, 254);word-wrap: break-word !important;">
+     <section style="margin-right: auto;margin-left: auto;max-width: 100%;border-width: 2px;border-style: solid;border-color: rgb(182, 60, 60);width: 11px;height: 11px;display: -webkit-flex;transform: rotate(45deg);justify-content: center;align-items: center;box-sizing: border-box !important;word-wrap: break-word !important;">
+     </section>
+     <section style="margin-right: auto;margin-left: -6px;max-width: 100%;border-width: 2px;border-style: solid;border-color: rgb(182, 60, 60);width: 11px;height: 11px;display: -webkit-flex;transform: rotate(45deg);justify-content: center;align-items: center;box-sizing: border-box !important;word-wrap: break-word !important;">
+      <br style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style='max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;widows: 1;color: rgb(62, 62, 62);font-family: "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;font-size: 16px;line-height: 25.6px;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;'>
+  <br style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+ </p>
+ <p style='max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;widows: 1;color: rgb(62, 62, 62);font-family: "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;font-size: 16px;line-height: 25.6px;text-align: start;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;'>
+  <span style="max-width: 100%;font-family: 宋体;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <img class="" data-copyright="0" data-cropselx1="0" data-cropselx2="556" data-cropsely1="0" data-cropsely2="261" data-ratio="0.49921875" data-type="jpeg" data-w="1280" src="https://mmbiz.qpic.cn/mmbiz_jpg/LGPuMo1nF8enIGUqicZiaoPkXxDTzXvwDfvSIllMibtK1rO35kEelK5XWvRzd4NWcLibzsOVIKghtMicFibtMrFULxQQ/640?wx_fmt=jpeg" style="box-sizing: border-box !important;word-wrap: break-word !important;width: 556px;visibility: visible !important;height: 278px;"/>
+  </span>
+ </p>
+ <p style='max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;widows: 1;color: rgb(62, 62, 62);font-family: "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;font-size: 16px;line-height: 25.6px;text-align: start;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;'>
+  <br style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+ </p>
+ <section border-box="border-box" break-word="break-word" data-id="91835" data-tools="135编辑器" gb="gb" hiragino="hiragino" important="important" none="none" normal="normal" px="px" rgb="rgb" sans="sans" style="max-width: 100%;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;line-height: 27.2px;white-space: normal;widows: 1;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;" yahei="yahei">
+  <section style="max-width: 100%;text-align: center;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <section style="max-width: 100%;display: inline-block;width: 300px;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <img class="" data-ratio="0.10444444444444445" data-type="png" data-w="900" src="https://mmbiz.qpic.cn/mmbiz_png/hOWxIuT5SrEceXjvXNkM2FuAgyQ0MkuRNVet0h9ND9SeSLuCtlA2cFWmXrRjYrU3m1FC4cSeia7F7Fx57mibwZEg/640?wx_fmt=png" style="display: inline;box-sizing: border-box !important;word-wrap: break-word !important;width: 300px !important;visibility: visible !important;" title="新春 中国结 分割线" width="300"/>
+   </section>
+  </section>
+  <section style="max-width: 100%;text-align: center;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <section style="max-width: 100%;display: inline-block;width: 300px;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <strong style='letter-spacing: 0.544px;color: rgb(62, 62, 62);font-family: "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;font-size: 16px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;'>
+     <span style="font-size: 14px;color: rgb(68, 68, 68);max-width: 100%;font-family: 宋体;box-sizing: border-box !important;word-wrap: break-word !important;">
+      <br/>
+     </span>
+    </strong>
+   </section>
+  </section>
+  <section style="box-sizing: border-box;font-size: 16px;">
+   <section powered-by="xiumi.us" style="box-sizing: border-box;">
+    <section style="text-align: center;margin: 10px 0%;box-sizing: border-box;">
+     <section style='display: inline-block;width: 160px;height: 110px;vertical-align: top;overflow: hidden;background-position: 50% 50%;background-repeat: no-repeat;background-size: contain;background-attachment: scroll;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/LGPuMo1nF8enIGUqicZiaoPkXxDTzXvwDfZqQC7u979xhFsIESQyYfr2UiajD1jXQZHl9yhsGrc69iaiaVFia29iatseQ/640?wx_fmt=png");box-sizing: border-box;'>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="margin-top: 30px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+        <section style="color: rgb(255, 255, 255);font-size: 24px;box-sizing: border-box;">
+         <p style="box-sizing: border-box;">
+          <strong>
+           游园会
+          </strong>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section style="max-width: 100%;text-align: center;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <strong style='letter-spacing: 0.544px;color: rgb(62, 62, 62);font-family: "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;font-size: 16px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;'>
+    <span style="max-width: 100%;font-size: 14px;color: rgb(68, 68, 68);box-sizing: border-box !important;word-wrap: break-word !important;">
+     <span style="max-width: 100%;font-family: 宋体;">
+      时间：
+     </span>
+     16
+     <span style="max-width: 100%;font-family: 宋体;">
+      ：
+     </span>
+     00
+     <span style="max-width: 100%;font-family: 宋体;">
+      —
+     </span>
+     16
+     <span style="max-width: 100%;font-family: 宋体;">
+      ：
+     </span>
+     55
+    </span>
+   </strong>
+   <br/>
+  </section>
+ </section>
+ <p style='max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;widows: 1;color: rgb(62, 62, 62);font-family: "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;font-size: 16px;line-height: 25.6px;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;'>
+  <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <span style="max-width: 100%;font-family: 宋体;font-size: 14px;color: rgb(68, 68, 68);box-sizing: border-box !important;word-wrap: break-word !important;">
+    地点：闵行校区华闵餐厅（夏雨厅）一楼
+   </span>
+  </strong>
+ </p>
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="width: 2.2em;margin-right: -1.1em;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);display: inline-block;vertical-align: top;box-sizing: border-box;">
+     <section style="max-width: 100%;display: inline-block;line-height: 0;box-sizing: border-box;">
+      <img class="raw-image" data-ratio="1.9083333" data-type="png" data-w="120" src="https://mmbiz.qpic.cn/mmbiz_png/LGPuMo1nF8enIGUqicZiaoPkXxDTzXvwDfuKpsdQSKltSTjN7HHssnIOHuAGzUfR5Vr3rrGcicictkf52xkwPAS2wA/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+     </section>
+    </section>
+    <section style="border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);padding: 2px;margin-top: 0.9em;display: inline-block;vertical-align: middle;box-sizing: border-box;">
+     <section style="border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);color: rgb(217, 162, 97);padding-left: 5px;padding-right: 5px;box-sizing: border-box;">
+      <p style="box-sizing: border-box;">
+       项目一：咔嚓一声福运来
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <section border-box="border-box" break-word="break-word" data-id="89906" data-tools="135编辑器" gb="gb" hiragino="hiragino" important="important" none="none" normal="normal" px="px" rgb="rgb" sans="sans" style="max-width: 100%;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;line-height: 27.2px;white-space: normal;widows: 1;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;" yahei="yahei">
+  <section data-id="us516961" style="max-width: 100%;box-sizing: border-box;border-width: 0px;border-style: initial;border-color: initial;word-wrap: break-word !important;text-align: center;">
+   <section style="max-width: 100%;display: inline-block;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <section style="box-sizing: border-box;font-size: 16px;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;font-size: 16px;">
+       <section powered-by="xiumi.us" style="box-sizing: border-box;">
+        <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+         <section style="border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);padding: 2px;margin-top: 0.9em;display: inline-block;vertical-align: middle;box-sizing: border-box;">
+          <section style="border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);color: rgb(217, 162, 97);padding-left: 5px;padding-right: 5px;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            项目二：欢欢喜喜猜灯谜
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section powered-by="xiumi.us" style="box-sizing: border-box;">
+        <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+         <section style="border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);padding: 2px;margin-top: 0.9em;display: inline-block;vertical-align: middle;box-sizing: border-box;">
+          <section style="border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);color: rgb(217, 162, 97);padding-left: 5px;padding-right: 5px;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            项目三：甜甜蜜蜜再一年
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section powered-by="xiumi.us" style="box-sizing: border-box;">
+        <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+         <section style="border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);padding: 2px;margin-top: 0.9em;display: inline-block;vertical-align: middle;box-sizing: border-box;">
+          <section style="border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);color: rgb(217, 162, 97);padding-left: 5px;padding-right: 5px;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            项目四：“猪”光宝气好运来
+           </p>
+          </section>
+         </section>
+        </section>
+        <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+        </section>
+        <section style='max-width: 100%;box-sizing: border-box;color: rgb(49, 47, 47);font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", "Noto Sans", "Noto Sans CJK SC", "Microsoft YaHei", "Apple Color Emoji", "Segoe UI Symbol", Arial, sans-serif;font-size: 16px;text-align: left;white-space: normal;widows: 1;background-color: rgba(255, 255, 255, 0.882);display: inline-block;vertical-align: bottom;line-height: 0;width: 1.6em;box-shadow: rgb(0, 0, 0) 0px 0px 0px;word-wrap: break-word !important;'>
+         <section powered-by="xiumi.us" style="box-sizing: border-box;">
+          <br/>
+         </section>
+         <section powered-by="xiumi.us" style="box-sizing: border-box;">
+          <br/>
+         </section>
+         <section powered-by="xiumi.us" style="box-sizing: border-box;">
+          <br/>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <section border-box="border-box" break-word="break-word" data-id="91836" data-tools="135编辑器" gb="gb" hiragino="hiragino" important="important" none="none" normal="normal" px="px" rgb="rgb" sans="sans" style="max-width: 100%;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;line-height: 27.2px;white-space: normal;widows: 1;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;" yahei="yahei">
+  <p style="max-width: 100%;min-height: 1em;text-align: center;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <img class="" data-ratio="0.11222222222222222" data-type="png" data-w="900" src="https://mmbiz.qpic.cn/mmbiz_png/hOWxIuT5SrEceXjvXNkM2FuAgyQ0MkuROQhHLcuqW8IlwjCrTiaH5hnffjof8sVtdoDXRQng610boibNK3HbzaXA/640?wx_fmt=png" style="display: inline;opacity: 0.737428;box-sizing: border-box !important;word-wrap: break-word !important;width: 300px !important;visibility: visible !important;" title="新春 春节 分割线" width="300"/>
+  </p>
+  <section style="box-sizing: border-box;font-size: 16px;">
+   <section powered-by="xiumi.us" style="box-sizing: border-box;">
+    <section style="text-align: center;margin: 10px 0%;box-sizing: border-box;">
+     <section style='display: inline-block;width: 160px;height: 110px;vertical-align: top;overflow: hidden;background-position: 50% 50%;background-repeat: no-repeat;background-size: contain;background-attachment: scroll;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/LGPuMo1nF8enIGUqicZiaoPkXxDTzXvwDfZqQC7u979xhFsIESQyYfr2UiajD1jXQZHl9yhsGrc69iaiaVFia29iatseQ/640?wx_fmt=png");box-sizing: border-box;'>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="margin-top: 30px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+        <section style="color: rgb(255, 255, 255);font-size: 24px;box-sizing: border-box;">
+         <p style="box-sizing: border-box;">
+          <strong>
+           晚会
+          </strong>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style='max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;widows: 1;color: rgb(62, 62, 62);font-family: "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;font-size: 16px;line-height: 25.6px;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;'>
+  <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <span style="max-width: 100%;font-size: 14px;color: rgb(68, 68, 68);box-sizing: border-box !important;word-wrap: break-word !important;">
+    <span style="max-width: 100%;font-family: 宋体;">
+     时间：
+    </span>
+    17
+    <span style="max-width: 100%;font-family: 宋体;">
+     ：
+    </span>
+    00
+    <span style="max-width: 100%;font-family: 宋体;">
+     —
+    </span>
+    19
+    <span style="max-width: 100%;font-family: 宋体;">
+     ：
+    </span>
+    00
+   </span>
+  </strong>
+ </p>
+ <p style='max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;widows: 1;color: rgb(62, 62, 62);font-family: "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;font-size: 16px;line-height: 25.6px;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;'>
+  <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <span style="max-width: 100%;font-family: 宋体;font-size: 14px;color: rgb(68, 68, 68);box-sizing: border-box !important;word-wrap: break-word !important;">
+    地点：闵行校区华闵餐厅（夏雨厅）一楼
+   </span>
+  </strong>
+ </p>
+ <section powered-by="xiumi.us" style="box-sizing: border-box;">
+  <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+   <section style="margin-top: 0.9em;padding: 2px;border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);display: inline-block;vertical-align: middle;box-sizing: border-box;">
+    <section style="padding-right: 5px;padding-left: 5px;border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);color: rgb(217, 162, 97);box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <span style="font-size: 16px;">
+       栏目一：欢声笑语送祝福
+      </span>
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>
+ <section powered-by="xiumi.us" style="box-sizing: border-box;">
+  <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+   <section style="margin-top: 0.9em;padding: 2px;border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);display: inline-block;vertical-align: middle;box-sizing: border-box;">
+    <section style="padding-right: 5px;padding-left: 5px;border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);color: rgb(217, 162, 97);box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <span style="font-size: 16px;">
+       栏目二：张灯结彩拜大年
+      </span>
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>
+ <section powered-by="xiumi.us" style="box-sizing: border-box;">
+  <section style="box-sizing: border-box;">
+   <section powered-by="xiumi.us" style="box-sizing: border-box;">
+    <section style="font-size: 16px;margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+     <section style="border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);padding: 2px;margin-top: 0.9em;display: inline-block;vertical-align: middle;box-sizing: border-box;">
+      <section style="border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);color: rgb(217, 162, 97);padding-left: 5px;padding-right: 5px;box-sizing: border-box;">
+       <p style="box-sizing: border-box;">
+        栏目三
+        <span style="color: rgb(217, 162, 97);text-align: center;">
+         ：
+        </span>
+        热热闹闹喜迎春
+       </p>
+      </section>
+     </section>
+     <section style="width: 2.2em;margin-left: -1.1em;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);display: inline-block;vertical-align: top;box-sizing: border-box;">
+      <section style="max-width: 100%;display: inline-block;line-height: 0;box-sizing: border-box;">
+       <img class="raw-image" data-ratio="1.9083333" data-type="png" data-w="120" src="https://mmbiz.qpic.cn/mmbiz_png/LGPuMo1nF8enIGUqicZiaoPkXxDTzXvwDfQicUtMgewKPqWy18icCFoYib8e3NzsUuia2J8AdMkk4rj6YpqdiaVtLc8DA/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+      </section>
+     </section>
+    </section>
+    <section style="font-size: 16px;margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+     <section style="width: 2.2em;margin-left: -1.1em;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);display: inline-block;vertical-align: top;box-sizing: border-box;">
+      <section style="max-width: 100%;display: inline-block;line-height: 0;box-sizing: border-box;">
+       <br/>
+      </section>
+     </section>
+    </section>
+    <section border-box="border-box" break-word="break-word" data-id="89906" data-tools="135编辑器" gb="gb" hiragino="hiragino" important="important" none="none" normal="normal" px="px" rgb="rgb" sans="sans" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;letter-spacing: 0.544px;line-height: 27.2px;widows: 1;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;" yahei="yahei">
+     <section data-id="us516961" style="max-width: 100%;box-sizing: border-box;border-width: 0px;border-style: initial;border-color: initial;text-align: center;word-wrap: break-word !important;">
+      <section style="max-width: 100%;display: inline-block;box-sizing: border-box !important;word-wrap: break-word !important;">
+       <section style="box-sizing: border-box;font-size: 16px;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style='max-width: 100%;box-sizing: border-box;color: rgb(49, 47, 47);font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", "Noto Sans", "Noto Sans CJK SC", "Microsoft YaHei", "Apple Color Emoji", "Segoe UI Symbol", Arial, sans-serif;text-align: left;background-color: rgba(255, 255, 255, 0.882);display: inline-block;vertical-align: bottom;line-height: 0;width: 1.6em;box-shadow: rgb(0, 0, 0) 0px 0px 0px;word-wrap: break-word !important;'>
+            <img class="__bg_gif" data-ratio="1" data-type="gif" data-w="200" src="https://mmbiz.qpic.cn/mmbiz_gif/LGPuMo1nF8enIGUqicZiaoPkXxDTzXvwDfwOeSXhImyH2AiaYicQdSstU3bdBHAoE3U2CbnmPWu0JR1QCAgfWOQBnQ/640?wx_fmt=gif" style="box-sizing: border-box;vertical-align: middle;width: 25.5972px;word-wrap: break-word !important;visibility: visible !important;"/>
+           </section>
+           <section style='margin-bottom: 2px;padding-right: 5px;padding-left: 5px;max-width: 100%;box-sizing: border-box;color: rgb(49, 47, 47);font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", "Noto Sans", "Noto Sans CJK SC", "Microsoft YaHei", "Apple Color Emoji", "Segoe UI Symbol", Arial, sans-serif;text-align: left;background-color: rgba(255, 255, 255, 0.882);display: inline-block;vertical-align: bottom;line-height: 1.2em;font-size: 18px;word-wrap: break-word !important;'>
+            <p style="max-width: 100%;box-sizing: border-box;min-height: 1em;word-wrap: break-word !important;">
+             <strong style="max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+              2018年同乐会图集回顾
+             </strong>
+            </p>
+           </section>
+           <section style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <p>
+              <br/>
+             </p>
+             <p>
+              <img class="" data-copyright="0" data-ratio="0.66625" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/LGPuMo1nF8enIGUqicZiaoPkXxDTzXvwDfdy3BzdZGuIkZWMoE6y6POCic80Ua76KF8z8v7KV7FGeMcgMAtcYhkrg/640?wx_fmt=jpeg" style="letter-spacing: 0.544px;"/>
+             </p>
+             <p>
+              <span style='color: rgb(136, 136, 136);font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", "Noto Sans", "Noto Sans CJK SC", "Microsoft YaHei", "Apple Color Emoji", "Segoe UI Symbol", Arial, sans-serif;font-size: 12px;background-color: rgba(255, 255, 255, 0.882);'>
+               师生合影
+              </span>
+             </p>
+             <p>
+              <img class="" data-copyright="0" data-ratio="0.71" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/LGPuMo1nF8enIGUqicZiaoPkXxDTzXvwDfpddnV3bIXbvJcw54Gjvee9PmTj8lzqsEeEvYgcxoGx7ekAXBia6uqFA/640?wx_fmt=jpeg"/>
+             </p>
+             <p>
+              <span style='color: rgb(136, 136, 136);font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", "Noto Sans", "Noto Sans CJK SC", "Microsoft YaHei", "Apple Color Emoji", "Segoe UI Symbol", Arial, sans-serif;font-size: 12px;background-color: rgba(255, 255, 255, 0.882);'>
+               校领导致辞
+              </span>
+             </p>
+             <p>
+              <img class="" data-copyright="0" data-ratio="0.66625" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/LGPuMo1nF8enIGUqicZiaoPkXxDTzXvwDfxJOqE63a5OlC5NicXdlKWoqBC0Io9PjCiafUzrQ29nf96LJ6CClTdyTw/640?wx_fmt=jpeg" style="letter-spacing: 0.544px;"/>
+             </p>
+             <p style="box-sizing: border-box;">
+              <span style='color: rgb(136, 136, 136);font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", "Noto Sans", "Noto Sans CJK SC", "Microsoft YaHei", "Apple Color Emoji", "Segoe UI Symbol", Arial, sans-serif;font-size: 12px;background-color: rgba(255, 255, 255, 0.882);'>
+               留学生合影
+              </span>
+             </p>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <p style="font-size: 16px;">
+     <img class="" data-copyright="0" data-ratio="0.39125" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/LGPuMo1nF8enIGUqicZiaoPkXxDTzXvwDfuibDzxHVq3jMWymCqjoUKxVRnV6CuLJ5By4Qn6MPaYDoL0JicuyVdvHA/640?wx_fmt=jpeg" style=""/>
+    </p>
+    <p style="font-size: 16px;text-align: center;">
+     <span style='color: rgb(136, 136, 136);font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", "Noto Sans", "Noto Sans CJK SC", "Microsoft YaHei", "Apple Color Emoji", "Segoe UI Symbol", Arial, sans-serif;font-size: 12px;text-align: center;widows: 1;background-color: rgba(255, 255, 255, 0.882);'>
+      欢乐大合影
+     </span>
+    </p>
+    <p style="font-size: 16px;">
+     <img class="" data-copyright="0" data-ratio="0.47125" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/LGPuMo1nF8enIGUqicZiaoPkXxDTzXvwDfuVfQyDDNichRKIXRkINibXexDE1XrecJBVq78ZFV6fRqdF4MqBNEPXew/640?wx_fmt=jpeg" style="font-size: 16px;white-space: normal;"/>
+    </p>
+    <p style="font-size: 16px;">
+     <img class="" data-copyright="0" data-ratio="0.63625" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/LGPuMo1nF8enIGUqicZiaoPkXxDTzXvwDfbD3qk2fDQLAXplwkNSSG37dMqzAjaoNSr9jaTx4rBt5e9qibCz6KIDw/640?wx_fmt=jpeg" style="font-size: 16px;white-space: normal;"/>
+    </p>
+    <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+     <p>
+      <span style='color: rgb(136, 136, 136);font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", "Noto Sans", "Noto Sans CJK SC", "Microsoft YaHei", "Apple Color Emoji", "Segoe UI Symbol", Arial, sans-serif;font-size: 12px;background-color: rgba(255, 255, 255, 0.882);'>
+       师生共进晚餐
+      </span>
+     </p>
+    </section>
+   </section>
+  </section>
+  <p>
+   <img class="" data-copyright="0" data-ratio="0.66625" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/LGPuMo1nF8enIGUqicZiaoPkXxDTzXvwDfvG5zriaicj5Cqz7Z7Ck1XKWZ3rPIt6vaianlfMq1GSpaPg93J8SE937Jw/640?wx_fmt=jpeg" style="white-space: normal;"/>
+  </p>
+  <section style="text-align: center;">
+   <span style='background-color: rgba(255, 255, 255, 0.882);color: rgb(136, 136, 136);font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", "Noto Sans", "Noto Sans CJK SC", "Microsoft YaHei", "Apple Color Emoji", "Segoe UI Symbol", Arial, sans-serif;font-size: 12px;widows: 1;'>
+    钱旭红校长切蛋糕
+   </span>
+   <br/>
+  </section>
+ </section>
+ <section border-box="border-box" break-word="break-word" data-id="91836" data-tools="135编辑器" gb="gb" hiragino="hiragino" important="important" none="none" normal="normal" px="px" rgb="rgb" sans="sans" style="max-width: 100%;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;line-height: 27.2px;white-space: normal;widows: 1;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;" yahei="yahei">
+  <section style="max-width: 100%;text-align: center;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <section style="max-width: 100%;display: inline-block;width: 300px;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <br/>
+   </section>
+  </section>
+  <section style="max-width: 100%;text-align: center;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <section style="max-width: 100%;display: inline-block;width: 300px;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <img class="" data-ratio="0.11222222222222222" data-type="png" data-w="900" src="https://mmbiz.qpic.cn/mmbiz_png/hOWxIuT5SrEceXjvXNkM2FuAgyQ0MkuROQhHLcuqW8IlwjCrTiaH5hnffjof8sVtdoDXRQng610boibNK3HbzaXA/640?wx_fmt=png" style="display: inline;box-sizing: border-box !important;word-wrap: break-word !important;width: 300px !important;visibility: visible !important;" title="新春 春节 分割线" width="300"/>
+   </section>
+  </section>
+ </section>
+ <p style='max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;widows: 1;color: rgb(62, 62, 62);font-family: "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;font-size: 16px;line-height: 25.6px;text-align: start;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;'>
+  <br style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+ </p>
+ <p style='margin-right: 16px;margin-left: 16px;max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;widows: 1;color: rgb(62, 62, 62);font-family: "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;font-size: 16px;line-height: 25.6px;text-align: start;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;'>
+  <span style="color: rgb(171, 25, 66);">
+   <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <span style="max-width: 100%;font-family: 宋体;font-size: 14px;box-sizing: border-box !important;word-wrap: break-word !important;">
+     爱在华师大，同乐迎新春！
+    </span>
+   </strong>
+  </span>
+  <span style="max-width: 100%;font-family: 宋体;font-size: 14px;color: rgb(127, 127, 127);box-sizing: border-box !important;word-wrap: break-word !important;">
+   在笑语欢歌中，一起种下对新一年的希望吧！这寒风凛冽的严冬，正因为各位小伙伴们的团聚而显得春意盎然~你的
+   <span style="max-width: 100%;">
+    新年祝福，就是新春最美的礼赞！
+   </span>
+  </span>
+ </p>
+ <p style='margin-right: 16px;margin-left: 16px;max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;widows: 1;color: rgb(62, 62, 62);font-family: "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;font-size: 16px;line-height: 25.6px;text-align: start;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;'>
+  <span style="font-family: 宋体;font-size: 14px;color: rgb(127, 127, 127);max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <br/>
+  </span>
+ </p>
+ <p style='margin-right: 16px;margin-left: 16px;max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;widows: 1;color: rgb(62, 62, 62);font-family: "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;font-size: 16px;line-height: 25.6px;text-align: start;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;'>
+  <span style="font-family: 宋体;font-size: 14px;color: rgb(127, 127, 127);max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <br/>
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;text-align: center;text-indent: 0em;white-space: normal;widows: 1;font-size: 16px;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(157, 41, 51);box-sizing: border-box !important;word-wrap: break-word !important;">
+   <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <span style="max-width: 100%;font-size: 14px;box-sizing: border-box !important;word-wrap: break-word !important;">
+     2019
+     <span style="max-width: 100%;font-family: 宋体;">
+      年
+     </span>
+     <span style="max-width: 100%;">
+      1
+     </span>
+     <span style="max-width: 100%;font-family: 宋体;">
+      月
+     </span>
+     30
+     <span style="max-width: 100%;font-family: 宋体;">
+      日
+     </span>
+     16:00
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;text-align: center;text-indent: 0em;white-space: normal;widows: 1;font-size: 16px;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(136, 136, 136);font-family: 宋体;font-size: 14px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   欢迎同学前往
+  </span>
+  <span style="max-width: 100%;color: rgb(157, 41, 51);box-sizing: border-box !important;word-wrap: break-word !important;">
+   <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <span style="max-width: 100%;font-family: 宋体;font-size: 14px;box-sizing: border-box !important;word-wrap: break-word !important;">
+     闵行校区华闵餐厅（夏雨厅）一楼
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;text-align: center;text-indent: 0em;white-space: normal;widows: 1;font-size: 16px;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <br style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;text-align: center;text-indent: 0em;white-space: normal;widows: 1;font-size: 16px;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <span style="max-width: 100%;font-family: 宋体;font-size: 14px;color: rgb(157, 41, 51);box-sizing: border-box !important;word-wrap: break-word !important;">
+    去往闵行校区
+   </span>
+  </strong>
+  <span style="max-width: 100%;color: rgb(136, 136, 136);font-family: 宋体;font-size: 14px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   的校车将于
+   <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <span style="max-width: 100%;color: rgb(157, 41, 51);box-sizing: border-box !important;word-wrap: break-word !important;">
+     15:15
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;text-align: center;text-indent: 0em;white-space: normal;widows: 1;font-size: 16px;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(136, 136, 136);font-family: 宋体;font-size: 14px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   从
+   <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <span style="max-width: 100%;color: rgb(157, 41, 51);box-sizing: border-box !important;word-wrap: break-word !important;">
+     中北校区停车场
+    </span>
+   </strong>
+   陆续发车
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;text-align: center;text-indent: 0em;white-space: normal;widows: 1;font-size: 16px;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <span style="max-width: 100%;font-family: 宋体;font-size: 14px;color: rgb(157, 41, 51);box-sizing: border-box !important;word-wrap: break-word !important;">
+   </span>
+  </strong>
+  <span style="font-size: 14px;">
+   <span style="color: rgb(136, 136, 136);">
+    活动结束后原车返回
+   </span>
+   <span style="max-width: 100%;color: rgb(136, 136, 136);font-family: 宋体;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <span style="max-width: 100%;color: rgb(157, 41, 51);box-sizing: border-box !important;word-wrap: break-word !important;">
+     </span>
+    </strong>
+   </span>
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;text-align: center;text-indent: 0em;white-space: normal;widows: 1;font-size: 16px;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="font-size: 14px;">
+   <strong>
+    <span style="font-size: 14px;color: rgb(171, 25, 66);">
+     车牌：
+    </span>
+   </strong>
+   <span style="font-size: 14px;color: rgb(136, 136, 136);">
+    沪D一G7310、沪D一G7311、沪D一G7327、沪B一S3145
+   </span>
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;text-align: center;text-indent: 0em;white-space: normal;widows: 1;font-size: 16px;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;text-align: center;text-indent: 0em;white-space: normal;widows: 1;font-size: 16px;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(136, 136, 136);font-family: 宋体;font-size: 14px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   各位同学记得带好
+   <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <span style="max-width: 100%;color: rgb(157, 41, 51);box-sizing: border-box !important;word-wrap: break-word !important;">
+     校园卡
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;text-align: center;text-indent: 0em;white-space: normal;widows: 1;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;font-family: 宋体;font-size: 14px;color: rgb(136, 136, 136);box-sizing: border-box !important;word-wrap: break-word !important;">
+   凭
+   <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <span style="max-width: 100%;color: rgb(157, 41, 51);box-sizing: border-box !important;word-wrap: break-word !important;">
+     校园卡
+    </span>
+   </strong>
+   乘车和入场
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;text-align: center;text-indent: 0em;white-space: normal;widows: 1;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;font-family: 宋体;font-size: 14px;color: rgb(136, 136, 136);box-sizing: border-box !important;word-wrap: break-word !important;">
+   <br/>
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;text-align: center;text-indent: 0em;white-space: normal;widows: 1;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;font-family: 宋体;font-size: 14px;color: rgb(136, 136, 136);box-sizing: border-box !important;word-wrap: break-word !important;">
+   <img data-ratio="1" data-w="20" src="https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_66.png" style="display:inline-block;width:20px;vertical-align:text-bottom;"/>
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;text-align: center;text-indent: 0em;white-space: normal;widows: 1;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <strong>
+   <span style="color: rgb(171, 25, 66);max-width: 100%;font-family: 宋体;font-size: 14px;box-sizing: border-box !important;word-wrap: break-word !important;">
+    爱在师大，
+   </span>
+  </strong>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;text-align: center;text-indent: 0em;white-space: normal;widows: 1;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <strong>
+   <span style="font-family: 宋体;font-size: 14px;color: rgb(171, 25, 66);">
+    明天，我们一起庆祝春节
+   </span>
+  </strong>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;text-align: center;text-indent: 0em;white-space: normal;widows: 1;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <br/>
+ </p>
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="padding-right: 5px;padding-left: 5px;display: inline-block;vertical-align: top;border-left: 5px solid rgb(249, 110, 87);border-right: 5px solid rgb(249, 110, 87);box-sizing: border-box;">
+     <section style="border-top: 0.75em solid rgb(249, 110, 87);display: inline-block;vertical-align: top;border-bottom: 0.75em solid rgb(249, 110, 87);border-right: 0.75em solid transparent !important;box-sizing: border-box;">
+     </section>
+     <section style="display: inline-block;vertical-align: top;line-height: 1.5em;box-sizing: border-box;">
+      <p style="box-sizing: border-box;">
+       <strong>
+        预告：免费年夜饭
+       </strong>
+      </p>
+     </section>
+     <section style="display: inline-block;vertical-align: top;border-bottom: 0.75em solid rgb(249, 110, 87);border-top: 0.75em solid rgb(249, 110, 87);border-left: 0.75em solid transparent !important;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="line-height: 1.75em;margin-left: 0px;margin-right: 0px;">
+  <span style="font-size: 15px;">
+   除夕夜学校为寒假留校同学准备了免费年夜饭，刷学生卡免费。
+  </span>
+ </p>
+ <p style="line-height: 1.75em;margin-left: 0px;margin-right: 0px;">
+  <span style="font-size: 15px;">
+   今年年夜饭供餐的食堂为：
+  </span>
+ </p>
+ <p style="line-height: 1.75em;margin-left: 0px;margin-right: 0px;">
+  <strong>
+   <span style="font-size: 15px;">
+    中北校区：
+   </span>
+  </strong>
+  <span style="font-size: 15px;">
+   河东食堂一楼餐厅、丽娃食堂二楼伊源餐厅；
+  </span>
+ </p>
+ <p style="line-height: 1.75em;margin-left: 0px;margin-right: 0px;">
+  <strong>
+   <span style="font-size: 15px;">
+    闵行校区：
+   </span>
+  </strong>
+  <span style="font-size: 15px;">
+   春华阁一楼餐厅、冬月厅一楼餐厅、冬月厅二楼清真餐厅
+  </span>
+ </p>
+ <p style="line-height: 1.75em;margin-left: 0px;margin-right: 0px;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <img class="" data-copyright="0" data-ratio="0.75" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/LGPuMo1nF8enIGUqicZiaoPkXxDTzXvwDfJibSI0uYAY9W3DPicRGgd3auZnm5icQkzkomMaD9qhVE4MewdIRNrHAWg/640?wx_fmt=jpeg"/>
+ </p>
+ <p style="white-space: normal;">
+  <img class="" data-copyright="0" data-ratio="0.75" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/LGPuMo1nF8enIGUqicZiaoPkXxDTzXvwDfFxNdY2KBSEkhYglVunQ2YSBaOPu1VbfPP9CYapoK9CsnyuxiadfvBzw/640?wx_fmt=jpeg"/>
+ </p>
+ <p style="white-space: normal;text-align: center;">
+  <span style='color: rgb(136, 136, 136);font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", "Noto Sans", "Noto Sans CJK SC", "Microsoft YaHei", "Apple Color Emoji", "Segoe UI Symbol", Arial, sans-serif;font-size: 12px;widows: 1;background-color: rgba(255, 255, 255, 0.882);'>
+   2018除夕年夜饭套餐A、B
+  </span>
+ </p>
+ <p style="line-height: 1.75em;margin-left: 0px;margin-right: 0px;">
+  <br/>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;line-height: 27.2px;white-space: normal;widows: 1;background-color: rgb(255, 255, 255);margin-left: 0px;margin-right: 0px;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(136, 136, 136);font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   责编：张琴
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;line-height: 27.2px;white-space: normal;widows: 1;background-color: rgb(255, 255, 255);margin-left: 0px;margin-right: 0px;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <img class="" data-copyright="0" data-ratio="0.5" data-s="300,640" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/LGPuMo1nF8eehPGTlqDzhibXBxMiasicAaHicenNFJqFJHSrficAguIV7Kh66TbZ7DoAuhUG1RSUPandWyGKxqibEOqg/640?wx_fmt=jpeg" style="box-sizing: border-box !important;word-wrap: break-word !important;width: 593px !important;visibility: visible !important;"/>
+ </p>
+ <p style="line-height: 1.75em;text-align: center;margin-left: 0px;margin-right: 0px;">
+  <span style="color: rgb(136, 136, 136);font-size: 14px;letter-spacing: 0.544px;text-align: center;widows: 1;background-color: rgb(255, 255, 255);">
+   投稿&amp;加入我们：ecnuxg_tg@126.com
+  </span>
+ </p>

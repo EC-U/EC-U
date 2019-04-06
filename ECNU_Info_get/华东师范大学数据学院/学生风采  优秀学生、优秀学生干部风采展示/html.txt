@@ -1,0 +1,778 @@
+
+ <section data-role="outer" label="Powered by 135editor.com" style="font-family: 微软雅黑;">
+  <section style="max-width: 100%;">
+   <section class="_135editor" style="max-width: 100%;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section class="" style="max-width: 100%;text-align: right;">
+     <section class="" style='max-width: 100%;display: inline-block;width: 100%;vertical-align: top;background-image: url("https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ag3hrHODfXNHrGrHibibppA7LJhibjWU4Gqhq1QvSEGIwGwXaQpUTvwJy2mc7blhJkbdpyR71uNiaZiag/640?wx_fmt=jpeg");background-attachment: scroll;background-size: 68.3688%;background-position: 0% 0%;background-repeat: repeat;'>
+      <section class="_135editor" style="max-width: 100%;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+       <section class="" style="max-width: 100%;">
+        <section class="" style="padding: 15px;max-width: 100%;display: inline-block;width: 100%;vertical-align: top;box-sizing: border-box;">
+         <section class="_135editor" style="max-width: 100%;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+          <section class="" style="max-width: 100%;text-align: center;">
+           <section class="_135editor" data-color="#fde2d8" data-id="35362" data-tools="135编辑器" style="font-size: 14px;color: rgb(115, 115, 115);border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+            <section class="layout" style="margin-right: auto;margin-left: auto;padding: 1px;border-width: 1px;border-style: solid;border-color: rgb(253, 226, 216);color: rgb(0, 0, 0);box-sizing: border-box;">
+             <section style="padding: 1px;border-width: 1px;border-style: solid;border-color: rgb(253, 226, 216);color: inherit;box-sizing: border-box;">
+              <section class="135brush" data-style="line-height:24px;color:rgb(89, 89, 89); font-size:14px" style="padding: 15px;border-width: 1px;border-style: solid;border-color: rgb(253, 226, 216);color: inherit;box-sizing: border-box;">
+               <section class="_135editor" data-id="94137" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                <section>
+                 <section class="_135editor" data-id="88200" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                  <p>
+                   <img class="_135editor" data-ratio="1" data-type="gif" data-w="19" src="https://mmbiz.qpic.cn/mmbiz_gif/LWU2lqYH88ag3hrHODfXNHrGrHibibppA7RrENu3msGRTVicWrM11JJxJfBXfcOdF0ZcCYjaFicT9apwJ35IKkwbQA/640?wx_fmt=gif" style="border-width: 0px;border-style: none;border-color: initial;" title="跳动的心分割线爱心"/>
+                  </p>
+                 </section>
+                </section>
+               </section>
+               <p style="text-align: justify;text-indent: 2em;">
+                <br/>
+               </p>
+               <p style="text-align: justify;text-indent: 2em;">
+                经过数据科学与工程学院2016级本科生民主评议，经数据科学与工程学院团委推荐，同级党组织审核以及学校批示，共有三位同学荣获
+                <span style="color: rgb(255, 104, 39);">
+                 2017-2018学年华东师范大学优秀学生干部
+                </span>
+                ，六位同学获得
+                <span style="color: rgb(255, 104, 39);">
+                 2017-2018学年华东师范大学优秀学生
+                </span>
+                。接下来，让我们一起来看看都是哪些可爱又有才华的小哥哥小姐姐吧！
+               </p>
+               <p style="line-height: 2em;text-align: justify;">
+                <br/>
+               </p>
+              </section>
+             </section>
+            </section>
+           </section>
+           <p style="font-size: 14px;color: rgb(115, 115, 115);max-width: 100%;min-height: 1em;">
+            <br/>
+           </p>
+           <section class="" style="font-size: 16px;padding: 15px;max-width: 100%;display: inline-block;width: 526px;vertical-align: top;box-sizing: border-box;">
+            <section style="max-width: 100%;">
+             <section class="" style="max-width: 100%;">
+              <section class="" style="max-width: 100%;font-size: 14px;color: #737373;line-height: 1.75;">
+               <section class="_135editor" data-color="#fde2d8" style="max-width: 100%;font-family: -apple-system-font, BlinkMacSystemFont, Arial, sans-serif;letter-spacing: 0.544px;line-height: 27.2px;widows: 1;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                <section class="" style="max-width: 100%;">
+                 <section class="" style="padding: 15px;max-width: 100%;display: inline-block;width: 100%;vertical-align: top;box-sizing: border-box;">
+                 </section>
+                </section>
+               </section>
+               <section class="_135editor" data-id="92792" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                <section data-width="100%" style="width: 100%;">
+                 <section style="display: inline-block;">
+                  <section class="135brush" data-brushtype="text" style="padding-right: 50px;padding-left: 50px;color: rgb(235, 103, 148);font-size: 16px;font-weight: bold;box-sizing: border-box;">
+                   优秀学生干部
+                  </section>
+                  <section style="margin-top: -6px;height: 30px;">
+                   <section data-bgless="spin" data-bglessp="240" data-bgopacity="10%" style="width: 20px;height: 20px;border-radius: 100%;background: rgba(103, 147, 235, 0.9);opacity: 0.5;float: left;color: rgb(255, 255, 255);box-sizing: border-box;">
+                   </section>
+                   <section style="margin-top: 2px;margin-left: -10px;width: 15px;height: 15px;border-radius: 100%;background: rgb(235, 103, 148);opacity: 0.5;float: left;color: rgb(255, 255, 255);box-sizing: border-box;">
+                   </section>
+                   <section data-width="100%" style="margin-left: -42px;float: left;width: 100%;">
+                    <section style="padding-left: 23px;box-sizing: border-box;">
+                     <section style="margin-left: 20px;height: 11px;border-bottom: 1px dashed rgb(204, 204, 204);box-sizing: border-box;">
+                      <br/>
+                     </section>
+                    </section>
+                   </section>
+                  </section>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+           <section class="_135editor" data-color="#fde2d8" style="font-size: 17px;max-width: 100%;font-family: -apple-system-font, BlinkMacSystemFont, Arial, sans-serif;letter-spacing: 0.544px;line-height: 27.2px;widows: 1;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+            <p>
+             <br/>
+            </p>
+           </section>
+           <section class="_135editor" data-color="#fde2d8" style="font-size: 17px;max-width: 100%;font-family: -apple-system-font, BlinkMacSystemFont, Arial, sans-serif;letter-spacing: 0.544px;line-height: 27.2px;widows: 1;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+            <section class="" style="margin-bottom: 10px;max-width: 100%;line-height: 0.8;">
+             <section class="" style="max-width: 100%;width: 0px;display: inline-block;border-top: 0.8em solid rgb(253, 226, 216);border-left: 0.7em solid transparent !important;border-right: 0.7em solid transparent !important;box-sizing: border-box;">
+             </section>
+            </section>
+           </section>
+           <p style="font-size: 16px;">
+            <strong style="font-size: 14px;caret-color: red;">
+             2017-2018学年华东师范大学优秀学生干部
+            </strong>
+           </p>
+           <p style="font-size: 16px;">
+            <strong style="font-size: 14px;caret-color: red;">
+             储佳佳
+            </strong>
+           </p>
+           <p style="font-size: 16px;">
+            <br/>
+           </p>
+           <span style="font-size: 16px;">
+            <img class="" data-ratio="1.3333333333333333" data-type="jpeg" data-w="900" height="452" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ag3hrHODfXNHrGrHibibppA7piaJMClkibgSVwGvoB6ADf8gkVLHb970MWibSvI9Qfzy2ReRFkdxjZqxg/640?wx_fmt=jpeg" style="width: 339px;height: 452px;" title="undefined" width="339"/>
+           </span>
+           <p style="font-size: 16px;">
+            <br/>
+           </p>
+           <p style="font-size: 16px;text-align: justify;text-indent: 2em;">
+            <span style="font-size: 14px;">
+             储佳佳，2015级博士研究生，现任数据学院研究生会副主席以及高年级学生党支部副书记。2016年9月数据学院成立之初，百事待兴。她积极参与到学院研究生会的筹备工作中，并在研会成立大会后，成功当选主席团成员，作为副主席之一主要分管办公室部门。在社团招新、协助本科生学术论坛等活动方面，她和研会的同学们一起为各项活动献计献力。组织部门内的同学及时向数据学院的研究生们传达校研会以及学院活动的最新通知，并在研会承办的各项活动中组织、协助签到事宜。作为高年级学生党支部的副书记，她积极协助学院的党委书记李欣老师和支部书记陈雷慧同学，协助完成预备、转正等事宜以及参与党建网站的内容建设。
+            </span>
+           </p>
+           <p style="font-size: 16px;text-align: justify;text-indent: 2em;">
+            <br/>
+           </p>
+           <p style="font-size: 16px;text-align: justify;">
+            <span style="font-size: 14px;">
+             【TA 说】
+            </span>
+           </p>
+           <p style="font-size: 16px;border-width: 0px;border-style: none;border-color: initial;text-align: justify;text-indent: 2em;">
+            <span style="font-size: 14px;">
+             参与社团生活，我认识了更多的朋友，可以和大家一起集思广益头脑风暴，感受青春和热情，收获快乐和感动。感谢每一位指导、帮助我的老师，以及互帮互助、共同进步的小伙伴们，时光记得所有的爱与美好。
+            </span>
+           </p>
+           <p style="font-size: 16px;border-width: 0px;border-style: none;border-color: initial;text-align: justify;text-indent: 2em;">
+            <span style="font-size: 14px;">
+             <br/>
+            </span>
+           </p>
+           <section class="_135editor" data-color="#fde2d8" style="font-size: 16px;text-align: center;white-space: normal;max-width: 100%;font-family: -apple-system-font, BlinkMacSystemFont, Arial, sans-serif;letter-spacing: 0.544px;line-height: 27.2px;widows: 1;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+            <section class="" style="margin-bottom: 10px;max-width: 100%;line-height: 0.8;">
+             <section class="" style="max-width: 100%;width: 0px;display: inline-block;border-top: 0.8em solid rgb(253, 226, 216);box-sizing: border-box;border-left: 0.7em solid transparent !important;border-right: 0.7em solid transparent !important;">
+             </section>
+            </section>
+           </section>
+           <p style="font-size: 16px;font-family: 微软雅黑;text-align: center;white-space: normal;">
+            <strong style="font-size: 14px;caret-color: red;">
+             2017-2018学年华东师范大学优秀学生干部
+            </strong>
+           </p>
+           <p style="font-family: 微软雅黑;text-align: center;white-space: normal;">
+            <span style="font-size: 14px;caret-color: rgb(255, 0, 0);">
+             <strong>
+              吴妍
+             </strong>
+            </span>
+           </p>
+           <p style="font-size: 16px;font-family: 微软雅黑;text-align: center;white-space: normal;">
+            <br/>
+           </p>
+           <p style="font-size: 16px;">
+            <img class="" data-copyright="0" data-cropselx1="0" data-cropselx2="339" data-cropsely1="0" data-cropsely2="452" data-ratio="1.351048951048951" data-type="jpeg" data-w="715" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88a5zEXvKBQNUrf3MLgGxkYrnszwk7LvKIPeiaot5ukK9Vaib1OLO8TRwVorkrRWuG8a0TLLwRPS3Ovg/640?wx_fmt=jpeg" style="height: 458px;font-family: 微软雅黑;font-size: 16px;text-align: center;white-space: normal;width: 339px;" title="undefined"/>
+           </p>
+           <p style="font-size: 16px;font-family: 微软雅黑;text-align: center;white-space: normal;">
+            <br/>
+           </p>
+           <p style="text-align: justify;text-indent: 2em;">
+            <span style="font-size: 14px;">
+             吴妍，2016级本科生。华东师范大学ACM队成员，与两名队友组成女队参加ACM竞赛，曾获得2018年ACM/ICPC国际大学生程序设计竞赛上海大都会赛银奖，2018年ACM/ICPC国际大学生程序设计竞赛南京区域赛铜奖，现已退役。此外也积极参加其他各类程序设计竞赛，曾获2018年第九届“蓝桥杯”软件类C/C++程序设计A组上海市一等奖，全国三等奖，2018年“游族杯”上海市高校程序设计邀请赛暨华东师范大学第十届程序设计竞赛二等奖等奖项。
+            </span>
+            <span style="font-size: 14px;text-indent: 2em;">
+             现任校团委组织部组织中心副部长，两年以来专心于校团委组织部工作，认真负责，耐心细致。一直以来坚持做好学生工作，为全校师生服务。曾获2016-2017学年校团委“优秀干事”称号。同时也积极参加校内外志愿者工作，以服务他人，服务社会为己任。
+            </span>
+           </p>
+           <p style="text-align: justify;text-indent: 2em;">
+            <span style="font-size: 14px;">
+             【TA说】
+            </span>
+           </p>
+           <p style="text-align: justify;text-indent: 2em;">
+            <span style="font-size: 14px;">
+             我很高兴能加入到数据科学与工程学院，成为第一届本科生。2016级本科生虽然人数不多，却是一个团结友爱，互帮互助的温馨集体。16级本科生有很强的团体凝聚力，班委们认真负责，同学们热爱学习，实验室学习氛围浓厚，呈现出积极向上的大好形势。
+            </span>
+            <span style="font-size: 14px;text-indent: 2em;">
+             在数据学院这一年来的学习中，我拓展了知识面，增强了实践能力，接触到许多新鲜有趣的专业领域，收获了学习的乐趣。我认为学习数据科学需要浓厚的兴趣和钻研精神，作为数据专业的本科生，我们应当要紧跟时代的号召，响应世界对于大数据技术的需要，坚持努力学习，不断提升自我的综合素质和专业能力，争取为国家和社会尽自己的努力作出贡献。
+            </span>
+           </p>
+           <p style="font-size: 16px;border-width: 0px;border-style: none;border-color: initial;text-align: justify;text-indent: 2em;">
+            <span style="font-size: 14px;">
+             <br/>
+            </span>
+           </p>
+           <section class="_135editor" data-color="#fde2d8" data-role="paragraph" style="font-size: 16px;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+            <section class="_135editor" data-color="#fde2d8" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+             <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+              <section class="_135editor" data-color="#fde2d8" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+               <section class="_135editor" data-color="#fde2d8" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                <section class="_135editor" data-color="#fde2d8" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                 <section class="_135editor" data-color="#fde2d8" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                  <section class="_135editor" data-color="#fde2d8" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                   <section class="_135editor" data-color="#fde2d8" style="max-width: 100%;font-family: -apple-system-font, BlinkMacSystemFont, Arial, sans-serif;font-size: 17px;letter-spacing: 0.544px;line-height: 27.2px;widows: 1;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                    <p>
+                     <br/>
+                    </p>
+                   </section>
+                   <section class="_135editor" data-color="#fde2d8" style="max-width: 100%;font-family: -apple-system-font, BlinkMacSystemFont, Arial, sans-serif;font-size: 17px;letter-spacing: 0.544px;line-height: 27.2px;widows: 1;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                    <section class="" style="margin-bottom: 10px;max-width: 100%;line-height: 0.8;">
+                     <section class="" style="max-width: 100%;width: 0px;display: inline-block;border-top: 0.8em solid rgb(253, 226, 216);border-left: 0.7em solid transparent !important;border-right: 0.7em solid transparent !important;box-sizing: border-box;">
+                     </section>
+                    </section>
+                   </section>
+                   <p>
+                    <strong style="font-size: 14px;caret-color: red;">
+                     2017-2018学年华东师范大学优秀学生干部
+                    </strong>
+                   </p>
+                   <p>
+                    <span style="font-size: 14px;">
+                     <strong>
+                      寿暖瑜
+                     </strong>
+                    </span>
+                   </p>
+                   <p>
+                    <br/>
+                   </p>
+                   <img class="" data-ratio="0.8020086083213773" data-type="jpeg" data-w="697" height="277" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ag3hrHODfXNHrGrHibibppA7RP57yA4jAqRWjUmLwOBcsRNLnUVicHFPjfQwaGH6GFzKxTtEnJAh0rA/640?wx_fmt=jpeg" style="width: 346px;height: 277px;" title="微信图片_20190119214117.jpg" width="346"/>
+                   <p>
+                    <br/>
+                   </p>
+                   <p style="text-align: justify;text-indent: 2em;">
+                    <span style="font-size: 14px;">
+                     寿暖瑜，2016级本科生。在学习方面，她学风严谨，认真勤奋，乐于思考，学习成绩一直位于班级前列；在科创项目方面，她勇于创新，参与了2018年度华东师范大学青年工作研究课题——当前大学校园流行文化现象与背后折射的青年思想动态研究以及华东师范大学本科生创新创业训练培育项目——基于轨迹数据的路内停车位推荐；在学生工作方面，她担任华东师范大学学生会新媒体中心副主任，担任数据科学与工程学院团委副书记以及2016级本科生团支部团支书，协助老师筹办了学院团委第一届团员大会，积极为同学们服务，开展一系列团务工作；在志愿服务方面，她不断增强自己的社会责任感，参与“重走复兴之路 · 传承伟大精神”暑期社会实践项目，并曾为全国青少年科技创新大赛提供志愿服务。
+                    </span>
+                   </p>
+                   <p style="text-align: justify;text-indent: 2em;">
+                    <br/>
+                   </p>
+                   <p style="text-align: justify;">
+                    <span style="font-size: 14px;">
+                     【TA 说】
+                    </span>
+                   </p>
+                   <p style="border-width: 0px;border-style: none;border-color: initial;text-align: justify;text-indent: 2em;">
+                    <span style="font-size: 14px;">
+                     在学生工作中，我很幸运可以为老师同学们做一些力所能及的事情，希望日后可以继续锻炼自己的能力，更好地为同学服务，为学院的发展贡献自己的一份力量。乔布斯曾说过，“stay hungry，stay foolish”，希望我们可以始终保持对知识的好奇心，对智慧的谦卑感，对未来的想象力，不忘初心，上下求索，砥砺前行！
+                    </span>
+                   </p>
+                   <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                    <p>
+                     <br/>
+                    </p>
+                   </section>
+                   <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                    <p>
+                     <br/>
+                    </p>
+                    <section class="_135editor" data-id="92792" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                     <section data-width="100%" style="width: 100%;">
+                      <section style="display: inline-block;">
+                       <section class="135brush" data-brushtype="text" style="padding-right: 50px;padding-left: 50px;color: rgb(235, 103, 148);font-weight: bold;box-sizing: border-box;">
+                        优秀学生
+                       </section>
+                       <section style="margin-top: -6px;height: 30px;">
+                        <section data-bgless="spin" data-bglessp="240" data-bgopacity="10%" style="width: 20px;height: 20px;border-radius: 100%;background: rgba(103, 147, 235, 0.9);opacity: 0.5;float: left;color: rgb(255, 255, 255);box-sizing: border-box;">
+                        </section>
+                        <section style="margin-top: 2px;margin-left: -10px;width: 15px;height: 15px;border-radius: 100%;background: rgb(235, 103, 148);opacity: 0.5;float: left;color: rgb(255, 255, 255);box-sizing: border-box;">
+                        </section>
+                        <section data-width="100%" style="margin-left: -42px;float: left;width: 100%;">
+                         <section style="padding-left: 23px;box-sizing: border-box;">
+                          <section style="margin-left: 20px;height: 11px;border-bottom: 1px dashed rgb(204, 204, 204);box-sizing: border-box;">
+                           <br/>
+                          </section>
+                         </section>
+                        </section>
+                       </section>
+                      </section>
+                     </section>
+                    </section>
+                    <p>
+                     <br/>
+                    </p>
+                   </section>
+                   <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                    <section class="_135editor" data-color="#fde2d8" style="max-width: 100%;font-family: -apple-system-font, BlinkMacSystemFont, Arial, sans-serif;font-size: 17px;letter-spacing: 0.544px;line-height: 27.2px;widows: 1;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                     <section class="" style="margin-bottom: 10px;max-width: 100%;line-height: 0.8;">
+                      <section class="" style="max-width: 100%;width: 0px;display: inline-block;border-top: 0.8em solid rgb(253, 226, 216);border-left: 0.7em solid transparent !important;border-right: 0.7em solid transparent !important;box-sizing: border-box;">
+                      </section>
+                     </section>
+                    </section>
+                    <section class="_135editor" data-color="#fde2d8" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                     <p>
+                      <strong>
+                       <span style="font-size: 14px;">
+                        2017-2018学年华东师范大学优秀学生获得者
+                       </span>
+                      </strong>
+                     </p>
+                     <p>
+                      <strong>
+                       <span style="font-size: 14px;">
+                        涂云山
+                       </span>
+                      </strong>
+                     </p>
+                     <p>
+                      <br/>
+                     </p>
+                     <img class="" data-ratio="1.3409090909090908" data-type="jpeg" data-w="264" height="471" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ag3hrHODfXNHrGrHibibppA7ovhESsJdD6R71OpqAYG07EicBvhIdibMT5MW2icYyFbEFo39o3rFzmXgA/640?wx_fmt=jpeg" style="width: 351px;height: 471px;" title="22.jpg" width="351"/>
+                     <p style="text-indent: 2em;">
+                      <br/>
+                     </p>
+                     <p style="text-indent: 28px;text-align: justify;">
+                      <span style="font-size: 14px;">
+                       涂云山，2016级硕士研究生，中共党员，研究方向为并行与分布式，主要包括在NVMe SSD、RDMA等新型硬件环境下，分布式数据存储软件研究与实现。从2016年6月份进入数据科学与工程学院学习至今，两年多的研究生生活，解决了一个个实际的应用难题，用自己的实际行动去践行“
+                       <span style="background: white;">
+                        做真正的研究，做有用的研究
+                       </span>
+                       ”的理念，这一路的经历和实践使得他不断成长，也使他明白真正研究是一件十分有意义的事情。在科研工作中，在翁楚良教授的悉心指导下，他积极参与并完成了单机和分布式存储原型系统的研发，FIR和PlutoX，优于MySQL、MyRocks、HBase、Ceph及Cassandra等系统2.1-17.3倍的性能提升，同时以第一作者身份发表了1篇综述性文章。在日常生活中，他关心集体、乐于助人，参与服务器管理工作，努力为其他同学构建更好的实验环境。
+                      </span>
+                     </p>
+                     <p style="text-indent: 28px;text-align: justify;">
+                      <span style="font-size: 14px;">
+                       <br/>
+                      </span>
+                     </p>
+                     <p style="text-align: justify;text-indent: 0em;">
+                      <span style="font-size: 14px;">
+                       【TA说】
+                      </span>
+                     </p>
+                     <p style="text-indent: 28px;text-align: justify;">
+                      <span style="font-size: 14px;">
+                       时间过得很快，一转眼，即将毕业，回想当初，自己能够加入数据科学与工程学院这个大家庭中，真的非常幸运。在这里，有浓厚的科学研究氛围，有知识渊博的优秀导师团队，有落于实地的研究项目，也有一群志同道合的同学们，与他们一起工作学习，使我获得了许多的锻炼机会和大量的前沿知识。在互联网和大数据带来的技术变革中，对我们数据相关专业的学生提出了更高的要求。在今后的工作学习中，我们应该以解决实际问题为导向，用信息技术手段解决现实中遇到的问题，争取成为一名合格的新时期IT人才。在数据科学的逐梦路上，愿我们都能策马奔腾，无悔向前，不负此生。
+                      </span>
+                     </p>
+                     <p style="text-indent: 2em;text-align: justify;">
+                      <br/>
+                     </p>
+                     <p>
+                      <br/>
+                     </p>
+                    </section>
+                    <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                     <p>
+                      <br/>
+                     </p>
+                    </section>
+                    <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                     <section class="_135editor" data-color="#fde2d8" style="max-width: 100%;font-family: -apple-system-font, BlinkMacSystemFont, Arial, sans-serif;font-size: 17px;letter-spacing: 0.544px;line-height: 27.2px;widows: 1;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                      <section class="" style="margin-bottom: 10px;max-width: 100%;line-height: 0.8;">
+                       <section class="" style="max-width: 100%;width: 0px;display: inline-block;border-top: 0.8em solid rgb(253, 226, 216);border-left: 0.7em solid transparent !important;border-right: 0.7em solid transparent !important;box-sizing: border-box;">
+                       </section>
+                      </section>
+                     </section>
+                     <section class="_135editor" data-color="#fde2d8" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                      <p>
+                       <strong>
+                        <span style="font-size: 14px;">
+                         2017-2018学年华东师范大学优秀学生获得者
+                        </span>
+                       </strong>
+                      </p>
+                      <p>
+                       <span style="font-size: 14px;">
+                        <strong>
+                         江一帆
+                        </strong>
+                       </span>
+                      </p>
+                      <p>
+                       <br/>
+                      </p>
+                      <img class="" data-ratio="0.6662817551963048" data-type="jpeg" data-w="866" height="471" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ag3hrHODfXNHrGrHibibppA7xksJmJrshNAlZo0TvDhdgaT77vyrtOicLABTkXtOIE8Oia6PwCya8QQA/640?wx_fmt=jpeg" style="height: 471px;" title="undefined" width="351"/>
+                      <p style="text-indent: 2em;">
+                       <br/>
+                      </p>
+                      <p style="text-align: justify;text-indent: 2em;">
+                       <span style="font-size: 14px;">
+                        江一帆，2016级本科生。在学习方面，她刻苦认真，获得国家奖学金、优秀学生奖学金。在科研竞赛方面，她带领团队参加上海市“气象+大数据“应用创新大赛，并获得二等奖；参加第二十届华东杯数学建模，获得一等奖；参与科创项目《基于Web的绘画工具（绘画时序数据采集）》以及《基于众源的迪士尼客源地的时空分析》。在学生和志愿服务方面，现任数据科学与工程学院学生会主席，曾任华东师范大学学生会参议会副主任，校友会基金会联合工作室主管，曾获优秀学生会干部，同时也是第八期中国100英才成员，并为第十八次上海合作组织成员国元首理事会、第三十一届全国青少年科技创新大赛提供了志愿服务。
+                       </span>
+                      </p>
+                      <p style="text-align: justify;text-indent: 2em;">
+                       <span style="font-size: 14px;">
+                        <br/>
+                       </span>
+                      </p>
+                      <p style="text-align: justify;text-indent: 0em;">
+                       <span style="font-size: 14px;">
+                        【TA说】
+                       </span>
+                      </p>
+                      <p style="text-align: justify;text-indent: 2em;">
+                       <span style="font-size: 14px;">
+                        转眼间来到数据学院这个大家庭已经一年多了，非常荣幸可以与这么多优秀的老师同学们在一起学习生活。在这过去的一年中我感受到了学院和老师们对同学很高的期望以及严格的要求，并且从身边的同学身上体会到了激情与创造力，这些都不断地激励着我向着更高的方向努力奋斗。
+                       </span>
+                      </p>
+                      <p style="text-align: justify;text-indent: 2em;">
+                       <br/>
+                      </p>
+                      <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                       <p>
+                        <br/>
+                       </p>
+                      </section>
+                      <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                       <section class="_135editor" data-color="#fde2d8" style="max-width: 100%;font-family: -apple-system-font, BlinkMacSystemFont, Arial, sans-serif;font-size: 17px;letter-spacing: 0.544px;line-height: 27.2px;widows: 1;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                        <section class="" style="margin-bottom: 10px;max-width: 100%;line-height: 0.8;">
+                         <section class="" style="max-width: 100%;width: 0px;display: inline-block;border-top: 0.8em solid rgb(253, 226, 216);border-left: 0.7em solid transparent !important;border-right: 0.7em solid transparent !important;box-sizing: border-box;">
+                         </section>
+                        </section>
+                       </section>
+                       <section class="_135editor" data-color="#fde2d8" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                        <p>
+                         <strong>
+                          <span style="font-size: 14px;">
+                           2017-2018学年华东师范大学优秀学生获得者
+                          </span>
+                         </strong>
+                        </p>
+                        <p>
+                         <span style="font-size: 14px;">
+                          <strong>
+                           郁思敏
+                          </strong>
+                         </span>
+                        </p>
+                        <p>
+                         <br/>
+                        </p>
+                        <img class="" data-ratio="1.3333333333333333" data-type="jpeg" data-w="900" height="471" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ag3hrHODfXNHrGrHibibppA7ia5nBr5LHXZLhWvLcdpQ5tgamJDp7gWaNEiaVUPoMpXOQ5CqibFmmzl3g/640?wx_fmt=jpeg" style="height: 471px;" title="undefined" width="351"/>
+                        <p style="text-indent: 2em;">
+                         <br/>
+                        </p>
+                        <p style="text-align: justify;text-indent: 2em;">
+                         <span style="font-size: 14px;">
+                          郁思敏，2016级本科生。她学风严谨、学业优良，曾获上海市奖学金、国家励志奖学金、优秀学生奖学金。她认为学习是学生的第一要务，除了课堂的学习外，自主探索感兴趣的领域可以让人更加坚定前进的方向，本学期申请了本科生创新创业项目“图计算系统中的乐观容错机制评价”。此外，她认为培养良好的学习习惯将使人受益终身。除了努力学习，她还参与了学院学生会的组建，现任学生会副主席。积极参与学院的各类活动，组织暑期社会实践“重走复兴之路•青年红色筑梦之旅”。此外，她主要负责了学院参与校运动会的相关事宜，在开幕式和团体项目中，学院都有着出色的表现。
+                         </span>
+                        </p>
+                        <p style="text-align: justify;text-indent: 2em;">
+                         <span style="font-size: 14px;">
+                          <br/>
+                         </span>
+                        </p>
+                        <p style="text-align: justify;text-indent: 0em;">
+                         <span style="font-size: 14px;text-indent: 2em;caret-color: red;">
+                          【TA说】
+                         </span>
+                        </p>
+                        <p style="text-align: justify;text-indent: 2em;">
+                         <span style="font-size: 14px;">
+                          转专业的这一年中，我感受到了一个新学院的新气象、新动力、新目标。我很幸运能够和一群对学科充满了憧憬的同学与老师一起学习与生活，在这个有着浓郁学术氛围的环境中，激发了我对数据科学的热情。这是一个热门的专业，同时也是一个高要求的专业，高要求不仅体现在老师对课程的严格要求，更在于学生对自己的严格要求。在这个技术日新月异飞速发展的时代，只有夯实学科基础，不断学习知识总结经验，才能更加坚定得向着自己的目标前进。
+                         </span>
+                        </p>
+                       </section>
+                      </section>
+                      <p style="text-align: justify;text-indent: 2em;">
+                       <br/>
+                      </p>
+                      <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                       <p>
+                        <br/>
+                       </p>
+                      </section>
+                      <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                       <section class="_135editor" data-color="#fde2d8" style="max-width: 100%;font-family: -apple-system-font, BlinkMacSystemFont, Arial, sans-serif;font-size: 17px;letter-spacing: 0.544px;line-height: 27.2px;widows: 1;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                        <section class="" style="margin-bottom: 10px;max-width: 100%;line-height: 0.8;">
+                         <section class="" style="max-width: 100%;width: 0px;display: inline-block;border-top: 0.8em solid rgb(253, 226, 216);border-left: 0.7em solid transparent !important;border-right: 0.7em solid transparent !important;box-sizing: border-box;">
+                         </section>
+                        </section>
+                       </section>
+                       <section class="_135editor" data-color="#fde2d8" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                        <p>
+                         <strong>
+                          <span style="font-size: 14px;">
+                           2017-2018学年华东师范大学优秀学生获得者
+                          </span>
+                         </strong>
+                        </p>
+                        <p>
+                         <span style="font-size: 14px;">
+                          <strong>
+                           杜云滔
+                          </strong>
+                         </span>
+                        </p>
+                        <p>
+                         <br/>
+                        </p>
+                        <img class="" data-ratio="1.1202600216684724" data-type="jpeg" data-w="923" height="471" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ag3hrHODfXNHrGrHibibppA7AjnLygMAHHU3YGzLNRiajGTe66MW8v9kB25Evu3xLF8ghlOEicNV7Qpw/640?wx_fmt=jpeg" style="height: 471px;" title="undefined" width="351"/>
+                        <p style="text-indent: 2em;">
+                         <br/>
+                        </p>
+                        <p style="text-align: justify;text-indent: 2em;">
+                         <span style="font-size: 14px;">
+                          杜云滔，2016级本科生。曾获全国挑战杯上海市二等奖，全国三等奖、主持国家级创新创业计划一项。进入数据学院以来，在毛嘉莉老师的指导下进行LBS方面的学习和研究工作。目前主持《基于轨迹数据的交叉路口识别》项目。
+                         </span>
+                        </p>
+                        <p style="text-align: justify;text-indent: 2em;">
+                         <br/>
+                        </p>
+                        <p style="text-align: justify;text-indent: 0em;">
+                         <span style="font-size: 14px;">
+                          【TA说】
+                         </span>
+                        </p>
+                        <p style="text-align: justify;text-indent: 2em;">
+                         <span style="font-size: 14px;">
+                          数据学院给了我们本科生很好的科研锻炼和学习机会，这样的机会实属难得。我一定抓住宝贵的本科学习时间，为以后的科研和工作夯实基础，为学院建设贡献自己的力量。
+                         </span>
+                        </p>
+                        <p style="text-align: justify;text-indent: 2em;">
+                         <br/>
+                        </p>
+                        <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                         <p>
+                          <br/>
+                         </p>
+                        </section>
+                        <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                         <section class="_135editor" data-color="#fde2d8" style="max-width: 100%;font-family: -apple-system-font, BlinkMacSystemFont, Arial, sans-serif;font-size: 17px;letter-spacing: 0.544px;line-height: 27.2px;widows: 1;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                          <section class="" style="margin-bottom: 10px;max-width: 100%;line-height: 0.8;">
+                           <section class="" style="max-width: 100%;width: 0px;display: inline-block;border-top: 0.8em solid rgb(253, 226, 216);border-left: 0.7em solid transparent !important;border-right: 0.7em solid transparent !important;box-sizing: border-box;">
+                           </section>
+                          </section>
+                         </section>
+                         <section class="_135editor" data-color="#fde2d8" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                          <p>
+                           <strong>
+                            <span style="font-size: 14px;">
+                             2017-2018学年华东师范大学优秀学生获得者
+                            </span>
+                           </strong>
+                          </p>
+                          <p>
+                           <span style="font-size: 14px;">
+                            <strong>
+                             韩思绮
+                            </strong>
+                           </span>
+                          </p>
+                          <p>
+                           <br/>
+                          </p>
+                          <img class="" data-ratio="1.2391681109185442" data-type="jpeg" data-w="577" height="471" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ag3hrHODfXNHrGrHibibppA7R8UJLtA5N2TCDx0Af8aDgtXY86ek9ZibUjUCZ5RqTicuWkbpjoOVpjibg/640?wx_fmt=jpeg" style="height: 471px;" title="undefined" width="351"/>
+                          <p style="text-indent: 2em;">
+                           <br/>
+                          </p>
+                         </section>
+                         <p style="text-align: justify;text-indent: 2em;">
+                          <span style="font-size: 14px;">
+                           韩思绮，2016级本科生。自转入学院就读以来，她一直保持均衡发展，稳步迈前。她在学习上态度端正，勤奋认真，成绩优良；思想方面，向党组织靠拢，通过努力获得组织认可，成为入党积极分子；科研实践方面，她参与了2018年度华东师范大学青年工作研究课题——当前大学校园流行文化现象与背后折射的青年思想动态研究，并在本学期申报了双创项目比赛，目前正在积极研究中；学生工作方面，她志愿投入院系团委学生会的建设工作，担任学生会主席团成员和第一届团委成员，策划多项活动，并在学院宣传组中任职，负责学院微信公众号的相关事务，为学院的多项工作贡献了力量；生活方面，她性格开朗，爱好广泛，始终保持着乐观的生活态度，向阳而生。
+                          </span>
+                         </p>
+                         <p style="text-align: justify;text-indent: 2em;">
+                          <br/>
+                         </p>
+                         <p style="text-align: justify;text-indent: 0em;">
+                          <span style="font-size: 14px;">
+                           【TA说】
+                          </span>
+                         </p>
+                         <p style="text-align: justify;text-indent: 2em;">
+                          <span style="font-size: 14px;">
+                           十分幸运能来到数据学院，在这里我感受到很多，也想感谢很多。在当今时代的大数据变革的潮流中，数据学院的创立是坚持求变求新，抓住历史机遇的结果；而很高兴我也抓住了这样一个机遇，加入了数据学院大家庭。一切都是全新的，无论是个人的培养，还是学院的发展，都像朝阳一般初生且充满未知。经过一年的学习生活，我的各方面能力都得到了锻炼和提升，我感受到实践动手的乐趣，感受到自学探索的意义，感受到知识与创新的魅力，感受到自我管理的重要，感受到从零开始丰富学院的不易。感谢老师们的辛劳付出与悉心教导，感谢学长学姐们的热心帮助和经验传授，感谢同学们的互相支撑和鼓励，更感谢学院给予我们的支持。在今后的学习生活中，我一定会更加努力，坚持不懈，保持热情，与学院共同进步。
+                          </span>
+                         </p>
+                        </section>
+                        <p style="text-align: justify;text-indent: 2em;">
+                         <br/>
+                        </p>
+                        <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                         <p>
+                          <br/>
+                         </p>
+                        </section>
+                        <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                         <section class="_135editor" data-color="#fde2d8" style="max-width: 100%;font-family: -apple-system-font, BlinkMacSystemFont, Arial, sans-serif;font-size: 17px;letter-spacing: 0.544px;line-height: 27.2px;widows: 1;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                          <section class="" style="margin-bottom: 10px;max-width: 100%;line-height: 0.8;">
+                           <section class="" style="max-width: 100%;width: 0px;display: inline-block;border-top: 0.8em solid rgb(253, 226, 216);border-left: 0.7em solid transparent !important;border-right: 0.7em solid transparent !important;box-sizing: border-box;">
+                           </section>
+                          </section>
+                         </section>
+                         <section class="_135editor" data-color="#fde2d8" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                          <p>
+                           <strong>
+                            <span style="font-size: 14px;">
+                             2017-2018学年华东师范大学优秀学生获得者
+                            </span>
+                           </strong>
+                          </p>
+                          <p>
+                           <span style="font-size: 14px;">
+                            <strong>
+                             瞿璐祎
+                            </strong>
+                           </span>
+                          </p>
+                          <p>
+                           <br/>
+                          </p>
+                          <img class="" data-ratio="0.7494226327944573" data-type="jpeg" data-w="866" height="471" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ag3hrHODfXNHrGrHibibppA7SetBK1uhNgfs2EcvsQqu1RWHYxfnxvS5tsfVj89qjlFhtgbRSC6ibdA/640?wx_fmt=jpeg" style="height: 471px;" title="undefined" width="351"/>
+                          <p style="text-indent: 2em;">
+                           <br/>
+                          </p>
+                          <p style="text-align: justify;text-indent: 2em;">
+                           <span style="font-size: 14px;">
+                            瞿璐祎，2016级本科生。入学以来，她始终保持着积极向上的心态，时时以较高的标准要求自己，用心地规划并实践自己的大学生涯。在学生工作方面，认真负责，有较好的组织能力，始终以“服务同学”为宗旨。她现在是学院学生会主席团的一员，在这期间，工作踏实，责任心强，多次开展和参加丰富多彩的学院活动。在思想方面，她热爱祖国，热爱人民，作为一名入党积极分子，她积极参加与党相关的活动，学习关于党一切的知识和思想，不断地要求自己向党组织靠拢。在科研实践方面，她暑期参与了2018年度华东师范大学青年工作研究课题——当前大学校园流行文化现象与背后折射的青年思想动态研究；她妥善地处理好学习、工作和生活之间的关系，刻苦学习，努力进取，微笑应对生活，在德智体美等方面都努力做到全面发展。
+                           </span>
+                          </p>
+                          <p style="text-align: justify;text-indent: 2em;">
+                           <span style="font-size: 14px;">
+                            <br/>
+                           </span>
+                          </p>
+                          <p style="text-align: justify;text-indent: 0em;">
+                           <span style="font-size: 14px;">
+                            【TA说】
+                           </span>
+                          </p>
+                          <p style="text-align: justify;text-indent: 2em;">
+                           <span style="font-size: 14px;">
+                            如今，由计算机技术推动的科技发展正在引发这个世界的深刻变革，互联网和大数据是这场变革的驱动力。对于能够加入在时代潮流中脱颖而出的数据科学与工程学院，我感到非常幸运。在过去的一年中，我收获了很多理论知识，得到了很多锻炼的机会。非常感谢知识渊博的老师寄予我们的指导，以及耐心的学姐学长传授给我们的经验。非常感谢数据学院这个平台，让我得到了历练和提升。在今后的学习和工作中，我会继续孜孜不倦的学习和实践，改进之前的学习方法和吸取之前的经验教训。所谓“不忘初心，方得始终”，我会以更坚定的信念去追逐自己的梦想，努力拼搏，继续前行！
+                           </span>
+                          </p>
+                         </section>
+                        </section>
+                        <p style="text-align: justify;text-indent: 2em;">
+                         <br/>
+                        </p>
+                       </section>
+                      </section>
+                     </section>
+                    </section>
+                    <p>
+                     <br/>
+                    </p>
+                    <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                     <section class="_135editor" data-color="#fde2d8" data-id="47131" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                      <section class="layout" style="margin: 10px 3px;">
+                       <section data-width="100%" style="line-height: 10px;border-width: 1px;border-style: solid;border-color: rgb(253, 226, 216);display: inline-block;width: 100%;box-sizing: border-box;">
+                        <section style="margin-top: -8px;margin-bottom: -8px;height: 8px;text-align: left;">
+                         <section style="color: rgb(204, 63, 10);margin-right: auto;margin-bottom: -2px;margin-left: -4px;border-radius: 100%;line-height: 1;text-decoration: inherit;border-color: rgb(253, 226, 216);display: inline-block;height: 8px;width: 8px;background-color: rgb(253, 226, 216);box-sizing: border-box;">
+                         </section>
+                         <section style="color: rgb(204, 63, 10);margin: 4px -4px -4px;border-radius: 100%;line-height: 1;text-decoration: inherit;border-color: rgb(253, 226, 216);display: inline-block;height: 8px;width: 8px;float: right;background-color: rgb(253, 226, 216);box-sizing: border-box;">
+                         </section>
+                         <section class="135brush" data-style="text-indent: 2em;" style="margin: 10px;padding: 5px;line-height: 2em;font-size: 14px;box-sizing: border-box;">
+                          <section class="_135editor" data-id="94137" data-tools="135编辑器" style="text-align: center;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                           <section>
+                            <section style="margin-right: auto;margin-left: auto;width: 3.4em;">
+                             <img class="" data-ratio="0.9071428571428571" data-type="gif" data-w="140" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_gif/LWU2lqYH88ag3hrHODfXNHrGrHibibppA7ouVaHm7k6SYhv7l7avzODGTbdsdSeS9SGiaqBfHGjnrwCpjn6vsvTzA/640?wx_fmt=gif" style="width: 100%;display: block;"/>
+                            </section>
+                           </section>
+                          </section>
+                          <p style="text-align: center;">
+                           <br/>
+                          </p>
+                          <p style="text-align: center;">
+                           这9位同学
+                           <span style="caret-color: red;">
+                            为我们展现了数据学院学生的
+                           </span>
+                          </p>
+                          <p style="text-align: center;">
+                           <span style="color:#ff6827;">
+                            优秀品质
+                           </span>
+                           和
+                           <span style="color: #ff6827;">
+                            独特魅力
+                           </span>
+                          </p>
+                          <p style="text-align: center;">
+                           相信在他们的榜样作用下
+                          </p>
+                          <p style="text-align: center;line-height: 2em;">
+                           我院学子定当更加
+                           <span style="color: #ff6827;">
+                            笃学明志，开拓创新
+                           </span>
+                          </p>
+                          <p style="text-align: center;line-height: 2em;">
+                           书写属于自己的传奇
+                          </p>
+                         </section>
+                         <section style="color: rgb(204, 63, 10);margin-right: auto;margin-bottom: -2px;margin-left: -4px;border-radius: 100%;line-height: 1;text-decoration: inherit;border-color: rgb(253, 226, 216);display: inline-block;height: 8px;width: 8px;background-color: rgb(253, 226, 216);box-sizing: border-box;">
+                         </section>
+                         <section style="color: rgb(204, 63, 10);margin: 6px -4px -4px;border-radius: 100%;line-height: 1;text-decoration: inherit;border-color: rgb(253, 226, 216);display: inline-block;height: 8px;width: 8px;float: right;background-color: rgb(253, 226, 216);box-sizing: border-box;">
+                         </section>
+                        </section>
+                       </section>
+                      </section>
+                     </section>
+                     <p>
+                      <br/>
+                     </p>
+                    </section>
+                   </section>
+                  </section>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+            <p style="text-indent: 2em;text-align: right;">
+             <br/>
+            </p>
+            <p style="text-indent: 2em;text-align: right;">
+             <span style="font-size: 12px;">
+              排版 | 寿暖瑜
+             </span>
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section data-role="outer" label="Powered by 135editor.com" style="font-size: 16px;white-space: normal;font-family: 微软雅黑;">
+   <section class="_135editor" data-id="93435" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section>
+     <section style="padding-right: 15px;padding-left: 15px;box-sizing: border-box;">
+      <section style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+       <section style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+        <p style="text-align: right;">
+         <br/>
+        </p>
+       </section>
+       <section style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+        <p>
+         <br/>
+        </p>
+        <section class="" data-role="paragraph" style="max-width: 100%;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <section class="" data-role="paragraph" style="max-width: 100%;color: rgb(63, 62, 63);letter-spacing: 2px;text-align: center;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+          <section class="" style='max-width: 100%;width: 8em;height: 8em;display: inline-block;vertical-align: bottom;border-radius: 100%;border-width: 2px;border-style: solid;border-color: rgb(166, 91, 203);box-shadow: rgb(204, 204, 204) 0.707107px 0.707107px 2px;background-image: url("https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88b8D7qsCicE5cJfCqpTD7sz0RXBj1UmAibMm9TicJAVUfgvKK6ga6IXVYic5EUuSk6T5Oy4ftsZoUGrfg/640?wx_fmt=jpeg");background-size: cover;background-position: 50% 50%;background-repeat: no-repeat;box-sizing: border-box;'>
+           <section class="" style="max-width: 100%;width: 124px;height: 124px;overflow: hidden;">
+            <strong style="max-width: 100%;">
+             <img class="" data-ratio="1.0020449897750512" data-type="jpeg" data-w="489" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88b8D7qsCicE5cJfCqpTD7sz0RXBj1UmAibMm9TicJAVUfgvKK6ga6IXVYic5EUuSk6T5Oy4ftsZoUGrfg/640?wx_fmt=jpeg" style="opacity: 0;width: 124px !important;visibility: visible !important;" width="100%"/>
+            </strong>
+           </section>
+          </section>
+          <p style="max-width: 100%;min-height: 1em;">
+           <br/>
+          </p>
+          <section class="" style="margin-top: -4em;padding: 4em 15px 10px;max-width: 100%;border-width: 1px;border-style: solid;border-color: rgb(166, 91, 203);border-radius: 16px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <section class="" style="max-width: 100%;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+            <section class="" style="max-width: 100%;">
+             <section class="" style="max-width: 100%;">
+              <p style="max-width: 100%;min-height: 1em;">
+               华东师范大学数据科学与工程学院
+              </p>
+             </section>
+            </section>
+           </section>
+           <section class="" style="max-width: 100%;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+            <section class="" style="padding-top: 0.5em;padding-bottom: 0.5em;max-width: 100%;box-sizing: border-box;">
+             <section class="" style="max-width: 100%;height: 1px;background-color: rgb(166, 91, 203);">
+             </section>
+            </section>
+           </section>
+           <section class="" style="max-width: 100%;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+            <section class="" style="margin: auto;padding-top: 10px;max-width: 100%;width: 223.188px;box-sizing: border-box;">
+             <img class="" data-ratio="1" data-type="jpeg" data-w="258" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88b8D7qsCicE5cJfCqpTD7sz00pzHG9tR7HlDItCVyfNL5FMqYzI9tW829icQ8jAIpOFNmLyZtppr8icA/640?wx_fmt=jpeg" style="vertical-align: middle;width: 258px !important;visibility: visible !important;"/>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>

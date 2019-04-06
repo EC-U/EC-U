@@ -1,0 +1,60 @@
+
+ <p style="margin: 0px 0px 10px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;clear: both;min-height: 1em;color: rgb(51, 51, 51);font-family: -apple-system-font, BlinkMacSystemFont, 'Helvetica Neue', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei UI', 'Microsoft YaHei', Arial, sans-serif;font-size: 17px;font-style: normal;font-variant: normal;font-weight: normal;letter-spacing: 0.544000029563904px;orphans: auto;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 1;word-spacing: 0px;-webkit-text-stroke-width: 0px;line-height: normal;background-color: rgb(255, 255, 255);">
+  <img data-backh="744" data-backw="558" data-before-oversubscription-url="https://mmbiz.qpic.cn/mmbiz_jpg/WBOQibbHQZLO1BQHPQrHRoYh2asKTZiaAOTZPr6eM3OG3TuWqNia1I6DX7lHHym4icTaIqibibicOPuK9xGNqSutkhibbw/0?wx_fmt=jpeg" data-copyright="0" data-cropselx1="0" data-cropselx2="558" data-cropsely1="0" data-cropsely2="419" data-ratio="1.3333333333333333" data-s="300,640" data-type="jpeg" data-w="960" src="https://mmbiz.qpic.cn/mmbiz_jpg/WBOQibbHQZLO1BQHPQrHRoYh2asKTZiaAOTZPr6eM3OG3TuWqNia1I6DX7lHHym4icTaIqibibicOPuK9xGNqSutkhibbw/640?wx_fmt=jpeg" style="margin: 0px;padding: 0px;height: auto !important;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;width: 592px;visibility: visible !important;"/>
+  <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;letter-spacing: 2px;color: rgb(136, 136, 136);font-size: 14px;">
+   <em style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;font-style: italic;">
+    主讲人：
+   </em>
+  </span>
+  <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;letter-spacing: 2px;color: rgb(136, 136, 136);font-size: 14px;">
+   <em style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;font-style: italic;">
+    姚南强
+   </em>
+  </span>
+ </p>
+ <p style="margin: 0px 0px 15px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;clear: both;min-height: 1em;color: rgb(51, 51, 51);font-family: -apple-system-font, BlinkMacSystemFont, 'Helvetica Neue', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei UI', 'Microsoft YaHei', Arial, sans-serif;font-size: 17px;font-style: normal;font-variant: normal;font-weight: normal;letter-spacing: 0.544000029563904px;orphans: auto;text-align: justify;text-transform: none;white-space: normal;widows: 1;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-indent: 32px;line-height: 27px;background-color: rgb(255, 255, 255);">
+  <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;letter-spacing: 1px;font-size: 16px;background: none 0% 0% repeat scroll white;">
+   2018年10月17日晚，华东师范大学姚南强教授于
+   <span break-word="break-word" gb="gb" helvetica="helvetica" justify="justify" neue="neue" none="none" normal="normal" px="px" sans="sans" sc="sc" style="display: inline !important;float: none;background-color: rgb(255, 255, 255);color: rgb(51, 51, 51);" ui="ui" yahei="yahei">
+    北大因明论坛
+   </span>
+  </span>
+  <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;letter-spacing: 1px;font-size: 16px;background: none 0% 0% repeat scroll white;">
+   做了题为《汉传因明的传承与研究》的报告。北京大学哲学系李四龙教授、周学农副教授、中国人民大学哲学学院杨武金教授和来自北京大学、中国人民大学、中央民族大学的硕博生以及清华大学因明读书班成员参加了此次讲座。讲座由北京大学中国社会与发展研究中心王勇研究员主持。
+  </span>
+  <br/>
+ </p>
+ <p style="margin: 0px 0px 15px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;clear: both;min-height: 1em;color: rgb(51, 51, 51);font-family: -apple-system-font, BlinkMacSystemFont, 'Helvetica Neue', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei UI', 'Microsoft YaHei', Arial, sans-serif;font-size: 17px;font-style: normal;font-variant: normal;font-weight: normal;letter-spacing: 0.544000029563904px;orphans: auto;text-align: justify;text-transform: none;white-space: normal;widows: 1;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-indent: 32px;line-height: 27px;background-color: rgb(255, 255, 255);">
+  <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;letter-spacing: 1px;font-size: 16px;background: none 0% 0% repeat scroll white;">
+   姚南强老师在讲座伊始先简明扼要地说明了在北京大学与因明学的渊源，高度评价了北京大学的因明论坛系列讲座。整个讲座主要分为两个部分，第一部分是“汉传因明的创立和传承”，第二部分是“对当前汉传因明研究中的几个问题的思考”。
+  </span>
+  <br style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+ </p>
+ <p style="margin: 0px 0px 10px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;clear: both;min-height: 1em;color: rgb(51, 51, 51);font-family: -apple-system-font, BlinkMacSystemFont, 'Helvetica Neue', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei UI', 'Microsoft YaHei', Arial, sans-serif;font-size: 17px;font-style: normal;font-variant: normal;font-weight: normal;letter-spacing: 0.544000029563904px;orphans: auto;text-align: justify;text-transform: none;white-space: normal;widows: 1;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-indent: 32px;line-height: 27px;background-color: rgb(255, 255, 255);">
+  <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;letter-spacing: 1px;font-size: 16px;background: none 0% 0% repeat scroll white;">
+   在第一部分中，姚老师开篇就指出因明的传入共有三次。首次是公元421年昙无谶译出的《大般涅槃经》第十七卷中已用古因明来破斥外道；在此后的两百年间，陆续有与因明相关的经论被译出。虽然学界对此次传入是否成立存在质疑，但姚老师指出就其影响了《文心雕龙》而言，不应当被抹杀。第二次是玄奘的译传，在其所译的1230部佛经中，其中就包括了著名的《正理门论》、《因明入正理论》。在玄奘的译传下，汉地兴起了一阵传习因明学的高潮，开创了汉传因明传统。第三次就是在赤松德赞在位期间，因明传入藏地，开创了藏传因明的传统。姚老师对第二次的译介进行了较为详细的介绍，指出对汉传因明的传统的研究应当从汉地的“唐因明”、朝鲜因明和日本因明三个角度同时展开，才是完整的。尤其是因明在公元8世纪传入日本后，日本的因明传统持续了1300多年，且大多数时间都是比较兴盛的。主讲人在简单介绍了唐代、宋代、明代的因明学后，将讲述重点放到了晚清和民国的汉传因明复兴之上。经过杨文会、宋恕、章太炎的努力之后，民国的因明学呈现出了一幅欣欣向荣之势，僧界采用传统的经典注疏方法、俗界则侧重于逻辑义理分析，两种研究范式同时展开，在竞相推动因明学走向繁盛。
+  </span>
+ </p>
+ <p style="margin: 0px 0px 10px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;clear: both;min-height: 1em;color: rgb(51, 51, 51);font-family: -apple-system-font, BlinkMacSystemFont, 'Helvetica Neue', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei UI', 'Microsoft YaHei', Arial, sans-serif;font-size: 17px;font-style: normal;font-variant: normal;font-weight: normal;letter-spacing: 0.544000029563904px;orphans: auto;text-align: justify;text-transform: none;white-space: normal;widows: 1;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-indent: 32px;line-height: 27px;background-color: rgb(255, 255, 255);">
+  <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;letter-spacing: 1px;font-size: 16px;background: none 0% 0% repeat scroll white;">
+   在第二部分中主讲人紧扣三个角度对当前汉传因明研究中，面临的一些问题进行了说明。首先是汉传因明的经典与文献。相对于藏传因明而言，传统汉传因明研究的文本主要典籍是两论一疏，即陈那的《因明正理门论》、天主的《因明⼊正理论》及窥基的《因明⼊论疏》。然而，在汉文的佛教文献群中，涉及了因明的文献远远不止于此，龙树的《方便心论》、《回诤论》，世亲的《如实论》、《如实论疏》，无著的《瑜伽师地论》、《显扬圣教论》等等当中都有因明思想，值得深入挖掘。在后续的汉传因明学当中，明代、民国值得关注，由沈剑英先生主编的《民国因明研究文献丛刊》中收录了民国时期出版的60余种因明文献，是研究民国因明的重要文献资料。其次是应当开展对汉传因明知识论的研究。关于是使用“因明”还是使用“量论”，汉藏学者之间存在一些分歧，其背后的原因是是汉传因明是以论辩逻辑为主，与藏传因明以知识论为主。其实汉传因明也包含着丰富的量学（知识论）思想，不过长期以来缺乏专题研究。汉传因明的知识论最大的特点在于其基本上属于纯粹的唯识学范畴，甚至可以称为唯识量论。玄奘作为汉传因明史上里程碑式的人物，其《成唯识论》当中蕴藏着极为丰富的量学思想，其弟子慧沼的《二量章》更是汉传因明知识论的代表作。主讲人随后紧扣唯识学的“八识”、 “四分”、“二量”等八个（组）核心概念简明扼要地阐释了唯识的量学思想。最后，主讲人强调应当更加重视日本的汉传因明学。因明在传入日本后，在长达一千三百多年的过程中几乎始终不断。主讲人主编的《因明辞典》中就收录了日本汉传因明400 多部，有名可查的作者175 ⼈；据武邑尚邦的《中国和日本的因明学者及其著作一览》考证，现存尚有151 种，可见文献体量非常庞大。日本的因明著述都是以唐因明著述为依据，对汉传因明进行了系统的阐发，可以说是汉传因明发展上的又一高峰。
+  </span>
+ </p>
+ <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;clear: both;min-height: 1em;color: rgb(51, 51, 51);font-family: -apple-system-font, BlinkMacSystemFont, 'Helvetica Neue', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei UI', 'Microsoft YaHei', Arial, sans-serif;font-size: 17px;font-style: normal;font-variant: normal;font-weight: normal;letter-spacing: 0.544000029563904px;orphans: auto;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 1;word-spacing: 0px;-webkit-text-stroke-width: 0px;line-height: normal;background-color: rgb(255, 255, 255);">
+  <img data-backh="419" data-backw="558" data-before-oversubscription-url="https://mmbiz.qpic.cn/mmbiz_jpg/WBOQibbHQZLO1BQHPQrHRoYh2asKTZiaAOPxN5q2XxIUQAIOPGWmK0xLibgBkFoiaxTslPHvyUYMOOLrTSNhBBGuoA/0?wx_fmt=jpeg" data-copyright="0" data-cropselx1="0" data-cropselx2="558" data-cropsely1="0" data-cropsely2="419" data-ratio="0.75" data-s="300,640" data-type="jpeg" data-w="1280" src="https://mmbiz.qpic.cn/mmbiz_jpg/WBOQibbHQZLO1BQHPQrHRoYh2asKTZiaAOPxN5q2XxIUQAIOPGWmK0xLibgBkFoiaxTslPHvyUYMOOLrTSNhBBGuoA/640?wx_fmt=jpeg" style="margin: 0px;padding: 0px;height: auto !important;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;width: 592px;visibility: visible !important;"/>
+ </p>
+ <p style="margin: 0px 0px 10px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;clear: both;min-height: 1em;color: rgb(51, 51, 51);font-family: -apple-system-font, BlinkMacSystemFont, 'Helvetica Neue', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei UI', 'Microsoft YaHei', Arial, sans-serif;font-size: 17px;font-style: normal;font-variant: normal;font-weight: normal;letter-spacing: 0.544000029563904px;orphans: auto;text-align: justify;text-indent: 0em;text-transform: none;white-space: normal;widows: 1;word-spacing: 0px;-webkit-text-stroke-width: 0px;line-height: 27px;background-color: rgb(255, 255, 255);">
+  <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;letter-spacing: 2px;color: rgb(136, 136, 136);font-size: 14px;">
+   <em style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;font-style: italic;">
+    讲座现场
+   </em>
+  </span>
+ </p>
+ <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;clear: both;min-height: 1em;color: rgb(51, 51, 51);font-family: -apple-system-font, BlinkMacSystemFont, 'Helvetica Neue', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei UI', 'Microsoft YaHei', Arial, sans-serif;font-size: 17px;font-style: normal;font-variant: normal;font-weight: normal;letter-spacing: 0.544000029563904px;orphans: auto;text-align: justify;text-transform: none;white-space: normal;widows: 1;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-indent: 32px;line-height: 27px;background-color: rgb(255, 255, 255);">
+  <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;letter-spacing: 1px;font-size: 16px;background: none 0% 0% repeat scroll white;">
+   评议人李四龙教授指出姚教授的讲座材料很充分，听众得以对汉传因明的整个发展历程有了清晰完整的认识。在介绍民国因明和日本因明的介绍时，主讲人通过非常翔实的文献材料客观地论证了这两者的重要性。在讲座的提问环节，来自北京大学、中央民族的大学的听众们纷纷提问，姚老师耐心地解答了同学们的疑问，整个讲座在热烈的气氛中圆满结束。
+  </span>
+ </p>
+ <p>
+  <br/>
+ </p>

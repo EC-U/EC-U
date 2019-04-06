@@ -1,0 +1,245 @@
+
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 20px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;border: 1px solid rgb(62, 62, 62);border-top-left-radius: 0px;border-bottom-right-radius: 0px;border-bottom-left-radius: 0px;border-top-right-radius: 0px;padding: 10px 10px 0px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: -26px 0% 8px;text-align: center;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;box-sizing: border-box;">
+        <section style="margin-right: 10px;height: 2em;border-right-width: 1em;border-right-style: solid;border-right-color: rgb(149, 216, 247);border-top-width: 1em !important;border-top-style: solid !important;border-top-color: transparent !important;border-bottom-width: 1em !important;border-bottom-style: solid !important;border-bottom-color: transparent !important;box-sizing: border-box;">
+        </section>
+        <section style="margin-right: 7px;margin-top: -2em;height: 2em;border-right-width: 1em;border-right-style: solid;border-right-color: rgb(255, 255, 255);border-top-width: 1em !important;border-top-style: solid !important;border-top-color: transparent !important;border-bottom-width: 1em !important;border-bottom-style: solid !important;border-bottom-color: transparent !important;box-sizing: border-box;">
+        </section>
+        <section style="margin-top: -2em;height: 2em;border-right-width: 1em;border-right-style: solid;border-right-color: rgb(149, 216, 247);border-top-width: 1em !important;border-top-style: solid !important;border-top-color: transparent !important;border-bottom-width: 1em !important;border-bottom-style: solid !important;border-bottom-color: transparent !important;box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: top;height: 2em;line-height: 2em;background-color: rgb(149, 216, 247);color: rgb(255, 255, 255);letter-spacing: 1.5px;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         青年学术沙龙预告
+        </p>
+       </section>
+       <section style="display: inline-block;vertical-align: top;box-sizing: border-box;">
+        <section style="margin-left: 10px;height: 2em;width: 1em;border-left-width: 1em;border-left-style: solid;border-left-color: rgb(149, 216, 247);border-top-width: 1em !important;border-top-style: solid !important;border-top-color: transparent !important;border-bottom-width: 1em !important;border-bottom-style: solid !important;border-bottom-color: transparent !important;box-sizing: border-box;">
+        </section>
+        <section style="margin: -2em -8px 0px 7px;height: 2em;width: 1em;border-left-width: 1em;border-left-style: solid;border-left-color: rgb(255, 255, 255);border-top-width: 1em !important;border-top-style: solid !important;border-top-color: transparent !important;border-bottom-width: 1em !important;border-bottom-style: solid !important;border-bottom-color: transparent !important;box-sizing: border-box;">
+        </section>
+        <section style="margin-top: -2em;height: 2em;width: 1em;border-left-width: 1em;border-left-style: solid;border-left-color: rgb(149, 216, 247);border-top-width: 1em !important;border-top-style: solid !important;border-top-color: transparent !important;border-bottom-width: 1em !important;border-bottom-style: solid !important;border-bottom-color: transparent !important;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;box-sizing: border-box;">
+       <section style='display: inline-block;width: 100%;vertical-align: top;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/gxxKmU8YcChJzwNRZwdE9DHYsg7o4qJ601ic28HIagbe63rk3zGLMdXMjwOfhRichlNtibzdqBae1qEic2yicteBpZg/640?wx_fmt=png?x-oss-process=style/xmwebp");background-size: 99.6088%;background-attachment: scroll;letter-spacing: 0px;padding: 15px;box-sizing: border-box;background-position: 0% 0%;background-repeat: repeat repeat;'>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: center;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             题目
+            </strong>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            注意与知觉视角性特征
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             时间
+            </strong>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            2019年3月1日（周五）
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            下午3：15—5：15
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             地点
+            </strong>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            华东师范大学闵行校区
+            <span style="letter-spacing: 0px;box-sizing: border-box;">
+             人文沙龙
+            </span>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <span style="letter-spacing: 0px;box-sizing: border-box;">
+             冯契学术成就陈列室
+            </span>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             报告人
+            </strong>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <span style="box-sizing: border-box;">
+             孙骞谦
+            </span>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            中央美术学院人文学院
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             主持人
+            </strong>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            郁锋
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            华东师范大学哲学系
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             评议人
+            </strong>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            王球
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            上海交通大学科学史与科学文化研究院
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            李主斌
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            上海交通大学马克思主义学院
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            武云
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            上海交通大学人文学院
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            何静
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            华东师范大学哲学系
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            徐竹
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            华东师范大学哲学系
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             主办
+            </strong>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            华东师范大学哲学系
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            上海中西哲学与文化比较研究会
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            华东师范大学学报（哲学社会科学版）编辑部
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="height: auto;box-sizing: border-box;">
+         <section style="width: 100%;height: 100%;padding-top: 10px;padding-bottom: 10px;text-align: center;box-sizing: border-box;">
+          <section style="display: inline-block;vertical-align: middle;height: 0.7em;margin-right: 3px;width: 2px;background-color: rgb(105, 143, 187);box-sizing: border-box;">
+          </section>
+          <section style="display: inline-block;vertical-align: middle;height: 1.35em;margin-right: 3px;width: 4px;background-color: rgb(105, 143, 187);box-sizing: border-box;">
+          </section>
+          <section style="display: inline-block;vertical-align: middle;height: 2em;line-height: 2em;background-color: rgb(105, 143, 187);padding-left: 8px;padding-right: 8px;color: rgb(255, 255, 255);box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            报告人简介
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+          <section style="display: inline-block;vertical-align: middle;height: 1.35em;margin-left: 3px;width: 4px;background-color: rgb(105, 143, 187);box-sizing: border-box;">
+          </section>
+          <section style="display: inline-block;vertical-align: middle;height: 0.7em;margin-left: 3px;width: 2px;background-color: rgb(105, 143, 187);box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 10px 0%;box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;padding: 15px;border: 1px solid rgb(255, 255, 255);border-top-left-radius: 0px;border-bottom-right-radius: 0px;border-bottom-left-radius: 0px;border-top-right-radius: 0px;background-image: url(https://mmbiz.qpic.cn/mmbiz_gif/3A6VUibiakicoKFf3iajQacziayv1ckMVK9tqmWAe7rBm92EPkV5LR3Eic2ibpGKnI5GVIZ0xTEt4OHibgCrdMbYxIYcUQ/640?wx_fmt=gif);background-size: 107.589%;background-attachment: scroll;box-sizing: border-box;background-position: 75.0303% 15.3758%;background-repeat: repeat repeat;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="text-align: justify;font-size: 15px;color: rgb(110, 110, 110);box-sizing: border-box;">
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               孙骞谦，北京大学哲学博士，中山大学逻辑与认知研究所博士后，现任中央美术学院人文学院讲师。主要研究领域为心灵哲学与认知科学哲学。现阶段的主要研究兴趣聚焦于知觉与行动，预测心智传统下的认知架构问题，以及基于内在模型的认知基本单元三个方向。
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="height: auto;box-sizing: border-box;">
+         <section style="width: 100%;height: 100%;padding-top: 10px;padding-bottom: 10px;text-align: center;box-sizing: border-box;">
+          <section style="display: inline-block;vertical-align: middle;height: 0.7em;margin-right: 3px;width: 2px;background-color: rgb(105, 143, 187);box-sizing: border-box;">
+          </section>
+          <section style="display: inline-block;vertical-align: middle;height: 1.35em;margin-right: 3px;width: 4px;background-color: rgb(105, 143, 187);box-sizing: border-box;">
+          </section>
+          <section style="display: inline-block;vertical-align: middle;height: 2em;line-height: 2em;background-color: rgb(105, 143, 187);padding-left: 8px;padding-right: 8px;color: rgb(255, 255, 255);box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            内容简介
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+          <section style="display: inline-block;vertical-align: middle;height: 1.35em;margin-left: 3px;width: 4px;background-color: rgb(105, 143, 187);box-sizing: border-box;">
+          </section>
+          <section style="display: inline-block;vertical-align: middle;height: 0.7em;margin-left: 3px;width: 2px;background-color: rgb(105, 143, 187);box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 10px 0%;box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;padding: 15px;border: 1px solid rgb(255, 255, 255);border-top-left-radius: 0px;border-bottom-right-radius: 0px;border-bottom-left-radius: 0px;border-top-right-radius: 0px;background-image: url(https://mmbiz.qpic.cn/mmbiz_gif/3A6VUibiakicoKFf3iajQacziayv1ckMVK9tqmWAe7rBm92EPkV5LR3Eic2ibpGKnI5GVIZ0xTEt4OHibgCrdMbYxIYcUQ/640?wx_fmt=gif);background-size: 107.589%;background-attachment: scroll;box-sizing: border-box;background-position: 75.0303% 15.3758%;background-repeat: repeat repeat;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="text-align: justify;font-size: 15px;color: rgb(110, 110, 110);box-sizing: border-box;">
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               知觉本质上具有一种视角性特征。特定的知觉视角下，事物呈现为特定的外观（looks）或显现（appearance）。表征论者试图将这种基于视角性的外观呈现定位于知觉的表征内容，主要方案包括视觉角度、投射性与结构化三种进路。然而这三种方案各有其缺陷。通过对于视角性呈现的现象特征的进一步分析，本人尝试提出基于注意的建构性进路，作为说明外观呈现的替代性方案。具言之，事物外观的呈现具有隐式与显性两种样态：隐式呈现定位于皮科克知觉场景式内容，显性呈现则是知觉者施加注意于场景式内容的相关要素，建构而得的产物。
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>

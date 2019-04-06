@@ -1,0 +1,122 @@
+
+ <section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;">
+  <section class="_135editor" data-color="#ef7060" data-id="94007" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section style="padding: 10px;box-sizing: border-box;">
+    <section style="clear: both;">
+    </section>
+    <section style="width: 7em;margin-bottom: -2em;margin-left: -10px;float: left;">
+     <section style="width: 12px;height: 12px;border-radius: 100%;background: rgb(239, 112, 96);float: right;margin-top: -7px;color: rgb(255, 255, 255);box-sizing: border-box;">
+     </section>
+     <section style="background: rgb(254, 254, 254);padding: 10px;box-sizing: border-box;">
+     </section>
+     <section style="width: 12px;height: 12px;border-radius: 100%;background: rgb(239, 112, 96);float: left;margin-left: 4px;color: rgb(255, 255, 255);box-sizing: border-box;">
+     </section>
+    </section>
+    <section style="border-width: 1px;border-style: solid;border-color: rgb(239, 112, 96);border-radius: 6px;box-sizing: border-box;">
+     <section class="135brush" data-autoskip="1" style="font-size: 14px;letter-spacing: 1.5px;line-height: 1.75em;padding: 2em 1em 1em 2em;box-sizing: border-box;">
+      <p style="text-indent: 28px;text-align: justify;">
+       2019年1月2日，华东师范大学-仙学智能科技共同建设的全民计算机科学教育联合实验室的启动暨签约仪式在华东师范大学中北校区数学馆西106举办，仙学智能科技首席执行官聂巍、首席技术官幸洪中、首席财务官Amy、我院高明副教授、董启文教授、王晔以及相关实验室同学参与会议，仪式由我院院长钱卫宁教授主持。
+      </p>
+      <p style="text-indent: 28px;text-align: justify;">
+       <br/>
+      </p>
+      <p style="text-align: center;">
+       <img class="" data-copyright="0" data-ratio="0.6658786446020488" data-s="300,640" data-type="jpeg" data-w="1269" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88a3icYMoReBrumQu9uiaenqZgibdMWsR6yQ3eztLeGiahQpYdcEialuMNv7c3raeuj7GDLz05SH3uFict5w/640?wx_fmt=jpeg" style=""/>
+       <img class="" data-ratio="0.05" data-type="png" data-w="500" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88a3icYMoReBrumQu9uiaenqZgd7hNYT2RP1ibRE3lZIMqxj2lx8jZ2uMwrDIvibpcx0d8p1gUpQ8uHoNA/640?wx_fmt=png" style="text-align: justify;width: 100%;" title="未标题-1.png"/>
+      </p>
+      <p style="text-indent: 28px;text-align: justify;">
+       仙学智能科技致力于K-12学生的计算机科学与人工智能知识和能力的培养、青少年信息技术教学知识体系建设、智能教学环境构建、寓教于乐的信息技术教学手段和方法设计。此次与我院建立联合实验室，建设产、学、研相结合的科研团队，在计算机科学教育的内容、方法、手段和系统工具等方面全方位合作，共同推进信息技术和人工智能在教育实践中的应用，以及青少年逻辑思维和计算思维的培养和信息素养的普及教育。
+      </p>
+      <p style="text-indent: 28px;text-align: justify;">
+       首先，仙学智能科技首席执行官聂巍介绍了公司的创办理念以及公司半年多来在CS For All（全民计算机教育）方面的探索。讲到联合实验室的创办，他希望，双方能够紧密合作，收集和分析教学行为和学习行为，建立软硬件工作、信息技术教学等的完整闭环。要充分发挥产业和学术研究的特点，不仅要开发利于青少年计算机学习的系统，还要在不断学习和总结过程中，产生适合教学的出版物。总之，联合实验室一定要做出为社会提供价值的成果。
+      </p>
+      <p style="text-indent: 28px;text-align: justify;">
+       接着，双方就联合实验室的下一步工作计划进行讨论，最终在合作方式、沟通方式上达成了一致意见。在工作内容方面，实验室成员需要了解教学环境，参与到教学活动中，根据教学的数据记录，对教学方式和学习效果进行分析；在沟通方式上，双方需要积极组织科研人员及学生与公司技术部门成员开展技术交流活动，并且要针对近期工作情况开展定期交流。
+      </p>
+      <p style="text-indent: 28px;text-align: justify;">
+       <br/>
+      </p>
+      <section class="_135editor" data-id="85948" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+       <section style="text-align: justify;margin-right: 5%;margin-left: 5%;">
+        <p style="text-align: center;">
+         <img class="" data-copyright="0" data-ratio="0.66640625" data-s="300,640" data-type="jpeg" data-w="1280" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88a3icYMoReBrumQu9uiaenqZgia2JVznjniaJsib30OO2uic9SLJickXwA7TrHUnHLSnwxgUIRn7tzl1w24g/640?wx_fmt=jpeg" style=""/>
+        </p>
+       </section>
+      </section>
+      <p style="text-indent: 28px;text-align: justify;">
+       <br/>
+      </p>
+      <p style="text-indent: 28px;text-align: justify;">
+       我院院长钱卫宁教授对本次签约仪式进行总结。他希望双方能够开展长期合作，充分发挥各自的优势，对双方感兴趣的教育与信息技术深度融合的跨学科技术以及工程课题开展研究，推进双方在国际领先的科技教育领域核心技术的研究和开发。
+      </p>
+      <section class="_135editor" data-id="85948" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+       <section style="text-align: justify;margin-right: 5%;margin-left: 5%;">
+        <p style="line-height: 2em;white-space: normal;">
+         <br/>
+        </p>
+        <p style="text-align: center;">
+         <img class="" data-copyright="0" data-ratio="0.66640625" data-s="300,640" data-type="jpeg" data-w="1280" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88a3icYMoReBrumQu9uiaenqZgticM6FhIOC2vOiaDYBFpLGicic3Syz8dL0hyLtyhySicY4RFVhwKzFx8IibA/640?wx_fmt=jpeg" style=""/>
+        </p>
+        <p style="text-align:right;text-indent:28px;">
+         <span style="font-size: 12px;">
+          撰稿 | 刘婷婷
+         </span>
+        </p>
+        <p style="text-align:right;text-indent:28px;">
+         <span style="font-size: 12px;">
+          摄影 | 付英男
+         </span>
+        </p>
+        <p style="text-align:right;text-indent:28px;">
+         <span style="font-size: 12px;">
+          排版 | 寿暖瑜
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <p>
+   <br/>
+  </p>
+ </section>
+ <section data-role="outer" label="Powered by 135editor.com" style="white-space: normal;font-size: 16px;font-family: 微软雅黑;text-align: right;">
+  <section data-role="outer" label="Powered by 135editor.com" style="white-space: normal;font-size: 16px;font-family: 微软雅黑;text-align: right;">
+   <section class="_135editor" data-role="paragraph" style="color: rgb(63, 62, 63);letter-spacing: 2px;text-align: center;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section class="" style='width: 8em;height: 8em;display: inline-block;vertical-align: bottom;border-radius: 100%;border-width: 2px;border-style: solid;border-color: rgb(166, 91, 203);box-shadow: rgb(204, 204, 204) 0.707107px 0.707107px 2px;background-image: url("https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88YWwsMV4AF23UjKdMSFRQmzxSMvjNnPXf2icFNfDkMgRLmwhsVNM37lNZX4phkuqdcj3Q3qS3XB1Pw/640?wx_fmt=jpeg");background-size: cover;background-position: 50% 50%;background-repeat: no-repeat;box-sizing: border-box;'>
+     <section class="" style="width: 124px;height: 124px;overflow: hidden;">
+      <strong>
+       <img class="" data-ratio="1.0020449897750512" data-type="jpeg" data-w="489" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88YWwsMV4AF23UjKdMSFRQmzxSMvjNnPXf2icFNfDkMgRLmwhsVNM37lNZX4phkuqdcj3Q3qS3XB1Pw/640?wx_fmt=jpeg" style="height: 124.25px;width: 124px;opacity: 0;" width="100%"/>
+      </strong>
+     </section>
+    </section>
+    <p>
+     <br/>
+    </p>
+    <section class="" style="margin-top: -4em;padding: 4em 15px 10px;border-width: 1px;border-style: solid;border-color: rgb(166, 91, 203);border-radius: 16px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+     <section class="_135editor" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <section class="">
+       <section class="">
+        <p>
+         华东师范大学数据科学与工程学院
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="_135editor" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <section class="" style="padding-top: 0.5em;padding-bottom: 0.5em;box-sizing: border-box;">
+       <section class="" style="height: 1px;background-color: rgb(166, 91, 203);">
+       </section>
+      </section>
+     </section>
+     <section class="_135editor" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <section class="" style="margin: auto;padding-top: 10px;width: 223.188px;box-sizing: border-box;">
+       <img class="" data-ratio="1" data-type="jpeg" data-w="258" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88YWwsMV4AF23UjKdMSFRQmzI2NUVw52jWqc8bFyPRTJOcNRFSzIDTy24ibpjH5NPMic8pbHL4dW3Cxw/640?wx_fmt=jpeg" style="vertical-align: middle;"/>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>

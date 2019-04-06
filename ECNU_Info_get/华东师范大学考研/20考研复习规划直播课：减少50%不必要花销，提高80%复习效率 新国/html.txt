@@ -1,0 +1,670 @@
+
+ <section class="xmteditor" data-label="powered by xmt.cn" data-tools="新媒体管家" style="display:none;">
+ </section>
+ <section class="xmteditor" data-label="powered by xmt.cn" data-tools="新媒体管家" style="display:none;">
+ </section>
+ <section data-mpa-powered-by="yiban.io" style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="font-size: 15px;text-align: justify;padding: 0px 8px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      去年，19考研党很多出现了下面这些情况：
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border-width: 2px;border-style: dotted;border-color: rgb(192, 200, 209);padding: 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="color: rgb(51, 51, 51);font-size: 14px;text-align: justify;letter-spacing: 0px;padding: 0px 8px;box-sizing: border-box;">
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         1、50%以上的钱，给了毫无效果的网课和参考书
+        </p>
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         2、买了网课和书之后，才发现这些根本就是垃圾
+        </p>
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         3、花更多的时间复习，但效果只有别人的一半
+        </p>
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         4、完全不知道各阶段该复习什么，复习进度极慢
+        </p>
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         5、不知道复习重点，不了解出题思路，盲目复习
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="font-size: 15px;text-align: justify;padding: 0px 8px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      那么，才刚开始复习的20考研党们，你们也会出现这些问题吗？
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      考研，你需要尽早重视；
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      考研，你需要专业指导；
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      不要在错误的方向上越走越远，浪费大量的时间和金钱，
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       <span style="font-size: 16px;color: rgb(243, 56, 25);box-sizing: border-box;">
+        考研，你冒险不起！
+       </span>
+      </strong>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="padding: 3px;box-sizing: border-box;">
+     <section style="padding-top: 6px;box-sizing: border-box;">
+      <section style="border-top: 1px solid rgb(249, 110, 87);margin-bottom: -6px;border-right-color: rgb(249, 110, 87);border-bottom-color: rgb(249, 110, 87);border-left-color: rgb(249, 110, 87);box-sizing: border-box;">
+      </section>
+      <section style="box-sizing: border-box;">
+       <section style="float: left;box-sizing: border-box;">
+        <section style="width: 10px;height: 10px;border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);transform: rotate(45deg);background-color: rgb(255, 255, 255);box-sizing: border-box;">
+        </section>
+        <section style="width: 10px;height: 10px;border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);box-sizing: border-box;background-color: rgb(255, 255, 255);margin-top: -10px;margin-left: 6px;transform: rotate(45deg);">
+        </section>
+       </section>
+       <section style="float: right;box-sizing: border-box;">
+        <section style="width: 10px;height: 10px;border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);background-color: rgb(255, 255, 255);margin-left: 6px;transform: rotate(45deg);box-sizing: border-box;">
+        </section>
+        <section style="width: 10px;height: 10px;border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);box-sizing: border-box;background-color: rgb(255, 255, 255);margin-top: -10px;transform: rotate(45deg);">
+        </section>
+       </section>
+       <section style="clear: both;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="font-size: 15px;text-align: justify;padding: 0px 8px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      考研派，为20考研党准备了，
+      <strong style="box-sizing: border-box;">
+       专业的公共课复习全程规划和在线答疑
+      </strong>
+      。
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      只是希望帮你们，
+      <span style="color: rgb(243, 56, 25);box-sizing: border-box;">
+       <strong style="box-sizing: border-box;">
+        节省50%不必要的花销，提高80%的复习效率
+       </strong>
+      </span>
+      。
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;padding-bottom: 2px;border-bottom: 1px dashed rgb(249, 110, 87);box-sizing: border-box;">
+     <section style="border-bottom: 2px solid rgb(249, 110, 87);font-size: 20px;box-sizing: border-box;">
+      <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+       <strong style="box-sizing: border-box;">
+        20考研公共课全程规划课
+       </strong>
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="font-size: 15px;text-align: justify;padding: 0px 8px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       <span style="font-size: 20px;color: rgb(243, 56, 25);box-sizing: border-box;">
+        免费
+       </span>
+      </strong>
+      ，但干货十足，只告诉你现阶段，最需要知道的以及你最想知道的。
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      课程包括英语和政治，每个部分只有1个小时。
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br/>
+      <br/>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       <span style="background-color: rgb(243, 56, 25);color: rgb(255, 255, 255);box-sizing: border-box;">
+        我们只是希望你能了解到：
+       </span>
+      </strong>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       <span style="background-color: rgb(243, 56, 25);color: rgb(255, 255, 255);box-sizing: border-box;">
+        <br style="box-sizing: border-box;"/>
+       </span>
+      </strong>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border-width: 2px;border-style: dotted;border-color: rgb(192, 200, 209);padding: 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="color: rgb(51, 51, 51);font-size: 14px;text-align: justify;padding: 0px 8px;box-sizing: border-box;">
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         1、考研复习的每个阶段，到底该复习什么？
+        </p>
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         2、有哪些特殊技巧，可大大提高复习效率？
+        </p>
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         3、哪些书/网课最有用，而哪些纯粹浪费钱？
+        </p>
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         4、考研英语/政治，每年出题都有哪些规律？
+        </p>
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          <span style="font-size: 20px;color: rgb(243, 56, 25);box-sizing: border-box;">
+           5、名师在线答疑，有什么问题直接问就好！
+          </span>
+         </strong>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);padding: 10px;box-shadow: rgb(204, 204, 204) 3.53553px 3.53553px 4px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: center;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          如果这恰好是你需要的
+         </strong>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          请扫码加入
+         </strong>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="color: rgb(243, 56, 25);box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           首次免费推出
+          </strong>
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          名额有限
+         </strong>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 60%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="1" data-type="png" data-w="300" src="https://mmbiz.qpic.cn/mmbiz_png/qpbicB3cpzPf4CZV9oIoSFdzerbBJKSQPACeJPib3DrYCxPewcosDegd6WBDvicHtqgrp1kxTD3j9JzpvcswvrCLg/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="font-size: 15px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;padding-bottom: 2px;border-bottom: 1px dashed rgb(249, 110, 87);box-sizing: border-box;">
+     <section style="border-bottom: 2px solid rgb(249, 110, 87);font-size: 20px;box-sizing: border-box;">
+      <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+       <strong style="box-sizing: border-box;">
+        名师简介（政治）
+       </strong>
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 0.5em 0px;text-align: center;box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="font-size: 24px;box-sizing: border-box;">
+       <section style='box-sizing: border-box;display: inline-block;margin: auto;width: 7em;height: 7em;border-radius: 100%;background-position: center center;background-repeat: no-repeat;background-size: cover;overflow: hidden;background-image: url("https://mmbiz.qpic.cn/mmbiz_jpg/qpbicB3cpzPf4CZV9oIoSFdzerbBJKSQPLn3KiaBwgfD51N3UicmyLcLsv1ZRdNWyh38YxJxDxvMXTtjMYqg7HBWQ/640?wx_fmt=jpeg");'>
+        <section style="height: 100%;overflow: hidden;line-height: 0;vertical-align: middle;max-width: 100%;box-sizing: border-box;">
+         <img class="" data-ratio="1.5055555555555555" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/qpbicB3cpzPf4CZV9oIoSFdzerbBJKSQPLn3KiaBwgfD51N3UicmyLcLsv1ZRdNWyh38YxJxDxvMXTtjMYqg7HBWQ/640?wx_fmt=jpeg" style="width: 100%;height: 100%;opacity: 0;box-sizing: border-box;"/>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: -2em 0px 0px;box-sizing: border-box;">
+       <section style="display: inline-block;border-radius: 1em;background-color: rgb(249, 110, 87);padding: 0.3em 0.8em;color: rgb(255, 255, 255);font-size: 19px;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         张修齐
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="font-size: 15px;text-align: justify;padding: 0px 8px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      张修齐老师，
+      <span style="letter-spacing: 0px;box-sizing: border-box;">
+       前新东方考研政治名师，10年考研政治辅导经验。
+      </span>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <span style="letter-spacing: 0px;box-sizing: border-box;">
+       <br style="box-sizing: border-box;"/>
+      </span>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <span style="letter-spacing: 0px;box-sizing: border-box;">
+       对考研政治出题规律，了如指掌。
+      </span>
+      <span style="letter-spacing: 0px;box-sizing: border-box;">
+       去年甚至压中80%左右的政治大题。
+      </span>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 0.5em 0px;padding-left: 0.5em;padding-right: 0.5em;box-sizing: border-box;">
+    <section style="box-sizing: border-box;width: 90%;box-shadow: rgb(102, 102, 102) 3.53553px 3.53553px 8px;height: auto !important;display: inline-block;line-height: 0;border-color: white;">
+     <img class="raw-image" data-ratio="0.6140625" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/qpbicB3cpzPf4CZV9oIoSFdzerbBJKSQPOWGlndJibu3PSIMjZVWFv5iaoNJWnUsEQqTp3Qibwx66ehKDdARMSFraQ/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;box-sizing: border-box;">
+       <section style="display: inline-block;width: 90%;vertical-align: top;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;overflow-x: auto;box-sizing: border-box;-webkit-overflow-scrolling: touch;">
+           <section style="overflow: hidden;width: 400%;max-width: 400% !important;box-sizing: border-box;">
+            <section powered-by="xiumi.us" style="display: inline-block;vertical-align: top;width: 25%;box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              <section style="display: inline-block;width: 100%;vertical-align: top;padding: 0px 5px;box-sizing: border-box;">
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="margin: 0px 0%;box-sizing: border-box;">
+                 <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+                  <img class="raw-image" data-ratio="1.7119565" data-type="png" data-w="368" src="https://mmbiz.qpic.cn/mmbiz_png/qpbicB3cpzPf4CZV9oIoSFdzerbBJKSQPssxa1PlIrSNsibLYgibAsG56adb8cl019VRNVKj4vNF8V7wJXSL7p7CA/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+            <section powered-by="xiumi.us" style="display: inline-block;vertical-align: top;width: 25%;box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              <section style="display: inline-block;width: 100%;vertical-align: top;padding: 0px 5px;box-sizing: border-box;">
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="margin: 0px 0%;box-sizing: border-box;">
+                 <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+                  <img class="raw-image" data-ratio="1.7185792" data-type="png" data-w="366" src="https://mmbiz.qpic.cn/mmbiz_png/qpbicB3cpzPf4CZV9oIoSFdzerbBJKSQP9nyVn2nxVzpNufuliciaribIGekmuB9s3EDLZtwSDU3T5gr1yibQSaiaWAw/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+            <section powered-by="xiumi.us" style="display: inline-block;vertical-align: top;width: 25%;box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              <section style="display: inline-block;width: 100%;vertical-align: top;padding: 0px 5px;box-sizing: border-box;">
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="margin: 0px 0%;box-sizing: border-box;">
+                 <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+                  <img class="raw-image" data-ratio="1.7" data-type="jpeg" data-w="370" src="https://mmbiz.qpic.cn/mmbiz_jpg/qpbicB3cpzPf4CZV9oIoSFdzerbBJKSQPT2FCezGdZ4VEkBFFn2OQW2NMYevHN0b0eic3l7UJwHVf0ep9cm7B2rQ/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+            <section powered-by="xiumi.us" style="display: inline-block;vertical-align: top;width: 25%;box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              <section style="display: inline-block;width: 100%;vertical-align: top;padding: 0px 5px;box-sizing: border-box;">
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="margin: 0px 0%;box-sizing: border-box;">
+                 <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+                  <img class="raw-image" data-ratio="1.704607" data-type="png" data-w="369" src="https://mmbiz.qpic.cn/mmbiz_png/qpbicB3cpzPf4CZV9oIoSFdzerbBJKSQPKMB7iapfxM6nLgHYkWn6A25Y4S0sicy615DDESr9hMQb3w08bohkuBfw/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 10px 0% 5px;box-sizing: border-box;">
+          <section style="font-size: 12px;color: rgba(81, 81, 81, 0.54);box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            &lt;&lt;  滑动查看下一张图片  &gt;&gt;
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="font-size: 15px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;padding-bottom: 2px;border-bottom: 1px dashed rgb(249, 110, 87);box-sizing: border-box;">
+     <section style="border-bottom: 2px solid rgb(249, 110, 87);font-size: 20px;box-sizing: border-box;">
+      <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+       <strong style="box-sizing: border-box;">
+        名师简介（英语）
+       </strong>
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="font-size: 15px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 0.5em 0px;text-align: center;box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="font-size: 24px;box-sizing: border-box;">
+       <section style='box-sizing: border-box;display: inline-block;margin: auto;width: 7em;height: 7em;border-radius: 100%;background-position: 0% 28.5714%;background-repeat: no-repeat;background-size: 100%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;overflow: hidden;background-image: url("https://mmbiz.qpic.cn/mmbiz_jpg/qpbicB3cpzPf4CZV9oIoSFdzerbBJKSQPGv7HDibQOUe8BoaH2FZZjsCiarqXxTCPUiaAYLopKibPfuQqDN6KdlGMcA/640?wx_fmt=jpeg");'>
+        <section style="height: 100%;overflow: hidden;line-height: 0;vertical-align: middle;max-width: 100%;box-sizing: border-box;">
+         <img data-ratio="1.5" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/qpbicB3cpzPf4CZV9oIoSFdzerbBJKSQPGv7HDibQOUe8BoaH2FZZjsCiarqXxTCPUiaAYLopKibPfuQqDN6KdlGMcA/640?wx_fmt=jpeg" style="width: 100%;height: 100%;opacity: 0;box-sizing: border-box;" width="100%"/>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: -2em 0px 0px;box-sizing: border-box;">
+       <section style="display: inline-block;border-radius: 1em;background-color: rgb(249, 110, 87);padding: 0.3em 0.8em;color: rgb(255, 255, 255);font-size: 19px;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         祁迹
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: justify;font-size: 15px;padding: 0px 8px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      祁迹老师，前新东方考研英语名师，8年考研英语辅导经验。
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      每年辅导学生超万人，100%过线，其中40%可达70分以上。
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 0.5em 0px;padding-left: 0.5em;padding-right: 0.5em;box-sizing: border-box;">
+    <section style="box-sizing: border-box;width: 90%;height: auto !important;display: inline-block;line-height: 0;border-color: white;box-shadow: rgb(102, 102, 102) 3.53553px 3.53553px 8px;">
+     <img class="raw-image" data-ratio="0.4109375" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/qpbicB3cpzPf4CZV9oIoSFdzerbBJKSQPE9gNad1SmRnqRZdluZRCkDJ4sIBBfM9Ly61ibWxsWzaOmECR9TPGbEQ/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;box-sizing: border-box;">
+       <section style="display: inline-block;width: 90%;vertical-align: top;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;overflow-x: auto;box-sizing: border-box;-webkit-overflow-scrolling: touch;">
+           <section style="overflow: hidden;width: 400%;max-width: 400% !important;box-sizing: border-box;">
+            <section powered-by="xiumi.us" style="display: inline-block;vertical-align: top;width: 25%;box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              <section style="display: inline-block;width: 100%;vertical-align: top;padding: 0px 5px;box-sizing: border-box;">
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="margin: 0px 0%;box-sizing: border-box;">
+                 <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+                  <img class="raw-image" data-ratio="1.6650602" data-type="png" data-w="415" src="https://mmbiz.qpic.cn/mmbiz_png/qpbicB3cpzPf4CZV9oIoSFdzerbBJKSQPI4pWs5qqNhicjodNUq7ph7ExnkD11zg48yw9R8Qok3XdforItibsiavWw/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+            <section powered-by="xiumi.us" style="display: inline-block;vertical-align: top;width: 25%;box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              <section style="display: inline-block;width: 100%;vertical-align: top;padding: 0px 5px;box-sizing: border-box;">
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="margin: 0px 0%;box-sizing: border-box;">
+                 <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+                  <img class="raw-image" data-ratio="1.6650602" data-type="png" data-w="415" src="https://mmbiz.qpic.cn/mmbiz_png/qpbicB3cpzPf4CZV9oIoSFdzerbBJKSQPR1Aku53SzeQYhJF95ibn3T9jb4Tk5CvmeNia7ZU5TSFj32hul4htCbzQ/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+            <section powered-by="xiumi.us" style="display: inline-block;vertical-align: top;width: 25%;box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              <section style="display: inline-block;width: 100%;vertical-align: top;padding: 0px 5px;box-sizing: border-box;">
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="margin: 0px 0%;box-sizing: border-box;">
+                 <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+                  <img class="raw-image" data-ratio="1.6618705" data-type="png" data-w="417" src="https://mmbiz.qpic.cn/mmbiz_png/qpbicB3cpzPf4CZV9oIoSFdzerbBJKSQPcp7m9BZMgrz9wQcrSoIMUqBbKicVs0iaLY1RJY0icRsPia1WKCRqAVo18A/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+            <section powered-by="xiumi.us" style="display: inline-block;vertical-align: top;width: 25%;box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              <section style="display: inline-block;width: 100%;vertical-align: top;padding: 0px 5px;box-sizing: border-box;">
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="margin: 0px 0%;box-sizing: border-box;">
+                 <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+                  <img class="raw-image" data-ratio="1.6642512" data-type="png" data-w="414" src="https://mmbiz.qpic.cn/mmbiz_png/qpbicB3cpzPf4CZV9oIoSFdzerbBJKSQPtxpZbP9QYy86SgBuPRc1JREx3busYXtcRkksJoZ1aRnsenxomBRjTQ/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 10px 0% 5px;box-sizing: border-box;">
+          <section style="font-size: 12px;color: rgba(81, 81, 81, 0.54);box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            &lt;&lt;  滑动查看下一张图片  &gt;&gt;
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);padding: 10px;box-shadow: rgb(204, 204, 204) 3.53553px 3.53553px 4px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: center;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          如果这恰好是你需要的
+         </strong>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          请扫码加入
+         </strong>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="color: rgb(243, 56, 25);box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           首次免费推出
+          </strong>
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          名额有限
+         </strong>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 60%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="1.778125" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/qpbicB3cpzPf4CZV9oIoSFdzerbBJKSQPTyNvA2icibE9lkExove2k3xYEG3yE2OnzmQjEicRtzw7X3W0iafq2eYTkw/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>

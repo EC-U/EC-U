@@ -1,0 +1,922 @@
+
+ <section style="line-height: 1.8;font-size: 15px;box-sizing: border-box;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="letter-spacing: 1.5px;font-size: 13px;color: rgb(144, 151, 161);padding-right: 8px;padding-left: 8px;box-sizing: border-box;">
+     <p style="white-space: normal;box-sizing: border-box;">
+      2019年2月25日，人民日报刊登了《国家奖学金获奖学生代表名录》，
+      <strong style="box-sizing: border-box;">
+       华东师大计算机科学与软件工程学院软件工程专业2015级本科生张思源
+      </strong>
+      荣登该名录。
+     </p>
+     <p style="white-space: normal;box-sizing: border-box;">
+      该名录是在各省（自治区、直辖市、计划单列市）和各高校推荐评选出的
+      <strong style="box-sizing: border-box;">
+       50000名
+      </strong>
+      本专科国家奖学金获奖学生中，筛选出
+      <strong style="box-sizing: border-box;">
+       100名
+      </strong>
+      获奖者作为优秀代表，
+      <strong style="box-sizing: border-box;">
+       上海市共有四名同学进入代表名录
+      </strong>
+      。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 96%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="1.3761905" data-type="png" data-w="420" src="https://mmbiz.qpic.cn/mmbiz_png/FWBz5XlRGicD0GYrZKNRVib8sic9C4p7PM72S9g06WUzRTQlxCAiaDbKFXXqLibcYWds2ClIcTh0HPV0OqzfvqJ9d5w/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="letter-spacing: 1.5px;font-size: 13px;color: rgb(144, 151, 161);padding-right: 8px;padding-left: 8px;box-sizing: border-box;">
+     <p style="white-space: normal;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 100%;box-sizing: border-box;">
+     <svg class="svg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" viewbox="0 0 73.9 2.7" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+      <g style="box-sizing: border-box;">
+       <path d="M38.4,1.4c0,0.8-0.6,1.4-1.4,1.4c-0.8,0-1.4-0.6-1.4-1.4C35.7,0.6,36.3,0,37,0   C37.8,0,38.4,0.6,38.4,1.4z" fill="rgb(128,178,163)" style="box-sizing: border-box;">
+       </path>
+       <path d="M70.3,1.4c0,0.5-0.4,0.8-0.8,0.8c-0.5,0-0.8-0.4-0.8-0.8c0-0.5,0.4-0.8,0.8-0.8   C69.9,0.5,70.3,0.9,70.3,1.4z" fill="rgb(128,178,163)" style="box-sizing: border-box;">
+       </path>
+       <path d="M72.3,1.4c0,0.3-0.3,0.6-0.6,0.6c-0.3,0-0.6-0.3-0.6-0.6c0-0.3,0.3-0.6,0.6-0.6   C72.1,0.8,72.3,1.1,72.3,1.4z" fill="rgb(128,178,163)" style="box-sizing: border-box;">
+       </path>
+       <path d="M73.9,1.4c0,0.2-0.2,0.4-0.4,0.4c-0.2,0-0.4-0.2-0.4-0.4c0-0.2,0.2-0.4,0.4-0.4   C73.8,1,73.9,1.2,73.9,1.4z" fill="rgb(128,178,163)" style="box-sizing: border-box;">
+       </path>
+       <path d="M68.4,0L68.4,0c-0.8,0-1.3,0.5-1.4,1.2H56.5C52.3,1,46.4,0.8,39.7,0.8c0,0.2,0.1,0.4,0.1,0.6   c0,0.2-0.1,0.4-0.1,0.6c6.6,0,12.5-0.2,16.6-0.4H67c0.1,0.6,0.6,1.2,1.3,1.2c0,0,0,0,0.1,0c-0.3-0.4-0.6-0.8-0.6-1.4   C67.8,0.8,68,0.4,68.4,0z" fill="rgb(128,178,163)" style="box-sizing: border-box;">
+       </path>
+       <path d="M3.6,1.4c0,0.5,0.4,0.8,0.8,0.8c0.5,0,0.8-0.4,0.8-0.8c0-0.5-0.4-0.8-0.8-0.8C4,0.5,3.6,0.9,3.6,1.4   z" fill="rgb(128,178,163)" style="box-sizing: border-box;">
+       </path>
+       <path d="M1.6,1.4c0,0.3,0.3,0.6,0.6,0.6c0.3,0,0.6-0.3,0.6-0.6c0-0.3-0.3-0.6-0.6-0.6   C1.8,0.8,1.6,1.1,1.6,1.4z" fill="rgb(128,178,163)" style="box-sizing: border-box;">
+       </path>
+       <path d="M0,1.4c0,0.2,0.2,0.4,0.4,0.4c0.2,0,0.4-0.2,0.4-0.4C0.8,1.2,0.6,1,0.4,1C0.2,1,0,1.2,0,1.4z" fill="rgb(128,178,163)" style="box-sizing: border-box;">
+       </path>
+       <path d="M5.6,0L5.6,0c0.8,0,1.3,0.5,1.4,1.2h10.5C21.6,1,27.5,0.8,34.2,0.8c0,0.2-0.1,0.4-0.1,0.6   c0,0.2,0.1,0.4,0.1,0.6c-6.6,0-12.5-0.2-16.6-0.4H6.9C6.8,2.2,6.3,2.7,5.6,2.7c0,0,0,0-0.1,0c0.3-0.4,0.6-0.8,0.6-1.4   C6.1,0.8,5.9,0.4,5.6,0z" fill="rgb(128,178,163)" style="box-sizing: border-box;">
+       </path>
+      </g>
+     </svg>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="font-size: 44px;margin: 10px 0% 20px;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;box-sizing: border-box;">
+     <section style="margin-bottom: -1.5em;box-sizing: border-box;">
+      <section style="width: 3em;height: 1.5em;margin-bottom: -5px;border-radius: 1.5em 1.5em 0px 0px;border-left: 1px dashed rgb(128, 178, 163);border-right: 1px dashed rgb(128, 178, 163);border-top: 1px dashed rgb(128, 178, 163);border-bottom-color: rgb(128, 178, 163);box-sizing: border-box;">
+      </section>
+      <section style="width: 5px;height: 5px;float: right;background: rgb(255, 255, 255);margin-right: -3px;border-width: 1px;border-style: solid;border-color: rgb(128, 178, 163);margin-left: -3px;border-radius: 50%;box-sizing: border-box;">
+      </section>
+      <section style="width: 5px;height: 5px;background: rgb(255, 255, 255);transform: rotate(0deg);margin-bottom: -2px;margin-left: -3px;border-width: 1px;border-style: solid;border-color: rgb(128, 178, 163);border-radius: 50%;box-sizing: border-box;">
+      </section>
+     </section>
+     <section style="margin-bottom: -5px;width: 3em;height: 3em;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);padding: 5px;box-sizing: border-box;">
+      <section style='width: 100%;height: 100%;border-radius: 100%;background-position: 0% 25.974%;background-repeat: no-repeat;background-size: 100%;overflow: hidden;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/FWBz5XlRGicD0GYrZKNRVib8sic9C4p7PM7kXaIdicGsm8KwiaPaBQibbnHbXYcN1Lia7bDDdEDU8KuSSSyl6vSnMorZQ/640?wx_fmt=png");box-sizing: border-box;'>
+       <section style="height: 100%;overflow: hidden;line-height: 0;vertical-align: middle;max-width: 100%;box-sizing: border-box;">
+        <img data-ratio="1.35" data-type="png" data-w="200" src="https://mmbiz.qpic.cn/mmbiz_png/FWBz5XlRGicD0GYrZKNRVib8sic9C4p7PM7kXaIdicGsm8KwiaPaBQibbnHbXYcN1Lia7bDDdEDU8KuSSSyl6vSnMorZQ/640?wx_fmt=png" style="width: 100%;height: 100%;opacity: 0;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="font-size: 12px;color: rgb(166, 166, 166);letter-spacing: 2px;box-sizing: border-box;">
+     <p style="text-align: center;box-sizing: border-box;">
+      <span style="box-sizing: border-box;">
+       <span style="font-size: 15px;box-sizing: border-box;">
+        张思源
+       </span>
+      </span>
+     </p>
+     <p style="text-align: center;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="text-align: center;box-sizing: border-box;">
+      华东师范大学计算机科学与软件工程学院
+     </p>
+     <p style="text-align: center;box-sizing: border-box;">
+      软件工程专业2015级本科生
+     </p>
+     <p style="text-align: center;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="width: 100%;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);box-sizing: border-box;">
+     <section style="width: 50px;height: 4px;background-color: rgba(188, 241, 255, 0);box-sizing: border-box;">
+     </section>
+    </section>
+    <section style="margin-top: -4px;padding: 10px;background-color: rgb(239, 239, 239);box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;box-sizing: border-box;">
+       <section style='display: inline-block;width: 100%;vertical-align: top;padding: 1px;background-position: 25.1773% -46.621%;background-repeat: repeat;background-size: 28.0399%;background-attachment: scroll;box-shadow: rgb(0, 0, 0) 0px 0px 0px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/FWBz5XlRGicD0GYrZKNRVib8sic9C4p7PM7kMRGVM0VCMxhIeW1lZwSBgWaicrwwNGWQhyENoYsmIhFc8S16YP9Rxw/640?wx_fmt=png");box-sizing: border-box;'>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="text-align: center;margin: -1px 0%;box-sizing: border-box;">
+          <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="padding-right: 8px;padding-left: 8px;font-size: 20px;color: rgb(77, 75, 75);letter-spacing: 1.5px;box-sizing: border-box;">
+              <p style="box-sizing: border-box;">
+               <strong style="box-sizing: border-box;">
+                从“平凡之路”，到“飞驰人生”
+               </strong>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+       <section style="height: 1.4em;border-left: 1px solid rgb(158, 158, 158);margin-bottom: -0.9em;margin-left: 0.5em;box-sizing: border-box;">
+       </section>
+       <section style="width: 2.5em;border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+       </section>
+       <section style="padding-right: 0.5em;padding-left: 0.5em;box-sizing: border-box;">
+        <section style="padding: 10px;box-sizing: border-box;">
+         <section powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="margin: 20px 0% 10px;box-sizing: border-box;">
+           <section style="font-size: 14px;color: rgb(105, 105, 105);letter-spacing: 1.5px;line-height: 1.8;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+            <p style="box-sizing: border-box;">
+             当你真心渴望某样东西的时候
+            </p>
+            <p style="box-sizing: border-box;">
+             日月星辰都会赶来帮你。
+            </p>
+            <p style="text-align: right;box-sizing: border-box;">
+             ——张思源
+            </p>
+            <p style="box-sizing: border-box;">
+             <br style="box-sizing: border-box;"/>
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="width: 2.5em;margin-left: auto;box-sizing: border-box;">
+        <section style="width: 2.5em;border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+        </section>
+        <section style="height: 1.4em;border-left: 1px solid rgb(158, 158, 158);margin-top: -0.9em;margin-left: 2em;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="font-size: 14px;line-height: 2;letter-spacing: 2px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         他是传说中可望不可及的“国奖大佬”
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         但他也曾因为挂科而迷茫无措
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         他代表华东师大夺得“互联网+”大赛“首金”
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         但他也曾对着空白的项目计划一筹莫展
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         他是学弟学妹们口中可爱的“学神阿源”
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         他是部员们心中最靠谱的“部长大人”
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         他是舍友眼里总能带来美味特产的四川“羊驼”
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         但同时他也是合作者心中的“完美伙伴”
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         谈不上什么天赋异禀
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         也没有什么运气使然
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         他靠着自己的努力
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         在这人生的平凡之路上
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         留下了自己不平凡的脚印
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         活出了属于自己的飞驰人生
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;box-sizing: border-box;">
+       <section style='display: inline-block;width: 100%;vertical-align: top;padding: 1px;background-position: 25.1773% -46.621%;background-repeat: repeat;background-size: 28.0399%;background-attachment: scroll;box-shadow: rgb(0, 0, 0) 0px 0px 0px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/FWBz5XlRGicD0GYrZKNRVib8sic9C4p7PM7kMRGVM0VCMxhIeW1lZwSBgWaicrwwNGWQhyENoYsmIhFc8S16YP9Rxw/640?wx_fmt=png");box-sizing: border-box;'>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="text-align: right;transform: translate3d(-20px, 0px, 0px);-webkit-transform: translate3d(-20px, 0px, 0px);-moz-transform: translate3d(-20px, 0px, 0px);-o-transform: translate3d(-20px, 0px, 0px);margin: -1px 0%;box-sizing: border-box;">
+          <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="text-align: center;padding-right: 8px;padding-left: 8px;font-size: 17px;color: rgb(77, 75, 75);letter-spacing: 1.5px;box-sizing: border-box;">
+              <p style="box-sizing: border-box;">
+               <strong style="box-sizing: border-box;">
+                从曾经挂科到圆梦国奖
+               </strong>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="font-size: 14px;line-height: 2;letter-spacing: 2px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         华东师大的计算机科学与软件工程学院是该校最好的院系之一，软件工程专业更是在教育部第四轮学科评估并列全国第四、上海第一。在院长何积丰院士的严格要求下，这个专业素来以较高的学习要求和繁重的学习任务著称。许多同学戏称它为“脱发率最高的专业”。
+        </p>
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         没有任何计算机基础，也没有超强数学实力的张思源，在刚进华东师大读书时有一点迷茫，大一的第一个学期甚至还挂了一门必修课，整个学年下来成绩也仅仅处在中游水平。但他不言放弃，始终保持着积极而严谨的学习态度，泡图书馆、宅实验室，无数次为了完成课程项目而通宵写代码。
+        </p>
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         3.27、3.69、3.7、3.8、3.88……逐年上升的绩点见证了他持之以恒的努力，终于他在大三学年以年级综合排名第二的成绩圆梦国奖。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;box-sizing: border-box;">
+       <section style='display: inline-block;width: 100%;vertical-align: top;padding: 1px;background-position: 25.1773% -46.621%;background-repeat: repeat;background-size: 28.0399%;background-attachment: scroll;box-shadow: rgb(0, 0, 0) 0px 0px 0px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/FWBz5XlRGicD0GYrZKNRVib8sic9C4p7PM7kMRGVM0VCMxhIeW1lZwSBgWaicrwwNGWQhyENoYsmIhFc8S16YP9Rxw/640?wx_fmt=png");box-sizing: border-box;'>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="transform: translate3d(20px, 0px, 0px);-webkit-transform: translate3d(20px, 0px, 0px);-moz-transform: translate3d(20px, 0px, 0px);-o-transform: translate3d(20px, 0px, 0px);margin: -1px 0%;box-sizing: border-box;">
+          <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="text-align: center;padding-right: 8px;padding-left: 8px;font-size: 17px;color: rgb(77, 75, 75);letter-spacing: 1.5px;box-sizing: border-box;">
+              <p style="box-sizing: border-box;">
+               <strong style="box-sizing: border-box;">
+                从科创“小白”到摘夺“首金”
+               </strong>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;box-sizing: border-box;">
+       <section style="font-size: 14px;line-height: 2;letter-spacing: 2px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         “纸上得来终觉浅”，张思源深知其中的道理，大学期间一直积极参与课外创新实践活动。
+        </p>
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         从参与学校创新训练计划到主持上海市大学生创新活动项目，从学校创新创业大赛的优胜奖到三等奖，这些成绩的获得，记录下他不断探索前行的脚步。
+        </p>
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         大三学年，张思源参与上海市高可信计算重点实验室课题组，从事传感器数据管理以及数据时空可视化研究，并取得一定成果。大四学年前夕，他加入“上海STEM云中心”创业项目，参与公司公关事务和内部信息化系统建设。不久前，该项目荣获第四届中国“互联网+”大学生创新创业大赛和2018年“创青春”浙大双创杯全国大学生创业大赛两项金奖。这也是华东师大在“互联网+”大赛中首获金奖。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 96%;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.6537037" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/FWBz5XlRGicD0GYrZKNRVib8sic9C4p7PM7HjxW2AhK9tlT4AbMvMGZ5vosVCuZQzSGkd3Dv57atUnbhUz8Kzg4Bw/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;box-sizing: border-box;">
+       <section style='display: inline-block;width: 100%;vertical-align: top;padding: 1px;background-position: 25.1773% -46.621%;background-repeat: repeat;background-size: 28.0399%;background-attachment: scroll;box-shadow: rgb(0, 0, 0) 0px 0px 0px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/FWBz5XlRGicD0GYrZKNRVib8sic9C4p7PM7kMRGVM0VCMxhIeW1lZwSBgWaicrwwNGWQhyENoYsmIhFc8S16YP9Rxw/640?wx_fmt=png");box-sizing: border-box;'>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="text-align: right;transform: translate3d(-20px, 0px, 0px);-webkit-transform: translate3d(-20px, 0px, 0px);-moz-transform: translate3d(-20px, 0px, 0px);-o-transform: translate3d(-20px, 0px, 0px);margin: -1px 0%;box-sizing: border-box;">
+          <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="text-align: center;padding-right: 8px;padding-left: 8px;font-size: 17px;color: rgb(77, 75, 75);letter-spacing: 1.5px;box-sizing: border-box;">
+              <p style="box-sizing: border-box;">
+               <strong style="box-sizing: border-box;">
+                真正优秀的人能带动一群人优秀
+               </strong>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;line-height: 2;letter-spacing: 2px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         作为一名学生党员，张思源除了不断提升自我，也始终秉持为同学服务的理念，用实际行动积极影响周围同学。
+        </p>
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         他是学院学生科技创新协会的第二任主席，在他的努力下，协会实现了从萌芽到壮大的飞跃。他领导组织了上海市“气象+大数据”创新应用大赛、上海市程序设计邀请赛、华东师大首届CTF竞赛、华东师大首届趣味棋AI大赛等赛事，举办了亚马逊AWS云计算讲座、走向大众的人工智能论坛、开源硬件开发workshop等讲座，开创了“学生科技英才奖”评选。在他的辛勤付出下，科技创新协会不断为同学们提供更加广泛深入的实践发展平台，学院的科创氛围日渐浓厚。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 96%;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/FWBz5XlRGicD0GYrZKNRVib8sic9C4p7PM72XFVvx9HhOpZ9MhyoOkYkjZkFf9q9gNvuHEGVsGPjatz9aSmFP4icvw/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;line-height: 2;letter-spacing: 2px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         <span style="text-indent: 2em;box-sizing: border-box;">
+          2018年5月，张思源作为华东师范大学唯一的学生代表赴天津大学参加由示范性软件学院联盟主办的“首届国家示范性软件学院青年学生发展论坛”。在来自全国各大高校的老师和优秀学生面前，他做了主题分享，向全国高校介绍师大经验，展现师大学子的智慧。
+         </span>
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 96%;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.6666667" data-type="jpeg" data-w="786" src="https://mmbiz.qpic.cn/mmbiz_jpg/FWBz5XlRGicD0GYrZKNRVib8sic9C4p7PM7TgfqB8uR9yiaqtwPPDm3F8sa3soDJ5wTvUVvk8BRTMS0qHHVUQwrq5w/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;box-sizing: border-box;">
+       <section style='display: inline-block;width: 100%;vertical-align: top;padding: 1px;background-position: 25.1773% -46.621%;background-repeat: repeat;background-size: 28.0399%;background-attachment: scroll;box-shadow: rgb(0, 0, 0) 0px 0px 0px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/FWBz5XlRGicD0GYrZKNRVib8sic9C4p7PM7kMRGVM0VCMxhIeW1lZwSBgWaicrwwNGWQhyENoYsmIhFc8S16YP9Rxw/640?wx_fmt=png");box-sizing: border-box;'>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="transform: translate3d(20px, 0px, 0px);-webkit-transform: translate3d(20px, 0px, 0px);-moz-transform: translate3d(20px, 0px, 0px);-o-transform: translate3d(20px, 0px, 0px);margin: -1px 0%;box-sizing: border-box;">
+          <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="text-align: center;padding-right: 8px;padding-left: 8px;font-size: 17px;color: rgb(77, 75, 75);letter-spacing: 1.5px;box-sizing: border-box;">
+              <p style="box-sizing: border-box;">
+               <strong style="box-sizing: border-box;">
+                他爱弹《知足》，却从不“知足”
+               </strong>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;line-height: 2;letter-spacing: 2px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         除了码代码、写程序，张思源的心中也有自己的“诗和远方”。
+        </p>
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         他的朋友们常说“阿源的心中充满对生活美好的想法和善意”，他会“停下来闻腊梅的香味”，会“录制从中北到闵行校车里看到的落日”，会“低调谦逊且照顾他人的情绪”，会“用各种可爱夸张语气词和修辞鼓励、关心身边的大家”。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 96%;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="1" data-type="jpeg" data-w="580" src="https://mmbiz.qpic.cn/mmbiz_jpg/FWBz5XlRGicD0GYrZKNRVib8sic9C4p7PM7m0V7nsYPZVlCXqdtcns14ibiaZIVWfym6GTuXRINnsCeSNeovu0DromA/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;line-height: 2;letter-spacing: 2px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         <span style="text-indent: 2em;box-sizing: border-box;">
+          热爱音乐的他还参加了师大的樱河之声青年合唱团，登上了学校2019年新年音乐会的舞台。多年来，他认真勤奋地练习吉他，和几位志同道合的朋友组成了小乐队，享受音乐带来的欢乐，并努力将欢乐带给更多的人。他喜欢在雨天里弹一首《晴天》，让音乐和雨声一起响在耳畔；喜欢在迷茫时弹一首《平凡之路》，告诉自己一心追梦的人永不平凡；他喜欢弹《知足》，却从不“知足”。
+         </span>
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 96%;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.5628672" data-type="jpeg" data-w="851" src="https://mmbiz.qpic.cn/mmbiz_jpg/FWBz5XlRGicD0GYrZKNRVib8sic9C4p7PM7s4nx5KNtujtoxNIXBSzRufVcNnFzKBzndA8rtJTRb5trTlD1QXngog/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;box-sizing: border-box;">
+       <section style='display: inline-block;width: 100%;vertical-align: top;padding: 1px;background-position: 25.1773% -46.621%;background-repeat: repeat;background-size: 28.0399%;background-attachment: scroll;box-shadow: rgb(0, 0, 0) 0px 0px 0px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/FWBz5XlRGicD0GYrZKNRVib8sic9C4p7PM7kMRGVM0VCMxhIeW1lZwSBgWaicrwwNGWQhyENoYsmIhFc8S16YP9Rxw/640?wx_fmt=png");box-sizing: border-box;'>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="transform: translate3d(20px, 0px, 0px);-webkit-transform: translate3d(20px, 0px, 0px);-moz-transform: translate3d(20px, 0px, 0px);-o-transform: translate3d(20px, 0px, 0px);margin: -1px 0%;box-sizing: border-box;">
+          <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="text-align: center;padding-right: 8px;padding-left: 8px;font-size: 17px;color: rgb(77, 75, 75);letter-spacing: 1.5px;box-sizing: border-box;">
+              <p style="box-sizing: border-box;">
+               <strong style="box-sizing: border-box;">
+                别人眼中的他
+               </strong>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;line-height: 2;letter-spacing: 2px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <span style="font-size: 16px;box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           舍友C：
+          </strong>
+         </span>
+         张思源同学热爱生活热爱音乐，回到宿舍在走廊上常听到屋里传来动人的弹唱声。同时张思源同学热情好客，每逢开学总能尝到四川特产，在他的影响下室友们的吃辣能力稳步提升，在他的盛情邀请下我还有幸去他家做客。他的学习能力和态度毋庸置疑，勤奋刻苦，成绩优异，项目经历丰富，学生工作应付自如。
+        </p>
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;line-height: 2;letter-spacing: 2px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <span style="font-size: 16px;box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           舍友Z：
+          </strong>
+         </span>
+         <span style="box-sizing: border-box;">
+          张思源同学大学期间积极参与各类学生活动，在大学生创新创业大赛等科创比赛中表现出色，在学院团学联先后担任科创中心部长、主席等重要职务工作；大三学年荣获国家奖学金，在京东公司实习表现突出；考研期间勤奋刻苦，又注重劳逸结合，每天晚上学习结束都会和舍友一起弹奏吉他。
+         </span>
+        </p>
+        <p style="box-sizing: border-box;">
+         <br/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 13px;line-height: 2;letter-spacing: 2px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <span style="font-size: 15px;box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           舍友H：
+          </strong>
+         </span>
+         <span style="box-sizing: border-box;">
+          从大一到现在一直都叫他“羊驼”，转眼间已经过了四年了，仿佛昨天刚认识他一样，四年来和羊驼一起做了好多事情，大二上学期基本每天都在一起上课吃饭，后来还一起去健身房，还被他教会了游泳，最后还一起选择了考研，看到他变得越来越成熟优秀，心里由衷的替他感到高兴，希望以后羊驼能更加优秀，加油！
+         </span>
+        </p>
+        <p style="box-sizing: border-box;">
+         <br/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 13px;line-height: 2;letter-spacing: 2px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <span style="font-size: 15px;box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           朋友X：
+          </strong>
+         </span>
+         <span style="box-sizing: border-box;">
+          他是一个具有领导力和亲和力的好部长，对学生工作尽心负责，团结部门，带领大家创造了最温暖美好的回忆；他是学习的榜样，聪明认真，乐于助人；他是一个超级棒的朋友，有趣又多才多艺，认识老张大学中多了很多的快乐！他是艺友，是宜友，是益友。
+         </span>
+        </p>
+        <p style="box-sizing: border-box;">
+         <br/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 13px;line-height: 2;letter-spacing: 2px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <span style="font-size: 15px;box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           学长J：
+          </strong>
+         </span>
+         <span style="box-sizing: border-box;">
+          张思源是我的学弟，一起在科协工作过一年，非常让人放心的搭档！
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 13px;line-height: 2;letter-spacing: 2px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <span style="font-size: 15px;box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           辅导员：
+          </strong>
+         </span>
+         <span style="box-sizing: border-box;">
+          国家奖学金这份荣誉对于思源来说是大学四年他所有的勤奋付出，不断成长的最好见证。他不是最聪明的学生，但他是最努力的学生。他身上最大的特质是乐观、勤奋和坚毅。在学习和工作中遇到任何困难他总能迎难而上，不断挑战自我。在大一因为学习方式的不适应导致数学挂科，也曾有迷茫和不自信，他能很主动的找跟同学、老师交流，思考自己不足去调整状态。在今年直研中他非常可惜只差一位未能入选，但他不放弃梦想，全身心的备战考研并获得了非常好的初试成绩。同时他也非常热爱学生工作，热爱生活，能做好科创工作和学业的平衡，在科创竞赛上获得国家、市级多项奖项。作为学生干部和学生党员，他能影响和带动大家一起进步，在同学有困难主动帮助，与室友一起健身跑步，弹吉他唱歌。四把吉他、干净整洁的寝室，一度成为年级里最有特色的一间男生寝室，他就是同学中眼中那个有诗更有远方的程序猿，相信他会更好的发展。
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.7152859" data-type="jpeg" data-w="857" src="https://mmbiz.qpic.cn/mmbiz_jpg/FWBz5XlRGicD0GYrZKNRVib8sic9C4p7PM7XIgfGQcMtG3mvtiawia6Cu46UI8p5dsGsbfZicSmVys2aMnSHmeQzmn4w/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 10px 0%;box-sizing: border-box;">
+          <section style='display: inline-block;width: 100%;vertical-align: top;padding: 1px;background-position: 25.1773% -46.621%;background-repeat: repeat;background-size: 28.0399%;background-attachment: scroll;box-shadow: rgb(0, 0, 0) 0px 0px 0px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/FWBz5XlRGicD0GYrZKNRVib8sic9C4p7PM7kMRGVM0VCMxhIeW1lZwSBgWaicrwwNGWQhyENoYsmIhFc8S16YP9Rxw/640?wx_fmt=png");box-sizing: border-box;'>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="text-align: right;transform: translate3d(-20px, 0px, 0px);-webkit-transform: translate3d(-20px, 0px, 0px);-moz-transform: translate3d(-20px, 0px, 0px);-o-transform: translate3d(-20px, 0px, 0px);margin: -1px 0%;box-sizing: border-box;">
+             <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+              <section powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="box-sizing: border-box;">
+                <section style="text-align: center;padding-right: 8px;padding-left: 8px;font-size: 17px;color: rgb(77, 75, 75);letter-spacing: 1.5px;box-sizing: border-box;">
+                 <p style="box-sizing: border-box;">
+                  <strong style="box-sizing: border-box;">
+                   曾获奖项
+                  </strong>
+                 </p>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 13px;line-height: 2;letter-spacing: 2px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          ►2016年11月
+         </strong>
+         华东师范大学第二届创新创业大赛优胜奖
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          ►2017年06月
+         </strong>
+         华东师范大学“优秀学生会干部”称号
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          ►2017年10月
+         </strong>
+         华东师范大学计算机科学与软件工程学院“民众财行”优秀学生奖学金
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          ►2017年10月
+         </strong>
+         上海大学生创新创业训练项目结项“良”
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          ►2017年11月
+         </strong>
+         华东师范大学优秀学生二等奖学金
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          ►2017年11月
+         </strong>
+         华东师范大学“优秀学生干部”称号
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          ►2017年12月
+         </strong>
+         华东师范大学第三届创新创业大赛三等奖
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          ►2018年10月
+         </strong>
+         国家奖学金
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          ►2018年10月
+         </strong>
+         第四届中国“互联网+”大学生创新创业大赛金奖
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          ►2018年11月
+         </strong>
+         华东师范大学“优秀学生”称号
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          ►2018年11月
+         </strong>
+         2018年“创青春”浙大双创杯全国大学生创业大赛金奖
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          ►2019年01月
+         </strong>
+         计算机科学与软件工程学院“优秀学生科技创新奖励暨缔安科创启航基金”
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.0151188" data-type="png" data-w="463" src="https://mmbiz.qpic.cn/mmbiz_png/FWBz5XlRGicD0GYrZKNRVib8sic9C4p7PM77KykmFxVzQtIQlKSIWenYjIGkMnWUBY7GhaAbT9icSwbgKNrYiarcWHw/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;letter-spacing: 1.5px;padding-right: 8px;padding-left: 8px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         人人生而平凡，却有人注定不凡。这世界上本就没有那么多的天才，那些站在顶峰上的人，更多的，不过是像张思源那样努力的普通人罢了。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="letter-spacing: 1.5px;padding-right: 8px;padding-left: 8px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 30px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-right: 0%;margin-left: 0%;text-align: right;font-size: 14px;transform: translate3d(-5px, 0px, 0px);box-sizing: border-box;">
+       <section style="display: inline-block;border-width: 2px;border-style: solid;border-color: rgb(0, 0, 0);padding: 0.1em 0.3em;background-color: rgb(0, 0, 0);color: rgb(255, 255, 255);line-height: 1.4;font-size: 10px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         ECNU极客青年
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: 4px 0% 10px;box-sizing: border-box;">
+       <section style="display: inline-block;width: 95%;vertical-align: top;box-shadow: rgba(81, 81, 81, 0.54) 0px 0px 0px;border-color: rgb(0, 0, 0);border-width: 1px;border-radius: 0px;border-style: solid;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="transform: translate3d(5px, 0px, 0px);-webkit-transform: translate3d(5px, 0px, 0px);-moz-transform: translate3d(5px, 0px, 0px);-o-transform: translate3d(5px, 0px, 0px);margin: -5px 0% 5px;box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;box-shadow: rgba(81, 81, 81, 0.54) 0px 0px 0px;background-color: rgba(255, 255, 255, 0.2);border-color: rgb(0, 0, 0);border-width: 1px;border-radius: 0px;border-style: solid;padding: 10px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="display: inline-block;vertical-align: bottom;width: 92%;padding-left: 10px;box-sizing: border-box;">
+              <section powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="margin-right: 0%;margin-bottom: 5px;margin-left: 0%;box-sizing: border-box;">
+                <section style="text-align: justify;font-size: 12px;line-height: 1.6;box-sizing: border-box;">
+                 <p style="white-space: normal;box-sizing: border-box;">
+                  <strong style="box-sizing: border-box;">
+                   ▼长按下方二维码关注我们▼
+                  </strong>
+                 </p>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="display: inline-block;vertical-align: middle;width: 50%;box-sizing: border-box;">
+              <section powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+                <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 100%;box-sizing: border-box;">
+                 <img class="raw-image" data-ratio="1.002681" data-type="jpeg" data-w="373" src="https://mmbiz.qpic.cn/mmbiz_jpg/FWBz5XlRGicD0GYrZKNRVib8sic9C4p7PM7HN6FabU3LId6VcGrIo6AGPjv8r5Vz8zPEmGFNpkajlCa0SH63so5tA/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+                </section>
+               </section>
+              </section>
+             </section>
+             <section style="display: inline-block;vertical-align: middle;width: 40%;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+              <section powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="margin-right: 0%;margin-bottom: 5px;margin-left: 0%;box-sizing: border-box;">
+                <section style="letter-spacing: 1.5px;line-height: 1.6;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+                 <p style="box-sizing: border-box;">
+                  <strong style="box-sizing: border-box;">
+                   有趣的灵魂
+                  </strong>
+                 </p>
+                 <p style="box-sizing: border-box;">
+                  <strong style="box-sizing: border-box;">
+                   在这里等你
+                   <br style="box-sizing: border-box;"/>
+                  </strong>
+                 </p>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="letter-spacing: 1.5px;padding-right: 8px;padding-left: 8px;box-sizing: border-box;">
+     <p style="text-align: right;box-sizing: border-box;">
+      <span style="font-size: 12px;box-sizing: border-box;">
+       信宣新媒体出品
+      </span>
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style='display: inline-block;width: 100%;vertical-align: top;background-position: 0% 0%;background-repeat: repeat;background-size: 99.0957%;background-attachment: scroll;letter-spacing: 0px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/FWBz5XlRGicD0GYrZKNRVib8sic9C4p7PM7OrsGoEE00TDhrSFQ4O58WHyOia3yNO5etwh5dCxKVlZLxcORHWez8icg/640?wx_fmt=png");box-sizing: border-box;'>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;width: 15%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 80%;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="1" data-type="gif" data-w="260" src="https://mmbiz.qpic.cn/mmbiz_gif/FWBz5XlRGicD0GYrZKNRVib8sic9C4p7PM7caybysyc0WmrkMsqLicLTI9CJXjFyEqNM2KZG6qRJk6fXGPDUKicKpIw/640?wx_fmt=gif" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;width: 85%;padding-left: 10px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="font-size: 13px;text-align: center;letter-spacing: 1px;box-sizing: border-box;">
+           <p style="text-align: justify;white-space: normal;box-sizing: border-box;">
+            即刻点击阅读原文，查看上海市入选国家奖学金优秀代表名单！
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>

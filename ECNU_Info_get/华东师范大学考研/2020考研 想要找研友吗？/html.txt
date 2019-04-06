@@ -1,0 +1,592 @@
+
+ <section class="xmteditor" data-label="powered by xmt.cn" data-tools="新媒体管家" style="display:none;">
+ </section>
+ <section class="xmteditor" data-label="powered by xmt.cn" data-tools="新媒体管家" style="display:none;">
+ </section>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="color: rgb(0, 0, 0);">
+   <strong>
+    你
+   </strong>
+  </span>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="color: rgb(0, 0, 0);">
+   <strong>
+    来
+   </strong>
+  </span>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="color: rgb(0, 0, 0);">
+   <strong>
+    到
+   </strong>
+  </span>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="color: rgb(0, 0, 0);">
+   <strong>
+    了
+   </strong>
+  </span>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="font-size: 24px;color: rgb(255, 255, 255);background-color: rgb(234, 106, 100);">
+   <strong>
+    2020第一次找研友活动
+   </strong>
+  </span>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="font-size: 15px;">
+   时间过得真快啊
+  </span>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="font-size: 15px;">
+   转眼间从自己考研到看着19考研结束
+  </span>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="font-size: 15px;">
+   现在已然来到了20考研
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="font-size: 15px;">
+   去年小派做了几次活动
+  </span>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="font-size: 15px;">
+   找研友、同专业小组、打卡
+  </span>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="font-size: 15px;">
+   活动算不上很成功
+  </span>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="font-size: 15px;">
+   却没想到也收到了意外惊喜般的来信。
+  </span>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="font-size: 15px;">
+   人数不多，但终归让小派觉得
+  </span>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="font-size: 15px;">
+   这一切都是有意义的。
+  </span>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="color: rgb(0, 0, 0);">
+   <strong>
+    <span style="font-size: 15px;">
+     <strong style="color: rgb(62, 62, 62);max-width: 100%;line-height: 25.6px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+      <strong style="max-width: 100%;line-height: 25.6px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+       <img class="" data-ratio="0.0875" data-s="300,640" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZvyMMt8Zn77HZiaIMosdW7Bk9LrJTsToxUibZaeoqKcMBomYib325N0pYkHYeywsp6QGOvqZ5qIjKgA74ibcwicCibRw/640" style="line-height: 24px;letter-spacing: 1.2px;overflow-wrap: break-word;box-sizing: border-box;min-height: 0px;background-clip: border-box;background-position: 0% 0%;background-repeat: repeat;background-size: auto;border-width: 0px;border-style: none;border-color: rgb(62, 62, 62);bottom: auto;display: inline;float: none;left: auto;max-height: none;min-width: 0px;text-decoration-style: solid;text-decoration-color: rgb(62, 62, 62);top: auto;z-index: auto;visibility: visible;clear: none;" width="auto"/>
+      </strong>
+     </strong>
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="color: rgb(0, 0, 0);background-color: rgb(232, 231, 172);">
+   <strong>
+    “有时候，向前一步就是另一个故事了”
+   </strong>
+  </span>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="color: rgb(0, 0, 0);background-color: rgb(232, 231, 172);">
+   <strong>
+    那些不期而遇都是值得期待的！
+   </strong>
+  </span>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <strong>
+   <span style="color: rgb(136, 136, 136);font-size: 14px;">
+    @怪蜀黍
+   </span>
+  </strong>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="margin-right: 8px;margin-left: 8px;font-variant-numeric: normal;font-variant-east-asian: normal;text-indent: 0em;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: left;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <strong>
+   <span style="color: rgb(136, 136, 136);font-size: 14px;">
+    再没有比遇上一个数学学霸研友更幸运的事了吧！你不会的题目他分分钟给你讲东，简直就是一对一辅导啊，什么微积分，级数什么的都难不倒他，而且为人还很有耐心，简直太nice了。感谢小派让我遇到这么优秀的研友。哈哈，感觉自己撞了大运，本来数学就贼差的，没想到还真的遇到了一个大神研友。有时候想，这要是高中遇上他，我数学是不是能考个150？？？
+   </span>
+  </strong>
+ </p>
+ <p style="margin-right: 8px;margin-left: 8px;font-variant-numeric: normal;font-variant-east-asian: normal;text-indent: 0em;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: left;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="margin-right: 8px;margin-left: 8px;font-variant-numeric: normal;font-variant-east-asian: normal;text-indent: 0em;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: left;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="margin-right: 8px;margin-left: 8px;font-variant-numeric: normal;font-variant-east-asian: normal;text-indent: 0em;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <strong>
+   <span style="color: rgb(136, 136, 136);font-size: 14px;">
+    @勿忘初心
+    <br/>
+   </span>
+  </strong>
+ </p>
+ <p style="margin-right: 8px;margin-left: 8px;font-variant-numeric: normal;font-variant-east-asian: normal;text-indent: 0em;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="margin-right: 8px;margin-left: 8px;font-variant-numeric: normal;font-variant-east-asian: normal;text-indent: 0em;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: left;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <strong>
+   <span style="color: rgb(136, 136, 136);font-size: 14px;">
+    我和她是在同城小组活动中认识的，想来想去觉得有一首歌很适合我们啊，一个像夏天一个像秋天。我们现在不仅是研友，更是好朋友，好闺蜜。平时一起自习，逛街，讨论哪的美食更深的人心，那家的美甲店更好。感谢考研，感谢小派，让我们相遇。
+   </span>
+  </strong>
+ </p>
+ <p style="margin-right: 8px;margin-left: 8px;font-variant-numeric: normal;font-variant-east-asian: normal;text-indent: 0em;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: left;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="margin-right: 8px;margin-left: 8px;font-variant-numeric: normal;font-variant-east-asian: normal;text-indent: 0em;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: left;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="margin-right: 8px;margin-left: 8px;font-variant-numeric: normal;font-variant-east-asian: normal;text-indent: 0em;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <strong>
+   <span style="color: rgb(136, 136, 136);font-size: 14px;">
+    @just do it
+    <br/>
+   </span>
+  </strong>
+ </p>
+ <p style="margin-right: 8px;margin-left: 8px;font-variant-numeric: normal;font-variant-east-asian: normal;text-indent: 0em;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="margin-right: 8px;margin-left: 8px;font-variant-numeric: normal;font-variant-east-asian: normal;text-indent: 0em;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: left;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <strong>
+   <span style="color: rgb(136, 136, 136);font-size: 14px;">
+    在同专业小组中遇到了一群有意思的人，大家每天一起早起打卡，相互鼓励。空闲的时候也会在一起吐槽一下，偶尔的不开心不如意也能得到大家的安慰。考研真的不容易，主要是坚持下去真的很难，虽然一早就下定决心，每天都要学习8个小时以上，但是执行起来真的不容易。有这么一群人相互鼓励，是真的幸运。加油，愿大家都前程似锦！
+    <br/>
+   </span>
+  </strong>
+ </p>
+ <p style="margin-right: 8px;margin-left: 8px;font-variant-numeric: normal;font-variant-east-asian: normal;text-indent: 0em;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="margin-right: 8px;margin-left: 8px;font-variant-numeric: normal;font-variant-east-asian: normal;text-indent: 0em;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: left;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="margin-right: 8px;margin-left: 8px;font-variant-numeric: normal;font-variant-east-asian: normal;text-indent: 0em;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: left;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <strong>
+   <span style="color: rgb(136, 136, 136);font-size: 14px;">
+    <strong style="color: rgb(0, 0, 0);font-size: 18px;text-align: center;">
+     <span style="font-size: 15px;">
+      <strong style="color: rgb(62, 62, 62);max-width: 100%;line-height: 25.6px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+       <strong style="max-width: 100%;line-height: 25.6px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+        <img class="" data-ratio="0.0875" data-s="300,640" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZvyMMt8Zn77HZiaIMosdW7Bk9LrJTsToxUibZaeoqKcMBomYib325N0pYkHYeywsp6QGOvqZ5qIjKgA74ibcwicCibRw/640" style="line-height: 24px;letter-spacing: 1.2px;overflow-wrap: break-word;box-sizing: border-box;min-height: 0px;background-clip: border-box;background-position: 0% 0%;background-repeat: repeat;background-size: auto;border-width: 0px;border-style: none;border-color: rgb(62, 62, 62);bottom: auto;display: inline;float: none;left: auto;max-height: none;min-width: 0px;text-decoration-style: solid;text-decoration-color: rgb(62, 62, 62);top: auto;z-index: auto;visibility: visible;clear: none;" width="auto"/>
+       </strong>
+      </strong>
+     </span>
+    </strong>
+   </span>
+  </strong>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="background-color: rgb(232, 231, 172);">
+   <strong style="color: rgb(0, 0, 0);">
+    “20届，让感动继续下去！”
+   </strong>
+  </span>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="color: rgb(0, 0, 0);">
+   <strong>
+    <span style="font-size: 15px;">
+     20届的小伙伴
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p data-mpa-powered-by="yiban.io" style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="color: rgb(0, 0, 0);">
+   <strong>
+    <span style="font-size: 15px;">
+     也来参加找研友活动吧
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="color: rgb(62, 62, 62);font-size: 15px;">
+   或许也能碰到那个陪你走一年的朋友呢？
+  </span>
+ </p>
+ <p style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-size: 18px;widows: 1;text-align: center;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="color: rgb(62, 62, 62);font-size: 15px;">
+   2020届找研友第一期等你！
+  </span>
+ </p>
+ <p style="margin-bottom: 15px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);font-size: 18px;widows: 1;line-height: 25.6px;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="margin-bottom: 25px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);widows: 1;font-size: 16px;line-height: 1.75em;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="max-width: 100%;font-size: 18px;color: rgb(232, 122, 144);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <strong style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    【 活 动 介 绍 】
+   </strong>
+  </span>
+ </p>
+ <p style="margin-right: 1em;margin-bottom: 20px;margin-left: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);widows: 1;font-size: 16px;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(110, 110, 110);font-size: 14px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   1. 在所有报名这次活动的人里，我们会尽量寻找与你
+  </span>
+  <span style="max-width: 100%;font-size: 14px;color: rgb(232, 122, 144);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <strong style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    报考专业相同
+   </strong>
+  </span>
+  <span style="max-width: 100%;color: rgb(110, 110, 110);font-size: 14px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   的人，并安排你们互相认识。PS:由于这是今年第一次举行活动，小派并不确定有多少人参加，所以只能尽量完成。
+  </span>
+ </p>
+ <p style="margin-right: 1em;margin-bottom: 20px;margin-left: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);widows: 1;font-size: 16px;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="max-width: 100%;font-size: 14px;color: rgb(110, 110, 110);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   2. 我们还会建一个
+   <strong style="color: rgb(232, 122, 144);max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    共同专业
+   </strong>
+   的学习
+  </span>
+  <span style="max-width: 100%;font-size: 14px;color: rgb(232, 122, 144);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <strong style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    房
+   </strong>
+   <strong style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    间(群)
+   </strong>
+  </span>
+  <span style="max-width: 100%;font-size: 14px;color: rgb(110, 110, 110);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   。在房间中，我们会安排学长进行一些基本问题的答疑。也会视情况安排一些活动。
+  </span>
+ </p>
+ <p style="margin-right: 1em;margin-bottom: 10px;margin-left: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);widows: 1;font-size: 16px;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="max-width: 100%;line-height: 28px;font-size: 14px;color: rgb(110, 110, 110);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   3. 我们会为你们每个群配置你们学校的
+   <strong style="color: rgb(232, 122, 144);max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    专属学姐
+   </strong>
+   ，学姐会分享给大家一些资料，并且回回答大家的任何疑问。
+  </span>
+ </p>
+ <p style="margin-right: 1em;margin-bottom: 10px;margin-left: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);widows: 1;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(110, 110, 110);line-height: 1.75em;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <span style="font-size: 13px;">
+    4.
+   </span>
+   <span class="Apple-converted-space">
+    <span style="font-size: 13px;">
+     本期
+    </span>
+    <span style="font-size: 14px;">
+     活动目标人数：1500人
+    </span>
+   </span>
+  </span>
+ </p>
+ <p style="margin-right: 1em;margin-bottom: 15px;margin-left: 1em;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);widows: 1;font-size: 16px;line-height: 1.75em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="margin-bottom: 25px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);widows: 1;font-size: 16px;line-height: 1.75em;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="max-width: 100%;font-size: 18px;color: rgb(232, 122, 144);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <strong style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    【 参 与 方 式 】
+   </strong>
+  </span>
+ </p>
+ <p style="margin-bottom: 25px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);widows: 1;font-size: 16px;line-height: 1.75em;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="max-width: 100%;font-size: 15px;color: rgb(89, 89, 89);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <strong style="color: rgb(232, 122, 144);font-size: 24px;max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    扫描下方二维码添加学姐学长，
+   </strong>
+   回复
+  </span>
+  <span style="max-width: 100%;font-size: 24px;color: rgb(232, 122, 144);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <strong style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    找 研 友
+   </strong>
+  </span>
+  <strong style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <span style="max-width: 100%;color: rgb(253, 185, 51);font-size: 24px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   </span>
+  </strong>
+  <span style="max-width: 100%;font-size: 15px;color: rgb(110, 110, 110);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   即可
+  </span>
+ </p>
+ <p style="white-space: normal;text-align: center;">
+  <img class="" data-copyright="0" data-ratio="1" data-s="300,640" data-type="png" data-w="500" src="https://mmbiz.qpic.cn/mmbiz_png/X6ddG4Wcsr5K4XqAHG9put57FZ75GM4xIsFX7rC4E0yfBY1Lzias7LOKJ8RZiacknibicVz1jZKeJXGr0ThEAxLq8Q/640?wx_fmt=png" style="height: 146px;width: 146px;"/>
+ </p>
+ <p style="margin-bottom: 25px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);widows: 1;font-size: 16px;line-height: 1.75em;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="color: rgb(110, 110, 110);font-size: 15px;">
+   学姐或学长会给你填写专业信息表单，并先拉入一个大群（用于通知结果）
+  </span>
+ </p>
+ <p style="white-space: normal;text-align: center;">
+  <br/>
+ </p>
+ <p style="white-space: normal;text-align: center;">
+  <br/>
+ </p>
+ <p style="white-space: normal;text-align: center;">
+  <br/>
+ </p>
+ <p style="margin-bottom: 20px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);widows: 1;font-size: 16px;line-height: 25.6px;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="max-width: 100%;font-size: 18px;color: rgb(232, 122, 144);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <strong style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    【 如 何 查 询 结 果 】
+   </strong>
+  </span>
+ </p>
+ <p style="margin-bottom: 15px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);widows: 1;font-size: 16px;line-height: 25.6px;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="max-width: 100%;font-size: 15px;color: rgb(232, 122, 144);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <strong style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    <span style="max-width: 100%;white-space: pre-wrap;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+     1月30号晚
+    </span>
+   </strong>
+  </span>
+  <span style="max-width: 100%;white-space: pre-wrap;color: rgb(89, 89, 89);font-size: 14px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   （具体时间未定，可能会延迟一两天）
+  </span>
+ </p>
+ <p style="margin-bottom: 15px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);widows: 1;font-size: 16px;line-height: 25.6px;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="max-width: 100%;white-space: pre-wrap;color: rgb(89, 89, 89);font-size: 14px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   我们会在
+  </span>
+  <span style="max-width: 100%;color: rgb(232, 122, 144);font-size: 14px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <strong style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    <span style="max-width: 100%;white-space: pre-wrap;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+     群中和朋友圈通知，请注意查看
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="margin-bottom: 15px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;widows: 1;font-size: 16px;line-height: 25.6px;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="color: rgb(89, 89, 89);max-width: 100%;white-space: pre-wrap;font-size: 14px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   同时也会在
+  </span>
+  <span style="color: rgb(232, 122, 144);max-width: 100%;font-size: 14px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <strong style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    <span style="max-width: 100%;white-space: pre-wrap;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+     “考研派VIP”公众平台（本号）中通知大家
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="margin-bottom: 15px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;widows: 1;font-size: 16px;line-height: 25.6px;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="margin-bottom: 15px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;widows: 1;font-size: 16px;line-height: 25.6px;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="margin-bottom: 15px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);widows: 1;font-size: 16px;line-height: 25.6px;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <strong style="color: rgb(232, 122, 144);font-size: 18px;max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   【 为 什 么 要 办 这 个 活 动 】
+  </strong>
+ </p>
+ <p style="margin-bottom: 15px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;widows: 1;line-height: 25.6px;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="color: rgb(89, 89, 89);font-size: 14px;">
+   研路漫漫
+  </span>
+ </p>
+ <p style="margin-bottom: 15px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;widows: 1;line-height: 25.6px;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="color: rgb(89, 89, 89);font-size: 14px;">
+   我们希望不只有我们陪着你
+  </span>
+ </p>
+ <p style="margin-bottom: 15px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;widows: 1;line-height: 25.6px;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="color: rgb(89, 89, 89);font-size: 14px;">
+   还有一个人可以在你
+  </span>
+ </p>
+ <p style="margin-bottom: 15px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;widows: 1;line-height: 25.6px;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="color: rgb(89, 89, 89);font-size: 14px;">
+   累了，倦了的时候鼓励你、陪伴你
+  </span>
+ </p>
+ <p style="margin-bottom: 10px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);widows: 1;font-size: 16px;line-height: 1.75em;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);font-size: 14px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   作为一个服务号
+   <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+  </span>
+ </p>
+ <p style="margin-bottom: 10px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);widows: 1;font-size: 16px;line-height: 1.75em;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);font-size: 14px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   我们一直能提供更好的服务
+  </span>
+ </p>
+ <p style="margin-bottom: 15px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);widows: 1;font-size: 16px;line-height: 25.6px;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="max-width: 100%;font-size: 14px;color: rgb(232, 122, 144);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <strong style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    <span style="max-width: 100%;white-space: pre-wrap;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+     让你在考研是时候不再那么孤单
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="margin-bottom: 5px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);widows: 1;font-size: 16px;line-height: 1.75em;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <strong style="max-width: 100%;font-size: 15px;line-height: 25.6px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <strong style="max-width: 100%;line-height: 25.6px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    <strong style="max-width: 100%;line-height: 28px;white-space: pre-wrap;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+     <span style="max-width: 100%;color: rgb(110, 110, 110);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+      <strong style="max-width: 100%;color: rgb(62, 62, 62);letter-spacing: 1.2px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+       <span style="max-width: 100%;color: rgb(110, 110, 110);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+        <strong style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+         <img class="" data-ratio="0.0875" data-s="300,640" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZvyMMt8Zn77HZiaIMosdW7Bk9LrJTsToxUibZaeoqKcMBomYib325N0pYkHYeywsp6QGOvqZ5qIjKgA74ibcwicCibRw/640" style='line-height: 24px;max-width: 100%;letter-spacing: 1.2px;color: rgb(62, 62, 62);font-weight: 700;overflow-wrap: break-word;box-sizing: border-box;margin: 0px;padding: 0px;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;white-space: normal;min-height: 0px;font-size: 15px;background-clip: border-box;background-position: 0% 0%;background-repeat: repeat;background-size: auto;border-width: 0px;border-style: none;border-color: rgb(62, 62, 62);bottom: auto;display: inline;float: none;height: auto;left: auto;max-height: none;min-width: 0px;text-align: center;text-decoration: none solid rgb(62, 62, 62);top: auto;z-index: auto;visibility: visible;clear: none;' width="auto"/>
+        </strong>
+       </span>
+      </strong>
+     </span>
+    </strong>
+   </strong>
+  </strong>
+ </p>
+ <p style="margin-bottom: 5px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);font-size: 18px;line-height: 28.8px;widows: 1;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+ </p>
+ <p style="margin-bottom: 15px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);font-size: 18px;line-height: 28.8px;widows: 1;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="max-width: 100%;font-size: 15px;line-height: 24px;color: rgb(89, 89, 89);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   在电影《秒速五厘米》中，
+  </span>
+  <span style="max-width: 100%;color: rgb(89, 89, 89);font-size: 15px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   有这样一句台词：
+  </span>
+ </p>
+ <p style="margin-bottom: 15px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);font-size: 18px;line-height: 28.8px;widows: 1;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(79, 171, 194);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <strong style="max-width: 100%;color: rgb(75, 181, 177);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    <span style="max-width: 100%;color: rgb(79, 171, 194);font-size: 15px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+     “我们仰望着同一片天空，
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="margin-bottom: 15px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);font-size: 18px;line-height: 28.8px;widows: 1;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(79, 171, 194);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <strong style="max-width: 100%;color: rgb(75, 181, 177);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    <span style="max-width: 100%;color: rgb(79, 171, 194);font-size: 15px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+     却看着不同的地方。”
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="margin-bottom: 10px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);widows: 1;font-size: 16px;line-height: 25.6px;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="margin-bottom: 15px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);widows: 1;font-size: 16px;line-height: 25.6px;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="max-width: 100%;font-size: 15px;line-height: 24px;color: rgb(89, 89, 89);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   但即使在不同的地方
+  </span>
+ </p>
+ <p style="margin-bottom: 15px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);widows: 1;font-size: 16px;line-height: 25.6px;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <span style="color: rgb(89, 89, 89);font-size: 15px;">
+   我们却在为同一件事情而努力
+  </span>
+  <br/>
+ </p>
+ <p style="margin-bottom: 15px;font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;color: rgb(62, 62, 62);widows: 1;font-size: 16px;line-height: 25.6px;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <strong>
+   <span style="font-size: 15px;">
+    来吧！参加吧！
+   </span>
+  </strong>
+ </p>
+ <p style="white-space: normal;">
+  <strong style="color: rgb(62, 62, 62);text-align: center;widows: 1;max-width: 100%;font-size: 15px;line-height: 25.6px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <strong style="max-width: 100%;line-height: 25.6px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    <img class="" data-ratio="0.0875" data-s="300,640" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/ZvyMMt8Zn77HZiaIMosdW7Bk9LrJTsToxUibZaeoqKcMBomYib325N0pYkHYeywsp6QGOvqZ5qIjKgA74ibcwicCibRw/640" style="line-height: 24px;letter-spacing: 1.2px;overflow-wrap: break-word;box-sizing: border-box;min-height: 0px;background-clip: border-box;background-position: 0% 0%;background-repeat: repeat;background-size: auto;border-width: 0px;border-style: none;border-color: rgb(62, 62, 62);bottom: auto;display: inline;float: none;left: auto;max-height: none;min-width: 0px;text-decoration-style: solid;text-decoration-color: rgb(62, 62, 62);top: auto;z-index: auto;visibility: visible;clear: none;" width="auto"/>
+   </strong>
+  </strong>
+ </p>
+ <p style="white-space: normal;text-align: center;">
+  <br/>
+ </p>
+ <p style="white-space: normal;text-align: center;">
+  <br/>
+ </p>
+ <p style="white-space: normal;text-align: center;">
+  <span style="color: rgb(255, 255, 255);background-color: rgb(255, 255, 255);">
+   <strong style="color: rgb(62, 62, 62);widows: 1;max-width: 100%;font-size: 15px;line-height: 25.6px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    <strong style="max-width: 100%;line-height: 25.6px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+     关注并置顶
+    </strong>
+   </strong>
+  </span>
+ </p>
+ <p style="white-space: normal;text-align: center;">
+  <br/>
+ </p>
+ <p style="white-space: normal;text-align: center;">
+  <span style="background-color: rgb(234, 106, 100);color: rgb(255, 255, 255);">
+   <strong style="color: rgb(62, 62, 62);widows: 1;max-width: 100%;font-size: 15px;line-height: 25.6px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    <strong style="max-width: 100%;line-height: 25.6px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+     考研派VIP
+    </strong>
+   </strong>
+  </span>
+ </p>
+ <p style="white-space: normal;text-align: center;">
+  <br/>
+ </p>
+ <p style="white-space: normal;text-align: center;">
+  <strong style="color: rgb(62, 62, 62);widows: 1;max-width: 100%;font-size: 15px;line-height: 25.6px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <strong style="max-width: 100%;line-height: 25.6px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    参加更多好玩，有趣的活动！
+   </strong>
+  </strong>
+ </p>
+ <p style="white-space: normal;text-align: center;">
+  <strong style="color: rgb(62, 62, 62);widows: 1;max-width: 100%;font-size: 15px;line-height: 25.6px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <strong style="max-width: 100%;line-height: 25.6px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    <img class="" data-backh="344" data-backw="344" data-copyright="0" data-ratio="1" data-s="300,640" data-type="jpeg" data-w="344" src="https://mmbiz.qpic.cn/mmbiz_jpg/X6ddG4Wcsr7NiccshfGVsWYZCFzBlnHGvm098hYVZQbg9uJt6WLJDbDsPuEiaepYms0uksqk4XhJibbDBfMOOhqTA/640" style="height: 140px;width: 140px;"/>
+   </strong>
+  </strong>
+ </p>
+ <p>
+  <br/>
+ </p>

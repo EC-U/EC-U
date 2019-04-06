@@ -1,0 +1,688 @@
+
+ <section style="font-size: 14px;line-height: 2;letter-spacing: 1px;padding: 0px 14px;color: rgb(65, 63, 63);box-sizing: border-box;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 0px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.7494118" data-type="jpeg" data-w="850" src="https://mmbiz.qpic.cn/mmbiz_jpg/9pWzhibBTfSDEQYszV8dJuNp8pJwD1F7BmfibGL6HEHQbvvhz79HewkBD3QVAmGpsnxKqeHXo90iatJCZrrCso1Nw/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 20px 0% 0px;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 24%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;text-align: center;font-size: 22px;box-sizing: border-box;">
+          <section style="width: 2.5em;height: 2.5em;padding: 0.25em;display: inline-block;border-radius: 100%;margin: auto;background-color: rgba(108, 158, 225, 0.32);box-sizing: border-box;">
+           <section class="tn-yzk-fuid-text-61023-1523328747110" style="line-height: 2.5;border-radius: 100%;background-color: rgb(108, 158, 225);color: rgb(255, 255, 255);font-size: 18px;box-sizing: border-box;">
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             <span style="font-family: PingFangTC-light;box-sizing: border-box;">
+              开
+             </span>
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;text-align: center;font-size: 22px;box-sizing: border-box;">
+          <section style="width: 2.5em;height: 2.5em;padding: 0.25em;display: inline-block;border-radius: 100%;margin: auto;background-color: rgba(108, 158, 225, 0.32);box-sizing: border-box;">
+           <section class="tn-yzk-fuid-text-61023-1523328747110" style="line-height: 2.5;border-radius: 100%;background-color: rgb(108, 158, 225);color: rgb(255, 255, 255);font-size: 18px;box-sizing: border-box;">
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             <span style="font-family: PingFangTC-light;box-sizing: border-box;">
+              学
+             </span>
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;text-align: center;font-size: 22px;box-sizing: border-box;">
+          <section style="width: 2.5em;height: 2.5em;padding: 0.25em;display: inline-block;border-radius: 100%;margin: auto;background-color: rgba(108, 158, 225, 0.32);box-sizing: border-box;">
+           <section class="tn-yzk-fuid-text-61023-1523328747110" style="line-height: 2.5;border-radius: 100%;background-color: rgb(108, 158, 225);color: rgb(255, 255, 255);font-size: 18px;box-sizing: border-box;">
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             <span style="font-family: PingFangTC-light;box-sizing: border-box;">
+              第
+             </span>
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;text-align: center;font-size: 22px;box-sizing: border-box;">
+          <section style="width: 2.5em;height: 2.5em;padding: 0.25em;display: inline-block;border-radius: 100%;margin: auto;background-color: rgba(108, 158, 225, 0.32);box-sizing: border-box;">
+           <section class="tn-yzk-fuid-text-61023-1523328747110" style="line-height: 2.5;border-radius: 100%;background-color: rgb(108, 158, 225);color: rgb(255, 255, 255);font-size: 18px;box-sizing: border-box;">
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             <span style="font-family: PingFangTC-light;box-sizing: border-box;">
+              一
+             </span>
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;text-align: center;font-size: 22px;box-sizing: border-box;">
+          <section style="width: 2.5em;height: 2.5em;padding: 0.25em;display: inline-block;border-radius: 100%;margin: auto;background-color: rgba(108, 158, 225, 0.32);box-sizing: border-box;">
+           <section class="tn-yzk-fuid-text-61023-1523328747110" style="border-radius: 100%;background-color: rgb(108, 158, 225);color: rgb(255, 255, 255);font-size: 18px;box-sizing: border-box;">
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             <span style="font-family: PingFangTC-light;box-sizing: border-box;">
+              课
+             </span>
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 76%;padding: 0px 8px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section class="tn-yzk-fuid-text-59151-1523328743253" style="font-size: 15px;text-align: justify;line-height: 2;color: rgb(86, 85, 85);box-sizing: border-box;">
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            开学第一天，华东师范大学第一附属中学忙碌而有序。晚上6点，
+            <strong style="box-sizing: border-box;">
+             “温馨寝室 和谐校园”2018学年第二学期全体住宿学生大会
+            </strong>
+            在尚真楼二楼会议室准时召开。130名住宿学生齐聚一堂，校党总支书记副校长王新、学生处主任张青、宿舍主管徐英俊、心理与生涯组老师罗吾民也参加了会议，会议由张青老师主持。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 20px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;background-image: linear-gradient(to top, rgb(172, 203, 238) 0%, rgb(231, 240, 253) 100%);padding: 0px;border-style: solid;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: -10px 0% 5px;transform: translate3d(-5px, 0px, 0px);-webkit-transform: translate3d(-5px, 0px, 0px);-moz-transform: translate3d(-5px, 0px, 0px);-o-transform: translate3d(-5px, 0px, 0px);box-sizing: border-box;">
+       <section style="display: inline-block;background-color: rgb(255, 255, 255);padding: 5px;border-style: solid;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;font-size: 16px;padding: 0px 5px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             公共安全教育第一课
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.6592593" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/9pWzhibBTfSDEQYszV8dJuNp8pJwD1F7BKqCadqvpMs8KjPrPnXAj2O3E6mE336gyPbuLE7XyIS3KsQsragkEVg/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 20px 0% 10px;box-sizing: border-box;">
+    <section class="group-empty" style="display: inline-block;vertical-align: top;width: 0%;box-sizing: border-box;height: 1px;">
+    </section>
+    <section style="display: inline-block;vertical-align: top;width: 100%;background-color: rgba(108, 158, 225, 0.16);padding: 5px 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 15px;color: rgb(108, 106, 106);box-sizing: border-box;">
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         会议的第一项议程，是观看上海教育电视台的公益节目《公共安全教育第一课》。师生跟随节目中的公安消防教官、气象专家和心理专家，共同学习了在日常生活、交通等环境中公共安全的注意要点，实现自助自救、互助互救的基本技能，恶劣天气中的安全要求，以及遇险时如何实现安全自救等知识。《公共安全教育第一课》集知识性、趣味性和科学性于一身，富有教育意义。大家观看认真、兴趣盎然，许多同学都表示受益匪浅，他们很快以微感言的方式来反馈了他们的观后感。
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 20px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;background-image: linear-gradient(to top, rgb(172, 203, 238) 0%, rgb(231, 240, 253) 100%);padding: 0px;border-style: solid;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: -10px 0% 5px;transform: translate3d(-5px, 0px, 0px);-webkit-transform: translate3d(-5px, 0px, 0px);-moz-transform: translate3d(-5px, 0px, 0px);-o-transform: translate3d(-5px, 0px, 0px);box-sizing: border-box;">
+       <section style="display: inline-block;background-color: rgb(255, 255, 255);padding: 5px;border-style: solid;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;font-size: 16px;padding: 0px 5px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             学生感悟
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 34px 0% 8px;box-sizing: border-box;">
+    <section style="background-color: rgb(105, 143, 187);height: 1px;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: -24px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;border-width: 2px;border-style: solid;border-color: rgba(255, 255, 255, 0);padding: 0.1em 0.3em;background-color: rgb(108, 158, 225);color: rgb(255, 255, 255);font-size: 16px;line-height: 1.8;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      高一3班孙蒋依
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="font-size: 15px;color: rgb(108, 106, 106);text-align: justify;padding: 0px 10px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <em style="box-sizing: border-box;">
+       安全，在我们一生中不可或缺，是幸福生活的保障，也是我们追求梦想的基础。在观看了《公共安全第一课》之后，我对安全教育有了更深的认识。
+      </em>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <em style="box-sizing: border-box;">
+       外滩踩踏、扶梯卷人、胶州路火灾，发生在我们身边的这一切恍如隔日、触目惊心；更不用说高频率的车祸、火灾……我们不禁疑惑：在公共场所如何进行自我保护？而《第一课》这个节目解答了这些问题，还为我们提供了多种场景，生动的画面展现在我们面前，简单的口诀有韵律的重复让人牢记于心。如，在确保自身安全的前提下，要牢记“跑得快，躲得好，喊得响”这九个字。在多变的情况下，我市还设立了微信报警、短信报警12110，它们让我们在不便出声的危急关头有效报警，求生机率提高。另外，与大货车保持一定安全距离，尽量考虑他人视角，既维护了社会秩序，也保障了自己的安全。
+      </em>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <em style="box-sizing: border-box;">
+       这样具体的例子，影片中还列举了很多，当然这都还是纸上谈兵。真正的危险会像病毒一样出其不意的爆发，我们也应该注重实际的操练，这样才能在真正遇险时保持沉着冷静，有效求救。
+      </em>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <em style="box-sizing: border-box;">
+       危险突发时，冷静莫紧张，先顾自身安，速离危难处。
+      </em>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 34px 0% 8px;box-sizing: border-box;">
+    <section style="background-color: rgb(105, 143, 187);height: 1px;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: -24px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;border-width: 2px;border-style: solid;border-color: rgba(255, 255, 255, 0);padding: 0.1em 0.3em;color: rgb(255, 255, 255);font-size: 16px;line-height: 1.8;background-color: rgb(123, 150, 105);box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      高一5班孙颖琪
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="font-size: 15px;color: rgb(108, 106, 106);text-align: justify;line-height: 2;padding: 0px 10px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <em style="box-sizing: border-box;">
+       今天用晚自习的时间在A201观看了《开学第一课》。主题是安全教育，涵盖了许多安全知识的《第一课》让我第一次发现身边居然有那么多疏忽的小细节，而每一个疏忽都有可能引发人身安全问题，例如在床上充电的手机、搭载油汀上的被子、过度使用的插线板等等，也从中学到了在各种紧急场景中的相关应对措施。
+      </em>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <em style="box-sizing: border-box;">
+       与大型车保持5 m的安全距离是为了避免因内轮差的死角引发的车祸，这让我联想起过去在新闻中看到的有关大型车与行人的悲剧，皆是与车距离过近酿成的；报警时需要主要的要素让我意识到了身边那些不起眼的标有字母和数字的牌子实际上的作用；电梯运行中的突发故障解决方法让我回想起自己的亲身经历，我那时的做法和节目提到的要点完全相符，所以最后得到了有效的救援……
+      </em>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <em style="box-sizing: border-box;">
+       总之，生活中的安全问题应该被重视啊。
+      </em>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 34px 0% 8px;box-sizing: border-box;">
+    <section style="background-color: rgb(105, 143, 187);height: 1px;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: -24px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;border-width: 2px;border-style: solid;border-color: rgba(255, 255, 255, 0);padding: 0.1em 0.3em;color: rgb(255, 255, 255);font-size: 16px;line-height: 1.8;background-color: rgb(159, 169, 209);box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      高二1班王诗涵
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="font-size: 15px;color: rgb(108, 106, 106);text-align: justify;line-height: 2;padding: 0px 10px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <em style="box-sizing: border-box;">
+       开学第一课中道路安全给我留下了印象。道路交通是与我们最息息相关的问题，我们现在上下学，处于交通高峰，且最近道路湿滑，上下学时间天还较暗，视线受阻。其中提到大型车辆视线盲区与等待红绿灯时站立位置的内容，平时也很少有人注意，起到了，很好的提醒作用。在车辆避让行人的法规出台之后，有许多行人有着车辆会避让自己的想法，造成有些行人闯红灯，甚至乱穿马路。 开学第一课中提到个人的自身安全，只有保证自己时刻遵守交通法规，才能保证每次出行的安全。
+      </em>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 34px 0% 8px;box-sizing: border-box;">
+    <section style="background-color: rgb(105, 143, 187);height: 1px;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: -24px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;border-width: 2px;border-style: solid;border-color: rgba(255, 255, 255, 0);padding: 0.1em 0.3em;color: rgb(255, 255, 255);font-size: 16px;line-height: 1.8;background-color: rgb(230, 180, 131);box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      高二1班郑罗烨
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="font-size: 15px;color: rgb(108, 106, 106);text-align: justify;line-height: 2;padding: 0px 10px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <em style="box-sizing: border-box;">
+       在本次《公共安全教育开学第一课》的节目中，我学习到了有关日常生活、交通、消防等知识。
+      </em>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <em style="box-sizing: border-box;">
+       在黄奕老师的课堂上，我学习到了如何应对电梯故障事件，更树立了我在日常生活中的防范意识，意识到先要保护自己，才能保护他人。
+      </em>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <em style="box-sizing: border-box;">
+       在贾杰老师的课上，让我意识到在马路上当“低头族”的安全隐患，珍惜生命才能拥有更好的未来。
+      </em>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <em style="box-sizing: border-box;">
+       在赵锦祯老师的课堂上，我懂得了遇火灾时如何固守待援，正确避险，能更沉着冷静的应对突发事件。
+      </em>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <em style="box-sizing: border-box;">
+       本次节目令我受益匪浅，不仅让我意识到了要对日常安全高度重视，又令我明白了应急救援知识才是应对突发事故的良方，相信随着这些知识的积累，我能在保护自己的同时，对他人伸以援手，重视生命安全，迎接更美好的未来。
+      </em>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 8px 0% 10px;box-sizing: border-box;">
+    <section style="background-color: rgb(105, 143, 187);height: 1px;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 20px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;background-image: linear-gradient(to top, rgb(172, 203, 238) 0%, rgb(231, 240, 253) 100%);padding: 0px;border-style: solid;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: -10px 0% 5px;transform: translate3d(-5px, 0px, 0px);-webkit-transform: translate3d(-5px, 0px, 0px);-moz-transform: translate3d(-5px, 0px, 0px);-o-transform: translate3d(-5px, 0px, 0px);box-sizing: border-box;">
+       <section style="display: inline-block;background-color: rgb(255, 255, 255);padding: 5px;border-style: solid;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;font-size: 16px;padding: 0px 5px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             教师叮嘱
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.7494118" data-type="jpeg" data-w="850" src="https://mmbiz.qpic.cn/mmbiz_jpg/9pWzhibBTfSDEQYszV8dJuNp8pJwD1F7Biao1e5OkPNtfvDQ5qHdl3Ktlv9QtibZyMnOgEXobGAatv0Uh6iaATWcUg/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 0px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="font-size: 11px;margin: 0px 0% -10px;transform: translate3d(3px, 0px, 0px);-webkit-transform: translate3d(3px, 0px, 0px);-moz-transform: translate3d(3px, 0px, 0px);-o-transform: translate3d(3px, 0px, 0px);box-sizing: border-box;">
+       <section style="display: inline-block;box-sizing: border-box;">
+        <section style="height: 2em;line-height: 2em;display: inline-block;vertical-align: top;background-color: rgb(108, 158, 225);color: rgb(255, 255, 255);font-size: 14px;text-align: center;padding-left: 8px;padding-right: 8px;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           徐英俊老师发言
+          </strong>
+         </p>
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+        </section>
+        <section style="display: inline-block;vertical-align: top;width: 0px;border-left: 1em solid rgb(108, 158, 225);font-size: 14px;border-top: 1em solid transparent !important;border-bottom: 1em solid transparent !important;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-right: 0.6em solid rgba(108, 158, 225, 0.32);border-top: 0.6em solid rgba(108, 158, 225, 0.32);border-left: 0.6em solid transparent !important;border-bottom: 0.6em solid transparent !important;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 0px 0px 0px 16px;border-width: 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;border-left: 2px dashed rgb(160, 160, 160);border-bottom-left-radius: 0px;padding: 0px 0px 0px 10px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin: 10px 0%;box-sizing: border-box;">
+             <section style="font-size: 15px;text-align: justify;color: rgb(108, 106, 106);box-sizing: border-box;">
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               节目结束后，宿舍物业管理徐英俊老师就住宿管理做了发言，她首先对上学期同学们的内务表现予以了肯定和表扬；又结合《公共安全教育第一课》中的内容，从用电安全、人员安全、考勤制度、公共卫生等几个方面给出了具体的建议；她还表示，新的学期将通过“沟通信箱”等途径来广泛征集同学的住宿意见与建议，多管齐下、共同护航住宿学生的身心健康。
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 0px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="font-size: 11px;margin: 0px 0% -10px;transform: translate3d(3px, 0px, 0px);-webkit-transform: translate3d(3px, 0px, 0px);-moz-transform: translate3d(3px, 0px, 0px);-o-transform: translate3d(3px, 0px, 0px);box-sizing: border-box;">
+       <section style="display: inline-block;box-sizing: border-box;">
+        <section style="height: 2em;line-height: 2em;display: inline-block;vertical-align: top;background-color: rgb(108, 158, 225);color: rgb(255, 255, 255);font-size: 14px;text-align: center;padding-left: 8px;padding-right: 8px;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           罗吾民老师发言
+          </strong>
+         </p>
+        </section>
+        <section style="display: inline-block;vertical-align: top;width: 0px;border-left: 1em solid rgb(108, 158, 225);font-size: 14px;border-top: 1em solid transparent !important;border-bottom: 1em solid transparent !important;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-right: 0.6em solid rgba(108, 158, 225, 0.32);border-top: 0.6em solid rgba(108, 158, 225, 0.32);border-left: 0.6em solid transparent !important;border-bottom: 0.6em solid transparent !important;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 0px 0px 0px 16px;border-width: 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;border-left: 2px dashed rgb(160, 160, 160);border-bottom-left-radius: 0px;padding: 0px 0px 0px 10px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin: 10px 0%;box-sizing: border-box;">
+             <section style="font-size: 15px;text-align: justify;color: rgb(108, 106, 106);box-sizing: border-box;">
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               接着，罗吾民老师结合学校晚自修的管理制度做了发言，她对晚自修请假流程、课堂手机使用、课间外出时间等规范予以了重申和强调，并鼓励大家自觉自律，形成“在日常管理中培养卓越的自我管理能力”的意识。
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 20px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;background-image: linear-gradient(to top, rgb(172, 203, 238) 0%, rgb(231, 240, 253) 100%);padding: 0px;border-style: solid;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: -10px 0% 5px;transform: translate3d(-5px, 0px, 0px);-webkit-transform: translate3d(-5px, 0px, 0px);-moz-transform: translate3d(-5px, 0px, 0px);-o-transform: translate3d(-5px, 0px, 0px);box-sizing: border-box;">
+       <section style="display: inline-block;background-color: rgb(255, 255, 255);padding: 5px;border-style: solid;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;font-size: 16px;padding: 0px 5px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             书记讲话
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.7494118" data-type="jpeg" data-w="850" src="https://mmbiz.qpic.cn/mmbiz_jpg/9pWzhibBTfSDEQYszV8dJuNp8pJwD1F7B0YabMjuUrLZfu3nsQmyrnT0u1ACqtYOZj9iaHoAvksN8ibb6qqJ1dMOg/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 20px 0% 10px;box-sizing: border-box;">
+    <section class="group-empty" style="display: inline-block;vertical-align: top;width: 0%;box-sizing: border-box;height: 1px;">
+    </section>
+    <section style="display: inline-block;vertical-align: top;width: 100%;background-color: rgba(108, 158, 225, 0.16);padding: 5px 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 15px;color: rgb(108, 106, 106);box-sizing: border-box;">
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         最后，王新书记做了总结发言。她首先肯定了两位老师在管理上的付出与用心，然后在师生互动中与同学们达成了“住宿学生享有更多时间自主”的共识，并结合华高优秀校友的例子勉励大家要把“时间自主”的优势转化为自我成长的现实，在温馨寝室的共建中实现自我成就。
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="text-align: center;margin: 0px;padding: 0px;box-sizing: border-box;">
+      -*-
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;text-align: center;box-sizing: border-box;">
+       <section style="display: inline-block;width: 97%;vertical-align: top;box-shadow: rgba(108, 158, 225, 0.32) 0px 0px 3px;letter-spacing: 0px;padding: 10px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 15px;text-align: justify;color: rgb(108, 106, 106);letter-spacing: 1px;box-sizing: border-box;">
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            随着学校办学水平的提升，学校住宿生也越来越多。学校注重住宿生的日常行规建设，不但聘请了专业物业团队进行管理，还从家长教育、同伴互助、心理支持等多个角度着手，齐心协力、安全共建 “温馨寝室”。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: -50px 0% 10px;box-sizing: border-box;">
+       <section style="text-align: center;color: rgba(108, 158, 225, 0.32);font-size: 56px;line-height: 1;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         温馨寝室
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>

@@ -1,0 +1,960 @@
+
+ <section style="box-sizing: border-box;">
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: right;margin-right: 0%;margin-bottom: 10px;margin-left: 0%;box-sizing: border-box;">
+    <section style='display: inline-block;width: 98%;vertical-align: top;border-style: none;border-width: 0px;border-radius: 0px;border-color: rgb(62, 62, 62);padding: 4px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;background-position: 0% 0%;background-repeat: repeat;background-size: auto;background-attachment: scroll;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/3oRvBbmp5KPBVnDDVTPjM10N4EQBPakvia86oAlViacKxn9ITavxrHctcRydkUaDF1r6ryBbzyficxQQJ2aqVnvJg/640?wx_fmt=png");box-sizing: border-box;'>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);border-style: solid;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);padding: 10px;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: center;color: rgb(246, 28, 51);box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             选课要开始啦！
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 20px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="text-align: center;font-size: 15px;line-height: 1.8;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            各院系及全校本科生：
+           </p>
+           <p style="box-sizing: border-box;">
+            我校2018-2019学年第二学期本科生选课
+           </p>
+           <p style="box-sizing: border-box;">
+            将于
+            <strong>
+             <span style="color: rgb(255, 41, 65);">
+              12月18日
+             </span>
+            </strong>
+            开始，
+           </p>
+           <p style="box-sizing: border-box;">
+            现将有关事项说明如下：
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <img data-ratio="0.084375" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/3oRvBbmp5KPBVnDDVTPjM10N4EQBPakvBJyreiauib86dTVXSYQPGv0wckYcOdYXib2l1ibNYj9rJ7dhicJDTzeCXwA/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 15px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 98%;vertical-align: top;border-style: solid;border-width: 1px;border-radius: 0px;border-color: rgb(189, 189, 189);box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 80%;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 8px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="text-align: left;color: rgb(231, 135, 48);box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             一、选课时间安排
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 5px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="background-color: rgb(231, 135, 48);height: 2px;box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 20%;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;text-align: left;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 20px 10px;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 15px;line-height: 1.8;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <strong>
+             第一轮选课：
+            </strong>
+           </p>
+           <p style="box-sizing: border-box;">
+            <strong>
+             <span style="color: rgb(255, 41, 65);">
+              2018年12月18日10:00——2018年12月25日16:00
+             </span>
+            </strong>
+            ；
+           </p>
+           <p style="box-sizing: border-box;">
+            <strong>
+             第二轮选课：
+            </strong>
+           </p>
+           <p style="box-sizing: border-box;">
+            2018年12月28日10:00——2019年1月4日16:00；
+           </p>
+           <p style="box-sizing: border-box;">
+            <strong>
+             第三轮选课：
+            </strong>
+           </p>
+           <p style="box-sizing: border-box;">
+            2019年2月11日10:00——2019年3月1日16:00。
+           </p>
+           <p style="box-sizing: border-box;">
+            <br/>
+           </p>
+           <p style="font-size: 14px;text-align: justify;white-space: normal;box-sizing: border-box;">
+            1．
+            <strong>
+             <span style="color: rgb(255, 41, 65);">
+              未注册学生不可进行选课。
+             </span>
+            </strong>
+            （包括未缴费、未报到。）
+           </p>
+           <p style="font-size: 14px;text-align: justify;white-space: normal;box-sizing: border-box;">
+            2．学生应在第一、二轮选课前完成评教。
+           </p>
+           <p style="font-size: 14px;text-align: justify;white-space: normal;box-sizing: border-box;">
+            3．请同学们在规定的时间内选课。
+           </p>
+           <p style="font-size: 14px;text-align: justify;white-space: normal;box-sizing: border-box;">
+            4．第三轮选课时可以退选前两轮选课时选中的课程，选课处理方式为时间优先。
+           </p>
+           <p style="font-size: 14px;text-align: justify;white-space: normal;box-sizing: border-box;">
+            5．如遇紧急情况需要调整选课时间，教务处会及时在校园网公告栏上发布信息。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;width: 80%;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 8px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="color: rgb(231, 135, 48);box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          二、选课方法
+         </strong>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 5px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="background-color: rgb(231, 135, 48);height: 2px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: top;width: 20%;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(187, 222, 251);padding: 5px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 5px;border-style: dashed;border-width: 2px;border-radius: 0px;border-color: rgb(255, 255, 255);box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);padding: 10px;box-sizing: border-box;">
+           <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="font-size: 15px;text-align: justify;line-height: 1.8;box-sizing: border-box;">
+              <p style="white-space: normal;box-sizing: border-box;">
+               <span style="font-size: 14px;">
+                1．选课系统登录
+               </span>
+              </p>
+              <p style="white-space: normal;box-sizing: border-box;">
+               <span style="font-size: 14px;">
+                1）登录教务系统
+               </span>
+               <span style="font-size: 14px;">
+                ；
+               </span>
+              </p>
+              <p style="white-space: normal;box-sizing: border-box;">
+               <span style="font-size: 14px;">
+                2）选择“
+                <span style="font-size: 14px;box-sizing: border-box;">
+                 选课系统（本专科生）快速入口
+                </span>
+                ”再登录；
+               </span>
+              </p>
+              <p style="white-space: normal;box-sizing: border-box;">
+               <span style="font-size: 14px;">
+                3）登录公共数据库后，在“我的首页”中“本科生选课”频道选择“
+                <span style="font-size: 14px;box-sizing: border-box;">
+                 学生选课（新）
+                </span>
+                ”。
+               </span>
+              </p>
+              <p style="white-space: normal;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+              <p style="white-space: normal;box-sizing: border-box;">
+               <span style="font-size: 14px;">
+                2．点击“课程管理”—“
+                <span style="font-size: 14px;box-sizing: border-box;">
+                 我的选课
+                </span>
+                ”进入选课页面进行选课。
+               </span>
+              </p>
+              <p style="white-space: normal;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+              <p style="white-space: normal;box-sizing: border-box;">
+               <span style="font-size: 14px;">
+                3．本次选课共分
+               </span>
+               <strong>
+                <span style="box-sizing: border-box;font-size: 14px;color: rgb(255, 41, 65);">
+                 三轮
+                </span>
+               </strong>
+               <span style="font-size: 14px;">
+                。第一轮和第二轮选课学生使用意愿值进行选课，在每一轮选课开始时，每个学生拥有意愿值数额为
+               </span>
+               <strong>
+                <span style="font-size: 14px;color: rgb(255, 41, 65);">
+                 100
+                </span>
+               </strong>
+               <span style="font-size: 14px;">
+                ，学生可以根据自己的意愿给所选课程赋予一定的值，选课结束后系统再根据意愿值的大小进行筛选，每轮选课结束后意愿值清零。第三轮选课采用
+               </span>
+               <strong>
+                <span style="font-size: 14px;color: rgb(255, 41, 65);">
+                 时间优先
+                </span>
+               </strong>
+               <span style="font-size: 14px;">
+                ，即选即中的方式。
+               </span>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;width: 80%;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 8px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="color: rgb(231, 135, 48);box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <strong>
+          三、选课特别提醒
+         </strong>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 5px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="background-color: rgb(231, 135, 48);height: 2px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: top;width: 20%;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="padding-top: 1px;padding-bottom: 1px;box-sizing: border-box;">
+     <section style="width: 100%;height: 3px;box-sizing: border-box;">
+      <section style="float: left;height: 5px;border-left: 1px solid rgb(77, 77, 77);transform: rotate(-45deg);-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-o-transform: rotate(-45deg);transform-origin: left top 0px;-webkit-transform-origin: left top 0px;-moz-transform-origin: left top 0px;-o-transform-origin: left top 0px;border-top-color: rgb(77, 77, 77);border-right-color: rgb(77, 77, 77);border-bottom-color: rgb(77, 77, 77);box-sizing: border-box;">
+      </section>
+      <section style="float: right;height: 5px;border-left: 1px solid rgb(77, 77, 77);transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-o-transform: rotate(45deg);transform-origin: right top 0px;-webkit-transform-origin: right top 0px;-moz-transform-origin: right top 0px;-o-transform-origin: right top 0px;border-top-color: rgb(77, 77, 77);border-right-color: rgb(77, 77, 77);border-bottom-color: rgb(77, 77, 77);box-sizing: border-box;">
+      </section>
+      <section style="clear: both;box-sizing: border-box;">
+      </section>
+     </section>
+     <section style="padding: 3px;margin-top: -4px;margin-bottom: -6px;border-width: 1px;border-style: solid;border-color: rgb(77, 77, 77);box-sizing: border-box;">
+      <section style="width: 100%;border-width: 1px;border-style: solid;border-color: rgb(77, 77, 77);padding: 10px;box-sizing: border-box;">
+       <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         <section style="text-align: justify;box-sizing: border-box;">
+          <p style="white-space: normal;box-sizing: border-box;">
+           <span style="font-size: 14px;">
+            1．根据本科生学籍的有关规定，三年级及以下的学生单个长学期获得学分不得低于培养方案规定总学分的
+           </span>
+           <strong>
+            <span style="font-size: 14px;color: rgb(255, 41, 65);">
+             <span style="font-size: 14px;box-sizing: border-box;">
+              10%
+             </span>
+            </span>
+           </strong>
+           <span style="font-size: 14px;">
+            ，否则有可能会达到退学条件。
+           </span>
+          </p>
+          <p style="white-space: normal;box-sizing: border-box;">
+           <br style="box-sizing: border-box;"/>
+          </p>
+          <p style="white-space: normal;box-sizing: border-box;">
+           <span style="font-size: 14px;">
+            2．期中退课自2018-2019学年第二学期起，不接受学生对以下课程提出的退课申请：
+           </span>
+          </p>
+          <p style="white-space: normal;box-sizing: border-box;">
+           <span style="font-size: 14px;">
+            1）学生个人培养方案中的
+            <strong>
+             <span style="font-size: 14px;color: rgb(246, 28, 51);box-sizing: border-box;">
+              学科基础课、专业必修课程
+             </span>
+            </strong>
+            ；
+           </span>
+          </p>
+          <p style="white-space: normal;box-sizing: border-box;">
+           <span style="font-size: 14px;">
+            2）重修课程；
+           </span>
+          </p>
+          <p style="white-space: normal;box-sizing: border-box;">
+           <span style="font-size: 14px;">
+            3）体育类课程；
+           </span>
+          </p>
+          <p style="white-space: normal;box-sizing: border-box;">
+           <span style="font-size: 14px;">
+            4）已经结束的课程。
+           </span>
+          </p>
+          <p style="white-space: normal;box-sizing: border-box;">
+           <br style="box-sizing: border-box;"/>
+          </p>
+          <p style="white-space: normal;box-sizing: border-box;">
+           <span style="font-size: 14px;">
+            3．下学期我校学生可选修5门智慧树平台优质在线共享课程（www.zhihuishu.com），学生如选该课程，需在开学后
+           </span>
+           <strong>
+            <span style="box-sizing: border-box;font-size: 14px;color: rgb(255, 41, 65);">
+             第三至四周
+            </span>
+           </strong>
+           <span style="font-size: 14px;">
+            至智慧树课程共享平台完成注册，并进行在线学习。
+           </span>
+          </p>
+          <p style="white-space: normal;box-sizing: border-box;">
+           <br style="box-sizing: border-box;"/>
+          </p>
+          <p style="white-space: normal;box-sizing: border-box;">
+           <span style="font-size: 14px;">
+            4．转专业学生将在第二轮选课前进行学籍异动，在第一轮选课以原专业身份进行选课。
+           </span>
+          </p>
+          <p style="white-space: normal;box-sizing: border-box;">
+           <br style="box-sizing: border-box;"/>
+          </p>
+          <p style="white-space: normal;box-sizing: border-box;">
+           <span style="font-size: 14px;">
+            5．选课具体操作流程，同学们可参考《本科生手册》中本科教务管理系统使用指南模块。
+           </span>
+          </p>
+          <p style="white-space: normal;box-sizing: border-box;">
+           <br style="box-sizing: border-box;"/>
+          </p>
+          <p style="white-space: normal;box-sizing: border-box;">
+           <span style="font-size: 14px;">
+            6．同学们选课时可以点击课程名称查看课程简介并下载教学大纲预先了解课程安排。
+           </span>
+          </p>
+          <p style="white-space: normal;box-sizing: border-box;">
+           <br style="box-sizing: border-box;"/>
+          </p>
+          <p style="white-space: normal;box-sizing: border-box;">
+           <span style="font-size: 14px;">
+            7．为了能够合理的开展学习，教务处建议同学们每学期选课的总量，应以25学分左右为宜，最高不能超过
+           </span>
+           <strong>
+            <span style="font-size: 14px;color: rgb(255, 41, 65);">
+             32
+            </span>
+           </strong>
+           <span style="font-size: 14px;">
+            学分，其中重修课程学分不宜超过10学分。
+           </span>
+          </p>
+          <p style="white-space: normal;box-sizing: border-box;">
+           <br style="box-sizing: border-box;"/>
+          </p>
+          <p style="white-space: normal;box-sizing: border-box;">
+           <span style="font-size: 14px;">
+            8．学生所有修读的课程都需在系统中进行选课，未选课者不能获得修读资格。学生在开学后两周内经试听可对所选课程进行调整（注：开课周期为前6周的课程和前两周未开课的课程在开学后无法调整），例如补选、退选部分课程。
+           </span>
+          </p>
+          <p style="white-space: normal;box-sizing: border-box;">
+           <br style="box-sizing: border-box;"/>
+          </p>
+          <p style="white-space: normal;box-sizing: border-box;">
+           <span style="font-size: 15px;color: rgb(2, 30, 170);">
+            <span style="font-size: 15px;box-sizing: border-box;">
+             ★ 点击
+            </span>
+            <strong style="box-sizing: border-box;">
+             <span style="font-size: 15px;box-sizing: border-box;">
+              阅读原文
+             </span>
+            </strong>
+            <span style="font-size: 15px;box-sizing: border-box;">
+             ，发现更多特别提醒，为顺利选课做好准备~
+            </span>
+           </span>
+          </p>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section style="width: 100%;height: 3px;box-sizing: border-box;">
+      <section style="float: left;height: 5px;border-left: 1px solid rgb(77, 77, 77);transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-o-transform: rotate(45deg);transform-origin: left bottom 0px;-webkit-transform-origin: left bottom 0px;-moz-transform-origin: left bottom 0px;-o-transform-origin: left bottom 0px;border-top-color: rgb(77, 77, 77);border-right-color: rgb(77, 77, 77);border-bottom-color: rgb(77, 77, 77);box-sizing: border-box;">
+      </section>
+      <section style="float: right;height: 5px;border-left: 1px solid rgb(77, 77, 77);transform: rotate(-45deg);-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-o-transform: rotate(-45deg);transform-origin: right bottom 0px;-webkit-transform-origin: right bottom 0px;-moz-transform-origin: right bottom 0px;-o-transform-origin: right bottom 0px;border-top-color: rgb(77, 77, 77);border-right-color: rgb(77, 77, 77);border-bottom-color: rgb(77, 77, 77);box-sizing: border-box;">
+      </section>
+      <section style="clear: both;box-sizing: border-box;">
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;text-align: left;">
+    <section style="display: inline-block;vertical-align: top;width: 80%;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 8px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="color: rgb(231, 135, 48);box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          四、不同类别课程选课说明
+         </strong>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 5px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="background-color: rgb(231, 135, 48);height: 2px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: top;width: 20%;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="height: 16px;box-sizing: border-box;text-align: left;">
+     <section style="height: 100%;width: 24px;float: left;border-top: 6px solid rgb(0, 63, 147);border-left: 6px solid rgb(0, 63, 147);border-right-color: rgb(0, 63, 147);border-bottom-color: rgb(0, 63, 147);box-sizing: border-box;">
+     </section>
+     <section style="height: 100%;width: 24px;float: right;border-top: 6px solid rgb(0, 63, 147);border-right: 6px solid rgb(0, 63, 147);border-bottom-color: rgb(0, 63, 147);border-left-color: rgb(0, 63, 147);box-sizing: border-box;">
+     </section>
+     <section style="display: inline-block;color: transparent;clear: both;box-sizing: border-box;">
+     </section>
+    </section>
+    <section style="border-width: 1px;border-style: none solid;border-color: rgb(0, 63, 147);border-radius: 6px;word-wrap: break-word;box-sizing: border-box;margin: -13px 3px;padding: 12px;background-color: rgb(255, 255, 255);">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;box-sizing: border-box;">
+       <section style="text-align: center;line-height: 1.8;font-size: 15px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;text-align: left;">
+         <strong>
+          <span style="font-size: 14px;">
+           ◆ 通识选修类课程
+          </span>
+         </strong>
+        </p>
+        <p style="text-align: left;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 14px;letter-spacing: 0px;box-sizing: border-box;">
+          每个学生每个学期
+         </span>
+         <strong>
+          <span style="letter-spacing: 0px;box-sizing: border-box;font-size: 14px;color: rgb(255, 41, 65);">
+           限选
+          </span>
+         </strong>
+         <strong>
+          <span style="letter-spacing: 0px;box-sizing: border-box;font-size: 14px;color: rgb(255, 41, 65);">
+           4个学分
+          </span>
+         </strong>
+         <span style="font-size: 14px;letter-spacing: 0px;box-sizing: border-box;">
+          的通识选修课。本学期开设的课程丰富多元，教授开设课程有70门次，详情请戳：
+         </span>
+         <span style="letter-spacing: 0px;box-sizing: border-box;font-size: 14px;text-decoration: underline;color: rgb(2, 30, 170);">
+          <a href="http://mp.weixin.qq.com/s?__biz=MjM5MTI0ODAxMQ==&amp;mid=2652318848&amp;idx=1&amp;sn=cbcc892def13028c39d51712d049b043&amp;chksm=bd5bf7648a2c7e720a5d974370c8c539ed0e6b37b87bf7921a23da2c48e4f3b54d6d9583a9ce&amp;scene=21#wechat_redirect" target="_blank">
+           <strong>
+            通识选修课 | 59门教授主讲课程开设啦！！
+           </strong>
+          </a>
+         </span>
+        </p>
+        <p style="box-sizing: border-box;text-align: left;">
+         <strong>
+          <span style="font-size: 14px;">
+           <br/>
+          </span>
+         </strong>
+        </p>
+        <p style="box-sizing: border-box;text-align: left;">
+         <strong>
+          <span style="font-size: 14px;">
+           ◆ 通识教育精品课程
+          </span>
+         </strong>
+        </p>
+        <p style="text-align: left;white-space: normal;box-sizing: border-box;">
+         <span style="letter-spacing: 0px;box-sizing: border-box;font-size: 14px;">
+          要求学生在通识教育精品课程中
+         </span>
+         <strong>
+          <span style="letter-spacing: 0px;box-sizing: border-box;font-size: 14px;color: rgb(255, 41, 65);">
+           至少选修1门
+          </span>
+         </strong>
+         <span style="letter-spacing: 0px;box-sizing: border-box;font-size: 14px;">
+          。
+         </span>
+        </p>
+        <p style="box-sizing: border-box;text-align: left;">
+         <strong>
+          <span style="font-size: 14px;">
+           <br/>
+          </span>
+         </strong>
+        </p>
+        <p style="box-sizing: border-box;text-align: left;">
+         <strong>
+          <span style="font-size: 14px;">
+           ◆ 跨专业选修课程
+          </span>
+         </strong>
+        </p>
+        <p style="text-align: left;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 14px;">
+          第二轮和第三轮选课期间学生可以进入跨专业选课通道进行选课。
+         </span>
+        </p>
+        <p style="box-sizing: border-box;text-align: left;">
+         <strong>
+          <span style="font-size: 14px;">
+           <br/>
+          </span>
+         </strong>
+        </p>
+        <p style="box-sizing: border-box;text-align: left;">
+         <strong>
+          <span style="font-size: 14px;">
+           ◆ 通识必修类课程
+          </span>
+         </strong>
+        </p>
+        <p style="text-align: justify;white-space: normal;box-sizing: border-box;">
+         <span style="text-decoration: underline;box-sizing: border-box;font-size: 14px;background-color: rgb(255, 255, 255);">
+          1．数学统计类课程
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 14px;">
+          含有大学数学，数学文化，大学统计和统计调查方法，本类课程供文科类专业学生选修，
+          <strong>
+           文科类专业学生
+          </strong>
+          必须在毕业前修读一门；
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;box-sizing: border-box;">
+         <span style="text-decoration: underline;box-sizing: border-box;font-size: 14px;">
+          2．文化传承类课程
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 14px;">
+          含有大学语文，国学原典选讲，国史纲要和儒道思想与现代社会，本类课程供理工类专业学生选修，
+          <strong>
+           理工类专业学生
+          </strong>
+          必须在毕业前修读一门；
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;box-sizing: border-box;">
+         <span style="text-decoration: underline;box-sizing: border-box;font-size: 14px;">
+          3．体育类课程
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 14px;">
+          公共体育课为俱乐部课程，课程代码以‘CLUB’开头。
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 14px;">
+          详细可咨询大体部
+          <strong>
+           邵名丽老师
+          </strong>
+          ，联系电话：54345139；mlshao@tyxx.ecnu.edu.cn。
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;box-sizing: border-box;">
+         <span style="text-decoration: underline;box-sizing: border-box;font-size: 14px;">
+          4．英语类课程
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;box-sizing: border-box;">
+         <span style="box-sizing: border-box;font-size: 14px;">
+          学生在校期间需修读
+         </span>
+         <strong>
+          <span style="box-sizing: border-box;font-size: 14px;color: rgb(255, 41, 65);">
+           10学分
+          </span>
+         </strong>
+         <span style="box-sizing: border-box;font-size: 14px;">
+          公共英语课，建议学生在大学一、二年级修完学分，也可根据学生自身的安排在第八学期前修完学分。
+         </span>
+        </p>
+        <p style="text-align: left;white-space: normal;box-sizing: border-box;">
+         <span style="box-sizing: border-box;font-size: 14px;">
+          详细可咨询大外部
+          <strong>
+           王丹丹老师
+          </strong>
+          ，
+         </span>
+         <span style="font-size: 14px;">
+          联系方式：62232207/54344891；ddwang@fl.ecnu.edu.cn。
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 14px;">
+          <span style="font-size: 14px;text-decoration: underline;box-sizing: border-box;">
+           5．思政类课程
+          </span>
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 14px;">
+          自2018级起，《中国近现代史纲要》由2学分改为
+          <strong>
+           3学分
+          </strong>
+          ；毛中特课程由原本的6学分改为
+          <strong>
+           5学分
+          </strong>
+          （课程由3学分理论课及2学分中国社会考察与体验构成）。2018-2019学年第二学期，同学在本学期仍可正常选修3分的《毛泽东思想和中国特色社会主义理论体系概论(二)》。
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;box-sizing: border-box;">
+         <span style="text-decoration: underline;box-sizing: border-box;font-size: 14px;">
+          6．计算机类课程
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 14px;">
+          学生在校期间需修读
+          <strong>
+           5个学分
+          </strong>
+          的公共计算机课。
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="height: 16px;box-sizing: border-box;">
+     <section style="height: 100%;width: 24px;float: left;border-bottom: 6px solid rgb(0, 63, 147);border-left: 6px solid rgb(0, 63, 147);border-top-color: rgb(0, 63, 147);border-right-color: rgb(0, 63, 147);box-sizing: border-box;">
+     </section>
+     <section style="height: 100%;width: 24px;float: right;border-bottom: 6px solid rgb(0, 63, 147);border-right: 6px solid rgb(0, 63, 147);border-top-color: rgb(0, 63, 147);border-left-color: rgb(0, 63, 147);box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;width: 80%;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 8px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="color: rgb(231, 135, 48);box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          五、重修课程的选课
+         </strong>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 5px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="background-color: rgb(231, 135, 48);height: 2px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: top;width: 20%;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border-width: 2px 1px 1px;border-style: dashed none none;border-color: rgb(44, 90, 160);background-color: rgb(229, 240, 247);border-radius: 0px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;letter-spacing: 0px;padding-top: 15px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: justify;font-size: 15px;line-height: 1.8;padding-right: 5px;padding-left: 5px;color: rgb(62, 62, 62);box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 14px;">
+             1．学生申请重修在第二轮和第三轮选课开放时在选课系统中完成。
+            </span>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 14px;">
+             2．重修课程可以先至系统进行免听申请，随后下载免听申请单，经由任课教师签字后交至开课院系备案（请至本科生教学管理系统-课程管理-免听申请，申请免听）。
+            </span>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 14px;">
+             3．体育课、思政类课程重修
+            </span>
+            <strong>
+             <span style="box-sizing: border-box;font-size: 14px;color: rgb(255, 41, 65);">
+              不可申请重修免听
+             </span>
+            </strong>
+            <span style="font-size: 14px;">
+             。
+            </span>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;width: 80%;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 8px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="color: rgb(231, 135, 48);box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          六、注意事项
+         </strong>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 5px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="background-color: rgb(231, 135, 48);height: 2px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: top;width: 20%;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border-width: 2px 1px;border-style: none none dashed;border-color: rgb(44, 90, 160);background-color: rgb(229, 240, 247);border-radius: 0px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;letter-spacing: 0px;padding-right: 10px;padding-bottom: 10px;padding-left: 10px;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: justify;font-size: 15px;line-height: 1.8;padding-right: 5px;padding-left: 5px;color: rgb(62, 62, 62);box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 14px;">
+             1．重修选课后需在第3周到第4周期间（具体时间请在下学期开学后关注教务处和学校主页网上公告）。
+            </span>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;text-align: left;">
+            <span style="font-size: 14px;">
+             2．公共体育课的重修如需更换项目，需要到大学体育教学部邵老师处办理重修选课手续。
+            </span>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 14px;">
+             3．学生补考、缓考按照学校《本科生补考、缓考及重修管理细则》执行。
+            </span>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style='display: inline-block;width: 100%;vertical-align: top;background-image: url("https://mmbiz.qpic.cn/mmbiz_jpg/3oRvBbmp5KPBVnDDVTPjM10N4EQBPakveM3iaWyb6hKGy38ot6ZbbtFc9ktvWe5lOPSTjTHbwMM5VJ8wG09Xulg/640?wx_fmt=jpeg");background-position: 55.6015% 33.1154%;background-repeat: repeat;background-size: 100.637%;background-attachment: scroll;padding: 10px;box-sizing: border-box;'>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style='display: inline-block;width: 100%;vertical-align: top;background-image: url("https://mmbiz.qpic.cn/mmbiz_gif/3oRvBbmp5KPBVnDDVTPjM10N4EQBPakvCuBSmic9ic6icBuhhWL38Kw8EgdTw0bjwXvb8ZE0XzgfloeWBmkov4FJQ/640?wx_fmt=gif");background-position: 0% 0%;background-repeat: repeat;background-size: 13.8587%;background-attachment: scroll;box-sizing: border-box;'>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 20px 0%;text-align: center;box-sizing: border-box;">
+          <section style="display: inline-block;width: 90%;border-width: 1px;border-style: solid;border-color: transparent;padding: 5px;background-color: rgb(255, 255, 255);box-shadow: rgb(170, 170, 170) 0px 0px 10px;box-sizing: border-box;">
+           <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin: 5px 0% 10px;box-sizing: border-box;">
+             <section style="font-size: 14px;color: rgb(105, 105, 105);padding-right: 3px;padding-left: 3px;box-sizing: border-box;">
+              <p style="box-sizing: border-box;">
+               <span style="font-size: 18px;box-sizing: border-box;color: rgb(255, 41, 65);">
+                <strong style="box-sizing: border-box;">
+                 祝大家
+                </strong>
+               </span>
+              </p>
+              <p style="box-sizing: border-box;">
+               <span style="color: rgb(255, 41, 65);font-size: 18px;box-sizing: border-box;">
+                <strong style="box-sizing: border-box;">
+                 都能选到心仪的课程！！
+                </strong>
+                <strong style="box-sizing: border-box;">
+                 ❤
+                </strong>
+               </span>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: right;box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <span style="font-size: 15px;">
+       信息来源|教务处
+      </span>
+     </p>
+     <p style="box-sizing: border-box;">
+      <span style="font-size: 15px;">
+       排版|蔡晓文
+      </span>
+     </p>
+     <p style="text-align: center;">
+      <img class="" data-copyright="0" data-ratio="0.3333333333333333" data-s="300,640" data-type="png" data-w="966" src="https://mmbiz.qpic.cn/mmbiz_png/3oRvBbmp5KNVSaFqGxqlX7rernGEkGx23licl27nH4E5nbfVoqy3zsIXQ9WeuFdJ1dB6xmD8JAltTkbhPJE3mVg/640?wx_fmt=png" style=""/>
+     </p>
+     <p style="box-sizing: border-box;">
+      <br/>
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>

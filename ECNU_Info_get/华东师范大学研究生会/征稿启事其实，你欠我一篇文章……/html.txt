@@ -1,0 +1,675 @@
+
+ <section style="background-image: none;box-sizing: border-box;text-align: center;">
+  <p style="margin: 10px 8px;text-align: center;background-image: none;box-sizing: border-box;line-height: normal;">
+   <br/>
+  </p>
+  <p style="background-image: none;box-sizing: border-box;line-height: 1.5em;">
+   <br/>
+  </p>
+  <section style="border-radius: 8px;border-width: 0px;border-style: initial;border-color: rgb(62, 62, 62);width: 96%;background-image: none;overflow: hidden;vertical-align: top;display: inline-block;box-sizing: border-box;box-shadow: rgb(239, 154, 154) 0px 0px 6px;">
+   <section powered-by="xiumi.us" style="background-image: none;box-sizing: border-box;">
+    <section style="background-image: none;box-sizing: border-box;">
+     <section style="width: 30%;background-image: none;vertical-align: top;display: inline-block;box-sizing: border-box;box-shadow: 0px 0px 0px #000000;">
+      <section powered-by="xiumi.us" style="background-image: none;box-sizing: border-box;">
+       <section style="margin: 0px 0%;background-image: none;box-sizing: border-box;">
+        <section style="background-image: none;line-height: 0;vertical-align: middle;display: inline-block;max-width: 100%;box-sizing: border-box;">
+         <img class="raw-image" data-ratio="0.5" data-type="png" data-w="880" src="https://mmbiz.qpic.cn/mmbiz_png/d3bHJIIn6a0J2vXArLPeqPoVae1zqUM2GfvTq4fN04cWic8AGicCfkPE3ib91PFkpMMTY78LYOeqnR1D6FvTUtuFA/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section style="width: 39%;background-image: none;vertical-align: top;display: inline-block;box-sizing: border-box;">
+      <section powered-by="xiumi.us" style="background-image: none;box-sizing: border-box;">
+       <section style="margin: 0px 0%;background-image: none;box-sizing: border-box;">
+        <section style="width: 100%;background-image: none;line-height: 0;vertical-align: middle;display: inline-block;max-width: 100%;box-sizing: border-box;">
+         <img class="raw-image" data-ratio="0.5" data-type="png" data-w="880" src="https://mmbiz.qpic.cn/mmbiz_png/d3bHJIIn6a0J2vXArLPeqPoVae1zqUM2GfvTq4fN04cWic8AGicCfkPE3ib91PFkpMMTY78LYOeqnR1D6FvTUtuFA/640?wx_fmt=png" style="width: 100%;vertical-align: middle;max-width: 100%;box-sizing: border-box;" width="100%"/>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section style="width: 30%;background-image: none;vertical-align: top;display: inline-block;box-sizing: border-box;">
+      <section powered-by="xiumi.us" style="background-image: none;box-sizing: border-box;">
+       <section style="margin: 0px 0%;background-image: none;box-sizing: border-box;">
+        <section style="background-image: none;line-height: 0;vertical-align: middle;display: inline-block;max-width: 100%;box-sizing: border-box;">
+         <img class="raw-image" data-ratio="0.5" data-type="png" data-w="880" src="https://mmbiz.qpic.cn/mmbiz_png/d3bHJIIn6a0J2vXArLPeqPoVae1zqUM2GfvTq4fN04cWic8AGicCfkPE3ib91PFkpMMTY78LYOeqnR1D6FvTUtuFA/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <section powered-by="xiumi.us" style="background-image: none;box-sizing: border-box;">
+    <section style="background-image: none;box-sizing: border-box;">
+     <section style="padding: 10px 15px 8px;width: 100%;background-image: none;vertical-align: top;display: inline-block;box-sizing: border-box;">
+      <section powered-by="xiumi.us" style="background-image: none;box-sizing: border-box;">
+       <section style="margin: 10px 0%;background-image: none;box-sizing: border-box;">
+        <section class="tn-yzk-fuid-text-61658-1548305745155" style="text-align: justify;background-image: none;font-size: 14px;box-sizing: border-box;">
+         <p style="margin: 14px 0px;padding: 0px;background-image: none;white-space: normal;box-sizing: border-box;">
+          2014，他是帮忙报道的大二学长，她是懵懂青葱的大一新生。
+         </p>
+         <p style="margin: 14px 0px;padding: 0px;background-image: none;white-space: normal;box-sizing: border-box;">
+          “同学你好，请问是来报到的吗？”
+         </p>
+         <p style="margin: 14px 0px;padding: 0px;background-image: none;white-space: normal;box-sizing: border-box;">
+          “嗯……嗯嗯，是的。”
+         </p>
+         <p style="margin: 14px 0px;padding: 0px;background-image: none;white-space: normal;box-sizing: border-box;">
+          “你是一个人来的吧，这个箱子我帮你提吧，你是哪个寝室？”
+         </p>
+         <p style="margin: 14px 0px;padding: 0px;background-image: none;white-space: normal;box-sizing: border-box;">
+          “啊，不……不用……”
+         </p>
+         <p style="margin: 14px 0px;padding: 0px;background-image: none;white-space: normal;box-sizing: border-box;">
+          “没事儿……”
+         </p>
+         <p style="margin: 14px 0px;padding: 0px;background-image: none;white-space: normal;box-sizing: border-box;">
+         </p>
+         <p style="margin: 14px 0px;padding: 0px;background-image: none;white-space: normal;box-sizing: border-box;">
+          2017，他保研到了某异地高校，而她，也开始准备考研，目标是有他的那所学校。
+         </p>
+         <p style="margin: 14px 0px;padding: 0px;background-image: none;white-space: normal;box-sizing: border-box;">
+          “我真的好想你啊……”
+         </p>
+         <p style="margin: 14px 0px;padding: 0px;background-image: none;white-space: normal;box-sizing: border-box;">
+          “我也是……想抱抱你”
+         </p>
+         <p style="margin: 14px 0px;padding: 0px;background-image: none;white-space: normal;box-sizing: border-box;">
+         </p>
+         <p style="margin: 14px 0px;padding: 0px;background-image: none;white-space: normal;box-sizing: border-box;">
+          2018，他依旧忙碌着，而她，考研失利，调剂到了另一个城市，日子不紧不慢地流走着。
+         </p>
+         <p style="margin: 14px 0px;padding: 0px;background-image: none;white-space: normal;box-sizing: border-box;">
+         </p>
+         <p style="margin: 14px 0px;padding: 0px;background-image: none;white-space: normal;box-sizing: border-box;">
+          2019，元宵节刚过，互道晚安之后，置顶的他那边连发了好几条消息，她好奇地打开。
+         </p>
+         <p style="margin: 14px 0px;padding: 0px;background-image: none;white-space: normal;box-sizing: border-box;">
+          “乖乖，快看快看”
+         </p>
+         <p style="margin: 14px 0px;padding: 0px;background-image: none;white-space: normal;box-sizing: border-box;">
+          “华东师范大学·上海社科院要举办第十四届青年学术论坛了”
+         </p>
+         <p style="margin: 14px 0px;padding: 0px;background-image: none;white-space: normal;box-sizing: border-box;">
+          “我们赶紧去投稿吧”
+         </p>
+         <p style="margin: 14px 0px;padding: 0px;background-image: none;white-space: normal;box-sizing: border-box;">
+          “要是都被录上了，我们就能见面了”
+         </p>
+         <p style="margin: 14px 0px;padding: 0px;background-image: none;white-space: normal;box-sizing: border-box;">
+          “而且听说这次学术论坛的阵容超棒der”
+         </p>
+         <p style="margin: 14px 0px;padding: 0px;background-image: none;white-space: normal;box-sizing: border-box;">
+          ……
+         </p>
+         <p style="margin: 14px 0px;padding: 0px;background-image: none;white-space: normal;box-sizing: border-box;">
+          是的你没有听错，华东师大·上海社科院第十四届青年学术论坛火热报名中……
+         </p>
+         <p style="margin: 14px 0px;padding: 0px;background-image: none;white-space: normal;box-sizing: border-box;">
+          <span style="background-image: none;color: rgb(249, 110, 87);box-sizing: border-box;">
+           重要提示：截稿日期改为2019年3月10日，不要错过哦!
+          </span>
+          <br style="background-image: none;box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <p>
+   <br/>
+  </p>
+  <section style="background-image: none;line-height: 0;vertical-align: middle;display: inline-block;max-width: 100%;box-sizing: border-box;">
+   <img class="raw-image" data-ratio="0.500394" data-type="jpeg" data-w="1269" src="https://mmbiz.qpic.cn/mmbiz_jpg/OPxDQXv1XhHHAtCLIiboxicXFl3F9KTibzqYsdRWBwRrYlb9ywDVorxuZRKUptwBFXUKgv46RNTAXV5AUtPQ8G0Qg/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+  </section>
+  <p>
+   <br/>
+  </p>
+  <section powered-by="xiumi.us" style="background-image: none;box-sizing: border-box;">
+   <section style="border-color: rgb(249, 110, 87);width: 100%;background-image: none;margin-bottom: -10px;border-bottom-width: 1px;border-bottom-style: solid;box-sizing: border-box;">
+   </section>
+   <p style="background-image: none;padding-top: 10px;box-sizing: border-box;line-height: normal;">
+    <br/>
+   </p>
+   <section style="background-image: none;line-height: 16px;vertical-align: top;display: inline-block;box-sizing: border-box;background-color: rgb(255, 255, 255);">
+    <section style="background-image: none;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <section style="border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);width: 10px;height: 10px;background-image: none;box-sizing: border-box;transform: rotate(45deg);background-color: rgb(255, 255, 255);">
+     </section>
+     <section style="border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);width: 10px;height: 10px;background-image: none;margin-top: -10px;margin-left: 6px;box-sizing: border-box;transform: rotate(45deg);background-color: rgb(255, 255, 255);">
+     </section>
+    </section>
+    <section style="background-image: none;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <section style="border-color: rgb(249, 110, 87);background-image: none;color: rgb(249, 110, 87);padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+      <p style="margin: 16px 0px;padding: 0px;background-image: none;box-sizing: border-box;">
+       第十四届青年学术论坛
+      </p>
+      <p style="margin: 16px 0px;padding: 0px;background-image: none;box-sizing: border-box;">
+       <br style="background-image: none;box-sizing: border-box;"/>
+      </p>
+     </section>
+    </section>
+    <section style="background-image: none;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <section style="border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);width: 10px;height: 10px;background-image: none;margin-left: 6px;box-sizing: border-box;transform: rotate(45deg);background-color: rgb(255, 255, 255);">
+     </section>
+     <section style="border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);width: 10px;height: 10px;background-image: none;margin-top: -10px;box-sizing: border-box;transform: rotate(45deg);background-color: rgb(255, 255, 255);">
+     </section>
+    </section>
+   </section>
+   <p style="text-align: left;">
+    <span style="font-size: 14px;text-align: justify;">
+     华东师范大学·上海社会科学院青年学术论坛创办于2005年，由华东师范大学和上海社会科学院联合主办，两校研究生会承办，迄今已经成功举办十三届。十三年来，论坛吸引了越来越多高校青年学子们的参与，影响力日渐增长，为营造浓厚的学术气氛和加强各大高校青年学子的学术交流发挥了重要的作用，上海教育网也曾对论坛予以报道。
+    </span>
+    <br/>
+   </p>
+  </section>
+  <section powered-by="xiumi.us" style="background-image: none;box-sizing: border-box;">
+   <section style="background-image: none;box-sizing: border-box;">
+    <section style="background-image: none;box-sizing: border-box;">
+     <p style="margin: 16px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      <span style="font-size: 14px;">
+       经商定，华东师范大学·上海社会科学院第十四届青年学术论坛将于
+      </span>
+      <span style="font-size: 14px;background-image: none;color: rgb(249, 110, 87);box-sizing: border-box;">
+       2019年4月底
+      </span>
+      <span style="font-size: 14px;background-image: none;color: rgb(249, 110, 87);box-sizing: border-box;">
+       （具体时间另行通知）
+      </span>
+      <span style="font-size: 14px;">
+       在
+      </span>
+      <span style="font-size: 14px;background-image: none;color: rgb(249, 110, 87);box-sizing: border-box;">
+       华东师范大学
+      </span>
+      <span style="font-size: 14px;">
+       举行。
+      </span>
+      <br/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="background-image: none;box-sizing: border-box;">
+   <section style="background-image: none;box-sizing: border-box;">
+    <section style="background-image: none;font-size: 14px;box-sizing: border-box;">
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      现将具体事宜通知如下：
+     </p>
+    </section>
+   </section>
+  </section>
+  <p style="text-align: center;background-image: none;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;line-height: normal;">
+   <br/>
+  </p>
+  <p style="background-image: none;box-sizing: border-box;text-align: center;line-height: 1.5em;">
+   <br/>
+  </p>
+  <section style="background-image: none;vertical-align: top;display: inline-block;box-sizing: border-box;">
+   <section style="border-radius: 50%;width: 1.5em;height: 1.5em;background-image: none;vertical-align: middle;display: inline-block;box-sizing: border-box;background-color: rgb(249, 110, 87);">
+   </section>
+   <section style="width: 0px;background-image: none;margin-left: -0.8em;vertical-align: middle;border-top-color: transparent !important;border-right-color: rgb(255, 255, 255);border-bottom-color: transparent !important;border-top-width: 0.6em !important;border-right-width: 1em;border-bottom-width: 0.6em !important;border-top-style: solid !important;border-right-style: solid;border-bottom-style: solid !important;display: inline-block;box-sizing: border-box;">
+   </section>
+  </section>
+  <section style="background-image: none;color: rgb(180, 160, 67);vertical-align: middle;display: inline-block;box-sizing: border-box;">
+   <p style="margin: 16px 0px;padding: 0px;background-image: none;box-sizing: border-box;">
+    一 、论坛主旨
+   </p>
+   <p style="margin: 16px 0px;padding: 0px;background-image: none;box-sizing: border-box;">
+    F o r u m    t h e m e
+   </p>
+  </section>
+  <section powered-by="xiumi.us" style="background-image: none;box-sizing: border-box;">
+   <section style="background-image: none;box-sizing: border-box;">
+    <section style="background-image: none;font-size: 14px;box-sizing: border-box;">
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      青年学术论坛旨在为华东师范大学、上海社会科学院以及其他高校青年研究人员和研究生搭建一个良好的学术交流平台，同时吸引华东地区乃至全国广大青年学子积极参与，激发学术热情；论坛倡导关注社会现实，坚持学术研究与社会需求相结合，不断探索创新，谋求共同进步和发展。
+     </p>
+    </section>
+   </section>
+  </section>
+  <p style="text-align: center;background-image: none;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;line-height: normal;">
+   <br/>
+  </p>
+  <section style="background-image: none;color: rgb(180, 160, 67);vertical-align: middle;display: inline-block;box-sizing: border-box;">
+   <p style="margin: 16px 0px;padding: 0px;background-image: none;box-sizing: border-box;">
+    二、论坛主题
+   </p>
+   <p style="margin: 16px 0px;padding: 0px;background-image: none;box-sizing: border-box;">
+    F o r u m     t o p i c
+    <br style="background-image: none;box-sizing: border-box;"/>
+   </p>
+  </section>
+  <section style="background-image: none;vertical-align: top;display: inline-block;box-sizing: border-box;">
+   <section style="width: 0px;background-image: none;vertical-align: middle;border-top-color: transparent !important;border-bottom-color: transparent !important;border-left-color: rgb(255, 255, 255);border-top-width: 0.6em !important;border-bottom-width: 0.6em !important;border-left-width: 1em;border-top-style: solid !important;border-bottom-style: solid !important;border-left-style: solid;display: inline-block;box-sizing: border-box;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);">
+   </section>
+   <section style="border-radius: 50%;width: 1.5em;height: 1.5em;background-image: none;margin-left: -0.8em;vertical-align: middle;display: inline-block;box-sizing: border-box;background-color: rgb(249, 110, 87);">
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="background-image: none;box-sizing: border-box;">
+   <section style="background-image: none;box-sizing: border-box;">
+    <section style="background-image: none;color: rgb(255, 129, 36);box-sizing: border-box;">
+     <p style="margin: 16px 0px;padding: 0px;text-align: center;background-image: none;box-sizing: border-box;line-height: 1.5em;">
+      <span style="background-image: none;font-size: 15px;box-sizing: border-box;">
+       开放包容，共享未来的新时代
+      </span>
+     </p>
+     <p style="margin: 16px 0px;padding: 0px;text-align: center;background-image: none;box-sizing: border-box;line-height: 1.5em;">
+      <span style="background-image: none;font-size: 15px;box-sizing: border-box;">
+       ——中国书写的70年答卷
+      </span>
+     </p>
+     <p style="margin: 16px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      <span style="font-size: 14px;color: rgb(51, 51, 51);">
+       主题阐释：习近平在庆祝改革开放40周年中指出，成立中华人民共和国是五四运动以来我国发生的三大历史性事件之一，是近代以来实现中华民族伟大复兴的三大里程碑之一，这是对新中国成立的明确定位。2019年是新中国成立70周年，70年来，中国共产党带领人民建立社会主义制度，坚持解放思想、实事求是、与时俱进、求真务实，特别是实行改革开放政策，走中国特色社会主义道路，在经济、政治、文化、军事等各方面取得了重大成就，综合国力显著提高，向人民和世界书写了一份完美答卷。
+      </span>
+      <br/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="background-image: none;box-sizing: border-box;">
+   <section style="background-image: none;box-sizing: border-box;">
+    <section style="background-image: none;font-size: 14px;box-sizing: border-box;">
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      如今，站在新的历史起点上，2019年是“两个一百年”奋斗目标的历史交汇期，梦想和现实在这里转承，奋斗和拼搏在这里接续。但世界每时每刻都在发生变化，中国也每时每刻都在发生变化，敢于拥抱变化，才在变化的世界中立足。
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      在全面建成小康社会的决胜阶段，如何传承新中国过去成立70年的宝贵记忆、未来如何创新发展，中国如何投身世界，让更多人认识中国，是值得我们青年学子思考的重要问题。
+     </p>
+    </section>
+   </section>
+  </section>
+  <p style="text-align: center;background-image: none;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;line-height: normal;">
+   <br/>
+  </p>
+  <p style="background-image: none;box-sizing: border-box;text-align: center;line-height: 1.5em;">
+   <br/>
+  </p>
+  <section style="background-image: none;vertical-align: top;display: inline-block;box-sizing: border-box;">
+   <section style="border-radius: 50%;width: 1.5em;height: 1.5em;background-image: none;vertical-align: middle;display: inline-block;box-sizing: border-box;background-color: rgb(249, 110, 87);">
+   </section>
+   <section style="width: 0px;background-image: none;margin-left: -0.8em;vertical-align: middle;border-top-color: transparent !important;border-right-color: rgb(255, 255, 255);border-bottom-color: transparent !important;border-top-width: 0.6em !important;border-right-width: 1em;border-bottom-width: 0.6em !important;border-top-style: solid !important;border-right-style: solid;border-bottom-style: solid !important;display: inline-block;box-sizing: border-box;">
+   </section>
+  </section>
+  <section style="background-image: none;color: rgb(180, 160, 67);vertical-align: middle;display: inline-block;box-sizing: border-box;">
+   <p style="margin: 16px 0px;padding: 0px;background-image: none;box-sizing: border-box;">
+    三、征稿范围
+   </p>
+   <p style="margin: 16px 0px;padding: 0px;background-image: none;box-sizing: border-box;">
+    C a l l    f o r   s u b m i s s i o n
+   </p>
+  </section>
+  <section powered-by="xiumi.us" style="background-image: none;box-sizing: border-box;">
+   <section style="background-image: none;box-sizing: border-box;">
+    <section style="background-image: none;font-size: 14px;box-sizing: border-box;">
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      按照研究侧重点的不同，本次论坛分为三个分论坛，分别为：
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      （一）文史哲教类分论坛选题范围（包括但不限于）
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      1、传世文献及语言文字；
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      2、新文化视野下的社会生活；
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      3、新兴科技与生命伦理的建构；
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      4、文化自信与当代中国文化发展；
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      5、人工智能时代的教育变革路径；
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      ······
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      （二）经管类分论坛选题范围（包括但不限于）
+      <br/>
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      1、上海进博会与国际合作新平台；
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      2、中美贸易战与国内金融风险；
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      3、中国互联网经济下的产业融合；
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      4、长三角一体化的新发展理念研究；
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      5、新时代背景下的经济发展模式的转变；
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      ······
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      （三）政法类分论坛选题范围（包括但不限于）
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      1、五四新文化运动与中国共产党创建的关系研究
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      2、新中国70年中国社会治理转型与地方实践
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      3、人类命运共同体的政治外交逻辑
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      4、新时代全面深化依法治国的制度路径
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      5、互联网、人工智能等新技术发展带来的法律问题研究
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      ······
+     </p>
+    </section>
+   </section>
+  </section>
+  <section style="background-image: none;color: rgb(180, 160, 67);vertical-align: middle;display: inline-block;box-sizing: border-box;">
+   <p style="margin: 16px 0px;padding: 0px;background-image: none;box-sizing: border-box;">
+    四、参与对象
+   </p>
+   <p style="margin: 16px 0px;padding: 0px;background-image: none;box-sizing: border-box;">
+    P a r t i c i p a t i n g    o b j e c t
+    <br style="background-image: none;box-sizing: border-box;"/>
+   </p>
+  </section>
+  <section style="background-image: none;vertical-align: top;display: inline-block;box-sizing: border-box;">
+   <section style="width: 0px;background-image: none;vertical-align: middle;border-top-color: transparent !important;border-bottom-color: transparent !important;border-left-color: rgb(255, 255, 255);border-top-width: 0.6em !important;border-bottom-width: 0.6em !important;border-left-width: 1em;border-top-style: solid !important;border-bottom-style: solid !important;border-left-style: solid;display: inline-block;box-sizing: border-box;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);">
+   </section>
+   <section style="border-radius: 50%;width: 1.5em;height: 1.5em;background-image: none;margin-left: -0.8em;vertical-align: middle;display: inline-block;box-sizing: border-box;background-color: rgb(249, 110, 87);">
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="background-image: none;box-sizing: border-box;">
+   <section style="background-image: none;box-sizing: border-box;">
+    <section style="background-image: none;font-size: 14px;box-sizing: border-box;">
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      1、华东师范大学、上海社会科学院全体研究生与青年科研人员；
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      2、其他高校研究生与青年科研人员
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      <br/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section style="background-image: none;vertical-align: top;display: inline-block;box-sizing: border-box;">
+   <section style="border-radius: 50%;width: 1.5em;height: 1.5em;background-image: none;vertical-align: middle;display: inline-block;box-sizing: border-box;background-color: rgb(249, 110, 87);">
+   </section>
+   <section style="width: 0px;background-image: none;margin-left: -0.8em;vertical-align: middle;border-top-color: transparent !important;border-right-color: rgb(255, 255, 255);border-bottom-color: transparent !important;border-top-width: 0.6em !important;border-right-width: 1em;border-bottom-width: 0.6em !important;border-top-style: solid !important;border-right-style: solid;border-bottom-style: solid !important;display: inline-block;box-sizing: border-box;">
+   </section>
+  </section>
+  <section style="background-image: none;color: rgb(180, 160, 67);vertical-align: middle;display: inline-block;box-sizing: border-box;">
+   <p style="margin: 16px 0px;padding: 0px;background-image: none;box-sizing: border-box;">
+    五、征文要求
+   </p>
+   <p style="margin: 16px 0px;padding: 0px;background-image: none;box-sizing: border-box;">
+    E s s a y    r e q u e s t
+   </p>
+  </section>
+  <section powered-by="xiumi.us" style="background-image: none;box-sizing: border-box;">
+   <section style="background-image: none;box-sizing: border-box;">
+    <section style="background-image: none;font-size: 14px;box-sizing: border-box;">
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      1.  论文必须是未经公开发表的原创论文，字数以5000-10000字为宜；
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      2.  论文要求围绕论坛主题，做到观点明确、内容详实，论证严密；
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      3.  本论坛将严格依照《高等学校哲学社会科学研究学术规范》，如发现有学术不端，立即取消参选资格；
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      4.  格式要求：见附件一、附件二.。点击阅读原文，获取附件，提取码为
+      <strong>
+       2v1a
+      </strong>
+     </p>
+    </section>
+   </section>
+  </section>
+  <p style="background-image: none;box-sizing: border-box;text-align: center;line-height: 1.5em;">
+   <br/>
+  </p>
+  <section style="background-image: none;color: rgb(180, 160, 67);vertical-align: middle;display: inline-block;box-sizing: border-box;">
+   <p style="margin: 16px 0px;padding: 0px;background-image: none;box-sizing: border-box;">
+    六、投稿方式
+   </p>
+   <p style="margin: 16px 0px;padding: 0px;background-image: none;box-sizing: border-box;">
+    S u b m i s s i o n   m e t h o d
+    <br style="background-image: none;box-sizing: border-box;"/>
+   </p>
+  </section>
+  <section style="background-image: none;vertical-align: top;display: inline-block;box-sizing: border-box;">
+   <section style="width: 0px;background-image: none;vertical-align: middle;border-top-color: transparent !important;border-bottom-color: transparent !important;border-left-color: rgb(255, 255, 255);border-top-width: 0.6em !important;border-bottom-width: 0.6em !important;border-left-width: 1em;border-top-style: solid !important;border-bottom-style: solid !important;border-left-style: solid;display: inline-block;box-sizing: border-box;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);">
+   </section>
+   <section style="border-radius: 50%;width: 1.5em;height: 1.5em;background-image: none;margin-left: -0.8em;vertical-align: middle;display: inline-block;box-sizing: border-box;background-color: rgb(249, 110, 87);">
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="background-image: none;box-sizing: border-box;">
+   <section style="background-image: none;box-sizing: border-box;">
+    <section style="background-image: none;font-size: 14px;box-sizing: border-box;">
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      论文以word文档的电子邮件附件方式提交，文档名称与邮件主题格式均为“第十四届青年学术论坛－论文题目－姓名－学校”
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      投稿邮箱为：youthforum14@163.com
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      论坛相关信息请关注：
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: normal;">
+      <br/>
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;text-align: center;line-height: 1.5em;">
+      <strong>
+       华东师范大学研究生院官网: http://www.yjsy.ecnu.edu.cn
+      </strong>
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;text-align: center;line-height: 1.5em;">
+      <strong>
+       华东师范大学ECNU青年官网: http://www.youth.ecnu.edu.cn
+      </strong>
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;text-align: center;line-height: 1.5em;">
+      <strong>
+       华东师范大学研究生会微信：ECNUgraduate
+      </strong>
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;text-align: center;line-height: 1.5em;">
+      <strong>
+       上海社会科学院研究生院官网：http://yjs.sass.org.cn
+      </strong>
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;text-align: center;line-height: 1.5em;">
+      <strong>
+       上海社会科学院研究生会微信：sassfamily
+      </strong>
+     </p>
+    </section>
+   </section>
+  </section>
+  <p style="background-image: none;box-sizing: border-box;text-align: center;line-height: 1.5em;">
+   <br/>
+  </p>
+  <section style="background-image: none;vertical-align: top;display: inline-block;box-sizing: border-box;">
+   <section style="border-radius: 50%;width: 1.5em;height: 1.5em;background-image: none;vertical-align: middle;display: inline-block;box-sizing: border-box;background-color: rgb(249, 110, 87);">
+   </section>
+   <section style="width: 0px;background-image: none;margin-left: -0.8em;vertical-align: middle;border-top-color: transparent !important;border-right-color: rgb(255, 255, 255);border-bottom-color: transparent !important;border-top-width: 0.6em !important;border-right-width: 1em;border-bottom-width: 0.6em !important;border-top-style: solid !important;border-right-style: solid;border-bottom-style: solid !important;display: inline-block;box-sizing: border-box;">
+   </section>
+  </section>
+  <section style="background-image: none;color: rgb(180, 160, 67);vertical-align: middle;display: inline-block;box-sizing: border-box;">
+   <p style="margin: 16px 0px;padding: 0px;background-image: none;box-sizing: border-box;">
+    七、奖励方法
+   </p>
+   <p style="margin: 16px 0px;padding: 0px;background-image: none;box-sizing: border-box;">
+    R e w a r d    m e t h o d
+   </p>
+  </section>
+  <section powered-by="xiumi.us" style="background-image: none;box-sizing: border-box;">
+   <section style="background-image: none;box-sizing: border-box;">
+    <section style="background-image: none;font-size: 14px;box-sizing: border-box;">
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      1、所有来稿均经过匿名评审，评选出获奖论文和优秀论文若干，论文将汇编成册，并向收录论文的作者赠送论文集。
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      2、论坛将向获奖论文和优秀论文作者颁奖，并邀请参加分论坛，论文获奖者还将有机会宣讲论文，并与领域内专家当面交流；
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      3、获奖论文与优秀论文将向华东师范大学和上海社会科学院以及相关学术核心期刊推荐。
+     </p>
+    </section>
+   </section>
+  </section>
+  <p style="text-align: center;background-image: none;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;line-height: normal;">
+   <br/>
+  </p>
+  <p style="background-image: none;box-sizing: border-box;text-align: center;line-height: 1.5em;">
+   <span style="color: rgb(180, 160, 67);">
+    八、其他事项
+   </span>
+   <br/>
+  </p>
+  <section style="background-image: none;color: rgb(180, 160, 67);vertical-align: middle;display: inline-block;box-sizing: border-box;">
+   <p style="margin: 16px 0px;padding: 0px;background-image: none;box-sizing: border-box;">
+    S o m e t h i n g    e l s e
+    <br style="background-image: none;box-sizing: border-box;"/>
+   </p>
+  </section>
+  <section style="background-image: none;vertical-align: top;display: inline-block;box-sizing: border-box;">
+   <section style="width: 0px;background-image: none;vertical-align: middle;border-top-color: transparent !important;border-bottom-color: transparent !important;border-left-color: rgb(255, 255, 255);border-top-width: 0.6em !important;border-bottom-width: 0.6em !important;border-left-width: 1em;border-top-style: solid !important;border-bottom-style: solid !important;border-left-style: solid;display: inline-block;box-sizing: border-box;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);">
+   </section>
+   <section style="border-radius: 50%;width: 1.5em;height: 1.5em;background-image: none;margin-left: -0.8em;vertical-align: middle;display: inline-block;box-sizing: border-box;background-color: rgb(249, 110, 87);">
+   </section>
+  </section>
+  <p style="line-height: 1.5em;text-align: left;">
+   <span style="font-size: 14px;text-align: justify;">
+    论坛将于
+   </span>
+   <span style="font-size: 14px;text-align: justify;background-image: none;color: rgb(249, 110, 87);box-sizing: border-box;">
+    4月底（具体时间另行通知）
+   </span>
+   <span style="font-size: 14px;text-align: justify;">
+    在华东师范大学中北校区（上海市普陀区中山北路3663号）逸夫楼报告厅一楼（暂定）举办，主办方届时将诚邀嘉宾及获奖者出席。
+   </span>
+   <br/>
+  </p>
+  <section powered-by="xiumi.us" style="background-image: none;box-sizing: border-box;">
+   <section style="background-image: none;box-sizing: border-box;">
+    <section style="background-image: none;font-size: 14px;box-sizing: border-box;">
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      未尽事宜可咨询论坛联系人：
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      李颖超 1668285959@qq.com（华东师范大学）
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      张陈陈 zorazcc@163.com（上海社会科学院）
+     </p>
+    </section>
+   </section>
+  </section>
+  <p style="text-align: center;background-image: none;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;line-height: normal;">
+   <br/>
+  </p>
+  <p style="background-image: none;box-sizing: border-box;text-align: center;line-height: 1.5em;">
+   <br/>
+  </p>
+  <section style="background-image: none;vertical-align: top;display: inline-block;box-sizing: border-box;">
+   <section style="border-radius: 50%;width: 1.5em;height: 1.5em;background-image: none;vertical-align: middle;display: inline-block;box-sizing: border-box;background-color: rgb(249, 110, 87);">
+   </section>
+   <section style="width: 0px;background-image: none;margin-left: -0.8em;vertical-align: middle;border-top-color: transparent !important;border-right-color: rgb(255, 255, 255);border-bottom-color: transparent !important;border-top-width: 0.6em !important;border-right-width: 1em;border-bottom-width: 0.6em !important;border-top-style: solid !important;border-right-style: solid;border-bottom-style: solid !important;display: inline-block;box-sizing: border-box;">
+   </section>
+  </section>
+  <section style="background-image: none;color: rgb(180, 160, 67);vertical-align: middle;display: inline-block;box-sizing: border-box;">
+   <p style="margin: 16px 0px;padding: 0px;background-image: none;box-sizing: border-box;">
+    九、截稿日期
+   </p>
+   <p style="margin: 16px 0px;padding: 0px;background-image: none;box-sizing: border-box;">
+    C l o s i n g    d a t e
+   </p>
+  </section>
+  <section powered-by="xiumi.us" style="background-image: none;box-sizing: border-box;">
+   <section style="background-image: none;box-sizing: border-box;">
+    <section style="background-image: none;font-size: 14px;box-sizing: border-box;">
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;line-height: 1.5em;text-align: left;">
+      即日起至
+      <span style="background-image: none;color: rgb(249, 110, 87);box-sizing: border-box;">
+       2019年3月10日
+      </span>
+      <br style="background-image: none;box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="background-image: none;box-sizing: border-box;">
+   <section style="background-image: none;box-sizing: border-box;">
+    <section style="background-image: none;box-sizing: border-box;">
+     <p style="margin: 16px 0px;padding: 0px;background-image: none;box-sizing: border-box;">
+      <br style="background-image: none;box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="background-image: none;box-sizing: border-box;">
+   <section style="background-image: none;box-sizing: border-box;">
+    <section style="background-image: none;font-size: 14px;box-sizing: border-box;">
+     <p style="margin: 14px 0px;padding: 0px;text-align: right;background-image: none;box-sizing: border-box;line-height: 1.5em;">
+      华东师范大学·上海社会科学院
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;text-align: right;background-image: none;box-sizing: border-box;line-height: 1.5em;">
+      第十四届青年学术论坛筹委会
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;text-align: right;background-image: none;box-sizing: border-box;line-height: 1.5em;">
+      二〇一九年二月
+     </p>
+     <p style="margin: 14px 0px;padding: 0px;background-image: none;box-sizing: border-box;">
+      <br style="background-image: none;box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="background-image: none;box-sizing: border-box;">
+   <section style="background-image: none;box-sizing: border-box;">
+    <section style="background-image: none;color: rgb(160, 160, 160);line-height: 2;font-size: 13px;box-sizing: border-box;">
+     <p style="margin: 13px 0px;padding: 0px;text-align: center;background-image: none;box-sizing: border-box;line-height: 1.5em;">
+      内容来源 I 校研会学术部
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="background-image: none;box-sizing: border-box;">
+   <section style="background-image: none;box-sizing: border-box;">
+    <section style="background-image: none;color: rgb(160, 160, 160);line-height: 2;font-size: 13px;box-sizing: border-box;">
+     <p style="margin: 13px 0px;padding: 0px;text-align: center;background-image: none;box-sizing: border-box;line-height: 1.5em;">
+      排版：馒头
+     </p>
+    </section>
+   </section>
+  </section>
+  <p style="text-align: center;background-image: none;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;line-height: normal;">
+   <br/>
+  </p>
+  <p style="background-image: none;box-sizing: border-box;line-height: 1.5em;">
+   <br/>
+  </p>
+  <section style="background-image: none;line-height: 0;vertical-align: middle;display: inline-block;max-width: 100%;box-sizing: border-box;">
+   <img class="raw-image" data-ratio="0.5137845" data-type="jpeg" data-w="798" src="https://mmbiz.qpic.cn/mmbiz_jpg/OPxDQXv1XhFqlHTrSicp2ibKBluiaYiaeqsDpOWOF9N03W9icHibqlDPURV6xAbMhqPicziaqQctCvQpLcjQRQic2RJEqLg/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+  </section>
+  <p>
+   <br/>
+  </p>
+  <p>
+   <br/>
+  </p>
+ </section>

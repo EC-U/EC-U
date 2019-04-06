@@ -1,0 +1,998 @@
+
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(123, 172, 163);padding: 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);padding: 10px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+          <section style="border-top: 10px dashed rgb(123, 172, 163);box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 15px 0% 5px;box-sizing: border-box;">
+          <section class="tn-yzk-fuid-text-67984-1550217979970" style="font-size: 14px;line-height: 2;color: rgb(0, 0, 0);box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            好的学习评价能够产生促进学习的行为。形成性评价被认为是一种能促进学习或者教学，在教学过程中实施的评价……形成性评价之所以具有形成性，是因为它能立刻用于调整（学习），从而产生新的学习。
+            <strong style="box-sizing: border-box;">
+             《学习评价7策略：支持学习的可行之道》（第2版）
+            </strong>
+            作者基于科学研究和自身许多年的实践经验指出，形成性评价的研究有一个共性，那就是工具本身并不能被称为“形成性”。只有根据需要，运用收集到的信息来调整教学和学习，才能贴上“形成性”的标签。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="font-size: 58px;text-align: center;box-sizing: border-box;">
+    <section style='box-sizing: border-box;display: inline-block;vertical-align: bottom;margin: auto;width: 3em;height: 3em;border-radius: 100%;overflow: hidden;background-position: 100% 0%;background-repeat: no-repeat;background-size: 133.333%;background-image: url("https://mmbiz.qpic.cn/mmbiz_jpg/zvhFjG9dTVbgGlv1baL84zlG8lummEy9IvDzsTMS2JV49WasJvMpPDjzCibsVRDzHQhMtTIiazTKDic4PcnMursYA/640?wx_fmt=jpeg");'>
+     <section style="height: 100%;overflow: hidden;line-height: 0;vertical-align: middle;max-width: 100%;box-sizing: border-box;">
+      <img data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/zvhFjG9dTVbgGlv1baL84zlG8lummEy9IvDzsTMS2JV49WasJvMpPDjzCibsVRDzHQhMtTIiazTKDic4PcnMursYA/640?wx_fmt=jpeg" style="width: 100%;height: 100%;opacity: 0;box-sizing: border-box;"/>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 30px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;border-style: solid;border-width: 4px;border-radius: 0px;border-color: rgb(123, 172, 163);box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-top: -20px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 50px;height: 30px;vertical-align: top;overflow: hidden;background-color: rgb(255, 255, 255);padding-right: 8px;padding-left: 8px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+           <svg class="svg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;" viewbox="0 0 64.7 40.8" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+            <g style="box-sizing: border-box;">
+             <path d="M36.2,27c0,0.2,0,0.4,0,0.6l0,0c0.5,7.4,6.7,13.3,14.2,13.3c7.9,0,14.3-6.4,14.3-14.3c0-7.2-5.3-13.1-12.2-14.1   C53,8.9,54.2,4,57,0c0,0-19,3-20.7,24.7c-0.1,0.6-0.1,1.2-0.1,1.8C36.2,26.7,36.2,26.9,36.2,27z" fill="rgb(123,172,163)" style="box-sizing: border-box;">
+             </path>
+             <path d="M0,27c0,0.2,0,0.4,0,0.6l0,0C0.6,35,6.7,40.8,14.3,40.8c7.9,0,14.3-6.4,14.3-14.3c0-7.2-5.3-13.1-12.2-14.1   C16.8,8.9,18,4,20.8,0c0,0-19,3-20.7,24.7C0,25.3,0,26,0,26.6C0,26.7,0,26.9,0,27z" fill="rgb(123,172,163)" style="box-sizing: border-box;">
+             </path>
+            </g>
+           </svg>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 20px 10px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 14px;color: rgb(0, 0, 0);line-height: 2;box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            本书以近期的研究为基础，通过展现生动的例子，让读者能深入探索学习评价。重要的是，它把学生视为目标取向和自我取向的学习者，阐述了如何在所有学生中发展这些能力。对于那些关注有效实施课堂学习评价的人来说，这是一本必读的书。
+           </p>
+           <p style="text-align: right;white-space: normal;box-sizing: border-box;">
+            —— Margaret Heritage
+           </p>
+           <p style="text-align: right;white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 12px;box-sizing: border-box;">
+             美国国家评估、标准和学生测试中心（CRESST）专业发展主任助理，加州大学洛杉矶分校
+            </span>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            本书对课堂形成性评价提供了一个简明、易懂、可操作的概述。其观点以研究为基础，所有评价策略都经过课堂实践检验。通过此书，各级老师均能找到自己熟悉的或者新的方法来使用评价策略，从而提高学生的学业成就，最有意义的是，能提高学生的参与度和自主学习程度。
+           </p>
+           <p style="text-align: right;white-space: normal;box-sizing: border-box;">
+            —— Heidi Andrade
+           </p>
+           <p style="text-align: right;white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 12px;box-sizing: border-box;">
+             纽约州立大学奥尔巴尼分校教育学院副教授
+            </span>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            作为一名教学一线的老师，几乎没有什么能像《学习评价7策略》这本书那样对我的教学有如此巨大的影响。在这本书的影响下，我的教学和我的师生关系已经发生了改变，并且这本书年复一年地持续强化我对评价策略的应用。
+           </p>
+           <p style="text-align: right;white-space: normal;box-sizing: border-box;">
+            —— Ken Mattingly
+           </p>
+           <p style="text-align: right;white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 12px;box-sizing: border-box;">
+             肯塔基州弗农山罗克卡斯尔县中学科学老师
+            </span>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            找到一本含有优秀观点的书很容易，但要找到一本告诉你如何把优秀的观点付诸实践的书很难！我对来自各个年级和所有学科领域的数百位教师进行了考察，他们都把《学习评价7策略》作为一种工具来帮助自己提升技能。
+           </p>
+           <p style="text-align: right;white-space: normal;box-sizing: border-box;">
+            —— Donna Snodgrass
+           </p>
+           <p style="text-align: right;white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 12px;box-sizing: border-box;">
+             克利夫兰州立大学大克利夫兰教育发展中心
+            </span>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <br/>
+ </section>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <br/>
+ </p>
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 10px 0% 20px;box-sizing: border-box;">
+    <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 45px;height: 45px;vertical-align: top;overflow: hidden;border-radius: 100%;border-width: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(191, 224, 216);box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: -32px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section class="tn-yzk-fuid-text-69725-1548847915417" style="color: rgb(15, 79, 67);box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          如何理解学习评价7策略？
+         </strong>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   澳大利亚研究者 Royce Sadler（1989）的一篇文章经常被引用，它阐明了形成性评价如何提高成就。文章指出，形成性评价最大的潜力是因为它发展了学生在生成作品的过程中，对自己的工作质量进行监控的能力。因此，形成性评价的最终目标就是让老师和学生都清楚，采取什么样的行动才能使学习保持在成功的轨迹上。
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(123, 172, 163);border-width: 4px;border-radius: 8px;border-style: solid;border-color: rgb(123, 172, 163);overflow: hidden;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 0.5em;margin-bottom: 0.5em;text-align: center;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 6px;height: 6px;display: inline-block;vertical-align: middle;border-radius: 100%;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+        </section>
+        <section style="display: inline-block;vertical-align: middle;font-size: 15px;padding-right: 5px;padding-left: 5px;color: rgb(255, 255, 255);box-sizing: border-box;">
+         <p style="box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           Sadler 提出的取得进步不可缺少的条件
+          </strong>
+         </p>
+        </section>
+        <section style="display: inline-block;vertical-align: middle;width: 6px;height: 6px;border-radius: 100%;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);padding: 10px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section class="tn-yzk-fuid-text-77336-1550217870709" style="font-size: 14px;line-height: 2;color: rgb(46, 101, 91);box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            <span style="letter-spacing: 0px;box-sizing: border-box;">
+             1．学生发展出和老师一致的质量观。
+            </span>
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            2．学生能够进行学业监控，比如在学习进程中，能对自己的进步做自我评价。
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            3．提供一份改进学习的策略集，以便学生随时可以根据需要从中选取适合的策略。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <br/>
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   Sadler 提出的条件成为“学习评价”——形成性评价实践的核心，即让学生刚开始学习时就参与进来，这样的评价才能满足老师和学生的信息需求，以获得最强动机和最大成就。这些实践在7策略的框架中得以充实，高影响力的形成性评价行动的应用贯穿了各学科和内容标准。学习评价7策略为满足 Sadler 的三个条件指明了方向。从学生的角度可以把指导概括成三个问题：
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   <br/>
+  </span>
+ </p>
+ <ul class="list-paddingleft-2" style="list-style-type: disc;">
+  <li>
+   <p style="text-align: justify;line-height: 1.75em;">
+    <span style="font-size: 14px;color: rgb(0, 0, 0);">
+     我将去哪里？
+    </span>
+   </p>
+  </li>
+  <li>
+   <p style="text-align: justify;line-height: 1.75em;">
+    <span style="font-size: 14px;color: rgb(0, 0, 0);">
+     我现在在哪里？
+    </span>
+   </p>
+  </li>
+  <li>
+   <p style="text-align: justify;line-height: 1.75em;">
+    <span style="font-size: 14px;color: rgb(0, 0, 0);">
+     我如何缩小差距？
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(123, 172, 163);border-width: 4px;border-radius: 8px;border-style: solid;border-color: rgb(123, 172, 163);overflow: hidden;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 0.5em;margin-bottom: 0.5em;text-align: center;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 6px;height: 6px;display: inline-block;vertical-align: middle;border-radius: 100%;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+        </section>
+        <section style="display: inline-block;vertical-align: middle;font-size: 15px;padding-right: 5px;padding-left: 5px;color: rgb(255, 255, 255);box-sizing: border-box;">
+         <p style="box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           学习评价7策略
+          </strong>
+         </p>
+        </section>
+        <section style="display: inline-block;vertical-align: middle;width: 6px;height: 6px;border-radius: 100%;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);padding: 10px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section class="tn-yzk-fuid-text-77336-1550217870709" style="font-size: 14px;line-height: 2;color: rgb(46, 101, 91);box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             <span style="letter-spacing: 0px;background-color: rgb(123, 172, 163);color: rgb(255, 255, 255);box-sizing: border-box;">
+              我将去哪里？
+             </span>
+            </strong>
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            策略1：为学生提供清晰易懂的学习目标愿景
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            策略2：用好作业和差作业作为样板和示范
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             <span style="color: rgb(255, 255, 255);background-color: rgb(123, 172, 163);box-sizing: border-box;">
+              我现在在哪里？
+             </span>
+            </strong>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            策略3：在学习进程中有规律地提供描述性反馈
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            策略4：教学生进行自我评价以及为下一步学习设定目标
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             <span style="color: rgb(255, 255, 255);background-color: rgb(123, 172, 163);box-sizing: border-box;">
+              我如何缩小差距？
+             </span>
+            </strong>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            策略5：根据学生的学习需求，确定下一步教学
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            策略6：设计聚焦性教学，并配以提供反馈的练习
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            策略7：为学生提供机会去追踪、反思和分享他们的学习过程
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="color: rgb(0, 0, 0);font-size: 14px;">
+  </span>
+  <br/>
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   等你通读了每种策略，你会发现它们大都不陌生。它们反映了实践始终是构成优质教学的一部分。而这些策略的运用可能有点陌生，其重点在于使老师和学生都能从支持学习的目的出发对评价加以运用。
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+    <section style="background-color: rgb(147, 195, 186);height: 2px;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;font-size: 14px;box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <section style="display: inline-block;vertical-align: top;height: 2em;padding-right: 0.5em;padding-left: 0.5em;line-height: 2em;background-color: rgb(147, 195, 186);text-align: center;color: rgb(255, 255, 255);font-size: 15px;box-sizing: border-box;">
+      <p style="box-sizing: border-box;">
+       <strong style="box-sizing: border-box;">
+        我将去哪里？
+       </strong>
+      </p>
+     </section>
+     <section style="display: inline-block;vertical-align: top;border-left: 0.5em solid rgb(147, 195, 186);border-top: 1em solid rgb(147, 195, 186);border-right: 0.5em solid transparent !important;border-bottom: 1em solid transparent !important;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+  <br/>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="color: rgb(123, 172, 163);font-size: 15px;">
+   <strong>
+    策略1：为学生提供清晰易懂的学习目标愿景
+   </strong>
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   从为学生提供学习目标开始。在刚开始教学时，或者在学生开始单独实践一项活动时，跟学生分享学习的目标或目的。方法有三种：（1）照本宣科地陈述学习目标。（2）把学习目标的描述转换成亲学生型语言。（3）如果学习目标具有（评价）量规，可将规则转换成学生容易理解的语言。向学生介绍质量要求，询问“我们为什么做这个活动，我们在学习什么”，确保学生明白课堂关注的学习目标到底是什么。
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="color: rgb(123, 172, 163);font-size: 15px;">
+   <strong>
+    策略2：用好作业和差作业作为样板和示范
+   </strong>
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   从匿名的学生作业、校外生活的例子和自己的工作里寻找好和差的范本，帮助学生区分什么作业合格，什么作业不合格。从学生经常碰到的，特别是你最关心的问题中找出能反映学习得好和不好的例子入手。让学生分析这些样例的质量，并解释自己的判断。只用匿名的作业做样板。如果你努力让学生分析例子或样板并且运用得当的话，学生就会认识到什么才是良好的知识、理解、技巧、作品或者表现。
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   你需要先示范如何生成作品或者如何表现。把开始时的情况、你一路上遇到的问题和你是如何思考并作出决定的，全都真实地展示给学生。不要遗漏初创和修改的环节，否则在最初比较忙乱的时候，学生们会认为自己做得不对，不懂得如何在碴磕碰碰中工作。
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+    <section style="background-color: rgb(147, 195, 186);height: 2px;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;font-size: 14px;box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <section style="display: inline-block;vertical-align: top;height: 2em;padding-right: 0.5em;padding-left: 0.5em;line-height: 2em;background-color: rgb(147, 195, 186);text-align: center;color: rgb(255, 255, 255);font-size: 15px;box-sizing: border-box;">
+      <p style="box-sizing: border-box;">
+       <strong style="box-sizing: border-box;">
+        我现在在哪里？
+       </strong>
+      </p>
+     </section>
+     <section style="display: inline-block;vertical-align: top;border-left: 0.5em solid rgb(147, 195, 186);border-top: 1em solid rgb(147, 195, 186);border-right: 0.5em solid transparent !important;border-bottom: 1em solid transparent !important;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+  <br/>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <strong>
+   <span style="color: rgb(123, 172, 163);font-size: 15px;">
+    策略3：在学习进程中有规律地提供描述性反馈
+   </span>
+  </strong>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   描述性反馈可以定义为提供给学生的、能够改善学习的信息。在我们现有的体系中，学生做的大部分作业要接受评分，并且学生收到的唯一正式反馈可能是成绩。不幸的是，成绩传递的是一种被编码过的终结性评价，它并没有包含学生哪些地方学得好，他们下一步应该怎么做的具体信息。
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   对于既定学习任务的目标而言，描述性反馈可以鉴别出学生在达成目标过程中所具有的优势和劣势。相对于“我需要到哪里”，描述性反馈帮助学生回答“我现在在哪里”这一问题。同时它也为“我如何填补差距”指明道路。老师对这些问题的答案要做到心中有数，提供给学生的应是实践作业的反馈而非评分；在学生掌握知识之前，要为学生提供行动起来的机会。给学生行动的时间，使他们在指导下成长。此外，当学生做自我评价和确认下一步骤时，老师提供的反馈应该以自己希望学生能够进行的思考为模型。
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   让学生相互提供反馈。有研究文献认为，同伴反馈能带来良好的学习收益。为了相互提供有用的反馈，学生必须理解预期的学习目标或者目的（策略1）；明确如何区别不同水平的（作业）质量（策略2）；并且在控制的条件下对提供反馈的要领进行操练（策略3）。
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="color: rgb(123, 172, 163);font-size: 15px;">
+   <strong>
+    策略4：教学生进行自我评价以及为下一步学习设定目标
+   </strong>
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   有了这个策略，我们能够让学生成为学习的主人。本质上，当我们教学生自我评价和设置目标时，实际上是在教他们给自己提供反馈。为了成为准确的自我评价者，学生需要对预期学习有一个清晰的愿景（策略1），练习识别各种例子存在的优势与不足（策略2），然后提供反馈，对如何思考“自我评价”做示范：“我什么地方做得好？什么地方还需要继续努力？”（策略3）
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   已经证实，本策略能改进学习，同时也是成为自我调节的学习者不可缺少的要件。这些提高不在于我们是否有时间做什么，也不在于我们是否有”“对路”的学生一一即已经会做的那些学生。所有学生（包括那些有轻度到中度学习障碍在内的学生）都可以学习如何监控和调节自己的学习。学习吃力的学生尤其适用，他们从学习如何思考自我评价中的获益最大。
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+    <section style="background-color: rgb(147, 195, 186);height: 2px;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;font-size: 14px;box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <section style="display: inline-block;vertical-align: top;height: 2em;padding-right: 0.5em;padding-left: 0.5em;line-height: 2em;background-color: rgb(147, 195, 186);text-align: center;color: rgb(255, 255, 255);font-size: 15px;box-sizing: border-box;">
+      <p style="box-sizing: border-box;">
+       <strong style="box-sizing: border-box;">
+        我如何缩小差距？
+       </strong>
+      </p>
+     </section>
+     <section style="display: inline-block;vertical-align: top;border-left: 0.5em solid rgb(147, 195, 186);border-top: 1em solid rgb(147, 195, 186);border-right: 0.5em solid transparent !important;border-bottom: 1em solid transparent !important;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+  <br/>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="color: rgb(123, 172, 163);font-size: 15px;">
+   <strong>
+    策略5：根据学生的学习需求确定下一步教学
+   </strong>
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   根据这个策略，我们在教学周期中建立了一个反馈回路，可以根据学生已经掌握和尚未掌握的具体情况，指引我们对学生的理解程度进行核查并继续教学。在上完课和学生做出反应之后，我们用学生做的东西来判断他们下一步需要学什么。学生的反应是否揭示了他们存在理解片面、推理缺陷，或者错误理解？他们做好接受反馈的准备了吗？策略5提供了一整套诊断学生学习需求类型的方法，为解决问题做准备。
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="color: rgb(123, 172, 163);font-size: 15px;">
+   <strong>
+    策略6：设计聚焦性教学，并配以提供反馈的练习
+   </strong>
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   此策略通过汇聚一堂课的焦点，解决策略5识别出来的具体误解或问题，从而支持学习，如果达到学习目标的能力由多个方面组成，那么你可以通过每次解决一个方面，发展一部分的能力。比如，解决数学问题需要选择正确策略的能力，选择策略就是解决数学问题的一部分。一份科学实验室报告需要陈述假设，陈述假设就是实验室报告的一部分。一篇文章必须把引言作为一个部分。老师对能力的组成进行识别，然后每次教一部分，并一定要让学生明白所有的这些部分最终将融为一体。
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   针对目标领域的教学结束后，先让学生进行实践、做练习，待有所提高之后再作评价，最后给成绩。让学生有机会在获得有针对性的反馈基础上修改作业、作品或表现，这比给成绩更重要。这样能够减少需要进一步反馈的学生数量，尤其是那些需要通过补救才可能达标的学生数量。对你来说这样做反而能节省时间，对学生来说也更具指导性。
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="color: rgb(123, 172, 163);font-size: 15px;">
+   <strong>
+    策略7：为学生提供机会去追踪、反思和分享他们的学习过程
+   </strong>
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   任何要求学生反映自己所学、分享进步的活动都能强化学习，有助于学生作为一位学习者来洞察自己。这类活动为学生提供了机会，去认识自己的长处，看看自己已经学了多少，感受自己如何掌控获得成功的条件。通过反思自己的学习，学生加深了理解，将知识记得更牢，通过分享自己的进步，学生追求进步的决心会更大。
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+ </p>
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+    <section style="background-color: rgb(147, 195, 186);height: 2px;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;font-size: 14px;box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <section style="display: inline-block;vertical-align: top;height: 2em;padding-right: 0.5em;padding-left: 0.5em;line-height: 2em;background-color: rgb(147, 195, 186);text-align: center;color: rgb(255, 255, 255);font-size: 15px;box-sizing: border-box;">
+      <p style="box-sizing: border-box;">
+       <strong style="box-sizing: border-box;">
+        策略的系统性
+       </strong>
+      </p>
+     </section>
+     <section style="display: inline-block;vertical-align: top;border-left: 0.5em solid rgb(147, 195, 186);border-top: 1em solid rgb(147, 195, 186);border-right: 0.5em solid transparent !important;border-bottom: 1em solid transparent !important;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+  </span>
+  <br/>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   尽管这七个策略确实是依次产生的，但它们不是菜谱，不需要一步一步来。策略4和策略7是“目标”，策略1到3是“促成因素”，策略5和策略6是“浮动”策略。目标策略是我们希望学生在课堂里能学会的最终策略。它们作为基本的大学和职业预备技能，早在幼儿园之前就开始发展了。促成策略经常被低估，特别是策略1和策略2。然而，如果没有促成策略一一没有一个我们将去哪里的清晰蓝图一一就难以确定我们现在在哪里，填补差距的行动则更加难确定。想象一下，仅仅告诉你现在的位置，让你使用GPS系统从A点移动到B点，这种情况与评分是类似的。浮动策略5和6能在任何时候发生，并且经常结合之前的策略作为课程的一部分。总之，这些形成性评价策略代表着行动，这些行动能够加强学生的自我效能感（对努力带来成功的信念），增加他们的尝试动机，最终提高成就。
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   <br/>
+  </span>
+ </p>
+ <p style="text-align: right;line-height: 1.75em;">
+  <span style="font-size: 12px;color: rgb(136, 136, 136);">
+   本文选自《学习评价7策略：支持学习的可行之道》（第2版），
+   <span style="font-size: 12px;text-align: center;">
+    [美] Jan Chappuis 著
+   </span>
+  </span>
+ </p>
+ <p style="text-align: right;line-height: 1.75em;">
+  <span style="font-size: 12px;color: rgb(136, 136, 136);">
+   <br/>
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <mp-miniprogram class="miniprogram_element" data-miniprogram-appid="wx364bd9d10e180257" data-miniprogram-avatar="http://mmbiz.qpic.cn/mmbiz_png/lSko7icUxVmtuR3eNa0ibicNozTiclticL3xnnGa3ibOacO7VKOWs58eQkXXqdPzd0J7aksbibpN21UM9EmxfersawcicA/640?wx_fmt=png&amp;wxfrom=200" data-miniprogram-imageurl="http://mmbiz.qpic.cn/mmbiz_jpg/zvhFjG9dTVbgGlv1baL84zlG8lummEy9yrHf4yBoCic4baEStibLKlDD9Tbdu9TLHYsZvhfGjYbOI8ticGlicXiahlw/0?wx_fmt=jpeg" data-miniprogram-nickname="华东师范大学出版社" data-miniprogram-path="pages/goods/detail/index?alias=2fv8dk28hgyad" data-miniprogram-servicetype="0" data-miniprogram-title="7种实用且高效的学习评价策略！" data-miniprogram-type="card">
+  </mp-miniprogram>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="font-size: 15px;">
+   <strong>
+    <span style="color: rgb(0, 0, 0);">
+     《学习评价7策略：支持学习的可行之道》（第2版）
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="color: rgb(0, 0, 0);font-size: 14px;">
+   [美] Jan Chappuis 著
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="color: rgb(0, 0, 0);font-size: 14px;">
+   刘晓陵 等 译
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="color: rgb(0, 0, 0);font-size: 14px;">
+   华东师范大学出版社
+  </span>
+ </p>
+ <p style="text-align: right;line-height: 1.75em;">
+  <span style="font-size: 12px;color: rgb(136, 136, 136);">
+   <br/>
+  </span>
+ </p>
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 10px 0% 20px;box-sizing: border-box;">
+    <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 40px;height: 40px;vertical-align: top;overflow: hidden;border-radius: 100%;border-width: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(191, 224, 216);box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: -32px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section class="tn-yzk-fuid-text-69725-1548847915417" style="color: rgb(15, 79, 67);box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          <span style="text-shadow: rgb(174, 255, 236) 2px 0px 2px;box-sizing: border-box;">
+           内容简介
+          </span>
+         </strong>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;border-style: solid;border-width: 1px;border-radius: 0px;border-color: rgb(15, 79, 67);padding-right: 6px;padding-left: 6px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 15px 10px;border-left: 1px solid rgb(15, 79, 67);border-bottom-left-radius: 0px;border-right: 1px solid rgb(15, 79, 67);border-top-right-radius: 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section class="tn-yzk-fuid-text-12505-1550217099595" style="text-align: justify;font-size: 14px;color: rgb(0, 0, 0);line-height: 2;box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            本书中提出了7种实用且高效的学习评价策略。学习评价7策略代表了一系列连接评价和学习的教学活动。它们倡导的实践与传统的评价信息运用不同。传统的做法是把评价和测试、测试和成绩联系起来，这些评价实践并不能让成绩册中的记录更好。相反，7策略使我们更多地去思考什么是评价和能够完成什么这两个问题。
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            这些活动并不能解决课堂出现的所有学习问题。工作中存在太多的因素，不可能仅凭一套策略就能完全克服。然而，有了它们的帮助，你认识到评价是教学和学习不可缺少的一部分，从而把你向更加积极的方向推进。7策略提供了一系列有研究基础的实践活动，是学生发展的、能切实提高成就的思考模式。运用这些策略，就能把掌控成功条件的动力传递给学生。评价可以成为你的朋友，也可以成为你学生的朋友——评价甚至能变得有趣。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="text-align: right;line-height: 1.75em;">
+  <span style="font-size: 12px;color: rgb(136, 136, 136);">
+  </span>
+  <br/>
+ </p>
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 10px 0% 20px;box-sizing: border-box;">
+    <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 40px;height: 40px;vertical-align: top;overflow: hidden;border-radius: 100%;border-width: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(191, 224, 216);box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: -32px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section class="tn-yzk-fuid-text-69725-1548847915417" style="color: rgb(15, 79, 67);box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          <span style="text-shadow: rgb(174, 255, 236) 2px 0px 2px;box-sizing: border-box;">
+           作者简介
+          </span>
+         </strong>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;border-style: solid;border-width: 1px;border-radius: 0px;border-color: rgb(15, 79, 67);padding-right: 6px;padding-left: 6px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 15px 10px;border-left: 1px solid rgb(15, 79, 67);border-bottom-left-radius: 0px;border-right: 1px solid rgb(15, 79, 67);border-top-right-radius: 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section class="tn-yzk-fuid-text-12505-1550217099595" style="text-align: justify;font-size: 14px;color: rgb(0, 0, 0);line-height: 2;box-sizing: border-box;">
+           <p>
+            <strong>
+             Jan Chappuis，
+            </strong>
+            美国波特兰学习评价研究所研究员，知名教育测评专家，20多年来，致力于将教育研究转化为教学实践，在全球和美国国内作了几百场关于教育评价的讲座与活动，致力推动形成性评价走进课堂。曾为中小学教英文与数学教师和课程发展专家。著有《学习评价7策略》《为学生学习的课堂评价》《学生参与的评价：为了学习》等。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 10px 0% 20px;box-sizing: border-box;">
+    <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 40px;height: 40px;vertical-align: top;overflow: hidden;border-radius: 100%;border-width: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(191, 224, 216);box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: -32px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section class="tn-yzk-fuid-text-69725-1548847915417" style="color: rgb(15, 79, 67);box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          <span style="text-shadow: rgb(174, 255, 236) 2px 0px 2px;box-sizing: border-box;">
+           相关图书
+          </span>
+         </strong>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <a class="weapp_image_link" data-miniprogram-appid="wx364bd9d10e180257" data-miniprogram-nickname="华东师范大学出版社" data-miniprogram-path="pages/goods/detail/index?alias=2756bp1l7ryhx" data-miniprogram-servicetype="" data-miniprogram-type="image" href="">
+   <img class="" data-ratio="1.1645962732919255" data-s="300,640" data-type="png" data-w="1288" src="https://mmbiz.qpic.cn/mmbiz_png/zvhFjG9dTVbgGlv1baL84zlG8lummEy9HbBgwqpnQ9f2Yh5Picibas3AJsln7mSOlol9gNAY74BXcjgLrbNjaweA/640?wx_fmt=png" style=""/>
+  </a>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <strong>
+   <span style="font-size: 14px;color: rgb(0, 0, 0);">
+    《专家型教师做什么：提高课堂实践的专业知识》
+   </span>
+  </strong>
+  <br/>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="color: rgb(136, 136, 136);font-size: 14px;">
+   （点击图片购买）
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   ［澳大利亚］约翰·洛克伦 著
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   李琼 张弘治 译
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   华东师范大学出版社
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   <br/>
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <strong>
+   <span style="font-size: 14px;color: rgb(0, 0, 0);">
+    相关阅读：
+   </span>
+  </strong>
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   <br/>
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);text-decoration: underline;">
+   <a data-itemshowtype="0" data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MjM5MzM4OTMwMA==&amp;mid=2649837186&amp;idx=1&amp;sn=e650d903fd31dba07cda19bb33aae6ef&amp;chksm=be92211989e5a80f9588eb27f952302a6d778f21aeba83dec5c1baf9939388ef1a9ee5331cb4&amp;scene=21#wechat_redirect" target="_blank">
+    专家型教师做什么：一个小小的改变，会产生巨大的影响
+   </a>
+  </span>
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   <br/>
+  </span>
+ </p>
+ <p>
+  <br/>
+ </p>
+ <p style="text-align: right;">
+  <span style="font-size: 12px;color: rgb(178, 178, 178);">
+   本期编辑 | Mozi
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <img class="" data-backh="209" data-backw="556" data-before-oversubscription-url="https://mmbiz.qpic.cn/mmbiz_gif/zvhFjG9dTVZCgc4UyHQF3pFWPJYiaGu13ykasdkUw0PuqLztK5a50iadOQ6FPWET0JpCF7JAGPIiaYgpPhPCoPm9g/0?wx_fmt=gif" data-copyright="0" data-ratio="0.375" data-type="gif" data-w="1000" src="https://mmbiz.qpic.cn/mmbiz_gif/zvhFjG9dTVZCgc4UyHQF3pFWPJYiaGu13ykasdkUw0PuqLztK5a50iadOQ6FPWET0JpCF7JAGPIiaYgpPhPCoPm9g/640?wx_fmt=gif" style="width: 100%;height: auto;"/>
+ </p>
+ <p>
+  <br/>
+ </p>
+ <p style="text-align: justify;">
+  <img class="" data-copyright="0" data-ratio="1" data-type="gif" data-w="400" src="https://mmbiz.qpic.cn/mmbiz_gif/zvhFjG9dTVa6ZM0q6gMUKlZ80mEBw0pku3JowQUMg3O8X6h9nGic1gVSWp8Rwpm33IhVLNXLVHlJzjiaJr9eAMBA/640?wx_fmt=gif" style="width: 20px;height: 20px;"/>
+  <span style="color: rgb(0, 0, 0);font-size: 14px;">
+   点击
+   <strong>
+    阅读原文
+   </strong>
+   ，进入官方微店购买
+   <strong>
+    《学习评价7策略》
+   </strong>
+   ！
+  </span>
+ </p>

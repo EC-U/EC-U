@@ -1,0 +1,283 @@
+
+ <section class="xmteditor" data-label="powered by xmt.cn" data-tools="新媒体管家" style="display:none;">
+ </section>
+ <section data-role="outer" label="Powered by 135editor.com" style="font-size: 16px;">
+  <section data-role="outer" label="Powered by 135editor.com">
+   <p style="text-align: center;">
+    <img class="" data-copyright="0" data-cropselx1="0" data-cropselx2="388" data-cropsely1="0" data-cropsely2="517" data-ratio="1.33125" data-s="300,640" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0adcWpyWAPCU6t8f0BjWZ8r4YsfiaqlF4HbW6nXM0PyHDTGZKs0iajZBs3QB7Iyg4eK3Ywr5fVJ18ddA/640?wx_fmt=png" style="width: 388px;height: 517px;"/>
+   </p>
+   <section class="_135editor" data-id="93868" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section style="padding: 2em 1em 1em;box-sizing: border-box;">
+     <section style="box-shadow: 0px 0px 15px #e9e9e9;">
+      <section style="background:#fdfde3;">
+       <section style="text-align: left;margin-left: 1em;">
+        <section style="display: inline-block;width: 50px;">
+         <img class="" data-ratio="1.1395348837209303" data-type="png" data-w="86" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0adVYHjUWeZpek288e1a7pZ0gY20auSia6w3kKuBj4X0kYnNmcy5ad3kDce8GIYUcjbdUCtALOpsHwA/640?wx_fmt=png" style="width: 100%;display: block;margin-top: -20px;"/>
+        </section>
+       </section>
+       <section style="text-align: center;">
+        <section class="135brush" data-autoskip="1" style="text-align: justify;line-height: 1.75em;letter-spacing: 1.5px;font-size: 14px;color: rgb(251, 115, 48);padding-right: 1em;padding-bottom: 1em;padding-left: 1em;box-sizing: border-box;">
+         <p style="text-align: center;line-height: 1.75em;">
+          <span style="font-size: 16px;">
+           <span style="color: rgb(227, 108, 9);">
+            孟书院文化建设中心
+           </span>
+           <span style="color: rgb(127, 127, 127);">
+            提醒您：
+           </span>
+          </span>
+         </p>
+         <p style="text-align: center;line-height: 1.75em;">
+          <span style="color: #7f7f7f;font-size: 16px;">
+           题目千万道，积累是王道。
+          </span>
+         </p>
+         <p style="text-align: center;line-height: 1.75em;">
+          <span style="color: #7f7f7f;font-size: 16px;">
+           准备不做好，答题两行泪。
+          </span>
+         </p>
+         <p style="text-align: center;line-height: 1.75em;">
+          <br/>
+         </p>
+         <p style="text-align: center;line-height: 1.75em;">
+          <strong>
+           <span style="color: #e36c09;font-size: 16px;">
+            同学请回答1.0
+           </span>
+          </strong>
+          <span style="color: #e36c09;font-size: 16px;">
+           综合知识竞赛
+          </span>
+         </p>
+         <p style="text-align: center;line-height: 1.75em;">
+          <span style="color: #7f7f7f;font-size: 16px;">
+           正式上线！
+          </span>
+         </p>
+         <p style="text-align: center;line-height: 1.75em;">
+          <span style="color: #7f7f7f;font-size: 16px;">
+           头脑风暴、过关斩将、强强对决！
+          </span>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <p style="text-align: center;line-height: 1.75em;">
+    <br/>
+   </p>
+   <p>
+    <img class="" data-copyright="0" data-ratio="0.66484375" data-s="300,640" data-type="jpeg" data-w="1280" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adcWpyWAPCU6t8f0BjWZ8r4AUUASkp5BRD4ickFJg8rNibicuRZAkxOJ8FCw01KdJSQT00UQA7vRWrpw/640?wx_fmt=jpeg" style=""/>
+   </p>
+   <p>
+    <img class="" data-copyright="0" data-ratio="0.66484375" data-s="300,640" data-type="jpeg" data-w="1280" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adcWpyWAPCU6t8f0BjWZ8r41rEkgG4xuCYrcBbiaXqcDhfN5tduKPUTnWApvKfoiaoM05ZFOx6eJAZw/640?wx_fmt=jpeg" style=""/>
+   </p>
+   <p>
+    <img class="" data-copyright="0" data-ratio="0.66484375" data-s="300,640" data-type="jpeg" data-w="1280" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adcWpyWAPCU6t8f0BjWZ8r4ibBrUGzzgRiagBOLMXhcm6j4c2n2iaKL0LG9FdricsLNibFdTrQPnTAsRHA/640?wx_fmt=jpeg" style=""/>
+   </p>
+   <p>
+    <img class="" data-copyright="0" data-ratio="0.6616666666666666" data-s="300,640" data-type="jpeg" data-w="600" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adcWpyWAPCU6t8f0BjWZ8r4TtrEKB2s2dhNTQWBooHa3UYCxAbE5DT1PPSAfGo0uibsP1DjiaMda1eQ/640?wx_fmt=jpeg" style=""/>
+   </p>
+   <p>
+    <img class="" data-copyright="0" data-ratio="0.6666666666666666" data-s="300,640" data-type="jpeg" data-w="600" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adcWpyWAPCU6t8f0BjWZ8r4hI6VnKavZtrAx8N10w9B8AYaKj5SU5JCj2SExAHxzaXzdU55qJxO7w/640?wx_fmt=jpeg" style=""/>
+   </p>
+   <p>
+    <img class="" data-copyright="0" data-ratio="0.6666666666666666" data-s="300,640" data-type="jpeg" data-w="600" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adcWpyWAPCU6t8f0BjWZ8r4SbWiaUcduAefDXoic2wkOV1sb88HNN2dicLMjW0gpS1nI1M3wXEMTJQ2g/640?wx_fmt=jpeg" style=""/>
+   </p>
+   <p style="text-align: center;">
+    <span style="color: #7F7F7F;">
+     <img class="" data-copyright="0" data-ratio="0.66640625" data-s="300,640" data-type="jpeg" data-w="1280" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adcWpyWAPCU6t8f0BjWZ8r4ogl1aibojf1qMKPxKW5ic5SDEyWyAUQPylN6VjTR1PeWUpdfBpASxpsQ/640?wx_fmt=jpeg" style="font-size: 16px;white-space: normal;"/>
+     轻装上阵的你，会是自带光环的锦鲤；
+    </span>
+    <br/>
+   </p>
+   <p style="text-align: center;">
+    <span style="color: #7F7F7F;">
+     徜徉书海的你，会是一站到底的巨星；
+    </span>
+   </p>
+   <p style="text-align: center;">
+    <span style="color: #7F7F7F;">
+     才思敏捷的你，会是C位出道的惊喜。
+    </span>
+   </p>
+   <section class="_135editor" data-id="94025" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section style="text-align: center;">
+     <section style="width: 5em;display: inline-block;">
+      <img class="" data-ratio="0.7633587786259542" data-type="gif" data-w="262" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_gif/YiaY80TEL0adVYHjUWeZpek288e1a7pZ0XmTdN31sLpwKbZuoTzhqwmrbCAV0ngwhQcicCcImG8CQlxg1cU73K9A/640?wx_fmt=gif" style="width: 100%;display: block;"/>
+     </section>
+    </section>
+   </section>
+   <p style="text-align: center;">
+    <span style="color: #FFC000;">
+     孟院ers
+    </span>
+   </p>
+   <p style="text-align: center;">
+    <span style="color: #7F7F7F;">
+     火石已经就位，
+    </span>
+   </p>
+   <p style="text-align: center;">
+    <span style="color: #7F7F7F;">
+     准备好用你的热情和智慧点燃孟院了吗？
+    </span>
+   </p>
+   <p style="text-align: center;">
+    <span style="color: #FFC000;">
+     <strong>
+      速来报名
+     </strong>
+    </span>
+    <span style="color: #7F7F7F;">
+     吧！！！
+    </span>
+   </p>
+   <section class="_135editor" data-id="93436" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section style="text-align: center;margin: 10px 0%;box-sizing: border-box;">
+     <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;padding-right: 10px;padding-left: 10px;border-width: 0px;box-sizing: border-box;">
+      <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;padding: 3px 10px 6px 20px;border-width: 1px;border-radius: 0px;border-style: solid;border-color: #3e3e3e;box-sizing: border-box;">
+       <section style="text-align: left;margin-right: 0%;margin-left: 0%;box-sizing: border-box;transform: translate3d(-30px, 0px, 0px);-webkit-transform: translate3d(-30px, 0px, 0px);-moz-transform: translate3d(-30px, 0px, 0px);-ms-transform: translate3d(-30px, 0px, 0px);-o-transform: translate3d(-30px, 0px, 0px);">
+        <section style="display: inline-block;width: 20px;height: 30px;vertical-align: top;overflow: hidden;background-color: #ffffff;box-sizing: border-box;">
+         <section style="text-align: center;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section data-width="100%" style="max-width: 100%;vertical-align: middle;display: inline-block;width: 100%;box-sizing: border-box;">
+           <svg style="vertical-align: middle;max-width: 100%;box-sizing: border-box;" viewbox="0 0 56.2 47.4" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+            <g style="box-sizing: border-box;">
+             <path d="M56.2,47.4V24.5H44.5c-1.2-10.9,6.1-20,6.1-20L44.7,0C34.3,7.9,33.3,24.5,33.3,24.5v22.9H56.2z" fill="rgb(251,205,15)" style="box-sizing: border-box;">
+             </path>
+             <path d="M22.9,47.4V24.5H11.2c-1.2-10.9,6.1-20,6.1-20L11.5,0C1,7.9,0,24.5,0,24.5v22.9H22.9z" fill="rgb(251,205,15)" style="box-sizing: border-box;">
+             </path>
+            </g>
+           </svg>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="margin-top: -25px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;transform: translate3d(1px, 0px, 0px);-webkit-transform: translate3d(1px, 0px, 0px);-moz-transform: translate3d(1px, 0px, 0px);-ms-transform: translate3d(1px, 0px, 0px);-o-transform: translate3d(1px, 0px, 0px);">
+        <section style="box-sizing: border-box;color: rgb(255, 169, 0);padding-right: 10px;padding-left: 10px;">
+         <p style="line-height: 1.75em;">
+          <strong>
+           <span style="color: #7f7f7f;">
+            活动对象
+           </span>
+          </strong>
+         </p>
+         <p style="line-height: 1.75em;">
+          孟宪承书院全体学生
+         </p>
+         <p style="line-height: 1.75em;">
+          （欢迎全校同学加入）
+         </p>
+         <p>
+          <br/>
+         </p>
+         <p style="line-height: 1.75em;">
+          <strong>
+           <span style="color: #7f7f7f;">
+            报名时间
+           </span>
+          </strong>
+         </p>
+         <p style="line-height: 1.75em;">
+          即日起至
+          <strong>
+           <span style="color: #ffc000;">
+            3月6日
+           </span>
+          </strong>
+         </p>
+         <p>
+          <br/>
+         </p>
+         <p style="line-height: 1.75em;">
+          <strong>
+           <span style="color: #7f7f7f;">
+            参赛形式
+           </span>
+          </strong>
+         </p>
+         <p style="line-height: 1.75em;">
+          团队参赛
+         </p>
+         <p style="line-height: 1.75em;">
+          （四人一队，
+          <strong>
+           允许跨专业跨年级
+          </strong>
+          ）
+         </p>
+         <p>
+          <br/>
+         </p>
+         <p style="line-height: 1.75em;">
+          <strong>
+           <span style="color: #7f7f7f;">
+            报名方式
+           </span>
+          </strong>
+         </p>
+         <p style="line-height: 1.75em;">
+          <strong>
+           <span style="color: #ffc000;">
+            戳阅读原文
+           </span>
+          </strong>
+          填写问卷报名
+         </p>
+         <p>
+          <br/>
+         </p>
+         <p style="line-height: 1.75em;">
+          <strong>
+           <span style="color: #7f7f7f;">
+            咨询电话
+           </span>
+          </strong>
+         </p>
+         <p style="line-height: 1.75em;">
+          13120905971 钱同学
+         </p>
+         <p style="line-height: 1.75em;">
+          17321275531 夏同学
+         </p>
+         <p style="line-height: 1.75em;">
+          18017631776 吕同学
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <p style="text-align: right;">
+    <br/>
+   </p>
+   <p style="text-align: right;">
+    <span style="font-size: 14px;color: #7F7F7F;">
+     文字 | 蔡梦仟
+    </span>
+   </p>
+   <p style="text-align: right;">
+    <span style="font-size: 14px;color: #7F7F7F;">
+     图片 | 龚靖涵
+    </span>
+   </p>
+   <p style="text-align: right;">
+    <span style="font-size: 14px;color: #7F7F7F;">
+     编辑 | 孙涵彦
+    </span>
+   </p>
+   <section class="_135editor" data-id="92876" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section data-width="100%" style="width:100%;text-align:left;">
+     <section style="display:inline-block;">
+      <section class="135brush" data-brushtype="text" style='height: 45px;padding: 10px 25px;line-height: 11px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0adVYHjUWeZpek288e1a7pZ0slTOPyDXv0a6iceOPtxv7Vquhicm1A2OGkjo7BHViaLhaJvQW0OEd70gw/640?wx_fmt=png");background-repeat: no-repeat;text-align: center;background-size: 100% 100%;color: rgb(63, 62, 63);font-size: 14px;letter-spacing: 2px;box-sizing: border-box;'>
+       戳阅读原文查看更多
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>

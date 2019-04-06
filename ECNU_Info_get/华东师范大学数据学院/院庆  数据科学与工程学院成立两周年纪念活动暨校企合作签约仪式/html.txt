@@ -1,0 +1,220 @@
+
+ <section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;">
+  <section class="_135editor" data-id="90102" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section class="135brush" data-style="margin: 20px 0;font-size:16px;color:rgb(51,51,51);" style='padding: 10px;background-repeat: repeat;background-position: center center;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M69iaIakTA8j449br4aQTg756rxutFAExsrPfuUoqMnsZ3QY0el6MnKnw/640?wx_fmt=png");box-sizing: border-box;'>
+    <p style="margin-top: 20px;margin-bottom: 20px;text-indent: 2em;">
+     <span style="font-family: 宋体;font-size: 14px;">
+      2018年12月23日下午，华东师范大学数据科学与工程学院成立两周年纪念活动暨校企合作签约仪式在中北校区科学会堂举行，我校党委书记童世骏，副校长孙真荣、汪荣明、周傲英，校长助理斯阳以及相关部门负责人出席仪式。数据科学与工程学院（数据学院）全体师生和来自各兄弟院校的学界人士，以及来自阿里巴巴、百度、京创智汇、链极科技、达观数据、泽阳科技、喔噻科技、UCloud、仙学智能、云赛智联等知名企业的业界人士参加仪式。仪式由数据学院院长钱卫宁教授主持。
+     </span>
+    </p>
+    <section class="_135editor" data-id="94047" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section style="text-align: center;">
+      <section style="width: 12px;margin-right: auto;margin-left: auto;">
+       <img class="" data-ratio="1" data-type="png" data-w="20" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6f2jNZDmZN1dILHEMmQed9JSgGEyHFsFsq1UKibsCtmjSr9bcoHw0PYw/640?wx_fmt=png" style="width: 100%;display: block;"/>
+      </section>
+      <section style="display: flex;justify-content:space-between;align-items: center;margin-top: 15px;">
+       <section data-width="100%" style="width: 100%;">
+        <img class="" data-ratio="0.6658333333333334" data-type="jpeg" data-w="1200" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6FWomJ9jCQNLu0ptA0xcP6SRdQ2NVTM6CBTtFHG0aicia5icxN50QsyDpw/640?wx_fmt=jpeg" style="display: block;" title="undefined"/>
+       </section>
+       <section style="width: 14px;">
+       </section>
+       <section data-width="100%" style="width: 100%;">
+        <img class="" data-ratio="0.6658333333333334" data-type="jpeg" data-w="1200" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6twJUyOuEyzEzXic2FejGWuEOX1UfC5gibZvcVUaawUj2hZd7uEt4H3WQ/640?wx_fmt=jpeg" style="display: block;" title="undefined"/>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <p>
+      <br/>
+     </p>
+     <p style="text-indent: 2em;">
+      <span style="font-family: 宋体;font-size: 14px;">
+       钱卫宁教授现场介绍说，两年来，学院在理论研究、系统研究和应用研究各方面都取得了重要成果，面向我国社会经济发展的“卡脖子”和“替代工程”问题，设计实现了支持可扩展事务处理的分布式数据库系统CEDAR、分析型内存集群数据库系统Ginkgo、基于区块链技术的分享型数据库系统师大链；同时紧密对接应用，构建了研究生智慧服务平台、低延迟超轻量大规模开放在线实训平台。
+      </span>
+     </p>
+     <p>
+      <br/>
+     </p>
+     <p>
+      <span style="font-family: 宋体;font-size: 14px;text-indent: 32px;">
+       <img class="" data-ratio="0.6658333333333334" data-type="jpeg" data-w="1200" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6ePzuFC82csKlU1xT9GqTXR6aJxqwCWbaF2TLItD54eDO0VcOmTn1Vw/640?wx_fmt=jpeg" style="white-space: normal;display: block;width: 100%;" title="undefined"/>
+      </span>
+     </p>
+     <p>
+      <br/>
+     </p>
+     <section class="_135editor" data-id="94332" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <section data-width="100%" style="width:100%;">
+       <section style="text-align: center;">
+        <section style="width:4em;display: inline-block;">
+         <img class="" data-ratio="0.3208955223880597" data-type="gif" data-w="134" src="https://mmbiz.qpic.cn/mmbiz_gif/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6P8NII30yO1tBYiciaOzEico4GKlibzibK2icGDvtjc4jxM1kDQpDChWVZh2A/640?wx_fmt=gif" style="width: 4em;display: block;"/>
+        </section>
+       </section>
+      </section>
+     </section>
+     <p style="text-indent: 2em;">
+      <span style="font-family: 宋体;font-size: 14px;">
+       在两周年纪念活动上，数据科学与工程学院同时接受了云赛智联、链极科技、达观数据、泽阳科技、收钱吧、UCloud等6家企业的奖学金、奖教金、云计算资源捐赠。
+      </span>
+     </p>
+     <section class="_135editor" data-id="94047" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <section style="text-align: center;">
+       <section style="width: 12px;margin-right: auto;margin-left: auto;">
+        <img class="" data-ratio="1" data-type="png" data-w="20" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6f2jNZDmZN1dILHEMmQed9JSgGEyHFsFsq1UKibsCtmjSr9bcoHw0PYw/640?wx_fmt=png" style="width: 100%;display: block;"/>
+       </section>
+       <section style="display: flex;justify-content:space-between;align-items: center;margin-top: 15px;">
+        <section data-width="100%" style="width: 100%;">
+         <img class="" data-ratio="0.6658333333333334" data-type="jpeg" data-w="1200" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6ZhLL0a44JBXiboj1VreLNibgzic0hceklcOgemytmqxZ4IibLd0VE5koLA/640?wx_fmt=jpeg" style="display: block;" title="undefined"/>
+        </section>
+        <section style="width: 14px;">
+        </section>
+        <section data-width="100%" style="width: 100%;">
+         <img class="" data-ratio="0.6658333333333334" data-type="jpeg" data-w="1200" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M65aVSLEHUUXXWibzLcl0Enibw75xAC9OSpZzP7113DGdUjgkMpob7Of0g/640?wx_fmt=jpeg" style="display: block;" title="undefined"/>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <p>
+       <br/>
+      </p>
+      <p style="text-indent:32px;line-height:150%;">
+       <span style="font-family: 宋体;font-size: 14px;">
+        秉承“应用驱动创新”的发展理念，数据科学与工程学院持续开展与企业的多层次深度合作，进行联合办学。仪式上，数据科学与工程学院在原有的“华东师大-人民大学-印孚瑟斯数据科学联合实验室”“华东师大-珍岛集团数据科学与智慧营销联合实验室”“华师大-欧冶产业互联网大数据与区块链实验室”“华师大-瞰点科技金融大数据联合实验室”基础上，与百度、仙学科技、京创智汇宣布分别成立“华东师范大学-百度计算教育学联合实验室”、“华东师范大学-仙学科技全民计算机科学教育联合实验室”“华东师范大学-京创智汇数据智能联合实验室”。
+       </span>
+      </p>
+      <p style="text-indent:32px;line-height:150%;">
+       <br/>
+      </p>
+      <p>
+       <img class="" data-ratio="0.6658333333333334" data-type="jpeg" data-w="1200" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6biayAWjLIkxo8M757lY15jswNSr3VMrQvwaGKWs0Xazqf2HxgLIbkHQ/640?wx_fmt=jpeg" style="white-space: normal;display: block;" title="undefined"/>
+      </p>
+     </section>
+     <section class="_135editor" data-id="94332" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <section data-width="100%" style="width:100%;">
+       <section style="text-align: center;">
+        <p style="width:4em;display: inline-block;">
+         <br/>
+        </p>
+       </section>
+       <section style="text-align: center;">
+        <p style="width:4em;display: inline-block;">
+         <img class="" data-ratio="0.3208955223880597" data-type="gif" data-w="134" src="https://mmbiz.qpic.cn/mmbiz_gif/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6P8NII30yO1tBYiciaOzEico4GKlibzibK2icGDvtjc4jxM1kDQpDChWVZh2A/640?wx_fmt=gif" style="width:4em;display: block;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <p style="text-indent:32px;line-height:150%;">
+       <span style="font-family: 宋体;font-size: 14px;">
+        童世骏书记在致辞中表示，成立数据学院是贯彻学校国际化、跨学科、信息化三大战略的一项重要举措。在短短两年的时间内，数据学院做出了全校关注的成绩，相关团队的科研成果获得了教育部和上海市的科技进步一等奖，在教学方面也有很多有意思的创新，希望这样的成果可以从数据学院出发，辐射到整个学校的教育。希望通过数据学院的实践，可以通过科学研究、人才培养、创新研发等多方面的结合来为社会做成更有价值的贡献。
+       </span>
+      </p>
+      <section class="_135editor" data-id="92944" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+       <section class="_135editor" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+        <section data-width="100%" style="width: 100%;padding-top: 10px;padding-bottom: 10px;box-sizing: border-box;">
+         <section data-width="100%" style="width: 100%;margin-bottom:5px;">
+          <img class="" data-ratio="0.6658333333333334" data-type="jpeg" data-w="1200" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M67bl0VT5mzkUvCibNZ46YtXx3nmQaMPgSjkmia9Twic98N9ibI4IQqe53AQ/640?wx_fmt=jpeg" style="display: block;" title="undefined"/>
+         </section>
+         <section style="margin-top:5px;display: flex;justify-content: center;-webkit-justify-content: center;display: -webkit-flex;">
+          <section data-width="100%" style="width: 100%;margin-right: 5px;">
+           <img class="" data-ratio="0.6658333333333334" data-type="jpeg" data-w="1200" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6xUOgKNYEQXna3IEiblsrQ3SdpqR2yTxqaSm3x5O24AQSXAAHRLchuYw/640?wx_fmt=jpeg" style="display: block;" title="undefined"/>
+          </section>
+          <section data-width="100%" style="width: 100%;">
+           <img class="" data-ratio="0.6658333333333334" data-type="jpeg" data-w="1200" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6TzzRUp6xKB7OwbBl7icFHQ3eAj4KrhuNPtCmSIytJ4U3bpFzUygBjibg/640?wx_fmt=jpeg" style="display: block;" title="undefined"/>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+      <p style="text-indent:32px;line-height:150%;">
+       <br/>
+      </p>
+      <p style="text-indent: 2em;">
+       <span style="font-family: 宋体;font-size: 14px;">
+        最后，钱卫宁院长在总结致辞中阐述了数据学院的三大使命，一是培养应用型、复合型、创新型的IT人才；二是做真的研究、有用的研究，为解决“卡脖子”和“替代工程”问题贡献力量；三是传播和传授计算机科学和人工智能新理念和新知识，推进‘CS for ALL（全民计算机科学教育）’和‘AI for ALL（全民人工智能教育）。
+       </span>
+      </p>
+      <p style="text-align:right;text-indent:32px;line-height:150%;">
+       <span style="line-height: 150%;font-family: 宋体;font-size: 12px;">
+        撰稿 | 黄建伟
+       </span>
+      </p>
+      <p style="text-align:right;text-indent:32px;line-height:150%;">
+       <span style="line-height: 150%;font-family: 宋体;font-size: 12px;">
+        摄影 | 杨大为
+       </span>
+      </p>
+      <p style="text-align:right;text-indent:32px;line-height:150%;">
+       <span style="line-height: 150%;font-family: 宋体;font-size: 12px;">
+        排版 | 韩思绮
+       </span>
+      </p>
+      <section data-role="outer" label="Powered by 135editor.com" style="white-space: normal;font-size: 16px;">
+       <section class="article135" style="box-sizing: border-box;">
+        <section class="_135editor" data-role="paragraph" style="font-family: 微软雅黑;color: rgb(63, 62, 63);letter-spacing: 2px;text-align: center;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <section class="" style='width: 8em;height: 8em;display: inline-block;vertical-align: bottom;border-radius: 100%;border-width: 2px;border-style: solid;border-color: rgb(166, 91, 203);box-shadow: rgb(204, 204, 204) 0.707107px 0.707107px 2px;background-image: url("https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ajibwiauickXibrP2up4acTVfJH5w383II92lkQN3Ure0zEgUfSA4icljP9icVFBp74f4Rpib7ZPFxNarEA/640?wx_fmt=jpeg");background-size: cover;background-position: 50% 50%;background-repeat: no-repeat;box-sizing: border-box;'>
+          <section class="" style="width: 124px;height: 124px;overflow: hidden;">
+           <strong>
+            <img class="" data-ratio="1.0020449897750512" data-type="jpeg" data-w="489" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ajibwiauickXibrP2up4acTVfJH5w383II92lkQN3Ure0zEgUfSA4icljP9icVFBp74f4Rpib7ZPFxNarEA/640?wx_fmt=jpeg" style="height: 124.25px;width: 124px;opacity: 0;" width="100%"/>
+           </strong>
+          </section>
+         </section>
+         <p>
+          <br/>
+         </p>
+         <section class="" style="margin-top: -4em;padding: 4em 15px 10px;border-width: 1px;border-style: solid;border-color: rgb(166, 91, 203);border-radius: 16px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+          <section class="_135editor" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+           <section class="">
+            <section class="">
+             <p>
+              华东师范大学数据科学与工程学院
+             </p>
+            </section>
+           </section>
+          </section>
+          <section class="_135editor" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+           <section class="" style="padding-top: 0.5em;padding-bottom: 0.5em;box-sizing: border-box;">
+            <section class="" style="height: 1px;background-color: rgb(166, 91, 203);">
+            </section>
+           </section>
+          </section>
+          <section class="_135editor" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+           <section class="" style="margin: auto;padding-top: 10px;width: 223.188px;box-sizing: border-box;">
+            <img class="" data-ratio="1" data-type="jpeg" data-w="258" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ajibwiauickXibrP2up4acTVfJiaWbc4xAiaaAfk9vSldZzgiaPrULOoc1tzcC17WOQwI8MDZz6wL0xznAQ/640?wx_fmt=jpeg" style="vertical-align: middle;"/>
+           </section>
+          </section>
+         </section>
+         <p>
+          <br/>
+         </p>
+        </section>
+        <p style="text-align: center;">
+         <br/>
+        </p>
+       </section>
+      </section>
+      <p style="text-align: center;">
+       <br/>
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+  <p style="text-indent:32px;line-height:150%;">
+   <br/>
+  </p>
+  <p>
+   <br/>
+  </p>
+  <p>
+   <br/>
+  </p>
+  <p>
+   <br/>
+  </p>
+ </section>
+ <p>
+  <br/>
+ </p>

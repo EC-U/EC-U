@@ -1,0 +1,261 @@
+
+ <section class="V5" powered-by="xiumi.us" style="white-space: normal;box-sizing: border-box;">
+  <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+   <section style="margin-bottom: -1em;padding-top: 10px;padding-bottom: 10px;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: center;box-sizing: border-box;">
+        <p>
+         <strong style="box-sizing: border-box;">
+          栏目简介
+         </strong>
+         <br/>
+        </p>
+        <p style="clear: none;text-align: left;text-indent: 2em;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          为增进社会工作专业学生的专业发展、自我成长和职业规划，促进社会工作专业学生培养过程中的理论与实务能力提升、教师-学生-督导三方互动，推进社会工作专业教学体系专业化、教学活动多元化和教学成果品牌化，社会工作系将2018年度学生专业实习成果进行整理和展示，以期在社会工作专业实习实践、总结和反思基础上，实现“以理论促实务、以实务促理论”的教学理念。让我们一起来看看大家的实习都是怎样的吧！
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <section style="width: 1em;height: 1em;float: left;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+    <section style="margin-left: 0.5em;width: 0.5em;height: 0.5em;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+    </section>
+    <section style="margin-left: 0.17em;width: 0.33em;height: 0.33em;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+    </section>
+   </section>
+   <section style="width: 1em;height: 1em;float: right;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+    <section style="width: 0.5em;height: 0.5em;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+    </section>
+    <section style="margin-left: 0.57em;width: 0.33em;height: 0.33em;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+    </section>
+   </section>
+   <section style="clear: both;box-sizing: border-box;">
+   </section>
+  </section>
+ </section>
+ <section class="V5" powered-by="xiumi.us" style="white-space: normal;box-sizing: border-box;">
+  <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+   <section style="display: inline-block;vertical-align: top;box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <section style="margin: auto;width: 8px;height: 8px;border-radius: 50%;background-color: rgb(0, 0, 0);box-sizing: border-box;">
+     </section>
+     <section style="margin-top: -5px;margin-right: auto;margin-left: auto;width: 22px;box-sizing: border-box;">
+      <section style="height: 20px;transform: rotate(45deg);transform-origin: left center 0px;float: left;border-left: 1px solid rgb(142, 201, 101);border-top-color: rgb(142, 201, 101);border-right-color: rgb(142, 201, 101);border-bottom-color: rgb(142, 201, 101);box-sizing: border-box;">
+      </section>
+      <section style="height: 20px;border-left: 1px solid rgb(142, 201, 101);transform: rotate(-45deg);transform-origin: right center 0px;float: right;border-top-color: rgb(142, 201, 101);border-right-color: rgb(142, 201, 101);border-bottom-color: rgb(142, 201, 101);box-sizing: border-box;">
+      </section>
+      <section style="clear: both;box-sizing: border-box;">
+      </section>
+     </section>
+    </section>
+    <section style="margin-top: -3px;padding: 2px 8px;display: inline-block;vertical-align: top;border-radius: 5px;color: rgb(255, 255, 255);background-color: rgb(142, 201, 101);box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       实习概况
+      </strong>
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>
+ <section class="V5" powered-by="xiumi.us" style="white-space: normal;box-sizing: border-box;">
+  <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+   <section style="padding-top: 10px;padding-bottom: 10px;display: inline-block;width: 556px;vertical-align: top;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section style="padding-right: 25px;padding-left: 25px;color: rgb(6, 6, 6);font-size: 14px;box-sizing: border-box;">
+       <p style="box-sizing: border-box;">
+        <strong style="box-sizing: border-box;">
+         实习机构：
+        </strong>
+       </p>
+       <p>
+        上海市第一社会福利院
+       </p>
+       <p style="box-sizing: border-box;">
+        <br/>
+       </p>
+       <p style="box-sizing: border-box;">
+        <strong style="box-sizing: border-box;">
+         学校督导：
+        </strong>
+        <span style="letter-spacing: 0px;box-sizing: border-box;">
+         安秋玲
+        </span>
+       </p>
+       <p style="box-sizing: border-box;">
+        <strong style="box-sizing: border-box;">
+         机构督导：
+        </strong>
+        张智琴
+       </p>
+       <p style="box-sizing: border-box;">
+        <strong style="box-sizing: border-box;">
+         组员：
+        </strong>
+        周易 魏雯萍 岳铭 韩燕飞 郝莹莹
+       </p>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <section class="V5" powered-by="xiumi.us" style="white-space: normal;box-sizing: border-box;">
+  <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+   <section style="padding-top: 10px;padding-bottom: 10px;display: inline-block;width: 556px;vertical-align: top;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="margin-top: -10px;margin-bottom: 10px;text-align: right;box-sizing: border-box;">
+      <section style="display: inline-block;vertical-align: top;width: 0.5em;height: 1.8em;border-right: 0.9em solid rgb(142, 201, 101);box-sizing: border-box;border-bottom: 0.9em solid transparent !important;border-top: 0.9em solid transparent !important;">
+      </section>
+      <section style="padding-right: 5px;padding-left: 5px;display: inline-block;vertical-align: top;height: 1.8em;line-height: 1.8em;background-color: rgb(142, 201, 101);color: rgb(255, 255, 255);border-radius: 0px 4px 4px 0px;box-sizing: border-box;">
+       <p style="box-sizing: border-box;">
+        <strong style="box-sizing: border-box;">
+         实习小故事
+        </strong>
+       </p>
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section style="font-size: 14px;box-sizing: border-box;">
+       <p style="text-indent: 2em;">
+        李奶奶之前是一位社区主任，虽然已经九十岁的高龄，还是能够看得出来她雷厉风行的性格。记得第一次和她打招呼，社工笑意盈盈，却遭到了一句“有事吗？”客气又疏离的回答。看得出来李奶奶是一位警惕性比较高的人，这是一件好事。社工做了自我介绍，表明了自己的身份和来意，在想要更深一步建立关系的时候，又遭到了拒绝。原来之前陈奶奶不满前几年做问卷时查身份一般的做法，觉得这样泄露了隐私，以为社工也是如此。社工肯定和鼓励了李奶奶的警觉，又耐心地解释了自己的用意。关系的进展并不像想象中的容易，虽然打消了之前的顾虑，但是李奶奶觉得社工应该去服务社区，而不是在机构这一个小地方，服务他们这些“将死”之人。听起来，李奶奶的想法有些消极，社工首先用坚定而温柔的语气告诉李奶奶，社区有社区工作者，机构虽小但也需要服务，尤其是老人更值得我们去服务，因为他们为了我们现在的生活奉献了自己的一生，经历了风风雨雨，理应受到尊重和敬爱。终于李奶奶的脸上露出了自豪的笑容，讲述了她之前的经历。社工知道，关系建立的第一步是迈出去了，之后还需要更多的细心和耐心。之后实习的过程中，社工经常和李奶奶聊天，了解她的想法和感受，倾听她的故事，在离开之前，李奶奶握着社工的手说“做你们的工作需要两颗心，一颗红心，一颗爱心，希望你们能坚持下去”。一颗红心，一颗爱心，我们会时刻谨记李奶奶的话，永远保持社工的两颗“心”。（文/韩燕飞）
+       </p>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <section class="V5" powered-by="xiumi.us" style="white-space: normal;box-sizing: border-box;">
+  <section class="_editor">
+   <section class="_editor">
+    <p style="text-align: center;">
+     <img data-copyright="0" data-ratio="0.6205923836389281" data-s="300,640" data-type="png" data-w="709" src="https://mmbiz.qpic.cn/mmbiz_png/8mXKElyEribIic9xr4sQ0gtoiaApXPiaricanKibwVqIhI8pmHno0TXWtVgStmFEUeE66UW3UwZ6VUG2hw92pUNRZPlg/640?wx_fmt=png" style=""/>
+    </p>
+   </section>
+  </section>
+ </section>
+ <section class="V5" powered-by="xiumi.us" style="white-space: normal;box-sizing: border-box;">
+  <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+   <section style="padding-top: 10px;padding-bottom: 10px;display: inline-block;width: 556px;vertical-align: top;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="margin-top: -10px;margin-bottom: 10px;box-sizing: border-box;">
+      <section style="padding-right: 5px;padding-left: 5px;display: inline-block;vertical-align: top;height: 1.8em;line-height: 1.8em;background-color: rgb(142, 201, 101);color: rgb(255, 255, 255);border-radius: 5px 0px 0px 5px;box-sizing: border-box;">
+       <p style="box-sizing: border-box;">
+        <strong style="box-sizing: border-box;">
+         实习反思
+        </strong>
+       </p>
+      </section>
+      <section style="display: inline-block;vertical-align: top;width: 0.5em;height: 1.8em;border-left: 0.9em solid rgb(142, 201, 101);box-sizing: border-box;border-bottom: 0.9em solid transparent !important;border-top: 0.9em solid transparent !important;">
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section style="font-size: 14px;box-sizing: border-box;">
+       <p>
+        1、实务技能训练:
+       </p>
+       <p style="text-indent: 2em;">
+        运用回想法帮助老人回顾和记录生命经历，提高老人自我效能感的同时也锻炼我们个案访谈技巧。比如：老年社会工作的开展需要更多的耐心和细心，关系的建立时间相对较长，平时接触的过程中需要注意自己的非言语技巧；根据每个老人的特点，谈论老人感兴趣的话题；自我披露的运用可以帮助建立良好的关系，披露的过程中需要掌握度。
+        <br/>
+       </p>
+       <p style="text-indent: 2em;">
+        参与干预项目实施，对干预项目方案在前期设计、服务过程、后期评估整个流程的运作。在项目开展过程中，更多运用“邀请”、“感谢”等语言，尽量少设置奖惩环节，避免造成老人压力，可以多设置一些互动的环节，时间尽量控制在一个小时左右。
+        <br/>
+       </p>
+       <p style="text-indent: 2em;">
+        参与志愿者服务活动，对接志愿者，跟踪记录志愿服务活动，评估志愿服务成效。
+        <br/>
+       </p>
+       <p style="text-indent: 2em;">
+        <br/>
+       </p>
+       <p>
+        2、伦理价值
+        <br/>
+       </p>
+       <p style="text-indent: 2em;">
+        如何处理边界问题 在和机构老人建立关系后，因为年龄差，高龄老人和实习生的关系容易像隔代亲缘关系转化，因此如何清醒定位社工边界是需要不断反思的。社会工作伦理中要求社工和服务对象保持专业的界限，最好不要有身体上的接触，但是实际服务过程中发现，例如握手，拍肩等小动作更能拉近彼此的距离，需要平衡专业伦理和本土化环境和具体实践的关系。
+        <br/>
+       </p>
+       <p style="text-indent: 2em;">
+        如何处理离别问题 我们的实习时间大约在半年左右，和机构老人的关系建立的比较深厚，虽然从一开始就告知结束时间，但是老人还是比较难以接受，从接触到了解到离开，对老人和社工的情感都是一个冲击，需要更好地处理离别情绪。
+        <br/>
+       </p>
+       <p style="text-indent: 2em;">
+        <br/>
+       </p>
+       <p>
+        3、自我成长
+        <br/>
+       </p>
+       <p style="text-indent: 2em;">
+        这次实习，我们对老年社会工作服务理念有更深层次的认识，也锻炼和提高了我们在老年工作服务的实务方法、实务技巧。除此之外，也让我们认识到，社会工作者在实务开展过程中需要平衡专业服务与环境之间的关系，和不同部门之间的配合、和不同性格老人的相处以及小组成员的团体沟通协作才能使服务开展更加完善。在一福院的实习也让我们对“助人自助”理念有了更深刻的认识。老人一生的智慧值得我们学习。生活上，了解生活小窍门和知识，和爷爷奶奶学习很多养生、养花的技巧；心态上，老人积极乐观的生活态度令人感动，98岁高龄的爷爷一直坚持锻炼、唱歌，教会了我们生理年龄不是问题，90岁开始自学画画的老人教会我们只要热爱，多晚都不算迟。机构的老人都是高龄老人，在经历了几十年的风风雨雨，在我们迷茫困惑时，总是能够给我们指导，人生最重要的，不是金钱，不是地位，是内心的安宁和健康。（文/岳铭）
+       </p>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="text-align: center;">
+  <img data-copyright="0" data-ratio="0.8669950738916257" data-s="300,640" data-type="jpeg" data-w="609" src="https://mmbiz.qpic.cn/mmbiz_jpg/8mXKElyEribIic9xr4sQ0gtoiaApXPiaricanZr5RicYiaqo4ibZqxCUS7Mibo6xg5ichziahTibgzJwcIlgJ2Sr2qeibGG2ezQ/640?wx_fmt=jpeg" style=""/>
+ </p>
+ <section style="margin-top: 10px;margin-bottom: 10px;white-space: normal;text-align: left;box-sizing: border-box;">
+  <span style="font-size: 14px;">
+   往期回顾：
+  </span>
+  <br/>
+ </section>
+ <section style="margin-top: 10px;margin-bottom: 10px;white-space: normal;text-align: left;box-sizing: border-box;">
+  <span style="font-size: 14px;text-decoration: underline;">
+   <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzAxMjc5NTc3NQ==&amp;mid=2652308188&amp;idx=1&amp;sn=a0250b4428ac09799720546b3f1cade6&amp;chksm=804fc8ccb73841da7d34b98d5582d044bad23b8747722c80af7eeb4a4cc26b8198153c352770&amp;scene=21#wechat_redirect" style="font-size: 14px;text-align: left;white-space: normal;" target="_blank">
+    2018社工实习连载 | 卷首语“进十望百，行成于思”
+   </a>
+  </span>
+ </section>
+ <p style="margin-top: 10px;margin-bottom: 10px;white-space: normal;text-align: left;box-sizing: border-box;line-height: normal;">
+  <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzAxMjc5NTc3NQ==&amp;mid=2652308188&amp;idx=2&amp;sn=ee7bbe46b490e828c492870d4bf72c42&amp;chksm=804fc8ccb73841da3fab0796a19817f0deb318a701c9ffa1a153c7bbf2077a7531ba49b9a6c3&amp;scene=21#wechat_redirect" style="text-decoration: underline;text-align: justify;font-size: 14px;" target="_blank">
+   2018社工实习连载 | BSW1青少年社会工作
+  </a>
+ </p>
+ <p style="margin-top: 10px;margin-bottom: 10px;white-space: normal;text-align: left;box-sizing: border-box;line-height: normal;">
+  <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzAxMjc5NTc3NQ==&amp;mid=2652308188&amp;idx=3&amp;sn=1d5732d9cd32b96ffe10ca0adfe17a52&amp;chksm=804fc8ccb73841da206633f2ed4873ba16868e0c09a8c96f7a9ca1d9fb5ddc14634e810ee4d5&amp;scene=21#wechat_redirect" style="text-align: justify;text-decoration: underline;font-size: 14px;" target="_blank">
+   2018社工实习连载 | BSW2医务社会工作
+  </a>
+ </p>
+ <p style="margin-top: 10px;margin-bottom: 10px;white-space: normal;text-align: left;box-sizing: border-box;line-height: normal;">
+  <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzAxMjc5NTc3NQ==&amp;mid=2652308199&amp;idx=1&amp;sn=d4eaf18e7b8eda398050e9ae76cead8a&amp;chksm=804fc8f7b73841e1b607b6ad1cc7126cf4eb4973a2041a445be8785db3a63e691e5e7a950e4a&amp;scene=21#wechat_redirect" style="text-align: justify;text-decoration: underline;font-size: 14px;" target="_blank">
+   2018社工实习连载 | BSW3精神健康社会工作
+  </a>
+ </p>
+ <p style="white-space: normal;">
+  <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzAxMjc5NTc3NQ==&amp;mid=2652308199&amp;idx=2&amp;sn=8f914f3df70609eb42b8e225d0b6c0e6&amp;chksm=804fc8f7b73841e1b4fcb4eae2b8277558ebba8f90dad435974c293255d4bb16f3f619200232&amp;scene=21#wechat_redirect" style="font-size: 14px;text-decoration: underline;" target="_blank">
+   2018社工实习连载 | BSW4社会福利与社会工作
+  </a>
+ </p>
+ <section style="margin-top: 10px;margin-bottom: 10px;white-space: normal;text-align: right;box-sizing: border-box;">
+  <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+   <span style="font-size: 12px;">
+    编辑| 蒋莹璇
+   </span>
+  </section>
+ </section>
+ <section style="margin-top: 10px;margin-bottom: 10px;white-space: normal;text-align: center;box-sizing: border-box;">
+  <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+   <img data-ratio="0.60625" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/8mXKElyEribIwtXNCan3u8Prg3SJ9ofhDrcRmNECtiaves1ajj6XIgw9iaLRwzFn5LN9LwVZEmqLZcHbGFu5sLEQw/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

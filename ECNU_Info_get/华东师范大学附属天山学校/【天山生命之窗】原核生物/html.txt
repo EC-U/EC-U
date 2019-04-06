@@ -1,0 +1,469 @@
+
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0% -15px;transform: translate3d(1px, 0px, 0px);-webkit-transform: translate3d(1px, 0px, 0px);-moz-transform: translate3d(1px, 0px, 0px);-o-transform: translate3d(1px, 0px, 0px);box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;width: 0.5em;height: 1.8em;border-right: 0.9em solid rgb(226, 93, 78);border-bottom: 0.9em solid transparent !important;border-top: 0.9em solid transparent !important;box-sizing: border-box;">
+    </section>
+    <section style="display: inline-block;vertical-align: top;height: 1.8em;line-height: 1.8em;padding: 0px 5px;background-color: rgb(226, 93, 78);color: rgb(255, 255, 255);border-radius: 0px 4px 4px 0px;font-size: 20px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      原核生物
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 0px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;border-width: 1px 5px 5px 1px;border-radius: 0px 6px 6px;border-style: solid;border-color: rgb(226, 93, 78) rgb(223, 207, 178) rgb(223, 207, 178) rgb(226, 93, 78);overflow: hidden;padding: 25px 10px 10px;background-color: rgb(255, 255, 255);box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="line-height: 2;letter-spacing: 1px;box-sizing: border-box;">
+        <p style="text-align: justify;text-indent: 2em;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         约40亿年前,刚刚形成6亿年的地球上开始出现生命,我们称之为原核生物。原核生物是最原始且最多样的生命形态,它们的成功存活主要要归因于三点:
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="color: rgb(249, 110, 87);box-sizing: border-box;">
+          1. 大多数原核生物有细胞壁,它能保护细胞并维持其形状;
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="color: rgb(249, 110, 87);box-sizing: border-box;">
+          2. 许多原核生物表现出了趋向性,它们本能地趋向营养物质和氧气,避开有害刺激物;
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="color: rgb(249, 110, 87);box-sizing: border-box;">
+          3. 更为重要的是,原核生物能通过二分裂迅速无性生殖(分裂成两半),并快速适应不利的环境条件。
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 50%;border-style: solid;border-width: 0px;border-radius: 0px;border-color: rgb(62, 62, 62);box-shadow: rgb(152, 152, 152) 0px 0px 3px;padding: 10px 10px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="text-align: center;margin: 0px 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.532" data-type="jpeg" data-w="500" src="https://mmbiz.qpic.cn/mmbiz_jpg/3najcUbhc7vb9BGNkWbiap5XaSxFuqJXGLUf2dyhS5zqcTQyw9SxA7BGZ0ibCMTQbsxWCBuFDVP6pVpQADLGJy7A/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 8px 0% 0px;box-sizing: border-box;">
+          <section style="text-align: center;color: rgb(160, 160, 160);font-size: 13px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            原始地球
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: -10px 0% 0px;transform: translate3d(-5px, 0px, 0px);-webkit-transform: translate3d(-5px, 0px, 0px);-moz-transform: translate3d(-5px, 0px, 0px);-o-transform: translate3d(-5px, 0px, 0px);box-sizing: border-box;">
+          <section style="color: rgb(152, 152, 152);font-size: 12px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 50%;box-shadow: rgb(152, 152, 152) 0px 0px 3px;padding: 10px 10px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="text-align: center;margin: 0px 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.5252101" data-type="jpeg" data-w="238" src="https://mmbiz.qpic.cn/mmbiz_jpg/3najcUbhc7vb9BGNkWbiap5XaSxFuqJXGj9ibVmQX9ZYrsgWoR2Np4IEIUyZBN6gnibaYJ62OibxdB4eKtYU1olpmw/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 8px 0% 0px;box-sizing: border-box;">
+          <section style="text-align: center;font-size: 13px;color: rgb(160, 160, 160);box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            细菌的二分裂
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: -10px 0% 0px;transform: translate3d(5px, 0px, 0px);-webkit-transform: translate3d(5px, 0px, 0px);-moz-transform: translate3d(5px, 0px, 0px);-o-transform: translate3d(5px, 0px, 0px);box-sizing: border-box;">
+          <section style="text-align: right;font-size: 12px;color: rgb(152, 152, 152);box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.0604167" data-type="png?x-oss-process=style/xmorient" data-w="480" src="https://mmbiz.qpic.cn/mmbiz_png/9ryxBMPgKaOyXHBfcajZBibkq6U9Q3aHDnxwXdb3L6lgEIHSpb1SmzBj6wrkaLXx7tLz1TwABxvFI33icrrmT8Og/640?wx_fmt=png?x-oss-process=style/xmorient" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 60%;border-style: solid;border-width: 0px;border-radius: 0px;border-color: rgb(62, 62, 62);box-shadow: rgb(152, 152, 152) 0px 0px 3px;padding: 10px 10px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: justify;font-size: 15px;line-height: 2;letter-spacing: 1px;box-sizing: border-box;">
+           <p style="text-indent: 2em;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            根据美国微生物学家卡尔·乌斯在1977年提出的的“三域分类系统”理论,三域中的两大类（即古细菌和细菌）都是原核生物,它们的体积较小，仅有核糖体这一种细胞器，最重要的是，与真核生物不同，它们不具有成型的细胞核，游离的脱氧核糖核酸(DNA)位于细胞中央的拟核区域。
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 40%;box-shadow: rgb(152, 152, 152) 0px 0px 3px;padding: 10px 10px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 100%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="1.0559701" data-type="jpeg" data-w="268" src="https://mmbiz.qpic.cn/mmbiz_jpg/3najcUbhc7vb9BGNkWbiap5XaSxFuqJXGYpbxkBClRUJJdfTp87B3BabVDpBh1PXzLT8QCbticIbU4V9mwoBrD9Q/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 8px 0% 0px;box-sizing: border-box;">
+          <section style="text-align: center;font-size: 13px;color: rgb(160, 160, 160);box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            美国微生物学家
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            卡尔·乌斯
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;text-align: center;box-sizing: border-box;">
+       <section style="display: inline-block;width: 95%;vertical-align: top;border-width: 0px;border-top-right-radius: 0px;border-right-style: none;border-right-color: rgb(62, 62, 62);box-shadow: rgb(187, 222, 251) 0px 0px 15px;border-bottom-left-radius: 0px;border-left-style: none;border-left-color: rgb(62, 62, 62);padding: 5px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;border-right: 0px none rgb(62, 62, 62);border-top-right-radius: 0px;box-shadow: rgb(187, 222, 251) 0px 0px 15px inset;border-left: 0px none rgb(62, 62, 62);border-bottom-left-radius: 0px;padding: 10px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin: 0px 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="0.6755556" data-type="png" data-w="450" src="https://mmbiz.qpic.cn/mmbiz_png/3najcUbhc7vb9BGNkWbiap5XaSxFuqJXGc17HsQdLKmolTFOPSwuyhzYEw3bZbHLibEfD28kg62o8ibGNnsfcPlAQ/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="font-size: 15px;box-sizing: border-box;">
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               三域分类系统
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;text-align: center;box-sizing: border-box;">
+       <section style="display: inline-block;width: 95%;vertical-align: top;border-width: 0px;border-top-right-radius: 0px;border-right-style: none;border-right-color: rgb(62, 62, 62);box-shadow: rgb(187, 222, 251) 0px 0px 15px;border-bottom-left-radius: 0px;border-left-style: none;border-left-color: rgb(62, 62, 62);padding: 5px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;border-right: 0px none rgb(62, 62, 62);border-top-right-radius: 0px;box-shadow: rgb(187, 222, 251) 0px 0px 15px inset;border-left: 0px none rgb(62, 62, 62);border-bottom-left-radius: 0px;padding: 10px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin: 0px 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="0.2142857" data-type="jpeg" data-w="574" src="https://mmbiz.qpic.cn/mmbiz_jpg/3najcUbhc7vb9BGNkWbiap5XaSxFuqJXGjBlLGEok1tFZKMp5ZTUyuVBVpaeU10cTVnTFVSy0OciaH5q2xhbAjFA/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="font-size: 15px;box-sizing: border-box;">
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               真核细胞与原核细胞的主要差异
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;line-height: 2;letter-spacing: 1px;box-sizing: border-box;">
+        <p style="text-indent: 2em;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         古细菌拥有在极端环境中适应、生存并大量繁殖的能力,鲜有其他的生命形态能够在这类环境中存活。古细菌又被称为极端微生物,其中一些生活在火山热泉中,另一些则生活在美国犹他州的大盐湖中,后者的盐浓度比海水高十倍。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 50%;border-style: solid;border-width: 0px;border-radius: 0px;border-color: rgb(62, 62, 62);box-shadow: rgb(152, 152, 152) 0px 0px 3px;padding: 10px 10px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="text-align: center;margin: 0px 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.6071429" data-type="jpeg" data-w="476" src="https://mmbiz.qpic.cn/mmbiz_jpg/3najcUbhc7vb9BGNkWbiap5XaSxFuqJXGicLcs5qZXzzgeuvs8XdX1QfbuMCjIhtQ8uzhvNwffRGSccwiaiaR2XCCA/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 8px 0% 0px;box-sizing: border-box;">
+          <section style="text-align: center;color: rgb(160, 160, 160);font-size: 13px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            嗜热菌
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: -10px 0% 0px;transform: translate3d(-5px, 0px, 0px);-webkit-transform: translate3d(-5px, 0px, 0px);-moz-transform: translate3d(-5px, 0px, 0px);-o-transform: translate3d(-5px, 0px, 0px);box-sizing: border-box;">
+          <section style="color: rgb(152, 152, 152);font-size: 12px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 50%;box-shadow: rgb(152, 152, 152) 0px 0px 3px;padding: 10px 10px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="text-align: center;margin: 0px 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.6111111" data-type="jpeg" data-w="558" src="https://mmbiz.qpic.cn/mmbiz_jpg/3najcUbhc7vb9BGNkWbiap5XaSxFuqJXGga1rFJsctibPkrQrtdjdxwX5xDS7zZXGU9fDGWHlq6GmwCM6LtyiaKNQ/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 8px 0% 0px;box-sizing: border-box;">
+          <section style="text-align: center;font-size: 13px;color: rgb(160, 160, 160);box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            嗜盐菌
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: -10px 0% 0px;transform: translate3d(5px, 0px, 0px);-webkit-transform: translate3d(5px, 0px, 0px);-moz-transform: translate3d(5px, 0px, 0px);-o-transform: translate3d(5px, 0px, 0px);box-sizing: border-box;">
+          <section style="text-align: right;font-size: 12px;color: rgb(152, 152, 152);box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;line-height: 2;letter-spacing: 1px;box-sizing: border-box;">
+        <p style="text-indent: 2em;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         到目前为止,多数原核生物都是细菌,其中一些和动物形成了共生或互惠共生(互惠互利)的关系。不过细菌更广为人知的是其致病性,人类所患的疾病中大概有一半种类都是细菌引起的。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;text-align: center;box-sizing: border-box;">
+       <section style="display: inline-block;width: 95%;vertical-align: top;border-right: 0px none rgb(62, 62, 62);border-top-right-radius: 0px;box-shadow: rgb(187, 222, 251) 0px 0px 15px;border-left: 0px none rgb(62, 62, 62);border-bottom-left-radius: 0px;padding: 5px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;border-right: 0px none rgb(62, 62, 62);border-top-right-radius: 0px;box-shadow: rgb(187, 222, 251) 0px 0px 15px inset;border-left: 0px none rgb(62, 62, 62);border-bottom-left-radius: 0px;padding: 10px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin: 0px 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="0.725" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/3najcUbhc7vb9BGNkWbiap5XaSxFuqJXGVXBZ2GeImO2BTyTyjYHoeZvk1VlhtlibdMsNibjHF1wFMSfa6o51bXIw/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="font-size: 15px;box-sizing: border-box;">
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               引起伤口感染的金黄色葡萄球菌
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;line-height: 2;letter-spacing: 1px;box-sizing: border-box;">
+        <p style="text-indent: 2em;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="text-indent: 2em;box-sizing: border-box;">
+          细菌在显微镜下呈现多种形状,最常见的是球状、杆状、螺旋状 。
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;text-align: center;box-sizing: border-box;">
+       <section style="display: inline-block;width: 95%;vertical-align: top;border-width: 0px;border-top-right-radius: 0px;border-right-style: none;border-right-color: rgb(62, 62, 62);box-shadow: rgb(187, 222, 251) 0px 0px 15px;border-bottom-left-radius: 0px;border-left-style: none;border-left-color: rgb(62, 62, 62);padding: 5px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;border-right: 0px none rgb(62, 62, 62);border-top-right-radius: 0px;box-shadow: rgb(187, 222, 251) 0px 0px 15px inset;border-left: 0px none rgb(62, 62, 62);border-bottom-left-radius: 0px;padding: 10px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin: 0px 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="0.3373206" data-type="jpeg" data-w="418" src="https://mmbiz.qpic.cn/mmbiz_jpg/3najcUbhc7vb9BGNkWbiap5XaSxFuqJXG4icjlG2uxA4wbxKrLgG90q7KkV9E0tQ72c4OPP8SRvvgH8MtNpMibLow/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="font-size: 15px;box-sizing: border-box;">
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               细菌常见的三种形态
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;line-height: 2;letter-spacing: 1px;box-sizing: border-box;">
+        <p style="text-indent: 2em;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="text-indent: 2em;box-sizing: border-box;">
+          根据细胞壁的化学成分及其染色反应(革兰氏染色),细菌被分为革兰氏阳性或革兰氏阴性,这一点对使用抗生素临床诊断及治疗传染性疾病有重要意义。
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="font-size: 15px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      文稿提供：吴承翰
+     </p>
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      微信编辑：罗  丹
+     </p>
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      内容审核：校务办
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.9171875" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/3najcUbhc7sht5TmByiaEMJTsia7LBbMqqh57lC8RepcMiceOM5htjBiaSy3roBI6QiatV4p6kLe7QXGy0Wgkvk8Ujw/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+ </section>

@@ -1,0 +1,676 @@
+
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border: 1px solid rgb(249, 110, 87);padding: 10px;background-color: rgb(255, 129, 36);box-shadow: rgb(204, 204, 204) 2.8284271247461903px 2.82842712474619px 4px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="text-indent: 2em;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          十二年一度的狗年即将结束，在这一年全体华外芜湖人抱持着真诚的育人之心效“犬马之劳”。借此辞旧迎新之际，本号特梳理华外芜湖“‘够’瞬间”，以记录本年度师生的成就和努力，反思过往指向未来。
+         </strong>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section class="group-empty" style="display: inline-block;width: 100%;vertical-align: top;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;height: 1px;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: middle;width: 45%;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 30%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;box-sizing: border-box;">
+          <section style="width: 2em;display: inline-block;vertical-align: middle;box-sizing: border-box;">
+           <section style="border: 1px dashed rgb(207, 116, 53);width: 2em;height: 2em;float: left;line-height: 2em;box-sizing: border-box;">
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             够
+            </p>
+           </section>
+           <section style="width: 2em;box-sizing: border-box;">
+            <section style="width: 0px;height: 2em;margin: 0px auto -1em;border-left-width: 1px;border-left-style: solid;border-color: rgb(230, 230, 230);box-sizing: border-box;">
+            </section>
+            <section style="width: 2em;height: 0px;border-top-width: 1px;border-top-style: solid;border-color: rgb(230, 230, 230);box-sizing: border-box;">
+            </section>
+           </section>
+           <section style="clear: both;box-sizing: border-box;">
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 30%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;box-sizing: border-box;">
+          <section style="width: 2em;display: inline-block;vertical-align: middle;box-sizing: border-box;">
+           <section style="border: 1px dashed rgb(207, 116, 53);width: 2em;height: 2em;float: left;line-height: 2em;box-sizing: border-box;">
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             乐
+            </p>
+           </section>
+           <section style="width: 2em;box-sizing: border-box;">
+            <section style="width: 0px;height: 2em;margin: 0px auto -1em;border-left-width: 1px;border-left-style: solid;border-color: rgb(230, 230, 230);box-sizing: border-box;">
+            </section>
+            <section style="width: 2em;height: 0px;border-top-width: 1px;border-top-style: solid;border-color: rgb(230, 230, 230);box-sizing: border-box;">
+            </section>
+           </section>
+           <section style="clear: both;box-sizing: border-box;">
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 30%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;box-sizing: border-box;">
+          <section style="width: 2em;display: inline-block;vertical-align: middle;box-sizing: border-box;">
+           <section style="border: 1px dashed rgb(207, 116, 53);width: 2em;height: 2em;float: left;line-height: 2em;box-sizing: border-box;">
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             学
+            </p>
+           </section>
+           <section style="width: 2em;box-sizing: border-box;">
+            <section style="width: 0px;height: 2em;margin: 0px auto -1em;border-left-width: 1px;border-left-style: solid;border-color: rgb(230, 230, 230);box-sizing: border-box;">
+            </section>
+            <section style="width: 2em;height: 0px;border-top-width: 1px;border-top-style: solid;border-color: rgb(230, 230, 230);box-sizing: border-box;">
+            </section>
+           </section>
+           <section style="clear: both;box-sizing: border-box;">
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: middle;width: 10%;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 80%;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="1.0236842105263158" data-type="png" data-w="380" src="https://mmbiz.qpic.cn/mmbiz_png/EXiaibW3WeRWtVlz2ibG1TicNd3aFziakcglDJz657GLebXQXNDtX8gTuWWG3mV1jKa3wqvDlMbsFA5vjkVqWt8yfOA/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;"/>
+        <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247488368&amp;idx=1&amp;sn=ea7d865e894d922855f5315cf22f8db8&amp;chksm=97441de0a03394f6ae33e62277863234e287d53986c45f9c5bdb50c451763bf728daaa961dda&amp;scene=21#wechat_redirect" style="text-align: justify;" target="_blank">
+         一周一课&amp;nbsp;|&amp;nbsp;数字迷宫表&amp;nbsp;&amp;nbsp;小知识大世界
+        </a>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border: 1px solid rgb(249, 110, 87);padding: 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         一周一课是为了家长及各界人士了解华外芜湖特色课程提供的一个窗口，借此平台每周有一位老师展示一节特色课程。在这一年里，从幼儿园到高中，从人文社科到天文地理，累计有近20节课被记录和展示。滴水穿石，希望以此积蓄力量，不断深化课程整合，记录学校的课程进化史。
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="text-align: center;">
+         <img class="" data-copyright="0" data-ratio="0.6666666666666666" data-s="300,640" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/S6uZmhCPE65Da0GibWmquo9rtjibQqsYOTRicDNK1hFJficSRQFod7z8RCeZicib6gJbCsL1fAGGH73UE1Rkt5XRymsA/640?wx_fmt=jpeg" style=""/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="text-align: center;">
+         <img class="" data-copyright="0" data-ratio="0.6666666666666666" data-s="300,640" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/S6uZmhCPE65TEEy6sibQGhXJns0LRhVp6rMadH4LgpqLtT63e5C6WcLmBSf3Tia6Jz4iaynKHVM6O3PDTO2icZ20iaA/640?wx_fmt=jpeg" style=""/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247488346&amp;idx=1&amp;sn=f85b5bf318fb13757fbce70c08c402c7&amp;chksm=97441dcaa03394dcb09bf3b31cecc1c32062cb02be46a3be30995ce2a5d73ce41c4f765fb373&amp;scene=21#wechat_redirect" target="_blank">
+          一周一课|探索声音的奇妙之旅
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247488298&amp;idx=1&amp;sn=fca3a654ae4485724d35a50dbc12065a&amp;chksm=97441dbaa03394ac9a13011e5bc1ec31c9fc91932397dded2f29063878ac8616ca0de1883487&amp;scene=21#wechat_redirect" target="_blank">
+          一周一课|STEAM课之“小题大做”
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247488256&amp;idx=1&amp;sn=4cd344001525db572260e81e12f483c2&amp;chksm=97441d90a03394866f1ee4a7f10f9201fde35cbfe92901cfb0bfdf9a564996bbd6854276b5aa&amp;scene=21#wechat_redirect" target="_blank">
+          一周一课|感恩节习俗分享
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247488194&amp;idx=2&amp;sn=dea84ae312630f8cb37dc05433031758&amp;chksm=97441c52a03395443d9e9db9126748e4837256fd48e92f259414eac05714fcaf840a608691ec&amp;scene=21#wechat_redirect" target="_blank">
+          一周一课|小学美术课
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247488072&amp;idx=1&amp;sn=9f6dc08c66d19b8d2369ca06163694ca&amp;chksm=97441cd8a03395ce26c4777c55a3ee381167d3edf573eed8b148d9508872fd49d3e393703388&amp;scene=21#wechat_redirect" target="_blank">
+          一周一课|特别的感恩教育
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247487925&amp;idx=1&amp;sn=4f0e9d06eaf06739ea2033431ddf0bcc&amp;chksm=97441f25a033963301f48cce782eeb211803e625cd357d166b69096483a0eea9b631c73b7bed&amp;scene=21#wechat_redirect" target="_blank">
+          一周一课|高中物理课
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247487824&amp;idx=1&amp;sn=bcd69dbc4ef1e2c5664735f35e044e89&amp;chksm=97441fc0a03396d651f01d9f8fba8ff520f2a30a2bd49b178bbad89cc7620ef134581076f3f7&amp;scene=21#wechat_redirect" target="_blank">
+          一周一课|初中政治课
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247487657&amp;idx=1&amp;sn=1b472cd34a42cee8087c297086075bd8&amp;chksm=97441e39a033972f68f82bb6bfeac47d8ef49b05a41a17762b6600352573addb6e1978619653&amp;scene=21#wechat_redirect" target="_blank">
+          一周一课|奇趣乐高课
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247487625&amp;idx=1&amp;sn=ec0736aaca15ef20222137c7b5b30af6&amp;chksm=97441e19a033970fd024a33609339867e3c1ea0a89bc4044909f5958fe154a768c8e09c16ce2&amp;scene=21#wechat_redirect" target="_blank">
+          一周一课|幸福烘焙课
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247487554&amp;idx=1&amp;sn=47030e4bc62ac19e464b03307305851d&amp;chksm=97441ed2a03397c4298171916683311f6a90852ab25a9df353daaa46e413b264107171f4c106&amp;scene=21#wechat_redirect" target="_blank">
+          一周一课|走进宋词，走进一个时代
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247487521&amp;idx=1&amp;sn=cd6e547778828d02e490231510907d0b&amp;chksm=97441eb1a03397a7b450700788106bc6778715bf86754c23f216be066fb267f09573d551d775&amp;scene=21#wechat_redirect" target="_blank">
+          一周一课|游泳课
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247487433&amp;idx=1&amp;sn=8b1c5cbc63a55db4fd2ecd5fdfaa0487&amp;chksm=97440159a033884ff78af980559a93986fdb20143901404d8ce738a5d0dd5f71cfd6b81117e0&amp;scene=21#wechat_redirect" target="_blank">
+          一周一课|初中部魅力数学课
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247487403&amp;idx=1&amp;sn=4a22f38657f886367bc88bb1be57d2e9&amp;chksm=9744013ba033882dbe8c25b9b8af8d97f89e08879f9c332533cabfcc5daaa200d5bc9f589279&amp;scene=21#wechat_redirect" target="_blank">
+          一周一课|全身动起来的第一节英语课
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247487050&amp;idx=1&amp;sn=57349021db9f30d3325b54ab60156ab7&amp;chksm=974400daa03389cce9a3e3811376fa3f16104f7bbf5f22e2fb70985134652bbf1ee9d1f88e35&amp;scene=21#wechat_redirect" target="_blank">
+          一周一课｜趣味英语词汇教学
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247486594&amp;idx=1&amp;sn=7f882b7de66f75f771a54f73f9856524&amp;chksm=97440212a0338b049388993977ff743129bf0cb94e24d76a0b312cd401a2c83d55ef92644d66&amp;scene=21#wechat_redirect" target="_blank">
+          一周一课|从寒假开始上的课
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247486575&amp;idx=1&amp;sn=975cf25a5d0a41e0107d4331af22b89d&amp;chksm=974402ffa0338be9c1d8b12b20a00672a7345e87847f8387d56340c8be2eb12ee654b710421b&amp;scene=21#wechat_redirect" target="_blank">
+          一周一课|“豌豆”的故事
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247486529&amp;idx=1&amp;sn=8945061399c213bf9c327d3124a5ce81&amp;chksm=974402d1a0338bc7512eb692aa3c34c915f6968796de59e2dd978d2dd2312c726ce5157a41ff&amp;scene=21#wechat_redirect" target="_blank">
+          一周一课|蜘蛛先生的网
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247486357&amp;idx=1&amp;sn=861933f28ee6a2d64949a56ca667380f&amp;chksm=97440505a0338c1312d1e176af493523c3d762d9011b3561f0602dd2ca056140f352710d9314&amp;scene=21#wechat_redirect" target="_blank">
+          一周一课|小学体育课之体操课
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247486237&amp;idx=1&amp;sn=e4c29cd5817db783701932e5761222f5&amp;chksm=9744058da0338c9b515eed6546bb5c795905c1a1d7455ca8ec2068efb6f41fce9b4f4650646b&amp;scene=21#wechat_redirect" target="_blank">
+          一周一课|A-level经济课
+         </a>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section class="group-empty" style="display: inline-block;width: 100%;vertical-align: top;box-sizing: border-box;height: 1px;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: middle;width: 45%;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 30%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;box-sizing: border-box;">
+          <section style="width: 2em;display: inline-block;vertical-align: middle;box-sizing: border-box;">
+           <section style="border: 1px dashed rgb(207, 116, 53);width: 2em;height: 2em;float: left;line-height: 2em;box-sizing: border-box;">
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             够
+            </p>
+           </section>
+           <section style="width: 2em;box-sizing: border-box;">
+            <section style="width: 0px;height: 2em;margin: 0px auto -1em;border-left-width: 1px;border-left-style: solid;border-color: rgb(230, 230, 230);box-sizing: border-box;">
+            </section>
+            <section style="width: 2em;height: 0px;border-top-width: 1px;border-top-style: solid;border-color: rgb(230, 230, 230);box-sizing: border-box;">
+            </section>
+           </section>
+           <section style="clear: both;box-sizing: border-box;">
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 30%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;box-sizing: border-box;">
+          <section style="width: 2em;display: inline-block;vertical-align: middle;box-sizing: border-box;">
+           <section style="border: 1px dashed rgb(207, 116, 53);width: 2em;height: 2em;float: left;line-height: 2em;box-sizing: border-box;">
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             专
+             <br style="box-sizing: border-box;"/>
+            </p>
+           </section>
+           <section style="width: 2em;box-sizing: border-box;">
+            <section style="width: 0px;height: 2em;margin: 0px auto -1em;border-left-width: 1px;border-left-style: solid;border-color: rgb(230, 230, 230);box-sizing: border-box;">
+            </section>
+            <section style="width: 2em;height: 0px;border-top-width: 1px;border-top-style: solid;border-color: rgb(230, 230, 230);box-sizing: border-box;">
+            </section>
+           </section>
+           <section style="clear: both;box-sizing: border-box;">
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 30%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;box-sizing: border-box;">
+          <section style="width: 2em;display: inline-block;vertical-align: middle;box-sizing: border-box;">
+           <section style="border: 1px dashed rgb(207, 116, 53);width: 2em;height: 2em;float: left;line-height: 2em;box-sizing: border-box;">
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             业
+             <br style="box-sizing: border-box;"/>
+            </p>
+           </section>
+           <section style="width: 2em;box-sizing: border-box;">
+            <section style="width: 0px;height: 2em;margin: 0px auto -1em;border-left-width: 1px;border-left-style: solid;border-color: rgb(230, 230, 230);box-sizing: border-box;">
+            </section>
+            <section style="width: 2em;height: 0px;border-top-width: 1px;border-top-style: solid;border-color: rgb(230, 230, 230);box-sizing: border-box;">
+            </section>
+           </section>
+           <section style="clear: both;box-sizing: border-box;">
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: middle;width: 10%;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 80%;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="1.0236842105263158" data-type="png" data-w="380" src="https://mmbiz.qpic.cn/mmbiz_png/EXiaibW3WeRWtVlz2ibG1TicNd3aFziakcglDJz657GLebXQXNDtX8gTuWWG3mV1jKa3wqvDlMbsFA5vjkVqWt8yfOA/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border: 1px solid rgb(249, 110, 87);padding: 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         教师专业发展以及家长教育一直是华外芜湖发展过程中十分关注的两点。对于各个年龄段的学生而言，只有家长与教师达到充分的了解和拥有共同的理解才能够对于学习和成长产生合力。因此我校始终坚持培训好老师好家长，让两位老师——家长和教师与学生一起学习。
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="text-align: center;">
+         <img class="" data-copyright="0" data-ratio="0.67" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/S6uZmhCPE67huK4cymYfdloxCmud6nrBzf1XvwibrWunIaAfxqd3sibhL5PPzuqLvInEoJJVylF9QjzRp3mIy50Q/640?wx_fmt=jpeg" style=""/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="text-align: center;">
+         <img class="" data-copyright="0" data-ratio="0.6666666666666666" data-s="300,640" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/S6uZmhCPE65Da0GibWmquo9rtjibQqsYOT1smrC7Tiabet0jpibFyK8O87A2NnCNAvNcZbBEEUib7iancmVo1kkRJdGg/640?wx_fmt=jpeg" style=""/>
+        </p>
+        <p style="text-align: center;">
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247487371&amp;idx=1&amp;sn=80e3e45f3fca55596fbd151c13623a26&amp;chksm=9744011ba033880dbd380cee1ca1ec50bce2ec351b648eef1e967f4d8197cbc3eca9818bee48&amp;scene=21#wechat_redirect" target="_blank">
+          教师培训 | 百尺竿头，更进一步
+         </a>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247488097&amp;idx=1&amp;sn=d44688d8e2b7337abffe9f5d0e594dbd&amp;chksm=97441cf1a03395e74a4d0477913972688be0d465da59d6ad3b426b751b89c21e6664ae97e7cb&amp;scene=21#wechat_redirect" target="_blank">
+          教师培训 | 2018年华外芜湖教师赴沪培训学习第一站
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247488207&amp;idx=1&amp;sn=405c17a9e84fe0a7ae65b77251cf7117&amp;chksm=97441c5fa0339549ad6abb62c0e3141748b5b766ac14f307f5ff030f861ca0159bb395cd301c&amp;scene=21#wechat_redirect" target="_blank">
+          教师培训 | 2018年华外芜湖教师赴沪培训学习第二站
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247487616&amp;idx=2&amp;sn=0eb5dab8915f3870da35981179606d0c&amp;chksm=97441e10a033970634a5b0a9b1d0d1949e850045dbf75dfafe9b53af358575caea4eb4ad4deb&amp;scene=21#wechat_redirect" style="font-size: 16px;white-space: normal;" target="_blank">
+          教师发展 | 如切如磋,携手同行--教师沙龙活动
+         </a>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247486542&amp;idx=1&amp;sn=460a8b3f3908641f5055f23ad1cbc70d&amp;chksm=974402dea0338bc842295d27766abef70f79f59ac4116425f9a2b579ab4d5c6e27dadd20e6e6&amp;scene=21#wechat_redirect" target="_blank">
+          华师杏坛 | 为家有考生的你划重点！
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247486582&amp;idx=1&amp;sn=590b68980fa3d4d71e5d2d56860f3ee5&amp;chksm=974402e6a0338bf0d916f17d4bbc8e6abf6e4a521a81bd27347dffebaf339c14749e830e21a7&amp;scene=21#wechat_redirect" target="_blank">
+          华师杏坛 | 第二讲 指向核心素养的学校教育转型
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247486816&amp;idx=1&amp;sn=f05108bd9c51863a005c269bdb727a95&amp;chksm=974403f0a0338ae6542d6e39ae97f4bceba430ddfd89ff1e3cdb3290ff2a57bf6df0e8e53d35&amp;scene=21#wechat_redirect" target="_blank">
+          华师杏坛 | 第三讲 幼儿教养讲座
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247487675&amp;idx=1&amp;sn=ec9526f411ffb2fec53c3533f9907c45&amp;chksm=97441e2ba033973d48e6d34cb799b6676d4093352d0ba7a8a0548d282fe4f0074c41b73c9ba6&amp;scene=21#wechat_redirect" target="_blank">
+          华师杏坛｜第四讲有效推动孩子学习成长
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247488135&amp;idx=1&amp;sn=7e7fd48dccb38c6f8671062ec9928573&amp;chksm=97441c17a03395016a7f9bab5464abf24ccc67c72e596bd04943f52ca2fe13d3f73ca5fc47f9&amp;scene=21#wechat_redirect" target="_blank">
+          华师杏坛 | 第五讲有效学习从“心”开始——谈首要学习原理
+         </a>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section class="group-empty" style="display: inline-block;width: 100%;vertical-align: top;box-sizing: border-box;height: 1px;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: middle;width: 45%;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 30%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;box-sizing: border-box;">
+          <section style="width: 2em;display: inline-block;vertical-align: middle;box-sizing: border-box;">
+           <section style="border: 1px dashed rgb(207, 116, 53);width: 2em;height: 2em;float: left;line-height: 2em;box-sizing: border-box;">
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             够
+            </p>
+           </section>
+           <section style="width: 2em;box-sizing: border-box;">
+            <section style="width: 0px;height: 2em;margin: 0px auto -1em;border-left-width: 1px;border-left-style: solid;border-color: rgb(230, 230, 230);box-sizing: border-box;">
+            </section>
+            <section style="width: 2em;height: 0px;border-top-width: 1px;border-top-style: solid;border-color: rgb(230, 230, 230);box-sizing: border-box;">
+            </section>
+           </section>
+           <section style="clear: both;box-sizing: border-box;">
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 30%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;box-sizing: border-box;">
+          <section style="width: 2em;display: inline-block;vertical-align: middle;box-sizing: border-box;">
+           <section style="border: 1px dashed rgb(207, 116, 53);width: 2em;height: 2em;float: left;line-height: 2em;box-sizing: border-box;">
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             贴
+             <br style="box-sizing: border-box;"/>
+            </p>
+           </section>
+           <section style="width: 2em;box-sizing: border-box;">
+            <section style="width: 0px;height: 2em;margin: 0px auto -1em;border-left-width: 1px;border-left-style: solid;border-color: rgb(230, 230, 230);box-sizing: border-box;">
+            </section>
+            <section style="width: 2em;height: 0px;border-top-width: 1px;border-top-style: solid;border-color: rgb(230, 230, 230);box-sizing: border-box;">
+            </section>
+           </section>
+           <section style="clear: both;box-sizing: border-box;">
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 30%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;box-sizing: border-box;">
+          <section style="width: 2em;display: inline-block;vertical-align: middle;box-sizing: border-box;">
+           <section style="border: 1px dashed rgb(207, 116, 53);width: 2em;height: 2em;float: left;line-height: 2em;box-sizing: border-box;">
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             心
+             <br style="box-sizing: border-box;"/>
+            </p>
+           </section>
+           <section style="width: 2em;box-sizing: border-box;">
+            <section style="width: 0px;height: 2em;margin: 0px auto -1em;border-left-width: 1px;border-left-style: solid;border-color: rgb(230, 230, 230);box-sizing: border-box;">
+            </section>
+            <section style="width: 2em;height: 0px;border-top-width: 1px;border-top-style: solid;border-color: rgb(230, 230, 230);box-sizing: border-box;">
+            </section>
+           </section>
+           <section style="clear: both;box-sizing: border-box;">
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: middle;width: 10%;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 80%;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="1.0236842105263158" data-type="png" data-w="380" src="https://mmbiz.qpic.cn/mmbiz_png/EXiaibW3WeRWtVlz2ibG1TicNd3aFziakcglDJz657GLebXQXNDtX8gTuWWG3mV1jKa3wqvDlMbsFA5vjkVqWt8yfOA/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border: 1px solid rgb(249, 110, 87);padding: 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         作为一所寄宿制的15年一贯制学校，比起普通学校，华外芜湖更像一个家。父母所关心的关于孩子的一切，学校用心规划，用情实施。作为教职工作为学生，每一个个体都是独一无二的存在。
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="text-align: center;">
+         <img class="" data-copyright="0" data-ratio="0.66625" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/S6uZmhCPE66CgvibQibWianbW4oN30BKgT2bqOwU2qV5o6XlTkg7gKfOS0nPxhIiaeiaN10ibPO8vYTK84OZn9Ztzz6Q/640?wx_fmt=jpeg" style=""/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="text-align: center;">
+         <img class="" data-copyright="0" data-ratio="1.5" data-s="300,640" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/S6uZmhCPE65Da0GibWmquo9rtjibQqsYOT2HMC1rbdyicC32y5e314km00ycCkSNbrjXkf5OQsjTYVtqJvALeXweQ/640?wx_fmt=jpeg" style=""/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247487480&amp;idx=1&amp;sn=18abd3ff9e3c965e0ade82e42ed50885&amp;chksm=97440168a033887ec04dfe6b67c1ab0f53609955193a390fc5f16b247fe39f70d1816ccb754f&amp;scene=21#wechat_redirect" target="_blank">
+          学校生活｜一起用餐吧
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247487541&amp;idx=1&amp;sn=52d9a0f3d9e65349fb69c144f65ed0f1&amp;chksm=97441ea5a03397b31a697e640e0d7ed8ce7d59cbcde2bfb125fd7da8a55cd1205780b489b19a&amp;scene=21#wechat_redirect" target="_blank">
+          学校生活｜学校首次教育教学管理研讨会
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247488157&amp;idx=1&amp;sn=ff900f9f86429ba3dfa5dd40ea5f992f&amp;chksm=97441c0da033951b1cc842d362f9509085420f223ee3c1b515a2ae4e3d6a00b0f4827071181d&amp;scene=21#wechat_redirect" target="_blank">
+          学校生活 | 华外芜湖的“蓝精灵”
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247488332&amp;idx=1&amp;sn=de15f21b6481e102aa186b36671d91b5&amp;chksm=97441ddca03394cab185098ab6ba6074514249dab7869eb964edd75d51ec84c5e266b7c675da&amp;scene=21#wechat_redirect" target="_blank">
+          校园生活 | 校园里的守护者
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247488282&amp;idx=1&amp;sn=a57dc0cc24793e57252cb8724b187cf7&amp;chksm=97441d8aa033949cf27ce596352e29eb2a05f968fb6f57d518d3292493ddf866c991f64f392d&amp;scene=21#wechat_redirect" target="_blank">
+          德育 | 班级创意图书角，让校园溢满浓郁书香
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247488135&amp;idx=2&amp;sn=2c49537d6417e6595f79fc65d2c8ceb9&amp;chksm=97441c17a0339501056455072f8908711fc494dc4bf2f079b5067129809915d339003fb066e8&amp;scene=21#wechat_redirect" target="_blank">
+          德育 | 初三“探班”幼儿园，传递快乐与温暖
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247487675&amp;idx=2&amp;sn=e92ec6df8784c29932394be108489b20&amp;chksm=97441e2ba033973dcce79a08ddff4b6d9ddb04fad01e773eac7b7bf22c01deb4f276c88dbe56&amp;scene=21#wechat_redirect" target="_blank">
+          德育 | 日本文化讲座
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247487363&amp;idx=1&amp;sn=b901da9d9e9238e1ff6bc01fec87f553&amp;chksm=97440113a033880547868e332fc39b4e0108ee3ef87558c6317fa673ec474476094f7667c9ad&amp;scene=21#wechat_redirect" target="_blank">
+          德育 | 新生军训
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247486439&amp;idx=1&amp;sn=100154c0becf2f57a81a012f6f6e0cf3&amp;chksm=97440577a0338c6151f5a92746ee13234f98779c5b4e158108e1a6a646fb619925a29397bbf9&amp;scene=21#wechat_redirect" target="_blank">
+          德育 | 我的寒假;我的中国年
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzIxMjQ5MTI2Mw==&amp;mid=2247486198&amp;idx=1&amp;sn=e23ca1319733bdf47b75ad434f6e5189&amp;chksm=97440466a0338d70ae64c59e71688704d85f6bdd008d50efc98ea57211f8001f9551e36af644&amp;scene=21#wechat_redirect" target="_blank">
+          德育 | 包饺子迎新年
+         </a>
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <p style="text-align: center;">
+    <img class="" data-copyright="0" data-ratio="1.4140625" data-s="300,640" data-type="jpeg" data-w="1280" src="https://mmbiz.qpic.cn/mmbiz_jpg/S6uZmhCPE66CgvibQibWianbW4oN30BKgT23372ydQRVSd1tLaicoSJmX8Epf8ba4utVPQHu9I2Xzkf8bhBVfeCfWQ/640?wx_fmt=jpeg" style=""/>
+   </p>
+   <section style="box-sizing: border-box;">
+    <span style="display: none;line-height: 0px;">
+     ‍
+    </span>
+    <br/>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+    </section>
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+    </section>
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <strong>
+      <span style="font-size: 18px;">
+       Happy  Chinese New Year!
+      </span>
+     </strong>
+    </section>
+   </section>
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <br/>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <p style="text-align: center;">
+    <img class="" data-copyright="0" data-ratio="1.7762747138397503" data-s="300,640" data-type="jpeg" data-w="961" src="https://mmbiz.qpic.cn/mmbiz_jpg/S6uZmhCPE67HwHxLmjccUuD3nP3fg1bzlveI8jNm4AkLbfselLlWkxOWjDgxjVVlx7Saoldxc37K4bCcb1WmCA/640?wx_fmt=jpeg" style=""/>
+   </p>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0% 0px;box-sizing: border-box;">
+    <section style="background-color: rgb(237, 193, 203);height: 3px;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: -1px 0% 10px;transform: translate3d(10px, 0px, 0px);-webkit-transform: translate3d(10px, 0px, 0px);-moz-transform: translate3d(10px, 0px, 0px);-o-transform: translate3d(10px, 0px, 0px);box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 40%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.2868421052631579" data-type="png" data-w="380" src="https://mmbiz.qpic.cn/mmbiz_png/JUgGrWddF0pMRq7DckUibtNpH9CDHbBUGcvtIW24ejBCfeSiahIj19xH0wZNao39rCW7AUCk435gpRpCpb1PgfOA/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+ </section>

@@ -1,0 +1,194 @@
+
+ <section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;">
+  <section class="_135editor" data-id="93662" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section style="margin:5px 5px 15px 5px;">
+    <section style="margin-bottom:-20px;display:inline-block;background-color:rgba(151, 228, 249, 0.7);width:30px;height:30px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-ms-transform: rotate(45deg);-o-transform: rotate(45deg);">
+    </section>
+    <section style="margin-left:-3px;margin-bottom:-20px;display:inline-block;background-color:rgba(175, 178, 249, 0.7);width:30px;height:30px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-ms-transform: rotate(45deg);-o-transform: rotate(45deg);">
+    </section>
+    <section data-width="100%" style="width:100%;vertical-align: top;padding: 10px;border-width:1px;border-style: solid;border-radius: 5px;border-color: #0d0a0a;overflow: hidden;box-sizing: border-box;">
+     <section style="padding: 1em 0.8em;letter-spacing: 1.5px;color: rgb(63, 63, 63);font-size: 14px;line-height: 1.75em;box-sizing: border-box;">
+      <section class="135brush">
+       <p>
+        2019考研初试成绩基本公布，虽然国家线以及复试名单还未出，很多成绩不理想的同学大概也预计到此次考研失利，那么要不要二战呢？决定前来看看这篇吧~
+       </p>
+      </section>
+     </section>
+    </section>
+    <section style="display: flex;justify-content: flex-end;margin-right:10px;">
+     <section style="margin: -20px 0% 10px;line-height: 1;box-sizing: border-box;transform: translate3d(10px, 0px, 0px);-webkit-transform: translate3d(10px, 0px, 0px);-moz-transform: translate3d(10px, 0px, 0px);-ms-transform: translate3d(10px, 0px, 0px);-o-transform: translate3d(10px, 0px, 0px);">
+      <section style="margin-bottom:-20px;display:inline-block;background-color:rgba(151, 228, 249, 0.7);width:30px;height:30px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-ms-transform: rotate(45deg);-o-transform: rotate(45deg);">
+      </section>
+      <section style="margin-left:-3px;margin-bottom:-20px;display:inline-block;background-color:rgba(175, 178, 249, 0.7);width:30px;height:30px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-ms-transform: rotate(45deg);-o-transform: rotate(45deg);">
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <p style="text-indent: 2em;">
+    <span style="font-size: 14px;">
+     二战，并不是简单的喊口号，也不是把去年的做过的事情再重复一遍那么简单。如果还以一战的心态去准备二战的话，是非常不可取的。
+    </span>
+   </p>
+   <p style="text-indent: 2em;">
+    <span style="font-size: 14px;">
+     在你决定真正开始准备二战之前，有很多东西是你需要考虑的。在心底里问一问自己到底适不适合二战？到底要不要二战？
+    </span>
+   </p>
+  </section>
+  <section class="_135editor" data-color="#1e9be8" data-custom="#1e9be8" data-id="94299" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section style="text-align: center;margin:20px auto;">
+    <section style="display: inline-block;">
+     <section style='background-image: url("https://mmbiz.qpic.cn/mmbiz_png/HqfVjH48Ea82LBDYibf1nabvutIb9H8hEKNQsNnKaexBs0LD744NI4wnmAHsF66N8Fp0U9Wj6rVGpXP3zIdM0dQ/640?wx_fmt=png");background-repeat: no-repeat;background-attachment: initial;background-origin: initial;background-clip: initial;background-position: center bottom;background-size: 100%;'>
+      <section style="display: flex;justify-content: center;align-items: center;padding: 20px 1.8em 13px;box-sizing: border-box;">
+       <section style="width:2em;">
+        <img class="" data-ratio="1" data-type="png" data-w="58" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/HqfVjH48Ea82LBDYibf1nabvutIb9H8hEaNKDXLE62icwHPeQll691IN9QuJg6DubL5wCIS2I1cquoKoaNGvzRicw/640?wx_fmt=png" style="width: 100%;"/>
+       </section>
+       <section class="autonum" data-original-title="" style="display: inline-block;color: rgb(30, 155, 232);font-size: 18px;margin-top: 5px;" title="">
+        NO.1
+       </section>
+      </section>
+     </section>
+     <section class="135brush" data-brushtype="text" style="color: rgb(30, 155, 232);margin-top: 3px;">
+      一战情况的考量
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <p style="text-indent: 2em;">
+    <span style="font-size: 14px;">
+     这一年的备考，每一项学习计划我是不是认真踏实的去执行，没有偷懒也没有遇到什么别的突发情况？
+    </span>
+   </p>
+   <p style="text-indent: 2em;">
+    <span style="color: #548dd4;">
+     <strong>
+      <span style="font-size: 14px;">
+       如果你的答案是
+      </span>
+     </strong>
+     <span style="font-size: 14px;">
+      <strong>
+       肯定的，那大概率证明，你一志愿的目标可能真的偏高了。
+      </strong>
+     </span>
+    </span>
+   </p>
+   <p style="text-indent: 2em;">
+    <span style="font-size: 14px;">
+     所以如果自己认真复习了一年，效果还是不太理想的，学姐建议真正选择二战的时候应该适当的降低一点自己的目标或者放弃二战，
+     <span style="color: rgb(84, 141, 212);">
+      <strong>
+       人生并非只有考研一条路
+      </strong>
+     </span>
+     。
+    </span>
+   </p>
+   <section class="_135editor" data-color="#1e9be8" data-custom="#1e9be8" data-id="94299" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section style="text-align: center;margin:20px auto;">
+     <section style="display: inline-block;">
+      <section style='background-image: url("https://mmbiz.qpic.cn/mmbiz_png/HqfVjH48Ea82LBDYibf1nabvutIb9H8hEKNQsNnKaexBs0LD744NI4wnmAHsF66N8Fp0U9Wj6rVGpXP3zIdM0dQ/640?wx_fmt=png");background-repeat: no-repeat;background-attachment: initial;background-origin: initial;background-clip: initial;background-position: center bottom;background-size: 100%;'>
+       <section style="display: flex;justify-content: center;align-items: center;padding: 20px 1.8em 13px;box-sizing: border-box;">
+        <section style="width:2em;">
+         <img class="" data-ratio="1" data-type="png" data-w="58" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/HqfVjH48Ea82LBDYibf1nabvutIb9H8hEaNKDXLE62icwHPeQll691IN9QuJg6DubL5wCIS2I1cquoKoaNGvzRicw/640?wx_fmt=png" style="width: 100%;"/>
+        </section>
+        <section aria-describedby="tooltip692314" class="autonum" data-num="NaN" data-original-title="" style="display: inline-block;color: rgb(30, 155, 232);font-size: 18px;margin-top: 5px;" title="">
+         NO.2
+        </section>
+       </section>
+      </section>
+      <section class="135brush" data-brushtype="text" style="color: rgb(30, 155, 232);margin-top: 3px;">
+       家庭情况的考量
+      </section>
+     </section>
+    </section>
+   </section>
+   <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      高考考的不好，父母可能会支持你复读，这是他们期望的。而考研不同，它算是我们在学业这个道路上第一次自己做的选择，没人逼你，都是自愿，一战没考好想二战，你还需考虑到家里人的想法。
+     </span>
+    </p>
+    <p style="text-indent: 2em;">
+     <strong>
+      <span style="font-size: 14px;color: #548dd4;">
+       二战衍生出的经济成本你需要考虑清楚
+      </span>
+     </strong>
+     <span style="font-size: 14px;">
+      ：身边的同届毕业的同学都工作了，本科应届毕业生的薪资正常情况下是一个月4000左右，一年大概5w左右，如果选择二战，那么就意味着你没有工资，还需要向父母要钱出去租房子好好备考。父母是否愿意，家里是否能够承担？这些你都要事先考虑好。 如果父母支持你二战，那就真的要好好努力。因为你在做决定的时候，你的父母也在做决定。他们的压力一点不比你小，他们也会在乎别人的看法，也会在乎很多很多东西，他们不说不代表他们不会在乎。
+     </span>
+    </p>
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      我们是成年人了，每做一个选择，都要承担起自己该负的责任。
+     </span>
+    </p>
+    <section class="_135editor" data-id="image-96178" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <p style="text-align:center;">
+      <img class="" data-ratio="0.6671732522796353" data-type="jpeg" data-w="658" src="https://mmbiz.qpic.cn/mmbiz_jpg/HqfVjH48Ea82LBDYibf1nabvutIb9H8hEDcE87vGGchh4e7pwehtLczSWH7FiaAGD17PMeicokeUWDtD7ey5Tib7gg/640?wx_fmt=jpeg" title="雪地上有几座高高的山峰"/>
+     </p>
+    </section>
+    <section class="_135editor" data-id="94299" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section style="text-align: center;margin:20px auto;">
+      <section style="display: inline-block;">
+       <section style='background-image: url("https://mmbiz.qpic.cn/mmbiz_png/HqfVjH48Ea82LBDYibf1nabvutIb9H8hEKNQsNnKaexBs0LD744NI4wnmAHsF66N8Fp0U9Wj6rVGpXP3zIdM0dQ/640?wx_fmt=png");background-repeat: no-repeat;background-attachment: initial;background-origin: initial;background-clip: initial;background-position: center bottom;background-size: 100%;'>
+        <section style="display: flex;justify-content: center;align-items: center;padding: 20px 1.8em 13px;box-sizing: border-box;">
+         <section style="width:2em;">
+          <img class="" data-ratio="1" data-type="png" data-w="58" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/HqfVjH48Ea82LBDYibf1nabvutIb9H8hEaNKDXLE62icwHPeQll691IN9QuJg6DubL5wCIS2I1cquoKoaNGvzRicw/640?wx_fmt=png" style="width: 100%;"/>
+         </section>
+         <section class="autonum" data-num="NaN" data-original-title="" style="display: inline-block;color: rgb(47, 136, 169);font-size: 18px;margin-top: 5px;" title="">
+          NO.3
+         </section>
+        </section>
+       </section>
+       <section class="135brush" data-brushtype="text" style="color: rgb(47, 136, 169);margin-top: 3px;">
+        心理承受能力的考量
+       </section>
+      </section>
+     </section>
+    </section>
+    <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       二战，一定会有各种各样的压力如狂风暴雨一般如期而至。 二战，意味着：或许，当看到身边的朋友都找了一份不错的工作，每天晒这晒那，扑在书桌前的你会羡慕会讨厌自己现在没日没夜的摸黑向前的日子；或许，你需要把过去一战时经历过的备考日子再经历一遍，包括曾经的那些焦虑、害怕、孤独感都一样不少。
+      </span>
+     </p>
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       也意味着：或许，你还要遭受“有心人”的冷嘲热讽或是不被看好；或许，你还要比一战的时候付出更多的努力，辛苦程度会更高；或许，你是否能够做到不计较得失成败，考研有成功也有失败，二战也是......
+      </span>
+     </p>
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       或许，还要面临很多突发的状况，你要想一下自己能不能承受住这些，到底能不能坚持下去。其实我们往往不是不敢追求成功，只是太害怕失败，害怕让在意的人失望，比如父母；害怕漫长时间刻画一个人奋斗的孤独，于是渐渐没了锐气，没了坚持。
+      </span>
+     </p>
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       二战的这份害怕却是双份的，做和不做是一回事，适不适合又是另一回事。
+      </span>
+     </p>
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       <br/>
+      </span>
+     </p>
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       所以，要不要二战，一定请大家思虑再三！
+      </span>
+     </p>
+     <p style="text-align: center;">
+      <img class="" data-copyright="0" data-ratio="0.6041666666666666" data-s="300,640" data-type="jpeg" data-w="480" src="https://mmbiz.qpic.cn/mmbiz_jpg/HqfVjH48Ea9x26JJRku7MRCOB4gPOVWCFWfqNCzUArUkmRVn2nTMiaic3aMeJFHmVvbs3nfrKx7lltHY1EhQD6dQ/640?wx_fmt=jpeg" style=""/>
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

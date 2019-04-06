@@ -1,0 +1,411 @@
+
+ <section class="xmteditor" data-label="powered by xmt.cn" data-tools="新媒体管家" style="display:none;">
+ </section>
+ <section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;">
+  <section data-role="outer" label="Powered by 135editor.com">
+   <section class="_135editor" data-id="93350" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section>
+     <section style="display: flex;justify-content: center;align-items: center;color: #338daf;">
+      <section style="margin-right: 1px;margin-left: 1px;">
+       -----
+      </section>
+      <section style="margin-left: 10px;">
+       <img class="" data-ratio="0.782608695652174" data-type="png" data-w="69" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4yRYicosNPHO97s7aC1afMlrauFGYz1uRPGM7CXvFzb6cqcDY9JXMFbw/640?wx_fmt=png" style="width: 40px;"/>
+      </section>
+      <section style="margin-right: 1px;margin-left: 1px;">
+       -----
+      </section>
+     </section>
+    </section>
+    <p style="text-align: center;">
+     <span style="caret-color: red;color: #7f7f7f;">
+      巍巍长白山，滔滔松江水。
+      <br/>
+     </span>
+    </p>
+    <p style="text-align: center;">
+     <span style="color: #7f7f7f;">
+      这个冬日，吉林大地又一次
+     </span>
+    </p>
+    <p style="text-align: center;">
+     <span style="color: #7f7f7f;">
+      迎回了从她的怀抱中远行逐梦的赤子。
+     </span>
+    </p>
+    <p style="text-align: center;">
+     <span style="color: #7f7f7f;">
+      这一次，与游子同归的，
+     </span>
+    </p>
+    <p style="text-align: center;">
+     <span style="color: #7f7f7f;">
+      还有他们带进高中课堂的
+      <strong>
+       <span style="color: #d99694;">
+        师大之爱
+       </span>
+      </strong>
+      。
+     </span>
+    </p>
+    <p>
+     <br/>
+    </p>
+    <p style="text-align: left;text-indent: 2em;">
+     <span style="color: #7f7f7f;">
+      这个寒假，在校招生办和孟宪承书院的组织下，来自吉林省的60余名师大学子，将师大的邀请装进行囊，回到母校开展
+      <strong>
+       <span style="color: #d99694;">
+        招生宣讲
+       </span>
+      </strong>
+      和
+      <strong>
+       <span style="color: #d99694;">
+        高考志愿咨询
+       </span>
+      </strong>
+      活动，将师大的礼物带给未来的ECNUers！
+     </span>
+    </p>
+    <p>
+     <br/>
+    </p>
+    <section class="_135editor" data-id="94332" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section data-width="100%" style="width:100%;">
+      <section style="text-align: center;">
+       <section style="width:4em;display: inline-block;">
+        <img class="" data-ratio="0.3208955223880597" data-type="gif" data-w="134" src="https://mmbiz.qpic.cn/mmbiz_gif/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4AYJcBZpUWRLG0px9aPicuaiaMSvR00lSNCJSkGsjQvf7r1IHxrBEIPicA/640?wx_fmt=gif" style="width: 4em;display: block;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+    <p style="text-align: center;">
+     <span style="color: #7f7f7f;">
+      来一睹
+     </span>
+     <span style="color: #7f7f7f;">
+      <strong>
+       <span style="color: rgb(217, 150, 148);">
+        “吉林大使”
+       </span>
+      </strong>
+     </span>
+     <span style="color: #7f7f7f;">
+      的风采吧！
+     </span>
+    </p>
+    <p style="text-align: center;">
+     <span style="color: #7f7f7f;">
+      <img class="" data-ratio="1.7794253938832252" data-type="jpeg" data-w="1079" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4LnkNLO6GMEhZ31zsJqX1EHvyKzEOoJRZVZKeSwQwTaFP5dXKR4bmjA/640?wx_fmt=jpeg"/>
+     </span>
+    </p>
+    <p>
+     <img class="" data-ratio="0.5616666666666666" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4XcZFMvv9PHhNB5EbvsibmKfhwjiaqYf1WIndQt6GcrVotOzq4sibwap3g/640?wx_fmt=jpeg" style="float:none;"/>
+    </p>
+    <p>
+     <img class="" data-ratio="0.5616666666666666" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4G2duF7hdTdmXayLXxIuKbciatvFckvxv9Q9sYDcNy2iaiazaTd1pNic0ww/640?wx_fmt=jpeg" style="float:none;"/>
+    </p>
+    <p>
+     <img class="" data-ratio="0.5616666666666666" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4fiaEMSZT7DLibT6pBha2UibYLrZNcyv2wCzZ21ERZqo1R39jT7FCBke2A/640?wx_fmt=jpeg" style="float:none;"/>
+    </p>
+    <p style="text-align: center;">
+     <span style="color: #7f7f7f;caret-color: red;">
+      △长春市·长春市第十一高级中学
+     </span>
+    </p>
+    <p>
+     <img class="" data-ratio="0.75" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4TCcWsskFwz2icMQAGO4OALaYo60P0BvHAkEjGJgD9Nbwu5dywRfibXAA/640?wx_fmt=jpeg" style="float:none;"/>
+    </p>
+    <p>
+     <img class="" data-ratio="0.75" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4p1Wo4KOYOlANfbcFNNQq6ib2GA8t8PNBZUHDulfFXDyqxB65qj5vpNw/640?wx_fmt=jpeg" style="float:none;"/>
+    </p>
+    <p>
+     <img class="" data-ratio="0.5625" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4nLRz6neR1Zp44fWGAGI6RkyDpmRicJUkuyL9pF8mvyrziagVln1gskzw/640?wx_fmt=jpeg" style="float:none;"/>
+    </p>
+    <p style="text-align: center;">
+     <span style="color: #7f7f7f;">
+     </span>
+     <span style="color: #7f7f7f;caret-color: red;">
+      △长春市·长春吉大附中实验学校
+     </span>
+    </p>
+    <p style="text-align: center;">
+     <span style="color: #7f7f7f;">
+     </span>
+    </p>
+    <p>
+     <img class="" data-ratio="0.75" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E466Xkz2KpREtXkUEV0PALPKkcxNPZOEoY45sRJIvk3ZVAfrVZgia6iaLw/640?wx_fmt=jpeg" style="float:none;"/>
+    </p>
+    <p>
+     <img class="" data-ratio="0.75" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4RHpQWeM3jx1jicjhvo7pdx7ScHM0LXCpibTwKt12TdNNN60iaDT2gpK3A/640?wx_fmt=jpeg" style="float:none;"/>
+    </p>
+    <p>
+     <img class="" data-ratio="0.75" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4U7UqHhKJ47svA3baq2S1picMsGpgFs2SdzENNEeAYicw81u5LFJpOxLw/640?wx_fmt=jpeg" style="float:none;"/>
+    </p>
+    <p>
+     <img class="" data-ratio="0.75" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4mP2byxb8DL8vS0gf0gGYsfr2cnvYt9Aq5GC48f4uA5icFMr8OWvbOJA/640?wx_fmt=jpeg" style="float:none;"/>
+    </p>
+    <p style="text-align: center;">
+     <span style="color: #7f7f7f;">
+     </span>
+     <span style="color: #7f7f7f;caret-color: red;">
+      △长春市·东北师范大学附属中学
+     </span>
+    </p>
+    <p>
+     <img class="" data-ratio="0.75" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4BU37JUIzyiccicunmic4jZc9icjackrEHBdK4RzvsLHjvNP1VmdoV7e1gA/640?wx_fmt=jpeg" style="float:none;"/>
+    </p>
+    <p>
+     <img class="" data-ratio="0.75" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4ichtnfMBqqPR5JA8iaibGSWVRpcu4UFviaElw3bFNiaY2swwrKYoxVXgWSw/640?wx_fmt=jpeg" style="float:none;"/>
+    </p>
+    <p style="text-align: center;">
+     <span style="color: #7f7f7f;">
+     </span>
+     <span style="color: #7f7f7f;caret-color: red;">
+      △长春市·榆树市实验高中
+     </span>
+    </p>
+    <p>
+     <img class="" data-ratio="0.6666666666666666" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4ibN8Q6sr3ZOQicfUicUDs1aBgPLduG3m2aEZl93zMrRic6CibAsqIp2UDKQ/640?wx_fmt=jpeg" style="float:none;"/>
+    </p>
+    <p>
+     <img class="" data-ratio="0.6666666666666666" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4325icwxtXTDczr6mYSxXL4pbTADibRx2wuRF9iayTtiafs0zzmOlibs0mQg/640?wx_fmt=jpeg" style="float:none;"/>
+    </p>
+    <p style="text-align: center;">
+     <span style="color: #7f7f7f;">
+     </span>
+     <span style="color: #7f7f7f;caret-color: red;">
+      △吉林市·吉林市第一中学
+     </span>
+    </p>
+    <p>
+     <img class="" data-ratio="0.7475" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E46RQx1UeNBmTm8JcZicTSufrA8p4Tvf0U35VtNLZRzvqiazp9NZKHU4Zg/640?wx_fmt=jpeg" style="float:none;"/>
+    </p>
+    <p>
+     <img class="" data-ratio="0.7475" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E40nibTrwOic2d3ibmRmh6k6GVEm7MGWn7qjpiaaoaee1M8sxzIdGCKdhBlA/640?wx_fmt=jpeg" style="float:none;"/>
+    </p>
+    <p>
+     <img class="" data-ratio="0.7475" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4a6qhdrVYAgic33IqBs7yJiblbH0hPbiaC5KmcOdIYyHUnOrxJ4pKjx7tQ/640?wx_fmt=jpeg" style="float:none;"/>
+    </p>
+    <p style="text-align: center;">
+     <span style="color: #7f7f7f;">
+     </span>
+     <span style="color: #7f7f7f;caret-color: red;">
+      △吉林市·舒兰市第一中学
+     </span>
+    </p>
+    <p style="text-align: center;">
+     <span style="color: #7f7f7f;">
+      <img class="" data-ratio="0.75" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E40c410B4pwXuAXMPNHldGrUgOR1j648Cww94Hh7CtXrsNDR4j9xIdew/640?wx_fmt=jpeg"/>
+     </span>
+    </p>
+    <p>
+     <img class="" data-ratio="0.75" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4ic39ecib1M5oqV6sZsiaRgicicfaaWwFNfwkdfP37hXndSeceoyScBibeFyA/640?wx_fmt=jpeg" style="float:none;"/>
+    </p>
+    <p>
+     <img class="" data-ratio="0.75" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4ry0U3qPvenRCynRc5KEXMocccczuBpCe05cNn8nfgRUxibUlJZnDHuA/640?wx_fmt=jpeg" style="float:none;"/>
+    </p>
+    <p style="text-align: center;">
+     <span style="color: #7f7f7f;">
+     </span>
+     <span style="color: #7f7f7f;caret-color: red;">
+      △四平市·公主岭一中
+      <img class="" data-ratio="0.75" data-type="png" data-w="960" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4CnvZReicxUiad4SicL65EF4gqPRdFZxic9UQI5DWAkvbEBRGj6icnwDuvzg/640?wx_fmt=png"/>
+     </span>
+    </p>
+    <p style="text-align: center;">
+     <span style="color: #7f7f7f;">
+      △辽源市·东辽一高
+      <img class="" data-ratio="0.75" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E42obiaibVlkiaiaiaicHuPb8rpDobj48obt6BhzxoJCW5Xjd610xfvwHuWlQg/640?wx_fmt=jpeg"/>
+     </span>
+    </p>
+    <p style="text-align: center;">
+     <span style="color: #7f7f7f;">
+      △辽源市·辽源市第五中学
+     </span>
+    </p>
+    <p style="text-align: center;">
+     <span style="color: #7f7f7f;">
+      <img class="" data-ratio="0.75" data-type="png" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4mL3eE8HKiasR2W6SjRKp3eM1WqG4zvZbBcmB8VQk8JIU3kibib0nds6XQ/640?wx_fmt=png"/>
+     </span>
+     <span style="color: #7f7f7f;caret-color: red;">
+      △辽源市·东丰县第二中学
+     </span>
+    </p>
+    <p>
+     <img class="" data-ratio="0.75" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4MLQzmtHdPGtN6dkXwBMSibVbUcGVNWziagKp7TLlk9U4xgd6iaffhOdqw/640?wx_fmt=jpeg" style="float:none;"/>
+    </p>
+    <p>
+     <img class="" data-ratio="0.75" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E40RicThPW89ybL9YPick3icSpumeDef9y9TbsSFrsZibkNfbY0BhA1L567g/640?wx_fmt=jpeg" style="float:none;"/>
+    </p>
+    <p>
+     <img class="" data-ratio="0.75" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E48IMPZJV5gHHSvTRMcvRMibGeW8xI5eeCdndQVcEX8Fp3j63x382jPcw/640?wx_fmt=jpeg" style="float:none;"/>
+    </p>
+    <p style="text-align: center;">
+     <span style="color: #7f7f7f;caret-color: red;">
+      △通化市·通钢一中
+      <img class="" data-ratio="0.7505720823798627" data-type="png" data-w="437" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4BPHvceyy2XIcEtiaXdhkibApPC8iajr79gwMTm7bRTZM3pBzRDjxicWzpQ/640?wx_fmt=png"/>
+     </span>
+    </p>
+    <p style="text-align: center;">
+     <span style="color: #7f7f7f;">
+     </span>
+     <span style="color: #7f7f7f;caret-color: red;">
+      △白山市·抚松县第一中学
+     </span>
+    </p>
+    <p>
+     <img class="" data-ratio="0.75" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4ic3vcBcEcXiaiaEgaJHa0v18PicvicqAPLBjTe15iclEnXnTZzGQ5TiaFsIibw/640?wx_fmt=jpeg" style="float:none;"/>
+    </p>
+    <p style="text-align: center;">
+     <img class="" data-ratio="0.75" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4azicx96y8VN0xibs0c9Eqmib5QdGtQsXic0ZR2fzWWfIEicbickCruvtS9aQ/640?wx_fmt=jpeg" style="float:none;"/>
+     <span style="color: rgb(127, 127, 127);caret-color: red;">
+      △白城市·白城市第一中学
+     </span>
+     <span style="color: #7f7f7f;caret-color: red;">
+     </span>
+    </p>
+    <p style="text-align: center;">
+     <img class="" data-ratio="0.6666666666666666" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E42PReOpfHSoTtyxBbLWK6j5RaY7qQCHzuVuVtya9H79FYUxYc8GGEpA/640?wx_fmt=jpeg" title="31_延边二中2_.JPG"/>
+    </p>
+    <p style="text-align: center;">
+     <img class="" data-ratio="0.6661264181523501" data-type="jpeg" data-w="617" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4vD4ocjpFSqibYO7sKoic9UVoFMNS4dbqNYhsbhZFw1AIsXiaBRHxMG8wQ/640?wx_fmt=jpeg" title="32_延边二中3_617x411.JPG"/>
+    </p>
+    <p style="text-align: center;">
+     <img class="" data-ratio="0.6666666666666666" data-type="jpeg" data-w="411" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4zWFQ2yh4qho4dyxf94c2nCGfYalcribwB5bnKFA8xEGhrnxX7iboqGVg/640?wx_fmt=jpeg" title="33_延边二中4_411x274.JPG"/>
+    </p>
+    <p style="text-align: center;">
+     <img class="" data-ratio="0.6666666666666666" data-type="jpeg" data-w="1155" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4E9lay2krtSAic2hic0ib0TWI6diawibxibFaVwGf5xq5jUlH5JaFnHXmyicnQ/640?wx_fmt=jpeg" title="34_延边二中5_1155x770.JPG"/>
+    </p>
+    <p style="text-align: center;">
+     <span style="color: #7f7f7f;">
+      <img class="" data-ratio="0.6666666666666666" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4h680OY6TM5pBgtBSlAgDgwjcZmtHJ3WChkofzIcrDEC9iaicWia0Yfx6Q/640?wx_fmt=jpeg"/>
+     </span>
+    </p>
+    <p style="text-align: center;">
+     <span style="color: #7f7f7f;">
+      <img class="" data-ratio="1.3333333333333333" data-type="jpeg" data-w="720" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4pro5ib50qGC6SnK8DLNmVb0GG4tOeJicdezJCFMjPbRR3BQsAvJjQ5ibQ/640?wx_fmt=jpeg"/>
+     </span>
+    </p>
+    <p style="text-align: center;">
+     <span style="color: #7f7f7f;">
+      △延边朝鲜族自治州·延边第二中学
+     </span>
+    </p>
+    <p>
+     <img class="" data-ratio="0.7916666666666666" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4Luvmibnxv6ceGWMNgjSS1wjX3dewTQndg5tIqmQJpXpjEIBYQjkXG2w/640?wx_fmt=jpeg" style="float:none;"/>
+    </p>
+    <p>
+     <img class="" data-ratio="0.6825" data-type="png" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4bj7mwGyTFFEBCyBnrJOfbUKuGwDjY5ib1M8IX1W0cGu44CPGtbia433Q/640?wx_fmt=png" style="float:none;"/>
+    </p>
+    <p style="text-align: center;">
+     <span style="color: #7f7f7f;">
+      △松原市·松原市实验高中
+     </span>
+    </p>
+   </section>
+   <section class="_135editor" data-id="16401" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section style="text-align:center;">
+     <section class="_135editor" data-id="85865" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <section>
+       <section style="display:inline-block;width:228px;">
+        <img class="_135editor" data-ratio="0.10507246376811594" data-type="png" data-w="552" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4tKrDnsibO2HQ4a745ib3wthNnSM1JMiaXHyPU7WZCia5bicPUWQibYics9oRg/640?wx_fmt=png" style="width: 228px;border-width: 0px;border-style: none;border-color: initial;" title="大树分割线"/>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <p style="text-align: center;line-height: 1.75em;">
+    <span style="color: #7F7F7F;">
+     长白山麓，松花江畔，肥沃的黑土地哺育了卓越的师大才俊。
+    </span>
+   </p>
+   <p style="text-align: center;line-height: 1.75em;">
+    <span style="color: #7F7F7F;">
+     丽娃悠悠，樱河潺潺，优雅的师大滋养了心怀感恩的吉林人。
+    </span>
+   </p>
+   <p style="text-align: center;line-height: 1.75em;">
+    <span style="color: #D99694;text-shadow: #F2DCDB 2px 2px 10px;">
+     师大情·母校行
+    </span>
+   </p>
+   <p style="text-align: center;line-height: 1.75em;">
+    <span style="color: #7F7F7F;">
+     不仅是师大人的自豪，也是吉林人的担当
+    </span>
+   </p>
+   <p style="text-align: center;line-height: 1.75em;">
+    <span style="color: #7F7F7F;">
+     是一种爱校荣校的情怀
+    </span>
+   </p>
+   <p style="text-align: center;line-height: 1.75em;">
+    <span style="color: #7F7F7F;">
+     是一种不忘来路的信念
+    </span>
+   </p>
+   <p style="text-align: center;line-height: 1.75em;">
+    <span style="color: #7F7F7F;">
+     更是一种渴望历练的实践精神
+    </span>
+   </p>
+   <section class="_135editor" data-id="88200" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <p style="text-align:center;">
+     <br/>
+    </p>
+    <p style="text-align: center;">
+     <img class="_135editor" data-ratio="1" data-type="gif" data-w="19" src="https://mmbiz.qpic.cn/mmbiz_gif/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4e2wbJJ4rtwlpaS8ZIdAxhQqOSXkwXbEZbdHLLLFAuv0MfW8OM9gymA/640?wx_fmt=gif" style="border-width: 0px;border-style: none;border-color: initial;" title="跳动的心分割线爱心"/>
+    </p>
+   </section>
+   <p style="text-align: center;line-height: 1.75em;">
+    <span style="color: #D99694;">
+     爱在华师大
+    </span>
+   </p>
+   <p style="text-align: center;line-height: 1.75em;">
+    <span style="color: #D99694;">
+     携手兴邦兴天下
+    </span>
+   </p>
+   <p style="text-align: center;line-height: 1.75em;">
+    <span style="color: #D99694;">
+     愿经过一冬的酝酿
+    </span>
+   </p>
+   <p style="text-align: center;line-height: 1.75em;">
+    <span style="color: #D99694;">
+     今夏，与我们相约的优秀学子都能收到师大的礼物
+    </span>
+   </p>
+   <p>
+    <img class="" data-ratio="1.7794253938832252" data-type="jpeg" data-w="1079" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E44xKSy3dUYTya8Pwn975pa1ibrafynp6oeftgp354RckAnfFQ40bgm6A/640?wx_fmt=jpeg"/>
+   </p>
+   <p style="text-align: right;">
+    <br/>
+   </p>
+   <p style="text-align: right;">
+    <span style="color: #7F7F7F;">
+     文字 | 孙睦迪
+    </span>
+   </p>
+   <p style="text-align: right;">
+    <span style="color: #7F7F7F;">
+     图片 | 吉林省寒假招生宣讲团
+    </span>
+   </p>
+   <p style="text-align: right;">
+    <span style="color: #7F7F7F;">
+     编辑 | 郭奕恒
+    </span>
+   </p>
+  </section>
+ </section>
+ <p style="text-align: center;">
+  <img class="" data-copyright="0" data-ratio="0.6541176470588236" data-s="300,640" data-type="png" data-w="850" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0aexcUjYRDIrDP7RTicHTiapqnicIIZvI7vfAQKfInKIw53MEM11V1nibicf91hdfm8rQCXKZRzIx1UMfkA/640?wx_fmt=png" style=""/>
+ </p>
+ <p>
+  <br/>
+ </p>

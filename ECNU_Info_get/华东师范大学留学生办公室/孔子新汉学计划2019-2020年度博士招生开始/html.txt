@@ -1,0 +1,471 @@
+
+ <section class="" style="max-width: 100%;box-sizing: border-box;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;line-height: 25.6px;white-space: normal;widows: 1;border-width: 0px;border-style: none;border-color: initial;background-color: rgb(255, 255, 255);word-wrap: break-word !important;">
+  <section class="" style="margin-top: -55px;margin-bottom: 5px;max-width: 100%;text-align: center;transform: translate3d(3px, 0px, 0px);box-sizing: border-box !important;word-wrap: break-word !important;">
+  </section>
+ </section>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <br style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;background-color: rgb(255, 255, 0);font-size: 18px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <span style="background-color: rgb(255, 255, 0);max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+     来华攻读博士学位项目
+    </span>
+   </strong>
+  </span>
+ </p>
+ <section class="" data-id="94332" data-tools="135编辑器" style="max-width: 100%;box-sizing: border-box;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;line-height: 25.6px;white-space: normal;widows: 1;border-width: 0px;border-style: none;border-color: initial;background-color: rgb(255, 255, 255);word-wrap: break-word !important;">
+  <section data-width="100%" style="max-width: 100%;width: 677px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <section style="max-width: 100%;text-align: center;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <section style="max-width: 100%;width: 4em;display: inline-block;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <img class="__bg_gif" data-ratio="0.3208955223880597" data-type="gif" data-w="134" src="https://mmbiz.qpic.cn/mmbiz_gif/EHmrACE5a8mHuAwianSvGf6CHgazzbccKC4pIxibfIicfMF77JVujLxVohqnlofo0cmMtqJRdWuxnrxc1NAoSOXibA/640?wx_fmt=gif" style="display: block;box-sizing: border-box !important;word-wrap: break-word !important;width: 4em !important;visibility: visible !important;" width="4em"/>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: normal;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <br style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+    ●项目介绍
+   </strong>
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+    1. 项目内容：
+   </span>
+  </strong>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   资助外国学生来华攻读博士学位，一般为3-4年。
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+    2. 申请资格：
+   </span>
+  </strong>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   • 非中国公民。
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   • 汉语水平考试（HSK）须达到5级，同等条件下汉语水平优异者优先。
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   <span style="color: rgb(89, 89, 89);font-family: 微软雅黑;font-size: 16px;letter-spacing: 0.544px;text-indent: 32px;widows: 1;background-color: rgb(255, 255, 255);">
+    • 正在享受中国政府奖学金者不能同时申请本项目。
+   </span>
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+    3. 申请材料：
+   </span>
+  </strong>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   • 经公证的大学本科、硕士学习期间成绩单、学位证书及中文译本各一份。
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   • 2封本领域专家推荐信。
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   • 汉语水平考试（HSK）成绩单。
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   • 硕士论文摘要及其他研究成果。
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   • 博士研究计划。
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   • 有孔子学院推荐信者优先录取。
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   <span style="color: rgb(89, 89, 89);font-family: 微软雅黑;font-size: 16px;letter-spacing: 0.544px;text-indent: 32px;widows: 1;background-color: rgb(255, 255, 255);">
+    • 体检报告
+   </span>
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+    4. 申请办法：
+   </span>
+  </strong>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   登陆
+   <span style="max-width: 100%;color: rgb(79, 129, 189);box-sizing: border-box !important;word-wrap: break-word !important;">
+    ccsp.chinese.cn
+   </span>
+   提交网上申请，并将原件及其它全部申请材料寄至孔子学院总部。
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+    5. 评审：
+   </span>
+  </strong>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   “孔子新汉学计划”专家委员会将对申请材料进行评审并组织面试。
+  </span>
+ </p>
+ <p style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;letter-spacing: 0.544px;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+    6. 报名截至日期：
+   </span>
+  </strong>
+ </p>
+ <p style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;letter-spacing: 0.544px;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   <span style="font-size: 15px;">
+    网上申请系统将于2019年2月20日23:59（北京时间）关闭
+   </span>
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   <br/>
+  </span>
+  <br/>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <br style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <img class="" data-ratio="0.0234375" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/EHmrACE5a8mHuAwianSvGf6CHgazzbccKhpYQo0utrHbNmcOzhsPeJ183sforiarGgBSfdiadhmtRIiaUKWjL9dXrQ/640?wx_fmt=png" style="display: inline;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box !important;word-wrap: break-word !important;width: 640px !important;visibility: visible !important;" title="彩带" width="640px"/>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <br style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;background-color: rgb(255, 255, 0);font-size: 18px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <span style="background-color: rgb(255, 255, 0);max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+     中外合作培养博士项目
+    </span>
+   </strong>
+  </span>
+ </p>
+ <section class="" data-id="94332" data-tools="135编辑器" style="max-width: 100%;box-sizing: border-box;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;line-height: 25.6px;white-space: normal;widows: 1;border-width: 0px;border-style: none;border-color: initial;background-color: rgb(255, 255, 255);word-wrap: break-word !important;">
+  <section data-width="100%" style="max-width: 100%;width: 677px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <section style="max-width: 100%;text-align: center;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <section style="max-width: 100%;width: 4em;display: inline-block;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <img class="__bg_gif" data-ratio="0.3208955223880597" data-type="gif" data-w="134" src="https://mmbiz.qpic.cn/mmbiz_gif/EHmrACE5a8mHuAwianSvGf6CHgazzbccKC4pIxibfIicfMF77JVujLxVohqnlofo0cmMtqJRdWuxnrxc1NAoSOXibA/640?wx_fmt=gif" style="display: block;box-sizing: border-box !important;word-wrap: break-word !important;width: 4em !important;visibility: visible !important;" width="4em"/>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: normal;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <br style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+    ●项目介绍
+   </span>
+  </strong>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+    1. 项目内容：
+   </span>
+  </strong>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   资助在外国大学注册的博士生来华学习、开展研究及撰写博士论文。
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+    2. 项目时间：
+   </span>
+  </strong>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   6个月至2年。
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+    3. 申请资格：
+   </span>
+  </strong>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   • 非中国公民。
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   • 汉语水平考试（HSK）成绩须达到3级，同等条件下汉语水平优异者优先。
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   • 正在享受中国政府奖学金者不能同时申请本项目。
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+    4. 申请材料：
+   </span>
+  </strong>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   • 在读博士生证明。
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   • 2封本领域专家推荐信。
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   • 汉语水平考试（HSK）成绩单。
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   • 硕士论文摘要或其他研究成果。
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   • 个人陈述与在华期间研究计划。
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   • 有孔子学院推荐信者优先录取。
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   <span style="color: rgb(89, 89, 89);font-family: 微软雅黑;font-size: 16px;letter-spacing: 0.544px;text-indent: 32px;widows: 1;background-color: rgb(255, 255, 255);">
+    • 体检报告
+   </span>
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+    5. 申请办法：
+   </span>
+  </strong>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   登陆
+  </span>
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   ccsp.chinese.cn
+  </span>
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   提交网上申请，并将打印表格及其它材料寄至孔子学院总部。
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+    6. 评审：
+   </span>
+  </strong>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   “孔子新汉学计划”专家委员会将对申请材料进行评审并组织面试。
+  </span>
+ </p>
+ <p style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;letter-spacing: 0.544px;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+    7. 报名截至日期：
+   </span>
+  </strong>
+ </p>
+ <p style="font-variant-numeric: normal;font-variant-east-asian: normal;white-space: normal;max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;letter-spacing: 0.544px;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   <span style="font-size: 15px;">
+    网上申请系统将于2019年2月20日23:59（北京时间）关闭
+   </span>
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(89, 89, 89);box-sizing: border-box !important;word-wrap: break-word !important;">
+   <br/>
+  </span>
+  <br/>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 2em;text-indent: 2em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <br style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+ </p>
+ <section style="max-width: 100%;font-family: 微软雅黑;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;line-height: 25.6px;white-space: normal;widows: 1;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+  <section class="" style="max-width: 100%;border-width: 0px;border-style: none;border-color: initial;transform: rotateZ(356deg);box-sizing: border-box !important;word-wrap: break-word !important;">
+   <section style="margin-top: 30px;margin-bottom: 20px;max-width: 100%;text-align: center;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <section style="padding: 5px;max-width: 100%;box-sizing: border-box;display: inline-block;vertical-align: top;border-width: 0px;border-style: none;border-color: rgb(62, 62, 62);border-radius: 5px;width: 406.188px;background-color: rgb(238, 248, 253);word-wrap: break-word !important;">
+     <section style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+      <section style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+       <section style="padding: 10px;max-width: 100%;box-sizing: border-box;display: inline-block;width: 396.188px;vertical-align: top;border-width: 1px;border-style: dashed;border-color: rgb(89, 179, 220);border-radius: 5px;background-color: rgb(237, 248, 253);word-wrap: break-word !important;">
+        <section style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+         <section style="margin-top: -35px;max-width: 100%;text-align: right;transform: translate3d(30px, 0px, 0px);box-sizing: border-box !important;word-wrap: break-word !important;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 93.5469px;box-sizing: border-box !important;word-wrap: break-word !important;">
+           <img class="" data-ratio="1.10752688172043" data-type="png" data-w="186" src="https://mmbiz.qpic.cn/mmbiz_png/EHmrACE5a8mHuAwianSvGf6CHgazzbccKRaRN3zfD1YHN4HVAmk03b0GibtIJdEm04jKyBOqb1dC7sfibuy4v3VMg/640?wx_fmt=png" style="vertical-align: middle;width: 93.5469px;box-sizing: border-box !important;word-wrap: break-word !important;visibility: visible !important;" width="100%"/>
+          </section>
+         </section>
+        </section>
+        <section style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+         <section style="margin-bottom: 10px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 299.344px;box-sizing: border-box !important;word-wrap: break-word !important;">
+           <span data-role="width" style="max-width: 100%;display: inline-block;width: 299.344px;box-sizing: border-box !important;word-wrap: break-word !important;">
+            <img border="0" class="" data-ratio="1" data-type="png" data-w="280" height="" src="https://mmbiz.qpic.cn/mmbiz_png/EHmrACE5a8mHuAwianSvGf6CHgazzbccKR2T4JdF2iblL5RVuxxj7zibG87SfEOOtvLbED8U6e9ErofPQQBJ8qJUA/640?wx_fmt=png" style="vertical-align: middle;width: 299.344px;box-sizing: border-box !important;word-wrap: break-word !important;visibility: visible !important;" title="" width="100%"/>
+           </span>
+          </section>
+         </section>
+        </section>
+        <section style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+         <section style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+          <section style="max-width: 100%;color: rgb(44, 90, 160);box-sizing: border-box !important;word-wrap: break-word !important;">
+           <p style="max-width: 100%;min-height: 1em;box-sizing: border-box !important;word-wrap: break-word !important;">
+            <span style="max-width: 100%;font-size: 14px;box-sizing: border-box !important;word-wrap: break-word !important;">
+             <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+              <span style="max-width: 100%;letter-spacing: 0px;box-sizing: border-box !important;word-wrap: break-word !important;">
+               长按二维码进入报名网址
+              </span>
+             </strong>
+            </span>
+           </p>
+           <p>
+            <span style="max-width: 100%;font-size: 14px;box-sizing: border-box !important;word-wrap: break-word !important;">
+             <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+              <span style="max-width: 100%;letter-spacing: 0px;box-sizing: border-box !important;word-wrap: break-word !important;">
+               <br/>
+              </span>
+             </strong>
+            </span>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <section class="V5" powered-by="xiumi.us" style="text-align: center;white-space: normal;box-sizing: border-box;">
+  <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+   <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+    <section style="max-width: 100%;display: inline-block;vertical-align: bottom;width: 16.3889px;box-sizing: border-box;">
+     <img data-ratio="1" data-type="gif" data-w="160" src="https://mmbiz.qpic.cn/mmbiz_gif/pLyfwFu0GDhy6L1r1W5y71xOhGop3x9B3icJY2eicyqAmiafrIvPhKYBCllLe0CsiaiaUDXBL9r73fUa2uXIHwMibdpA/640?wx_fmt=gif" style="vertical-align: middle;width: 16.3889px;box-sizing: border-box;"/>
+    </section>
+    <section style="margin-bottom: 2px;padding-right: 2px;padding-left: 2px;display: inline-block;vertical-align: bottom;line-height: 1.2em;font-size: 18px;letter-spacing: 1.5px;box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>
+ <section class="V5" powered-by="xiumi.us" style="text-align: center;white-space: normal;box-sizing: border-box;">
+  <section style="box-sizing: border-box;">
+   <section style="text-align: justify;font-size: 15px;line-height: 1.8;box-sizing: border-box;">
+    <p style="box-sizing: border-box;">
+     <span style="letter-spacing: 0px;box-sizing: border-box;">
+     </span>
+     <br style="box-sizing: border-box;"/>
+    </p>
+    <p style="box-sizing: border-box;">
+     材料需要同时邮寄国家汉办，华东师范大学留学生办公室：
+    </p>
+    <p style="box-sizing: border-box;">
+     1. 邮寄地址：
+    </p>
+    <p style="box-sizing: border-box;">
+     汉学研究工作处，孔子学院总部/国家汉办，地址：北京市西城区德胜门外大街129号，100088
+    </p>
+    <p style="box-sizing: border-box;">
+     电话： 0086 10 5859 5771
+    </p>
+    <p style="box-sizing: border-box;">
+    </p>
+    <p style="box-sizing: border-box;">
+     2.中国上海市中山北路3663号华东师范大学物理楼253室，200062
+    </p>
+    <p style="box-sizing: border-box;">
+     电话：+86-21-62232013 +86-21-62238353
+    </p>
+    <p style="box-sizing: border-box;">
+     传真：+86-21-62238352
+    </p>
+    <p style="box-sizing: border-box;">
+     电子邮件：yyin@ied.ecnu.edu.cn
+    </p>
+    <p style="box-sizing: border-box;">
+     <br style="box-sizing: border-box;"/>
+    </p>
+   </section>
+  </section>
+ </section>
+ <section class="V5" powered-by="xiumi.us" style="text-align: center;white-space: normal;box-sizing: border-box;">
+  <section style="text-align: right;box-sizing: border-box;">
+   <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 74.6528px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+    <img data-ratio="0.9729167" data-type="gif" data-w="480" src="https://mmbiz.qpic.cn/mmbiz_gif/pLyfwFu0GDhy6L1r1W5y71xOhGop3x9Bg96p9vIClXrsEpD50ItAicYtIJMfTX71WlyP7Rl7mEAvyeyzFV9lALA/640?wx_fmt=gif" style="vertical-align: middle;width: 74.6528px;box-sizing: border-box;"/>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

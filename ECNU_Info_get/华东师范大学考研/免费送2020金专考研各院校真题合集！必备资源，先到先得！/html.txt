@@ -1,0 +1,328 @@
+
+ <section class="xmteditor" data-label="powered by xmt.cn" data-tools="新媒体管家" style="display:none;">
+ </section>
+ <section class="xmteditor" data-label="powered by xmt.cn" data-tools="新媒体管家" style="display:none;">
+ </section>
+ <section class="xmteditor" data-label="powered by xmt.cn" data-tools="新媒体管家" style="display:none;">
+ </section>
+ <section class="xmteditor" data-label="powered by xmt.cn" data-tools="新媒体管家" style="display:none;">
+ </section>
+ <section class="xmt-style-block" data-id="9190" data-style-type="7" data-tools="新媒体排版">
+  <p class="" style="max-width: 100%;box-sizing: border-box;min-height: 1em;text-align: center;word-wrap: break-word !important;">
+   <span style="font-size: 15px;">
+    <span data-txtless="spin" data-txtlessp="120" style="font-size: 15px;max-width: 100%;color: rgb(228, 157, 172);box-sizing: border-box !important;word-wrap: break-word !important;">
+     ◆
+    </span>
+    <span style="font-size: 15px;max-width: 100%;color: rgb(250, 211, 172);box-sizing: border-box !important;word-wrap: break-word !important;">
+     ◆
+    </span>
+    <span data-txtless="spin" data-txtlessp="-120" style="font-size: 15px;max-width: 100%;color: rgb(255, 233, 234);box-sizing: border-box !important;word-wrap: break-word !important;">
+     ◆
+     <span data-txtless="spin" data-txtlessp="120" style="font-size: 15px;max-width: 100%;color: rgb(121, 134, 175);">
+      ◆
+     </span>
+     <span style="font-size: 15px;max-width: 100%;color: rgb(17, 163, 215);">
+      ◆
+     </span>
+    </span>
+   </span>
+  </p>
+ </section>
+ <p style="text-align: center;">
+  <br/>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <img data-ratio="1" data-type="png" data-w="17" src="https://mmbiz.qpic.cn/mmbiz_png/Bvl433IWQy1DylAwVA88MU705vtar2QreibkFTiciciaTaTeDib0vHI7Qg8cJVFlfGLGGEPluqr3QGicheWu827m7b8w/640?wx_fmt=png" style="width:17px;display: inline-block;vertical-align: text-bottom;"/>
+  <span style="font-size: 15px;">
+   同学们，新的一年开始了
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <img data-ratio="1" data-type="png" data-w="17" src="https://mmbiz.qpic.cn/mmbiz_png/Bvl433IWQy1DylAwVA88MU705vtar2QrAMia3UVVaM9HpRgiaWyh5qwUfRF0qicNLicJ6EEDTHyJnKJXYcJMUBqsiaA/640?wx_fmt=png" style="width:17px;display: inline-block;vertical-align: text-bottom;"/>
+  <span style="font-size: 15px;">
+   考研之路也要开始了
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="font-size: 15px;">
+   为了不让
+   <span style="color:#d92142;">
+    <strong>
+     明年这时候自己处于不上不下的尴尬地位
+    </strong>
+   </span>
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="color: rgb(217, 33, 66);font-size: 15px;">
+   <strong>
+    如何准备这一年的复习
+   </strong>
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="color:#d92142;">
+   <span style="font-size: 15px;">
+    <strong>
+     才是关键！
+    </strong>
+   </span>
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="text-align: center;font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <strong>
+   <span style="font-size: 15px;">
+    真题可以说是431备考中
+    <br/>
+   </span>
+  </strong>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <strong>
+   <span style="font-size: 15px;">
+    最最重要的资料了
+   </span>
+  </strong>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <br/>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="color:#d92142;">
+   <span style="font-size: 15px;">
+    <strong>
+     无论是查缺补漏
+    </strong>
+   </span>
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="color:#d92142;">
+   <span style="font-size: 15px;">
+    <strong>
+     亦或者是练习提高
+    </strong>
+   </span>
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="color:#d92142;">
+   <span style="font-size: 15px;">
+    <strong>
+     都是必备神器
+    </strong>
+   </span>
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <br/>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="font-size: 15px;">
+   <strong>
+    这里我为你们准备了各个院校的真题合集
+   </strong>
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="font-size: 15px;">
+   <strong>
+    正所谓：他山之石可以攻玉
+   </strong>
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="font-size: 15px;">
+   <strong>
+    越早的了解不同院校的真题特点
+   </strong>
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="font-size: 15px;">
+   <strong>
+    就能越早的找到适合自己的院校
+   </strong>
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="font-size: 15px;">
+   <strong>
+    <br/>
+   </strong>
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="font-size: 15px;">
+   <strong>
+    比如，有的学校题目偏计算，如上财
+   </strong>
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="font-size: 15px;">
+   <strong>
+    <br/>
+   </strong>
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="font-size: 15px;">
+   <strong>
+    有的学校题目偏理论背诵，如西财
+   </strong>
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="font-size: 15px;">
+   <strong>
+    <br/>
+   </strong>
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="font-size: 15px;">
+   <strong>
+    哪所学校更适合你，便一目了然！
+   </strong>
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="font-size: 15px;">
+   <strong>
+    <br/>
+   </strong>
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <img class="" data-croporisrc="http://mmbiz.qpic.cn/mmbiz_jpg/rA26UNTRgOt5aIMUYuvbicu5vorxicrVr4peMHu0uhFAPEZoQiccqMkLiawXF6uo2akMOpPbUxrL9f5Ykbiaf8Yjqcg/0?wx_fmt=jpeg" data-cropx1="0" data-cropx2="695.7186544342509" data-cropy1="188.37920489296638" data-cropy2="469.8776758409786" data-ratio="0.40431654676258993" data-type="jpeg" data-w="695" src="https://mmbiz.qpic.cn/mmbiz_jpg/rA26UNTRgOt5aIMUYuvbicu5vorxicrVr4vRdCfXFvNH4ugaBfTia0AB0IU6T0RLAd2QD3N7F2zcJw5B4LnmazIiaw/640?wx_fmt=jpeg" style="width: 399px;height: 161px;"/>
+ </p>
+ <p style="text-align: center;">
+  <span style="font-size: 14px;">
+   （哈哈，最近喜欢看一人之下
+  </span>
+  ）
+ </p>
+ <p style="text-align: center;">
+  <span style="color: rgb(255, 255, 255);">
+   <strong>
+    <span style="font-size: 15px;background-color: rgb(234, 106, 100);">
+     各院校历年真题（持续整理中）
+    </span>
+   </strong>
+  </span>
+  <br/>
+ </p>
+ <p style="text-align: center;">
+  <span style="color: rgb(255, 255, 255);">
+   <strong>
+    <span style="font-size: 15px;background-color: rgb(234, 106, 100);">
+     <br/>
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <img class="" data-ratio="0.5647348951911221" data-s="300,640" data-type="png" data-w="811" src="https://mmbiz.qpic.cn/mmbiz_png/rA26UNTRgOsyFXw8m4AID8rC9MdDayg9Rp5iaCcSCyA7MiarHyE5NCYs76qPlWztMBfLm7C3yozPT5yhQibFpM74w/640?wx_fmt=png" style="width: 508px;height: 286px;"/>
+ </p>
+ <p style="text-align: center;">
+  <img class="" data-ratio="0.4469078179696616" data-s="300,640" data-type="png" data-w="857" src="https://mmbiz.qpic.cn/mmbiz_png/rA26UNTRgOt5aIMUYuvbicu5vorxicrVr4cJv6iaROoPepQLQicPySNEEia3g1n9tXnRciaFhAxS7FCicnLnVyibicID5RQ/640?wx_fmt=png" style="width: 543px;height: 243px;"/>
+ </p>
+ <p style="text-align: center;">
+  <span style="font-size: 15px;">
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <img class="" data-ratio="0.552896725440806" data-s="300,640" data-type="png" data-w="794" src="https://mmbiz.qpic.cn/mmbiz_png/rA26UNTRgOt5aIMUYuvbicu5vorxicrVr4P3Y6Eyy2BReVfLAj5YFvuxOWBLtibogDjWL4rmx6qHjMAmEzf2YUa4g/640?wx_fmt=png" style="width: 503px;height: 276px;"/>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <span style="font-size: 15px;">
+   <br/>
+  </span>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <br/>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <img data-ratio="1" data-type="png" data-w="17" src="https://mmbiz.qpic.cn/mmbiz_png/Bvl433IWQy1DylAwVA88MU705vtar2QrjqLTyN9EX0khpibUx4G68tGhJM80sxic4sHskG8Hx5pw0FQHicokBmY5Q/640?wx_fmt=png" style="text-align: justify;width: 17px;display: inline-block;vertical-align: text-bottom;"/>
+  <strong>
+   获取
+  </strong>
+  <span style="font-size: 18px;">
+   <strong>
+    方法
+   </strong>
+  </span>
+  <span style="font-size: 15px;">
+   <strong>
+    <img data-ratio="1" data-type="png" data-w="17" src="https://mmbiz.qpic.cn/mmbiz_png/Bvl433IWQy1DylAwVA88MU705vtar2QrjqLTyN9EX0khpibUx4G68tGhJM80sxic4sHskG8Hx5pw0FQHicokBmY5Q/640?wx_fmt=png" style="width:17px;display: inline-block;vertical-align: text-bottom;"/>
+   </strong>
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <br/>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <strong>
+   <span style="font-size: 15px;color: rgb(64, 118, 0);">
+    1.扫描下方二维码关注公众号
+   </span>
+  </strong>
+ </p>
+ <p style="text-align: center;">
+  <img class="" data-copyright="0" data-cropselx1="0" data-cropselx2="232" data-cropsely1="0" data-cropsely2="232" data-ratio="1" data-s="300,640" data-type="jpeg" data-w="258" src="https://mmbiz.qpic.cn/mmbiz_jpg/rA26UNTRgOupWXsG7Oj5qm9ERIRwaPFn6icuwyOft3ibdapTzlic8gTdOaibGbRBvXvrRFQtvR7wRxWrJFiaaw21pwg/640?wx_fmt=jpeg" style="width: 232px;height: 232px;"/>
+ </p>
+ <p style="white-space: normal;text-align: center;line-height: 1.75em;">
+  <strong style="text-align: center;white-space: normal;">
+   <span style="font-size: 15px;color: rgb(64, 118, 0);">
+    2.在公众号后台回复
+   </span>
+  </strong>
+  <span style="font-size: 18px;color: rgb(249, 185, 67);">
+   <strong style="text-align: center;white-space: normal;">
+    【真题】
+   </strong>
+  </span>
+  <strong style="text-align: center;white-space: normal;">
+   <span style="font-size: 15px;color: rgb(64, 118, 0);">
+    即可
+   </span>
+  </strong>
+ </p>
+ <p style="white-space: normal;text-align: center;line-height: 1.75em;">
+  <strong style="text-align: center;white-space: normal;">
+   <span style="font-size: 15px;color: rgb(64, 118, 0);">
+    PS：对于看书较困难的同学可添加学长获取431全套视频课程！
+   </span>
+  </strong>
+ </p>
+ <p style="white-space: normal;text-align: center;line-height: 1.75em;">
+  <strong style="text-align: center;white-space: normal;">
+   <span style="font-size: 15px;color: rgb(64, 118, 0);">
+    （学长微信在菜单栏处！）
+   </span>
+  </strong>
+ </p>
+ <p style="white-space: normal;text-align: center;line-height: 1.75em;">
+  <br/>
+ </p>
+ <p style="text-align: center;line-height: 1.5em;">
+  <br/>
+ </p>
+ <p style="text-align: center;line-height: 1.5em;">
+  <br/>
+ </p>
+ <p style="text-align: center;line-height: 1.75em;">
+  <img class="" data-croporisrc="http://mmbiz.qpic.cn/mmbiz_jpg/rA26UNTRgOt5aIMUYuvbicu5vorxicrVr4EicJfI07OBtRPSyAGoxDnYT28dfYIyKNXmxqGziaat5U4547dibDdqYfA/0?wx_fmt=jpeg" data-cropx1="2.140672782874618" data-cropx2="700.0000000000001" data-cropy1="129.51070336391436" data-cropy2="853.0581039755351" data-ratio="1.0372492836676217" data-type="jpeg" data-w="698" src="https://mmbiz.qpic.cn/mmbiz_jpg/rA26UNTRgOt5aIMUYuvbicu5vorxicrVr4hyqqqV0dG7AHfO4JhQHKjaddOCC8RTbtkQco4nrNNbZwtw40SuTosA/640?wx_fmt=jpeg" style="width: 275px;height: 285px;"/>
+ </p>
+ <p style="text-align: center;line-height: 1.5em;">
+  <br/>
+ </p>
+ <p style="text-align: center;">
+  <br/>
+ </p>

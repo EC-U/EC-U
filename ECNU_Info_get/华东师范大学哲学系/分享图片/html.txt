@@ -1,0 +1,193 @@
+
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 20px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;border: 1px solid rgb(62, 62, 62);border-top-left-radius: 0px;border-bottom-right-radius: 0px;border-bottom-left-radius: 0px;border-top-right-radius: 0px;padding: 10px 10px 0px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: -26px 0% 8px;text-align: center;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;box-sizing: border-box;">
+        <section style="margin-right: 10px;height: 2em;border-right-width: 1em;border-right-style: solid;border-right-color: rgb(149, 216, 247);border-top-width: 1em !important;border-top-style: solid !important;border-top-color: transparent !important;border-bottom-width: 1em !important;border-bottom-style: solid !important;border-bottom-color: transparent !important;box-sizing: border-box;">
+        </section>
+        <section style="margin-right: 7px;margin-top: -2em;height: 2em;border-right-width: 1em;border-right-style: solid;border-right-color: rgb(255, 255, 255);border-top-width: 1em !important;border-top-style: solid !important;border-top-color: transparent !important;border-bottom-width: 1em !important;border-bottom-style: solid !important;border-bottom-color: transparent !important;box-sizing: border-box;">
+        </section>
+        <section style="margin-top: -2em;height: 2em;border-right-width: 1em;border-right-style: solid;border-right-color: rgb(149, 216, 247);border-top-width: 1em !important;border-top-style: solid !important;border-top-color: transparent !important;border-bottom-width: 1em !important;border-bottom-style: solid !important;border-bottom-color: transparent !important;box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: top;height: 2em;line-height: 2em;background-color: rgb(149, 216, 247);color: rgb(255, 255, 255);letter-spacing: 1.5px;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         讲座预告
+        </p>
+       </section>
+       <section style="display: inline-block;vertical-align: top;box-sizing: border-box;">
+        <section style="margin-left: 10px;height: 2em;width: 1em;border-left-width: 1em;border-left-style: solid;border-left-color: rgb(149, 216, 247);border-top-width: 1em !important;border-top-style: solid !important;border-top-color: transparent !important;border-bottom-width: 1em !important;border-bottom-style: solid !important;border-bottom-color: transparent !important;box-sizing: border-box;">
+        </section>
+        <section style="margin: -2em -8px 0px 7px;height: 2em;width: 1em;border-left-width: 1em;border-left-style: solid;border-left-color: rgb(255, 255, 255);border-top-width: 1em !important;border-top-style: solid !important;border-top-color: transparent !important;border-bottom-width: 1em !important;border-bottom-style: solid !important;border-bottom-color: transparent !important;box-sizing: border-box;">
+        </section>
+        <section style="margin-top: -2em;height: 2em;width: 1em;border-left-width: 1em;border-left-style: solid;border-left-color: rgb(149, 216, 247);border-top-width: 1em !important;border-top-style: solid !important;border-top-color: transparent !important;border-bottom-width: 1em !important;border-bottom-style: solid !important;border-bottom-color: transparent !important;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;box-sizing: border-box;">
+       <section style='display: inline-block;width: 100%;vertical-align: top;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/MuIhnfrgEpfIZHdU9XtjDNF6q1nFOOGTibVtL4SbgQk0XV6tr1ibZGUOBhFMzxSxrCJBqh6d2ndZauXVd6vptiaAQ/640?wx_fmt=png?x-oss-process=style/xmwebp");background-size: 99.6088%;background-attachment: scroll;letter-spacing: 0px;padding: 15px;box-sizing: border-box;background-position: 0% 0%;background-repeat: repeat repeat;'>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: center;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             题目
+            </strong>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            认同、归属与自我观念之建构式哲学
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             时间
+            </strong>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            2019年3月1日（周五）
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            14:30—16:30
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             地点
+            </strong>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            华东师范大学闵行校区
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            哲学系会议室2102
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             主讲人
+            </strong>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <span style="box-sizing: border-box;">
+             蔡耀明
+            </span>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            台湾大学哲学系教授
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             主持人
+            </strong>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            张晓林
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            华东师范大学哲学系教授
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             主办
+            </strong>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            华东师范大学哲学系
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="height: auto;box-sizing: border-box;">
+         <section style="width: 100%;height: 100%;padding-top: 10px;padding-bottom: 10px;text-align: center;box-sizing: border-box;">
+          <section style="display: inline-block;vertical-align: middle;height: 0.7em;margin-right: 3px;width: 2px;background-color: rgb(105, 143, 187);box-sizing: border-box;">
+          </section>
+          <section style="display: inline-block;vertical-align: middle;height: 1.35em;margin-right: 3px;width: 4px;background-color: rgb(105, 143, 187);box-sizing: border-box;">
+          </section>
+          <section style="display: inline-block;vertical-align: middle;height: 2em;line-height: 2em;background-color: rgb(105, 143, 187);padding-left: 8px;padding-right: 8px;color: rgb(255, 255, 255);box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            主讲人简介
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+          <section style="display: inline-block;vertical-align: middle;height: 1.35em;margin-left: 3px;width: 4px;background-color: rgb(105, 143, 187);box-sizing: border-box;">
+          </section>
+          <section style="display: inline-block;vertical-align: middle;height: 0.7em;margin-left: 3px;width: 2px;background-color: rgb(105, 143, 187);box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 10px 0%;box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;padding: 15px;border: 1px solid rgb(255, 255, 255);border-top-left-radius: 0px;border-bottom-right-radius: 0px;border-bottom-left-radius: 0px;border-top-right-radius: 0px;background-image: url(https://mmbiz.qpic.cn/mmbiz_gif/TPricVrZbo5Ynv6e0icMgZ2GI8Kj4Wfe7n063cjicDTNbpuIYpaEfmeGFEKu00iausel44ibibf2MJHGzqEjJ5LKlPtQ/640?wx_fmt=gif);background-size: 107.589%;background-attachment: scroll;box-sizing: border-box;background-position: 75.0303% 15.3758%;background-repeat: repeat repeat;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="text-align: justify;font-size: 15px;color: rgb(110, 110, 110);box-sizing: border-box;">
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               蔡耀明，美国柏克莱加州大学佛学研究所博士（1997年12月），现职台湾大学哲学系教授。其专长领域为佛教哲学、印度哲学、生命哲学。
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="height: auto;box-sizing: border-box;">
+         <section style="width: 100%;height: 100%;padding-top: 10px;padding-bottom: 10px;text-align: center;box-sizing: border-box;">
+          <section style="display: inline-block;vertical-align: middle;height: 0.7em;margin-right: 3px;width: 2px;background-color: rgb(105, 143, 187);box-sizing: border-box;">
+          </section>
+          <section style="display: inline-block;vertical-align: middle;height: 1.35em;margin-right: 3px;width: 4px;background-color: rgb(105, 143, 187);box-sizing: border-box;">
+          </section>
+          <section style="display: inline-block;vertical-align: middle;height: 2em;line-height: 2em;background-color: rgb(105, 143, 187);padding-left: 8px;padding-right: 8px;color: rgb(255, 255, 255);box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            内容简介
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+          <section style="display: inline-block;vertical-align: middle;height: 1.35em;margin-left: 3px;width: 4px;background-color: rgb(105, 143, 187);box-sizing: border-box;">
+          </section>
+          <section style="display: inline-block;vertical-align: middle;height: 0.7em;margin-left: 3px;width: 2px;background-color: rgb(105, 143, 187);box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 10px 0%;box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;padding: 15px;border: 1px solid rgb(255, 255, 255);border-top-left-radius: 0px;border-bottom-right-radius: 0px;border-bottom-left-radius: 0px;border-top-right-radius: 0px;background-image: url(https://mmbiz.qpic.cn/mmbiz_gif/TPricVrZbo5Ynv6e0icMgZ2GI8Kj4Wfe7n063cjicDTNbpuIYpaEfmeGFEKu00iausel44ibibf2MJHGzqEjJ5LKlPtQ/640?wx_fmt=gif);background-size: 107.589%;background-attachment: scroll;box-sizing: border-box;background-position: 75.0303% 15.3758%;background-repeat: repeat repeat;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="text-align: justify;font-size: 15px;color: rgb(110, 110, 110);box-sizing: border-box;">
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               本次讲题强调格局的打开，在恢宏的视野，探究时认同、归属与自我这三个密切相关的课题。这三个课题，一方面，大致为一般世人倾向于受困与困惑的节点，另一方面，也正好是佛教哲学可贡献世间的特长。就这三个课题，在界说之后，由共构的三方面着手探讨。其一，说明一般世人倾向于在认同、归属与自我之念想受困与困惑，以及造成如此问题的症结。其二，强调以正法为内涵的佛教哲学。其三，期许以富于学养为佛教哲学的建构。经由这共构的三方面，论及佛教哲学，才得以开拓视野，以正确的知见与扎实的学养，确实助成众生从受困与困惑的节点解脱。
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>

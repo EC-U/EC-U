@@ -1,0 +1,607 @@
+
+ <section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;">
+  <section data-role="outer" label="Powered by 135editor.com" style="font-family: 微软雅黑;">
+   <section class="_135editor" data-id="92663" data-tools="135编辑器" style="max-width: 100%;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section style="padding: 10px;max-width: 100%;box-sizing: border-box;">
+     <section data-width="100%" style="margin-right: auto;margin-left: auto;max-width: 100%;width: 100%;box-shadow: #d7d6d6 0px 0px 5px;">
+      <section style="max-width: 100%;display: -webkit-flex;justify-content: center;">
+       <section data-width="100%" style="margin: 15px auto;max-width: 100%;width: 100%;height: 10px;">
+        <section style="margin-right: auto;margin-left: auto;max-width: 100%;width: 10px;height: 10px;background: #c8eaff;">
+        </section>
+       </section>
+      </section>
+      <section style="padding-bottom: 20px;max-width: 100%;display: -webkit-flex;justify-content: center;box-sizing: border-box;">
+       <section style="max-width: 100%;width: 210px;height: 210px;border-top-left-radius: 100%;border-top-right-radius: 100%;border-bottom-right-radius: 100%;border-bottom-left-radius: 100%;box-sizing: border-box;background: #f08080;">
+        <img class="" data-ratio="0.9914772727272727" data-type="png" data-w="352" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/HqfVjH48Ea9CUicIHiasHd5FrWpLBicA0tCkmialfbZmM0LYhfa0IRs8GibBJ4iaBs0oeHJADzsW0ibDBGR5xfQxE4CtA/640?wx_fmt=png" style="border-top-left-radius: 100%;border-top-right-radius: 100%;border-bottom-right-radius: 100%;border-bottom-left-radius: 100%;width: 100%;" title="logo.png"/>
+       </section>
+      </section>
+      <section data-width="100%" style="padding-right: 20px;padding-bottom: 30px;padding-left: 20px;max-width: 100%;width: 100%;text-align: center;box-sizing: border-box;">
+       <section style="max-width: 100%;display: inline-block;">
+        <section data-bgless="spin" data-bglessp="120" style="padding: 2px;max-width: 100%;box-sizing: border-box;background-color: #6cb9cf;">
+         <section data-bgless="spin" data-bglessp="120" style="padding: 3px;max-width: 100%;border-width: 1px;border-style: dashed;border-color: rgb(254, 254, 254);box-sizing: border-box;">
+          <section class="135brush" data-brushtype="text" style="padding-right: 14px;padding-left: 14px;max-width: 100%;color: #ffffff;font-size: 14px;letter-spacing: 1px;box-sizing: border-box;">
+           华东师范大学社会发展学院
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <section class="_135editor" data-role="paragraph" style="max-width: 100%;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <p style="max-width: 100%;min-height: 1em;white-space: pre-wrap;">
+     <br/>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;white-space: pre-wrap;text-indent: 2em;">
+     <span style="font-size: 14px;">
+      华东师范大学社会学学科具有悠久的历史，由吴泽霖、谢六逸、言心哲、胡焕庸、罗永麟等学科大师开创基业，建立了深厚的学术传统。
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;white-space: pre-wrap;text-indent: 2em;">
+     <span style="caret-color: red;font-size: 14px;">
+      2009年底，在原有社会学系，人口研究所基础上，整合我校民俗学、人类学研究力量，建立了社会发展学院，下设社会学系、社会工作系、人口研究所、民俗学研究所和人类学研究所五个基本单位，各专业得到均衡发展和有效管理。
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;white-space: pre-wrap;text-indent: 2em;">
+     <span style="caret-color: red;font-size: 14px;">
+      学院在读硕士生、留学生170多人，博士生70多名。自1982年招收研究生以来，已累计培养硕士研究生350多名，博士生80名，许多人成为中国社会学各学科的知名专家。学院设有“社会学”和“社会工作”两个本科专业。自招收本科学生以来，以改革教学制度、培养一流社会学、社会工作人才为宗旨，引用国外新型的教学方法，已有10多门主干课程实施了双语教学或全英文课程教学，在致力于为学生打下扎实的专业理论基础的同时，注重对学生综合素质的培养，提高学生独立思考和探索问题的实践能力，已收到显著成效。
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;white-space: pre-wrap;text-indent: 2em;">
+     <span style="caret-color: red;font-size: 14px;">
+      现有教师61名，其中教授14名，副教授21名，讲师19名，行政人员7名，兼职教授与副教授6名。
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;white-space: pre-wrap;">
+     <br/>
+    </p>
+   </section>
+   <section class="_135editor" data-color="#80c3df" data-custom="#80c3df" data-id="93765" data-tools="135编辑器" style="max-width: 100%;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section data-width="100%" style="max-width: 100%;width: 100%;text-align: center;">
+     <section style="padding-right: 10px;max-width: 100%;font-size: 18px;display: inline-block;letter-spacing: -2px;box-sizing: border-box;">
+      ◆◆
+     </section>
+     <section style="max-width: 100%;display: inline-block;">
+      <section class="135brush" data-brushtype="text" style="padding-right: 0.8em;padding-left: 0.8em;max-width: 100%;font-size: 18px;letter-spacing: 2px;font-weight: bold;box-sizing: border-box;">
+       2018年统考录取分析
+      </section>
+      <section data-width="100%" style="margin-top: -10px;max-width: 100%;width: 100%;height: 10px;border-top-left-radius: 20px;border-top-right-radius: 20px;border-bottom-right-radius: 20px;border-bottom-left-radius: 20px;color: rgb(255, 255, 255);box-sizing: border-box;background: rgb(128, 195, 223);">
+      </section>
+     </section>
+     <section style="padding-left: 10px;max-width: 100%;font-size: 18px;display: inline-block;letter-spacing: -2px;box-sizing: border-box;">
+      ◆◆
+     </section>
+    </section>
+   </section>
+   <section class="_135editor" data-role="paragraph" style="max-width: 100%;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <p style="max-width: 100%;min-height: 1em;white-space: pre-wrap;text-align: center;">
+     <br/>
+    </p>
+    <table cellpadding="0" cellspacing="0" width="100%">
+     <tbody>
+      <tr class="firstRow">
+       <td style="border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);background: rgb(240, 240, 240);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          院系所
+         </span>
+        </p>
+       </td>
+       <td style="border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);background: rgb(240, 240, 240);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          专项计划
+         </span>
+        </p>
+       </td>
+       <td style="border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);background: rgb(240, 240, 240);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          专业
+         </span>
+        </p>
+       </td>
+       <td style="border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);background: rgb(240, 240, 240);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          学位类别
+         </span>
+        </p>
+       </td>
+       <td style="border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);background: rgb(240, 240, 240);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          一志愿报名人数
+         </span>
+        </p>
+       </td>
+       <td style="border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);background: rgb(240, 240, 240);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          一志愿上线人数
+         </span>
+        </p>
+       </td>
+       <td style="border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);background: rgb(240, 240, 240);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          一志愿复试分数线
+         </span>
+        </p>
+       </td>
+       <td style="border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);background: rgb(240, 240, 240);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          统考录取人数
+         </span>
+        </p>
+       </td>
+       <td style="border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);background: rgb(240, 240, 240);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          推免录取人数
+         </span>
+        </p>
+       </td>
+       <td style="border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);background: rgb(240, 240, 240);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          录取人数
+         </span>
+        </p>
+       </td>
+       <td style="border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);background: rgb(240, 240, 240);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          录取全日制人数
+         </span>
+        </p>
+       </td>
+       <td style="border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);background: rgb(240, 240, 240);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          录取非全日制人数
+         </span>
+        </p>
+       </td>
+      </tr>
+      <tr>
+       <td style="border-top: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          108社会发展学院
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          无专项计划
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          030302人口学
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          学术学位
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          25
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          11
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          330
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          5
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          5
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          10
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          10
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          0
+         </span>
+        </p>
+       </td>
+      </tr>
+      <tr>
+       <td style="border-top: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          108社会发展学院
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          无专项计划
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          030303人类学
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          学术学位
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          10
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          5
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          329
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          3
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          1
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          4
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          4
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          0
+         </span>
+        </p>
+       </td>
+      </tr>
+      <tr>
+       <td style="border-top: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          108社会发展学院
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          无专项计划
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          030304民俗学
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          学术学位
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          58
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          20
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          356
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          4
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          5
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          9
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          9
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          0
+         </span>
+        </p>
+       </td>
+      </tr>
+      <tr>
+       <td style="border-top: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          108社会发展学院
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          无专项计划
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          035200社会工作
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          专业学位
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          154
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          59
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          327
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          57
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          19
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          76
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          33
+         </span>
+        </p>
+       </td>
+       <td style="border-top: none;border-left: none;border-bottom-color: rgb(229, 229, 229);border-right-color: rgb(229, 229, 229);padding-top: 0px;padding-bottom: 0px;">
+        <p>
+         <span style="font-size: 12px;font-family: 微软雅黑, sans-serif;">
+          43
+         </span>
+        </p>
+       </td>
+      </tr>
+     </tbody>
+    </table>
+    <p style="max-width: 100%;min-height: 1em;white-space: pre-wrap;text-align: center;">
+     <br/>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;white-space: pre-wrap;text-align: center;widows: 1;">
+     <br/>
+    </p>
+    <section class="_135editor" data-id="93040" data-tools="135编辑器" style="max-width: 100%;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section data-width="100%" style="max-width: 100%;text-align: center;width: 100%;">
+      <img class="" data-ratio="0.1875" data-type="gif" data-w="128" data-width="10%" src="https://mmbiz.qpic.cn/mmbiz_gif/HqfVjH48Ea9CUicIHiasHd5FrWpLBicA0tCs2ny6JmYuUb8icbOrpGp4VibiakFo5Iv0lbkZCn3QktwQibBaGtJx99dkQ/640?wx_fmt=gif" style="width: 10%;"/>
+     </section>
+    </section>
+    <p style="max-width: 100%;min-height: 1em;white-space: pre-wrap;">
+     <span style="max-width: 100%;color: #7f7f7f;">
+      <strong style="max-width: 100%;">
+       <span style="max-width: 100%;font-size: 14px;">
+        附：
+       </span>
+      </strong>
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;white-space: pre-wrap;text-align: center;">
+     <span style="max-width: 100%;color: #7f7f7f;">
+      <strong style="max-width: 100%;">
+       <span style="max-width: 100%;font-size: 14px;">
+        华东师范大学社会发展学院硕士研究生招生目录
+       </span>
+      </strong>
+     </span>
+    </p>
+    <section class="_135editor" data-id="92653" data-tools="135编辑器" style="max-width: 100%;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section style="max-width: 100%;display: flex;justify-content: center;">
+      <section data-width="100%" style="max-width: 100%;width: 100%;">
+       <img class="" data-ratio="0.44583333333333336" data-type="jpeg" data-w="1200" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/HqfVjH48Ea9CUicIHiasHd5FrWpLBicA0tCTywzkletUHmx3qEhbibRpB8xAPmPicRXRdTq3uAR5kNWwN5VLjponO8A/640?wx_fmt=jpeg" style="vertical-align: top;border-width: 6px;border-style: solid;border-color: rgb(255, 255, 255);" title="1.JPG"/>
+       <img class="" data-ratio="0.12186978297161936" data-type="png" data-w="599" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/HqfVjH48Ea9CUicIHiasHd5FrWpLBicA0tCTae2rAwa3XUtEKFaqWobMYGw19ecgV8dIBR7EREA8Pusiczas9zPXMg/640?wx_fmt=png" style="width: 100%;"/>
+      </section>
+     </section>
+    </section>
+    <p style="max-width: 100%;min-height: 1em;white-space: pre-wrap;text-align: center;">
+     <span style="max-width: 100%;color: #7f7f7f;text-shadow: #95b3d7 2px 2px 10px;">
+      <strong style="max-width: 100%;">
+       <span style="max-width: 100%;font-size: 14px;">
+        （点击左下角【阅读原文】可进入华师大研招网查看）
+       </span>
+      </strong>
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;white-space: pre-wrap;text-align: center;">
+     <span style="color: rgb(255, 0, 0);font-size: 16px;">
+      <strong>
+       如有复试调剂等相关问题，欢迎大家进群交流！点击下方即可开启~
+      </strong>
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;white-space: pre-wrap;text-align: center;">
+     <span style="font-size: 16px;">
+      <strong>
+       <a data-itemshowtype="0" data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA3OTI4Njg2MA==&amp;mid=2649536954&amp;idx=1&amp;sn=39dfd2794f5f0bd58d3795a8fa2051c4&amp;chksm=87adde99b0da578f506d8fbaf1b88dd2e2eee7be70e0e32d21105fdbdc4cad8bf5a99d2f0f24&amp;scene=21#wechat_redirect" target="_blank">
+        2019华师大考研复试调剂交流群，欢迎加入！
+       </a>
+      </strong>
+     </span>
+    </p>
+    <section class="_135editor" data-id="93055" data-tools="135编辑器" style="max-width: 100%;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section class="_135editor" style="max-width: 100%;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <section style="margin: 0.1em auto 0em;max-width: 100%;text-align: center;color: #494a4a;">
+       <section style="max-width: 100%;display: inline-block;">
+        <section style="margin-bottom: -20px;max-width: 100%;font-size: 14px;">
+         ▼
+         <span class="135brush" data-brushtype="text" style="margin-right: 5px;margin-left: 5px;max-width: 100%;">
+          更多精彩，请长按二维码关注
+         </span>
+         ▼
+        </section>
+        <section style="max-width: 100%;width: 16em;">
+         <section style="margin-right: 16px;max-width: 100%;float: right;">
+          <section style="margin-bottom: -85px;max-width: 100%;width: 5em;display: inline-block;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-ms-transform: rotate(0deg);-o-transform: rotate(0deg);">
+           <img class="" data-ratio="1" data-type="jpeg" data-w="258" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/HqfVjH48Ea9CUicIHiasHd5FrWpLBicA0tCoKQskKicZNJEDEMmfmnevfem0icibanz4z4k3jH68QX5GFOiaUYic1wNbIw/640?wx_fmt=jpeg" style="display: block;width: 100%;" title="二维码.jpg"/>
+          </section>
+         </section>
+         <img class="" data-ratio="0.75" data-type="png" data-w="400" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/HqfVjH48Ea9CUicIHiasHd5FrWpLBicA0tCVQwicibP4CgwOTQrxtc9ZttL4UN2r8x1Lm9gPGCiaJ7CDW5qfbxzP8p3g/640?wx_fmt=png" style="width: 100%;display: block;"/>
+        </section>
+        <section style="max-width: 100%;clear: both;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

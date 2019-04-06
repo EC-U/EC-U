@@ -1,0 +1,245 @@
+
+ <section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;">
+  <section class="_135editor" data-id="92792" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section data-width="100%" style="width:100%;text-align:center;">
+    <section style="display:inline-block;">
+     <section class="135brush" data-brushtype="text" style="color: rgb(235, 103, 148);padding-right: 50px;padding-left: 50px;font-weight: bold;box-sizing: border-box;">
+      华师大考试科目
+     </section>
+     <section style="margin-top:-6px;height:30px;">
+      <section data-bgless="spin" data-bglessp="240" data-bgopacity="10%" style="width: 20px;height: 20px;border-radius: 100%;background: rgba(103, 147, 235, 0.9);opacity: 0.5;float: left;color: rgb(255, 255, 255);box-sizing: border-box;">
+      </section>
+      <section style="width: 15px;height: 15px;border-radius: 100%;background: rgb(235, 103, 148);opacity: 0.5;float: left;margin-top: 2px;margin-left: -10px;color: rgb(255, 255, 255);box-sizing: border-box;">
+      </section>
+      <section data-width="100%" style="float:left;width:100%;margin-left:-42px;">
+       <section style="padding-left: 23px;box-sizing: border-box;">
+        <section style="height: 11px;border-bottom: 1px dashed rgb(204, 204, 204);margin-left: 20px;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="_135editor" data-id="93640" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section style="padding: 5px;box-sizing: border-box;">
+    <section style="text-align: center;border-width: 1px;border-style: dashed;border-color: rgb(204, 204, 204);background: rgb(248, 248, 248);box-shadow: rgb(229, 229, 229) -1px 5px 7px;letter-spacing: 1.5px;padding: 1em;color: rgb(63, 62, 63);box-sizing: border-box;">
+     <section class="135brush" data-autoskip="1" style="text-align: justify;padding: 2px 0.8em;line-height: 1.75em;font-size: 14px;box-sizing: border-box;">
+      <p>
+       101思想政治理论
+      </p>
+      <p>
+       201英语一
+      </p>
+      <p>
+       398法硕联考专业基础（非法学）
+      </p>
+      <p>
+       498法硕联考综合（非法学）
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <p>
+    <br/>
+   </p>
+  </section>
+  <section class="_135editor" data-id="92792" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section data-width="100%" style="width:100%;text-align:center;">
+    <section style="display:inline-block;">
+     <section class="135brush" data-brushtype="text" style="color: rgb(235, 103, 148);padding-right: 50px;padding-left: 50px;font-weight: bold;box-sizing: border-box;">
+      考试范围
+     </section>
+     <section style="margin-top:-6px;height:30px;">
+      <section data-bgless="spin" data-bglessp="240" data-bgopacity="10%" style="width: 20px;height: 20px;border-radius: 100%;background: rgba(103, 147, 235, 0.9);opacity: 0.5;float: left;color: rgb(255, 255, 255);box-sizing: border-box;">
+      </section>
+      <section style="width: 15px;height: 15px;border-radius: 100%;background: rgb(235, 103, 148);opacity: 0.5;float: left;margin-top: 2px;margin-left: -10px;color: rgb(255, 255, 255);box-sizing: border-box;">
+      </section>
+      <section data-width="100%" style="float:left;width:100%;margin-left:-42px;">
+       <section style="padding-left: 23px;box-sizing: border-box;">
+        <section style="height: 11px;border-bottom: 1px dashed rgb(204, 204, 204);margin-left: 20px;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="_135editor" data-id="93640" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section style="padding: 5px;box-sizing: border-box;">
+    <section style="text-align: center;border-width: 1px;border-style: dashed;border-color: rgb(204, 204, 204);background: rgb(248, 248, 248);box-shadow: rgb(229, 229, 229) -1px 5px 7px;letter-spacing: 1.5px;padding: 1em;color: rgb(63, 62, 63);box-sizing: border-box;">
+     <section class="135brush" data-autoskip="1" style="text-align: justify;padding: 2px 0.8em;line-height: 1.75em;font-size: 14px;box-sizing: border-box;">
+      <p>
+       初试范围：教育部统一命题，参见教育部考试中心编制的考试大纲。
+      </p>
+      <p>
+       复试范围：
+      </p>
+      <p>
+       1.法律综合素质及学习计划（笔试）;  2.法律综合知识（口试）;3.外语听力、口语测试。
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <p>
+    <br/>
+   </p>
+  </section>
+  <section class="_135editor" data-id="92792" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section data-width="100%" style="width:100%;text-align:center;">
+    <section style="display:inline-block;">
+     <section class="135brush" data-brushtype="text" style="color: rgb(235, 103, 148);padding-right: 50px;padding-left: 50px;font-weight: bold;box-sizing: border-box;">
+      备考经验
+     </section>
+     <section style="margin-top:-6px;height:30px;">
+      <section data-bgless="spin" data-bglessp="240" data-bgopacity="10%" style="width: 20px;height: 20px;border-radius: 100%;background: rgba(103, 147, 235, 0.9);opacity: 0.5;float: left;color: rgb(255, 255, 255);box-sizing: border-box;">
+      </section>
+      <section style="width: 15px;height: 15px;border-radius: 100%;background: rgb(235, 103, 148);opacity: 0.5;float: left;margin-top: 2px;margin-left: -10px;color: rgb(255, 255, 255);box-sizing: border-box;">
+      </section>
+      <section data-width="100%" style="float:left;width:100%;margin-left:-42px;">
+       <section style="padding-left: 23px;box-sizing: border-box;">
+        <section style="height: 11px;border-bottom: 1px dashed rgb(204, 204, 204);margin-left: 20px;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section class="_135editor" data-color="#374aae" data-custom="#374aae" data-id="87856" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section style="margin-top: 1em;margin-bottom: 1em;font-size: 14px;line-height: 20px;text-align: left;clear: both;">
+     <section class="autonum" data-original-title="" style="display: inline-block;padding: 5px 10px;color: rgb(255, 255, 255);font-weight: bold;border-top-left-radius: 3px;border-bottom-left-radius: 3px;background-color: rgb(55, 74, 174);box-sizing: border-box;" title="">
+      1
+     </section>
+     <section class="135brush" data-bgless="lighten" data-bglessp="20%" data-brushtype="text" style="display: inline-block;padding: 5px 10px;color: rgb(255, 255, 255);font-weight: bold;border-top-right-radius: 3px;border-bottom-right-radius: 3px;background-color: rgb(119, 134, 212);box-sizing: border-box;">
+      刑法
+     </section>
+    </section>
+   </section>
+   <p style="text-indent: 2em;">
+    <span style="font-size: 14px;">
+     整个刑法分为总则和分则，前期的复习的用书主要是考试指南，大纲配套练习，重要发条练习，前后把指南的专业课部分我看了2遍，第一遍我是带着录音的，第二遍我开始做配套练习，刚刚开始错的很多，一些概念不理解，有时候今天看明天忘记，很苦恼很纠结，渐渐地题目做多了也觉得好了，后来学姐推荐我在看分则的时候买本案例分析书看，于是我这样做了，借着案例分析，我对分则也有了个系统的认识，经常在录音里听老师说重点罪名，我都在笔记本上写了下来，后来考试的时候也基本都在里面的，所以刑法的复习的话，我个人认为，把录音听完后，多做案例 多看书，多想想，分则部分注意区别一些混淆罪名的情形。
+    </span>
+   </p>
+   <p style="text-indent: 2em;">
+    <br/>
+   </p>
+   <section class="_135editor" data-color="#374aae" data-custom="#374aae" data-id="87856" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section style="margin-top: 1em;margin-bottom: 1em;font-size: 14px;line-height: 20px;text-align: left;clear: both;">
+     <section class="autonum" data-num="2" data-original-title="" style="display: inline-block;padding: 5px 10px;color: rgb(255, 255, 255);font-weight: bold;border-top-left-radius: 3px;border-bottom-left-radius: 3px;background-color: rgb(55, 74, 174);box-sizing: border-box;" title="">
+      2
+     </section>
+     <section class="135brush" data-bgless="lighten" data-bglessp="20%" data-brushtype="text" style="display: inline-block;padding: 5px 10px;color: rgb(255, 255, 255);font-weight: bold;border-top-right-radius: 3px;border-bottom-right-radius: 3px;background-color: rgb(119, 134, 212);box-sizing: border-box;">
+      民法
+     </section>
+    </section>
+   </section>
+   <p style="text-indent: 2em;">
+    <span style="font-size: 14px;">
+     民法的知识点的特点就是多和杂，刚刚开始复习可能都令不清重点，这很正常，因为民法就是关于老百姓的那些事，呵呵，同样的我也是带着录音过完了一遍，在做配套练习的时候我发现基本概念题蛮多的，所以我特别重视民法的一些细微的知识点，重点的话从物权往后吧，一直到侵权责任这章，重点比如用益物权，担保物权等等，必须搞懂，就算搞不懂后期背也要背下来！！民法的话，建议可以多看看讲义，因为讲义的话是老师把重点整理出来了，差不多到6月份之前可以看看讲义，在做题目的时候发现不会的可以侃侃讲义，一般都会凸显出来，当然这是我自己那时候的办法，民法部分我个人建议至少里里外外把考试分析看三遍！！！！
+    </span>
+   </p>
+   <section class="_135editor" data-color="#374aae" data-custom="#374aae" data-id="87856" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section style="margin-top: 1em;margin-bottom: 1em;font-size: 14px;line-height: 20px;text-align: left;clear: both;">
+     <section class="autonum" data-num="3" data-original-title="" style="display: inline-block;padding: 5px 10px;color: rgb(255, 255, 255);font-weight: bold;border-top-left-radius: 3px;border-bottom-left-radius: 3px;background-color: rgb(55, 74, 174);box-sizing: border-box;" title="">
+      3
+     </section>
+     <section class="135brush" data-bgless="lighten" data-bglessp="20%" data-brushtype="text" style="display: inline-block;padding: 5px 10px;color: rgb(255, 255, 255);font-weight: bold;border-top-right-radius: 3px;border-bottom-right-radius: 3px;background-color: rgb(119, 134, 212);box-sizing: border-box;">
+      专业课
+     </section>
+    </section>
+   </section>
+   <p style="text-indent: 2em;">
+    <span style="font-size: 14px;">
+     我从7月份开始复习的，但是我在5月份简单的看了下法理学，实在觉得枯燥没意思一直拖着不看，所以到现在才复习，其实不晚的，因为综合课基本都是记忆的东西，历年的真题的选择题也好简答论述也好，也都是围绕分析出题目的，所以把重点放在考试分析上，我复习的话顺序是按照书的顺序的，看完一遍了，发现法理最枯燥，记忆的东西多，小的知识点特别多都是出选择题的地方，宪法的话其实很熟悉的后期就是背，法制史考试特点是考1的细微，大题目一般都是唐朝，前面的选择题出的比较多，但是因为小的知识点特别多所以看的时候记忆的时候是要花时间的。
+    </span>
+   </p>
+   <section class="_135editor" data-id="image-95128" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <p style="text-align:center;">
+     <img class="" data-ratio="0.662613981762918" data-type="jpeg" data-w="658" src="https://mmbiz.qpic.cn/mmbiz_jpg/HqfVjH48Ea95mBeCW4kHBd9UV3AX6XH39o4eNKIFHItnQv9Y0g9TrszhyjcicI6tTuFulibN0076qJY1woekWYQQ/640?wx_fmt=jpeg" title="公寓，窗台，窗户，室内植物，盆栽，书堆，防火逃生，窗帘，黑暗，窗座，电影，纽约"/>
+    </p>
+   </section>
+   <p style="text-indent: 2em;">
+    <br/>
+   </p>
+   <section class="_135editor" data-id="92792" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section data-width="100%" style="width:100%;text-align:center;">
+     <section style="display:inline-block;">
+      <section class="135brush" data-brushtype="text" style="color: rgb(235, 103, 148);padding-right: 50px;padding-left: 50px;font-weight: bold;box-sizing: border-box;">
+       其他建议
+      </section>
+      <section style="margin-top:-6px;height:30px;">
+       <section data-bgless="spin" data-bglessp="240" data-bgopacity="10%" style="width: 20px;height: 20px;border-radius: 100%;background: rgba(103, 147, 235, 0.9);opacity: 0.5;float: left;color: rgb(255, 255, 255);box-sizing: border-box;">
+       </section>
+       <section style="width: 15px;height: 15px;border-radius: 100%;background: rgb(235, 103, 148);opacity: 0.5;float: left;margin-top: 2px;margin-left: -10px;color: rgb(255, 255, 255);box-sizing: border-box;">
+       </section>
+       <section data-width="100%" style="float:left;width:100%;margin-left:-42px;">
+        <section style="padding-left: 23px;box-sizing: border-box;">
+         <section style="height: 11px;border-bottom: 1px dashed rgb(204, 204, 204);margin-left: 20px;box-sizing: border-box;">
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <section class="_135editor" data-color="#374aae" data-custom="#374aae" data-id="87856" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section style="margin-top: 1em;margin-bottom: 1em;font-size: 14px;line-height: 20px;text-align: left;clear: both;">
+     <section class="autonum" style="display: inline-block;padding: 5px 10px;color: rgb(255, 255, 255);font-weight: bold;border-top-left-radius: 3px;border-bottom-left-radius: 3px;background-color: rgb(55, 74, 174);box-sizing: border-box;">
+      1
+     </section>
+     <section class="135brush" data-bgless="lighten" data-bglessp="20%" data-brushtype="text" style="display: inline-block;padding: 5px 10px;color: rgb(255, 255, 255);font-weight: bold;border-top-right-radius: 3px;border-bottom-right-radius: 3px;background-color: rgb(119, 134, 212);box-sizing: border-box;">
+      用书建议
+     </section>
+    </section>
+   </section>
+   <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      考试指南 考试分析，历年真题 经典案例分析，配套练习，重要法条，标准化题库，最后五套题等。
+     </span>
+    </p>
+    <section class="_135editor" data-color="#374aae" data-custom="#374aae" data-id="87856" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section style="margin-top: 1em;margin-bottom: 1em;font-size: 14px;line-height: 20px;text-align: left;clear: both;">
+      <section class="autonum" data-num="2" style="display: inline-block;padding: 5px 10px;color: rgb(255, 255, 255);font-weight: bold;border-top-left-radius: 3px;border-bottom-left-radius: 3px;background-color: rgb(55, 74, 174);box-sizing: border-box;">
+       2
+      </section>
+      <section class="135brush" data-bgless="lighten" data-bglessp="20%" data-brushtype="text" style="display: inline-block;padding: 5px 10px;color: rgb(255, 255, 255);font-weight: bold;border-top-right-radius: 3px;border-bottom-right-radius: 3px;background-color: rgb(119, 134, 212);box-sizing: border-box;">
+       背书建议
+      </section>
+     </section>
+    </section>
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      因为我自己复习的时间是比较充足的，整个大三下学期我都不上课的，所以我背书的时间开始的比较早，是在7月25那天开始背的，刑民我花了一个月背完了，也是整体背过一遍，背的是考试分析，刑法分则部分主要是背一些构成四要件，总则里一些概念，情形等等，民法的话就是比较痛苦了，重点背的是第九章往后，物权开始，当然背第一遍不是要追求全部记住，只是对考试分析有个掌握了，后来做题目的时候就会发现效果了，到了9月份开学，我开始背综合课了，那个痛苦啊，法理学内容多，知识点多，我白天会看过，到了下午或者晚上我会读一遍，让自己有个映象。背第一遍法理学和宪法我花了一个月，差不多到9月份了吧，一个月中把题目做完了，书背了一遍，法制史的话就是每天看大概一个小时，重复记忆因为小的知识点太多了，当然九月份里我还是继续背刑法民法的一些重要知识点的，因为没有课所以基本上都在看书。
+     </span>
+    </p>
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      综合课的分数高低很大部分取决你背书的程度，背的越熟练越细微你的分数肯定不会差到哪里去的，我拿到考试试卷的时候我一看基本都背过，因为书写自己知道有问题所以也吃亏了不少，卷面都是斜的~整个背书的过程我是冲刺在十一月份，基本每天背法硕的书我都花到8个小时，这是最少的，有时候要10个小时，因为我知道自己英语不好最多国家线，后来果然也不出我所料，我把重点压在专业课上了，十一月份背书说实话很辛苦，到了十二月份基本上对分析已经很熟悉了，一直坚持到最后一刻就好了。
+     </span>
+    </p>
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      所以法硕专业课的分数的高低真的是靠自己努力出来的，你的付出和你的收获成正比！
+     </span>
+    </p>
+    <section class="_135editor" data-id="image-95129" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <p style="text-align:center;">
+      <img class="" data-ratio="0.6580547112462006" data-type="jpeg" data-w="658" src="https://mmbiz.qpic.cn/mmbiz_jpg/HqfVjH48Ea95mBeCW4kHBd9UV3AX6XH3cvXMpiaHmmYSVB9Fq9sG3UYnJufdN6D3csic0s92GKz3Yw6EAPx5x16Q/640?wx_fmt=jpeg" title="装满大量书本的房间"/>
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="text-align: center;">
+  <img class="" data-copyright="0" data-ratio="0.6041666666666666" data-s="300,640" data-type="jpeg" data-w="480" src="https://mmbiz.qpic.cn/mmbiz_jpg/HqfVjH48Ea9x26JJRku7MRCOB4gPOVWCFWfqNCzUArUkmRVn2nTMiaic3aMeJFHmVvbs3nfrKx7lltHY1EhQD6dQ/640?wx_fmt=jpeg" style=""/>
+ </p>
+ <p>
+  <br/>
+ </p>

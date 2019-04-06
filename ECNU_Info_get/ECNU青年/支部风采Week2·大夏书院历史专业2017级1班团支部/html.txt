@@ -1,0 +1,658 @@
+
+ <section class="xmteditor" data-label="powered by xmt.cn" data-tools="新媒体管家" style="display:none;">
+ </section>
+ <section class="_135editor" data-id="92944" data-tools="135编辑器" style="font-size: 16px;text-align: center;white-space: normal;font-family: 微软雅黑;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+  <section class="_135editor" data-width="81%" style="margin-right: auto;margin-left: auto;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;width: 450.354px;">
+   <section class="_135editor" data-id="94095" data-tools="135编辑器" style='border-width: 0px;border-style: none;border-color: initial;background-image: url("https://mmbiz.qpic.cn/mmbiz_gif/hOWxIuT5SrGOQgEErBko2yWnUC6e9DEbtRqVoluKvj7LThqGMUNlL4IDClaxTkvkL8QEO9YNBAibAl1XQyibbVpQ/640?wx_fmt=gif");background-repeat: repeat;box-sizing: border-box;'>
+    <section style="background: rgb(247, 247, 247);">
+     <section style='background: url("https://mmbiz.qpic.cn/mmbiz_png/hOWxIuT5SrGOQgEErBko2yWnUC6e9DEbC2uia4frnMVnUcrXicVRIqSwmuialWJk1OYlm5Ixq8EYfjpug3ibT6NkjA/640?wx_fmt=png") center top / 100% no-repeat;'>
+      <section style='background: url("https://mmbiz.qpic.cn/mmbiz_png/hOWxIuT5SrGOQgEErBko2yWnUC6e9DEbC2uia4frnMVnUcrXicVRIqSwmuialWJk1OYlm5Ixq8EYfjpug3ibT6NkjA/640?wx_fmt=png") center bottom / 100% no-repeat;'>
+       <section class="135brush" data-autoskip="1" style="padding: 1em;font-size: 14px;text-align: justify;letter-spacing: 1.5px;line-height: 1.75em;color: rgb(63, 62, 63);box-sizing: border-box;">
+        <p style="margin-right: 10px;margin-left: 10px;text-align: center;line-height: 24px;">
+         <span style="font-family: PingFangTC-Light;text-indent: 32px;background-color: initial;">
+          <br/>
+         </span>
+        </p>
+        <p style="margin-right: 10px;margin-left: 10px;text-align: center;line-height: 24px;">
+         <span style="font-family: PingFangTC-Light;text-indent: 32px;background-color: initial;">
+          暖意洋洋风和日丽
+         </span>
+        </p>
+        <p style="margin-right: 10px;margin-left: 10px;text-align: center;line-height: 24px;">
+         <span style="font-family: PingFangTC-Light;text-indent: 32px;background-color: initial;">
+          引春风轻拂岸柳
+         </span>
+        </p>
+        <p style="margin-right: 10px;margin-left: 10px;text-align: center;line-height: 24px;">
+         <span style="font-family: PingFangTC-Light;text-indent: 32px;background-color: initial;">
+          学子莘莘昂扬斗志
+         </span>
+        </p>
+        <p style="text-align: center;">
+         <span style="line-height: 21px;font-family: PingFangTC-Light;">
+          追梦之心永不散
+         </span>
+        </p>
+        <p style="margin-right: 10px;margin-left: 10px;line-height: 24px;">
+         <br/>
+        </p>
+        <section class="_135editor" data-id="91926" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <section style="text-align: center;">
+          <p style="display: inline-block;width: 90px;">
+           <img class="_135editor" data-ratio="0.7818181818181819" data-type="gif" data-w="110" src="https://mmbiz.qpic.cn/mmbiz_gif/hOWxIuT5SrGOQgEErBko2yWnUC6e9DEbYzHYEgjbR6tHS3BBvMR0KnJdIHEOBSY6UlV6vNqeN7OQCdaREjsmdA/640?wx_fmt=gif" style="width: 90px;border-width: 0px;border-style: none;border-color: initial;" title="gif动态小房子分割线"/>
+          </p>
+         </section>
+         <section style="text-align: center;">
+          <p style="display: inline-block;width: 90px;">
+           <br/>
+          </p>
+         </section>
+        </section>
+        <p style="margin-right: 10px;margin-left: 10px;text-align: center;line-height: 24px;">
+         <span style="font-family: PingFangTC-Light;text-indent: 32px;background-color: initial;">
+          新时代中国歌奏响
+         </span>
+        </p>
+        <p style="text-align: center;">
+         <span style="line-height: 21px;font-family: PingFangTC-Light;">
+          华师学子步履坚定  欲展鸿鹄之志
+         </span>
+        </p>
+        <p style="text-align: center;">
+         <span style="line-height: 21px;font-family: PingFangTC-Light;">
+          <br/>
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <p style="margin-right: 10px;margin-left: 10px;line-height: 24px;">
+    <br/>
+   </p>
+  </section>
+ </section>
+ <section class="_135editor" data-role="paragraph" style="font-size: 16px;text-align: center;white-space: normal;font-family: 微软雅黑;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+  <p style="margin-right: 10px;margin-left: 10px;width: 556px;">
+   <br/>
+  </p>
+  <section class="135brush" data-brushtype="text" style='padding-right: 15px;padding-left: 15px;display: inline-block;border-width: 5px;border-style: solid;-webkit-border-image: url("https://mmbiz.qpic.cn/mmbiz_png/fgnkxfGnnkQkLJv64s12hZPl6lWeKCQaVOcT5S49HTkB6FiceFAuTRUqf40EB2PCZ4bicQQ7Ur6ymQgUSJrT5qEw/640?wx_fmt=png") 15 fill;box-sizing: border-box;'>
+   <span style="font-family: PingFangTC-Light;">
+    <strong>
+     <span style="font-size: 15px;">
+      本周的升旗团支部
+     </span>
+    </strong>
+   </span>
+  </section>
+  <p>
+   <br/>
+  </p>
+  <p style="margin-right: 10px;margin-left: 10px;line-height: 24px;">
+   <span style="font-size: 15px;font-family: PingFangTC-Light;">
+    <strong>
+     <span style="font-size: 15px;font-family: PingFangTC-Light;line-height: 22.5px;">
+      大夏书院历史专业2017级1班团支部
+     </span>
+    </strong>
+   </span>
+  </p>
+  <p>
+   <br/>
+  </p>
+  <p style="margin-right: 10px;margin-left: 10px;text-align: justify;">
+   <span style="font-family: PingFangTC-Light;font-size: 14px;text-align: left;">
+    历史系2017级第一团支部是一个兼具历史与师范性质的支部，既有历史研究者的人文关怀和独特视野，又有预备教育者应有的基本素养。从课程学习到现场教学，从养老院志愿活动到博物馆参观，本支部开展的活动将历史与师范相结合，力求创造一个严肃又不失活泼的支部氛围。
+   </span>
+   <br/>
+  </p>
+ </section>
+ <section class="_135editor" data-role="paragraph" style="font-size: 16px;text-align: center;white-space: normal;font-family: 微软雅黑;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+  <p>
+   <br/>
+  </p>
+ </section>
+ <section class="_135editor" data-role="paragraph" data-width="80%" style="margin-right: auto;margin-left: auto;font-size: 16px;text-align: center;white-space: normal;font-family: 微软雅黑;border-width: 0px;border-style: none;border-color: initial;width: 444.792px;box-sizing: border-box;">
+  <p style="margin-right: 10px;margin-left: 10px;">
+   <img class="" data-copyright="0" data-cropselx1="0" data-cropselx2="425" data-cropsely1="0" data-cropsely2="283" data-ratio="0.75" data-type="jpeg" data-w="960" src="https://mmbiz.qpic.cn/mmbiz_jpg/hOWxIuT5SrF7dxbSHPJ9w8Uq9NFSTpjz6hkq5lK9a7DR8iaz4Hufib2Py1ETF7csMThkxHnAhf2KsN9d2ziaOqvbg/640?wx_fmt=jpeg" style="width: 425px;height: 319px;"/>
+  </p>
+ </section>
+ <section class="_135editor" data-role="paragraph" style="text-align: center;white-space: normal;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+  <section class="_135editor" data-id="90666" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <p style="font-family: 微软雅黑;font-size: 16px;margin-right: 10px;margin-left: 10px;width: 556px;">
+    <br/>
+   </p>
+   <section class="135brush" data-brushtype="text" style='font-family: 微软雅黑;font-size: 16px;padding-right: 15px;padding-left: 15px;display: inline-block;border-width: 5px;border-style: solid;-webkit-border-image: url("https://mmbiz.qpic.cn/mmbiz_png/fgnkxfGnnkQkLJv64s12hZPl6lWeKCQaVOcT5S49HTkB6FiceFAuTRUqf40EB2PCZ4bicQQ7Ur6ymQgUSJrT5qEw/640?wx_fmt=png") 15 fill;box-sizing: border-box;'>
+    <span style="font-family: PingFangTC-Light;">
+     <strong>
+      <span style="font-size: 15px;">
+       本周升旗手
+      </span>
+     </strong>
+    </span>
+   </section>
+   <p style="font-family: 微软雅黑;font-size: 16px;">
+    <br/>
+   </p>
+   <p style="margin-right: 10px;margin-left: 10px;line-height: 24px;">
+    <span style="font-family:PingFangTC-Light;">
+     <span style="font-size: 15px;">
+      <strong>
+       2017级
+      </strong>
+     </span>
+    </span>
+   </p>
+   <p style="margin-right: 10px;margin-left: 10px;line-height: 24px;">
+    <span style="font-family:PingFangTC-Light;">
+     <span style="font-size: 15px;">
+      <strong>
+       大夏书院历史专业
+      </strong>
+     </span>
+    </span>
+   </p>
+   <p style="margin-right: 10px;margin-left: 10px;">
+    <span style="font-family:PingFangTC-Light;">
+     <span style="font-size: 15px;">
+      <strong>
+       李佳
+      </strong>
+     </span>
+    </span>
+   </p>
+  </section>
+  <p style="text-align: center;">
+   <img class="" data-ratio="0.6755952380952381" data-s="300,640" data-type="png" data-w="336" src="https://mmbiz.qpic.cn/mmbiz_png/hOWxIuT5SrF7dxbSHPJ9w8Uq9NFSTpjzVNyy5qUlbKKymW1rbFU2zx1tx78L3olTYHbZwRoup9ZGu84zUmR1NA/640?wx_fmt=png" style=""/>
+  </p>
+  <p style="font-family: 微软雅黑;font-size: 16px;">
+   <br/>
+  </p>
+ </section>
+ <section class="_135editor" data-role="paragraph" style="font-size: 16px;text-align: center;white-space: normal;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+  <p style="margin-right: 10px;margin-left: 10px;text-align: justify;">
+   <span style="font-size: 14px;font-family: PingFangTC-Light;">
+    <strong>
+     自我介绍
+    </strong>
+    <strong>
+     ：
+    </strong>
+   </span>
+   <span style="font-family: PingFangTC-Light;font-size: 14px;">
+    大家好，我是华东师范大学大夏书院历史专业2017级学生李佳。
+   </span>
+  </p>
+  <p style="margin-right: 10px;margin-left: 10px;text-align: justify;">
+   <br/>
+  </p>
+  <p style="margin-right: 10px;margin-left: 10px;text-align: justify;">
+   <span style="font-size: 14px;font-family: PingFangTC-Light;">
+    <strong>
+     升旗感悟：
+    </strong>
+   </span>
+   <span style="font-family: PingFangTC-Light;font-size: 14px;text-indent: 32px;caret-color: red;">
+    看着缓缓上升的国旗，我想起了中国往昔的峥嵘岁月，在庄严肃穆的气氛下，我感到了一种历史的使命感，我为生在这个和平开放的年代感到幸运，但也希望自己能够居安思危，努力找寻并实现自己生命的价值。
+   </span>
+  </p>
+  <p style="margin-right: 10px;margin-left: 10px;text-align: justify;">
+   <br/>
+  </p>
+  <p style="margin-right: 10px;margin-left: 10px;text-align: justify;">
+   <span style="font-size: 14px;font-family: PingFangTC-Light;">
+    <strong>
+     人生格言：
+    </strong>
+   </span>
+   <span style="font-family: PingFangTC-Light;font-size: 14px;">
+    无论如何，人生是美丽的。
+   </span>
+  </p>
+  <p>
+   <br/>
+  </p>
+ </section>
+ <section class="_135editor" data-role="paragraph" style="text-align: center;white-space: normal;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+  <p style="font-family: 微软雅黑;font-size: 16px;margin-right: 10px;margin-left: 10px;line-height: 24px;">
+   <span style="font-size: 15px;">
+    <strong>
+     <span style="line-height: 22.5px;font-family: PingFangTC-Light;">
+      2017级
+     </span>
+    </strong>
+   </span>
+  </p>
+  <p style="margin-right: 10px;margin-left: 10px;line-height: 24px;">
+   <span style="font-family:PingFangTC-Light;">
+    <span style="font-size: 15px;">
+     <strong>
+      大夏书院历史专业
+     </strong>
+    </span>
+   </span>
+  </p>
+  <p style="margin-right: 10px;margin-left: 10px;line-height: 24px;">
+   <span style="font-family:PingFangTC-Light;">
+    <span style="font-size: 15px;">
+     <strong>
+      赵睿爽
+     </strong>
+    </span>
+   </span>
+  </p>
+  <p style="text-align: center;">
+   <img class="" data-ratio="0.7558823529411764" data-s="300,640" data-type="png" data-w="340" src="https://mmbiz.qpic.cn/mmbiz_png/hOWxIuT5SrF7dxbSHPJ9w8Uq9NFSTpjzY0qXTHHTPfTWNp6RTMuiaMA4EL9xoxVRth7YGSa62FG6zwUvnheib9hQ/640?wx_fmt=png" style=""/>
+  </p>
+  <p style="font-family: 微软雅黑;font-size: 16px;margin-right: 10px;margin-left: 10px;line-height: 24px;">
+   <br/>
+  </p>
+ </section>
+ <section class="_135editor" data-role="paragraph" style="font-size: 16px;text-align: center;white-space: normal;font-family: 微软雅黑;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+  <p style="margin-right: 10px;margin-left: 10px;text-align: justify;">
+   <span style="font-size: 14px;font-family: PingFangTC-Light;">
+    <strong>
+     自我介绍：
+    </strong>
+   </span>
+   <span style="font-family: PingFangTC-Light;font-size: 14px;text-indent: 32px;caret-color: red;text-align: left;">
+    大家好，我是华东师范大学大夏书院历史专业2017级1班班长赵睿爽。
+   </span>
+  </p>
+  <p style="margin-right: 10px;margin-left: 10px;text-align: justify;">
+   <span style="font-family: PingFangTC-Light;font-size: 14px;text-indent: 32px;caret-color: red;text-align: left;">
+    <br/>
+   </span>
+  </p>
+  <p style="margin-right: 10px;margin-left: 10px;text-align: justify;">
+   <span style="font-family: PingFangTC-Light;font-size: 14px;text-indent: 32px;caret-color: red;text-align: left;">
+    <span style="font-size: 14px;font-family: PingFangTC-Light;">
+     <strong>
+      升旗感悟：
+     </strong>
+    </span>
+   </span>
+   <span style="font-family: PingFangTC-Light;font-size: 14px;text-align: left;text-indent: 32px;caret-color: red;">
+    我非常荣幸能够作为升旗手参与进行本周的升旗仪式。飘扬的五星红旗随着雄壮的国歌升起的那一刻，也将是我大学生活中难忘的一刻。
+   </span>
+  </p>
+  <p style="margin-right: 10px;margin-left: 10px;text-align: justify;">
+   <br/>
+  </p>
+  <p style="margin-right: 10px;margin-left: 10px;text-align: justify;">
+   <span style="caret-color: red;font-size: 14px;font-family: PingFangTC-Light;">
+    <strong>
+     人生格言：
+    </strong>
+   </span>
+   <span style="caret-color: red;font-family: PingFangTC-Light;font-size: 14px;">
+    不畏将来，不念过往。
+   </span>
+  </p>
+  <p style="margin-right: 10px;margin-left: 10px;text-align: justify;">
+   <span style="caret-color: red;font-family: PingFangTC-Light;font-size: 14px;">
+    <br/>
+   </span>
+  </p>
+ </section>
+ <section class="_135editor" data-role="paragraph" style="text-align: center;white-space: normal;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+  <p style="font-size: 16px;">
+   <br/>
+  </p>
+  <section class="_135editor" data-role="paragraph" style="white-space: normal;text-align: center;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <p style="font-size: 16px;margin-right: 10px;margin-left: 10px;font-family: 微软雅黑;line-height: 24px;">
+    <span style="font-size: 15px;">
+     <strong>
+      <span style="line-height: 22.5px;font-family: PingFangTC-Light;">
+      </span>
+     </strong>
+    </span>
+   </p>
+   <section class="135brush" data-brushtype="text" style='padding-right: 15px;padding-left: 15px;text-align: center;white-space: normal;font-family: 微软雅黑;font-size: 16px;display: inline-block;border-width: 5px;border-style: solid;-webkit-border-image: url("https://mmbiz.qpic.cn/mmbiz_png/fgnkxfGnnkQkLJv64s12hZPl6lWeKCQaVOcT5S49HTkB6FiceFAuTRUqf40EB2PCZ4bicQQ7Ur6ymQgUSJrT5qEw/640?wx_fmt=png") 15 fill;box-sizing: border-box;'>
+    <strong>
+     <span style="font-family: PingFangTC-Light;">
+      <strong>
+       <span style="font-size: 15px;">
+        本周升旗仪式的发言人
+       </span>
+      </strong>
+     </span>
+    </strong>
+   </section>
+   <p>
+    <br/>
+   </p>
+   <p style="font-size: 16px;margin-right: 10px;margin-left: 10px;font-family: 微软雅黑;line-height: 24px;">
+    <strong style="font-size: 15px;">
+     <span style="line-height: 22.5px;font-family: PingFangTC-Light;">
+      2017级
+     </span>
+    </strong>
+    <br/>
+   </p>
+   <p style="font-size: 16px;margin-right: 10px;margin-left: 10px;line-height: 24px;">
+    <span style="font-family: PingFangTC-Light;">
+     <span style="font-size: 15px;">
+      <strong>
+       大夏书院历史专业
+      </strong>
+     </span>
+    </span>
+   </p>
+   <p style="margin-right: 10px;margin-left: 10px;line-height: 24px;">
+    <span style="font-family:PingFangTC-Light;">
+     <span style="font-size: 15px;">
+      <strong>
+       陈黛婷
+      </strong>
+     </span>
+    </span>
+   </p>
+   <p style="text-align: center;">
+    <img class="" data-ratio="0.5632754342431762" data-s="300,640" data-type="png" data-w="403" src="https://mmbiz.qpic.cn/mmbiz_png/hOWxIuT5SrF7dxbSHPJ9w8Uq9NFSTpjzBD6Bg7fibTXELJTThT1rr5bcp2cfA6aia4w0CSuwqhWq2JgVXoRg7aiaA/640?wx_fmt=png" style=""/>
+   </p>
+  </section>
+  <section class="_135editor" data-role="paragraph" style="font-size: 16px;white-space: normal;text-align: center;font-family: 微软雅黑;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <p style="margin-right: 10px;margin-left: 10px;text-align: justify;">
+    <span style="font-size: 14px;font-family: PingFangTC-Light;">
+     <strong>
+      <br/>
+     </strong>
+    </span>
+   </p>
+   <p style="margin-right: 10px;margin-left: 10px;text-align: justify;">
+    <span style="font-size: 14px;font-family: PingFangTC-Light;">
+     <strong>
+      自我介绍：
+     </strong>
+    </span>
+    <span style="font-family: PingFangTC-Light;font-size: 14px;text-align: left;text-indent: 32px;caret-color: red;">
+     大家好，我是华东师范大学大夏书院历史专业2017级1班学习委员陈黛婷。
+    </span>
+   </p>
+  </section>
+  <section class="_135editor" data-role="paragraph" style="font-size: 16px;white-space: normal;text-align: center;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <p>
+    <br/>
+   </p>
+   <p>
+    <br/>
+   </p>
+  </section>
+  <p style="margin-right: 10px;margin-left: 10px;text-align: center;white-space: normal;font-size: 16px;font-family: 微软雅黑;line-height: 24px;">
+   <br/>
+  </p>
+  <section class="" data-brushtype="text" style='padding-right: 15px;padding-left: 15px;max-width: 100%;box-sizing: border-box;font-size: 16px;letter-spacing: 0.544px;text-align: center;white-space: normal;background-color: rgb(255, 255, 255);display: inline-block;border-width: 5px;border-style: solid;-webkit-border-image: url("https://mmbiz.qpic.cn/mmbiz_png/fgnkxfGnnkQkLJv64s12hZPl6lWeKCQaVOcT5S49HTkB6FiceFAuTRUqf40EB2PCZ4bicQQ7Ur6ymQgUSJrT5qEw/640?wx_fmt=png") 15 fill;overflow-wrap: break-word !important;'>
+   <p style="max-width: 100%;min-height: 1em;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    <span style="max-width: 100%;font-family: PingFangTC-Light;font-size: 15px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+     <strong style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+      《以责任人的姿态承担社会重担》
+     </strong>
+    </span>
+   </p>
+  </section>
+  <p>
+   <br/>
+  </p>
+ </section>
+ <section class="_135editor" data-role="paragraph" style="text-align: center;white-space: normal;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+  <p style="font-size: 16px;text-align: left;">
+   <span style="font-family: PingFangTC-Light;font-size: 14px;text-align: left;text-indent: 32px;caret-color: red;">
+    大家好，我是历史系2017级的陈黛婷，很荣幸能够站在国旗下进行演讲，今天我演讲的题目是：以责任人的姿态承担社会重担。
+    <br/>
+   </span>
+  </p>
+  <p style="font-size: 16px;text-align: left;">
+   <br/>
+  </p>
+ </section>
+ <section class="_135editor" data-role="paragraph" style="font-size: 16px;text-align: center;white-space: normal;font-family: 微软雅黑;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+  <p style="line-height: 150%;text-align: left;">
+   <span style="font-family: PingFangTC-Light;font-size: 14px;text-align: left;text-indent: 32px;caret-color: red;">
+    中国共产党第十九次全国代表大会于2017年10月18日-24日在北京召开，会议听取和审查了十八届中央委员会的报告，审查了十八届中央纪律检查委员会的工作报告，审议通过了《中国共产党章程（修正案）》，选举了十九届中央委员会，选举了十九届中央纪律检查委员会。中国共产党第十九次全国代表大会是在全面建成小康社会关键阶段、中国特色社会主义发展关键时期召开的一次十分重要的大会，对我国社会主义现代化发展具有重大意义。
+   </span>
+  </p>
+  <p style="line-height: 150%;text-align: left;">
+   <br/>
+  </p>
+  <p style="line-height: 150%;text-align: left;">
+   <span style="font-family: PingFangTC-Light;font-size: 14px;text-align: left;text-indent: 32px;caret-color: red;">
+    习近平总书记在报告中指出，中国过去五年有经济建设、全面深化改革、民主法治建设、思想文化建设、人民生活、生态文明、强军兴军、港澳台工作、全方位外交布局、全面从严治党等十大成绩，这些成绩是全方面的，同时提出了一个非常重要的概念：中国特色社会主义进入了新时代。而这个判断是非常重要的，因为它意味着中华民族迎来了从站起来、富起来到强起来的伟大飞跃；意味着科学社会主义在二十一世纪的中国焕发出新的活力，在世界上高高举起了中国特色社会主义伟大旗帜；意味着中国特色社会主义道路、理论、制度、文化不断发展，为解决人类问题贡献了中国智慧和中国方案。
+   </span>
+  </p>
+  <p style="line-height: 150%;text-align: left;">
+   <br/>
+  </p>
+  <p style="line-height: 150%;text-align: left;">
+   <span style="font-family: PingFangTC-Light;font-size: 14px;text-align: left;text-indent: 32px;caret-color: red;">
+    中国的发展和中国梦的实现一定不是凭空的，它需要每一个中国人的勤恳努力。作为新时代的大学生，我们一定不能放松对自己的要求，要以责任承担者的身份积极地去承担复兴中华民族的历史使命。为此，我们现在需要做的就是端正自己的一言一行，用党的理论知识去武装自己的头脑，为整个社会的发展贡献出自己的一份力！让我们抓住自己宝贵的青春时光，让时间去磨练自己，锻炼出更好的我们！
+   </span>
+  </p>
+  <p style="line-height: 150%;text-align: left;">
+   <br/>
+  </p>
+  <p style="text-align: left;">
+   <span style="font-family: PingFangTC-Light;font-size: 14px;text-align: left;text-indent: 32px;caret-color: red;">
+    谢谢大家！
+   </span>
+  </p>
+  <p style="margin-right: 10px;margin-left: 10px;line-height: 24px;text-align: justify;">
+   <br/>
+  </p>
+ </section>
+ <section class="_135editor" data-id="92673" data-tools="135编辑器" style="font-size: 16px;text-align: center;white-space: normal;font-family: 微软雅黑;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+  <section style="padding-right: 5px;padding-left: 5px;display: inline-block;width: auto;background-color: rgb(254, 254, 254);box-sizing: border-box;">
+   <img class="" data-ratio="1.1666666666666667" data-type="png" data-w="30" src="https://mmbiz.qpic.cn/mmbiz_png/hOWxIuT5SrGOQgEErBko2yWnUC6e9DEb4eV5SNlt8g3poZt6sELeHBLs4icpht8G0ZePAacudCXrgtyaicjZ7mvA/640?wx_fmt=png" style="display: block;width: 20px !important;"/>
+  </section>
+  <p>
+   <br/>
+  </p>
+  <section data-width="100%" style="width: 556px;border-top: 1px solid rgb(63, 62, 63);box-sizing: border-box;">
+   <br/>
+  </section>
+ </section>
+ <section class="_135editor" data-role="paragraph" style="font-size: 16px;text-align: center;white-space: normal;font-family: 微软雅黑;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+  <p style="margin-right: 10px;margin-left: 10px;text-align: center;">
+   <span style="font-family: PingFangTC-Light;font-size: 14px;text-indent: 32px;caret-color: red;text-align: left;">
+    春寒虽料峭，脚步行进终不停；
+   </span>
+  </p>
+  <p style="margin-right: 10px;margin-left: 10px;text-align: center;">
+   <span style="font-family: PingFangTC-Light;font-size: 14px;text-indent: 32px;caret-color: red;text-align: left;">
+    惜取少年时，求真求实需牢记。
+   </span>
+  </p>
+  <p style="margin-right: 10px;margin-left: 10px;text-align: center;">
+   <span style="font-family: PingFangTC-Light;font-size: 14px;text-indent: 32px;caret-color: red;text-align: left;">
+    全新的时代，需要我们去开创；
+   </span>
+  </p>
+  <p style="margin-right: 10px;margin-left: 10px;text-align: center;">
+   <span style="font-family: PingFangTC-Light;font-size: 14px;text-indent: 32px;caret-color: red;text-align: left;">
+    全新的中国梦，需要我们去实现。
+   </span>
+  </p>
+  <p style="margin-right: 10px;margin-left: 10px;text-align: center;">
+   <span style="font-family: PingFangTC-Light;font-size: 14px;text-indent: 32px;caret-color: red;text-align: left;">
+    力量攥在手，梦想在前头。
+   </span>
+  </p>
+  <p style="margin-right: 10px;margin-left: 10px;text-align: center;">
+   <span style="font-family: PingFangTC-Light;font-size: 14px;text-indent: 32px;caret-color: red;text-align: left;">
+    愿全新的一学期，
+   </span>
+  </p>
+  <p style="margin-right: 10px;margin-left: 10px;text-align: center;">
+   <span style="font-family: PingFangTC-Light;font-size: 14px;text-indent: 32px;caret-color: red;text-align: left;">
+    我们能以师表之操守严格要求自我,再创辉煌！
+   </span>
+   <br/>
+  </p>
+ </section>
+ <section class="_135editor" data-role="paragraph" style="font-size: 16px;text-align: center;white-space: normal;font-family: 微软雅黑;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+  <p style="margin-right: 10px;margin-left: 10px;text-align: right;">
+   <br/>
+  </p>
+ </section>
+ <section class="_135editor" data-role="paragraph" style="font-size: 16px;text-align: center;white-space: normal;font-family: 微软雅黑;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+  <section style="max-width: 100%;">
+   <section style="max-width: 100%;">
+    <section style="max-width: 100%;text-align: right;font-size: 12px;color: rgb(136, 136, 136);">
+     <p style="margin-right: 10px;margin-left: 10px;max-width: 100%;min-height: 1em;">
+      <span style="font-family: PingFangTC-Light;color: rgb(191, 191, 191);">
+       <span style="max-width: 100%;">
+        策划 | 校团委组织部
+       </span>
+      </span>
+     </p>
+     <p style="margin-right: 10px;margin-left: 10px;max-width: 100%;min-height: 1em;">
+      <span style="font-family: PingFangTC-Light;color: rgb(191, 191, 191);">
+       <span style="max-width: 100%;">
+        文案 | 王昊帅
+       </span>
+      </span>
+     </p>
+     <p style="margin-right: 10px;margin-left: 10px;max-width: 100%;min-height: 1em;">
+      <span style="font-family: PingFangTC-Light;color: rgb(191, 191, 191);">
+       <span style="max-width: 100%;">
+        排版 | 赵莹莹
+       </span>
+      </span>
+     </p>
+     <p style="margin-right: 10px;margin-left: 10px;max-width: 100%;min-height: 1em;">
+      <img class="" data-copyright="0" data-ratio="0.5555555555555556" data-type="gif" data-w="819" src="https://mmbiz.qpic.cn/mmbiz_gif/hOWxIuT5SrEhloshYqlMHKHtNCSFzDAxXNknutcTBGqBpibaVcZvDN2WFOuOicqMF64MDqmXvnao7NxRUS6YlDxA/640?wx_fmt=gif" style='text-align: center;font-size: 16px;color: rgb(51, 51, 51);font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;'/>
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="font-size: 16px;text-align: center;white-space: normal;">
+  <br/>
+ </p>
+ <section style="font-size: 16px;white-space: normal;max-width: 100%;box-sizing: border-box;letter-spacing: 0.544px;color: rgba(62, 62, 62, 0.74);font-family: Optima-Regular, PingFangTC-light;text-align: right;background-color: rgb(255, 255, 255);overflow-wrap: break-word !important;">
+  <section style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+   <section style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+    <section style="max-width: 100%;box-sizing: border-box;font-size: 12px;overflow-wrap: break-word !important;">
+     <section style="max-width: 100%;box-sizing: border-box;font-size: 16px;overflow-wrap: break-word !important;">
+      <section style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+       <section style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+        <section style="max-width: 100%;box-sizing: border-box;font-size: 12px;overflow-wrap: break-word !important;">
+         <section style="max-width: 100%;box-sizing: border-box;color: rgb(175, 175, 175);font-variant-numeric: normal;letter-spacing: 0.544px;widows: 1;font-size: 16px;overflow-wrap: break-word !important;">
+          <section style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+           <section style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+            <section style="max-width: 100%;box-sizing: border-box;font-size: 5px;overflow-wrap: break-word !important;">
+             <section style="max-width: 100%;box-sizing: border-box;color: rgba(62, 62, 62, 0.74);font-size: 16px;overflow-wrap: break-word !important;">
+              <section style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+               <section style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+                <section style="max-width: 100%;box-sizing: border-box;font-size: 12px;line-height: 1.6;color: rgb(214, 214, 214);letter-spacing: 0px;overflow-wrap: break-word !important;">
+                 <section data-role="paragraph" style="max-width: 677px;box-sizing: border-box;font-stretch: normal;line-height: 25.6px;font-family: -apple-system-font, BlinkMacSystemFont, Arial, sans-serif;border-width: 0px;border-style: none;border-color: rgb(178, 178, 178);color: rgb(178, 178, 178);letter-spacing: 0.54px;text-align: center;overflow-wrap: break-word !important;">
+                  <section style="margin-top: 14px;padding: 7px;max-width: 677px;box-sizing: border-box;border-width: 1px;border-style: solid;border-color: rgb(215, 215, 215);font-family: 微软雅黑;font-size: 14px;letter-spacing: 1px;line-height: 18.3px;overflow-wrap: break-word !important;">
+                   <p style="max-width: 661px;box-sizing: border-box;min-height: 14px;overflow-wrap: break-word !important;">
+                    <span style="max-width: 100%;box-sizing: border-box;color: rgb(136, 136, 136);font-size: 12px;font-weight: 700;overflow-wrap: break-word !important;">
+                     阅 读 更 多
+                    </span>
+                    <strong style="max-width: 100%;box-sizing: border-box;color: rgb(160, 160, 160);text-align: right;overflow-wrap: break-word !important;">
+                     <span style="max-width: 100%;box-sizing: border-box;border-width: 0px;border-style: none;border-color: rgb(120, 172, 254);bottom: auto;color: rgb(120, 172, 254);height: auto;left: auto;line-height: normal;max-height: none;min-height: 0px;min-width: 0px;top: auto;visibility: visible;z-index: auto;background-image: none;background-size: auto;background-clip: border-box;background-position: 0% 0%;background-repeat: repeat;overflow-wrap: break-word !important;">
+                     </span>
+                    </strong>
+                   </p>
+                   <p style="max-width: 661px;box-sizing: border-box;min-height: 14px;overflow-wrap: break-word !important;">
+                    <br style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;"/>
+                   </p>
+                   <p style="max-width: 661px;box-sizing: border-box;min-height: 14px;color: rgb(136, 136, 136);line-height: 24.5px;text-align: left;overflow-wrap: break-word !important;">
+                    <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA5MjgxOTQyNQ==&amp;mid=2650506915&amp;idx=1&amp;sn=e0fbbd7d65092b0a7c12f7d97f9d4993&amp;chksm=88687c2dbf1ff53bb8d65fa9ad2c926197c3698bbcdca10244da90a2b860f5fc10b3ebe22a67&amp;scene=21#wechat_redirect" style="color: rgb(87, 107, 149);-webkit-tap-highlight-color: rgba(0, 0, 0, 0);max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;" target="_blank">
+                     <span style="max-width: 100%;box-sizing: border-box;font-weight: 700;text-align: right;overflow-wrap: break-word !important;">
+                      <strong style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+                       <strong style="max-width: 100%;box-sizing: border-box;border-width: 0px;border-style: none;border-color: rgb(0, 0, 0);bottom: auto;display: inline;float: none;height: auto;left: auto;line-height: 18.3px;max-height: none;min-height: 0px;min-width: 0px;top: auto;visibility: visible;z-index: auto;background-image: none;background-size: auto;background-clip: border-box;background-position: 0% 0%;background-repeat: repeat;overflow-wrap: break-word !important;">
+                        ·
+                       </strong>
+                      </strong>
+                      <strong style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+                       <strong style="max-width: 100%;box-sizing: border-box;border-width: 0px;border-style: none;border-color: rgb(120, 172, 254);bottom: auto;display: inline;float: none;height: auto;left: auto;line-height: 18.3px;max-height: none;min-height: 0px;min-width: 0px;top: auto;visibility: visible;z-index: auto;background-image: none;background-size: auto;background-clip: border-box;background-position: 0% 0%;background-repeat: repeat;overflow-wrap: break-word !important;">
+                       </strong>
+                      </strong>
+                     </span>
+                    </a>
+                    <a data-itemshowtype="0" data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA5MjgxOTQyNQ==&amp;mid=2650507907&amp;idx=1&amp;sn=15e7f62ae03de3c6862b8eba594f6c90&amp;chksm=8868700dbf1ff91bff7597aa4d7c38f8ee65ab83d347e31b685bdf878b985acb94c2bf410ec9&amp;scene=21#wechat_redirect" target="_blank">
+                     这一份贴心的考证提醒，请收藏！
+                    </a>
+                   </p>
+                   <p style="max-width: 661px;box-sizing: border-box;min-height: 14px;color: rgb(136, 136, 136);line-height: 24.5px;text-align: left;overflow-wrap: break-word !important;">
+                    <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA5MjgxOTQyNQ==&amp;mid=2650506901&amp;idx=1&amp;sn=f7d3fbba0231b6ff922fc519388684ba&amp;chksm=88687c1bbf1ff50dcd70a6930048ff504fe69b534feb334ab1e04c208572f2ae34bed2ca7ede&amp;scene=21#wechat_redirect" style="color: rgb(87, 107, 149);-webkit-tap-highlight-color: rgba(0, 0, 0, 0);max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;" target="_blank">
+                     <span style="max-width: 100%;box-sizing: border-box;font-weight: 700;text-align: right;overflow-wrap: break-word !important;">
+                      <strong style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+                       <strong style="max-width: 100%;box-sizing: border-box;border-width: 0px;border-style: none;border-color: rgb(0, 0, 0);bottom: auto;display: inline;float: none;height: auto;left: auto;line-height: 18.3px;max-height: none;min-height: 0px;min-width: 0px;top: auto;visibility: visible;z-index: auto;background-image: none;background-size: auto;background-clip: border-box;background-position: 0% 0%;background-repeat: repeat;overflow-wrap: break-word !important;">
+                        ·
+                       </strong>
+                      </strong>
+                      <strong style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+                       <strong style="max-width: 100%;box-sizing: border-box;border-width: 0px;border-style: none;border-color: rgb(120, 172, 254);bottom: auto;display: inline;float: none;height: auto;left: auto;line-height: 18.3px;max-height: none;min-height: 0px;min-width: 0px;top: auto;visibility: visible;z-index: auto;background-image: none;background-size: auto;background-clip: border-box;background-position: 0% 0%;background-repeat: repeat;overflow-wrap: break-word !important;">
+                       </strong>
+                      </strong>
+                     </span>
+                    </a>
+                    <a data-itemshowtype="0" data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA5MjgxOTQyNQ==&amp;mid=2650507906&amp;idx=1&amp;sn=20e3e1a577ed107168f05f2ddf249a88&amp;chksm=8868700cbf1ff91a2e0a5ea38bdaaf3561ee2fef4366b61d9a28fcdfcf161f98bbc389e7856b&amp;scene=21#wechat_redirect" target="_blank">
+                     新学期招新 | 校团委宣传与网络工作部欢迎你的到来
+                    </a>
+                   </p>
+                   <p style="max-width: 661px;box-sizing: border-box;min-height: 14px;color: rgb(136, 136, 136);line-height: 24.5px;text-align: left;overflow-wrap: break-word !important;">
+                    <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA5MjgxOTQyNQ==&amp;mid=2650506901&amp;idx=2&amp;sn=1ac7d261209eb489db66496e493d1a0b&amp;chksm=88687c1bbf1ff50d870de0e2aad2739d3ab1bcbaca3e6fea91124997e7bf498cc39a2148d837&amp;scene=21#wechat_redirect" style="color: rgb(87, 107, 149);-webkit-tap-highlight-color: rgba(0, 0, 0, 0);max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;" target="_blank">
+                     <span style="max-width: 100%;box-sizing: border-box;font-weight: 700;text-align: right;overflow-wrap: break-word !important;">
+                      <strong style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+                       <strong style="max-width: 100%;box-sizing: border-box;border-width: 0px;border-style: none;border-color: rgb(0, 0, 0);bottom: auto;display: inline;float: none;height: auto;left: auto;line-height: 18.3px;max-height: none;min-height: 0px;min-width: 0px;top: auto;visibility: visible;z-index: auto;background-image: none;background-size: auto;background-clip: border-box;background-position: 0% 0%;background-repeat: repeat;overflow-wrap: break-word !important;">
+                        ·
+                       </strong>
+                      </strong>
+                      <strong style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+                       <strong style="max-width: 100%;box-sizing: border-box;border-width: 0px;border-style: none;border-color: rgb(120, 172, 254);bottom: auto;display: inline;float: none;height: auto;left: auto;line-height: 18.3px;max-height: none;min-height: 0px;min-width: 0px;top: auto;visibility: visible;z-index: auto;background-image: none;background-size: auto;background-clip: border-box;background-position: 0% 0%;background-repeat: repeat;overflow-wrap: break-word !important;">
+                       </strong>
+                      </strong>
+                     </span>
+                    </a>
+                    <a data-itemshowtype="0" data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA5MjgxOTQyNQ==&amp;mid=2650507896&amp;idx=1&amp;sn=4f019c7a2da2f240b7a1d443426364a8&amp;chksm=886870f6bf1ff9e0f3326612e4ee74f6a59dc881273a82f9200d4d8440f72ed2a6aff4a6f520&amp;scene=21#wechat_redirect" target="_blank">
+                     开学第一周，校园里等着你的除了可爱的朋友，还有....
+                    </a>
+                   </p>
+                   <p style="max-width: 661px;box-sizing: border-box;min-height: 14px;color: rgb(136, 136, 136);text-align: right;overflow-wrap: break-word !important;">
+                    <br style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;"/>
+                   </p>
+                   <p style="max-width: 661px;box-sizing: border-box;min-height: 14px;color: rgb(136, 136, 136);text-align: right;overflow-wrap: break-word !important;">
+                    <br style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;"/>
+                   </p>
+                   <p style="margin-bottom: 5px;max-width: 661px;box-sizing: border-box;min-height: 14px;color: rgb(160, 160, 160);overflow-wrap: break-word !important;">
+                    <span style="max-width: 100%;box-sizing: border-box;color: rgb(136, 136, 136);font-size: 12px;font-weight: 700;overflow-wrap: break-word !important;">
+                     关 键 词 回 复
+                    </span>
+                   </p>
+                   <p style="margin-right: 8px;margin-left: 8px;max-width: 661px;box-sizing: border-box;min-height: 14px;color: rgb(160, 160, 160);overflow-wrap: break-word !important;">
+                    <span style="max-width: 100%;box-sizing: border-box;color: rgb(177, 177, 177);font-size: 12px;overflow-wrap: break-word !important;">
+                     师大青年/科创/行知/志愿者/支部风采/师说/河边人/阅读/特工大队/校车/校历/小花吃/毕业季
+                    </span>
+                   </p>
+                   <p style="margin-top: 10px;margin-bottom: 5px;max-width: 661px;box-sizing: border-box;min-height: 14px;color: rgb(136, 136, 136);overflow-wrap: break-word !important;">
+                    <span style="max-width: 100%;box-sizing: border-box;font-size: 12px;overflow-wrap: break-word !important;">
+                     更 多 精 彩，关 注 菜 单
+                    </span>
+                   </p>
+                  </section>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

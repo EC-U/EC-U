@@ -1,0 +1,124 @@
+
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style='display: inline-block;width: 100%;vertical-align: top;background-position: 0% 0%;background-repeat: repeat;background-size: 64.8852%;background-attachment: scroll;letter-spacing: 0px;padding: 15px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/enJs1PkFMI9mpXIUp0ud8B0I1UxVFFfj4ibM5g6j2KbAJoeorFMpKNw655plBibN0aVMwZzWibLQHTyoiciah8Xibznw/640?wx_fmt=png");box-sizing: border-box;'>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+        <svg class="svg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;" viewbox="0 0 310.7 5.5" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+         <g style="box-sizing: border-box;">
+          <g style="box-sizing: border-box;">
+           <rect fill="#000000" height="1.1" style="box-sizing: border-box;" width="313.2" x="-1.2" y="1.7">
+           </rect>
+          </g>
+          <g style="box-sizing: border-box;">
+           <rect fill="#000000" height="3.4" style="box-sizing: border-box;" width="3.4" x="62.4" y="0.6">
+           </rect>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M32.6,2.3c0,0.9-0.8,1.7-1.7,1.7c-0.9,0-1.7-0.8-1.7-1.7s0.8-1.7,1.7-1.7C31.9,0.6,32.6,1.3,32.6,2.3z" fill="#000000" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <rect fill="#000000" height="4.6" style="box-sizing: border-box;" width="6.1" x="67.8">
+           </rect>
+          </g>
+          <g style="box-sizing: border-box;">
+           <polygon fill="#000000" points="312,2.3 312,5.5 301.8,5.5 298.6,2.4" style="box-sizing: border-box;">
+           </polygon>
+          </g>
+          <g style="box-sizing: border-box;">
+           <polygon fill="#000000" points="-1.2,2.3 -1.2,5.5 8.9,5.5 12.2,2.4" style="box-sizing: border-box;">
+           </polygon>
+          </g>
+         </g>
+        </svg>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;letter-spacing: 1px;box-sizing: border-box;">
+        <p style="text-indent: 2em;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         近日，华东师范大学哲学系在涵芬楼举行了经典原著导读活动。此次导读活动由华东师范大学哲学系副教授钟锦主讲，钟老师从问题出发，通过对问题的分析和解答，带领学生们对柏拉图的《会饮篇》进行了梳理。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0% -45px;transform: translate3d(10px, 0px, 0px);-webkit-transform: translate3d(10px, 0px, 0px);-moz-transform: translate3d(10px, 0px, 0px);-o-transform: translate3d(10px, 0px, 0px);box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 20%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="1" data-type="png" data-w="219" src="https://mmbiz.qpic.cn/mmbiz_png/qmsz1UMRB9lR9E53vNQUB2qnk2osPctA40CQwBEm3pSic92rL8cbicBWPZBiaxHDIRwkBKqmd9tLicXWj77ic0q8dWw/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: 8px 0% 18px;padding-left: 0.5em;padding-right: 0.5em;box-sizing: border-box;">
+       <section style="box-sizing: border-box;width: 100%;border-width: 4px;border-style: solid;border-color: white;box-shadow: rgb(102, 102, 102) 3.53553px 3.53553px 8px;display: inline-block;line-height: 0;height: auto !important;">
+        <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/5XON9K7S2JtMkE6h6XHhJ9tyHgn7QnKJHyLTwJPJmia9ycG3HS3VDribp8LrB0Sb8ERuia75ic4nI2c0eU8x1vGeOw/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;color: rgb(62, 62, 62);letter-spacing: 1px;box-sizing: border-box;">
+        <p style="text-indent: 2em;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         钟锦老师以道德意识的发展为线索，通过对三个问题的解析对《会饮篇》进行了解读。第一、君子之道费而隐。道德的超越性被明确发现以前，人人身处其中，却不能明白，正如在斐德罗和鲍萨尼亚对爱神的颂词中，德行被隐身在爱情中。第二、从矛盾到辩证法。从医生厄律克西马库对爱进行完全科学的解释，到阿里斯托芬把爱欲看作为人的感性欲望，进而到阿枷通则仅仅利用修辞学对爱神的赞颂。大家共有的道德意识走向了自己的反型。在此基础上对这种转变进行反思，属人的爱欲和属天的爱欲是对立统一的，从而揭示了爱欲的辩证法。第三、美是道德的象征。苏格拉底借助于精灵对自己行为的指导，把道德引向超越性。在超越性的道德和现实世界之间，人对道德世界的接近通过爱欲进行，爱欲即是对美的渴望，对善的理念的渴望。但是理念的世界与现实的世界是分离的，远离了世界的善如果没有进入到现实世界中，那么，理念的善就没有了用处，于是，通过阿尔基比亚德的赞词，苏格拉底成了善的理念在现实中的化身。
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: 0px 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/5XON9K7S2JtMkE6h6XHhJ9tyHgn7QnKJlibEZSIJGbicc5ZxKEa9hYurFhd5LF5TwJvtYekpOy8Uic8ORQgmbu3Qw/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;color: rgb(62, 62, 62);letter-spacing: 1px;box-sizing: border-box;">
+        <p style="text-indent: 2em;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="text-indent: 2em;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         最后，钟锦老师和同学们就大家的提问进行了详细的讨论，整个活动在热烈的讨论中顺利结束。
+        </p>
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.0828125" data-type="png?x-oss-process=style/xmorient" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/43HRicP47VQo81u6Dj5jETAVlW2UY44ayxdu2eMXbOSYJ0mC7JUibv6iaowKR7UjbWCQ5XzuE25hZccJgF3YONicaw/640?wx_fmt=png?x-oss-process=style/xmorient" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0.5em 0px;box-sizing: border-box;">
+       <section style="border-top: 1px dashed rgb(44, 90, 160);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="text-align: right;margin: 0px;padding: 0px;box-sizing: border-box;">
+         文/邓士银
+        </p>
+        <p style="text-align: right;margin: 0px;padding: 0px;box-sizing: border-box;">
+         图/禹英杰
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>

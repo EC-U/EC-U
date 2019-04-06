@@ -1,0 +1,388 @@
+
+ <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+  <section class="V5" style="background-image: none;box-sizing: border-box;">
+   <section style="margin: 10px 0%;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+    <section style='display: inline-block;width: 100%;vertical-align: top;background-image: url("https://mmbiz.qpic.cn/mmbiz_jpg/h0HYQYZ8oqdxKh3KsCfBZUBy1icKSK5icp0IoHCPPRfiaiaRxLr2jk8aXjhzUib84qicLamlXKcus0H3FMmudRwLJAYQ/640?wx_fmt=jpeg");background-position: 0% 0%;background-repeat: repeat;background-size: 64.8852% auto;background-attachment: scroll;letter-spacing: 0px;padding: 15px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;'>
+     <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="margin: 50px 0% 10px;background-image: none;box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="text-align: center;margin: 0px 0%;transform: translate3d(90px, 0px, 0px);-webkit-transform: translate3d(90px, 0px, 0px);-moz-transform: translate3d(90px, 0px, 0px);-o-transform: translate3d(90px, 0px, 0px);background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="display: inline-block;width: 160px;height: 200px;vertical-align: top;overflow: hidden;border-color: transparent;border-width: 5px;border-radius: 0px;border-style: solid;background-image: none;box-sizing: border-box;">
+           <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            <section style="margin: 0px 0%;background-image: none;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;overflow: hidden;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+              <img data-ratio="1.1834532" data-type="jpeg" data-w="834" src="https://mmbiz.qpic.cn/mmbiz_jpg/h0HYQYZ8oqdxKh3KsCfBZUBy1icKSK5icpAYw9ITUFyeNPxISSUautFibjoHkk7UQAgM5vs6lUc5oicX5oqcvMjl5g/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="text-align: center;margin: -220px 0% 0px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section class="group-empty" style="display: inline-block;width: 180px;height: 240px;vertical-align: top;overflow: hidden;border-color: rgb(162, 204, 239);border-width: 3px;border-radius: 0px;border-style: solid;background-image: none;box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="text-align: center;margin: -170px 0% 10px;transform: translate3d(-88px, 0px, 0px);-webkit-transform: translate3d(-88px, 0px, 0px);-moz-transform: translate3d(-88px, 0px, 0px);-o-transform: translate3d(-88px, 0px, 0px);background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="display: inline-block;width: 150px;height: 245px;vertical-align: top;overflow: hidden;padding: 0px 10px;border-width: 0px;background-color: rgb(255, 255, 255);background-image: none;box-sizing: border-box;">
+           <section class="V5" style="background-image: none;box-sizing: border-box;">
+            <section style="margin: 0px 0% 10px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+             <section style="display: inline-block;vertical-align: middle;background-image: none;box-sizing: border-box;">
+              <section style="margin-bottom: -8px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+               <section style="float: left;width: 3px;height: 8px;background-color: rgb(249, 110, 87);background-image: none;box-sizing: border-box;">
+               </section>
+               <section style="float: right;width: 3px;height: 8px;background-color: rgb(249, 110, 87);background-image: none;box-sizing: border-box;">
+               </section>
+               <section style="clear: both;background-image: none;box-sizing: border-box;">
+               </section>
+              </section>
+              <section style="border-color: rgb(249, 110, 87);border-top: 3px solid rgb(249, 110, 87);border-bottom: 3px solid rgb(249, 110, 87);padding: 0px 8px;color: rgb(62, 62, 62);background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+               <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+                <strong style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+                 义卖
+                 <br style="background-image: none;box-sizing: border-box;"/>
+                </strong>
+               </p>
+              </section>
+              <section style="margin-top: -8px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+               <section style="float: left;width: 3px;height: 8px;background-color: rgb(249, 110, 87);background-image: none;box-sizing: border-box;">
+               </section>
+               <section style="float: right;width: 3px;height: 8px;background-color: rgb(249, 110, 87);background-image: none;box-sizing: border-box;">
+               </section>
+               <section style="clear: both;background-image: none;box-sizing: border-box;">
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+           <section class="V5" style="background-image: none;box-sizing: border-box;">
+            <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+             <section style="font-size: 12px;background-image: none;box-sizing: border-box;">
+              <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+               <br style="background-image: none;box-sizing: border-box;"/>
+              </p>
+             </section>
+            </section>
+           </section>
+           <section class="V5" style="background-image: none;box-sizing: border-box;">
+            <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+             <section style="display: inline-block;vertical-align: top;width: 25%;background-image: none;box-sizing: border-box;">
+              <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+               <section style="margin: 10px 0px;background-image: none;box-sizing: border-box;">
+                <section style="display: inline-block;vertical-align: top;text-align: left;border-color: rgb(249, 110, 87);border-right: 1px solid rgb(249, 110, 87);line-height: 1.4em;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+                 <p style="display: inline-block;width: 1em;margin: 0px 3.2px;float: right;background-image: none;clear: none;padding: 0px;box-sizing: border-box;">
+                  卖品有价
+                 </p>
+                 <p style="clear: both;font-size: 0px;line-height: 0;min-height: 0px;background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+                  <br style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+                 </p>
+                </section>
+               </section>
+              </section>
+             </section>
+             <section style="display: inline-block;vertical-align: top;width: 25%;background-image: none;box-sizing: border-box;">
+              <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+               <section style="margin: 10px 0px;background-image: none;box-sizing: border-box;">
+                <section style="display: inline-block;vertical-align: top;text-align: left;border-color: rgb(249, 110, 87);border-right: 1px solid rgb(249, 110, 87);line-height: 1.4em;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+                 <p style="display: inline-block;width: 1em;margin: 0px 3.2px;float: right;background-image: none;clear: none;padding: 0px;box-sizing: border-box;">
+                  爱心无价
+                 </p>
+                 <p style="clear: both;font-size: 0px;line-height: 0;min-height: 0px;background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+                  <br style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+                 </p>
+                </section>
+               </section>
+              </section>
+             </section>
+             <section style="display: inline-block;vertical-align: top;width: 25%;background-image: none;box-sizing: border-box;">
+              <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+               <section style="margin: 10px 0px;background-image: none;box-sizing: border-box;">
+                <section style="display: inline-block;vertical-align: top;text-align: left;border-color: rgb(249, 110, 87);border-right: 1px solid rgb(249, 110, 87);line-height: 1.4em;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+                 <p style="display: inline-block;width: 1em;margin: 0px 3.2px;float: right;background-image: none;clear: none;padding: 0px;box-sizing: border-box;">
+                  世界虽大
+                 </p>
+                 <p style="clear: both;font-size: 0px;line-height: 0;min-height: 0px;background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+                  <br style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+                 </p>
+                </section>
+               </section>
+              </section>
+             </section>
+             <section style="display: inline-block;vertical-align: top;width: 25%;background-image: none;box-sizing: border-box;">
+              <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+               <section style="margin: 10px 0px;background-image: none;box-sizing: border-box;">
+                <section style="display: inline-block;vertical-align: top;text-align: left;border-color: rgb(249, 110, 87);border-right: 1px solid rgb(249, 110, 87);line-height: 1.4em;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+                 <p style="display: inline-block;width: 1em;margin: 0px 3.2px;float: right;background-image: none;clear: none;padding: 0px;box-sizing: border-box;">
+                  我们一心
+                  <br style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+                 </p>
+                 <p style="clear: both;font-size: 0px;line-height: 0;min-height: 0px;background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+                  <br style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+                 </p>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="margin: -30px 0% 0px;background-image: none;box-sizing: border-box;">
+       <section class="tn-yzk-fuid-text-93410-1541490559200" style="text-align: center;font-size: 13px;color: rgb(0, 0, 0);line-height: 1.8;letter-spacing: 2px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+        <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+        </p>
+        <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+         当我们在享受美味佳肴时
+        </p>
+        <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+         却不知 有的孩子仍食不果腹
+        </p>
+        <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+         当我们汗洒健身房时
+        </p>
+        <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+         却不知 有的孩子只能嬉戏于田间
+        </p>
+        <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+         世界上 有太多孩子需要帮助...
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="text-align: center;margin: 20px 0% 10px;background-image: none;box-sizing: border-box;">
+       <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;padding: 0px 10px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;padding: 3px 10px 6px;border-width: 1px;border-radius: 0px;border-style: none none solid;border-color: rgb(162, 204, 239);background-image: none;box-sizing: border-box;">
+           <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            <section style="text-align: left;margin: 0px 0% 10px;transform: translate3d(-10px, 0px, 0px);-webkit-transform: translate3d(-10px, 0px, 0px);-moz-transform: translate3d(-10px, 0px, 0px);-o-transform: translate3d(-10px, 0px, 0px);background-image: none;box-sizing: border-box;">
+             <section style="display: inline-block;width: 160px;height: 35px;vertical-align: top;overflow: hidden;background-color: rgb(255, 255, 255);padding: 0px 5px;background-image: none;box-sizing: border-box;">
+              <section class="V5" style="background-image: none;box-sizing: border-box;">
+               <section style="text-align: center;margin: 0px 0%;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+                <section style="max-width: 100%;vertical-align: middle;display: inline-block;overflow: hidden;background-image: none;box-sizing: border-box;">
+                 <img data-ratio="0.2043011" data-type="png" data-w="372" src="https://mmbiz.qpic.cn/mmbiz_png/h0HYQYZ8oqdxKh3KsCfBZUBy1icKSK5icpfwVgr7SJDqniaT4wMP0qgQCM5pQqgbE5WqzicBgK4rmgVVvVKFU2rqOA/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+           <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            <section style="margin: -5px 0% 0px;background-image: none;box-sizing: border-box;">
+             <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+              <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="color: rgb(244, 47, 18);background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+                【2018年12月19日】
+               </span>
+              </p>
+              <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="color: rgb(244, 47, 18);background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+                下午一点
+               </span>
+               <br style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="background-image: none;box-sizing: border-box;">
+       <section class="tn-yzk-fuid-text-91392-1541489056535" style="text-align: center;font-size: 13px;color: rgb(0, 0, 0);line-height: 1.8;letter-spacing: 2px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+        <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+         兴家将在
+        </p>
+        <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="color: rgb(244, 47, 18);background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          涵芬楼靠樱桃河处走廊以及河东-河西之间的桥上
+         </span>
+         <br style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+        </p>
+        <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+         举行义卖
+        </p>
+        <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+         所得善款均捐献给
+        </p>
+        <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="color: rgb(244, 47, 18);background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          云南省保山徐掌小学
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="text-align: center;margin: 20px 0%;background-image: none;box-sizing: border-box;">
+       <section style="display: inline-block;width: 95%;vertical-align: top;box-shadow: rgba(0, 0, 0, 0.53) 0px 0px 8px;border-width: 0px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);padding: 10px;background-color: rgb(0, 0, 0);background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="display: inline-block;width: 100%;vertical-align: top;box-shadow: rgba(0, 0, 0, 0.53) 0px 0px 8px inset;padding: 10px;background-color: rgb(255, 255, 255);background-image: none;box-sizing: border-box;">
+           <section class="V5" style="background-image: none;box-sizing: border-box;">
+            <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-shadow: rgb(0, 0, 0) 0px 0px 0px;overflow: hidden;background-image: none;box-sizing: border-box;">
+              <img data-ratio="0.8207885" data-type="jpeg" data-w="558" src="https://mmbiz.qpic.cn/mmbiz_jpg/h0HYQYZ8oqdxKh3KsCfBZUBy1icKSK5icpJXCRdZaHqwV9JkPk2vbianOsNG73CEy3klibqjuRqw1UuiagHg9yDU3mw/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="margin: 0.5em 0px;background-image: none;box-sizing: border-box;">
+       <section style="border-top: 1px dashed rgb(0, 0, 0);background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="background-image: none;box-sizing: border-box;">
+       <section class="tn-yzk-fuid-text-91392-1541489056535" style="text-align: justify;font-size: 13px;color: rgb(0, 0, 0);line-height: 1.8;letter-spacing: 2px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+        <p style="background-image: none;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         本次活动以“给自己做一个减法，给孩子做一个加法”为主题，同学们不仅能将身边闲置的物品处理掉，筹得的善款也能为贫困家庭的孩子带来一些帮助，同时还可以提倡环保低碳生活，培养大学生的社会责任感。希望同学们多多参与呀！我们不见不散~
+        </p>
+        <p style="background-image: none;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="margin: 0.5em 0px;background-image: none;box-sizing: border-box;">
+       <section style="border-top: 1px dashed rgb(0, 0, 0);background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;background-image: none;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 60%;overflow: hidden;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+        <svg style="vertical-align: middle;max-width: 100%;background-image: none;box-sizing: border-box;" viewbox="0 0 1214.3 197" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+         <g fill="rgb(0, 0, 0)" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <g fill="rgb(0, 0, 0)" style="background-image: none;box-sizing: border-box;">
+           <g fill="rgb(0, 0, 0)" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            <path d="M476.7,67.8H735L605.9,197L476.7,67.8z M718.6,74.6H493.1l112.7,112.7L718.6,74.6z" fill="rgb(204, 146, 94)" style="background-image: none;box-sizing: border-box;">
+            </path>
+           </g>
+           <g fill="rgb(0, 0, 0)" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            <path d="M544.9,67.8h121.9l-60.9,60.9L544.9,67.8z M650.4,74.6h-89l44.5,44.5L650.4,74.6z" fill="rgb(204, 146, 94)" style="background-image: none;box-sizing: border-box;">
+            </path>
+           </g>
+           <g fill="rgb(0, 0, 0)" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            <polygon fill="rgb(204, 146, 94)" points="605,68.8 609.8,73.6 521.3,162.1 432.9,73.6 437.7,68.8 521.3,152.5" style="background-image: none;box-sizing: border-box;">
+            </polygon>
+           </g>
+           <g fill="rgb(0, 0, 0)" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            <path d="M356.2,67.8h80.6l-40.3,40.3L356.2,67.8z M420.3,74.6h-47.7l23.9,23.9L420.3,74.6z" fill="rgb(204, 146, 94)" style="background-image: none;box-sizing: border-box;">
+            </path>
+           </g>
+           <g fill="rgb(0, 0, 0)" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            <path d="M778.1,67.8h80.6l-40.3,40.3L778.1,67.8z M842.3,74.6h-47.7l23.9,23.9L842.3,74.6z" fill="rgb(204, 146, 94)" style="background-image: none;box-sizing: border-box;">
+            </path>
+           </g>
+           <g fill="rgb(0, 0, 0)" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            <polygon fill="rgb(204, 146, 94)" points="609.1,68.8 692.8,152.5 776.5,68.8 781.3,73.6 692.8,162.1 604.3,73.6" style="background-image: none;box-sizing: border-box;">
+            </polygon>
+           </g>
+           <g fill="rgb(0, 0, 0)" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            <g fill="rgb(0, 0, 0)" style="background-image: none;box-sizing: border-box;">
+             <rect fill="rgb(204, 146, 94)" height="6.8" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);" width="223.9" x="214.7" y="67.8">
+             </rect>
+            </g>
+            <g fill="rgb(0, 0, 0)" style="background-image: none;box-sizing: border-box;">
+             <rect fill="rgb(204, 146, 94)" height="6.8" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);" width="223.9" x="775.7" y="67.8">
+             </rect>
+            </g>
+           </g>
+           <g fill="rgb(0, 0, 0)" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            <g fill="rgb(0, 0, 0)" style="background-image: none;box-sizing: border-box;">
+             <g fill="rgb(0, 0, 0)" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+              <rect fill="rgb(204, 146, 94)" height="6.8" style="background-image: none;box-sizing: border-box;" width="73.1" x="265.4" y="90.6">
+              </rect>
+             </g>
+            </g>
+            <g fill="rgb(0, 0, 0)" style="background-image: none;box-sizing: border-box;">
+             <g fill="rgb(0, 0, 0)" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+              <rect fill="rgb(204, 146, 94)" height="6.8" style="background-image: none;box-sizing: border-box;" width="73.1" x="875.8" y="90.6">
+              </rect>
+             </g>
+            </g>
+           </g>
+          </g>
+          <g fill="rgb(0, 0, 0)" style="background-image: none;box-sizing: border-box;">
+           <rect fill="rgb(204, 146, 94)" height="6.8" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);" width="1214.3">
+           </rect>
+          </g>
+          <g fill="rgb(0, 0, 0)" style="background-image: none;box-sizing: border-box;">
+           <rect fill="rgb(204, 146, 94)" height="6.8" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);" width="810.2" x="202.1" y="30.4">
+           </rect>
+          </g>
+         </g>
+        </svg>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="background-image: none;box-sizing: border-box;">
+       <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+        <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          有兴趣的朋友们可以扫码进群，我们将在群里发布义卖物资筹措消息哦~
+         </span>
+         <br style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;background-image: none;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;overflow: hidden;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+        <img data-ratio="1.3703704" data-type="png" data-w="540" src="https://mmbiz.qpic.cn/mmbiz_png/h0HYQYZ8oqdxKh3KsCfBZUBy1icKSK5icpXBp6PqvbMybuIj8vDI8qsQQibmiaTiczc0vb6oz6DlXaEgVDOJngKLVgw/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="background-image: none;box-sizing: border-box;">
+   <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+    <section style="background-image: none;box-sizing: border-box;">
+     <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <br style="background-image: none;box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="background-image: none;box-sizing: border-box;">
+   <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+    <section class="tn-yzk-fuid-text-89512-1541495862425" style="line-height: 1.8;letter-spacing: 2px;font-size: 12px;background-image: none;box-sizing: border-box;">
+     <p style="text-align: right;background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      文案|包登慧
+      <br style="background-image: none;box-sizing: border-box;"/>
+     </p>
+     <p style="text-align: right;background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      排版|包登慧
+      <br style="background-image: none;box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

@@ -1,0 +1,250 @@
+
+ <section class="xmteditor" data-label="powered by xmt.cn" data-tools="新媒体管家" style="display:none;">
+ </section>
+ <section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;">
+  <section data-role="outer" label="Powered by 135editor.com">
+   <p>
+    <br/>
+   </p>
+   <section class="_135editor" data-color="#ac1d10" data-custom="#ac1d10" data-id="88135" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section class="layout" style="margin: 0.5em auto;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section style="border-width: 2px;border-style: solid;border-color: rgb(172, 29, 16);border-radius: 0.8em;font-size: 14px;box-sizing: border-box;">
+      <section class="135brush" data-style="color: #3F3F3F;" style="padding: 20px;line-height: 30px;font-family: inherit;text-align: inherit;text-decoration: inherit;box-sizing: border-box;">
+       <p style="color: #3f3f3f;text-indent: 2em;">
+        <span style="font-size: 16px;color: #ac1d10;">
+         1月30日
+        </span>
+        <span style="font-size: 16px;color: #7f7f7f;">
+         ，一个暖意洋洋的午后，孟宪承书院
+         <span style="color: rgb(172, 29, 16);">
+          留校师生新年联欢会
+         </span>
+         在共享空间202温馨举行，
+         <span style="color: rgb(172, 29, 16);">
+          师生欢聚一堂
+          <span style="color: rgb(127, 127, 127);">
+           ，
+          </span>
+          共同迎接2019
+         </span>
+         。
+        </span>
+       </p>
+       <p style="color: #3f3f3f;text-indent: 2em;">
+        <span style="font-size: 16px;color: #7f7f7f;">
+         孟宪承书院党委书记兼院长
+         <span style="color: rgb(54, 96, 146);">
+          吴薇老师
+         </span>
+         <span style="color: rgb(172, 29, 16);">
+          、
+         </span>
+         孟宪承书院党委常务副书记
+         <span style="color: rgb(54, 96, 146);">
+          夏建国老师
+         </span>
+         ，院长助理
+         <span style="color: rgb(54, 96, 146);">
+          李桦老师
+         </span>
+         、
+         <span style="color: rgb(54, 96, 146);">
+          王莉萍老师
+         </span>
+         ，辅导员
+         <span style="color: rgb(54, 96, 146);">
+          益建芳老师
+         </span>
+         、
+         <span style="color: rgb(54, 96, 146);">
+          时南老师
+         </span>
+         和
+         <span style="color: rgb(54, 96, 146);">
+          陆敏老师
+         </span>
+         均到场参与联欢会，为
+         <span style="color: rgb(54, 96, 146);">
+          留校学生
+         </span>
+         送上新年祝福。
+        </span>
+       </p>
+       <p style="color: #3f3f3f;text-indent: 2em;">
+        <span style="font-size: 16px;color: #7f7f7f;">
+         吴薇老师亲切地嘱咐学生要为远方的家人送去问候，并在新年中继续努力，争取优异表现。
+        </span>
+       </p>
+       <p style="color: #3f3f3f;text-indent: 2em;">
+        <span style="font-size: 16px;color: #7f7f7f;">
+         留校学生才艺多多，在联欢会中不仅为大家带来多个民族舞蹈，还有精彩独唱。而除了
+         <span style="color: rgb(54, 96, 146);">
+          精彩节目
+         </span>
+         ，精心筹备的
+         <span style="color: rgb(54, 96, 146);">
+          游戏环节
+         </span>
+         也为现场带来一
+         <span style="color: rgb(54, 96, 146);">
+          阵阵欢笑
+         </span>
+         。当然，少不了的
+         <span style="color: rgb(54, 96, 146);">
+          抽奖环节
+         </span>
+         也是将气氛烘托至高潮。最后，
+         <span style="color: rgb(54, 96, 146);">
+          师生合影留念
+         </span>
+         ，记录下岁末这一温暖时刻。
+        </span>
+       </p>
+       <p style="color: rgb(63, 63, 63);text-indent: 2em;text-align: left;">
+        <span style="font-size: 16px;color: #7f7f7f;">
+         回顾2018，孟院精彩纷呈，
+         <span style="color: rgb(192, 0, 0);">
+          展望2019，期待更多美
+         </span>
+        </span>
+        <span style="color: rgb(192, 0, 0);font-size: 16px;font-family: inherit;text-decoration: inherit;">
+         好和成绩
+        </span>
+        <span style="color: rgb(192, 0, 0);font-size: 16px;font-family: inherit;text-decoration: inherit;">
+         ！
+        </span>
+       </p>
+      </section>
+     </section>
+     <section style="margin-top: -5em;line-height: 1.4;text-align: right;">
+      <img border="0" data-ratio="0.3979591836734694" data-type="png" data-w="882" height="" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4mNXNFrJzdXaVo6iact9NqlQ96Akn0RWO1ticNyf6mEwJLKwNBP05MGqw/640?wx_fmt=png" style="border-width: 0px;border-style: initial;border-color: initial;vertical-align: middle;width: 4em;" title="" width="7em"/>
+     </section>
+    </section>
+   </section>
+   <p style="text-align: center;text-indent: 0em;margin-left: 10px;margin-right: 10px;">
+    <span style="color: #7F7F7F;text-indent: 0em;caret-color: red;">
+     下面就由这一组照片带大家回顾联欢会
+    </span>
+    <span style="text-indent: 0em;caret-color: red;color: #C00000;">
+     精彩瞬间
+    </span>
+    <span style="color: #7F7F7F;text-indent: 0em;caret-color: red;">
+     。
+    </span>
+    <br/>
+   </p>
+   <p>
+    <br/>
+   </p>
+   <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+    <img class="" data-ratio="0.6666666666666666" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4BJZVt6zxfvJbDp5NyzKORakp8iaAwDoj30ayYJBh8Zwj7FqEMoibIXXA/640?wx_fmt=jpeg"/>
+   </p>
+   <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+    <span style="color: #7F7F7F;">
+     吴薇老师送祝福
+    </span>
+   </p>
+   <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+    <br/>
+   </p>
+   <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+    <span style="color: #7F7F7F;">
+     <img class="" data-ratio="0.75" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4lD185X5ZCgGyyBxjkRsjNwUxUPOhgNwMUibJGPibR8NT1tibbzibggZhbw/640?wx_fmt=jpeg"/>
+    </span>
+   </p>
+   <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+    <span style="color: #7F7F7F;">
+     藏族学生带来《弦子舞》
+    </span>
+   </p>
+   <p>
+    <br/>
+   </p>
+   <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+    <img class="" data-ratio="0.6666666666666666" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4w1htXnSKibvUGmLL1hQJv5e01hicPPicH23BryQMa5icF7SHgn5r0UwNUQ/640?wx_fmt=jpeg"/>
+   </p>
+   <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+    <span style="color: #7F7F7F;">
+     新疆学生带来民族舞串烧《夏迪亚纳》
+    </span>
+   </p>
+   <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+    <br/>
+   </p>
+   <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+    <span style="color: #7F7F7F;">
+     <img class="" data-ratio="0.6666666666666666" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4VLJa7kPnPe20x1WPRVTjibyeBY8JV22pUXZPiaKEnkIMKLWaIIkibfZvw/640?wx_fmt=jpeg"/>
+    </span>
+   </p>
+   <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+    <span style="color: #7F7F7F;">
+     独唱《我心永恒》
+    </span>
+   </p>
+   <p>
+    <br/>
+   </p>
+   <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+    <span style="color: #7F7F7F;">
+     <img class="" data-ratio="0.6666666666666666" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4Picc46261uBwrIOPjicy8nhicfXBcibjvoxsZY6xJZmHhVvJrLbffNlfTw/640?wx_fmt=jpeg"/>
+    </span>
+   </p>
+   <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+    <span style="color: #7F7F7F;">
+     游戏《你画我猜》
+    </span>
+   </p>
+   <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+    <span style="color: #7F7F7F;">
+     <br/>
+    </span>
+   </p>
+   <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+    <span style="color: #7F7F7F;">
+     <img class="" data-ratio="0.6666666666666666" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E43qHm4dIySl32ca1yRvfO9FjKicJ8TXfiaVzIp7SH2ic8X3p4pQgm1fk8w/640?wx_fmt=jpeg"/>
+    </span>
+   </p>
+   <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+    <span style="color: #7F7F7F;">
+     抽奖幸运儿
+    </span>
+   </p>
+   <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+    <br/>
+   </p>
+   <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+    <span style="color: #7F7F7F;">
+     <img class="" data-ratio="0.6666666666666666" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adg6e9iaa5hCSibwpg8EPx9E4vMmkESthRajzP5xgjZhiaXfx73b7Gg59j9CY2SMPGx14ZicDWJSxOdew/640?wx_fmt=jpeg"/>
+    </span>
+   </p>
+   <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+    <span style="color: #7F7F7F;">
+     温馨合影
+    </span>
+   </p>
+   <p style="margin-left: 10px;margin-right: 10px;">
+    <br/>
+   </p>
+   <p style="text-align: right;">
+    <span style="color: #7F7F7F;">
+     文 | 学生事务办公室
+    </span>
+   </p>
+   <p style="text-align: right;">
+    <span style="color: #7F7F7F;">
+     图 | 李桦老师
+    </span>
+   </p>
+   <p style="text-align: right;">
+    <span style="color: #7F7F7F;">
+     编辑 | 吕沐涵
+    </span>
+   </p>
+  </section>
+ </section>
+ <p style="text-align: center;">
+  <img class="" data-copyright="0" data-ratio="0.6541176470588236" data-s="300,640" data-type="png" data-w="850" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0aexcUjYRDIrDP7RTicHTiapqnicIIZvI7vfAQKfInKIw53MEM11V1nibicf91hdfm8rQCXKZRzIx1UMfkA/640?wx_fmt=png" style=""/>
+ </p>
+ <p>
+  <br/>
+ </p>

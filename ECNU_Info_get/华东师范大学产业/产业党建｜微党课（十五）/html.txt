@@ -1,0 +1,248 @@
+
+ <p style='white-space: normal;max-width: 100%;min-height: 1em;color: rgb(51, 51, 51);font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-size: 17px;letter-spacing: 0.544px;line-height: 27.2px;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;'>
+  <img data-copyright="0" data-ratio="1" data-s="300,640" data-type="jpeg" data-w="79" src="https://mmbiz.qpic.cn/mmbiz_jpg/HrFved3fJhJkTMw1fWmK1G1y7vov4o9tb7OYEHMBa7aED3tzQDa6pCCE5PcPB1b4jB6jCUz9RQgubiasRWeCKtQ/640?wx_fmt=jpeg" style="box-sizing: border-box !important;overflow-wrap: break-word !important;width: 79px !important;visibility: visible !important;"/>
+ </p>
+ <p style='white-space: normal;max-width: 100%;min-height: 1em;color: rgb(51, 51, 51);font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-size: 17px;letter-spacing: 0.544px;text-align: center;line-height: 27px;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;'>
+  <strong style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <span style="max-width: 100%;font-size: 19px;font-family: 宋体;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    不忘初心
+   </span>
+  </strong>
+  <strong style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <span style="max-width: 100%;font-size: 19px;font-family: 宋体;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    牢记使命
+   </span>
+  </strong>
+  <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+ </p>
+ <p style='white-space: normal;max-width: 100%;min-height: 1em;color: rgb(51, 51, 51);font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-size: 17px;letter-spacing: 0.544px;text-align: center;line-height: 27px;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;'>
+  <strong style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <span style="max-width: 100%;font-size: 19px;font-family: 宋体;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    学习贯彻党的十九大精神
+   </span>
+  </strong>
+ </p>
+ <p style='white-space: normal;max-width: 100%;min-height: 1em;color: rgb(51, 51, 51);font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-size: 17px;letter-spacing: 0.544px;line-height: 27.2px;text-align: justify;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;'>
+  <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+ </p>
+ <section style='white-space: normal;max-width: 100%;color: rgb(51, 51, 51);font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-size: 17px;letter-spacing: 0.544px;line-height: 27.2px;text-align: center;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;'>
+  <section data-width="100%" style="max-width: 100%;width: 558px;display: -webkit-flex;justify-content: center;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <section style="max-width: 100%;width: 50px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    <section style="max-width: 100%;width: 50px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+     <img data-ratio="1" data-type="png" data-w="48" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/Ljib4So7yuWjg6UeVicicaw1vsvS9FvA9MhBMfKCKKIgHr9wqKdLFEMEYu8IOOM4j3vN8fbEJ5vvLwgoiaWVAx0bpA/640?wx_fmt=png" style="display: block;box-sizing: border-box !important;overflow-wrap: break-word !important;width: 50px !important;visibility: visible !important;"/>
+    </section>
+   </section>
+   <section style="padding-top: 13px;max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+    <section style="padding-right: 15px;padding-left: 15px;max-width: 100%;box-sizing: border-box;line-height: 35px;color: rgb(255, 255, 255);background-color: rgb(171, 32, 31);overflow-wrap: break-word !important;">
+     <p style="max-width: 100%;min-height: 1em;line-height: 27px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+      <strong style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+       <span style="max-width: 100%;font-size: 19px;font-family: 宋体;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+        “两学一做”微党课（十五）
+       </span>
+      </strong>
+     </p>
+    </section>
+   </section>
+   <section style="max-width: 100%;width: 60px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    <section style="margin-top: -1px;max-width: 100%;width: 57px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+     <img data-ratio="0.8545454545454545" data-type="png" data-w="55" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/Ljib4So7yuWjg6UeVicicaw1vsvS9FvA9Mh2yw9nHpF1LGGS10ekSpZ38S0kv7xYT2e2XoMTO1jGBslfIW9v0NzPA/640?wx_fmt=png" style="display: block;box-sizing: border-box !important;overflow-wrap: break-word !important;width: 57px !important;visibility: visible !important;"/>
+    </section>
+    <section style="margin-top: -1px;max-width: 100%;width: 57px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+     <br/>
+    </section>
+    <section style="margin-top: -1px;max-width: 100%;width: 57px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+     <br/>
+    </section>
+   </section>
+  </section>
+ </section>
+ <section style='white-space: normal;max-width: 100%;color: rgb(51, 51, 51);font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-size: 17px;letter-spacing: 0.544px;line-height: 27.2px;text-align: justify;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;'>
+  <p style="max-width: 100%;min-height: 1em;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+  </p>
+ </section>
+ <section style='white-space: normal;max-width: 100%;color: rgb(51, 51, 51);font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-size: 17px;letter-spacing: 0.544px;line-height: 27.2px;text-align: justify;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;'>
+  <section style="max-width: 100%;text-align: center;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <section style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    <section style="margin-top: 10px;max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+     <section style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+      <section style="margin-top: -50px;margin-bottom: 20px;max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+       <section data-width="95%" style="padding: 15px;border-radius: 6px;border-width: 0px;border-style: initial;border-color: rgb(71, 193, 168);width: 530.09px;vertical-align: top;display: inline-block;max-width: 100%;box-sizing: border-box;box-shadow: rgb(255, 202, 0) 0px 0px 12px;">
+        <section style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+         <section style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+          <section data-width="72%" style="max-width: 100%;box-sizing: border-box;display: inline-block;vertical-align: top;width: 360.063px;overflow-wrap: break-word !important;">
+           <section style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+            <section style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+             <section style="max-width: 100%;box-sizing: border-box;text-align: left;font-size: 18px;color: rgb(161, 135, 97);overflow-wrap: break-word !important;">
+              <p style="max-width: 100%;box-sizing: border-box;min-height: 1em;overflow-wrap: break-word !important;">
+               <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+         <p style="margin-top: 8px;max-width: 100%;min-height: 1em;text-indent: 37px;line-height: 24px;text-align: left;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+          <span style="max-width: 100%;font-size: 18px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+           <strong style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+            <span style="max-width: 100%;font-family: 楷体;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+             中国共产党人的初心和使命，就是为中国人民谋幸福，为中华民族谋复兴。这个初心和使命是激励中国共产党人不断前进的根本动力。全党同志一定要永远与人民同呼吸、共命运、心连心，永远把人民对美好生活的向往作为奋斗目标，以永不懈怠的精神状态和一往无前的奋斗姿态，继续朝着实现中华民族伟大复兴的宏伟目标奋勇前进。
+            </span>
+           </strong>
+          </span>
+         </p>
+         <p style="margin-top: 8px;max-width: 100%;min-height: 1em;text-indent: 37px;line-height: 24px;text-align: right;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+          <strong style="letter-spacing: 0.544px;font-size: 18px;text-indent: 375px;max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+           <span style="max-width: 100%;font-family: 楷体;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+            <span style="font-size: 16px;letter-spacing: 0.544px;line-height: 27.2px;">
+             ——
+            </span>
+            习近平
+           </span>
+          </strong>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <section style="white-space: normal;max-width: 100%;color: rgb(51, 51, 51);letter-spacing: 0.544px;line-height: 27.2px;text-align: justify;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+  <p style='font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-size: 17px;letter-spacing: 0.544px;line-height: 27.2px;max-width: 100%;min-height: 1em;box-sizing: border-box !important;overflow-wrap: break-word !important;'>
+   <br style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;"/>
+  </p>
+  <section style="letter-spacing: 0.544px;line-height: 27.2px;max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <section style="max-width: 100%;text-align: center;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    <section style="margin-top: 8px;margin-bottom: 8px;max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+     <section style='font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-size: 17px;max-width: 100%;width: 40px;display: inline-block;vertical-align: top;transform: rotate(0deg);box-sizing: border-box !important;overflow-wrap: break-word !important;'>
+      <img data-ratio="0.9444444444444444" data-type="png" data-w="90" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/Ljib4So7yuWiahAPXQVb4nzNIjb3DHGLk0ao34FT6x6U7dqL9Fb8Hjzc0hlURBrYTrNkPwgHic3Oe68QU9nUSyBYQ/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box !important;overflow-wrap: break-word !important;width: 40px !important;visibility: visible !important;"/>
+     </section>
+     <section style="max-width: 100%;display: inline-block;vertical-align: bottom;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+      <section style="padding: 4px 15px;max-width: 100%;box-sizing: border-box;display: inline-block;border-radius: 1em;color: rgb(255, 255, 255);line-height: 1.4;background-color: rgb(214, 10, 2);overflow-wrap: break-word !important;">
+       <p style="max-width: 100%;box-sizing: border-box;min-height: 1em;overflow-wrap: break-word !important;">
+        <span style="font-family: 宋体;">
+         <span style="font-size: 19px;">
+          <strong>
+           <span new="new" roman="roman" style="font-size: 14pt;" times="times">
+            <strong>
+             会议精神
+            </strong>
+           </span>
+          </strong>
+         </span>
+        </span>
+       </p>
+      </section>
+      <section style='font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-size: 17px;max-width: 100%;width: 40px;display: inline-block;vertical-align: top;transform: rotate(0deg);box-sizing: border-box !important;overflow-wrap: break-word !important;'>
+       <img data-ratio="0.9444444444444444" data-type="png" data-w="90" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/Ljib4So7yuWiahAPXQVb4nzNIjb3DHGLk0ao34FT6x6U7dqL9Fb8Hjzc0hlURBrYTrNkPwgHic3Oe68QU9nUSyBYQ/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box !important;overflow-wrap: break-word !important;width: 40px !important;visibility: visible !important;"/>
+      </section>
+     </section>
+    </section>
+    <section style='margin-top: 8px;margin-bottom: 8px;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-size: 17px;max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;'>
+     <br/>
+    </section>
+   </section>
+  </section>
+  <p style="text-indent: 32px;">
+   <span style="font-size: 16px;font-family: 楷体;">
+   </span>
+  </p>
+  <p style="text-indent:32px;">
+   <span style="font-size:16px;font-family:楷体;">
+    坚持党对一切工作的领导，坚持以人民为中心，坚持全面深化改革，坚持新发展理念，坚持人民当家作主，坚持全面依法治国，坚持社会主义核心价值体系，坚持在发展中保障和改善民生，坚持人与自然和谐共生，坚持总体国家安全观，坚持党对人民军队的绝对领导，坚持“一国两制”和推进祖国统一，坚持推动构建人类命运共同体，坚持全面从严治党，这十四条构成新时代坚持和发展中国特色社会主义的基本方略。
+   </span>
+  </p>
+  <p style="text-align: right;">
+   <strong>
+    <span style="font-size:16px;font-family:楷体;">
+     ——中国共产党第十九次全国代表大会关于十八届中央委员会报告的决议
+    </span>
+   </strong>
+  </p>
+  <p style="text-indent: 32px;">
+   <strong>
+    <span style="font-size: 16px;font-family: 楷体;">
+    </span>
+   </strong>
+   <br/>
+  </p>
+  <section style='font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-size: 17px;letter-spacing: 0.544px;line-height: 27.2px;max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;'>
+   <section style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    <section style="max-width: 100%;text-align: center;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+     <section style="margin-top: 8px;margin-bottom: 8px;max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+      <br/>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section style='font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-size: 17px;letter-spacing: 0.544px;line-height: 27.2px;max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;'>
+   <section style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    <p>
+     <br/>
+    </p>
+   </section>
+  </section>
+ </section>
+ <section style='margin-top: 8px;margin-bottom: 8px;white-space: normal;color: rgb(51, 51, 51);font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-size: 17px;letter-spacing: 0.544px;text-align: center;max-width: 100%;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;'>
+  <section style="max-width: 100%;width: 40px;display: inline-block;vertical-align: top;transform: rotate(0deg);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <img data-ratio="0.9444444444444444" data-type="png" data-w="90" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/Ljib4So7yuWiahAPXQVb4nzNIjb3DHGLk0ao34FT6x6U7dqL9Fb8Hjzc0hlURBrYTrNkPwgHic3Oe68QU9nUSyBYQ/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box !important;overflow-wrap: break-word !important;width: 40px !important;visibility: visible !important;"/>
+  </section>
+  <section style="max-width: 100%;display: inline-block;vertical-align: bottom;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+   <section style="padding: 4px 15px;max-width: 100%;box-sizing: border-box;display: inline-block;border-radius: 1em;color: rgb(255, 255, 255);line-height: 1.4;font-size: 18px;background-color: rgb(214, 10, 2);overflow-wrap: break-word !important;">
+    <p style="max-width: 100%;box-sizing: border-box;min-height: 1em;overflow-wrap: break-word !important;">
+     <strong style="max-width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+      <span style="max-width: 100%;font-size: 19px;font-family: 宋体;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+       <strong>
+        领导讲话
+       </strong>
+      </span>
+     </strong>
+    </p>
+   </section>
+   <section style="max-width: 100%;width: 40px;display: inline-block;vertical-align: top;transform: rotate(0deg);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+    <img data-ratio="0.9444444444444444" data-type="png" data-w="90" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/Ljib4So7yuWiahAPXQVb4nzNIjb3DHGLk0ao34FT6x6U7dqL9Fb8Hjzc0hlURBrYTrNkPwgHic3Oe68QU9nUSyBYQ/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box !important;overflow-wrap: break-word !important;width: 40px !important;visibility: visible !important;"/>
+   </section>
+  </section>
+ </section>
+ <p style="white-space: normal;line-height: 25.6px;">
+  <br/>
+ </p>
+ <p style="white-space: normal;line-height: 25.6px;text-indent: 32px;">
+  <br/>
+ </p>
+ <p style="white-space: normal;text-indent: 32px;">
+  <br/>
+ </p>
+ <p style="white-space: normal;text-indent: 32px;">
+  <span style="font-size: 16px;font-family: 楷体;">
+  </span>
+ </p>
+ <p style="text-indent:32px;">
+  <span style="font-size:16px;font-family:楷体;">
+   解放和发展社会生产力，是社会主义的本质要求。我们要激发全社会创造力和发展活力，努力实现更高质量、更有效率、更加公平、更可持续的发展！
+  </span>
+ </p>
+ <p style="text-align: right;">
+  <strong>
+   <span style="font-size:16px;font-family:楷体;">
+    ——习近平在中国共产党第十九次全国代表大会上的报告
+   </span>
+  </strong>
+ </p>
+ <p style="white-space: normal;text-indent: 32px;">
+  <strong>
+   <span style="font-size: 16px;font-family: 楷体;">
+   </span>
+  </strong>
+  <br/>
+ </p>
+ <p>
+  <br/>
+ </p>
+ <p>
+  <br/>
+ </p>

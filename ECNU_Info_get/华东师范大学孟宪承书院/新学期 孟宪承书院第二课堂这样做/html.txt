@@ -1,0 +1,636 @@
+
+ <section class="xmteditor" data-label="powered by xmt.cn" data-tools="新媒体管家" style="display:none;">
+ </section>
+ <section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;">
+  <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section class="_135editor" data-id="94361" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section data-width="100%" style="width: 100%;">
+     <section style="text-align: center;">
+      <section style="width:3em;display: inline-block;">
+       <img class="" data-ratio="0.7142857142857143" data-type="png" data-w="56" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVotDzJehDK88dHnh1VoNEWTm6hPL6GMb3L7Mpspyo484SLprwNXJZQ0A/640?wx_fmt=png" style="width: 100%;display: block;"/>
+      </section>
+     </section>
+     <section style="padding: 0em 1em;margin: -1.5em auto;box-sizing: border-box;">
+      <section class="135brush" data-autoskip="1" style="border-width: 1px;border-style: solid;border-color: rgb(235, 235, 253);font-size: 14px;color: rgb(140, 139, 203);box-sizing: border-box;border-radius: 10px;letter-spacing: 1.5px;line-height: 1.75em;padding: 1.5em 1em;">
+       <p style="text-align: center;">
+        <span style="font-size: 15px;">
+         孟宪承书院温馨提醒你
+        </span>
+       </p>
+       <p style="text-align: center;">
+        <span style="font-size: 15px;">
+         信息千万条 关注第一条
+        </span>
+       </p>
+       <p style="text-align: center;">
+        <span style="font-size: 15px;">
+         提前不了解  扑空两行泪
+        </span>
+       </p>
+      </section>
+     </section>
+     <section style="width:3em;">
+      <img class="" data-ratio="0.6779661016949152" data-type="png" data-w="59" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVoOK9b1Jicw9DHiaZiaZhvzNpf4ILbFTOpKg6brqgbrNibpRfJN0wEp4KsVg/640?wx_fmt=png" style="width: 100%;display: block;"/>
+     </section>
+    </section>
+   </section>
+   <p style="font-size: 17px;text-indent: 21pt;text-align: center;">
+    <span style="font-size: 15px;">
+     那么，新学期孟宪承书院第二课堂活动将
+    </span>
+   </p>
+   <p style="font-size: 17px;text-indent: 21pt;text-align: center;">
+    <span style="font-size: 15px;">
+     如何
+     <span style="font-size: 15px;font-weight: bold;text-indent: 21pt;caret-color: red;">
+      “精益求精 推陈出新”呢？
+     </span>
+    </span>
+   </p>
+   <p style="font-size: 17px;text-indent: 21pt;text-align: center;">
+    <span style="font-size: 15px;font-weight: bold;text-indent: 21pt;caret-color: red;">
+     小梦为你第一时间报道。
+    </span>
+   </p>
+   <p style="font-size: 17px;text-align: center;">
+    <br/>
+   </p>
+   <section class="_135editor" data-id="94248" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section style="text-align: center;width: auto;margin-top: 15px;margin-bottom: 15px;">
+     <section style="width: 30px;float: right;margin-top: -10px;margin-left: -14px;">
+      <img class="" data-ratio="0.6222222222222222" data-type="png" data-w="45" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVoWhQzQdGVTpQtL3rBGAGas26KUBFiaibsnK69Dibia1cZzIbKZPgqDKL3Ug/640?wx_fmt=png" style="width: 30px;"/>
+     </section>
+     <section style="display:inline-block;clear: both;margin-top:10px;">
+      <section style='padding: 10px 15px 30px 10px;color: rgb(86, 146, 214);background-image: url("https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVojMB86BgnIYZ1azwhy3mJgoDcNGZfoVOSbl5KGoK8fawTVEgLAKjf2A/640?wx_fmt=png");background-repeat: no-repeat;background-size: 100% 100%;letter-spacing: 1.5px;box-sizing: border-box;'>
+       <section class="135brush" data-brushtype="text" style="font-size: 14px;color: rgb(51, 51, 51);">
+        <span style="font-size: 17px;">
+         <strong>
+          三月 先锋+
+         </strong>
+        </span>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <p class="a a7" style="font-size: 17px;text-align: center;">
+    <span style="color: rgb(127, 127, 127);font-size: 15px;">
+     • 立于青春 志于国梦——
+    </span>
+   </p>
+   <p class="a a7" style="font-size: 17px;text-align: center;">
+    <span style="color: rgb(127, 127, 127);font-size: 15px;">
+     孟宪承书院青年党校先锋营4.0
+    </span>
+   </p>
+   <section class="_135editor" data-id="94059" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section data-width="100%" style="width: 100%;padding-bottom: 15px;box-sizing: border-box;">
+     <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: flex-end;">
+      <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: center;">
+       <section style="width: 10px;height:7em;background:#d3f9fa;margin-top: 1em;">
+       </section>
+       <section data-width="100%" style="width: 100%;">
+        <img class="" data-ratio="0.7501970055161544" data-type="jpeg" data-w="1269" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVojUuMCeh6iapKXarUSdhTlZTbEHnlz0LAdpLxA5dOUuxdQDBnYSmLEDA/640?wx_fmt=jpeg" style="width: 100%;display: block;"/>
+       </section>
+      </section>
+      <section>
+       <section style="width: 10px;height: 8em;border-top: 1px solid rgb(211, 211, 211);border-right: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-bottom: none;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section data-width="70%" style="width: 70%;height: 10px;border-right: 1px solid rgb(211, 211, 211);border-bottom: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-top: none;float: right;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+   <p style="font-size: 17px;text-align: center;">
+    <br/>
+   </p>
+   <p class="a a7" style="font-size: 17px;text-align: center;">
+    <span style="color: rgb(127, 127, 127);font-size: 15px;">
+     • 公益三月 情暖春天——
+    </span>
+   </p>
+   <p class="a a7" style="font-size: 17px;text-align: center;">
+    <span style="color: rgb(127, 127, 127);font-size: 15px;">
+     孟宪承书院学雷锋系列活动
+    </span>
+   </p>
+   <p style="font-size: 17px;">
+    <br/>
+   </p>
+   <section class="_135editor" data-id="94059" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section data-width="100%" style="width: 100%;padding-bottom: 15px;box-sizing: border-box;">
+     <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: flex-end;">
+      <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: center;">
+       <section style="width: 10px;height:7em;background:#d3f9fa;margin-top: 1em;">
+       </section>
+       <section data-width="100%" style="width: 100%;">
+        <img class="" data-copyright="0" data-cropselx1="0" data-cropselx2="634" data-cropsely1="0" data-cropsely2="846" data-ratio="0.8014705882352942" data-type="jpeg" data-w="680" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVoib6XgI7QB6uicPvlvepV7oibse0oiakZSGauSuE9nIf7Cibn8LrsWhjkWZw/640?wx_fmt=jpeg" style="width: 654px;display: block;height: 524px;"/>
+       </section>
+      </section>
+      <section>
+       <section style="width: 10px;height: 8em;border-top: 1px solid rgb(211, 211, 211);border-right: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-bottom: none;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section data-width="70%" style="width: 70%;height: 10px;border-right: 1px solid rgb(211, 211, 211);border-bottom: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-top: none;float: right;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+   <p style="font-size: 17px;text-align: center;">
+    <br/>
+   </p>
+   <p class="a a7" style="font-size: 17px;text-align: center;">
+    <span style="color: rgb(127, 127, 127);font-size: 15px;">
+     • 美国佛吉尼亚大学文化互访
+    </span>
+   </p>
+   <section class="_135editor" data-id="94059" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section data-width="100%" style="width: 100%;padding-bottom: 15px;box-sizing: border-box;">
+     <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: flex-end;">
+      <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: center;">
+       <section style="width: 10px;height:7em;background:#d3f9fa;margin-top: 1em;">
+       </section>
+       <section data-width="100%" style="width: 100%;">
+        <img class="" data-ratio="0.6666666666666666" data-type="jpeg" data-w="1800" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVobNIic2a7TagbxmApRtQBwRMYPCF23rPZ7BhHicnzuPBpuXcAfHGdfOKg/640?wx_fmt=jpeg" style="width: 100%;display: block;"/>
+       </section>
+      </section>
+      <section>
+       <section style="width: 10px;height: 8em;border-top: 1px solid rgb(211, 211, 211);border-right: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-bottom: none;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section data-width="70%" style="width: 70%;height: 10px;border-right: 1px solid rgb(211, 211, 211);border-bottom: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-top: none;float: right;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+   <p style="font-size: 17px;text-align: center;">
+    <br/>
+   </p>
+   <p class="a a7" style="font-size: 17px;text-align: center;">
+    <span style="color: rgb(127, 127, 127);font-size: 15px;">
+     • 孟宪承书院卓培计划4.0
+    </span>
+   </p>
+   <section class="_135editor" data-id="94059" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section data-width="100%" style="width: 100%;padding-bottom: 15px;box-sizing: border-box;">
+     <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: flex-end;">
+      <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: center;">
+       <section style="width: 10px;height:7em;background:#d3f9fa;margin-top: 1em;">
+       </section>
+       <section data-width="100%" style="width: 100%;">
+        <img class="" data-ratio="0.6666666666666666" data-type="jpeg" data-w="1269" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVoibg0eyjZ2RZVyApyGcGPdHcMvucjQKDPmr6VsCP88oTujfg6dxkQSeQ/640?wx_fmt=jpeg" style="width: 100%;display: block;"/>
+       </section>
+      </section>
+      <section>
+       <section style="width: 10px;height: 8em;border-top: 1px solid rgb(211, 211, 211);border-right: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-bottom: none;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section data-width="70%" style="width: 70%;height: 10px;border-right: 1px solid rgb(211, 211, 211);border-bottom: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-top: none;float: right;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+   <p style="font-size: 17px;text-align: center;">
+    <br/>
+   </p>
+   <section class="_135editor" data-id="94248" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section style="text-align: center;width: auto;margin-top: 15px;margin-bottom: 15px;">
+     <section style="width: 30px;float: right;margin-top: -10px;margin-left: -14px;">
+      <img class="" data-ratio="0.6222222222222222" data-type="png" data-w="45" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVoWhQzQdGVTpQtL3rBGAGas26KUBFiaibsnK69Dibia1cZzIbKZPgqDKL3Ug/640?wx_fmt=png" style="width: 30px;"/>
+     </section>
+     <section style="display:inline-block;clear: both;margin-top:10px;">
+      <section style='padding: 10px 15px 30px 10px;color: rgb(86, 146, 214);background-image: url("https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVojMB86BgnIYZ1azwhy3mJgoDcNGZfoVOSbl5KGoK8fawTVEgLAKjf2A/640?wx_fmt=png");background-repeat: no-repeat;background-size: 100% 100%;letter-spacing: 1.5px;box-sizing: border-box;'>
+       <section class="135brush" data-brushtype="text" style="font-size: 14px;color: rgb(51, 51, 51);">
+        <span style="font-size: 17px;">
+         <strong>
+          四月 成长+
+         </strong>
+        </span>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <p class="a a7" style="font-size: 17px;text-align: center;">
+    <span style="color: rgb(127, 127, 127);font-size: 15px;">
+     • 未来教师暴走计划12.0
+    </span>
+   </p>
+   <section class="_135editor" data-id="94059" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section data-width="100%" style="width: 100%;padding-bottom: 15px;box-sizing: border-box;">
+     <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: flex-end;">
+      <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: center;">
+       <section style="width: 10px;height:7em;background:#d3f9fa;margin-top: 1em;">
+       </section>
+       <section data-width="100%" style="width: 100%;">
+        <img class="" data-ratio="0.5614173228346456" data-type="jpeg" data-w="1270" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVoSryRAtYo8WlML9cUNRRVp8A9rL3CPwT3a589OwsVBSRlkB1ibnsl6Bw/640?wx_fmt=jpeg" style="width: 100%;display: block;"/>
+       </section>
+      </section>
+      <section>
+       <section style="width: 10px;height: 8em;border-top: 1px solid rgb(211, 211, 211);border-right: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-bottom: none;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section data-width="70%" style="width: 70%;height: 10px;border-right: 1px solid rgb(211, 211, 211);border-bottom: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-top: none;float: right;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+   <p style="font-size: 17px;text-align: center;">
+    <br/>
+   </p>
+   <p class="a a7" style="font-size: 17px;text-align: center;">
+    <span style="color: rgb(127, 127, 127);font-size: 15px;">
+     • 同学请回答大型趣味知识竞答
+    </span>
+   </p>
+   <section class="_135editor" data-id="94059" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section data-width="100%" style="width: 100%;padding-bottom: 15px;box-sizing: border-box;">
+     <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: flex-end;">
+      <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: center;">
+       <section style="width: 10px;height:7em;background:#d3f9fa;margin-top: 1em;">
+       </section>
+       <section data-width="100%" style="width: 100%;">
+        <img class="" data-ratio="0.66640625" data-type="jpeg" data-w="1280" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVoZ4a5tLR8bI0nicDggTubic8IQr0Is1KXyFtZd7cNyjT1YCuEmKDGBSRw/640?wx_fmt=jpeg" style="width: 100%;display: block;"/>
+       </section>
+      </section>
+      <section>
+       <section style="width: 10px;height: 8em;border-top: 1px solid rgb(211, 211, 211);border-right: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-bottom: none;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section data-width="70%" style="width: 70%;height: 10px;border-right: 1px solid rgb(211, 211, 211);border-bottom: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-top: none;float: right;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+   <p class="a a7" style="font-size: 17px;text-align: center;">
+    <br/>
+   </p>
+   <p class="a a7" style="font-size: 17px;text-align: center;">
+    <span style="color: rgb(127, 127, 127);font-size: 15px;">
+     • 孟宪承书院第六届职业规划大赛
+    </span>
+   </p>
+   <section class="_135editor" data-id="94059" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section data-width="100%" style="width: 100%;padding-bottom: 15px;box-sizing: border-box;">
+     <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: flex-end;">
+      <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: center;">
+       <section style="width: 10px;height:7em;background:#d3f9fa;margin-top: 1em;">
+       </section>
+       <section data-width="100%" style="width: 100%;">
+        <img class="" data-ratio="0.66125" data-type="jpeg" data-w="800" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVowAElwibsEAQvMJ6QoyqURnmOnBeibx13Jx3e7ypbJeSAUmzXgXmpOOkQ/640?wx_fmt=jpeg" style="width: 100%;display: block;"/>
+       </section>
+      </section>
+      <section>
+       <section style="width: 10px;height: 8em;border-top: 1px solid rgb(211, 211, 211);border-right: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-bottom: none;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section data-width="70%" style="width: 70%;height: 10px;border-right: 1px solid rgb(211, 211, 211);border-bottom: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-top: none;float: right;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+   <p style="font-size: 17px;text-align: center;">
+    <br/>
+   </p>
+   <p class="a a7" style="font-size: 17px;text-align: center;">
+    <span style="font-size: 15px;color: rgb(127, 127, 127);">
+     • 孟院讲堂系列讲座
+    </span>
+   </p>
+   <section class="_135editor" data-id="94059" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section data-width="100%" style="width: 100%;padding-bottom: 15px;box-sizing: border-box;">
+     <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: flex-end;">
+      <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: center;">
+       <section style="width: 10px;height:7em;background:#d3f9fa;margin-top: 1em;">
+       </section>
+       <section data-width="100%" style="width: 100%;">
+        <img class="" data-ratio="0.6666666666666666" data-type="jpeg" data-w="960" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVoXzHKZskuYFeT74UOOEKdg7ZBVStbOa4sJFBnSg6QW3fgpGwTjavB8w/640?wx_fmt=jpeg" style="width: 100%;display: block;"/>
+       </section>
+      </section>
+      <section>
+       <section style="width: 10px;height: 8em;border-top: 1px solid rgb(211, 211, 211);border-right: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-bottom: none;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section data-width="70%" style="width: 70%;height: 10px;border-right: 1px solid rgb(211, 211, 211);border-bottom: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-top: none;float: right;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+   <p style="font-size: 17px;text-align: center;">
+    <br/>
+   </p>
+   <section class="_135editor" data-id="94248" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section style="text-align: center;width: auto;margin-top: 15px;margin-bottom: 15px;">
+     <section style="width: 30px;float: right;margin-top: -10px;margin-left: -14px;">
+      <img class="" data-ratio="0.6222222222222222" data-type="png" data-w="45" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVoWhQzQdGVTpQtL3rBGAGas26KUBFiaibsnK69Dibia1cZzIbKZPgqDKL3Ug/640?wx_fmt=png" style="width: 30px;"/>
+     </section>
+     <section style="display:inline-block;clear: both;margin-top:10px;">
+      <section style='padding: 10px 15px 30px 10px;color: rgb(86, 146, 214);background-image: url("https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVojMB86BgnIYZ1azwhy3mJgoDcNGZfoVOSbl5KGoK8fawTVEgLAKjf2A/640?wx_fmt=png");background-repeat: no-repeat;background-size: 100% 100%;letter-spacing: 1.5px;box-sizing: border-box;'>
+       <section class="135brush" data-brushtype="text" style="font-size: 14px;color: rgb(51, 51, 51);">
+        <span style="font-size: 17px;">
+         <strong>
+          五月 奋斗+
+         </strong>
+        </span>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <p class="a a7" style="font-size: 17px;text-align: center;">
+    <span style="color: rgb(127, 127, 127);font-size: 15px;">
+     • 领导力特训营11.0
+    </span>
+   </p>
+   <section class="_135editor" data-id="94059" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section data-width="100%" style="width: 100%;padding-bottom: 15px;box-sizing: border-box;">
+     <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: flex-end;">
+      <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: center;">
+       <section style="width: 10px;height:7em;background:#d3f9fa;margin-top: 1em;">
+       </section>
+       <section data-width="100%" style="width: 100%;">
+        <img class="" data-ratio="0.667192429022082" data-type="jpeg" data-w="1268" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVobA8ibQMSV690oiadmNnIEVaaRTqqy9wARwEC7BRt6OKuxAXpucLibodXw/640?wx_fmt=jpeg" style="width: 100%;display: block;"/>
+       </section>
+      </section>
+      <section>
+       <section style="width: 10px;height: 8em;border-top: 1px solid rgb(211, 211, 211);border-right: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-bottom: none;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section data-width="70%" style="width: 70%;height: 10px;border-right: 1px solid rgb(211, 211, 211);border-bottom: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-top: none;float: right;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+   <p style="font-size: 17px;text-align: center;">
+    <br/>
+   </p>
+   <p class="a a7" style="font-size: 17px;text-align: center;">
+    <span style="color: rgb(127, 127, 127);font-size: 15px;">
+     • 五月天社团风采展
+    </span>
+   </p>
+   <section class="_135editor" data-id="94059" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section data-width="100%" style="width: 100%;padding-bottom: 15px;box-sizing: border-box;">
+     <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: flex-end;">
+      <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: center;">
+       <section style="width: 10px;height:7em;background:#d3f9fa;margin-top: 1em;">
+       </section>
+       <section data-width="100%" style="width: 100%;">
+        <img class="" data-ratio="0.6669291338582677" data-type="jpeg" data-w="1270" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVojoMFl6L3GAiaO1hU0bFauruossGRxoMRwNKGpDBQdhac3xnXzUfkNzA/640?wx_fmt=jpeg" style="width: 100%;display: block;"/>
+       </section>
+      </section>
+      <section>
+       <section style="width: 10px;height: 8em;border-top: 1px solid rgb(211, 211, 211);border-right: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-bottom: none;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section data-width="70%" style="width: 70%;height: 10px;border-right: 1px solid rgb(211, 211, 211);border-bottom: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-top: none;float: right;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+   <p style="font-size: 17px;text-align: center;">
+    <br/>
+   </p>
+   <p class="a a7" style="font-size: 17px;text-align: center;">
+    <span style="color: rgb(127, 127, 127);font-size: 15px;">
+     • 城市与文化寻访——
+    </span>
+   </p>
+   <p class="a a7" style="font-size: 17px;text-align: center;">
+    <span style="color: rgb(127, 127, 127);font-size: 15px;">
+     海峡两岸及港澳地区书院交流互访
+    </span>
+   </p>
+   <section class="_135editor" data-id="94059" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section data-width="100%" style="width: 100%;padding-bottom: 15px;box-sizing: border-box;">
+     <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: flex-end;">
+      <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: center;">
+       <section style="width: 10px;height:7em;background:#d3f9fa;margin-top: 1em;">
+       </section>
+       <section data-width="100%" style="width: 100%;">
+        <img class="" data-ratio="0.6669291338582677" data-type="jpeg" data-w="1270" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVof0v0xS0PX6KW9n4coh9YNC817kFSz7YGNZtIYrRRofJJyleWLeaQqg/640?wx_fmt=jpeg" style="width: 100%;display: block;"/>
+       </section>
+      </section>
+      <section>
+       <section style="width: 10px;height: 8em;border-top: 1px solid rgb(211, 211, 211);border-right: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-bottom: none;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section data-width="70%" style="width: 70%;height: 10px;border-right: 1px solid rgb(211, 211, 211);border-bottom: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-top: none;float: right;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+   <p style="font-size: 17px;text-align: center;">
+    <br/>
+   </p>
+   <p class="a a7" style="font-size: 17px;text-align: center;">
+    <span style="color: rgb(127, 127, 127);font-size: 15px;">
+     • 书院榜样——
+    </span>
+   </p>
+   <p class="a a7" style="font-size: 17px;text-align: center;">
+    <span style="color: rgb(127, 127, 127);font-size: 15px;">
+     孟宪承书院表彰大会
+    </span>
+   </p>
+   <section class="_135editor" data-id="94059" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section data-width="100%" style="width: 100%;padding-bottom: 15px;box-sizing: border-box;">
+     <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: flex-end;">
+      <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: center;">
+       <section style="width: 10px;height:7em;background:#d3f9fa;margin-top: 1em;">
+       </section>
+       <section data-width="100%" style="width: 100%;">
+        <img class="" data-ratio="0.66640625" data-type="jpeg" data-w="1280" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVoxz26UH2NPJnxCzF5MfDTzn2mj9Gfj9bBNoheYcufymKwCUAz4weQ6Q/640?wx_fmt=jpeg" style="width: 100%;display: block;"/>
+       </section>
+      </section>
+      <section>
+       <section style="width: 10px;height: 8em;border-top: 1px solid rgb(211, 211, 211);border-right: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-bottom: none;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section data-width="70%" style="width: 70%;height: 10px;border-right: 1px solid rgb(211, 211, 211);border-bottom: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-top: none;float: right;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+   <p style="font-size: 17px;text-align: center;">
+    <br/>
+   </p>
+   <section class="_135editor" data-id="94248" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section style="text-align: center;width: auto;margin-top: 15px;margin-bottom: 15px;">
+     <section style="width: 30px;float: right;margin-top: -10px;margin-left: -14px;">
+      <img class="" data-ratio="0.6222222222222222" data-type="png" data-w="45" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVoWhQzQdGVTpQtL3rBGAGas26KUBFiaibsnK69Dibia1cZzIbKZPgqDKL3Ug/640?wx_fmt=png" style="width: 30px;"/>
+     </section>
+     <section style="display:inline-block;clear: both;margin-top:10px;">
+      <section style='padding: 10px 15px 30px 10px;color: rgb(86, 146, 214);background-image: url("https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVojMB86BgnIYZ1azwhy3mJgoDcNGZfoVOSbl5KGoK8fawTVEgLAKjf2A/640?wx_fmt=png");background-repeat: no-repeat;background-size: 100% 100%;letter-spacing: 1.5px;box-sizing: border-box;'>
+       <section class="135brush" data-brushtype="text" style="font-size: 14px;color: rgb(51, 51, 51);">
+        <span style="font-size: 17px;">
+         <strong>
+          六月 笃行+
+         </strong>
+        </span>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <p class="a a7" style="font-size: 17px;text-align: center;">
+    <span style="color: rgb(127, 127, 127);font-size: 15px;">
+     • 2019届毕业盛典及毕业季系列活动
+    </span>
+   </p>
+   <section class="_135editor" data-id="94059" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section data-width="100%" style="width: 100%;padding-bottom: 15px;box-sizing: border-box;">
+     <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: flex-end;">
+      <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: center;">
+       <section style="width: 10px;height:7em;background:#d3f9fa;margin-top: 1em;">
+       </section>
+       <section data-width="100%" style="width: 100%;">
+        <img class="" data-ratio="0.6666666666666666" data-type="jpeg" data-w="1269" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVolsK2pmHHo8vpcoO6UMEgdgzScle1TmkGdFUEAQE4IYJBnbkotpiaJOA/640?wx_fmt=jpeg" style="width: 100%;display: block;"/>
+       </section>
+      </section>
+      <section>
+       <section style="width: 10px;height: 8em;border-top: 1px solid rgb(211, 211, 211);border-right: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-bottom: none;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section data-width="70%" style="width: 70%;height: 10px;border-right: 1px solid rgb(211, 211, 211);border-bottom: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-top: none;float: right;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+   <p style="font-size: 17px;text-align: center;">
+    <br/>
+   </p>
+   <p class="a a7" style="font-size: 17px;text-align: center;">
+    <span style="color: rgb(127, 127, 127);font-size: 15px;">
+     • 生命影响生命——
+    </span>
+   </p>
+   <p class="a a7" style="font-size: 17px;text-align: center;">
+    <span style="color: rgb(127, 127, 127);font-size: 15px;">
+     志愿公益与社会实践服务学习营
+    </span>
+   </p>
+   <section class="_135editor" data-id="94059" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section data-width="100%" style="width: 100%;padding-bottom: 15px;box-sizing: border-box;">
+     <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: flex-end;">
+      <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: center;">
+       <section style="width: 10px;height:7em;background:#d3f9fa;margin-top: 1em;">
+       </section>
+       <section data-width="100%" style="width: 100%;">
+        <img class="" data-ratio="0.6669291338582677" data-type="jpeg" data-w="1270" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVo0ib5ibLNKGTlib36D1WhJBJyqEOa31uiap4cYPl4Xey1rqeqAPyEQkJFGQ/640?wx_fmt=jpeg" style="width: 100%;display: block;"/>
+       </section>
+      </section>
+      <section>
+       <section style="width: 10px;height: 8em;border-top: 1px solid rgb(211, 211, 211);border-right: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-bottom: none;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section data-width="70%" style="width: 70%;height: 10px;border-right: 1px solid rgb(211, 211, 211);border-bottom: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-top: none;float: right;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+   <p style="font-size: 17px;text-align: center;">
+    <br/>
+   </p>
+   <p class="a a7" style="font-size: 17px;text-align: center;">
+    <span style="color: rgb(127, 127, 127);font-size: 15px;">
+     • 第九届教师技能大赛
+    </span>
+   </p>
+   <section class="_135editor" data-id="94059" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section data-width="100%" style="width: 100%;padding-bottom: 15px;box-sizing: border-box;">
+     <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: flex-end;">
+      <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: center;">
+       <section style="width: 10px;height:7em;background:#d3f9fa;margin-top: 1em;">
+       </section>
+       <section data-width="100%" style="width: 100%;">
+        <img class="" data-ratio="0.6669291338582677" data-type="jpeg" data-w="1270" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVoDWus8EicwSxhwLQNGYVxpLfmdWX1Cy3EdiaseerElaRuZliabia3qHqucg/640?wx_fmt=jpeg" style="width: 100%;display: block;"/>
+       </section>
+      </section>
+      <section>
+       <section style="width: 10px;height: 8em;border-top: 1px solid rgb(211, 211, 211);border-right: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-bottom: none;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section data-width="70%" style="width: 70%;height: 10px;border-right: 1px solid rgb(211, 211, 211);border-bottom: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-top: none;float: right;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+   <p style="font-size: 17px;text-align: center;">
+    <br/>
+   </p>
+   <p class="a a7" style="font-size: 17px;text-align: center;">
+    <span style="color: rgb(127, 127, 127);font-size: 15px;">
+     • 孟宪承书院第五届科创研修班
+    </span>
+   </p>
+   <section class="_135editor" data-id="94059" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section data-width="100%" style="width: 100%;padding-bottom: 15px;box-sizing: border-box;">
+     <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: flex-end;">
+      <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: center;">
+       <section style="width: 10px;height:7em;background:#d3f9fa;margin-top: 1em;">
+       </section>
+       <section data-width="100%" style="width: 100%;">
+        <img class="" data-ratio="0.6666666666666666" data-type="jpeg" data-w="1269" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVogHRxjzMoMgBBZ7YicVHkvdvaOCg8iap9aJ7NB34onkJuUAP1tVgiaicjxw/640?wx_fmt=jpeg" style="width: 100%;display: block;"/>
+       </section>
+      </section>
+      <section>
+       <section style="width: 10px;height: 8em;border-top: 1px solid rgb(211, 211, 211);border-right: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-bottom: none;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section data-width="70%" style="width: 70%;height: 10px;border-right: 1px solid rgb(211, 211, 211);border-bottom: 1px solid rgb(211, 211, 211);border-left: 1px solid rgb(211, 211, 211);border-top: none;float: right;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+   <p style="font-size: 17px;text-align: center;">
+    <br/>
+   </p>
+   <p style="font-size: 17px;text-align: left;text-indent: 2em;">
+    <span style="color: rgb(127, 127, 127);font-size: 15px;">
+     在“求实创造，为人师表”校训的引领下，孟宪承书院将继续贯彻“一体两翼双驱动”的第二课堂培养体系，分别在三、四、五、六月以“先锋+”、“成长+”、“奋斗+”、“笃行+”为主题，通过系列沙龙、学业咨询、体验课程、精彩赛事、博雅教育等活动，助力提升书院学子的精神风貌，将“以文育人、以文化人”的书院精神贯穿于全人教育中。
+    </span>
+   </p>
+   <p style="font-size: 17px;text-align: center;">
+    <img class="" data-ratio="1.4511873350923483" data-type="jpeg" data-w="379" height="550.0pt" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVoB6aGa5n5HEeASHlIoxpyg1VMCJVHsWpsBdKiczc2XHqzHJlibXibuK4HQ/640?wx_fmt=jpeg" width="379.0pt"/>
+   </p>
+   <p style="font-size: 17px;text-align: center;">
+    <br/>
+   </p>
+   <p style="font-size: 17px;text-align: center;">
+    <span style="color: rgb(127, 127, 127);font-size: 15px;">
+     更多详细第二课堂重点工作布局，点击下方表格查阅！
+    </span>
+   </p>
+   <p>
+    <img class="" data-copyright="0" data-ratio="0.07657657657657657" data-s="300,640" data-type="jpeg" data-w="1110" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVop6DS5icYbWIsZWZpU5OFRU1jZNd1hSxpLKmHFXAAIfFGtxjNSTMFqag/640?wx_fmt=jpeg" style=""/>
+   </p>
+   <p>
+    <img class="" data-copyright="0" data-ratio="0.35315315315315315" data-s="300,640" data-type="jpeg" data-w="1110" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVoRkV28CdIlWanmlN7ABLq7qYxZrVtDtgSQf3ibOicGjG1BLibNCEyMGc2A/640?wx_fmt=jpeg" style=""/>
+   </p>
+   <p>
+    <img class="" data-copyright="0" data-ratio="0.2585585585585586" data-s="300,640" data-type="jpeg" data-w="1110" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVo2T2prtuMibwYqqLL7ckYFpUI7oeqOWuw9b7s1GFdJ90EYvOxm8HGKwA/640?wx_fmt=jpeg" style=""/>
+   </p>
+   <p>
+    <img class="" data-copyright="0" data-ratio="0.2810810810810811" data-s="300,640" data-type="jpeg" data-w="1110" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVomdibVxGtvtOUbfWxRV13b85PlohhDJ8TAS6RWXicNK5IiaZdZEotDSobQ/640?wx_fmt=jpeg" style=""/>
+   </p>
+   <p>
+    <img class="" data-copyright="0" data-ratio="0.1873873873873874" data-s="300,640" data-type="jpeg" data-w="1110" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVo4ZAYyFMwBicYSTUnGzj3mO9EOH8saFTMjhSyZ6KYlpsM9dH0E7iah4Pw/640?wx_fmt=jpeg" style=""/>
+   </p>
+   <p>
+    <img class="" data-copyright="0" data-ratio="0.14144144144144144" data-s="300,640" data-type="jpeg" data-w="1110" src="https://mmbiz.qpic.cn/mmbiz_jpg/YiaY80TEL0adwF8NyCLhIGjPfa9bPzuVo7svTSiaEU5Maib59ibmRaZsLXKgM2avKp94C9Oib2w6EPEKdyouCWJV9fw/640?wx_fmt=jpeg" style=""/>
+   </p>
+   <p style="text-align: center;">
+    <br/>
+   </p>
+  </section>
+ </section>
+ <p style="text-align: right;">
+  <span style="color: rgb(127, 127, 127);font-size: 15px;">
+   编辑 | 赵守帅
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <img class="" data-copyright="0" data-ratio="0.6541176470588236" data-s="300,640" data-type="png" data-w="850" src="https://mmbiz.qpic.cn/mmbiz_png/YiaY80TEL0aexcUjYRDIrDP7RTicHTiapqnicIIZvI7vfAQKfInKIw53MEM11V1nibicf91hdfm8rQCXKZRzIx1UMfkA/640?wx_fmt=png" style=""/>
+ </p>

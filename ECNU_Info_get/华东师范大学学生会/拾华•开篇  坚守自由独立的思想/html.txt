@@ -1,0 +1,609 @@
+
+ <section class="xmteditor" data-label="powered by xmt.cn" data-tools="新媒体管家" style="display:none;">
+ </section>
+ <section data-role="outer" label="Powered by 135editor.com" style="">
+  <section class="_135editor" data-id="93373" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section data-role="outer" label="Powered by 135editor.com" style="">
+    <section class="_135editor" data-id="93373" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section data-role="outer" label="Powered by 135editor.com" style="">
+      <section class="_135editor" data-id="93373" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+       <section data-role="outer" label="Powered by 135editor.com" style="">
+        <section class="_135editor" data-id="93373" data-tools="135编辑器" style="font-size: 16px;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <p style="text-align: center;">
+          <img class="" data-copyright="0" data-ratio="0.52" data-s="300,640" data-type="jpeg" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_jpg/3aG8eVtib7kJJELWckAAnteMhl4iclvduwu2LonUj9bSSQqJ1ibPVLTb3lMslicxdNJl6zkwojlkXzcriauia0AIHiaSw/640?wx_fmt=jpeg" style=""/>
+         </p>
+         <section style="text-align: center;">
+          <section style="display: inline-block;">
+          </section>
+          <br/>
+         </section>
+         <section style="text-align: center;">
+          <section style="display: inline-block;">
+           <img class="" data-ratio="1" data-type="png" data-w="70" src="https://mmbiz.qpic.cn/mmbiz_png/3aG8eVtib7kLqzST1ZwII3ntiakGf2WOckyEia8OPxfK3om1ibdNUOsJonsLiaibF7LYicsyPmyrBRpibzhcwjtrQ8UwVg/640?wx_fmt=png" style="width: 40px;display: block;"/>
+          </section>
+         </section>
+        </section>
+        <section class="_135editor" data-role="paragraph" data-width="95%" style="border-width: 0px;border-style: none;border-color: initial;margin-right: auto;margin-left: auto;width: 95%;box-sizing: border-box;">
+         <p style="font-size: 16px;text-align: center;line-height: 1.75em;">
+          <span style='line-height: 150%;font-family: "Microsoft YaHei", 微软雅黑;font-size: 14px;'>
+           大家开学快乐！
+          </span>
+         </p>
+         <p style="font-size: 16px;text-align: center;line-height: 1.75em;">
+          <span style='line-height: 150%;font-family: "Microsoft YaHei", 微软雅黑;font-size: 14px;'>
+           作为沪上开学最早（堪比中小学）的学生
+          </span>
+         </p>
+         <p style="font-size: 16px;text-align: center;line-height: 1.75em;">
+          <span style='line-height: 150%;font-family: "Microsoft YaHei", 微软雅黑;font-size: 14px;'>
+           一周以来有什么感受呢？
+          </span>
+         </p>
+         <p style="font-size: 16px;text-align: center;line-height: 1.75em;">
+          <span style='line-height: 150%;font-family: "Microsoft YaHei", 微软雅黑;font-size: 14px;'>
+           如果你的大脑还处在混沌的假期状态
+          </span>
+         </p>
+         <p style="text-align: center;line-height: 1.75em;">
+          <span style="font-family:Microsoft YaHei, 微软雅黑;">
+           <span style="font-size: 14px;">
+            不如阅读下文
+           </span>
+          </span>
+          <span style='line-height: 150%;font-family: "Microsoft YaHei", 微软雅黑;font-size: 14px;'>
+           <span style="line-height: 150%;color: #366092;">
+            <strong>
+             醒醒神
+            </strong>
+           </span>
+          </span>
+          <span style="font-family:Microsoft YaHei, 微软雅黑;">
+           <span style="font-size: 14px;">
+            吧~
+           </span>
+          </span>
+         </p>
+         <p style="font-size: 16px;line-height: 150%;">
+          <br/>
+         </p>
+        </section>
+        <section class="_135editor" data-role="paragraph" style="font-size: 16px;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <p>
+          <br/>
+         </p>
+        </section>
+        <section class="_135editor" data-id="93765" data-tools="135编辑器" style="font-size: 16px;border-width: 0px;border-style: none;border-color: initial;opacity: 0.9;box-sizing: border-box;">
+         <section data-width="100%" style="width: 100%;text-align: center;">
+          <section style="font-size: 18px;display: inline-block;padding-right: 10px;letter-spacing: -2px;box-sizing: border-box;">
+           ◆◆
+          </section>
+          <section style="display: inline-block;">
+           <section class="135brush" data-brushtype="text" style="padding-right: 0.8em;padding-left: 0.8em;font-size: 18px;letter-spacing: 2px;font-weight: bold;box-sizing: border-box;">
+            <strong>
+             <span style="font-size: 20px;color: #000000;">
+              壹
+             </span>
+            </strong>
+           </section>
+           <section data-width="100%" style="width: 100%;height: 10px;background: rgb(74, 111, 195);border-radius: 20px;margin-top: -10px;box-sizing: border-box;">
+           </section>
+          </section>
+          <section style="font-size: 18px;display: inline-block;padding-left: 10px;letter-spacing: -2px;box-sizing: border-box;">
+           ◆◆
+          </section>
+         </section>
+        </section>
+        <section class="_135editor" data-role="paragraph" style="font-size: 16px;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <p>
+          <br/>
+         </p>
+        </section>
+        <section class="_135editor" data-role="paragraph" style="font-size: 16px;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <p>
+          <br/>
+         </p>
+        </section>
+        <section class="_135editor" data-role="paragraph" data-width="90%" style="font-size: 16px;border-width: 0px;border-style: none;border-color: initial;margin-right: auto;margin-left: auto;width: 90%;box-sizing: border-box;">
+         <p style="line-height: 1.75em;">
+          <span style='line-height: 150%;font-family: "Microsoft YaHei", 微软雅黑;font-size: 14px;'>
+           首先，给大家讲一个“故事”。
+          </span>
+         </p>
+         <p style="line-height: 150%;">
+          <br/>
+         </p>
+         <p style="line-height: 1.75em;">
+          <span style='line-height: 150%;font-family: "Microsoft YaHei", 微软雅黑;font-size: 14px;'>
+           在1995年的旧金山，举行了一场聚集了全世界500多位精英的“
+           <span style="line-height: 150%;color: #366092;">
+            <strong>
+             费尔蒙特饭店会议
+            </strong>
+           </span>
+           ”。这场会议主要讨论了关于应对全球化以及如何引导人类走向21世纪的问题，为未来世界的走向画了一个蓝图。
+          </span>
+         </p>
+         <p style="line-height: 150%;">
+          <br/>
+         </p>
+         <p style="line-height: 1.75em;">
+          <span style='line-height: 150%;font-family: "Microsoft YaHei", 微软雅黑;font-size: 14px;'>
+           在这场高端大会上，与会者们首先肯定了“
+           <span style="line-height: 150%;color: #366092;">
+            <strong>
+             二八定律
+            </strong>
+           </span>
+           ”——这个世界上80%的财富都是由20%的人们创造的。这样的不匹配就会带来贫富分化，地球上的资源有限，而少数人占有了大量的财富，那么贫穷的大多数肯定会觉得很不公平，进而团结起来与“富贵的少数”发生激烈的冲突，引发社会动荡。
+          </span>
+         </p>
+         <p style="line-height: 1.75em;">
+          <span style='line-height: 150%;font-family: "Microsoft YaHei", 微软雅黑;font-size: 14px;'>
+           <br/>
+          </span>
+         </p>
+         <p>
+          <br/>
+         </p>
+        </section>
+        <p style="font-size: 16px;line-height: 150%;">
+         <br/>
+        </p>
+        <p style="font-size: 16px;line-height: 150%;text-align: center;">
+         <span style='line-height: 150%;font-family: "Microsoft YaHei", 微软雅黑;font-size: 14px;'>
+          <img class="" data-ratio="0.6616915422885572" data-type="jpeg" data-w="402" height="121" src="https://mmbiz.qpic.cn/mmbiz_jpg/3aG8eVtib7kLqzST1ZwII3ntiakGf2WOckicBRp8gIGdncZcDzKsHEMNdja3B8EAibZoQ7FgkMY6WibuDjfgZ8CzePA/640?wx_fmt=jpeg" style="width: 183px;height: 121px;" width="183"/>
+         </span>
+        </p>
+        <p style="font-size: 16px;border-width: 0px;border-style: none;border-color: initial;margin-right: auto;margin-left: auto;width: 90%;line-height: 1.5em;">
+         <br/>
+        </p>
+        <section class="_135editor" data-role="paragraph" data-width="90%" style="font-size: 16px;border-width: 0px;border-style: none;border-color: initial;margin-right: auto;margin-left: auto;width: 90%;box-sizing: border-box;">
+         <p style="line-height: 1.75em;">
+          <span style="font-size: 14px;">
+           <br/>
+          </span>
+         </p>
+         <p style="line-height: 1.75em;">
+          <span style="font-size: 14px;">
+           这样的情景肯定是这些与会的精英们连想象都会觉得痛心的，“我们辛辛苦苦积累来的财富怎么能被抢夺走呢？”于是，
+           <span style='font-family: "Microsoft YaHei", 微软雅黑;'>
+            布热津斯基这位美国高级智囊就想出了一个办法：
+            <span style="color: #366092;">
+             <strong>
+              喂奶主义
+             </strong>
+            </span>
+            （
+           </span>
+           <span style='color: #262626;font-family: "Microsoft YaHei", 微软雅黑;'>
+            Tittytainment）。具体策略的其中一条就是发展娱乐性的产业——散布娱乐圈琐事、花边新闻，让大众沉溺于享乐和安逸中，从而
+            <span style="color: #366092;">
+             <strong>
+              丧失上进心和深度思考能力
+             </strong>
+            </span>
+            。于是，这些人只要简单的工作，有易得的快乐，便会沉溺其中，无心挑战20%的统治阶级。
+           </span>
+          </span>
+         </p>
+        </section>
+        <section class="_135editor" data-role="paragraph" style="font-size: 16px;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <p>
+          <br/>
+         </p>
+        </section>
+        <section class="_135editor" data-role="paragraph" style="font-size: 16px;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <p>
+          <br/>
+         </p>
+        </section>
+        <section class="_135editor" data-id="93765" data-tools="135编辑器" style="font-size: 16px;border-width: 0px;border-style: none;border-color: initial;opacity: 0.9;box-sizing: border-box;">
+         <section data-width="100%" style="width: 100%;text-align: center;">
+          <section style="font-size: 18px;display: inline-block;padding-right: 10px;letter-spacing: -2px;box-sizing: border-box;">
+           ◆◆
+          </section>
+          <section style="display: inline-block;">
+           <section class="135brush" data-brushtype="text" style="padding-right: 0.8em;padding-left: 0.8em;font-size: 18px;letter-spacing: 2px;font-weight: bold;box-sizing: border-box;">
+            <strong>
+             <span style='font-size: 20px;font-family: "Microsoft YaHei", 微软雅黑;color: rgb(0, 0, 0);'>
+              贰
+             </span>
+            </strong>
+           </section>
+           <section data-width="100%" style="width: 100%;height: 10px;background: rgb(74, 111, 195);border-radius: 20px;margin-top: -10px;box-sizing: border-box;">
+           </section>
+          </section>
+          <section style="font-size: 18px;display: inline-block;padding-left: 10px;letter-spacing: -2px;box-sizing: border-box;">
+           ◆◆
+          </section>
+         </section>
+        </section>
+        <section class="_135editor" data-role="paragraph" style="font-size: 16px;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <p>
+          <br/>
+         </p>
+        </section>
+        <section class="_135editor" data-role="paragraph" style="font-size: 16px;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <p>
+          <br/>
+         </p>
+        </section>
+        <section class="_135editor" data-role="paragraph" data-width="90%" style="font-size: 16px;border-width: 0px;border-style: none;border-color: initial;margin-right: auto;margin-left: auto;width: 90%;box-sizing: border-box;">
+         <p style="line-height: 1.75em;">
+          <span style='line-height: 150%;color: #262626;font-size: 14px;font-family: "Microsoft YaHei", 微软雅黑;'>
+           这样的解决方式听起来很荒谬，这个故事的真实性也曾受到许多质疑。可是，让我们转过头
+           <span style="line-height: 150%;color: #366092;">
+            <strong>
+             看看自己的生活
+            </strong>
+           </span>
+           ，微博、朋友圈里最爆炸性的消息是否大多数都来自于
+          </span>
+          <span style='line-height: 150%;color: #262626;font-size: 14px;font-family: "Microsoft YaHei", 微软雅黑;line-height: 150%;color: #366092;'>
+           <strong>
+            娱乐圈
+           </strong>
+          </span>
+          <span style='line-height: 150%;color: #262626;font-size: 14px;font-family: "Microsoft YaHei", 微软雅黑;'>
+           ？各种大V、公众号是否总是在有心或无心地带节奏？看过他人的观点之后，自己是否会在不自觉间变成一台“
+          </span>
+          <span style='line-height: 150%;color: #262626;font-size: 14px;font-family: "Microsoft YaHei", 微软雅黑;line-height: 150%;color: #366092;'>
+           <strong>
+            复读机
+           </strong>
+          </span>
+          <span style='line-height: 150%;color: #262626;font-size: 14px;font-family: "Microsoft YaHei", 微软雅黑;'>
+           ”？有了社交网络的帮助，人人皆可成为记者、写手，若我们因为懒于思考，思维就会轻轻松松地被这些舆论大头带走……
+          </span>
+         </p>
+         <p style="line-height: 1.75em;">
+          <span style='line-height: 150%;color: #262626;font-size: 14px;font-family: "Microsoft YaHei", 微软雅黑;'>
+           <br/>
+          </span>
+         </p>
+         <p style="line-height: 1.75em;">
+          <br/>
+         </p>
+        </section>
+        <p style="font-size: 16px;line-height: 150%;text-align: center;">
+         <span style='line-height: 150%;color: #262626;font-size: 14px;font-family: "Microsoft YaHei", 微软雅黑;'>
+          <img class="" data-ratio="1" data-type="jpeg" data-w="960" height="148" src="https://mmbiz.qpic.cn/mmbiz_jpg/3aG8eVtib7kLqzST1ZwII3ntiakGf2WOckVhT4lpWGQS2V66e9BlxfXicc0KKbPENXlNJr7rUSWHS8T0GwJY35l0A/640?wx_fmt=jpeg" style="width: 148px;height: 148px;" width="148"/>
+         </span>
+        </p>
+        <p style="font-size: 16px;border-width: 0px;border-style: none;border-color: initial;margin-right: auto;margin-left: auto;width: 90%;line-height: 1.75em;">
+         <br/>
+        </p>
+        <section class="_135editor" data-role="paragraph" data-width="90%" style="font-size: 16px;border-width: 0px;border-style: none;border-color: initial;margin-right: auto;margin-left: auto;width: 90%;box-sizing: border-box;">
+         <p style="line-height: 1.75em;">
+          <span style='color: #262626;font-size: 14px;font-family: "Microsoft YaHei", 微软雅黑;'>
+           <br/>
+          </span>
+         </p>
+         <p style="line-height: 1.75em;">
+          <span style='color: #262626;font-size: 14px;font-family: "Microsoft YaHei", 微软雅黑;'>
+           并不是说玩游戏、或是喜欢明星、流连于社交网络就是堕落，但在
+          </span>
+          <span style='line-height: 150%;color: #262626;font-size: 14px;font-family: "Microsoft YaHei", 微软雅黑;line-height: 150%;color: #366092;'>
+           <strong>
+            追求这些易得的快乐
+           </strong>
+          </span>
+          <span style='color: #262626;font-size: 14px;font-family: "Microsoft YaHei", 微软雅黑;'>
+           或是发泄的过程中，若是逐渐
+          </span>
+          <span style='line-height: 150%;color: #262626;font-size: 14px;font-family: "Microsoft YaHei", 微软雅黑;line-height: 150%;color: #366092;'>
+           <strong>
+            丧失了独立思考的动力
+           </strong>
+          </span>
+          <span style='color: #262626;font-size: 14px;font-family: "Microsoft YaHei", 微软雅黑;'>
+           ，贪图随波逐流的安逸，甚至最终，无法拥有独立的观点才是最可怕、最值得担心的事情。当一个人沦为
+          </span>
+          <span style='line-height: 150%;color: #262626;font-size: 14px;font-family: "Microsoft YaHei", 微软雅黑;line-height: 150%;color: #366092;'>
+           <strong>
+            牵线木偶
+           </strong>
+          </span>
+          <span style='color: #262626;font-size: 14px;font-family: "Microsoft YaHei", 微软雅黑;'>
+           ，任舆论操纵摆弄，那他便不再是一个完整独立的个体，存在的意义也会一点点消失。
+          </span>
+         </p>
+        </section>
+        <section class="_135editor" data-role="paragraph" style="font-size: 16px;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <p>
+          <br/>
+         </p>
+        </section>
+        <section class="_135editor" data-role="paragraph" style="font-size: 16px;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <p>
+          <br/>
+         </p>
+        </section>
+        <section class="_135editor" data-id="93765" data-tools="135编辑器" style="font-size: 16px;opacity: 0.9;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <section data-width="100%" style="width: 100%;text-align: center;">
+          <section style="font-size: 18px;display: inline-block;padding-right: 10px;letter-spacing: -2px;box-sizing: border-box;">
+           ◆◆
+          </section>
+          <section style="display: inline-block;">
+           <section class="135brush" data-brushtype="text" style="padding-right: 0.8em;padding-left: 0.8em;font-size: 18px;letter-spacing: 2px;font-weight: bold;box-sizing: border-box;">
+            <strong>
+             <span style='font-size: 20px;font-family: "Microsoft YaHei", 微软雅黑;color: rgb(0, 0, 0);'>
+              叁
+             </span>
+            </strong>
+           </section>
+           <section data-width="100%" style="width: 100%;height: 10px;background: rgb(74, 111, 195);border-radius: 20px;margin-top: -10px;box-sizing: border-box;">
+           </section>
+          </section>
+          <section style="font-size: 18px;display: inline-block;padding-left: 10px;letter-spacing: -2px;box-sizing: border-box;">
+           ◆◆
+          </section>
+         </section>
+        </section>
+        <section class="_135editor" data-role="paragraph" style="font-size: 16px;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <p>
+          <br/>
+         </p>
+        </section>
+        <section class="_135editor" data-role="paragraph" style="font-size: 16px;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <p>
+          <br/>
+         </p>
+        </section>
+        <section class="_135editor" data-role="paragraph" data-width="90%" style="font-size: 16px;border-width: 0px;border-style: none;border-color: initial;margin-right: auto;margin-left: auto;width: 90%;box-sizing: border-box;">
+         <p style="line-height: 1.75em;">
+          <span style='line-height: 150%;color: #262626;background: white;font-family: "Microsoft YaHei", 微软雅黑;font-size: 14px;'>
+           梁启超言，少年智则国智，少年强则国强。作为祖国未来中坚力量的我们，在这个黄金阶段学习专业知识固然重要，但培养出
+          </span>
+          <span style='line-height: 150%;color: #262626;font-size: 14px;font-family: "Microsoft YaHei", 微软雅黑;'>
+           <span style="line-height: 150%;color: rgb(54, 96, 146);">
+            <strong>
+             独立的世界观、价值观
+            </strong>
+           </span>
+          </span>
+          <span style='line-height: 150%;color: #262626;background: white;font-family: "Microsoft YaHei", 微软雅黑;font-size: 14px;'>
+           ，保留住我们不随波逐流的勇气才是能陪伴我们一生的财富。
+          </span>
+         </p>
+         <p style="line-height:150%;">
+          <br/>
+         </p>
+         <p style="line-height: 1.75em;">
+          <span style='font-family: "Microsoft YaHei", 微软雅黑;font-size: 14px;'>
+           <span style="line-height: 150%;color: rgb(38, 38, 38);background: white;">
+            于是，我们开辟了“
+            <span style="line-height: 150%;background-image: initial;background-position: initial;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;color: rgb(54, 96, 146);">
+             <strong>
+              拾华
+             </strong>
+            </span>
+            ”这一板块
+           </span>
+           <span style="line-height: 150%;">
+            。“拾华”寓意春华秋拾，我们将借助这个平台记录下我们华师人对时事问题的思索和探求，让思考成为我们最有力的武器和最响亮的声音，不被这个世界磨平、同化。
+           </span>
+          </span>
+         </p>
+         <p style="line-height:150%;">
+          <br/>
+         </p>
+         <p style="line-height: 1.75em;">
+          <span style='line-height: 150%;font-family: "Microsoft YaHei", 微软雅黑;font-size: 14px;'>
+           开学之后学习
+          </span>
+          <span style='line-height: 150%;color: #262626;font-size: 14px;font-family: "Microsoft YaHei", 微软雅黑;'>
+           <span style="line-height: 150%;color: rgb(54, 96, 146);">
+            <strong>
+             逐渐步入正轨
+            </strong>
+           </span>
+          </span>
+          <span style='line-height: 150%;font-family: "Microsoft YaHei", 微软雅黑;font-size: 14px;'>
+           ，思维也回到最活跃的状态，这时也是形成独立想法的
+          </span>
+          <span style='line-height: 150%;color: #262626;font-size: 14px;font-family: "Microsoft YaHei", 微软雅黑;'>
+           <span style="line-height: 150%;color: rgb(54, 96, 146);">
+            <strong>
+             最好时机
+            </strong>
+           </span>
+          </span>
+          <span style='line-height: 150%;font-family: "Microsoft YaHei", 微软雅黑;font-size: 14px;'>
+           。培养出独立思考的习惯和批判思维吧，遇到事情先问问“是真的吗”“为什么呢”。先记录下自己的思考，再去听听别人的声音，不断克服思维的惰性，久而久之才能成为一个有“主见”的人。
+          </span>
+         </p>
+         <p style="line-height: 1.75em;">
+          <span style='line-height: 150%;font-family: "Microsoft YaHei", 微软雅黑;font-size: 14px;'>
+           <br/>
+          </span>
+         </p>
+         <p style="line-height:150%;">
+          <br/>
+         </p>
+         <p style="line-height: 150%;text-align: center;">
+          <span style='line-height: 150%;font-family: "Microsoft YaHei", 微软雅黑;font-size: 14px;'>
+           <img class="" data-ratio="1" data-type="jpeg" data-w="500" height="174" src="https://mmbiz.qpic.cn/mmbiz_jpg/3aG8eVtib7kLqzST1ZwII3ntiakGf2WOckDiaN8taG0QibmibEFsnOoL7gbib7wtD7a36I9ufAA416fxHvY0cn3PzrEw/640?wx_fmt=jpeg" style="width: 174px;height: 174px;" width="174"/>
+          </span>
+         </p>
+         <p style="line-height: 150%;">
+          <br/>
+         </p>
+         <section class="_135editor" data-role="paragraph" data-width="90%" style="border-width: 0px;border-style: none;border-color: initial;margin-right: auto;margin-left: auto;width: 90%;box-sizing: border-box;">
+          <p>
+           <br/>
+          </p>
+         </section>
+         <section class="_135editor" data-id="93539" data-tools="135编辑器" data-width="100%" style="border-width: 0px;border-style: none;border-color: initial;margin-right: auto;margin-left: auto;width: 100%;box-sizing: border-box;">
+          <section style="margin: 20px 0%;box-sizing: border-box;">
+           <section data-width="98%" style="display: inline-block;width: 98%;vertical-align: top;border-color: #777a7a;border-width: 1px;border-radius: 0px;border-style: solid;padding: 10px 15px 15px;box-sizing: border-box;">
+            <section style="text-align: right;margin: -25px 0% 20px;box-sizing: border-box;transform: translate3d(16px, 0px, 0px);-webkit-transform: translate3d(16px, 0px, 0px);-moz-transform: translate3d(16px, 0px, 0px);-ms-transform: translate3d(16px, 0px, 0px);-o-transform: translate3d(16px, 0px, 0px);">
+             <section data-width="40%" style="display: inline-block;width: 40%;vertical-align: top;background-color: #ffffff;padding-left: 10px;box-sizing: border-box;">
+              <section style="text-align: left;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+               <section style="max-width: 100%;vertical-align: middle;display: inline-block;">
+                <section style="width:10px;height:10px;background:black;">
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+            <section style="box-sizing: border-box;">
+             <section class="135brush" style="font-size: 14px;line-height: 1.75em;color: rgb(63, 63, 63);letter-spacing: 1.5px;">
+              <p style="text-align: center;line-height: 1.75em;">
+               <strong style="color: #366092;font-size: 16px;">
+                <span style='line-height: 24px;font-family: "Microsoft YaHei", 微软雅黑;'>
+                 投稿方式
+                </span>
+               </strong>
+               <br/>
+              </p>
+              <p style="line-height: 1.75em;">
+               <span style='line-height: 150%;font-family: "Microsoft YaHei", 微软雅黑;'>
+                <br/>
+               </span>
+              </p>
+              <p style="line-height: 1.75em;text-align: justify;">
+               <span style='line-height: 150%;font-family: "Microsoft YaHei", 微软雅黑;'>
+                只要是关于这个世界、关于时事热点、关于华师生活的思考，都欢迎
+               </span>
+               <span style='font-family: "Microsoft YaHei", 微软雅黑;color: rgb(54, 96, 146);'>
+                <span style="line-height: 150%;">
+                 <strong>
+                  将你的想法发到
+                 </strong>
+                </span>
+                <strong>
+                 <span style="line-height: 150%;">
+                  ecnu_su_xmtzx@163.com
+                 </span>
+                </strong>
+               </span>
+               <span style='line-height: 150%;font-family: "Microsoft YaHei", 微软雅黑;'>
+                ，发出的声音，再微小，汇聚起来也能抵抗住那些妄想将我们同化的洪流。也欢迎大家在
+                <span style="line-height: 150%;color: rgb(54, 96, 146);">
+                 <strong>
+                  评论
+                 </strong>
+                </span>
+                中讨论，发出你的声音。被选中的文章有
+               </span>
+               <span style='line-height: 150%;color: #262626;font-size: 14px;font-family: "Microsoft YaHei", 微软雅黑;'>
+                <span style="line-height: 150%;color: rgb(54, 96, 146);">
+                 <strong>
+                  自选礼物
+                 </strong>
+                </span>
+               </span>
+               <span style='line-height: 150%;font-family: "Microsoft YaHei", 微软雅黑;'>
+                作为奖励哦~
+               </span>
+               <br/>
+              </p>
+             </section>
+            </section>
+            <section style="text-align: left;margin: 20px 0% -25px;box-sizing: border-box;transform: translate3d(-16px, 0px, 0px);-webkit-transform: translate3d(-16px, 0px, 0px);-moz-transform: translate3d(-16px, 0px, 0px);-ms-transform: translate3d(-16px, 0px, 0px);-o-transform: translate3d(-16px, 0px, 0px);">
+             <section data-width="40%" style="display: inline-block;width: 40%;vertical-align: top;background-color: #ffffff;padding-right: 10px;box-sizing: border-box;">
+              <section style="text-align: right;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+               <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+                <section style="width:10px;height:10px;background:black;">
+                 <br/>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+         <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+          <p>
+           <br/>
+          </p>
+         </section>
+         <section class="_135editor" data-id="93352" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+          <section style="color:#338daf;">
+           <section style="text-align: center;">
+            <section style="width: 30px;margin-right: auto;margin-left: auto;display: inline-block;">
+             <img class="" data-ratio="2.25" data-type="png" data-w="44" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/3aG8eVtib7kLWrgicdGRWZiczQeA0puQA2KOcXseojhYUCYJjYn6KPbXAuYK9RJ6icSpO4Vtm1jCucgQKmMribwmLrA/640?wx_fmt=png" style="width: 100%;display: block;"/>
+            </section>
+           </section>
+          </section>
+         </section>
+         <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+          <p>
+           <br/>
+          </p>
+         </section>
+         <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+          <p style="text-align: center;line-height: 1.75em;">
+           <span style='line-height: 150%;font-family: "Microsoft YaHei", 微软雅黑;font-size: 14px;'>
+            华师，
+            <strong>
+             <span style="line-height: 150%;color: rgb(54, 96, 146);">
+              拾华
+             </span>
+            </strong>
+           </span>
+          </p>
+          <p style="text-align: center;line-height: 1.75em;">
+           <span style='line-height: 150%;font-family: "Microsoft YaHei", 微软雅黑;font-size: 14px;'>
+            我们将悉心拾起、保存每个想法
+           </span>
+          </p>
+          <p style="text-align: center;line-height: 1.75em;">
+           <span style='line-height: 150%;font-family: "Microsoft YaHei", 微软雅黑;font-size: 14px;'>
+            当这些花瓣聚集
+           </span>
+          </p>
+          <p style="text-align: center;line-height: 1.75em;">
+           <span style='line-height: 150%;font-family: "Microsoft YaHei", 微软雅黑;font-size: 14px;'>
+            终将绽放出
+            <strong>
+             <span style="line-height: 150%;color: rgb(54, 96, 146);">
+              思想之花
+             </span>
+            </strong>
+           </span>
+          </p>
+          <p>
+           <br/>
+          </p>
+         </section>
+         <p style="line-height: 1.75em;">
+          <br/>
+         </p>
+        </section>
+       </section>
+       <section style="font-size: 16px;text-align: center;">
+        <section style="display: inline-block;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="text-align: right;">
+  <span style="font-size: 12px;color: rgb(136, 136, 136);">
+   文案 | 周祖晗
+  </span>
+ </p>
+ <p style="text-align: right;">
+  <span style="font-size: 12px;color: rgb(136, 136, 136);">
+   排版 | 罗佳旭
+  </span>
+ </p>
+ <p style="text-align: right;">
+  <span style="font-size: 12px;color: rgb(136, 136, 136);">
+   封面 | 杨洋
+  </span>
+ </p>
+ <p style="text-align: right;">
+  <span style="font-size: 12px;color: rgb(136, 136, 136);">
+   <br/>
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <img class="" data-copyright="0" data-ratio="0.59375" data-s="300,640" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/3aG8eVtib7kIQqovRjzYtEtoBzqUklRmjUZ33VTSuRBOEbOVkynPiblDjibQfl8RWJuWusTevUicStnQlbIibQls1mg/640?wx_fmt=jpeg" style=""/>
+ </p>

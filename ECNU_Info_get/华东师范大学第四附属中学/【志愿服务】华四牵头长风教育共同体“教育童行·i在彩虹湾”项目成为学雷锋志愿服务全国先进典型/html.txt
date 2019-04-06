@@ -1,0 +1,706 @@
+
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(254, 230, 194);box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 6px;margin-right: 0%;margin-left: 0%;text-align: center;box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="width: 15px;height: 15px;float: left;border-top: 2px solid rgb(166, 1, 1);border-left: 2px solid rgb(166, 1, 1);box-sizing: border-box;">
+        </section>
+        <section style="width: 15px;height: 15px;float: left;border-top: 2px solid rgb(166, 1, 1);border-left: 2px solid rgb(166, 1, 1);margin-left: -10px;margin-top: -5px;box-sizing: border-box;">
+        </section>
+        <section style="width: 15px;height: 15px;float: right;border-top: 2px solid rgb(166, 1, 1);border-right: 2px solid rgb(166, 1, 1);box-sizing: border-box;">
+        </section>
+        <section style="width: 15px;height: 15px;float: right;border-top: 2px solid rgb(166, 1, 1);border-right: 2px solid rgb(166, 1, 1);margin-right: -10px;margin-top: -5px;box-sizing: border-box;">
+        </section>
+        <section style="clear: both;box-sizing: border-box;">
+        </section>
+        <section style="margin-top: -10px;margin-bottom: -10px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+         <section style="border-width: 2px;border-style: solid;border-color: transparent;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+          <section powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="transform: translate3d(7px, 0px, 0px);margin-right: 0%;margin-bottom: 8px;margin-left: 0%;box-sizing: border-box;">
+            <section style="display: inline-block;vertical-align: top;width: 15%;box-sizing: border-box;">
+             <section powered-by="xiumi.us" style="box-sizing: border-box;">
+              <section style="margin-top: 3px;margin-bottom: 3px;font-size: 14px;box-sizing: border-box;">
+               <section style="display: inline-block;border-width: 1px;border-style: solid;border-color: rgb(166, 1, 1);background-color: rgb(166, 1, 1);width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 100%;margin-left: auto;margin-right: auto;font-size: 19px;color: rgb(255, 255, 255);box-sizing: border-box;">
+                <p style="clear: none;box-sizing: border-box;">
+                 喜
+                </p>
+               </section>
+              </section>
+             </section>
+            </section>
+            <section style="display: inline-block;vertical-align: top;width: 15%;box-sizing: border-box;">
+             <section powered-by="xiumi.us" style="box-sizing: border-box;">
+              <section style="margin-top: 3px;margin-bottom: 3px;text-align: left;transform: translate3d(-15px, 0px, 0px);font-size: 14px;box-sizing: border-box;">
+               <section style="display: inline-block;border-width: 1px;border-style: solid;border-color: rgb(166, 1, 1);background-color: rgb(166, 1, 1);text-align: center;width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 100%;margin-left: auto;margin-right: auto;font-size: 19px;color: rgb(255, 255, 255);box-sizing: border-box;">
+                <p style="clear: none;box-sizing: border-box;">
+                 报
+                </p>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+          <section powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="box-sizing: border-box;">
+            <section style="text-align: left;box-sizing: border-box;">
+             <p style="clear: none;box-sizing: border-box;">
+              中国文明网近日公布了2018年学雷锋志愿服务“四个100”先进典型公示名单，其中，上海市“教育童行·i在彩虹湾”病房学校志愿服务项目入围最佳志愿服务项目哦~
+             </p>
+            </section>
+           </section>
+          </section>
+          <section powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="box-sizing: border-box;">
+            <section style="text-align: left;box-sizing: border-box;">
+             <p style="clear: none;box-sizing: border-box;">
+              <br style="box-sizing: border-box;"/>
+             </p>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section style="width: 15px;height: 15px;float: left;border-bottom: 2px solid rgb(166, 1, 1);border-left: 2px solid rgb(166, 1, 1);box-sizing: border-box;">
+        </section>
+        <section style="width: 15px;height: 15px;float: left;border-bottom: 2px solid rgb(166, 1, 1);border-left: 2px solid rgb(166, 1, 1);margin-left: -10px;margin-top: 5px;box-sizing: border-box;">
+        </section>
+        <section style="width: 15px;height: 15px;float: right;border-bottom: 2px solid rgb(166, 1, 1);border-right: 2px solid rgb(166, 1, 1);box-sizing: border-box;">
+        </section>
+        <section style="width: 15px;height: 15px;float: right;border-bottom: 2px solid rgb(166, 1, 1);border-right: 2px solid rgb(166, 1, 1);margin-right: -10px;margin-top: 5px;box-sizing: border-box;">
+        </section>
+        <section style="clear: both;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.2569975" data-type="png" data-w="393" src="https://mmbiz.qpic.cn/mmbiz_png/ad01QxkJFxjlecu02vq0rFg5KPbIysODkzJ5Q9oibjVWn3GCKCl44zXJOcxO9jy7HNxNbib5ia6pm3jhmhCBuvX2g/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;padding-left: 16px;border-width: 0px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;padding: 15px 20px;border-width: 1px;border-radius: 0px;border-style: solid;border-color: rgb(62, 62, 62);background-color: rgb(255, 255, 255);box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="text-align: left;transform: translate3d(-41px, 0px, 0px);margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="display: inline-block;width: 40px;height: 80px;vertical-align: top;overflow: hidden;background-color: rgb(254, 255, 255);box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="text-align: center;box-sizing: border-box;">
+             <section style='display: inline-block;width: 35px;height: 35px;vertical-align: top;overflow: hidden;background-position: 50% 50%;background-repeat: no-repeat;background-size: contain;background-attachment: scroll;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/ad01QxkJFxjlecu02vq0rFg5KPbIysODKUYlXvam6BFdFspWSiaSl95Z5uV6nb9bZcOC6e7ia63LGTcCc0CsbD6Q/640?wx_fmt=png");box-sizing: border-box;'>
+              <section powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="margin-top: 8px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+                <section style="color: rgb(255, 255, 255);font-size: 18px;box-sizing: border-box;">
+                 <p style="box-sizing: border-box;">
+                  圆
+                 </p>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="text-align: center;box-sizing: border-box;">
+             <section style='display: inline-block;width: 35px;height: 35px;vertical-align: top;overflow: hidden;background-position: 50% 50%;background-repeat: no-repeat;background-size: contain;background-attachment: scroll;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/ad01QxkJFxjlecu02vq0rFg5KPbIysODKUYlXvam6BFdFspWSiaSl95Z5uV6nb9bZcOC6e7ia63LGTcCc0CsbD6Q/640?wx_fmt=png");box-sizing: border-box;'>
+              <section powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="margin-top: 8px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+                <section style="color: rgb(255, 255, 255);font-size: 18px;box-sizing: border-box;">
+                 <p style="box-sizing: border-box;">
+                  梦
+                 </p>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: -75px;margin-right: 0%;margin-left: 0%;transform: translate3d(1px, 0px, 0px);box-sizing: border-box;">
+          <section style="text-align: justify;line-height: 1.8;box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            在上海市儿童医院，全年因为各类慢性疾病需要长期住院治疗的儿童有近6000人次。为了能圆重症患儿的“上学梦”，华东师范大学第四附属中学携手长风教育共同体12所学校，与上海市儿童医院共同创立了“教育童行.i在彩虹湾”病房学校。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 0.5em;margin-bottom: 0.5em;padding-left: 0.5em;padding-right: 0.5em;box-sizing: border-box;">
+    <section style="box-sizing: border-box;width: 100%;border-width: 4px;border-style: solid;border-color: white;box-shadow: rgb(102, 102, 102) 3.53553px 3.53553px 8px;display: inline-block;line-height: 0;height: auto !important;">
+     <img class="raw-image" data-ratio="0.6666667" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/ad01QxkJFxjlecu02vq0rFg5KPbIysODPr3wZMpgqNqxibuOAT5iccG9IDtewksq22AJk9oYU0A3dZ56cHsSu2jA/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: -40px 0% 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.2025" data-type="png" data-w="400" src="https://mmbiz.qpic.cn/mmbiz_png/ad01QxkJFxjlecu02vq0rFg5KPbIysODrw191CdVO9rFjNkicnoObBe8iaUVMFlRfw2sZORQwicsAplg9gRLDLOjA/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="transform: translate3d(1px, 0px, 0px);-webkit-transform: translate3d(1px, 0px, 0px);-moz-transform: translate3d(1px, 0px, 0px);-o-transform: translate3d(1px, 0px, 0px);box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      这一支由百余名专业教师组成的志愿者队伍，每周二下午在儿童医院12楼病房学校开展两个小时的课堂教学。我们根据患儿情况构建“4+X”课程体系，包括“中文阅读”、“思维训练”、“英文阅读”和“科艺DIY”四门课程，还为有特殊需要无法参与集体学习的患儿开展“温暖面对面”一对一陪伴学习。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 0.5em;margin-bottom: 0.5em;padding-left: 0.5em;padding-right: 0.5em;box-sizing: border-box;">
+    <section style="box-sizing: border-box;width: 50%;border-width: 2px;border-style: solid;border-color: rgb(255, 255, 255);box-shadow: rgb(102, 102, 102) 3.53553px 3.53553px 8px;display: inline-block;line-height: 0;border-radius: 0px;height: auto !important;">
+     <img class="raw-image" data-ratio="0.666" data-type="jpeg" data-w="500" src="https://mmbiz.qpic.cn/mmbiz_jpg/ad01QxkJFxjlecu02vq0rFg5KPbIysOD2lGIFJtDFQKT2XyiahdiatciaJHeuovm5vk5xgIQ0mCiaI7nAEX83wkDkA/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: middle;width: 50%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="transform: rotateZ(348deg);-webkit-transform: rotateZ(348deg);-moz-transform: rotateZ(348deg);-o-transform: rotateZ(348deg);box-sizing: border-box;">
+      <section style="text-align: right;margin-top: 0.5em;margin-bottom: 0.5em;padding-left: 0.5em;padding-right: 0.5em;transform: translate3d(-10px, 0px, 0px);-webkit-transform: translate3d(-10px, 0px, 0px);-moz-transform: translate3d(-10px, 0px, 0px);-o-transform: translate3d(-10px, 0px, 0px);box-sizing: border-box;">
+       <section style="box-sizing: border-box;width: 80%;border-width: 1px;border-style: solid;border-color: rgb(255, 255, 255);box-shadow: rgb(102, 102, 102) 3.53553px 3.53553px 8px;display: inline-block;line-height: 0;border-radius: 0px;height: auto !important;">
+        <img class="raw-image" data-ratio="0.66625" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/ad01QxkJFxjlecu02vq0rFg5KPbIysODHXRLJIpTXib1iatjEVlUejxIicymXme8ibibYBjJmSLAmq2DRDeiauibFYjQg/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: middle;width: 50%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="transform: rotateZ(10deg);-webkit-transform: rotateZ(10deg);-moz-transform: rotateZ(10deg);-o-transform: rotateZ(10deg);box-sizing: border-box;">
+      <section style="text-align: center;margin-top: 0.5em;margin-bottom: 0.5em;padding-left: 0.5em;padding-right: 0.5em;box-sizing: border-box;">
+       <section style="box-sizing: border-box;width: 100%;border-width: 1px;border-style: solid;border-color: rgb(255, 255, 255);box-shadow: rgb(102, 102, 102) 3.53553px 3.53553px 8px;display: inline-block;line-height: 0;border-radius: 0px;height: auto !important;">
+        <img class="raw-image" data-ratio="0.6666667" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/ad01QxkJFxjlecu02vq0rFg5KPbIysOD6KicxTz623QtCJOppPCKRGgxib93Z5ZuD3NTajafIiabtaMWUh8lJlib1A/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: -100px 0% 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.5799458" data-type="png" data-w="738" src="https://mmbiz.qpic.cn/mmbiz_png/ad01QxkJFxjlecu02vq0rFg5KPbIysODficqiaSnicr0o13gYcsA3E1ialQ8AficWoia9Bw4k3ibRBk965l2JkrkU1nTQ/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      至今已开设105堂课，形成了适合混龄儿童的有效教学设计101篇，收到医护人员和家长的书面反馈70余篇，先后有481余人次的教师志愿者投入教学实践，惠及患儿740余人次。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;text-align: center;box-sizing: border-box;">
+    <section style='display: inline-block;width: 96%;vertical-align: top;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/ad01QxkJFxjlecu02vq0rFg5KPbIysOD6WFvnzqXicbk85EHVXhK06iaMJUJstqPkGzQ0XJ2eKV8TXwyyWgiaxv3g/640?wx_fmt=png");background-position: 0% 0%;background-repeat: repeat-y;background-size: 99.8651%;background-attachment: scroll;padding: 10px;border-width: 0px;box-shadow: rgba(255, 255, 255, 0) 0.374607px 0.927184px 5px;background-color: rgb(255, 255, 255);line-height: 1.8;border-radius: 12px;border-style: none;border-color: rgb(62, 62, 62);overflow: hidden;box-sizing: border-box;'>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;color: rgb(170, 70, 62);letter-spacing: 3px;box-sizing: border-box;">
+        <p style="text-align: center;box-sizing: border-box;">
+         参与学校及单位
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 8px 0% 20px;box-sizing: border-box;">
+       <section style="border-top: 4px solid rgb(170, 70, 62);box-sizing: border-box;">
+       </section>
+       <section style="margin-top: 3px;border-top: 1px solid rgb(170, 70, 62);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(254, 255, 255);padding: 10px;box-shadow: rgb(159, 77, 62) 0px 0px 10px inset;border-color: rgb(255, 235, 238);border-width: 0px;border-radius: 8px;border-style: none;overflow: hidden;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            华东师范大学第四附属中学
+           </p>
+           <p style="box-sizing: border-box;">
+            华东师范大学附属外国语实验学校
+           </p>
+           <p style="box-sizing: border-box;">
+            上海市怒江中学
+           </p>
+           <p style="box-sizing: border-box;">
+            华东师范大学附属小学
+           </p>
+           <p style="box-sizing: border-box;">
+            普陀区金沙江路小学
+           </p>
+           <p style="box-sizing: border-box;">
+            华东师范大学附属幼儿园
+           </p>
+           <p style="box-sizing: border-box;">
+            普陀区长风二村幼儿园
+           </p>
+           <p style="box-sizing: border-box;">
+            普陀区康泰幼儿园
+           </p>
+           <p style="box-sizing: border-box;">
+            普陀区绿地世纪城幼儿园
+           </p>
+           <p style="box-sizing: border-box;">
+            普陀区银锄湖幼儿园
+           </p>
+           <p style="box-sizing: border-box;">
+            普陀区白玉新村幼儿园
+           </p>
+           <p style="box-sizing: border-box;">
+            普陀区长风新村街道社区学校
+           </p>
+           <p style="box-sizing: border-box;">
+            普陀区学校会计结算服务中心
+           </p>
+           <p style="box-sizing: border-box;">
+            金鼎学校
+           </p>
+           <p style="box-sizing: border-box;">
+            普陀区青少年中心
+           </p>
+           <p style="box-sizing: border-box;">
+            上海市实验幼儿园
+           </p>
+           <p style="box-sizing: border-box;">
+            普陀区上河湾幼儿园
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: -70px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section class="group-empty" style="display: inline-block;vertical-align: bottom;width: 50%;box-sizing: border-box;height: 1px;">
+       </section>
+       <section class="group-empty" style="display: inline-block;vertical-align: bottom;width: 50%;box-sizing: border-box;height: 1px;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="border-top: 1px solid rgb(170, 70, 62);box-sizing: border-box;">
+       </section>
+       <section style="margin-top: 3px;border-top: 4px solid rgb(170, 70, 62);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 20px 0% 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.4842593" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/ad01QxkJFxjlecu02vq0rFg5KPbIysODcEPeZsmMml1cCFYWL6g0MwKnUia1EZFVKaEuoxuhMj9SoBCvwNuuZXw/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;text-align: center;box-sizing: border-box;">
+    <section style='display: inline-block;width: 96%;vertical-align: top;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/ad01QxkJFxjlecu02vq0rFg5KPbIysOD6WFvnzqXicbk85EHVXhK06iaMJUJstqPkGzQ0XJ2eKV8TXwyyWgiaxv3g/640?wx_fmt=png");background-position: 0% 0%;background-repeat: repeat-y;background-size: 99.8651%;background-attachment: scroll;padding: 10px;border-width: 0px;box-shadow: rgba(255, 255, 255, 0) 0.374607px 0.927184px 5px;background-color: rgb(255, 255, 255);line-height: 1.8;border-radius: 12px;border-style: none;border-color: rgb(62, 62, 62);overflow: hidden;box-sizing: border-box;'>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;color: rgb(170, 70, 62);letter-spacing: 3px;box-sizing: border-box;">
+        <p style="text-align: center;box-sizing: border-box;">
+         特别鸣谢
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 8px 0% 20px;box-sizing: border-box;">
+       <section style="border-top: 4px solid rgb(170, 70, 62);box-sizing: border-box;">
+       </section>
+       <section style="margin-top: 3px;border-top: 1px solid rgb(170, 70, 62);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(254, 255, 255);padding: 10px;box-shadow: rgb(159, 77, 62) 0px 0px 10px inset;border-color: rgb(255, 235, 238);border-width: 0px;border-radius: 8px;border-style: none;overflow: hidden;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            上海市儿童医院
+           </p>
+           <p style="box-sizing: border-box;">
+            长风新村街道办事处
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: -70px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section class="group-empty" style="display: inline-block;vertical-align: bottom;width: 50%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;height: 1px;">
+       </section>
+       <section class="group-empty" style="display: inline-block;vertical-align: bottom;width: 50%;box-sizing: border-box;height: 1px;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="border-top: 1px solid rgb(170, 70, 62);box-sizing: border-box;">
+       </section>
+       <section style="margin-top: 3px;border-top: 4px solid rgb(170, 70, 62);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      彩虹湾病房学校的发展离不开社会各界的大力协助与支持，感谢一直以来给予项目关心的社会各界，感谢教育局大力支持。回顾过往，项目取得了一定的成绩，面对新的航程，我们必将全力以赴，我们相信
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.4375" data-type="png" data-w="304" src="https://mmbiz.qpic.cn/mmbiz_png/ad01QxkJFxjlecu02vq0rFg5KPbIysODRW4D5ydic37ZHByMLQOvsR5bUOywpqAlBOY40zsLqib0icvkmIF2rhyibg/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 20px 0% 10px;box-sizing: border-box;">
+    <section style='display: inline-block;width: 100%;vertical-align: top;background-image: url("https://mmbiz.qpic.cn/mmbiz_jpg/ad01QxkJFxjlecu02vq0rFg5KPbIysODdL0BWgqdLmFuxKkvuWRlADwOsHFEn8XZicrQibe6NTYwr9xlibB2SWpIw/640?wx_fmt=jpeg");background-position: 72.6852% 30.2013%;background-repeat: repeat;background-size: 49.1765%;background-attachment: scroll;padding-top: 10px;box-sizing: border-box;'>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 95%;vertical-align: top;background-color: rgb(250, 243, 227);padding: 8px;border-width: 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;border-style: solid;border-width: 1px;border-radius: 0px;border-color: rgba(189, 135, 66, 0.68);padding: 10px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin: -40px 0% 10px;box-sizing: border-box;">
+             <section style="display: inline-block;vertical-align: top;width: 18%;box-sizing: border-box;">
+              <section powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="margin-right: 0%;margin-left: 0%;font-size: 10px;box-sizing: border-box;">
+                <section style="padding: 4px;display: inline-block;border-radius: 100%;background-color: rgb(196, 41, 28);box-sizing: border-box;">
+                 <section style="border-radius: 100%;border-color: rgb(244, 201, 146);width: 2em;height: 2em;border-style: solid;border-width: 2px;font-size: 18px;line-height: 1.8em;color: rgb(255, 255, 255);box-sizing: border-box;">
+                  <p style="box-sizing: border-box;">
+                   光
+                  </p>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+             <section style="display: inline-block;vertical-align: top;width: 18%;box-sizing: border-box;">
+              <section powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="margin-right: 0%;margin-left: 0%;font-size: 10px;box-sizing: border-box;">
+                <section style="padding: 4px;display: inline-block;border-radius: 100%;background-color: rgb(196, 41, 28);box-sizing: border-box;">
+                 <section style="border-radius: 100%;border-color: rgb(244, 201, 146);width: 2em;height: 2em;border-style: solid;border-width: 2px;font-size: 18px;line-height: 1.8em;color: rgb(255, 255, 255);box-sizing: border-box;">
+                  <p style="box-sizing: border-box;">
+                   荣
+                  </p>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+             <section style="display: inline-block;vertical-align: top;width: 18%;box-sizing: border-box;">
+              <section powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="margin-right: 0%;margin-left: 0%;font-size: 10px;box-sizing: border-box;">
+                <section style="padding: 4px;display: inline-block;border-radius: 100%;background-color: rgb(196, 41, 28);box-sizing: border-box;">
+                 <section style="border-radius: 100%;border-color: rgb(244, 201, 146);width: 2em;height: 2em;border-style: solid;border-width: 2px;font-size: 18px;line-height: 1.8em;color: rgb(255, 255, 255);box-sizing: border-box;">
+                  <p style="box-sizing: border-box;">
+                   榜
+                  </p>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="text-align: justify;font-size: 15px;line-height: 1.8;box-sizing: border-box;">
+              <p style="white-space: normal;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+              <p style="white-space: normal;box-sizing: border-box;">
+               2018年学雷锋志愿服务“四个100”最佳志愿服务项目
+              </p>
+              <p style="white-space: normal;box-sizing: border-box;">
+               2017年全国青年志愿服务示范项目创建特别奖
+              </p>
+              <p style="white-space: normal;box-sizing: border-box;">
+               2016年第三届中国青年志愿服务项目大赛金奖
+              </p>
+              <p style="white-space: normal;box-sizing: border-box;">
+               第十一届中国青年志愿者优秀项目奖
+              </p>
+              <p style="white-space: normal;box-sizing: border-box;">
+               2018年上海市志愿服务先进集体
+              </p>
+              <p style="white-space: normal;box-sizing: border-box;">
+               公益之申2018年度十佳公益校园
+              </p>
+              <p style="white-space: normal;box-sizing: border-box;">
+               2018上海市儿童医院十佳公益项目奖
+              </p>
+              <p style="white-space: normal;box-sizing: border-box;">
+               普陀区社会主义精神文明“十佳”好人好事
+              </p>
+              <p style="white-space: normal;box-sizing: border-box;">
+               普陀区“优化成长环境 共建同心家园”优秀共建项目评选活动中荣获一等奖
+              </p>
+              <p style="white-space: normal;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: -25px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: bottom;width: 30%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="text-align: right;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 100%;box-sizing: border-box;">
+           <svg class="svg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" viewbox="0 0 404.7 104.2" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+            <g style="box-sizing: border-box;">
+             <path d="M70.4,67.5C70.4,31.9,99.3,3,134.9,3s64.5,28.9,64.5,64.5l-64.5,32L70.4,67.5z" fill="rgb(218,5,5)" style="box-sizing: border-box;">
+             </path>
+             <path d="M205.3,67.5c0-35.6,28.9-64.5,64.5-64.5s64.5,28.9,64.5,64.5l-63.4,32L205.3,67.5z" fill="rgb(218,5,5)" style="box-sizing: border-box;">
+             </path>
+             <path d="M137.8,104.2c0-35.6,28.9-64.5,64.5-64.5s64.5,28.9,64.5,64.5H137.8z" fill="rgb(218,5,5)" style="box-sizing: border-box;">
+             </path>
+             <path d="M3,104.2c0-35.6,28.9-64.5,64.5-64.5S132,68.6,132,104.2H3z" fill="rgb(218,5,5)" style="box-sizing: border-box;">
+             </path>
+             <path d="M272.8,104.2c0-35.6,28.9-64.5,64.5-64.5s64.5,28.9,64.5,64.5H272.8z" fill="rgb(218,5,5)" style="box-sizing: border-box;">
+             </path>
+             <g style="box-sizing: border-box;">
+              <path d="M67.5,54.4c-27.5,0-49.9,22.4-49.9,49.9h2.9c0-25.9,21.1-46.9,46.9-46.9    c25.9,0,46.9,21.1,46.9,46.9h2.9C117.3,76.7,94.9,54.4,67.5,54.4z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M67.5,69.5c-19.2,0-34.7,15.6-34.7,34.7h2.9c0-17.5,14.3-31.8,31.8-31.8s31.8,14.3,31.8,31.8h2.9    C102.2,85.1,86.6,69.5,67.5,69.5z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M67.5,83.7c-11.3,0-20.5,9.2-20.5,20.5h2.9c0-9.7,7.9-17.6,17.6-17.6s17.6,7.9,17.6,17.6H88    C88,92.9,78.8,83.7,67.5,83.7z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M202.4,54.4c-27.5,0-49.9,22.4-49.9,49.9h2.9c0-25.9,21.1-46.9,46.9-46.9    c25.9,0,46.9,21.1,46.9,46.9h2.9C252.2,76.7,229.9,54.4,202.4,54.4z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M202.4,69.5c-19.2,0-34.7,15.6-34.7,34.7h2.9c0-17.5,14.3-31.8,31.8-31.8s31.8,14.3,31.8,31.8h2.9    C237.1,85.1,221.5,69.5,202.4,69.5z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M202.4,83.7c-11.3,0-20.5,9.2-20.5,20.5h2.9c0-9.7,7.9-17.6,17.6-17.6c9.7,0,17.6,7.9,17.6,17.6    h2.9C222.9,92.9,213.7,83.7,202.4,83.7z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M337.3,36.8c-2.4,0-4.9,0.1-7.2,0.4C318.9,15.1,296.1,0,269.8,0s-49.1,15.1-60.2,37.2    c-2.4-0.3-4.8-0.4-7.2-0.4s-4.9,0.1-7.2,0.4C184,15.1,161.2,0,134.9,0S85.8,15.1,74.7,37.2c-2.4-0.3-4.8-0.4-7.2-0.4    C30.3,36.8,0,67,0,104.2h5.9c0-34,27.6-61.6,61.6-61.6c1.9,0,3.7,0.1,5.6,0.3l2,0.2c30.4,3.8,54,29.7,54,61.1h5.9    c0-16.7-6.1-31.9-16.1-43.7c2.7-6.3,8.9-10.7,16.1-10.7s13.4,4.4,16.1,10.7c-10,11.8-16.1,27-16.1,43.7h5.9    c0-34,27.6-61.6,61.6-61.6s61.6,27.6,61.6,61.6h5.9c0-16.7-6.1-31.9-16.1-43.7c2.7-6.3,8.9-10.7,16.1-10.7s13.5,4.4,16.2,10.7    c-10,11.8-16.2,27-16.2,43.7h5.9c0-34,27.6-61.6,61.6-61.6s61.6,27.6,61.6,61.6h5.9C404.7,67,374.5,36.8,337.3,36.8z M134.9,5.9    c23.3,0,43.6,13.1,54.1,32.2c-4,0.8-7.9,2-11.6,3.5c-8.8-14.3-24.5-24-42.5-24s-33.8,9.6-42.5,24c-3.7-1.5-7.6-2.7-11.6-3.5    C91.3,18.9,111.6,5.9,134.9,5.9z M174.7,42.8c-3.7,1.7-7.3,3.7-10.6,6c-6.2-9.6-16.9-16-29.2-16c-12.2,0-23,6.4-29.2,16    c-3.3-2.3-6.9-4.3-10.6-6c8.3-13.3,23-22.2,39.8-22.2C151.7,20.5,166.4,29.5,174.7,42.8z M153.2,58.2    c-3.4-6.7-10.3-11.3-18.3-11.3s-14.9,4.6-18.3,11.3c-2.6-2.8-5.5-5.4-8.5-7.7c5.6-8.9,15.5-14.8,26.8-14.8s21.2,6,26.8,14.8    C158.7,52.8,155.8,55.4,153.2,58.2z M269.8,5.9c23.3,0,43.6,13.1,54.1,32.2c-4,0.8-7.9,2-11.6,3.5c-8.8-14.3-24.5-24-42.5-24    s-33.7,9.7-42.5,24c-3.7-1.5-7.6-2.7-11.6-3.5C226.2,18.9,246.5,5.9,269.8,5.9z M309.6,42.8c-3.7,1.7-7.3,3.7-10.6,6    c-6.2-9.6-16.9-16-29.2-16s-23,6.4-29.2,16c-3.3-2.3-6.9-4.3-10.6-6c8.3-13.3,23-22.2,39.8-22.2C286.6,20.5,301.3,29.5,309.6,42.8    z M288.1,58.2c-3.4-6.7-10.3-11.2-18.3-11.2s-14.9,4.6-18.3,11.2c-2.6-2.8-5.5-5.4-8.5-7.7c5.6-8.9,15.5-14.8,26.8-14.8    c11.3,0,21.2,6,26.8,14.8C293.6,52.8,290.7,55.4,288.1,58.2z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M337.3,54.4c-27.5,0-49.9,22.4-49.9,49.9h2.9c0-25.9,21.1-46.9,46.9-46.9    c25.9,0,46.9,21.1,46.9,46.9h2.9C387.1,76.7,364.8,54.4,337.3,54.4z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M337.3,69.5c-19.2,0-34.7,15.6-34.7,34.7h2.9c0-17.5,14.3-31.8,31.8-31.8s31.8,14.3,31.8,31.8h2.9    C372,85.1,356.4,69.5,337.3,69.5z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M337.3,83.7c-11.3,0-20.5,9.2-20.5,20.5h2.9c0-9.7,7.9-17.6,17.6-17.6s17.6,7.9,17.6,17.6h2.9    C357.8,92.9,348.6,83.7,337.3,83.7z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+             </g>
+            </g>
+           </svg>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: bottom;width: 40%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="text-align: right;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 100%;box-sizing: border-box;">
+           <svg class="svg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" viewbox="0 0 404.7 104.2" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+            <g style="box-sizing: border-box;">
+             <path d="M70.4,67.5C70.4,31.9,99.3,3,134.9,3s64.5,28.9,64.5,64.5l-64.5,32L70.4,67.5z" fill="rgb(218,5,5)" style="box-sizing: border-box;">
+             </path>
+             <path d="M205.3,67.5c0-35.6,28.9-64.5,64.5-64.5s64.5,28.9,64.5,64.5l-63.4,32L205.3,67.5z" fill="rgb(218,5,5)" style="box-sizing: border-box;">
+             </path>
+             <path d="M137.8,104.2c0-35.6,28.9-64.5,64.5-64.5s64.5,28.9,64.5,64.5H137.8z" fill="rgb(218,5,5)" style="box-sizing: border-box;">
+             </path>
+             <path d="M3,104.2c0-35.6,28.9-64.5,64.5-64.5S132,68.6,132,104.2H3z" fill="rgb(218,5,5)" style="box-sizing: border-box;">
+             </path>
+             <path d="M272.8,104.2c0-35.6,28.9-64.5,64.5-64.5s64.5,28.9,64.5,64.5H272.8z" fill="rgb(218,5,5)" style="box-sizing: border-box;">
+             </path>
+             <g style="box-sizing: border-box;">
+              <path d="M67.5,54.4c-27.5,0-49.9,22.4-49.9,49.9h2.9c0-25.9,21.1-46.9,46.9-46.9    c25.9,0,46.9,21.1,46.9,46.9h2.9C117.3,76.7,94.9,54.4,67.5,54.4z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M67.5,69.5c-19.2,0-34.7,15.6-34.7,34.7h2.9c0-17.5,14.3-31.8,31.8-31.8s31.8,14.3,31.8,31.8h2.9    C102.2,85.1,86.6,69.5,67.5,69.5z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M67.5,83.7c-11.3,0-20.5,9.2-20.5,20.5h2.9c0-9.7,7.9-17.6,17.6-17.6s17.6,7.9,17.6,17.6H88    C88,92.9,78.8,83.7,67.5,83.7z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M202.4,54.4c-27.5,0-49.9,22.4-49.9,49.9h2.9c0-25.9,21.1-46.9,46.9-46.9    c25.9,0,46.9,21.1,46.9,46.9h2.9C252.2,76.7,229.9,54.4,202.4,54.4z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M202.4,69.5c-19.2,0-34.7,15.6-34.7,34.7h2.9c0-17.5,14.3-31.8,31.8-31.8s31.8,14.3,31.8,31.8h2.9    C237.1,85.1,221.5,69.5,202.4,69.5z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M202.4,83.7c-11.3,0-20.5,9.2-20.5,20.5h2.9c0-9.7,7.9-17.6,17.6-17.6c9.7,0,17.6,7.9,17.6,17.6    h2.9C222.9,92.9,213.7,83.7,202.4,83.7z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M337.3,36.8c-2.4,0-4.9,0.1-7.2,0.4C318.9,15.1,296.1,0,269.8,0s-49.1,15.1-60.2,37.2    c-2.4-0.3-4.8-0.4-7.2-0.4s-4.9,0.1-7.2,0.4C184,15.1,161.2,0,134.9,0S85.8,15.1,74.7,37.2c-2.4-0.3-4.8-0.4-7.2-0.4    C30.3,36.8,0,67,0,104.2h5.9c0-34,27.6-61.6,61.6-61.6c1.9,0,3.7,0.1,5.6,0.3l2,0.2c30.4,3.8,54,29.7,54,61.1h5.9    c0-16.7-6.1-31.9-16.1-43.7c2.7-6.3,8.9-10.7,16.1-10.7s13.4,4.4,16.1,10.7c-10,11.8-16.1,27-16.1,43.7h5.9    c0-34,27.6-61.6,61.6-61.6s61.6,27.6,61.6,61.6h5.9c0-16.7-6.1-31.9-16.1-43.7c2.7-6.3,8.9-10.7,16.1-10.7s13.5,4.4,16.2,10.7    c-10,11.8-16.2,27-16.2,43.7h5.9c0-34,27.6-61.6,61.6-61.6s61.6,27.6,61.6,61.6h5.9C404.7,67,374.5,36.8,337.3,36.8z M134.9,5.9    c23.3,0,43.6,13.1,54.1,32.2c-4,0.8-7.9,2-11.6,3.5c-8.8-14.3-24.5-24-42.5-24s-33.8,9.6-42.5,24c-3.7-1.5-7.6-2.7-11.6-3.5    C91.3,18.9,111.6,5.9,134.9,5.9z M174.7,42.8c-3.7,1.7-7.3,3.7-10.6,6c-6.2-9.6-16.9-16-29.2-16c-12.2,0-23,6.4-29.2,16    c-3.3-2.3-6.9-4.3-10.6-6c8.3-13.3,23-22.2,39.8-22.2C151.7,20.5,166.4,29.5,174.7,42.8z M153.2,58.2    c-3.4-6.7-10.3-11.3-18.3-11.3s-14.9,4.6-18.3,11.3c-2.6-2.8-5.5-5.4-8.5-7.7c5.6-8.9,15.5-14.8,26.8-14.8s21.2,6,26.8,14.8    C158.7,52.8,155.8,55.4,153.2,58.2z M269.8,5.9c23.3,0,43.6,13.1,54.1,32.2c-4,0.8-7.9,2-11.6,3.5c-8.8-14.3-24.5-24-42.5-24    s-33.7,9.7-42.5,24c-3.7-1.5-7.6-2.7-11.6-3.5C226.2,18.9,246.5,5.9,269.8,5.9z M309.6,42.8c-3.7,1.7-7.3,3.7-10.6,6    c-6.2-9.6-16.9-16-29.2-16s-23,6.4-29.2,16c-3.3-2.3-6.9-4.3-10.6-6c8.3-13.3,23-22.2,39.8-22.2C286.6,20.5,301.3,29.5,309.6,42.8    z M288.1,58.2c-3.4-6.7-10.3-11.2-18.3-11.2s-14.9,4.6-18.3,11.2c-2.6-2.8-5.5-5.4-8.5-7.7c5.6-8.9,15.5-14.8,26.8-14.8    c11.3,0,21.2,6,26.8,14.8C293.6,52.8,290.7,55.4,288.1,58.2z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M337.3,54.4c-27.5,0-49.9,22.4-49.9,49.9h2.9c0-25.9,21.1-46.9,46.9-46.9    c25.9,0,46.9,21.1,46.9,46.9h2.9C387.1,76.7,364.8,54.4,337.3,54.4z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M337.3,69.5c-19.2,0-34.7,15.6-34.7,34.7h2.9c0-17.5,14.3-31.8,31.8-31.8s31.8,14.3,31.8,31.8h2.9    C372,85.1,356.4,69.5,337.3,69.5z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M337.3,83.7c-11.3,0-20.5,9.2-20.5,20.5h2.9c0-9.7,7.9-17.6,17.6-17.6s17.6,7.9,17.6,17.6h2.9    C357.8,92.9,348.6,83.7,337.3,83.7z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+             </g>
+            </g>
+           </svg>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: bottom;width: 30%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="text-align: right;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 100%;box-sizing: border-box;">
+           <svg class="svg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" viewbox="0 0 404.7 104.2" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+            <g style="box-sizing: border-box;">
+             <path d="M70.4,67.5C70.4,31.9,99.3,3,134.9,3s64.5,28.9,64.5,64.5l-64.5,32L70.4,67.5z" fill="rgb(218,5,5)" style="box-sizing: border-box;">
+             </path>
+             <path d="M205.3,67.5c0-35.6,28.9-64.5,64.5-64.5s64.5,28.9,64.5,64.5l-63.4,32L205.3,67.5z" fill="rgb(218,5,5)" style="box-sizing: border-box;">
+             </path>
+             <path d="M137.8,104.2c0-35.6,28.9-64.5,64.5-64.5s64.5,28.9,64.5,64.5H137.8z" fill="rgb(218,5,5)" style="box-sizing: border-box;">
+             </path>
+             <path d="M3,104.2c0-35.6,28.9-64.5,64.5-64.5S132,68.6,132,104.2H3z" fill="rgb(218,5,5)" style="box-sizing: border-box;">
+             </path>
+             <path d="M272.8,104.2c0-35.6,28.9-64.5,64.5-64.5s64.5,28.9,64.5,64.5H272.8z" fill="rgb(218,5,5)" style="box-sizing: border-box;">
+             </path>
+             <g style="box-sizing: border-box;">
+              <path d="M67.5,54.4c-27.5,0-49.9,22.4-49.9,49.9h2.9c0-25.9,21.1-46.9,46.9-46.9    c25.9,0,46.9,21.1,46.9,46.9h2.9C117.3,76.7,94.9,54.4,67.5,54.4z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M67.5,69.5c-19.2,0-34.7,15.6-34.7,34.7h2.9c0-17.5,14.3-31.8,31.8-31.8s31.8,14.3,31.8,31.8h2.9    C102.2,85.1,86.6,69.5,67.5,69.5z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M67.5,83.7c-11.3,0-20.5,9.2-20.5,20.5h2.9c0-9.7,7.9-17.6,17.6-17.6s17.6,7.9,17.6,17.6H88    C88,92.9,78.8,83.7,67.5,83.7z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M202.4,54.4c-27.5,0-49.9,22.4-49.9,49.9h2.9c0-25.9,21.1-46.9,46.9-46.9    c25.9,0,46.9,21.1,46.9,46.9h2.9C252.2,76.7,229.9,54.4,202.4,54.4z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M202.4,69.5c-19.2,0-34.7,15.6-34.7,34.7h2.9c0-17.5,14.3-31.8,31.8-31.8s31.8,14.3,31.8,31.8h2.9    C237.1,85.1,221.5,69.5,202.4,69.5z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M202.4,83.7c-11.3,0-20.5,9.2-20.5,20.5h2.9c0-9.7,7.9-17.6,17.6-17.6c9.7,0,17.6,7.9,17.6,17.6    h2.9C222.9,92.9,213.7,83.7,202.4,83.7z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M337.3,36.8c-2.4,0-4.9,0.1-7.2,0.4C318.9,15.1,296.1,0,269.8,0s-49.1,15.1-60.2,37.2    c-2.4-0.3-4.8-0.4-7.2-0.4s-4.9,0.1-7.2,0.4C184,15.1,161.2,0,134.9,0S85.8,15.1,74.7,37.2c-2.4-0.3-4.8-0.4-7.2-0.4    C30.3,36.8,0,67,0,104.2h5.9c0-34,27.6-61.6,61.6-61.6c1.9,0,3.7,0.1,5.6,0.3l2,0.2c30.4,3.8,54,29.7,54,61.1h5.9    c0-16.7-6.1-31.9-16.1-43.7c2.7-6.3,8.9-10.7,16.1-10.7s13.4,4.4,16.1,10.7c-10,11.8-16.1,27-16.1,43.7h5.9    c0-34,27.6-61.6,61.6-61.6s61.6,27.6,61.6,61.6h5.9c0-16.7-6.1-31.9-16.1-43.7c2.7-6.3,8.9-10.7,16.1-10.7s13.5,4.4,16.2,10.7    c-10,11.8-16.2,27-16.2,43.7h5.9c0-34,27.6-61.6,61.6-61.6s61.6,27.6,61.6,61.6h5.9C404.7,67,374.5,36.8,337.3,36.8z M134.9,5.9    c23.3,0,43.6,13.1,54.1,32.2c-4,0.8-7.9,2-11.6,3.5c-8.8-14.3-24.5-24-42.5-24s-33.8,9.6-42.5,24c-3.7-1.5-7.6-2.7-11.6-3.5    C91.3,18.9,111.6,5.9,134.9,5.9z M174.7,42.8c-3.7,1.7-7.3,3.7-10.6,6c-6.2-9.6-16.9-16-29.2-16c-12.2,0-23,6.4-29.2,16    c-3.3-2.3-6.9-4.3-10.6-6c8.3-13.3,23-22.2,39.8-22.2C151.7,20.5,166.4,29.5,174.7,42.8z M153.2,58.2    c-3.4-6.7-10.3-11.3-18.3-11.3s-14.9,4.6-18.3,11.3c-2.6-2.8-5.5-5.4-8.5-7.7c5.6-8.9,15.5-14.8,26.8-14.8s21.2,6,26.8,14.8    C158.7,52.8,155.8,55.4,153.2,58.2z M269.8,5.9c23.3,0,43.6,13.1,54.1,32.2c-4,0.8-7.9,2-11.6,3.5c-8.8-14.3-24.5-24-42.5-24    s-33.7,9.7-42.5,24c-3.7-1.5-7.6-2.7-11.6-3.5C226.2,18.9,246.5,5.9,269.8,5.9z M309.6,42.8c-3.7,1.7-7.3,3.7-10.6,6    c-6.2-9.6-16.9-16-29.2-16s-23,6.4-29.2,16c-3.3-2.3-6.9-4.3-10.6-6c8.3-13.3,23-22.2,39.8-22.2C286.6,20.5,301.3,29.5,309.6,42.8    z M288.1,58.2c-3.4-6.7-10.3-11.2-18.3-11.2s-14.9,4.6-18.3,11.2c-2.6-2.8-5.5-5.4-8.5-7.7c5.6-8.9,15.5-14.8,26.8-14.8    c11.3,0,21.2,6,26.8,14.8C293.6,52.8,290.7,55.4,288.1,58.2z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M337.3,54.4c-27.5,0-49.9,22.4-49.9,49.9h2.9c0-25.9,21.1-46.9,46.9-46.9    c25.9,0,46.9,21.1,46.9,46.9h2.9C387.1,76.7,364.8,54.4,337.3,54.4z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M337.3,69.5c-19.2,0-34.7,15.6-34.7,34.7h2.9c0-17.5,14.3-31.8,31.8-31.8s31.8,14.3,31.8,31.8h2.9    C372,85.1,356.4,69.5,337.3,69.5z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+              <path d="M337.3,83.7c-11.3,0-20.5,9.2-20.5,20.5h2.9c0-9.7,7.9-17.6,17.6-17.6s17.6,7.9,17.6,17.6h2.9    C357.8,92.9,348.6,83.7,337.3,83.7z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+              </path>
+             </g>
+            </g>
+           </svg>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 30%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="1" data-type="gif" data-w="200" src="https://mmbiz.qpic.cn/mmbiz_gif/ad01QxkJFxjlecu02vq0rFg5KPbIysODO6db9jh5QRMkAU9u8CwU26xSjC020mPTeJzs3ibsh8lttVKchBFjLXw/640?wx_fmt=gif" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      撰稿：黄慧婷
+     </p>
+     <p style="box-sizing: border-box;">
+      <span style="letter-spacing: 0px;box-sizing: border-box;">
+       编辑：黄慧婷
+      </span>
+     </p>
+     <p style="box-sizing: border-box;">
+      审稿：王   臻
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

@@ -1,0 +1,835 @@
+
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.296875" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/PQaGQqXKyFlDicbFTZvskiaLjVj8TfNV5CxiaWwm0uKfEFqCvlmicYAkZ0BfBGhJxteuzSYibdUhcgBicCNSb8ZZt95w/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <br/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;width: 98%;border-width: 1px;border-style: solid;border-color: transparent;padding: 0px 10px 10px;background-color: rgb(255, 255, 255);box-shadow: rgb(170, 170, 170) 0px 0px 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 20px 0% 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 70%;border-width: 0px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <img class="raw-image" data-backh="494" data-backw="366" data-before-oversubscription-url="https://mmbiz.qpic.cn/mmbiz_jpg/PQaGQqXKyFlDicbFTZvskiaLjVj8TfNV5CxMClh4lOviccLTK0KmUlicLwwuJRTrjPNedr09N4Fw1AfhicdYlrzOVPQ/640?wx_fmt=jpeg" data-ratio="1.35" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/PQaGQqXKyFlDicbFTZvskiaLjVj8TfNV5CxMClh4lOviccLTK0KmUlicLwwuJRTrjPNedr09N4Fw1AfhicdYlrzOVPQ/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;height: auto;" width="100%"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 30px 0% 18px;box-sizing: border-box;">
+       <section style="display: inline-block;width: 90%;border-width: 1px;border-style: solid;border-color: rgb(192, 200, 209);padding: 10px;background-color: rgb(254, 255, 255);box-shadow: rgb(220, 221, 221) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="text-align: center;margin: 0px;padding: 0px;box-sizing: border-box;">
+            <span style="font-size: 14px;box-sizing: border-box;">
+             华东师范大学学报（哲学社会科学版）
+            </span>
+           </p>
+           <p style="text-align: center;margin: 0px;padding: 0px;box-sizing: border-box;">
+            <span style="font-size: 14px;box-sizing: border-box;">
+             2019年第1期
+            </span>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;color: rgb(108, 105, 105);letter-spacing: 0px;line-height: 1.8;padding: 2px 0px;box-sizing: border-box;">
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 8px 0% 0px;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;box-sizing: border-box;">
+     <section style="background-color: rgb(193, 35, 50);color: rgb(248, 248, 248);padding-left: 5px;padding-right: 5px;margin-bottom: 4px;box-sizing: border-box;">
+      <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+       <span style="font-size: 21px;box-sizing: border-box;">
+        ◎
+       </span>
+       <strong style="box-sizing: border-box;">
+        <span style="letter-spacing: 0px;box-sizing: border-box;">
+         再写中国伦理学
+        </span>
+       </strong>
+      </p>
+     </section>
+     <section style="border-top: 2px dotted rgb(0, 0, 0);width: 100%;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style='display: inline-block;width: 100%;vertical-align: top;background-position: 0% 0%;background-repeat: repeat;background-size: 99.0957%;background-attachment: scroll;letter-spacing: 0px;padding: 15px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/2P62ObfQryztT1q9ykFOnWYflELibaibKpLoXmlOIcvdicLbOAicoLamQtnh9AfvrzJcD3cJpywH2jTBvHDEJFpkUg/640?wx_fmt=png");box-sizing: border-box;'>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;line-height: 2;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          <strong style="box-sizing: border-box;">
+           万俊人
+          </strong>
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          关于“再写中国伦理学”的小引——“再写中国伦理学”专栏主持人导语
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          <strong style="box-sizing: border-box;">
+           <span style="font-size: 15px;letter-spacing: 0px;box-sizing: border-box;">
+            李建华
+           </span>
+          </strong>
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          <span style="font-size: 15px;letter-spacing: 0px;box-sizing: border-box;">
+           当代中国伦理学构建的人学维度——关于“再写中国伦理学”的一种可能性进路
+          </span>
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          <strong style="letter-spacing: 0px;box-sizing: border-box;">
+           邓安庆
+          </strong>
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          何谓“做中国伦理学”？
+          <span style="font-size: 15px;letter-spacing: 0px;box-sizing: border-box;">
+           ——兼论海德格尔为何“不做伦理学”
+          </span>
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          <strong style="letter-spacing: 0px;box-sizing: border-box;">
+           杨泽波
+          </strong>
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          儒家生生伦理学中智性的双重功能
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;box-sizing: border-box;">
+        <section style="background-color: rgb(244, 167, 32);color: rgb(255, 255, 255);padding-left: 5px;padding-right: 5px;margin-bottom: 4px;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           <span style="font-size: 21px;box-sizing: border-box;">
+            ◎
+           </span>
+           特稿
+          </strong>
+         </p>
+        </section>
+        <section style="border-top: 2px dotted rgb(202, 198, 198);width: 100%;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;box-sizing: border-box;">
+       <section style='display: inline-block;width: 100%;vertical-align: top;background-position: 0% 0%;background-repeat: repeat;background-size: 99.0957%;background-attachment: scroll;letter-spacing: 0px;padding: 15px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/2P62ObfQryztT1q9ykFOnWYflELibaibKpLoXmlOIcvdicLbOAicoLamQtnh9AfvrzJcD3cJpywH2jTBvHDEJFpkUg/640?wx_fmt=png");box-sizing: border-box;'>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 14px;line-height: 2;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <span style="font-size: 15px;">
+             <strong style="box-sizing: border-box;">
+              许纪霖
+             </strong>
+            </span>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <span style="font-size: 15px;">
+             五四新文化运动中“旧派中的新派”
+            </span>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 8px 0% 0px;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;box-sizing: border-box;">
+        <section style="background-color: rgb(133, 183, 105);color: rgb(248, 248, 248);font-size: 14px;padding-left: 5px;padding-right: 5px;margin-bottom: 4px;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           <span style="font-size: 21px;box-sizing: border-box;">
+            ◎
+           </span>
+          </strong>
+          <strong style="box-sizing: border-box;">
+           <span style="letter-spacing: 0px;font-size: 17px;box-sizing: border-box;">
+            中国史研究
+           </span>
+          </strong>
+          <strong style="letter-spacing: 0px;box-sizing: border-box;">
+           <span style="font-size: 16px;box-sizing: border-box;">
+           </span>
+          </strong>
+         </p>
+        </section>
+        <section style="border-top: 2px dotted rgb(189, 207, 97);width: 100%;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;box-sizing: border-box;">
+       <section style='display: inline-block;width: 100%;vertical-align: top;background-position: 0% 0%;background-repeat: repeat;background-size: 99.0957%;background-attachment: scroll;letter-spacing: 0px;padding: 15px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/2P62ObfQryztT1q9ykFOnWYflELibaibKpLoXmlOIcvdicLbOAicoLamQtnh9AfvrzJcD3cJpywH2jTBvHDEJFpkUg/640?wx_fmt=png");box-sizing: border-box;'>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 14px;line-height: 2;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <span style="font-size: 15px;">
+             <strong style="box-sizing: border-box;">
+             </strong>
+            </span>
+           </p>
+           <p style="font-size: 14px;white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 15px;">
+             <strong style="box-sizing: border-box;">
+              路新生
+             </strong>
+            </span>
+           </p>
+           <p style="font-size: 14px;white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 15px;">
+             姚际恒《春秋通论》的“历史美学”商榷
+            </span>
+           </p>
+           <p style="font-size: 14px;white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 15px;">
+             <strong style="box-sizing: border-box;">
+              李  波
+             </strong>
+            </span>
+           </p>
+           <p style="font-size: 14px;white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 15px;">
+             吕思勉与中国通史编撰
+            </span>
+           </p>
+           <p style="font-size: 14px;white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 15px;">
+             <strong style="box-sizing: border-box;">
+              王  珂
+             </strong>
+            </span>
+           </p>
+           <p style="font-size: 14px;white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 15px;">
+             必也正名乎
+             <span style="letter-spacing: 0px;box-sizing: border-box;">
+              ——吕思勉《医籍知津》与谢观《中国医学源流论》关系辨证
+             </span>
+            </span>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 8px 0% 0px;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;box-sizing: border-box;">
+     <section style="background-color: rgb(143, 121, 71);color: rgb(255, 255, 255);font-size: 14px;padding-left: 5px;padding-right: 5px;margin-bottom: 4px;box-sizing: border-box;">
+      <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+       <strong style="box-sizing: border-box;">
+        <span style="font-size: 16px;box-sizing: border-box;">
+         ◎ 文学语言学研究
+        </span>
+       </strong>
+       <span style="font-size: 17px;box-sizing: border-box;">
+        <strong style="box-sizing: border-box;">
+         <strong style="letter-spacing: 0px;box-sizing: border-box;">
+         </strong>
+        </strong>
+       </span>
+       <strong style="letter-spacing: 0px;box-sizing: border-box;">
+        <span style="font-size: 16px;box-sizing: border-box;">
+        </span>
+       </strong>
+      </p>
+     </section>
+     <section style="border-top: 2px dotted rgb(74, 96, 101);width: 100%;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style='display: inline-block;width: 100%;vertical-align: top;background-position: 0% 0%;background-repeat: repeat;background-size: 99.0957%;background-attachment: scroll;letter-spacing: 0px;padding: 15px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/2P62ObfQryztT1q9ykFOnWYflELibaibKpLoXmlOIcvdicLbOAicoLamQtnh9AfvrzJcD3cJpywH2jTBvHDEJFpkUg/640?wx_fmt=png");box-sizing: border-box;'>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;line-height: 2;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <strong style="font-size: 15px;letter-spacing: 0px;box-sizing: border-box;">
+          段怀清
+         </strong>
+         <span style="font-size: 15px;letter-spacing: 0px;">
+         </span>
+         <br/>
+        </p>
+        <p style="font-size: 14px;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          “深文理”：晚清新教来华传教士与“文言”及“文言文”
+         </span>
+        </p>
+        <p style="font-size: 14px;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          <strong style="box-sizing: border-box;">
+           刘  云
+          </strong>
+         </span>
+        </p>
+        <p style="font-size: 14px;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          “一本密封的书”
+          <span style="letter-spacing: 0px;box-sizing: border-box;">
+           ——１９ 世纪后期委办译本传播与使用状况考析
+          </span>
+         </span>
+        </p>
+        <p style="font-size: 14px;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          <strong style="box-sizing: border-box;">
+           凤  媛
+          </strong>
+         </span>
+        </p>
+        <p style="font-size: 14px;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          林语堂圣约翰时期的语言文学观考论(1911—1916)
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 8px 0% 0px;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;box-sizing: border-box;">
+     <section style="background-color: rgb(203, 150, 91);color: rgb(255, 255, 255);font-size: 14px;padding-left: 5px;padding-right: 5px;margin-bottom: 4px;box-sizing: border-box;">
+      <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+       <span style="font-size: 16px;box-sizing: border-box;">
+        ◎
+       </span>
+       <strong style="box-sizing: border-box;">
+        <span style="font-size: 17px;box-sizing: border-box;">
+         <span style="letter-spacing: 0px;box-sizing: border-box;">
+          西方思想史研究
+         </span>
+         <strong style="font-size: 16px;letter-spacing: 0px;box-sizing: border-box;">
+         </strong>
+        </span>
+       </strong>
+       <strong style="font-size: 16px;letter-spacing: 0px;box-sizing: border-box;">
+       </strong>
+      </p>
+     </section>
+     <section style="border-top: 2px dotted rgb(74, 96, 101);width: 100%;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style='display: inline-block;width: 100%;vertical-align: top;background-position: 0% 0%;background-repeat: repeat;background-size: 99.0957%;background-attachment: scroll;letter-spacing: 0px;padding: 15px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/2P62ObfQryztT1q9ykFOnWYflELibaibKpLoXmlOIcvdicLbOAicoLamQtnh9AfvrzJcD3cJpywH2jTBvHDEJFpkUg/640?wx_fmt=png");box-sizing: border-box;'>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;line-height: 2;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          <strong style="box-sizing: border-box;">
+           吴冠军
+          </strong>
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          在黑格尔与巴迪欧之间的“爱”
+          <span style="font-size: 15px;letter-spacing: 0px;box-sizing: border-box;">
+           ——从张念的黑格尔批判说起
+          </span>
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          <strong style="box-sizing: border-box;">
+           唐 玉 ，高力克
+          </strong>
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          西方思想史上的两种公民观念
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          <strong style="box-sizing: border-box;">
+           朱  新
+          </strong>
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          什么是马基雅维里的第一论题：法治还是共和？
+          <span style="font-size: 15px;letter-spacing: 0px;box-sizing: border-box;">
+           ——“公民生活”概念的再审视
+          </span>
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 8px 0% 0px;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;box-sizing: border-box;">
+     <section style="background-color: rgb(249, 110, 87);color: rgb(255, 255, 255);font-size: 14px;padding-left: 5px;padding-right: 5px;margin-bottom: 4px;box-sizing: border-box;">
+      <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+       <span style="font-size: 16px;box-sizing: border-box;">
+        ◎
+       </span>
+       <strong style="box-sizing: border-box;">
+        <span style="letter-spacing: 0px;font-size: 17px;box-sizing: border-box;">
+         宗教研究
+        </span>
+       </strong>
+       <span style="letter-spacing: 0px;box-sizing: border-box;">
+       </span>
+      </p>
+     </section>
+     <section style="border-top: 2px dotted rgb(242, 192, 0);width: 100%;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style='display: inline-block;width: 100%;vertical-align: top;background-position: 0% 0%;background-repeat: repeat;background-size: 99.0957%;background-attachment: scroll;letter-spacing: 0px;padding: 15px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/2P62ObfQryztT1q9ykFOnWYflELibaibKpLoXmlOIcvdicLbOAicoLamQtnh9AfvrzJcD3cJpywH2jTBvHDEJFpkUg/640?wx_fmt=png");box-sizing: border-box;'>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;line-height: 2;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          <strong style="box-sizing: border-box;">
+           夏金华
+          </strong>
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          中古时期三夷教的消亡与外来宗教中国化的路径选择
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          <strong style="box-sizing: border-box;">
+           尹邦志
+          </strong>
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          龙树经论阐释的特点——以中道思想为视角
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          <strong style="box-sizing: border-box;">
+           聂顺新
+          </strong>
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          唐玄宗开元官寺敕令的执行及其意义
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 0px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;box-sizing: border-box;">
+     <section style="background-color: rgb(166, 91, 203);color: rgb(255, 255, 255);font-size: 14px;padding-left: 5px;padding-right: 5px;margin-bottom: 4px;box-sizing: border-box;">
+      <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+       ◎
+       <strong style="box-sizing: border-box;">
+        <span style="letter-spacing: 0px;font-size: 17px;box-sizing: border-box;">
+         城镇化与城市发展研
+        </span>
+       </strong>
+       <strong style="box-sizing: border-box;">
+        <span style="letter-spacing: 0px;font-size: 17px;box-sizing: border-box;">
+         究
+        </span>
+       </strong>
+       <span style="letter-spacing: 0px;box-sizing: border-box;">
+       </span>
+      </p>
+     </section>
+     <section style="border-top: 2px dotted rgb(202, 198, 198);width: 100%;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style='display: inline-block;width: 100%;vertical-align: top;background-position: 0% 0%;background-repeat: repeat;background-size: 99.0957%;background-attachment: scroll;letter-spacing: 0px;padding: 15px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/2P62ObfQryztT1q9ykFOnWYflELibaibKpLoXmlOIcvdicLbOAicoLamQtnh9AfvrzJcD3cJpywH2jTBvHDEJFpkUg/640?wx_fmt=png");box-sizing: border-box;'>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;line-height: 2;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          <strong style="box-sizing: border-box;">
+           高 波，樊学瑞，王辉龙
+          </strong>
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          土地市场化能改善城乡收入差距吗？——来自中国232个地级及以上城市的经验证据
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          <strong style="box-sizing: border-box;">
+           张黎莉， 严  荣
+          </strong>
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          农民工在流入地住房困难的代际差异研究——基于“中国社会状况综合调查”的数据
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          <strong style="box-sizing: border-box;">
+           张樨樨，杜玉帆
+          </strong>
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 15px;">
+          “全面二孩”政策背景下生育对城镇女性职业中断的影响研究
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.305" data-type="gif" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_gif/wMeIKUh0RD6zxwPo8TnrsH6YAhNV06glsJk9QNpiaNFhYAJBMnEZhxAm8reUmBOq9tcEK2vCrCUXYxIRiasYWiapA/640?wx_fmt=gif" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.2921875" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/PQaGQqXKyFlDicbFTZvskiaLjVj8TfNV5C991eaYm3bPzlH1ymaz84C0oIJdnTyMwOw9FquqIiaoYboicXoFg946Rw/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.425" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/PQaGQqXKyFlDicbFTZvskiaLjVj8TfNV5C1uJ84tm7leVp16iclvSUCLwYXhBT5Cb9auIicZr7GBUejSQxGGM2Piamg/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;text-align: center;box-sizing: border-box;">
+    <section style='display: inline-block;width: 95%;vertical-align: top;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/iaB5pSbkmPv6H8p9ibDpNN8W6qSyf4Hk5w7Il8DicrUv43JjADXQoa5E59yTZLicSd60lMLHP052xYKGW1dgfylgpQ/640?wx_fmt=png?x-oss-process=style/xmorient");background-position: 0% 0%;background-repeat: repeat;background-size: 99.4573%;background-attachment: scroll;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;'>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 10px 0% 0px;box-sizing: border-box;">
+          <section style="text-align: justify;font-size: 12px;line-height: 1.8;color: rgb(11, 10, 10);box-sizing: border-box;">
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            投稿请登录本刊网上投稿系统：www.xb.ecnu.edu.cn
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: right;margin: -40px 0% 10px;transform: translate3d(15px, 0px, 0px);-webkit-transform: translate3d(15px, 0px, 0px);-moz-transform: translate3d(15px, 0px, 0px);-o-transform: translate3d(15px, 0px, 0px);box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 12%;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.7388235" data-type="jpeg" data-w="425" src="https://mmbiz.qpic.cn/mmbiz_jpg/PQaGQqXKyFlDicbFTZvskiaLjVj8TfNV5CtcP7ialtzuG2JHO0Cj9sFF6KfoE1aQ18pnzpNGuVDUz6DMVK94uedIA/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="1.2734375" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/PQaGQqXKyFlDicbFTZvskiaLjVj8TfNV5Ct8sqKgGRDibLib24XwTtMN4fibkfsibnQxMmsfEcLrcibKJTSlShm7xibtibw/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style='display: inline-block;width: 100%;vertical-align: top;background-position: 0% 0%;background-repeat: repeat;background-size: 99.0957%;background-attachment: scroll;letter-spacing: 0px;padding: 15px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/2P62ObfQryztT1q9ykFOnWYflELibaibKpLoXmlOIcvdicLbOAicoLamQtnh9AfvrzJcD3cJpywH2jTBvHDEJFpkUg/640?wx_fmt=png");box-sizing: border-box;'>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 5px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;overflow: hidden;height: 70px;border-style: solid;border-width: 0px;border-radius: 5px;border-color: rgb(164, 197, 244);padding: 0px 10px;box-shadow: rgb(133, 134, 135) 0px 0px 8px inset;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 5px 0% 0px;font-size: 18px;text-align: center;box-sizing: border-box;">
+          <section style="display: inline-block;vertical-align: middle;width: 13%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="font-size: 13px;margin: 10px 0%;transform: translate3d(10px, 0px, 0px);-webkit-transform: translate3d(10px, 0px, 0px);-moz-transform: translate3d(10px, 0px, 0px);-o-transform: translate3d(10px, 0px, 0px);box-sizing: border-box;">
+             <section style='box-sizing: border-box;margin: auto;width: 3em;height: 3em;vertical-align: top;background-position: 0% 0%;background-repeat: no-repeat;background-size: 100%;display: inline-block;border-width: 0px;border-radius: 50% 0% 50% 50%;border-style: solid;border-color: rgb(62, 62, 62);box-shadow: rgb(0, 0, 0) 0px 0px 0px;overflow: hidden;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/PQaGQqXKyFlDicbFTZvskiaLjVj8TfNV5Cdl5kUxOOiaqSGoQ3HmlvQWncl5FJ2lFar5UjL1Eo473xqGgiczlvkCEA/640?wx_fmt=gif");'>
+             </section>
+            </section>
+           </section>
+          </section>
+          <section style="display: inline-block;vertical-align: middle;width: 64%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;padding: 0px 10px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="transform: translate3d(10px, 0px, 0px);-webkit-transform: translate3d(10px, 0px, 0px);-moz-transform: translate3d(10px, 0px, 0px);-o-transform: translate3d(10px, 0px, 0px);box-sizing: border-box;">
+             <section style="font-size: 14px;box-sizing: border-box;">
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               华东师范大学学报
+              </p>
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="letter-spacing: 0px;box-sizing: border-box;">
+               </span>
+               <span style="letter-spacing: 0px;box-sizing: border-box;">
+                微信矩阵
+               </span>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+          <section class="group-empty" style="display: inline-block;vertical-align: middle;width: 22%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;border-color: rgb(113, 215, 0);border-width: 0px;border-radius: 0px;border-style: none;box-sizing: border-box;height: 1px;">
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="font-size: 0px;box-sizing: border-box;">
+        <img data-ratio="1" data-type="gif" data-w="258" src="https://mmbiz.qpic.cn/mmbiz_png/nvPhovFuD4a2p5sGjcA3V0iaEYpYkE2kurKRmdKOwZrq3MiaJo2Jt0sDt18liaVTNJVC2twnichnSnjLmeeYFqn82w/640?wx_fmt=gif" style="opacity: 0;vertical-align: top;display: inline-block;margin-top: -70px;height: 70px;max-height: 70px;min-height: 70px;width: 100%;box-sizing: border-box;" width="100%"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;box-sizing: border-box;">
+       <section style="background-image: linear-gradient(135deg, rgb(223, 142, 77) 0%, rgb(236, 199, 169) 100%);box-sizing: border-box;">
+        <section style="padding: 2px 0px;width: 100%;box-sizing: border-box;">
+         <section powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <section style="display: inline-block;vertical-align: top;width: 33.33%;padding: 0px 1px 0px 2px;box-sizing: border-box;">
+            <section powered-by="xiumi.us" style="box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);padding: 3px;box-sizing: border-box;">
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+                 <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+                  <img class="raw-image" data-ratio="1" data-type="jpeg" data-w="258" src="https://mmbiz.qpic.cn/mmbiz_jpg/PQaGQqXKyFlDicbFTZvskiaLjVj8TfNV5CU3goDQTWSyClbfYy8pgK9DglHGg1B8SjbjCoWBicZhvQibmGIVsibzHDA/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+                 </section>
+                </section>
+               </section>
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="margin: 0px 0%;box-sizing: border-box;">
+                 <section style="background-color: rgb(249, 110, 87);height: 1px;box-sizing: border-box;">
+                 </section>
+                </section>
+               </section>
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="margin: 6px 0% 3px;text-align: center;box-sizing: border-box;">
+                 <section style="font-size: 12px;color: rgb(92, 90, 90);box-sizing: border-box;">
+                  <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+                   华东师大学报
+                  </p>
+                  <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+                   哲学社会科学版
+                  </p>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+           <section style="display: inline-block;vertical-align: top;width: 33.33%;padding: 0px 1px;box-sizing: border-box;">
+            <section powered-by="xiumi.us" style="box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);padding: 3px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+                 <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+                  <img class="raw-image" data-ratio="1" data-type="jpeg" data-w="430" src="https://mmbiz.qpic.cn/mmbiz_jpg/PQaGQqXKyFlDicbFTZvskiaLjVj8TfNV5CgEYayXqhUBQk3FpfX2anRgxkqOrL7ia9gBnT3f98icXPjFl40pV3GWLg/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+                 </section>
+                </section>
+               </section>
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="margin: 0px 0%;box-sizing: border-box;">
+                 <section style="background-color: rgb(223, 142, 77);height: 1px;box-sizing: border-box;">
+                 </section>
+                </section>
+               </section>
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="margin: 6px 0% 3px;text-align: center;box-sizing: border-box;">
+                 <section style="font-size: 12px;color: rgb(92, 90, 90);box-sizing: border-box;">
+                  <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+                   华东师大学
+                   <span style="letter-spacing: 0px;box-sizing: border-box;">
+                    报
+                   </span>
+                  </p>
+                  <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+                   自然科学版
+                  </p>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+           <section style="display: inline-block;vertical-align: top;width: 33.33%;padding: 0px 2px 0px 1px;box-sizing: border-box;">
+            <section powered-by="xiumi.us" style="box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);padding: 3px;box-sizing: border-box;">
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+                 <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+                  <img class="raw-image" data-ratio="1" data-type="jpeg" data-w="258" src="https://mmbiz.qpic.cn/mmbiz_jpg/PQaGQqXKyFlDicbFTZvskiaLjVj8TfNV5Cu8d7aXOYQpqIpHc21kA1WdOEFsXCEXr5mRia761qvicNmtDqwBdNhsFA/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+                 </section>
+                </section>
+               </section>
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="margin: 0px 0%;box-sizing: border-box;">
+                 <section style="background-color: rgb(223, 142, 77);height: 1px;box-sizing: border-box;">
+                 </section>
+                </section>
+               </section>
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="margin: 6px 0% 3px;text-align: center;box-sizing: border-box;">
+                 <section style="font-size: 12px;color: rgb(92, 90, 90);box-sizing: border-box;">
+                  <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+                   华东师大学报
+                  </p>
+                  <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+                   教育科学版
+                  </p>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="font-size: 12px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       点击「
+       <span style="color: rgb(201, 36, 8);box-sizing: border-box;">
+        阅读原文
+       </span>
+       」访问
+       <span style="color: rgb(70, 116, 37);box-sizing: border-box;">
+        华东师范大学学报哲学社会科学版官网
+       </span>
+      </strong>
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>

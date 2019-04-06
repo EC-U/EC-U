@@ -1,0 +1,379 @@
+
+ <section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;">
+  <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <p style="text-indent: 2em;">
+    <span style="font-size: 14px;">
+     复试包括三个部分：笔试、专业课面试、英语口试。
+    </span>
+   </p>
+   <p style="text-indent: 2em;">
+    <br/>
+   </p>
+   <section class="_135editor" data-id="94065" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section style="text-align: center;">
+     <section style="display: flex;justify-content: center;align-items: center;">
+      <section style="display: inline-block;background: rgb(255, 227, 10);border-radius: 6px;padding: 3px 7px;font-weight: bold;box-sizing: border-box;">
+       0
+       <span class="autonum" data-original-title="" title="">
+        1
+       </span>
+      </section>
+      <section style="display: inline-block;margin-top: 6px;margin-left: 5px;">
+       <section class="135brush" data-brushtype="text" style="font-weight: bold;letter-spacing: 2px;line-height: 1.75em;color: rgb(63, 63, 63);">
+        笔试
+       </section>
+       <section style="width: 3em;border-bottom: 2px solid rgb(63, 63, 63);float: right;box-sizing: border-box;">
+       </section>
+       <section data-width="90%" style="clear: both;width: 90%;border-bottom: 2px solid rgb(63, 63, 63);float: right;margin-top: 3px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="_135editor" data-id="94534" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section data-width="95%" style="width:95%;margin:20px auto;">
+    <section style="box-shadow: 0px 2px 10px #a9cfd5;">
+     <section style="display: flex;justify-content: space-between;align-items: center;padding: 10px 5px;box-sizing: border-box;">
+      <section style="display: inline-block;width: 25px;">
+       <section style="width: 0.8em;height: 0.8em;background: rgb(133, 181, 188);border-radius: 100%;opacity: 0.6;margin-right: auto;margin-bottom: -8px;margin-left: auto;transform: rotate(0deg);">
+       </section>
+       <section style="width: 5px;height: 1.4em;background: rgb(169, 207, 213);border-radius: 6px;margin-right: auto;margin-left: auto;box-sizing: border-box;">
+       </section>
+      </section>
+      <section style="display: inline-block;width: 25px;">
+       <section style="width: 0.8em;height: 0.8em;background: rgb(133, 181, 188);border-radius: 100%;opacity: 0.6;margin-right: auto;margin-bottom: -8px;margin-left: auto;transform: rotate(0deg);">
+       </section>
+       <section style="width: 5px;height: 1.4em;background: rgb(169, 207, 213);border-radius: 6px;margin-right: auto;margin-left: auto;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section style="padding: 0.2em 1em;box-sizing: border-box;">
+      <section class="135brush" data-autoskip="1" style="font-size: 14px;letter-spacing: 1.5px;line-height: 1.75em;color: rgb(77, 144, 154);padding: 0em 1em;box-sizing: border-box;">
+       <p>
+        <span style="color: #262626;">
+         笔试部分：所有进复试的同学卷子是一样的。  　第一题：如何看待大学无用论？
+        </span>
+       </p>
+       <p>
+        <span style="color: #262626;">
+         第二题：什么是科学研究？什么是好的研究？如何做好的研究？
+        </span>
+       </p>
+       <p>
+        <span style="color: #262626;">
+         第三题：英语翻译，英译汉
+        </span>
+       </p>
+       <p>
+        <span style="color: #262626;">
+         笔试题没有标准答案，言之有理即可，而且笔试的成绩占比很少，关键是看专业课面试的表现，所以笔试不需要过于担心，尽可能多写。
+        </span>
+       </p>
+      </section>
+     </section>
+     <section style="display: flex;justify-content: space-between;align-items: center;padding: 10px 5px;box-sizing: border-box;">
+      <section style="display: inline-block;width: 25px;">
+       <section style="width: 5px;height: 1.4em;background: rgb(169, 207, 213);border-radius: 6px;margin-right: auto;margin-left: auto;box-sizing: border-box;">
+       </section>
+       <section style="width: 0.8em;height: 0.8em;background: rgb(133, 181, 188);border-radius: 100%;opacity: 0.6;margin-top: -8px;margin-right: auto;margin-left: auto;transform: rotate(0deg);">
+       </section>
+      </section>
+      <section style="display: inline-block;width: 25px;">
+       <section style="width: 5px;height: 1.4em;background: rgb(169, 207, 213);border-radius: 6px;margin-right: auto;margin-left: auto;box-sizing: border-box;">
+       </section>
+       <section style="width: 0.8em;height: 0.8em;background: rgb(133, 181, 188);border-radius: 100%;opacity: 0.6;margin-top: -8px;margin-right: auto;margin-left: auto;transform: rotate(0deg);">
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <p style="text-indent: 2em;">
+    <strong>
+     笔试注意两点：
+    </strong>
+   </p>
+   <p style="text-indent: 2em;">
+    <span style="font-size: 14px;">
+     1.一定要有过硬的专业基本知识。比如高教的功能、高教的概念。不管你选择什么专业，都要去看一本介绍这门学科整体脉络的书籍。
+    </span>
+   </p>
+   <p style="text-indent: 2em;">
+    <span style="font-size: 14px;">
+     2.重视教育研究方法的学习。这门课我们在初试阶段学习过，但是学习的并不深入。可以再找一些辅助资料阅读，在研究生学习阶段也会非常有用的。
+    </span>
+   </p>
+   <p style="text-indent: 2em;">
+    <br/>
+   </p>
+   <section class="_135editor" data-id="94065" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section style="text-align: center;">
+     <section style="display: flex;justify-content: center;align-items: center;">
+      <section style="display: inline-block;background: rgb(255, 227, 10);border-radius: 6px;padding: 3px 7px;font-weight: bold;box-sizing: border-box;">
+       0
+       <span class="autonum" data-num="2" data-original-title="" title="">
+        2
+       </span>
+      </section>
+      <section style="display: inline-block;margin-top: 6px;margin-left: 5px;">
+       <section class="135brush" data-brushtype="text" style="font-weight: bold;letter-spacing: 2px;line-height: 1.75em;color: rgb(63, 63, 63);">
+        专业课面试
+       </section>
+       <section style="width: 3em;border-bottom: 2px solid rgb(63, 63, 63);float: right;box-sizing: border-box;">
+       </section>
+       <section data-width="90%" style="clear: both;width: 90%;border-bottom: 2px solid rgb(63, 63, 63);float: right;margin-top: 3px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <section class="_135editor" data-id="87856" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section style="margin-top: 1em;margin-bottom: 1em;font-size: 14px;line-height: 20px;text-align: left;clear: both;">
+     <section class="autonum" data-original-title="" style="display: inline-block;padding: 5px 10px;color: rgb(254, 254, 254);font-weight: bold;border-top-left-radius: 3px;border-bottom-left-radius: 3px;background-color: rgb(128, 177, 53);box-sizing: border-box;" title="">
+      1
+     </section>
+     <section class="135brush" data-bgless="lighten" data-bglessp="20%" data-brushtype="text" style="display: inline-block;padding: 5px 10px;color: rgb(254, 254, 254);font-weight: bold;border-top-right-radius: 3px;border-bottom-right-radius: 3px;background-color: rgb(176, 214, 118);box-sizing: border-box;">
+      真诚、自信、有趣
+     </section>
+    </section>
+   </section>
+   <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      面试采用抽签的形式，按照数字依次进行个人面试。不要担心数字的前后会影响你的成绩，我是1号，舍友是最后一号，两个最极端的数字在这里，所以大家不用担心那么多啦。哦，对了，她是跨专业的，我是本专业的，依旧很极端。
+     </span>
+    </p>
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      面试既有方法，又没有方法。说有方法，是因为有一些问题你可以准备，做到有备无患；说没有方法，是因为面试是人与人的交流，真诚就是最重要的方法。罗振宇曾经说过：没有道路可以通向真诚，真诚本身就是道路。如果你的所有的回答都只是一些套路，那老师听起来必然索然无味。全班同学我都一个一个地进行了访谈，大部分的同学都说“老师是根据你自己的自身经历问问题，根据你的回答再继续追问”。经历不可造假，考场上的回答不可预测，面对不确定性，唯一可以确定的是你是真诚的。
+     </span>
+    </p>
+    <section class="_135editor" data-id="87856" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section style="margin-top: 1em;margin-bottom: 1em;font-size: 14px;line-height: 20px;text-align: left;clear: both;">
+      <section class="autonum" data-num="2" data-original-title="" style="display: inline-block;padding: 5px 10px;color: rgb(254, 254, 254);font-weight: bold;border-top-left-radius: 3px;border-bottom-left-radius: 3px;background-color: rgb(128, 177, 53);box-sizing: border-box;" title="">
+       2
+      </section>
+      <section class="135brush" data-bgless="lighten" data-bglessp="20%" data-brushtype="text" style="display: inline-block;padding: 5px 10px;color: rgb(254, 254, 254);font-weight: bold;border-top-right-radius: 3px;border-bottom-right-radius: 3px;background-color: rgb(176, 214, 118);box-sizing: border-box;">
+       面试问题
+      </section>
+     </section>
+    </section>
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      我的准备：
+     </span>
+    </p>
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      首先是准备自我介绍。
+     </span>
+    </p>
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      大家回忆一下你大学三年都做过哪些科研项目？大家不要看到“科研”这两个字就特别恐慌，作为一名学教育的本科生，其实你平时的小组作业就属于一种科研的探索呀。我的简历上的项目有很多平时的小组作业，大家一定要注意，这些小组作业你一定要很熟悉，不要编造虚假的东西。
+     </span>
+    </p>
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      我的问题都是围绕着这些展开的，比如田野调查你是怎么展开研究的？关于国学热你是怎么看待的？
+     </span>
+    </p>
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      毕业论文，即是一个亮点也有可能成为败笔。好好准备，比如说研究方法、研究思路、研究过程等。这些方面一定要非常清楚。
+     </span>
+    </p>
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      本科时高教用的什么教材，印象最深刻的是什么？
+     </span>
+    </p>
+    <section class="_135editor" data-id="image-57991" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <p style="text-align:center;">
+      <img class="" data-ratio="0.6671140939597315" data-type="jpeg" data-w="745" src="https://mmbiz.qpic.cn/mmbiz_jpg/HqfVjH48Ea804MoAzzOGvdWjg02Ut61M30OAH9T5iblcGYRhphWNpxoSjyxfr2EWs6ibuWIeice3wSWGjoIu6aCibw/640?wx_fmt=jpeg" title="毕业帽和文凭书籍"/>
+     </p>
+    </section>
+    <section class="_135editor" data-id="87856" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section style="margin-top: 1em;margin-bottom: 1em;font-size: 14px;line-height: 20px;text-align: left;clear: both;">
+      <section class="autonum" data-num="3" data-original-title="" style="display: inline-block;padding: 5px 10px;color: rgb(254, 254, 254);font-weight: bold;border-top-left-radius: 3px;border-bottom-left-radius: 3px;background-color: rgb(128, 177, 53);box-sizing: border-box;" title="">
+       3
+      </section>
+      <section class="135brush" data-bgless="lighten" data-bglessp="20%" data-brushtype="text" style="display: inline-block;padding: 5px 10px;color: rgb(254, 254, 254);font-weight: bold;border-top-right-radius: 3px;border-bottom-right-radius: 3px;background-color: rgb(176, 214, 118);box-sizing: border-box;">
+       跨专业学生面试
+      </section>
+     </section>
+    </section>
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      跨专业学生的面试，真的很简单。毕竟对于你们来说，通过初试就已经是一种挑战了，所以面试老师不会为难大家的，问的都是一些常规的问题，几乎没有专业问题。采访过班里的同学之后，大致有以下的一些问题：
+     </span>
+    </p>
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      首先是自我介绍。（一定要好好准备）
+     </span>
+    </p>
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      为什么跨专业考研？如果毕业之后再考的同学会问，为什么隔了一年才考研？
+     </span>
+    </p>
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      你所学习的科目对教育学学习会有什么帮助？
+     </span>
+    </p>
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      你的兴趣爱好是什么？（慎重答，要有所准备）
+     </span>
+    </p>
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      你读过哪些教育学方面的书？
+     </span>
+    </p>
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      这都是一些基本的问题，老师会根据你的回答进行延展性地提问。最重要的是在回答问题是要自信、真诚、大胆、敢说。去年的专业课面试和政审在一块的，所以也会问问家里有多少人呀，有几个兄弟姐妹呀，家乡是哪呀？总之，都是一些家常的话题，关键就是让老师能够感受到你这个人的精神气质是自信、乐观、大胆说话的。
+     </span>
+    </p>
+    <p style="text-indent: 2em;">
+     <br/>
+    </p>
+    <section class="_135editor" data-id="94065" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section style="text-align: center;">
+      <section style="display: flex;justify-content: center;align-items: center;">
+       <section style="display: inline-block;background: rgb(255, 227, 10);border-radius: 6px;padding: 3px 7px;font-weight: bold;box-sizing: border-box;">
+        0
+        <span class="autonum" data-num="3" data-original-title="" title="">
+         3
+        </span>
+       </section>
+       <section style="display: inline-block;margin-top: 6px;margin-left: 5px;">
+        <section class="135brush" data-brushtype="text" style="font-weight: bold;letter-spacing: 2px;line-height: 1.75em;color: rgb(63, 63, 63);">
+         英语面试
+        </section>
+        <section style="width: 3em;border-bottom: 2px solid rgb(63, 63, 63);float: right;box-sizing: border-box;">
+        </section>
+        <section data-width="90%" style="clear: both;width: 90%;border-bottom: 2px solid rgb(63, 63, 63);float: right;margin-top: 3px;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       英语去年是抽题，每一个纸条上都有一个问题，可以思考几秒钟之后再回答，不完全统计问题如下：
+      </span>
+     </p>
+     <p style="text-indent: 32px;">
+      <span style="font-size: 14px;text-indent: 2em;caret-color: red;">
+       1.学生评教是否作为教师晋升的一个标准？
+      </span>
+     </p>
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       2.大学教育与高等教育的区别？
+      </span>
+     </p>
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       3.你如何认识高等教育？
+      </span>
+     </p>
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       4.影响大学生选择选修课的因素有哪些？
+      </span>
+     </p>
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       5.你如何看待留学出国这一现象？
+      </span>
+     </p>
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       都要用英语回答哦，其实问题的答案不重要，去年我的答案可能没有表述清楚，老师说我没有理解，让我再回答一遍，回答之后好像还不对，最后的最后，老师竟然用汉语给我解释了一遍，我又回答了一次，也是足够尴尬的了。回答完英语问题，整个面试就结束了，后来想想第一个面试也挺好的，一颗悬下的心终于落下了。
+      </span>
+     </p>
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       如果不是抽题，记得准备一下
+       <strong>
+        英语的常规题目
+       </strong>
+       ，比如：
+      </span>
+     </p>
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       自我介绍
+      </span>
+     </p>
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       你的学校？你的爱好？
+      </span>
+     </p>
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       你喜欢的一本书？喜欢的电影？
+      </span>
+     </p>
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       如何看待你家乡的高等教育？
+      </span>
+     </p>
+     <section class="_135editor" data-id="image-57990" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <p style="text-align:center;">
+       <img class="" data-ratio="0.6671140939597315" data-type="jpeg" data-w="745" src="https://mmbiz.qpic.cn/mmbiz_jpg/HqfVjH48Ea804MoAzzOGvdWjg02Ut61MIK2O5942j3KwUszflIqH54TKXt4B9Izib88U3NVccsOicG1LymtjdRAQ/640?wx_fmt=jpeg" title="学生凭墙持有毕业证书"/>
+      </p>
+     </section>
+     <p style="text-indent: 2em;">
+      <br/>
+     </p>
+     <section class="_135editor" data-id="93662" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <section style="margin:5px 5px 15px 5px;">
+       <section style="margin-bottom:-20px;display:inline-block;background-color:rgba(151, 228, 249, 0.7);width:30px;height:30px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-ms-transform: rotate(45deg);-o-transform: rotate(45deg);">
+       </section>
+       <section style="margin-left:-3px;margin-bottom:-20px;display:inline-block;background-color:rgba(175, 178, 249, 0.7);width:30px;height:30px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-ms-transform: rotate(45deg);-o-transform: rotate(45deg);">
+       </section>
+       <section data-width="100%" style="width:100%;vertical-align: top;padding: 10px;border-width:1px;border-style: solid;border-radius: 5px;border-color: #0d0a0a;overflow: hidden;box-sizing: border-box;">
+        <section style="padding: 1em 0.8em;letter-spacing: 1.5px;color: rgb(63, 63, 63);font-size: 14px;line-height: 1.75em;box-sizing: border-box;">
+         <section class="135brush">
+          <p style="text-indent: 2em;">
+           初试成绩好，不代表你一定可以成功，去年高教所初试的前几名依然无缘这所学校。初试成绩处于劣势，也不代表你不会逆袭成功，比如我。
+          </p>
+          <p style="text-indent: 2em;">
+           <strong>
+            上帝永远眷顾努力的人，坚持到最后，答案才会有分晓。
+           </strong>
+          </p>
+         </section>
+        </section>
+       </section>
+       <section style="display: flex;justify-content: flex-end;margin-right:10px;">
+        <section style="margin: -20px 0% 10px;line-height: 1;box-sizing: border-box;transform: translate3d(10px, 0px, 0px);-webkit-transform: translate3d(10px, 0px, 0px);-moz-transform: translate3d(10px, 0px, 0px);-ms-transform: translate3d(10px, 0px, 0px);-o-transform: translate3d(10px, 0px, 0px);">
+         <section style="margin-bottom:-20px;display:inline-block;background-color:rgba(151, 228, 249, 0.7);width:30px;height:30px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-ms-transform: rotate(45deg);-o-transform: rotate(45deg);">
+         </section>
+         <section style="margin-left:-3px;margin-bottom:-20px;display:inline-block;background-color:rgba(175, 178, 249, 0.7);width:30px;height:30px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-ms-transform: rotate(45deg);-o-transform: rotate(45deg);">
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="text-align: center;">
+  <img class="" data-copyright="0" data-ratio="0.6041666666666666" data-s="300,640" data-type="jpeg" data-w="480" src="https://mmbiz.qpic.cn/mmbiz_jpg/HqfVjH48Ea9x26JJRku7MRCOB4gPOVWCFWfqNCzUArUkmRVn2nTMiaic3aMeJFHmVvbs3nfrKx7lltHY1EhQD6dQ/640?wx_fmt=jpeg" style=""/>
+ </p>
+ <p>
+  <br/>
+ </p>

@@ -1,0 +1,336 @@
+
+ <section style="white-space: normal;box-sizing: border-box;">
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="margin-bottom: -1em;padding-top: 10px;padding-bottom: 10px;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="text-align: center;box-sizing: border-box;">
+         <p>
+          <strong style="box-sizing: border-box;">
+           栏目简介
+          </strong>
+          <br/>
+         </p>
+         <p style="clear: none;text-align: left;text-indent: 2em;box-sizing: border-box;">
+          <span style="font-size: 14px;box-sizing: border-box;">
+           为增进社会工作专业学生的专业发展、自我成长和职业规划，促进社会工作专业学生培养过程中的理论与实务能力提升、教师-学生-督导三方互动，推进社会工作专业教学体系专业化、教学活动多元化和教学成果品牌化，社会工作系将2018年度学生专业实习成果进行整理和展示，以期在社会工作专业实习实践、总结和反思基础上，实现“以理论促实务、以实务促理论”的教学理念。让我们一起来看看大家的实习都是怎样的吧！
+          </span>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="width: 1em;height: 1em;float: left;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+     <section style="margin-left: 0.5em;width: 0.5em;height: 0.5em;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+     </section>
+     <section style="margin-left: 0.17em;width: 0.33em;height: 0.33em;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+     </section>
+    </section>
+    <section style="width: 1em;height: 1em;float: right;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+     <section style="width: 0.5em;height: 0.5em;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+     </section>
+     <section style="margin-left: 0.57em;width: 0.33em;height: 0.33em;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+     </section>
+    </section>
+    <section style="clear: both;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section style="margin: auto;width: 8px;height: 8px;border-radius: 50%;background-color: rgb(0, 0, 0);box-sizing: border-box;">
+      </section>
+      <section style="margin-top: -5px;margin-right: auto;margin-left: auto;width: 22px;box-sizing: border-box;">
+       <section style="height: 20px;transform: rotate(45deg);transform-origin: left center 0px;float: left;border-left: 1px solid rgb(142, 201, 101);border-top-color: rgb(142, 201, 101);border-right-color: rgb(142, 201, 101);border-bottom-color: rgb(142, 201, 101);box-sizing: border-box;">
+       </section>
+       <section style="height: 20px;border-left: 1px solid rgb(142, 201, 101);transform: rotate(-45deg);transform-origin: right center 0px;float: right;border-top-color: rgb(142, 201, 101);border-right-color: rgb(142, 201, 101);border-bottom-color: rgb(142, 201, 101);box-sizing: border-box;">
+       </section>
+       <section style="clear: both;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section style="margin-top: -3px;padding: 2px 8px;display: inline-block;vertical-align: top;border-radius: 5px;color: rgb(255, 255, 255);background-color: rgb(142, 201, 101);box-sizing: border-box;">
+      <p style="box-sizing: border-box;">
+       <strong style="box-sizing: border-box;">
+        实习概况
+       </strong>
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="padding-top: 10px;padding-bottom: 10px;display: inline-block;width: 556px;vertical-align: top;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="padding-right: 25px;padding-left: 25px;color: rgb(6, 6, 6);font-size: 14px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          实习机构：
+         </strong>
+        </p>
+        <p>
+         上海市交通大学附属第九人民医院
+        </p>
+        <p>
+         上海市第十人民医院
+        </p>
+        <p>
+         <br/>
+        </p>
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          学校督导：
+         </strong>
+         <span style="letter-spacing: 0px;box-sizing: border-box;">
+          赵鑫
+         </span>
+        </p>
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          机构督导：
+         </strong>
+         孙振军 何平
+        </p>
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          组员：
+         </strong>
+         徐琢瑶 赵自强 程丽桦 张咏颉 吴俊彦 李倩玲
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="padding-top: 10px;padding-bottom: 10px;display: inline-block;width: 556px;vertical-align: top;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: -10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="padding-right: 5px;padding-left: 5px;display: inline-block;vertical-align: top;height: 1.8em;line-height: 1.8em;background-color: rgb(142, 201, 101);color: rgb(255, 255, 255);border-radius: 5px 0px 0px 5px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          实习简介
+         </strong>
+        </p>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 0.5em;height: 1.8em;border-left: 0.9em solid rgb(142, 201, 101);box-sizing: border-box;border-bottom: 0.9em solid transparent !important;border-top: 0.9em solid transparent !important;">
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;box-sizing: border-box;">
+        <p style="text-indent: 2em;">
+         在“九院”的实习内容主要有志愿服务（门诊自助机服务），志愿者组织管理（上海大学美术学院志愿者培训、“走近乐龄时光”老年志愿者小组，上海大学“剪人生”志愿者服务社团），口腔肿瘤病区医务社会工作实务（口腔肿瘤问卷调查、查房和病友支持小组、肿瘤康复俱乐部和个案等），唇腭裂病区医务社会工作实务（查房、唇腭裂妈妈支持小组、瑞典医疗小丑病房活动和个案等），文献阅读研究（医务社会工作案例阅读、口腔肿瘤文献翻译和阅读等），肾脏内科病区医务社会工作实务（查房、个案服务和血液透析门诊“相伴相行”照顾者支持小组），整复外科病区医务社会工作实务（查房、个案服务、烧烫伤照顾者支持小组等），协办活动（如“口腔医学领域的人文关怀与社会工作实务”学习班），社区社会工作（如华东师范大学社工日“我为九院微笑天使代言”活动）。
+        </p>
+        <p style="text-indent: 2em;">
+         在“十院”的实习内容主要有志愿者管理（志愿者培训、志愿者网站管理、志愿者激励、发放志愿者证书等），认识机构（需求调查和学习整理台账），社会工作行政（微信公众号后台运营、撰写活动通讯稿和项目情况报告），社会工作研究（音乐治疗相关论文的文献查阅和文献综述），社会工作实务（音乐治疗系列讲座；观摩音乐治疗小组）
+        </p>
+        <p style="text-align: center;">
+         <img data-copyright="0" data-ratio="1.218045112781955" data-s="300,640" data-type="png" data-w="266" src="https://mmbiz.qpic.cn/mmbiz_png/8mXKElyEribIic9xr4sQ0gtoiaApXPiarican87eASBV7XjZDbdBmicpcAfWmlPRGZGOlN0S91syRpHRIJNXJ0w5PJXg/640?wx_fmt=png" style=""/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="padding-top: 10px;padding-bottom: 10px;display: inline-block;width: 556px;vertical-align: top;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: -10px;margin-bottom: 10px;text-align: right;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 0.5em;height: 1.8em;border-right: 0.9em solid rgb(142, 201, 101);box-sizing: border-box;border-bottom: 0.9em solid transparent !important;border-top: 0.9em solid transparent !important;">
+       </section>
+       <section style="padding-right: 5px;padding-left: 5px;display: inline-block;vertical-align: top;height: 1.8em;line-height: 1.8em;background-color: rgb(142, 201, 101);color: rgb(255, 255, 255);border-radius: 0px 4px 4px 0px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          实习小故事
+         </strong>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;box-sizing: border-box;">
+        <p style="text-indent: 2em;">
+         在肾脏内科实习的时候，科室每天早上都会有寻常的查房活动，作为了解患者和肾脏疾病知识的途径，我们社工实习生们几乎每天都会去跟查房。
+        </p>
+        <p style="text-indent: 2em;">
+         又是一天早上，天气阴阴得看起来像是要下雨，但是我离开门诊大楼去病房的时候嫌麻烦并没有带伞。查房的时候我们遇到了一个84岁的奶奶，医生想让她做好透析准备，但是没有对透析做太多的解释就了离开。我在查房之后，想要和病患和家属们聊一聊透析。在和奶奶对话的时候，她像对我说的话不是很理解，于是我拿了肾内科的慢性肾病小手册向她说明。之后也和家属简单聊了聊情况，并强调了如果有治疗上不懂的地方一定要主动询问床位医生或者是护士。结束了上午的查房工作，我准备坐电梯下楼时，又遇到了奶奶的家属，他们突然开始向主动和我聊了聊他们家里的情况和她自己的想法。在当我们走出大楼的时候，天下起了淅淅沥沥的小雨，准备跑回门诊大楼。然后病患家属在我身旁撑起了伞、把我容纳在了里面，一起走回门诊大楼。这是我实习以来最感动也是最开心的一件事情了。（文/张咏颉）
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section class="_editor">
+    <section style="margin: 10px auto;">
+     <section style="display: flex;">
+      <section style="flex: 1 1 0%;">
+       <section class="_editor">
+        <section>
+         <section style="display:flex;">
+          <p style="text-align: center;">
+           <br/>
+          </p>
+          <p style="text-align: center;">
+           <br/>
+          </p>
+          <p style="text-align: center;">
+           <br/>
+          </p>
+          <p style="text-align: center;">
+           <br/>
+          </p>
+          <p style="text-align: center;">
+           <br/>
+          </p>
+          <p style="text-align: center;">
+           <br/>
+          </p>
+          <p style="text-align: center;">
+           <br/>
+          </p>
+          <p style="text-align: center;">
+           <br/>
+          </p>
+          <p style="text-align: center;">
+           <br/>
+           <br/>
+          </p>
+          <p style="text-align: center;">
+           <br/>
+          </p>
+          <p style="text-align: center;">
+           <img data-copyright="0" data-ratio="0.9285714285714286" data-s="300,640" data-type="jpeg" data-w="1148" src="https://mmbiz.qpic.cn/mmbiz_jpg/8mXKElyEribIic9xr4sQ0gtoiaApXPiaricanOMbfXy0Drvf9ChHYjxwxAUdgPiauPAzpia7nbe3RMiblOIOeaQ5ymxDFg/640?wx_fmt=jpeg" style=""/>
+          </p>
+         </section>
+         <section>
+          <p>
+           <img data-copyright="0" data-ratio="0.690625" data-s="300,640" data-type="jpeg" data-w="1280" src="https://mmbiz.qpic.cn/mmbiz_jpg/8mXKElyEribIic9xr4sQ0gtoiaApXPiaricanyn7jj3h5eMdXAA1ep7uHPIPfbdWnu6aNK91qmBERz1esmnUK1LSteQ/640?wx_fmt=jpeg" style=""/>
+          </p>
+         </section>
+         <section style="display:flex;">
+          <p style="text-align: center;">
+           <br/>
+          </p>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="padding-top: 10px;padding-bottom: 10px;display: inline-block;width: 556px;vertical-align: top;background-color: rgb(235, 252, 232);box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: -10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="padding-right: 5px;padding-left: 5px;display: inline-block;vertical-align: top;height: 1.8em;line-height: 1.8em;background-color: rgb(142, 201, 101);color: rgb(255, 255, 255);border-radius: 5px 0px 0px 5px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          实习反思
+         </strong>
+        </p>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 0.5em;height: 1.8em;border-left: 0.9em solid rgb(142, 201, 101);box-sizing: border-box;border-bottom: 0.9em solid transparent !important;border-top: 0.9em solid transparent !important;">
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;box-sizing: border-box;">
+        <p style="text-indent: 2em;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="text-indent: 2em;">
+         作为医务社工，我们在科室内究竟可以做一些什么样的事情呢？这是我在实习期间一直在思考的问题。作为医院内存在时间不长的医务社会工作，很多时候我们能够做的事情和需要做的事情都没有清晰的边界，有时候还会在怀疑“这是社工应该做的事情吗？”。大部分时间我们做工作的时候，可能能够提供给患者和患者家属最多的就是一些基本的信息，比如医保的相关知识和一些基本的健康宣教等，这些看起来不需要很多专业训练就可以完成。更多的时候，我们接收到患者或者患者家属对我们诉说的困难，我们没有能力去和他们一起改善这样的现状，这种时候就会有无力感的出现。
+        </p>
+        <p style="text-indent: 2em;">
+         但在继续工作的过程中我发现，作为社工的我们将科室、社工、医院、社保系统内的资源与患者和患者家属进行连接就是有价值的。这样的工作，让医护团队可以用更多的时间在治疗上，而患者也可以更加安心地关注治疗，而不用东奔西跑去自己找资源。作为综合医院的医务社工，应该加强自己整理资源和整合资源的能力。我们在实习的最后也提出将周边社区社工也纳入资源体系之中，让患者，特别是有慢性病并住在周边社区的患者能够在出院之后，相关信息和工作能够与社区社会工作相对接，继续之后的服务。（文/张咏颉）
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: left;box-sizing: border-box;">
+    <span style="font-size: 14px;">
+     往期回顾：
+    </span>
+   </section>
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: left;box-sizing: border-box;">
+    <span style="font-size: 14px;text-decoration: underline;">
+     <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzAxMjc5NTc3NQ==&amp;mid=2652308188&amp;idx=1&amp;sn=a0250b4428ac09799720546b3f1cade6&amp;chksm=804fc8ccb73841da7d34b98d5582d044bad23b8747722c80af7eeb4a4cc26b8198153c352770&amp;scene=21#wechat_redirect" target="_blank">
+      2018社工实习连载 | 卷首语“进十望百，行成于思”
+     </a>
+    </span>
+    <span style="font-size: 14px;">
+     <br/>
+    </span>
+   </section>
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: left;box-sizing: border-box;">
+    <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzAxMjc5NTc3NQ==&amp;mid=2652308188&amp;idx=2&amp;sn=ee7bbe46b490e828c492870d4bf72c42&amp;chksm=804fc8ccb73841da3fab0796a19817f0deb318a701c9ffa1a153c7bbf2077a7531ba49b9a6c3&amp;scene=21#wechat_redirect" style="text-align: justify;font-size: 14px;text-decoration: underline;" target="_blank">
+     2018社工实习连载 | BSW1青少年社会工作
+    </a>
+   </section>
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: left;box-sizing: border-box;">
+    <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzAxMjc5NTc3NQ==&amp;mid=2652308188&amp;idx=3&amp;sn=1d5732d9cd32b96ffe10ca0adfe17a52&amp;chksm=804fc8ccb73841da206633f2ed4873ba16868e0c09a8c96f7a9ca1d9fb5ddc14634e810ee4d5&amp;scene=21#wechat_redirect" style="font-size: 14px;text-align: justify;text-decoration: underline;" target="_blank">
+     2018社工实习连载 | BSW2医务社会工作
+    </a>
+   </section>
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: left;box-sizing: border-box;">
+    <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzAxMjc5NTc3NQ==&amp;mid=2652308199&amp;idx=1&amp;sn=d4eaf18e7b8eda398050e9ae76cead8a&amp;chksm=804fc8f7b73841e1b607b6ad1cc7126cf4eb4973a2041a445be8785db3a63e691e5e7a950e4a&amp;scene=21#wechat_redirect" style="text-align: justify;font-size: 14px;text-decoration: underline;" target="_blank">
+     2018社工实习连载 | BSW3精神健康社会工作
+    </a>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <p>
+    <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzAxMjc5NTc3NQ==&amp;mid=2652308199&amp;idx=2&amp;sn=8f914f3df70609eb42b8e225d0b6c0e6&amp;chksm=804fc8f7b73841e1b4fcb4eae2b8277558ebba8f90dad435974c293255d4bb16f3f619200232&amp;scene=21#wechat_redirect" style="font-size: 14px;text-decoration: underline;" target="_blank">
+     2018社工实习连载 | BSW4社会福利与社会工作
+    </a>
+   </p>
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: right;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+    </section>
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <span style="font-size: 12px;">
+      编辑| 蒋莹璇
+     </span>
+    </section>
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+    </section>
+   </section>
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <img data-ratio="0.60625" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/8mXKElyEribIwtXNCan3u8Prg3SJ9ofhDrcRmNECtiaves1ajj6XIgw9iaLRwzFn5LN9LwVZEmqLZcHbGFu5sLEQw/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+ </section>

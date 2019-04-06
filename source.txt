@@ -1,0 +1,577 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="zh" xml:lang="zh" class=" webkit chrome win js"><head>
+	<title></title>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<meta http-equiv="pragma" content="no-cache" />
+	<meta http-equiv="cache-control" content="no-cache" />
+	<meta http-equiv="expires" content="0" />
+	<meta http-equiv="content-style-type" content="text/css" />
+	<meta http-equiv="content-script-type" content="text/javascript" />
+
+
+
+
+
+	<script type="text/javascript" src="/eams/struts/js/base/jquery-1.5.2.js"></script>
+	<script type="text/javascript" src="/eams/struts/js/base/jquery.ui.core.js"></script>
+  <script type="text/javascript" src="/eams/struts/js/plugins/jquery.subscribe.js"></script>
+        <link id="jquery_theme_link" rel="stylesheet" href="/eams/struts/themes/smoothness/jquery-ui.css" type="text/css" />
+
+
+  <script type="text/javascript" src="/eams/struts/js/struts2/jquery.struts2-3.1.0.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function () {
+  	jQuery.scriptPath = "/eams/struts/";
+	jQuery.struts2_jquery.minSuffix = "";
+	jQuery.ajaxSettings.traditional = true;
+
+	jQuery.ajaxSetup ({
+		cache: false
+	});
+});
+</script>
+	<link id="beangle_theme_link" href="/eams/static/themes/default/beangle-ui.css" rel="stylesheet" type="text/css" />
+	<link href="/eams/static/themes/default/colorbox.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="/eams/static/scripts/colorbox/jquery-colorbox-1.3.17.1.js"></script>
+	<script type="text/javascript" src="/eams/static/scripts/history/history.adapter.jquery.js"></script>
+	<script type="text/javascript" src="/eams/pages/scripts/history/history.js"></script>
+	<script type="text/javascript" src="/eams/static/scripts/history/history.html4.js"></script>
+	<script type="text/javascript" src="/eams/static/scripts/beangle/beangle-2.4.4.js"></script>
+	<script type="text/javascript" src="/eams/static/scripts/beangle/beangle-ui-2.4.4.js"></script>
+	<script type="text/javascript" src="/eams/static/scripts/my97/WdatePicker-4.72.js"></script><link href="/eams/static/themes/default/WdatePicker.css" rel="stylesheet" type="text/css" />
+<link href="/eams/static/themes/default/homePage.css?1ad221" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/eams/static/css_browser_selector.js?x1"></script>
+<script src="/eams/static/scripts/js/view_menus.js" type="text/javascript"></script>
+
+<link rel="stylesheet" type="text/css" href="/eams/static/themes/default/css/semesterCalendar.css" /></head>
+<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper" style=""><div style=""><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px; overflow: hidden;"></div><div id="cboxLoadingOverlay" class="" style=""></div><div id="cboxLoadingGraphic" class="" style=""></div><div id="cboxTitle" class="" style=""></div><div id="cboxCurrent" class="" style=""></div><div id="cboxNext" class="" style=""></div><div id="cboxPrevious" class="" style=""></div><div id="cboxSlideshow" class="" style=""></div><div id="cboxClose" class="" style=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
+
+<style>
+/* For browser hint */
+.browser-hint {
+    display : none;
+}
+.ie6 .bg1{
+	display : none;
+}
+
+.ie7 .bg1{
+	display : none;
+}
+
+.ie6 .browser-hint {
+	width : 600px;
+  	height : 200px;
+  	display: block;
+  	text-align : center;
+}
+.ie7 .browser-hint {
+  	width : 600px;
+  	height : 200px;
+  	display: block;
+  	text-align : center;
+}
+.browser-link {
+	height : 80px;
+	width  : 80px;
+	text-align : center;
+}
+</style>
+<!-- 头部导航 -->
+<div id="Nav_bar">
+	<div class="top_box">
+		<div style="float: left;width: 35%;margin-left:-50px">
+				<img src="/eams/static/themes/default/images/homePage/logo_png.jpg" />
+		</div>
+		<div class="date_bar">2019年03月12日 星期二</div>
+		<div class="member_box"></div>
+		<div class="welcome_bar" style="width:370px">
+			<span>
+				<img style="margin:-5px 0px 0px 0px" width="45px" src="/eams/avatar/user.action?user.name=eJwzNDA0NzU2MDAyMAMADPgCKg==&#10;" />
+			</span>
+<form id="form958924142" name="form958924142" action="/eams/home.action;jsessionid=B4792D633978DFC878F2CA7ED8695D77" method="post">				<span class="f4"><a href="/eams/security/my.action" target="_blank" title="查看登录记录" class="userName"><font size="3px">牛悦安(10175300206)</font></a></span>
+					<span class="f4">本科教学</span>
+					<input id="homeProjectId" type="hidden" name="restrictionProjectId" value="2" />
+					<span class="f4">学生</span>
+					<input type="hidden" name="security.categoryId" value="1" style="width:70px" />
+</form>
+		</div>	
+		<div id="items_header">
+			<ul>
+				<li id="header_email_item">
+					<div id="quicklink_4">
+						<div class="first_menu_4">
+							<a class="email_ico" href="javascript:void(0)">消息</a><span>1</span>
+						</div>
+					</div>
+				</li>
+				<li id="header_quicklink_item">
+					<div id="quicklink">
+						<div class="first_menu_1">设置</div>
+							<ul class="the_menu">
+								<li><a href="javascript:void(0)">添加模块</a></li>
+								<li><a href="javascript:void(0)">调整布局</a></li>
+								<li><a href="javascript:void(0)">编辑切换</a></li>
+							</ul>
+					</div>
+				</li>
+				<li id="header_quicklink_item_2">
+					<div id="quicklink_2">
+						<div class="first_menu">我的收藏</div>
+					</div>
+				</li>
+				<li id="header_quicklink_item_3">
+					<div id="quicklink_3">
+						<div class="div_box"><a href="javascript:void(0)">帮 助</a></div>
+					</div>
+				</li>
+				<li id="header_quicklink_item_5">
+					<div id="quicklink_5">
+						<div class="div_box"><a href="/eams/logout.action?jsdEkingstar=1">注 销</a></div>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+<table class="browser-hint" align="center">
+	<tbody><tr>
+		<td colspan="3" align="left">
+			    您当前使用的浏览器为<span id="browserSpan">chrome</span>，因版本过低无法正常访问系统,
+			请使用IE8.0以上版本或点击下面图标下载Firefox、Google Chrome浏览器，
+			下载并安装好软件后，再使用新下载的浏览器访问本系统。<br />
+			给您带来的不便，敬请谅解。		
+		</td>
+	</tr>
+	<tr>
+		<td class="browser-link">
+			<input type="image" src="/eams/static/images/browsers/firefox-60x60.png" onclick="window.open('http://www.eoffice.ecnu.edu.cn/newjw/Firefox17.0.1.rar')" />
+		</td>
+		<td class="browser-link">
+		</td>
+		<td class="browser-link">
+			<input type="image" src="/eams/static/images/browsers/chrome-60x60.png" onclick="window.open('http://www.eoffice.ecnu.edu.cn/newjw/chrome_installer_Stable12.zip')" />
+		</td>
+	</tr>
+</tbody></table>
+<!-- 中部内容 -->
+<div id="BodyBg">
+	<div id="MainBody" class="bg1">
+		<div id="position_bar">您的当前位置：<a href="/eams/home!index.action">首页</a><span class="secondMenu"> &gt; <a href="/eams/home!childmenus.action?menu.id=845">我的信息</a></span><span class="fontMenu"> &gt; 我的课表</span></div>
+		<div id="tool_bar">
+			<div id="tab_title_box_1">
+			</div>
+			<div style="width: 280px;float: right;height: 39px;">
+			</div>
+		</div>
+		<div class="BlankLine1"></div>
+<div id="main" class="_ajax_target">
+<div id="toolbar1324964272" class="toolbar notprint"><div class="toolbar-title"><img class="toolbar-icon" src="/eams/static/themes/default/icons/16x16/actions/info.png" /><strong>学生课表</strong></div><div class="toolbar-msg" id="toolbar1324964272_msg"></div><div class="toolbar-items" id="toolbar1324964272_items"></div><div class="toolbar-line"><img height="1" width="100%" align="top" src="/eams/static/themes/default/icons/16x16/actions/keyline.png" /></div></div>
+<div style="background: url('/eams/static/images/semesterBarBg.png') repeat-x scroll 50% 50% #DEEDF7;border: 1px solid #AED0EA;color: #222222;font-weight: bold;height:28px;">
+<form id="courseTableForm" name="courseTableForm" action="http://applicationnewjw.ecnu.edu.cn/eams/courseTableForStd!index.action" method="post" target="main"><div style="margin-left:4px;margin-top:2px;float:left;line-height:22px;height:22px;">
+		<input type="hidden" name="ignoreHead" value="1" />
+	<label for="courseTableType" class="title">课表类型:</label>
+	<select id="courseTableType" name="setting.kind" onchange="searchTable()" style="width:120px">
+		<option value="std">学生课表</option>
+		<option value="class">班级课表</option> 
+	</select>
+	|
+	<label for="startWeek" class="title">选择教学周:</label>
+	<select id="startWeek" name="startWeek" onchange="searchTable()">
+    	<option value="1">第1周</option><option value="2">第2周</option><option value="3">第3周</option><option value="4">第4周</option><option value="5">第5周</option><option value="6">第6周</option><option value="7">第7周</option><option value="8">第8周</option><option value="9">第9周</option><option value="10">第10周</option><option value="11">第11周</option><option value="12">第12周</option><option value="13">第13周</option><option value="14">第14周</option><option value="15">第15周</option><option value="16">第16周</option><option value="17">第17周</option><option value="18">第18周</option><option value="19">第19周</option>
+    </select>
+    |
+
+</div>
+<div style="margin-left:10px;margin-top:2px;float:left;line-height:18px;height:22px;">
+<label for="semesterBar954955173" style="display: none;">项目:</label>
+<select id="semesterBar954955173" name="project.id" style="display: none;">	<option value="2" selected="">本科教学</option>
+</select>
+<label for="semesterBar954955173Semester" class="title">学年学期:</label>
+<input id="semesterBar954955173Semester" class="calendar-text" title="学年学期" type="text" value="" readonly="true" />
+<div class="calendar-bar">
+	<input id="semesterCalendar_target" type="hidden" name="semester.id" value="737" />
+	<a name="prev" href="#"><img src="/eams/static/themes/default/images/semesterCalendar_prev.gif" /></a>
+	<input id="semesterCalendar_year" class="calendar-bar-input" type="text" index="9" value="" maxlength="4" size="4" readonly="true" /><span>学年</span>
+	<a name="next" href="#"><img src="/eams/static/themes/default/images/semesterCalendar_next.gif" /></a>
+	
+	<a name="prev" href="#"><img src="/eams/static/themes/default/images/semesterCalendar_prev.gif" /></a>
+	<input id="semesterCalendar_term" class="calendar-bar-input" type="text" index="1" value="" size="4" readonly="true" /><span>学期</span>
+	<a name="next" href="#"><img src="/eams/static/themes/default/images/semesterCalendar_next.gif" /></a>
+	<a href="#" id="allSemester"></a>
+	
+	<table id="semesterCalendar_yearTb">
+		<tbody><tr><td index="0">2009-2010</td><td index="1">2010-2011</td><td index="2">2011-2012</td><td index="3">2012-2013</td></tr><tr><td index="4">2013-2014</td><td index="5">2014-2015</td><td index="6">2015-2016</td><td index="7">2016-2017</td></tr><tr><td index="8">2017-2018</td><td index="9">2018-2019</td><td></td><td></td><td></td></tr><tr><td></td></tr></tbody>
+	</table>
+	<table id="semesterCalendar_termTb">
+		<tbody><tr><td val="705"><span>1</span>学期</td><td val="737"><span>2</span>学期</td></tr></tbody>
+	</table>
+</div>
+
+<input type="submit" value="切换学期" onclick="refreshTable();return false;" />
+</div>
+<input name="ids" value="518142" type="hidden" /><input id="courseTableForm_submit" type="submit" style="display: none;" /></form>
+</div><table class="indexpanel">
+	<tbody><tr>
+		<td class="index_content">
+<div id="contentDiv" class="_ajax_target">
+  
+
+   		<pre>课表格式说明：教师姓名 课程名称(序号) (第n周-第m周,教室)</pre>
+		<table width="100%" id="manualArrangeCourseTable" align="center" class="gridtable" style="text-align:center">
+			<thead>
+			<tr>
+		    	<th style="background-color:#DEEDF7;" height="10px" width="80px">节次/周次
+		    	</th><th style="background-color:#DEEDF7;">
+		        	<font size="2px">星期一</font>
+				</th>
+		    	<th style="background-color:#DEEDF7;">
+		        	<font size="2px">星期二</font>
+				</th>
+		    	<th style="background-color:#DEEDF7;">
+		        	<font size="2px">星期三</font>
+				</th>
+		    	<th style="background-color:#DEEDF7;">
+		        	<font size="2px">星期四</font>
+				</th>
+		    	<th style="background-color:#DEEDF7;">
+		        	<font size="2px">星期五</font>
+				</th>
+		    	<th style="background-color:#DEEDF7;">
+		        	<font size="2px">星期六</font>
+				</th>
+		    	<th style="background-color:#DEEDF7;">
+		        	<font size="2px">星期日</font>
+				</th>
+			</tr>
+			</thead>
+			<tbody><tr>
+			    <td style="background-color:#EEFF00">
+		    		<font size="2px"> 第一节</font>
+		    		<br />
+		    		<font size="1px"> 
+		    			  8:00
+		    				 -
+		    			8:45
+		    		</font>
+				</td>
+		   		<td id="TD0_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD11_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD22_0" style="background-color: rgb(148, 174, 243); font-size: 12px;" rowspan="2" class="infoTitle" title="黄定江 数据科学的数学基础(DATA0031131007.01);(1-18,文史楼118,【理论课占用】)">黄定江 数据科学的数学基础(DATA0031131007.01)<br />(1-18,文史楼118,【理论课占用】)</td>
+		   		<td id="TD33_0" style="background-color: rgb(148, 174, 243); font-size: 12px;" rowspan="2" class="infoTitle" title="周烜 专业英语(DATA0031121002.01);(1-18,文史楼118,【理论课占用】)">周烜 专业英语(DATA0031121002.01)<br />(1-18,文史楼118,【理论课占用】)</td>
+		   		<td id="TD44_0" style="background-color: rgb(148, 174, 243); font-size: 12px;" rowspan="3" class="infoTitle" title="钱卫宁 概率论(DATA0031121006.01);(1-2 4-18,文史楼216,【理论课占用】)">钱卫宁 概率论(DATA0031121006.01)<br />(1-2 4-18,文史楼216,【理论课占用】)</td>
+		   		<td id="TD55_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD66_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+			</tr>
+			<tr>
+			    <td style="background-color:#EEFF00">
+		    		<font size="2px"> 第二节</font>
+		    		<br />
+		    		<font size="1px"> 
+		    			  8:55
+		    				 -
+		    			9:40
+		    		</font>
+				</td>
+		   		<td id="TD1_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD12_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		
+		   		
+		   		
+		   		<td id="TD56_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD67_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+			</tr>
+			<tr>
+			    <td style="background-color:#EEFF00">
+		    		<font size="2px"> 第三节</font>
+		    		<br />
+		    		<font size="1px"> 
+		    			  10:00
+		    				 -
+		    			10:45
+		    		</font>
+				</td>
+		   		<td id="TD2_0" style="background-color: rgb(148, 174, 243); font-size: 12px;" rowspan="2" class="infoTitle" title="黄定江 数据科学的数学基础(DATA0031131007.01);(1-18,文史楼118,【理论课占用】)">黄定江 数据科学的数学基础(DATA0031131007.01)<br />(1-18,文史楼118,【理论课占用】)</td>
+		   		<td id="TD13_0" style="background-color: rgb(148, 174, 243); font-size: 12px;" rowspan="2" class="infoTitle" title="钟晖 乒乓球（初）(CLUB0031111817.10);(1-17,中北学生活动中心舞蹈房,【理论课占用】)">钟晖 乒乓球（初）(CLUB0031111817.10)<br />(1-17,中北学生活动中心舞蹈房,【理论课占用】)</td>
+		   		<td id="TD24_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD35_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		
+		   		<td id="TD57_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD68_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+			</tr>
+			<tr>
+			    <td style="background-color:#EEFF00">
+		    		<font size="2px"> 第四节</font>
+		    		<br />
+		    		<font size="1px"> 
+		    			  10:55
+		    				 -
+		    			11:40
+		    		</font>
+				</td>
+		   		
+		   		
+		   		<td id="TD25_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD36_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD47_0" style="background-color: rgb(148, 174, 243); font-size: 12px;" class="infoTitle" title="钱卫宁 概率论(DATA0031121006.01);(4-6,文史楼216,【理论课占用】)">钱卫宁 概率论(DATA0031121006.01)<br />(4-6,文史楼216,【理论课占用】)</td>
+		   		<td id="TD58_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD69_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+			</tr>
+			<tr>
+			    <td style="background-color:#33BB00">
+		    		<font size="2px"> 第五节</font>
+		    		<br />
+		    		<font size="1px"> 
+		    			  13:00
+		    				 -
+		    			13:45
+		    		</font>
+				</td>
+		   		<td id="TD4_0" style="background-color: rgb(148, 174, 243); font-size: 12px;" rowspan="3" class="infoTitle" title="高明 数据科学与工程算法(DATA0031121011.01);(1-18,文史楼211,【理论课占用】)">高明 数据科学与工程算法(DATA0031121011.01)<br />(1-18,文史楼211,【理论课占用】)</td>
+		   		<td id="TD15_0" style="background-color: rgb(148, 174, 243); font-size: 12px;" rowspan="3" class="infoTitle" title="翁楚良 操作系统(DATA0031131008.01);(1-18,文史楼202,【理论课占用】)">翁楚良 操作系统(DATA0031131008.01)<br />(1-18,文史楼202,【理论课占用】)</td>
+		   		<td id="TD26_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD37_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD48_0" style="background-color: rgb(148, 174, 243); font-size: 12px;" rowspan="2" class="infoTitle" title="翁楚良 操作系统(DATA0031131008.01);(1-18,【理论课占用】)">翁楚良 操作系统(DATA0031131008.01)<br />(1-18,【理论课占用】)</td>
+		   		<td id="TD59_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD70_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+			</tr>
+			<tr>
+			    <td style="background-color:#33BB00">
+		    		<font size="2px"> 第六节</font>
+		    		<br />
+		    		<font size="1px"> 
+		    			  13:55
+		    				 -
+		    			14:40
+		    		</font>
+				</td>
+		   		
+		   		
+		   		<td id="TD27_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD38_0" style="background-color: rgb(148, 174, 243); font-size: 12px;" rowspan="3" class="infoTitle" title="罗轶凤 人工智能导论(DATA0031131003.01);(1-18,文史楼216,【理论课占用】)">罗轶凤 人工智能导论(DATA0031131003.01)<br />(1-18,文史楼216,【理论课占用】)</td>
+		   		
+		   		<td id="TD60_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD71_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+			</tr>
+			<tr>
+			    <td style="background-color:#33BB00">
+		    		<font size="2px"> 第七节</font>
+		    		<br />
+		    		<font size="1px"> 
+		    			  15:00
+		    				 -
+		    			15:45
+		    		</font>
+				</td>
+		   		
+		   		
+		   		<td id="TD28_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		
+		   		<td id="TD50_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD61_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD72_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+			</tr>
+			<tr>
+			    <td style="background-color:#33BB00">
+		    		<font size="2px"> 第八节</font>
+		    		<br />
+		    		<font size="1px"> 
+		    			  15:55
+		    				 -
+		    			16:40
+		    		</font>
+				</td>
+		   		<td id="TD7_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD18_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD29_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		
+		   		<td id="TD51_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD62_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD73_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+			</tr>
+			<tr>
+			    <td style="background-color:pink">
+		    		<font size="2px"> 第九节</font>
+		    		<br />
+		    		<font size="1px"> 
+		    			  18:00
+		    				 -
+		    			18:45
+		    		</font>
+				</td>
+		   		<td id="TD8_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD19_0" style="background-color: rgb(148, 174, 243); font-size: 12px;" rowspan="3" class="infoTitle" title="龚咏梅 马克思主义基本原理概论(SHKX0031111001.09);(1-18,教书院423,【理论课占用】)">龚咏梅 马克思主义基本原理概论(SHKX0031111001.09)<br />(1-18,教书院423,【理论课占用】)</td>
+		   		<td id="TD30_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD41_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD52_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD63_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD74_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+			</tr>
+			<tr>
+			    <td style="background-color:pink">
+		    		<font size="2px"> 第十节</font>
+		    		<br />
+		    		<font size="1px"> 
+		    			  18:55
+		    				 -
+		    			19:40
+		    		</font>
+				</td>
+		   		<td id="TD9_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		
+		   		<td id="TD31_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD42_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD53_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD64_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD75_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+			</tr>
+			<tr>
+			    <td style="background-color:pink">
+		    		<font size="2px"> 第十一节</font>
+		    		<br />
+		    		<font size="1px"> 
+		    			  20:00
+		    				 -
+		    			20:45
+		    		</font>
+				</td>
+		   		<td id="TD10_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		
+		   		<td id="TD32_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD43_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD54_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD65_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+		   		<td id="TD76_0" style="backGround-Color:#ffffff;font-size:12px"></td>
+			</tr>
+		</tbody></table> 
+
+   		    <br />
+<div class="grid">
+<table id="grid354215133" class="gridtable">
+<thead class="gridhead">
+<tr>
+<th width="3%">序号</th>
+<th width="10%">课程代码</th>
+<th width="15%">课程名称</th>
+<th width="10%">课程类别</th>
+<th width="5%">学分</th>
+<th width="15%">课程序号</th>
+<th width="7%">教师</th>
+<th width="7%">职称</th>
+<th width="5%">实验分组</th>
+<th width="5%">备注</th>
+<th>操作</th>
+</tr>
+</thead>
+
+<tbody id="grid354215133_data"><tr class="griddata-even">		<td>1</td>
+<td>CLUB0031111817</td>		<td><a href="/eams/electionLessonInfo.action?lesson.id=512288" target="_blank">乒乓球（初）</a></td>
+<td>体育类</td><td>1.0</td><td>CLUB0031111817.10</td>		<td>钟晖</td>
+		<td>副教授</td>
+		
+<td>			
+</td>		
+<td></td><td>			<a href="/eams/teachCalendarSearch!calendarInfo.action?lesson.id=512288" target="_blank">教学进度查看</a>  
+			<a href="/eams/courseTableForStd!downOutline.action?courseId=331366" target="_blank">课程大纲下载</a>
+</td></tr><tr class="griddata-odd">		<td>2</td>
+<td>DATA0031121002</td>		<td><a href="/eams/electionLessonInfo.action?lesson.id=510538" target="_blank">专业英语</a></td>
+<td>学科基础课</td><td>2.0</td><td>DATA0031121002.01</td>		<td>周烜</td>
+		<td>教授</td>
+		
+<td>			
+</td>		
+<td></td><td>			<a href="/eams/teachCalendarSearch!calendarInfo.action?lesson.id=510538" target="_blank">教学进度查看</a>  
+			<a href="/eams/courseTableForStd!downOutline.action?courseId=338567" target="_blank">课程大纲下载</a>
+</td></tr><tr class="griddata-even">		<td>3</td>
+<td>DATA0031121006</td>		<td><a href="/eams/electionLessonInfo.action?lesson.id=510539" target="_blank">概率论</a></td>
+<td>学科基础课</td><td>3.0</td><td>DATA0031121006.01</td>		<td>钱卫宁</td>
+		<td>教授</td>
+		
+<td>			
+</td>		
+<td></td><td>			<a href="/eams/teachCalendarSearch!calendarInfo.action?lesson.id=510539" target="_blank">教学进度查看</a>  
+			<a href="/eams/courseTableForStd!downOutline.action?courseId=338588" target="_blank">课程大纲下载</a>
+</td></tr><tr class="griddata-odd">		<td>4</td>
+<td>DATA0031121011</td>		<td><a href="/eams/electionLessonInfo.action?lesson.id=510540" target="_blank">数据科学与工程算法</a></td>
+<td>专业必修</td><td>3.0</td><td>DATA0031121011.01</td>		<td>高明</td>
+		<td>副教授</td>
+		
+<td>			
+</td>		
+<td></td><td>			<a href="/eams/teachCalendarSearch!calendarInfo.action?lesson.id=510540" target="_blank">教学进度查看</a>  
+			<a href="/eams/courseTableForStd!downOutline.action?courseId=339428" target="_blank">课程大纲下载</a>
+</td></tr><tr class="griddata-even">		<td>5</td>
+<td>DATA0031131003</td>		<td><a href="/eams/electionLessonInfo.action?lesson.id=510543" target="_blank">人工智能导论</a></td>
+<td>专业必修</td><td>3.0</td><td>DATA0031131003.01</td>		<td>罗轶凤</td>
+		<td>副教授</td>
+		
+<td>			
+</td>		
+<td></td><td>			<a href="/eams/teachCalendarSearch!calendarInfo.action?lesson.id=510543" target="_blank">教学进度查看</a>  
+			<a href="/eams/courseTableForStd!downOutline.action?courseId=338555" target="_blank">课程大纲下载</a>
+</td></tr><tr class="griddata-odd">		<td>6</td>
+<td>DATA0031131007</td>		<td><a href="/eams/electionLessonInfo.action?lesson.id=510542" target="_blank">数据科学的数学基础</a></td>
+<td>专业必修</td><td>4.0</td><td>DATA0031131007.01</td>		<td>黄定江</td>
+		<td></td>
+		
+<td>			
+</td>		
+<td></td><td>			<a href="/eams/teachCalendarSearch!calendarInfo.action?lesson.id=510542" target="_blank">教学进度查看</a>  
+			<a href="/eams/courseTableForStd!downOutline.action?courseId=338559" target="_blank">课程大纲下载</a>
+</td></tr><tr class="griddata-even">		<td>7</td>
+<td>DATA0031131008</td>		<td><a href="/eams/electionLessonInfo.action?lesson.id=510541" target="_blank">操作系统</a></td>
+<td>专业必修</td><td>4.0</td><td>DATA0031131008.01</td>		<td>翁楚良</td>
+		<td>教授</td>
+		
+<td>			
+</td>		
+<td></td><td>			<a href="/eams/teachCalendarSearch!calendarInfo.action?lesson.id=510541" target="_blank">教学进度查看</a>  
+			<a href="/eams/courseTableForStd!downOutline.action?courseId=338560" target="_blank">课程大纲下载</a>
+</td></tr><tr class="griddata-odd">		<td>8</td>
+<td>SHKX0031111001</td>		<td><a href="/eams/electionLessonInfo.action?lesson.id=509076" target="_blank">马克思主义基本原理概论</a></td>
+<td>思政类</td><td>3.0</td><td>SHKX0031111001.09</td>		<td>龚咏梅</td>
+		<td>副教授</td>
+		
+<td>			
+</td>		
+<td></td><td>			<a href="/eams/teachCalendarSearch!calendarInfo.action?lesson.id=509076" target="_blank">教学进度查看</a>  
+			<a href="/eams/courseTableForStd!downOutline.action?courseId=305943" target="_blank">课程大纲下载</a>
+</td></tr></tbody>
+</table>
+</div>
+
+
+   		    
+   		<br />
+</div>
+		</td>
+	</tr>
+</tbody></table>
+
+</div>
+<script>bg.Go('/eams/home!submenus.action?menu.id=','main')</script>	</div>
+</div>
+
+<!-- 底部版权 -->
+<div id="BottomBg">Copyright © 2011 EKINGSTAR.com Inc. All rights reserved. 上海树维信息科技有限公司 版权所有</div>
+<script type="text/javaScript">
+	$("#tab_title_box_1 a").each(function(index){
+		$(this).focus(function(e){
+			$(this).blur();
+		});
+		$(this).click(function(e){
+			$(this).parent().find("a").each(function(e){
+				$(this).removeClass("a_now");
+			});
+			$(this).addClass("a_now");
+			$("#position_bar").find("span").remove();
+			$("#position_bar").append("&lt;span class='fontMenu'&gt;&amp;nbsp;&gt;&amp;nbsp;" + $(this).find("span").html()+"&lt;/span&gt;");
+		});
+	});
+	jQuery(document).ready(function(){
+		var version = brower_version.split(" ");
+		jQuery("#browserSpan").html(version[1]);
+	})
+</script>
+
+
+<div id="_my97DP" style="position: absolute; top: -1970px; left: -1970px;"><iframe style="width: 186px; height: 198px;" src="/eams/static/scripts/my97/My97DatePicker.htm" frameborder="0" border="0" scrolling="no"></iframe></div></body></html>

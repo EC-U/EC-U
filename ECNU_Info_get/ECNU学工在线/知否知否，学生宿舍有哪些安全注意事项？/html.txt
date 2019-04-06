@@ -1,0 +1,473 @@
+
+ <section class="row tn-article-body" ng-show="isReady" tn-atom-context="{ type: 'paper', inReader: true, animationEnabled: false }" tn-opera-house="{ gesture: false }">
+  <article class="tn-cube-box paper dock-loader" ng-show="!!htmlForPreview">
+   <section class="ng-scope">
+    <section class="V5" powered-by="xiumi.us">
+     <section>
+      <section>
+       <section class="V5" powered-by="xiumi.us">
+        <p style="text-align: left;margin-left: 8px;margin-right: 8px;">
+         <span style="font-size: 14px;text-align: justify;">
+          <br/>
+         </span>
+        </p>
+        <p style="text-align: left;margin-left: 8px;margin-right: 8px;">
+         <span style="font-size: 14px;text-align: justify;">
+          按照学校《关于做好2019年寒假期间有关工作的通知》 要求，为切实做好寒假期间的校园安全工作，及时排查学生宿舍生活园区可能存在的安全隐患， 1月17日晚上，学生工作部、后勤保障部、保卫处三部门同志分别在余佳、赵健、任开蕾等领导的带领下，分多路对两校区学生
+          <strong>
+           宿舍生活园区开展安全检查
+          </strong>
+          。
+         </span>
+         <br/>
+        </p>
+        <section style="box-sizing: border-box;display: inline-block;max-width: 100%;word-wrap: break-word !important;width: 588px;vertical-align: top;border-width: 0px;">
+         <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;max-width: 100%;word-wrap: break-word !important;">
+          <p>
+           <span style="font-size: 14px;">
+           </span>
+          </p>
+          <p style="text-align: center;">
+           <img class="" data-copyright="0" data-ratio="0.6669921875" data-s="300,640" data-type="jpeg" data-w="1024" src="https://mmbiz.qpic.cn/mmbiz_jpg/LGPuMo1nF8cgeWFy9zG07xtKkwab5nsWjicy8FWejQWd7c8wxGCxM3cfsAwP1Yu9JXzoLANNyCUSgkSuUbnug3w/640?wx_fmt=jpeg" style=""/>
+          </p>
+          <p style="text-align: center;">
+           <span style="font-size: 12px;color: rgb(136, 136, 136);">
+            <br/>
+           </span>
+          </p>
+          <p>
+           <span style="font-size: 14px;">
+            冬季是学生宿舍消防安全和用电安全事故的高发期，也是学生交通安全、财产安全等问题的易发期，特别在寒假期间，学生容易有懈怠情绪。鉴于此，学生工作部要求各院系学生工作队伍必须在寒假之前对学生专题开展安全教育、必须进宿舍进行安全检查、必须关注学生假期动态；后勤保障部安排宿管人员将
+            <strong>
+             《学生宿舍安全管理负面清单》
+            </strong>
+            投放到每一间宿舍，并加强日常安全检查；保卫处着重从加强值班巡逻、细化检查内容、优化应急处置措施等方面不断优化和提升学生宿舍园区的安全管理。
+           </span>
+           <br/>
+          </p>
+          <p>
+           <span style="font-size: 14px;">
+            <br/>
+           </span>
+          </p>
+          <p style="text-align: center;">
+           <img class="" data-copyright="0" data-ratio="0.6669921875" data-s="300,640" data-type="jpeg" data-w="1024" src="https://mmbiz.qpic.cn/mmbiz_jpg/LGPuMo1nF8cgeWFy9zG07xtKkwab5nsWZGaO7Gp1icrHr2f4nqLuFvFvdMUwAcLY9C822vIpttbggwlhv9iaddUw/640?wx_fmt=jpeg" style=""/>
+          </p>
+          <p>
+           <span style="font-size: 14px;">
+            <br/>
+           </span>
+          </p>
+          <p>
+           <span style="font-size: 14px;">
+            检查组一边进行检查，一边对学生开展
+            <strong>
+             安全教育
+            </strong>
+            ，重点对学生寒假返校前后的交通安全、消防安全、饮食安全、人身财产安全等方面进行提醒，确保学生度过欢乐祥和的假期。
+           </span>
+          </p>
+          <p>
+           <span style="font-size: 14px;">
+            <br/>
+           </span>
+          </p>
+          <p style="text-align: center;">
+           <img class="" data-copyright="0" data-ratio="0.6607669616519174" data-s="300,640" data-type="jpeg" data-w="678" src="https://mmbiz.qpic.cn/mmbiz_jpg/LGPuMo1nF8cgeWFy9zG07xtKkwab5nsW0gLNPAKYwiaNIdic3C9zYHVymyvzKkCa1WT8JtocGH9jpI8DJ1cpOTZg/640?wx_fmt=jpeg" style=""/>
+          </p>
+          <p>
+           <span style="font-size: 14px;">
+            <br/>
+           </span>
+          </p>
+          <p>
+           <span style="font-size: 14px;">
+            随着学校对学生宿舍安全管理的不懈努力，我校同学的安全意识不断提高，近年来，学生宿舍内的用电安全和消防安全隐患有了
+            <strong>
+             明显改善
+            </strong>
+            。
+           </span>
+          </p>
+          <p>
+           <span style="font-size: 14px;">
+            据悉，学生工作党委、学生工作部协同有关部门不定期对学生宿舍进行安全卫生抽查，抽查结果将作为对院系
+            <strong>
+             学生工作考评
+            </strong>
+            的重要参考。
+           </span>
+          </p>
+          <p>
+           <span style="font-size: 14px;">
+            <br/>
+           </span>
+          </p>
+          <p>
+           <strong>
+            <span style="font-size: 14px;">
+             附：2019年1月17日晚上学生宿舍安全卫生检查情况通报（优秀与不合格情况）
+            </span>
+           </strong>
+          </p>
+          <p style="text-align: center;">
+           <img class="" data-copyright="0" data-ratio="0.8205128205128205" data-s="300,640" data-type="jpeg" data-w="975" src="https://mmbiz.qpic.cn/mmbiz_jpg/LGPuMo1nF8cgeWFy9zG07xtKkwab5nsW6ibMBluHqIvhx3ghpOm2ESdwq4hCpjyI1d7BHUYgkRLbobwvZWIUAYw/640?wx_fmt=jpeg" style=""/>
+          </p>
+          <p style="margin-left: 8px;margin-right: 8px;">
+           <span style="font-size: 14px;text-align: left;">
+            接下来跟小编一起复习一下宿舍安全注意事项～
+           </span>
+          </p>
+          <p style="margin-left: 8px;margin-right: 8px;">
+           <span style="color: rgb(217, 33, 66);font-size: 16px;font-weight: 700;text-align: center;">
+            <br/>
+           </span>
+          </p>
+          <p style="margin-left: 8px;margin-right: 8px;text-align: center;">
+           <span style="color: rgb(217, 33, 66);font-size: 16px;font-weight: 700;text-align: center;">
+            宿舍安全管理负面清单
+           </span>
+          </p>
+         </section>
+        </section>
+        <section style="box-sizing: border-box;display: inline-block;max-width: 100%;word-wrap: break-word !important;width: 588px;vertical-align: top;border-width: 0px;">
+         <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;max-width: 100%;word-wrap: break-word !important;">
+          <section style="box-sizing: border-box;max-width: 100%;text-align: center;margin-top: 40px;margin-bottom: 30px;word-wrap: break-word !important;">
+           <section style="box-sizing: border-box;display: inline-block;max-width: 100%;width: 529.188px;vertical-align: top;box-shadow: rgb(160, 160, 160) 0px 0px 4px;padding: 10px 15px;border-width: 0px;border-style: none;border-color: rgb(62, 62, 62);border-radius: 4px;background-color: rgb(255, 255, 255);word-wrap: break-word !important;">
+            <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;max-width: 100%;word-wrap: break-word !important;">
+             <section style="box-sizing: border-box;max-width: 100%;margin-top: 10px;margin-bottom: 10px;word-wrap: break-word !important;">
+              <section style="box-sizing: border-box;display: inline-block;max-width: 100%;word-wrap: break-word !important;width: 0px;vertical-align: middle;border-left-width: 5px;border-left-style: solid;border-left-color: rgb(196, 5, 5);border-top-width: 3px;border-top-style: solid;border-top-color: transparent;border-bottom-width: 3px;border-bottom-style: solid;border-bottom-color: transparent;">
+              </section>
+              <section style="box-sizing: border-box;display: inline-block;max-width: 100%;word-wrap: break-word !important;vertical-align: top;border-top-width: 1px;border-top-style: solid;border-color: rgb(196, 5, 5);border-bottom-width: 1px;border-bottom-style: solid;margin-left: -5px;margin-right: -5px;padding-left: 10px;padding-right: 10px;letter-spacing: 1px;">
+               <p style="box-sizing: border-box;max-width: 100%;word-wrap: break-word !important;">
+                <span style="box-sizing: border-box;font-weight: 700;max-width: 100%;font-size: 14px;word-wrap: break-word !important;">
+                 存放、使用大功率或大型电器
+                </span>
+               </p>
+              </section>
+              <section style="box-sizing: border-box;display: inline-block;max-width: 100%;word-wrap: break-word !important;width: 0px;vertical-align: middle;border-right-width: 5px;border-right-style: solid;border-right-color: rgb(196, 5, 5);border-top-width: 3px;border-top-style: solid;border-top-color: transparent;border-bottom-width: 3px;border-bottom-style: solid;border-bottom-color: transparent;">
+              </section>
+             </section>
+            </section>
+            <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;max-width: 100%;word-wrap: break-word !important;">
+             <section style="box-sizing: border-box;max-width: 100%;margin-top: 20px;word-wrap: break-word !important;">
+              <section style="box-sizing: border-box;max-width: 100%;text-align: justify;letter-spacing: 1px;font-size: 14px;line-height: 2.3;padding-right: 3px;padding-left: 3px;word-wrap: break-word !important;">
+               <p style="line-height: 1.75em;">
+                <span style="font-size: 14px;">
+                 1．在寝室内存放、使用大功率电器，如热得快、电吹风、电水壶、电饭煲、电炉、电炒锅、电热锅（杯）等；
+                </span>
+               </p>
+               <p style="line-height: 1.75em;">
+                <span style="font-size: 14px;">
+                 2．宿舍内擅自存放、使用大型电器如冰箱、洗衣机、烘干机等。
+                </span>
+               </p>
+              </section>
+             </section>
+            </section>
+            <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;max-width: 100%;word-wrap: break-word !important;">
+             <section style="box-sizing: border-box;max-width: 100%;margin-top: 50px;margin-bottom: 10px;word-wrap: break-word !important;">
+              <section style="box-sizing: border-box;display: inline-block;max-width: 100%;word-wrap: break-word !important;width: 0px;vertical-align: middle;border-left-width: 5px;border-left-style: solid;border-left-color: rgb(196, 5, 5);border-top-width: 3px;border-top-style: solid;border-top-color: transparent;border-bottom-width: 3px;border-bottom-style: solid;border-bottom-color: transparent;">
+              </section>
+              <section style="box-sizing: border-box;display: inline-block;max-width: 100%;word-wrap: break-word !important;vertical-align: top;border-top-width: 1px;border-top-style: solid;border-color: rgb(196, 5, 5);border-bottom-width: 1px;border-bottom-style: solid;margin-left: -5px;margin-right: -5px;padding-left: 10px;padding-right: 10px;letter-spacing: 1px;">
+               <p style="box-sizing: border-box;max-width: 100%;word-wrap: break-word !important;">
+                <span style="box-sizing: border-box;font-weight: 700;max-width: 100%;font-size: 14px;word-wrap: break-word !important;">
+                 存放、使用劣质或易燃电器产品
+                </span>
+               </p>
+              </section>
+              <section style="box-sizing: border-box;display: inline-block;max-width: 100%;word-wrap: break-word !important;width: 0px;vertical-align: middle;border-right-width: 5px;border-right-style: solid;border-right-color: rgb(196, 5, 5);border-top-width: 3px;border-top-style: solid;border-top-color: transparent;border-bottom-width: 3px;border-bottom-style: solid;border-bottom-color: transparent;">
+              </section>
+             </section>
+            </section>
+            <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;max-width: 100%;word-wrap: break-word !important;">
+             <section style="box-sizing: border-box;max-width: 100%;margin-top: 20px;word-wrap: break-word !important;">
+              <section style="box-sizing: border-box;max-width: 100%;text-align: justify;letter-spacing: 1px;font-size: 14px;line-height: 2.3;padding-right: 3px;padding-left: 3px;word-wrap: break-word !important;">
+               <p style="line-height: 1.75em;">
+                <span style="font-size: 14px;">
+                 1.在寝室内存放、使用功率不大但易引发火灾的电器产品，如电热毯、暖手暖脚宝、卷发棒、直发棒、烘鞋器、电热理疗仪、电热腰带、电热桌垫、电烙铁等；
+                </span>
+               </p>
+               <p style="line-height: 1.75em;">
+                <span style="font-size: 14px;">
+                 2.使用不符合3C认证规范（无3C标识，中国政府为保护消费者人身安全和国家安全、加强产品质量管理、依照法律法规实施的一种产品合格评定制度）的电器产品。
+                </span>
+               </p>
+              </section>
+             </section>
+            </section>
+            <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;max-width: 100%;word-wrap: break-word !important;">
+             <section style="box-sizing: border-box;max-width: 100%;margin-top: 50px;margin-bottom: 10px;word-wrap: break-word !important;">
+              <section style="box-sizing: border-box;display: inline-block;max-width: 100%;word-wrap: break-word !important;width: 0px;vertical-align: middle;border-left-width: 5px;border-left-style: solid;border-left-color: rgb(196, 5, 5);border-top-width: 3px;border-top-style: solid;border-top-color: transparent;border-bottom-width: 3px;border-bottom-style: solid;border-bottom-color: transparent;">
+              </section>
+              <section style="box-sizing: border-box;display: inline-block;max-width: 100%;word-wrap: break-word !important;vertical-align: top;border-top-width: 1px;border-top-style: solid;border-color: rgb(196, 5, 5);border-bottom-width: 1px;border-bottom-style: solid;margin-left: -5px;margin-right: -5px;padding-left: 10px;padding-right: 10px;letter-spacing: 1px;">
+               <p style="box-sizing: border-box;max-width: 100%;word-wrap: break-word !important;">
+                <span style="box-sizing: border-box;font-weight: 700;max-width: 100%;font-size: 14px;word-wrap: break-word !important;">
+                 私拉乱接电线
+                </span>
+               </p>
+              </section>
+              <section style="box-sizing: border-box;display: inline-block;max-width: 100%;word-wrap: break-word !important;width: 0px;vertical-align: middle;border-right-width: 5px;border-right-style: solid;border-right-color: rgb(196, 5, 5);border-top-width: 3px;border-top-style: solid;border-top-color: transparent;border-bottom-width: 3px;border-bottom-style: solid;border-bottom-color: transparent;">
+              </section>
+             </section>
+            </section>
+            <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;max-width: 100%;word-wrap: break-word !important;">
+             <section style="box-sizing: border-box;max-width: 100%;margin-top: 20px;word-wrap: break-word !important;">
+              <section>
+               <section class="V5" powered-by="xiumi.us" style='box-sizing: border-box;max-width: 100%;color: rgb(62, 62, 62);font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", "Noto Sans", "Noto Sans CJK SC", "Microsoft YaHei", "Apple Color Emoji", "Segoe UI Symbol", Arial, sans-serif;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.476px;line-height: 25.6px;text-align: center;white-space: normal;widows: 1;word-wrap: break-word !important;'>
+                <section style="box-sizing: border-box;max-width: 100%;margin-top: 20px;word-wrap: break-word !important;">
+                 <section style="box-sizing: border-box;max-width: 100%;text-align: justify;letter-spacing: 1px;font-size: 14px;line-height: 2.3;padding-right: 3px;padding-left: 3px;word-wrap: break-word !important;">
+                  <p style="line-height: 1.75em;">
+                   <span style="font-size: 14px;">
+                    1．私自移动和改装设施设备；
+                   </span>
+                  </p>
+                  <p style="line-height: 1.75em;">
+                   <span style="font-size: 14px;">
+                    2．破坏、故意遮挡消防设施设备；
+                   </span>
+                  </p>
+                  <p style="line-height: 1.75em;">
+                   <span style="font-size: 14px;">
+                    3．从宿舍私拉电线为电瓶车充电；
+                   </span>
+                  </p>
+                  <p style="line-height: 1.75em;">
+                   <span style="font-size: 14px;">
+                    4．私接、乱拉电源线，插线板串接。
+                   </span>
+                  </p>
+                 </section>
+                </section>
+               </section>
+               <section class="V5" powered-by="xiumi.us" style='box-sizing: border-box;max-width: 100%;color: rgb(62, 62, 62);font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", "Noto Sans", "Noto Sans CJK SC", "Microsoft YaHei", "Apple Color Emoji", "Segoe UI Symbol", Arial, sans-serif;font-size: 16px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.476px;line-height: 25.6px;text-align: center;white-space: normal;widows: 1;word-wrap: break-word !important;'>
+                <section style="box-sizing: border-box;max-width: 100%;margin-top: 50px;margin-bottom: 10px;word-wrap: break-word !important;">
+                 <section style="box-sizing: border-box;display: inline-block;max-width: 100%;word-wrap: break-word !important;width: 0px;vertical-align: middle;border-left-width: 5px;border-left-style: solid;border-left-color: rgb(196, 5, 5);border-top-width: 3px;border-top-style: solid;border-top-color: transparent;border-bottom-width: 3px;border-bottom-style: solid;border-bottom-color: transparent;">
+                 </section>
+                 <section style="box-sizing: border-box;display: inline-block;max-width: 100%;word-wrap: break-word !important;vertical-align: top;border-top-width: 1px;border-top-style: solid;border-color: rgb(196, 5, 5);border-bottom-width: 1px;border-bottom-style: solid;margin-left: -5px;margin-right: -5px;padding-left: 10px;padding-right: 10px;letter-spacing: 1px;">
+                  <p style="box-sizing: border-box;max-width: 100%;word-wrap: break-word !important;">
+                   <span style="box-sizing: border-box;font-weight: 700;max-width: 100%;font-size: 14px;word-wrap: break-word !important;">
+                    电器使用操作不当
+                   </span>
+                  </p>
+                 </section>
+                 <section style="box-sizing: border-box;display: inline-block;max-width: 100%;word-wrap: break-word !important;width: 0px;vertical-align: middle;border-right-width: 5px;border-right-style: solid;border-right-color: rgb(196, 5, 5);border-top-width: 3px;border-top-style: solid;border-top-color: transparent;border-bottom-width: 3px;border-bottom-style: solid;border-bottom-color: transparent;">
+                 </section>
+                </section>
+               </section>
+               <p style="line-height: 1.75em;text-align: left;">
+                <span style="font-size: 14px;">
+                 1．在无人状态下未及时断电；
+                </span>
+               </p>
+               <p style="line-height: 1.75em;text-align: left;">
+                <span style="font-size: 14px;">
+                 2．使用老化、破损的电器、电线；
+                </span>
+               </p>
+               <p style="line-height: 1.75em;text-align: left;">
+                <span style="font-size: 14px;">
+                 3．将拖线板、床头灯等电器置于床上；
+                </span>
+               </p>
+               <p style="line-height: 1.75em;text-align: left;">
+                <span style="font-size: 14px;">
+                 4．在电源插座附近堆放可燃物品；
+                </span>
+               </p>
+               <p style="line-height: 1.75em;text-align: left;">
+                <span style="font-size: 14px;">
+                 5．使用超出年限的电器产品。
+                </span>
+               </p>
+               <p style="line-height: 1.75em;">
+                <span style="font-size: 14px;">
+                 <br/>
+                </span>
+               </p>
+               <p style="line-height: 1.75em;text-align: left;">
+                <span style="font-size: 14px;">
+                 其他负面清单事项见下方“
+                </span>
+                <span style="text-decoration: underline;font-size: 16px;color: rgb(2, 30, 170);">
+                 <strong>
+                  <span style='font-size: 16px;box-sizing: border-box;font-weight: 700;max-width: 100%;font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", "Noto Sans", "Noto Sans CJK SC", "Microsoft YaHei", "Apple Color Emoji", "Segoe UI Symbol", Arial, sans-serif;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 1px;line-height: 32.2px;widows: 1;background-color: rgb(255, 255, 255);text-decoration: underline;word-wrap: break-word !important;'>
+                   阅读原文
+                  </span>
+                 </strong>
+                </span>
+                <span style="font-size: 14px;">
+                 ”
+                </span>
+               </p>
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section>
+         <section class="V5" powered-by="xiumi.us">
+          <section>
+           <section>
+            <p style="line-height: 1.75em;margin-left: 16px;margin-right: 16px;">
+             <span style="font-size: 14px;">
+              因生活水平提高，电器种类不断增加，清单中未能一一列举。
+             </span>
+             <span style="font-size: 14px;">
+              请同学们提高安全意识，自觉遵守宿舍管理规定，不存有侥幸心理，相互监督，珍爱生命，共同营造整洁、健康、文明、和谐的学生宿舍环境。
+             </span>
+            </p>
+            <p style="line-height: 1.75em;margin-left: 16px;margin-right: 16px;">
+             <span style="font-size: 14px;">
+              <br/>
+             </span>
+            </p>
+            <p style="line-height: 1.75em;margin-left: 16px;margin-right: 16px;">
+             <span style="font-size: 14px;">
+              宿舍安全要从日常的一点一滴做起，整洁干净也是维护宿舍安全的重要条件。接下来我们欣赏一些美丽的寝室，顺便复习一下宿舍安全知识。
+             </span>
+            </p>
+            <p style="line-height: 1.75em;margin-left: 16px;margin-right: 16px;">
+             <span style="font-size: 14px;">
+              <br/>
+             </span>
+            </p>
+            <p style="line-height: 1.75em;margin-left: 16px;margin-right: 16px;text-align: center;">
+             <strong>
+              <span style="font-size: 14px;">
+               快来pick你心水的寝室呀~
+              </span>
+             </strong>
+            </p>
+            <p style="line-height: 1.75em;margin-left: 16px;margin-right: 16px;text-align: center;">
+             <span style="font-size: 14px;">
+              <br/>
+             </span>
+            </p>
+            <p style="margin-left: 16px;margin-right: 16px;">
+             <img class="" data-copyright="0" data-ratio="0.665" data-s="300,640" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/LGPuMo1nF8dWk6WFXw4wLDdamCQHC6rzxN4Zsn8ldMCCH51Cw2tJQJK6IIFgiceThty3lBT7elNA2ZxUhFJicWibQ/640?wx_fmt=jpeg" style=""/>
+            </p>
+            <p style="margin-left: 16px;margin-right: 16px;text-align: center;">
+             <span style="font-size: 14px;">
+              干净得像书店的一角
+             </span>
+            </p>
+            <p style="margin-left: 16px;margin-right: 16px;text-align: center;">
+             <span style="font-size: 12px;color: rgb(136, 136, 136);">
+              孟宪承书院寝室
+             </span>
+            </p>
+            <p style="margin-left: 16px;margin-right: 16px;">
+             <br/>
+            </p>
+            <p style="margin-left: 16px;margin-right: 16px;">
+             <img class="" data-copyright="0" data-ratio="0.75" data-s="300,640" data-type="jpeg" data-w="1280" src="https://mmbiz.qpic.cn/mmbiz_jpg/LGPuMo1nF8dWk6WFXw4wLDdamCQHC6rzGKpfgGoEs4Xy8Y1mOOfQIG7Vnw8nHH2QVA357Ukv40XuCTk9IVGJkg/640?wx_fmt=jpeg" style=""/>
+            </p>
+            <p style="margin-left: 16px;margin-right: 16px;text-align: center;">
+             <span style="font-size: 14px;">
+              电线收束得很干净，只有手机线和台灯接了电
+             </span>
+            </p>
+            <p style="margin-left: 16px;margin-right: 16px;text-align: center;">
+             <span style="color: rgb(136, 136, 136);font-size: 12px;">
+              心理与认知科学学院寝室
+             </span>
+            </p>
+            <p style="margin-left: 16px;margin-right: 16px;text-align: center;">
+             <span style="color: rgb(136, 136, 136);font-size: 12px;">
+              <br/>
+             </span>
+            </p>
+            <p style="margin-left: 16px;margin-right: 16px;">
+             <img class="" data-copyright="0" data-ratio="0.75" data-s="300,640" data-type="jpeg" data-w="960" src="https://mmbiz.qpic.cn/mmbiz_jpg/LGPuMo1nF8dWk6WFXw4wLDdamCQHC6rzdBGUZG8HyiacHzhpDx3r9vhYUdiazQf1dO5ttibbMtwDSLEjbsfdia2icLQ/640?wx_fmt=jpeg" style=""/>
+            </p>
+            <p style="margin-left: 16px;margin-right: 16px;">
+             <br/>
+            </p>
+            <p style="margin-left: 16px;margin-right: 16px;">
+             <img class="" data-copyright="0" data-ratio="0.75" data-s="300,640" data-type="jpeg" data-w="1280" src="https://mmbiz.qpic.cn/mmbiz_jpg/LGPuMo1nF8dWk6WFXw4wLDdamCQHC6rzuyxyDenYPD93Hu7l9VgRErWV59JW9oAQtJXu9AQ2dYZH7ibiaNrPqjWw/640?wx_fmt=jpeg" style=""/>
+            </p>
+            <p style="line-height: 1.75em;margin-left: 16px;margin-right: 16px;text-align: center;">
+             <span style="font-size: 14px;">
+              <span style="font-size: 14px;text-align: center;">
+               桌面很整洁，但离开时请记得拔掉电源
+              </span>
+             </span>
+            </p>
+            <p style="line-height: 1.75em;margin-left: 16px;margin-right: 16px;text-align: center;">
+             <span style="font-size: 14px;">
+              <br/>
+             </span>
+            </p>
+            <p style="line-height: 1.75em;margin-left: 16px;margin-right: 16px;text-align: left;">
+             <span style="font-size: 14px;">
+              点击“
+             </span>
+             <span style="text-decoration: underline;font-size: 16px;color: rgb(2, 30, 170);">
+              <strong>
+               阅读原文
+              </strong>
+             </span>
+             <span style="font-size: 14px;">
+              ”获取完整版宿舍安全负面清单
+             </span>
+            </p>
+            <p style="line-height: 1.75em;margin-left: 16px;margin-right: 16px;text-align: left;">
+             <span style="font-size: 14px;">
+              <br/>
+             </span>
+            </p>
+            <p style="line-height: 1.75em;margin-left: 16px;margin-right: 16px;text-align: center;">
+             <strong>
+              <span style="font-size: 14px;">
+               寒假留校的你，
+              </span>
+             </strong>
+            </p>
+            <p style="line-height: 1.75em;margin-left: 16px;margin-right: 16px;text-align: center;">
+             <strong>
+              <span style="font-size: 14px;">
+               请注意宿舍安全，
+              </span>
+             </strong>
+            </p>
+            <p style="line-height: 1.75em;margin-left: 16px;margin-right: 16px;text-align: center;">
+             <strong>
+              <span style="font-size: 14px;">
+               照顾好自己！
+              </span>
+             </strong>
+            </p>
+            <p style="line-height: 1.75em;margin-left: 16px;margin-right: 16px;text-align: left;">
+             <span style="color: rgb(136, 136, 136);font-size: 14px;letter-spacing: 0.8px;text-align: justify;">
+              <br/>
+             </span>
+            </p>
+            <hr style="border-style: solid;border-width: 1px 0 0;border-color: rgba(0,0,0,0.1);-webkit-transform-origin: 0 0;-webkit-transform: scale(1, 0.5);transform-origin: 0 0;transform: scale(1, 0.5);"/>
+            <p style="line-height: 1.75em;margin-left: 16px;margin-right: 16px;text-align: left;">
+             <span style="color: rgb(136, 136, 136);font-size: 14px;letter-spacing: 0.8px;text-align: justify;">
+              责编：张琴
+             </span>
+             <br/>
+            </p>
+            <p style="font-size: 14px;letter-spacing: 0.8px;white-space: normal;text-align: center;">
+             <img class="" data-copyright="0" data-ratio="0.5" data-s="300,640" data-type="jpeg" data-w="1280" src="https://mmbiz.qpic.cn/mmbiz_jpg/LGPuMo1nF8fwkAaRQyMX2cjpMffLqEePH9q3UDdkNE8l7SKaO88VibBCV9sdRYEdwFSYGeTF2MRgLfVLu3M2NMA/640?wx_fmt=jpeg"/>
+            </p>
+            <p style="font-size: 14px;letter-spacing: 0.8px;white-space: normal;box-sizing: border-box;text-align: center;">
+             <span style="color: rgb(136, 136, 136);">
+              投稿&amp;加入我们：ecnuxg_tg@126.com
+             </span>
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </article>
+ </section>

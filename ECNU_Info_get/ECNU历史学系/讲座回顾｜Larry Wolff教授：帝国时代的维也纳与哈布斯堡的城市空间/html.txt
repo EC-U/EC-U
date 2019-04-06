@@ -1,0 +1,330 @@
+
+ <section style="font-size: 15px;letter-spacing: 2px;padding: 0px 15px;box-sizing: border-box;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="width: 0px;display: inline-block;vertical-align: middle;border-left: 5px solid rgb(95, 156, 239);border-top: 3px solid transparent;border-bottom: 3px solid transparent;box-sizing: border-box;">
+    </section>
+    <section style="display: inline-block;vertical-align: top;border-top: 1px solid rgb(95, 156, 239);border-bottom: 1px solid rgb(95, 156, 239);border-right-color: rgb(95, 156, 239);border-left-color: rgb(95, 156, 239);margin-left: -5px;margin-right: -5px;padding-left: 10px;padding-right: 10px;font-size: 18px;letter-spacing: 0px;line-height: 2;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      大夏世界史系列讲座第24场
+     </p>
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      校百场讲座第8场
+     </p>
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      帝国时代的维也纳与哈布斯堡的城市空间
+     </p>
+    </section>
+    <section style="width: 0px;display: inline-block;vertical-align: middle;border-right: 5px solid rgb(95, 156, 239);border-top: 3px solid transparent;border-bottom: 3px solid transparent;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border-width: 2px;border-style: dotted;border-color: rgb(192, 200, 209);padding: 10px;border-radius: 0.7em;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="color: rgb(51, 51, 51);font-size: 17px;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         2019年1月10日，来自美国纽约大学的历史系教授Larry Wolff教授在华东师范大学历史学系举办了一场名为《帝国时代的维也纳与哈布斯堡的城市空间》的讲座，讲座由历史系朱明老师主持，历史系的硕博士本科生以及一些其他院系的同学参与了讲座。Larry Wolff教授致力于东欧城市史研究。本次讲座，教授以维也纳这座哈布斯堡帝国都城为案例，探讨维也纳城从16世纪初到20世纪初三百多年来的城市形态与建筑风格的变化，以及对哈布斯堡其他城市和整个帝国认同塑造的影响。
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 8px 0% 18px;box-sizing: border-box;">
+    <section style="border-top: 1px dashed rgb(95, 156, 239);box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: right;margin: 10px 0% -40px;transform: translate3d(3px, 0px, 0px);-webkit-transform: translate3d(3px, 0px, 0px);-moz-transform: translate3d(3px, 0px, 0px);-o-transform: translate3d(3px, 0px, 0px);box-sizing: border-box;">
+    <section style="display: inline-block;width: 50px;height: 50px;vertical-align: top;overflow: hidden;background-color: rgba(0, 0, 0, 0);box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: 0px 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 90%;box-sizing: border-box;">
+        <img data-ratio="1" data-type="png?x-oss-process=style/xmwebp" data-w="120" src="https://mmbiz.qpic.cn/mmbiz_png/FGsMtNojcjQgUvlJTT3jUGHfWYXTN7lEa8ztasXfspZYRicYibXcofmSkV1bv3KJ7ib4cCfTcM7dlgxQqjqxiab3qw/640?wx_fmt=png?x-oss-process=style/xmwebp" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0px;box-sizing: border-box;">
+    <section style="width: 15px;height: 15px;box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section style="width: 5px;height: 5px;float: left;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+      </section>
+      <section style="width: 5px;height: 5px;float: left;background-color: rgba(197, 227, 211, 0.5);box-sizing: border-box;">
+      </section>
+      <section style="width: 5px;height: 5px;float: left;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+      </section>
+      <section style="clear: both;box-sizing: border-box;">
+      </section>
+     </section>
+     <section style="box-sizing: border-box;">
+      <section style="width: 5px;height: 5px;float: left;background-color: rgba(197, 227, 211, 0.5);box-sizing: border-box;">
+      </section>
+      <section style="width: 5px;height: 5px;float: left;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+      </section>
+      <section style="width: 5px;height: 5px;float: left;background-color: rgba(197, 227, 211, 0.5);box-sizing: border-box;">
+      </section>
+      <section style="clear: both;box-sizing: border-box;">
+      </section>
+     </section>
+     <section style="box-sizing: border-box;">
+      <section style="width: 5px;height: 5px;float: left;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+      </section>
+      <section style="width: 5px;height: 5px;float: left;background-color: rgba(197, 227, 211, 0.5);box-sizing: border-box;">
+      </section>
+      <section style="width: 5px;height: 5px;float: left;background-color: rgba(197, 227, 211, 0.5);box-sizing: border-box;">
+      </section>
+      <section style="clear: both;box-sizing: border-box;">
+      </section>
+     </section>
+    </section>
+    <section style="margin-top: -15px;background-color: rgba(197, 227, 211, 0.5);padding: 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: 0px 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <img data-ratio="0.75" data-type="jpegwebp" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/zvprvIdk8gEZfKVX6NUb8yWfrI3fsBsW4FwQWU1icG6jh3acv7Z6yOwGNBeYWB9Zic2Z1QfeicoP7LyUic0Pk3sjqA/640?wx_fmt=jpegwebp" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="width: 15px;height: 15px;margin-top: -15px;margin-left: auto;box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section style="width: 5px;height: 5px;float: left;background-color: rgba(197, 227, 211, 0.5);box-sizing: border-box;">
+      </section>
+      <section style="width: 5px;height: 5px;float: left;background-color: rgba(197, 227, 211, 0.5);box-sizing: border-box;">
+      </section>
+      <section style="width: 5px;height: 5px;float: left;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+      </section>
+      <section style="clear: both;box-sizing: border-box;">
+      </section>
+     </section>
+     <section style="box-sizing: border-box;">
+      <section style="width: 5px;height: 5px;float: left;background-color: rgba(197, 227, 211, 0.5);box-sizing: border-box;">
+      </section>
+      <section style="width: 5px;height: 5px;float: left;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+      </section>
+      <section style="width: 5px;height: 5px;float: left;background-color: rgba(197, 227, 211, 0.5);box-sizing: border-box;">
+      </section>
+      <section style="clear: both;box-sizing: border-box;">
+      </section>
+     </section>
+     <section style="box-sizing: border-box;">
+      <section style="width: 5px;height: 5px;float: left;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+      </section>
+      <section style="width: 5px;height: 5px;float: left;background-color: rgba(197, 227, 211, 0.5);box-sizing: border-box;">
+      </section>
+      <section style="width: 5px;height: 5px;float: left;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+      </section>
+      <section style="clear: both;box-sizing: border-box;">
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 8px 0% 18px;box-sizing: border-box;">
+    <section style="border-top: 1px dashed rgb(95, 156, 239);box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="width: 6px;height: 6px;margin: 0.5em 0.4em 0px;border-radius: 100%;background-color: rgb(255, 129, 36);box-sizing: border-box;">
+    </section>
+    <section style="height: 3em;border-left: 1px solid rgb(158, 158, 158);margin-bottom: -2.4em;margin-left: 0.6em;box-sizing: border-box;">
+    </section>
+    <section style="width: 5em;border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+    </section>
+    <section style="padding: 0px 0.5em;box-sizing: border-box;">
+     <section style="padding: 10px;box-sizing: border-box;">
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="text-align: justify;font-size: 16px;box-sizing: border-box;">
+         <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+          在讲座的开始，Larry Wolff教授提到16世纪初到17世纪末的维也纳作为哈布斯堡帝国的首都，其实是一座边境城市。这一时期的维也纳不光位于哈布斯堡的边境线上，同时也是一座作为哈布斯堡帝国与奥斯曼帝国，基督教文明与伊斯兰教文明分界线的城市。从16世纪初到17世纪末，强势的奥斯曼帝国曾经两次围攻维也纳城。维也纳长期处于外敌围攻的威胁中，因此安全成为了城市发展的最重要因素。这一时期的维也纳是一座被四条护城河与城墙以及城外的多瑙河所牢牢包围保护的城市，城市发展局限在城墙以内。
+         </p>
+         <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+         <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+          时过境迁，在1683年维也纳围城战之后，哈布斯堡帝国与奥斯曼帝国之间国力对比发生逆转。在18世纪，哈布斯堡帝国打败了奥斯曼帝国并吞并了整个匈牙利地区，维也纳在此之后不再作为一座边境城市而变为帝国的中心城市。Larry Wolff教授认为这带来了以下几点改变，首先安全问题已经不是维也纳城市发展的首要问题，维也纳城开始向城墙外扩展，城市形态发生改变，著名的美泉宫就是在这一时期建立在维也纳城墙之外的。其次，土耳其人的形象伴随着土耳其帝国的衰落在维也纳人眼中不再十分恐怖，土耳其元素以及“土耳其热”在18世纪的维也纳十分盛行，咖啡这种传统的伊斯兰饮料以及咖啡厅也是在1683年围城战胜利后首次出现在维也纳，并随后风靡全欧。其他的异域元素在这一时期也在维也纳流行起来，比如在18世纪女皇玛丽.特蕾莎统治时期，中国元素多次在美泉宫中出现。最后，巴洛克式风格这种雄伟壮丽的建筑风格开始在维也纳乃至整个帝国流行起来，例如维也纳的美泉宫，布达佩斯的Esterhaza宫殿。Larry Wolff教授认为，作为一个多民族的混合国家，哈布斯堡帝国很难直接通过行政手段整合全国。因此，将巴洛克风格作为整个帝国的代表建筑风格，使帝国不同区域的民众拥有对城市建筑的相同视觉感受，从而塑造哈布斯堡的国家认同是哈布斯堡帝国国家整合和认同塑造的重要手段。
+         </p>
+        </section>
+       </section>
+      </section>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="text-align: justify;font-size: 16px;box-sizing: border-box;">
+         <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+         <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+          到了19世纪中叶开始，伴随着工业革命，维也纳的城市形态又发生了重大改变。这一时期曾经保护维也纳的城墙被完全拆除，取而代之的是环绕整个内城的环城大道。Larry Wolff教授提出在这一次维也纳的城市改造后，围绕着环城大道维也纳的城市建筑风格出现多变的状态。新哥特式、新巴洛克式、新古典风格等多样的建筑形式出现在环城大道两侧，维也纳的城市建筑呈现混合的风格。随着时代的发展，到了19世纪末20世纪初，“维也纳分离派”这一建筑艺术风格开始在维也纳出现，“维也纳分离派”强调几何、立体、简洁具有金属感的建筑风格，这与强调典雅以及繁密装饰的传统风格大相径庭。这种具有强烈现代感的建筑风格很快在维也纳以及整个帝国流行起来，从维也纳到布达佩斯以及利沃夫，帝国不同城市的居民都能看到带有“维也纳分离派”风格的建筑。Larry Wolff教授认为，在这一时期，“维也纳分离派”的建筑风格代替了巴洛克风格成为哈布斯帝国塑造国家认同的工具。
+         </p>
+         <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="width: 5em;margin-left: auto;box-sizing: border-box;">
+     <section style="width: 5em;border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+     </section>
+     <section style="height: 3em;border-left: 1px solid rgb(158, 158, 158);margin-top: -2.4em;margin-left: 4.4em;box-sizing: border-box;">
+     </section>
+     <section style="width: 6px;height: 6px;margin-left: auto;margin-right: 0.4em;border-radius: 100%;background-color: rgb(255, 129, 36);box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 30%;box-sizing: border-box;">
+     <img data-ratio="0.3584906" data-type="png?x-oss-process=style/xmwebp" data-w="371" src="https://mmbiz.qpic.cn/mmbiz_png/3l496Hhyxu41yoOJC6UrfdL4ibicEMKzgYwC43e6L6zzP7ajfSBp6u3lGzHLUAibN4y3iaHwkOIjH5oP1mtI0aJ0gA/640?wx_fmt=png?x-oss-process=style/xmwebp" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 0.5em 0px;box-sizing: border-box;">
+    <section style="border-top: 1px dashed rgb(95, 156, 239);box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="width: 5em;margin-left: auto;box-sizing: border-box;">
+     <section style="width: 6px;height: 6px;margin-left: auto;margin-bottom: 0.5em;margin-right: 0.4em;border-radius: 100%;background-color: rgb(255, 129, 36);box-sizing: border-box;">
+     </section>
+     <section style="width: 5em;border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+     </section>
+     <section style="height: 3em;border-left: 1px solid rgb(158, 158, 158);margin-top: -0.6em;margin-left: 4.4em;box-sizing: border-box;">
+     </section>
+    </section>
+    <section style="padding: 0px 0.5em;margin: -2.6em 0px;box-sizing: border-box;">
+     <section style="padding: 10px;box-sizing: border-box;">
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="text-align: justify;box-sizing: border-box;">
+         <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+          在完成了对维也纳城市三个世纪建筑风格变化以及对帝国其他城市的影响的疏离之后，Larry Wolff教授结束了本次演讲。朱明老师作了点评，他指出，城市是研究历史的一个重要切入点，城市空间可以反映出经济、政治、文化，Larry Wolff教授讲座中涉及巴洛克风格和现代主义风格，这两种风格在一定程度上都是当时的政治诉求的体现，可以看作权力的象征，从这些象征可以考察从帝国到民族国家的过渡，值得深入研究。
+         </p>
+        </section>
+       </section>
+      </section>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+        <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+         <img data-ratio="0.75" data-type="jpegwebp" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/zvprvIdk8gEZfKVX6NUb8yWfrI3fsBsWkhsl3nwoeyNyNuZcqM1VADmInbrDz3uXtUk03ppQCsibXNTmtTvFdwA/640?wx_fmt=jpegwebp" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+        </section>
+       </section>
+      </section>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+        <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+         <img data-ratio="0.75" data-type="jpegwebp" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/zvprvIdk8gEZfKVX6NUb8yWfrI3fsBsWX48mWU7lTmKpMub8L3tiaSjqFqT0u1qVmvDzyW37rHbHX291lO3R8Qw/640?wx_fmt=jpegwebp" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+        </section>
+       </section>
+      </section>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="text-align: justify;box-sizing: border-box;">
+         <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+         <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+          在座的老师和同学也纷纷积极发言提问，如“16到17世纪的围城对维也纳建筑风格的影响？”，“在19世纪的维也纳市政机构可否干涉单个建筑风格的选择？”，Larry Wolff教授也一一给予解答，会议圆满完成。
+         </p>
+        </section>
+       </section>
+      </section>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="height: 3em;border-left: 1px solid rgb(158, 158, 158);margin-bottom: -0.6em;margin-left: 0.6em;box-sizing: border-box;">
+    </section>
+    <section style="width: 5em;border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+    </section>
+    <section style="width: 6px;height: 6px;margin: 0.5em 0.4em;border-radius: 100%;background-color: rgb(255, 129, 36);box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: right;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      供稿：饶英圣
+     </p>
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      编辑：程婷婷
+     </p>
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      审核：李凤华
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>

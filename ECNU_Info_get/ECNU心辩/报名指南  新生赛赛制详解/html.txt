@@ -1,0 +1,1037 @@
+
+ <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+  <section class="V5" style="background-image: none;box-sizing: border-box;">
+   <section style="margin: 10px 0%;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+    <section style="display: inline-block;vertical-align: middle;width: 50%;padding: 0px 5px;background-image: none;box-sizing: border-box;">
+     <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="margin: 0px 0%;text-align: center;background-image: none;box-sizing: border-box;">
+       <section style="display: inline-block;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+        <section style="border-radius: 0.5em;border-color: rgb(134, 162, 223);border-style: solid;border-width: 1px;padding: 4px;display: inline-block;background-color: rgb(134, 162, 223);background-image: none;box-sizing: border-box;">
+         <section class="V5" style="background-image: none;box-sizing: border-box;">
+          <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           <section style="color: rgb(255, 255, 255);background-image: none;box-sizing: border-box;">
+            <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+             新生报名指南
+             <br style="background-image: none;box-sizing: border-box;"/>
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section style="width: 0px;border-top: 0.8em solid rgb(134, 162, 223);margin: auto;border-left: 0.8em solid transparent !important;border-right: 0.8em solid transparent !important;background-image: none;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="margin-top: 10px;margin-bottom: 10px;background-image: none;box-sizing: border-box;">
+       <section style="height: 1.4em;border-left: 1px solid rgb(158, 158, 158);margin-bottom: -0.9em;margin-left: 0.5em;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+       </section>
+       <section style="width: 2.5em;border-top: 1px solid rgb(158, 158, 158);background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+       </section>
+       <section style="padding: 0px 0.5em;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+        <section style="padding: 10px;background-image: none;box-sizing: border-box;">
+         <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <section style="text-align: center;font-size: 14px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+             时间过得真快，已经开学两天啦，是时候跟已经报名的以及打算报名的同学们介绍一下院新生赛的赛制了～
+             <br style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="width: 2.5em;margin-left: auto;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+        <section style="width: 2.5em;border-top: 1px solid rgb(158, 158, 158);background-image: none;box-sizing: border-box;">
+        </section>
+        <section style="height: 1.4em;border-left: 1px solid rgb(158, 158, 158);margin-top: -0.9em;margin-left: 2em;background-image: none;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: middle;width: 50%;padding: 0px 5px;background-image: none;box-sizing: border-box;">
+     <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="margin-top: 10px;margin-bottom: 10px;background-image: none;box-sizing: border-box;">
+       <section style="margin-left: auto;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -6px;width: 0px;border-top: 3px solid rgb(255, 255, 255) !important;border-right: 3px solid rgb(255, 255, 255) !important;border-bottom: 3px solid rgb(217, 207, 48);border-left: 3px solid rgb(217, 207, 48);background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+       </section>
+       <section style="border-color: rgb(134, 162, 223);border-left: 6px solid rgb(134, 162, 223);border-top: 6px solid rgb(134, 162, 223);background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+        <section style="background-color: rgb(255, 255, 255);padding: 10px;background-image: none;box-sizing: border-box;">
+         <section class="V5" style="background-image: none;box-sizing: border-box;">
+          <section style="text-align: center;margin: 0px 0%;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           <section style="max-width: 100%;vertical-align: middle;display: inline-block;overflow: hidden;background-image: none;box-sizing: border-box;">
+            <img data-ratio="1.5009381" data-type="jpeg" data-w="533" src="https://mmbiz.qpic.cn/mmbiz_jpg/7KicRju7UxHGleiaiaiaAt9txXpDiboEPLfU2FdF23cEvrd28VXKfgrT0JyD6VW4Cffxh4G5CU83K4m66Bp13nfRAZA/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-top: -6px;width: 0px;border-top: 3px solid rgb(217, 207, 48);border-right: 3px solid rgb(217, 207, 48);border-bottom: 3px solid rgb(255, 255, 255) !important;border-left: 3px solid rgb(255, 255, 255) !important;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="background-image: none;box-sizing: border-box;">
+   <section style="margin: 0px 0%;text-align: center;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+    <section style="display: inline-block;background-image: none;box-sizing: border-box;">
+     <section style="border-radius: 0.5em;border-color: rgb(134, 162, 223);border-style: solid;border-width: 1px;padding: 4px;display: inline-block;background-color: rgb(134, 162, 223);background-image: none;box-sizing: border-box;">
+      <section class="V5" style="background-image: none;box-sizing: border-box;">
+       <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+        <section style="color: rgb(255, 255, 255);background-image: none;box-sizing: border-box;">
+         <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          01 报名方式
+          <br style="background-image: none;box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section style="width: 0px;border-top: 0.8em solid rgb(134, 162, 223);margin: auto;border-left: 0.8em solid transparent !important;border-right: 0.8em solid transparent !important;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="background-image: none;box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+    <section style="padding-left: 8px;padding-bottom: 8px;background-image: none;box-sizing: border-box;">
+     <section style="border-color: rgb(192, 200, 209);border-style: solid;border-width: 1px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="height: 8px;width: 100%;border-color: rgb(192, 200, 209);border-right: 1px solid rgb(192, 200, 209);transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-o-transform: rotate(45deg);transform-origin: right top 0px;-webkit-transform-origin: right top 0px;-moz-transform-origin: right top 0px;-o-transform-origin: right top 0px;margin-bottom: 4px;background-image: none;box-sizing: border-box;">
+      </section>
+      <section style="background-color: rgb(255, 255, 255);margin: -7px 4px -8px -6px;border-color: rgb(192, 200, 209);border-style: solid;border-width: 1px;padding: 10px;background-image: none;box-sizing: border-box;">
+       <section class="V5" style="background-image: none;box-sizing: border-box;">
+        <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+         <section style="background-image: none;box-sizing: border-box;">
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           <strong style="background-image: none;box-sizing: border-box;">
+            通道一：
+           </strong>
+           扫扫下方二维码填写问卷
+           <br style="background-image: none;box-sizing: border-box;"/>
+          </p>
+         </section>
+        </section>
+       </section>
+       <section class="V5" style="background-image: none;box-sizing: border-box;">
+        <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+         <section style="max-width: 100%;vertical-align: middle;display: inline-block;overflow: hidden;background-image: none;box-sizing: border-box;">
+          <img data-ratio="1" data-type="jpeg" data-w="150" src="https://mmbiz.qpic.cn/mmbiz_jpg/7KicRju7UxHGleiaiaiaAt9txXpDiboEPLfU2PcbDCPjGibq0M5EwukJ8P8HzF17FDicjokG5JBib4Zz8O1IcozNRRZwtA/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+         </section>
+        </section>
+       </section>
+       <section class="V5" style="background-image: none;box-sizing: border-box;">
+        <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+         <section style="background-image: none;box-sizing: border-box;">
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           <strong>
+            通道二：
+           </strong>
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           编辑短信附上参赛队员姓名，学号，联系方­­­式以及第三周空闲时间发送到领队吴怡雯（13585900231）报名学院新生赛1V1或 4V4（自行/随机组队）赛制，参加院新生赛。
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           (另9月19日，第二周周三晚6:30在俊秀楼211有神秘点名活动呦！在点名活动开始前会进行可乐抽奖（详情后台回复关键词“集齐辩题”））
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           <span style="color: rgb(217, 49, 49);background-image: none;box-sizing: border-box;">
+            截止时间：9月14日晚23:00前
+           </span>
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           <br style="background-image: none;box-sizing: border-box;"/>
+          </p>
+         </section>
+        </section>
+       </section>
+       <section class="V5" style="background-image: none;box-sizing: border-box;">
+        <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+         <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-shadow: rgb(0, 0, 0) 0px 0px 0px;width: 12%;overflow: hidden;background-image: none;box-sizing: border-box;">
+          <img data-ratio="1.4218009" data-type="png" data-w="211" src="https://mmbiz.qpic.cn/mmbiz_png/7KicRju7UxHGleiaiaiaAt9txXpDiboEPLfU2ImNJiceIet3upj9AjcscicXAkmTtibWfMwg4Tr1NiaWkwH1zHgHcibEIkcA/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+         </section>
+        </section>
+       </section>
+       <section class="V5" style="background-image: none;box-sizing: border-box;">
+        <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+         <section style="color: rgba(248, 120, 53, 0.99);background-image: none;box-sizing: border-box;">
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           <span style="background-image: none;box-sizing: border-box;">
+            注意：
+            <br style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+           </span>
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           <span style="background-image: none;box-sizing: border-box;">
+            1.参加院新生赛是加入心院辩论队的唯一途径哦~
+           </span>
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           <span style="background-image: none;box-sizing: border-box;">
+            2.输赢并非入队标准~
+           </span>
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           <span style="background-image: none;box-sizing: border-box;">
+            3.点名活动时的表现会纳入考量标准
+           </span>
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           <span style="background-image: none;box-sizing: border-box;">
+            4.队内设有队内工作组为踌躇犹豫想要先积累历练不敢上场的你提供成长的机会
+           </span>
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           <br style="background-image: none;box-sizing: border-box;"/>
+          </p>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="background-image: none;box-sizing: border-box;">
+   <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+    <section style="display: inline-block;vertical-align: top;width: 46%;background-image: none;box-sizing: border-box;">
+     <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="margin: 0.5em 0px;background-image: none;box-sizing: border-box;">
+       <section style="border-top: 1px dotted rgb(18, 39, 54);background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: top;width: 8%;background-image: none;box-sizing: border-box;">
+     <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="text-align: center;margin: 8px 0% 10px;background-image: none;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;overflow: hidden;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+        <img data-ratio="1.345" data-type="gif" data-w="200" src="https://mmbiz.qpic.cn/mmbiz_gif/7KicRju7UxHGleiaiaiaAt9txXpDiboEPLfU2GcMnB4kydPicUWD4I5f648sKNpQXyBbDnnygYNlSdJUHbVl27mffNLg/640?wx_fmt=gif" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: top;width: 46%;background-image: none;box-sizing: border-box;">
+     <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="margin: 0.5em 0px;background-image: none;box-sizing: border-box;">
+       <section style="border-top: 1px dotted rgb(18, 39, 54);background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="background-image: none;box-sizing: border-box;">
+   <section style="margin: 0px 0%;text-align: center;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+    <section style="display: inline-block;background-image: none;box-sizing: border-box;">
+     <section style="border-radius: 0.5em;border-color: rgb(134, 162, 223);border-style: solid;border-width: 1px;padding: 4px;display: inline-block;background-color: rgb(134, 162, 223);background-image: none;box-sizing: border-box;">
+      <section class="V5" style="background-image: none;box-sizing: border-box;">
+       <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+        <section style="color: rgb(255, 255, 255);background-image: none;box-sizing: border-box;">
+         <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          02  两种赛制
+          <br style="background-image: none;box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section style="width: 0px;border-top: 0.8em solid rgb(134, 162, 223);margin: auto;border-left: 0.8em solid transparent !important;border-right: 0.8em solid transparent !important;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="background-image: none;box-sizing: border-box;">
+   <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+    <section style="background-image: none;box-sizing: border-box;">
+     <p style="text-align: center;background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <strong style="background-image: none;box-sizing: border-box;">
+       1vs1
+      </strong>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="background-image: none;box-sizing: border-box;">
+   <section style="text-align: center;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+    <section style="display: inline-table;border-collapse: collapse;table-layout: fixed;width: 100%;background-image: none;box-sizing: border-box;">
+     <section class="V5" style="display: table-row-group;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="display: table-row;table-layout: fixed;width: 100%;background-image: none;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgba(126, 154, 220, 0.87);padding: 10px 0px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="margin: 3px 0px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="display: inline-block;border-color: rgb(249, 110, 87);border-style: solid;border-width: 1px;background-color: rgb(255, 255, 255);width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 100%;margin-left: auto;margin-right: auto;font-size: 12px;color: rgb(0, 0, 0);background-image: none;box-sizing: border-box;">
+           <p style="display: inline-block;width: 1em;margin: 0px 2.4px;float: right;background-image: none;clear: none;padding: 0px;box-sizing: border-box;">
+            <span style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+             环
+            </span>
+            <span style="letter-spacing: 0px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+             节
+            </span>
+           </p>
+           <p style="clear: both;font-size: 0px;line-height: 0;min-height: 0px;background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgba(126, 154, 220, 0.87);padding: 10px 0px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="margin: 3px 0px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="display: inline-block;border-color: rgb(249, 110, 87);border-style: solid;border-width: 1px;background-color: rgb(255, 255, 255);width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 100%;margin-left: auto;margin-right: auto;font-size: 12px;color: rgb(0, 0, 0);background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+            时长
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgba(126, 154, 220, 0.87);padding: 10px 0px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="margin: 3px 0px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="display: inline-block;border-color: rgb(249, 110, 87);border-style: solid;border-width: 1px;background-color: rgb(255, 255, 255);width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 100%;margin-left: auto;margin-right: auto;color: rgb(0, 0, 0);background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+            tips
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="display: table-row;width: 100%;background-image: none;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            开篇立论陈词
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            各2分30秒
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            正方先进行陈词，反方在质询正方后进行陈词
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="display: table-row;width: 100%;background-image: none;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            质询
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            各1分钟
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            正方陈词后反方质询，凡防尘伺候正方质询
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="display: table-row;width: 100%;background-image: none;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            双方对辩
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            各1分钟
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            双方交替轮流方式发言，辩手无权终止对方未完成的发言。
+           </p>
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            双方计时分开进行，一方发言时间完毕后，另一方可以继续发言，直到剩余时间用完为止。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="display: table-row;width: 100%;background-image: none;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            总结陈词
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            各2分30秒
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            反方先进行陈词
+           </p>
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            反驳对方立论架构及总结己方立场
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="background-image: none;box-sizing: border-box;">
+   <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+    <section style="text-align: center;background-image: none;box-sizing: border-box;">
+     <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <strong style="background-image: none;box-sizing: border-box;">
+       <br style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+      </strong>
+     </p>
+     <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <strong style="background-image: none;box-sizing: border-box;">
+       4vs4
+      </strong>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="background-image: none;box-sizing: border-box;">
+   <section style="text-align: center;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+    <section style="display: inline-table;border-collapse: collapse;table-layout: fixed;width: 100%;background-image: none;box-sizing: border-box;">
+     <section class="V5" style="display: table-row-group;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="display: table-row;table-layout: fixed;width: 100%;background-image: none;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgba(126, 154, 220, 0.87);padding: 10px 0px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="margin: 3px 0px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="display: inline-block;border-color: rgb(249, 110, 87);border-style: solid;border-width: 1px;background-color: rgb(255, 255, 255);width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 100%;margin-left: auto;margin-right: auto;font-size: 14px;color: rgb(0, 0, 0);background-image: none;box-sizing: border-box;">
+           <p style="display: inline-block;width: 1em;margin: 0px 2.8px;float: right;background-image: none;clear: none;padding: 0px;box-sizing: border-box;">
+            环节
+           </p>
+           <p style="clear: both;font-size: 0px;line-height: 0;min-height: 0px;background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgba(126, 154, 220, 0.87);padding: 10px 0px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="margin: 3px 0px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="display: inline-block;border-color: rgb(249, 110, 87);border-style: solid;border-width: 1px;background-color: rgb(255, 255, 255);width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 100%;margin-left: auto;margin-right: auto;font-size: 14px;color: rgb(0, 0, 0);background-image: none;box-sizing: border-box;">
+           <p style="display: inline-block;width: 1em;margin: 0px 2.8px;float: right;background-image: none;clear: none;padding: 0px;box-sizing: border-box;">
+            时长
+           </p>
+           <p style="clear: both;font-size: 0px;line-height: 0;min-height: 0px;background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgba(126, 154, 220, 0.87);padding: 10px 0px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="margin: 3px 0px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="display: inline-block;border-color: rgb(249, 110, 87);border-style: solid;border-width: 1px;background-color: rgb(255, 255, 255);width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 100%;margin-left: auto;margin-right: auto;color: rgb(0, 0, 0);background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+            tips
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="display: table-row;width: 100%;background-image: none;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            立论：正方一辩开篇陈词
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            3分30秒
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            <br style="background-image: none;box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="display: table-row;width: 100%;background-image: none;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            质询：反方二辩盘问正方一辩
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            1分30秒
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            反方二辩针对正方一辩的立论进行针对性的盘问。
+           </p>
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            答辩方只能作答不能反问。
+           </p>
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            质询方有权在任何时候中止答辩方。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="display: table-row;width: 100%;background-image: none;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            立论：反方一辩开篇陈词
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            3分30秒
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section class="group-empty" style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="display: table-row;width: 100%;background-image: none;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            质询：正方二辩盘问反方一辩
+            <br style="background-image: none;box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            1分30秒
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            同二
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="display: table-row;width: 100%;background-image: none;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            正、反方三辩对辩
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            各1分30秒
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            双方交替轮流发言，辩手无权中止对方未完成的言论。
+           </p>
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            双方计时分开进行，一方发言时间完毕，另一方可继续发言，直到剩余时间用完为止。
+           </p>
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            正方先发言。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="display: table-row;width: 100%;background-image: none;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            自由辩论
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            各3分钟
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            双方计时分开进行，每次一方辩手发言完毕后，另一方计时将立即开始。
+           </p>
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            一方发言时间完毕后，另一方可继续发言，直到剩余时间用完为止。
+           </p>
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            正方先发言。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="display: table-row;width: 100%;background-image: none;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            总结陈词
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            各3分钟
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;">
+         <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          <section style="background-image: none;box-sizing: border-box;">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            反方先进行陈词。
+           </p>
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+            反驳对方立论架构及总结己方的立场。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="background-image: none;box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;overflow: hidden;background-image: none;box-sizing: border-box;">
+     <img data-ratio="0.1642066" data-type="png" data-w="542" src="https://mmbiz.qpic.cn/mmbiz_png/7KicRju7UxHGleiaiaiaAt9txXpDiboEPLfU2c4Cshg47iaib00VQibXF6eFPO3sqIoHicmueeoszNK7W3w1SFVIzRDZH3Q/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="background-image: none;box-sizing: border-box;">
+   <section style="margin: 0px 0%;text-align: center;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+    <section style="display: inline-block;background-image: none;box-sizing: border-box;">
+     <section style="border-radius: 0.5em;border-color: rgb(134, 162, 223);border-style: solid;border-width: 1px;padding: 4px;display: inline-block;background-color: rgb(134, 162, 223);background-image: none;box-sizing: border-box;">
+      <section class="V5" style="background-image: none;box-sizing: border-box;">
+       <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+        <section style="color: rgb(255, 255, 255);background-image: none;box-sizing: border-box;">
+         <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+          03 赛制详解
+          <br style="background-image: none;box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section style="width: 0px;border-top: 0.8em solid rgb(134, 162, 223);margin: auto;border-left: 0.8em solid transparent !important;border-right: 0.8em solid transparent !important;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="background-image: none;box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+    <section style="padding-left: 8px;padding-bottom: 8px;background-image: none;box-sizing: border-box;">
+     <section style="border-color: rgb(192, 200, 209);border-style: solid;border-width: 1px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+      <section style="height: 8px;width: 100%;border-color: rgb(192, 200, 209);border-right: 1px solid rgb(192, 200, 209);transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-o-transform: rotate(45deg);transform-origin: right top 0px;-webkit-transform-origin: right top 0px;-moz-transform-origin: right top 0px;-o-transform-origin: right top 0px;margin-bottom: 4px;background-image: none;box-sizing: border-box;">
+      </section>
+      <section style="background-color: rgb(255, 255, 255);margin: -7px 4px -8px -6px;border-color: rgb(192, 200, 209);border-style: solid;border-width: 1px;padding: 10px;background-image: none;box-sizing: border-box;">
+       <section class="V5" style="background-image: none;box-sizing: border-box;">
+        <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+         <section style="background-image: none;box-sizing: border-box;">
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           <strong style="background-image: none;box-sizing: border-box;">
+            <span style="font-size: 21px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+             立论陈词
+            </span>
+           </strong>
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           立论要求观点明晰、框架合理、重点突出。
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           <br style="background-image: none;box-sizing: border-box;"/>
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           需要你：
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           • 对题目中的关键字进行定义。
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           • 陈述我方的观点。
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           • 陈述对此观点的论证过程。
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           • 得出结论。
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           <br style="background-image: none;box-sizing: border-box;"/>
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           <strong style="letter-spacing: 0px;background-image: none;box-sizing: border-box;">
+            <span style="font-size: 21px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+             攻辩/质询环节
+            </span>
+           </strong>
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           • 被质询方必须正面回答对方问题。提问和回答都要简洁明确。重复提问和回避问题均要被扣分。每一轮攻辩，攻辩角色不得互换，辩方不得反问，攻方也不得回答问题。
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           • 攻辩尽量针对立论涉及内容。
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           • 双方共同计时，攻辩方可以随时合理地打断对方。
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           <br style="background-image: none;box-sizing: border-box;"/>
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           <strong style="background-image: none;box-sizing: border-box;">
+            <span style="font-size: 21px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+             对辩环节
+            </span>
+           </strong>
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           • 对辩环节由双方站立完成，交替发言，每方总计时90秒。由正方先发言。
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           • 任意一方发言结束，则视为另一方计时开始，中间不停表。攻辩双方任意一方落座视为完成本方攻辩，对方选手在限时内任意发挥（陈词或继续发问）
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           <br style="background-image: none;box-sizing: border-box;"/>
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           <strong style="background-image: none;box-sizing: border-box;">
+            <span style="font-size: 21px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+             自由辩论（4vs4）
+            </span>
+           </strong>
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           • 自由辩论时间总共为6分钟，每队各3分钟。正方先发言。
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           • 双方依次轮流发言，一方落座，视为另一方计时开始，直到双方时间用完为止。
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           • 每一位辩手的发言次序、次数和时间均不受限制。
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           进行人身攻击、回避对方的质询及空场、有未发言选手等情形，将影响该队的成绩。
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           <br style="background-image: none;box-sizing: border-box;"/>
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           <strong style="background-image: none;box-sizing: border-box;">
+            <span style="font-size: 21px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+             结辩
+            </span>
+           </strong>
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           • 反方首先结辩
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           • 反驳对方立论架构及总结己方立场。
+          </p>
+          <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           <br style="background-image: none;box-sizing: border-box;"/>
+          </p>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="background-image: none;box-sizing: border-box;">
+   <section style="margin: 0.5em 0px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+    <section style="width: 2.8em;display: inline-block;overflow: hidden;background-image: none;box-sizing: border-box;">
+     <img data-ratio="0.3613445" data-type="png" data-w="119" src="https://mmbiz.qpic.cn/mmbiz_png/7KicRju7UxHGleiaiaiaAt9txXpDiboEPLfU2tjFibdVAy8ia9AXzLIlf1UWAg1ibruGfibmVG5Ajk5PsK6JibRDAb3KP1yg/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+    </section>
+    <section style='width: 100%;border-top: 2px dotted rgba(126, 154, 220, 0.87);margin-top: -0.2em;background: rgba(0, 0, 0, 0) url("https://mmbiz.qpic.cn/mmbiz_png/7KicRju7UxHGleiaiaiaAt9txXpDiboEPLfU2KLA3SCHzPf0HlPibbe54XNjBuyLxEXuxoBXZJHjZDzkoENPdiaHh5YqA/640?wx_fmt=png") repeat-x scroll 0% 0%;box-sizing: border-box;'>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="background-image: none;box-sizing: border-box;">
+   <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+    <section style='display: inline-block;width: 100%;vertical-align: top;box-shadow: rgb(67, 103, 117) 0px 0px 10px inset;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/7KicRju7UxHGleiaiaiaAt9txXpDiboEPLfU2ywODGricUUo1ZQpJQpH2XSQ1L2Ak97E7JGlJTQEJB9TIZWg1ER8ibFRA/640?wx_fmt=png");background-position: 42.7805% 56.4516%;background-repeat: repeat;background-size: 87.8999% auto;background-attachment: scroll;background-color: rgb(229, 241, 246);box-sizing: border-box;'>
+     <section class="V5" style="background-image: none;box-sizing: border-box;">
+      <section style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+       <section style="display: inline-block;width: 100%;vertical-align: top;box-shadow: rgb(0, 0, 0) 0px 0px 0px;padding: 10px;background-image: none;box-sizing: border-box;">
+        <section class="V5" style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+         <section style="margin: 10px 0% 0px;background-image: none;box-sizing: border-box;">
+          <section style="text-align: center;color: rgb(14, 14, 14);font-size: 15px;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+            心辩的新生赛，是面向所有新生的
+            <br style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+           </p>
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+            无论你有没有辩论经验
+           </p>
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+            之前了没了解过辩论
+           </p>
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+            都可以来报名参加
+           </p>
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+           </p>
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+            在这场新生赛中，决定你是否能够加入心辩的
+           </p>
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+            绝非比赛的输赢（两个领队第一场比赛都输了TAT）
+           </p>
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+            亦非仅仅只是场面
+           </p>
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+           </p>
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+            你对辩论的热情
+           </p>
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+            你短短几分钟表现中的闪光点
+           </p>
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+            我们都会看在眼里
+           </p>
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+           </p>
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+            只要你有对辩论的兴趣
+           </p>
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+            只要你在比赛中展现了你自己
+           </p>
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+            心辩，都欢迎你～
+           </p>
+           <p style="background-image: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="background-image: none;box-sizing: border-box;">
+      <section style="text-align: center;margin: 0px 0%;background-image: none;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-shadow: rgb(0, 0, 0) 0px 0px 0px;border-width: 0px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);overflow: hidden;background-image: none;box-sizing: border-box;">
+        <img data-ratio="0.2078125" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/7KicRju7UxHGleiaiaiaAt9txXpDiboEPLfU2NcCLZl6HD713RsxzGy7YD7y0IPbGaDJJxmUYYAEQMiabMcDZH0duqicg/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;background-color: rgba(1, 0, 0, 0);"/>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

@@ -1,0 +1,116 @@
+
+ <section class="KolEditor" data-role="outer" label="Powered by 365editor" style="font-family:微软雅黑;font-size:16px;">
+  <section class="KolEditor" data-tools-id="40599">
+   <section style="border-width: 2px;border-style: solid;border-color: rgb(0, 0, 0);padding: 5px;margin: 10px auto;box-sizing: border-box;">
+    <section style="background-color: #7ad5c4;">
+     <p style="text-align: center;line-height: 35px;white-space: normal;">
+      <strong style='font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-size: 17px;text-align: justify;'>
+       A political anthropology of finance
+      </strong>
+     </p>
+     <p style="text-align: left;line-height: 35px;white-space: normal;">
+      <strong style='font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-size: 17px;text-align: justify;'>
+       <span style="font-size: 18px;">
+        ——
+        <span style="font-size: 15px;">
+         Profits, states, and cultures in cross-border investment in Shanghai
+        </span>
+       </span>
+      </strong>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="KolEditor" data-tools-id="12297">
+   <section style="overflow: hidden;">
+    <span style="display: inline-block;width: 20px;height:50px;background-color: #fff;border-right: 2px solid #000;float: left;margin-left: -5px;margin-top:-15px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-ms-transform: rotate(45deg);-o-transform: rotate(45deg);">
+    </span>
+    <span style="display: inline-block;width: 20px;height:50px;background-color: #fff;border-right: 2px solid #000;float: right;margin-top:-15px;margin-right: -8px;transform: rotate(-45deg);-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-ms-transform: rotate(-45deg);-o-transform: rotate(-45deg);">
+     <span style="display: inline-block;width: 6px;height: 6px;border-radius: 3px;background-color: #000;margin-bottom: -5px;margin-left: 7px;">
+     </span>
+    </span>
+    <section style="border-width: 2px;border-style: solid;border-color: rgb(0, 0, 0);box-sizing: border-box;">
+     <section style="padding: 10px;box-sizing: border-box;">
+      <section style="padding: 10px;overflow: hidden;text-align: left;font-size: 14px;box-sizing: border-box;">
+       <p style='font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-size: 17px;text-align: justify;white-space: normal;'>
+        <span style="font-size: 16px;">
+         Abstract：Based on participant observation with financial professionals working for a mergers and acquisitions consultancy company in Shanghai, this essay shows that they conduct these transactions by mobilizing imaginaries of “profits,” “states,” and “cultures.” These imaginaries concern professional and nonprofessional life and are multiple, sometimes contradictory, and mutually constitutive. This shows that the analytic claim about a “real economy,” against which financial practices would be gauged, misses the multiple meanings whereby these practices make sense for those who carry them out. The article proposes instead a pragmatist approach of money, whose political import would be to focus on how the practices and meanings of financial professionals, as they channel money to certain activities at the expense of others, contribute to produce global social hierarchies in the access to monetary resources.
+        </span>
+       </p>
+       <p style='font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-size: 17px;text-align: justify;white-space: normal;line-height: normal;'>
+        <br/>
+       </p>
+       <p style='font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-size: 17px;text-align: justify;white-space: normal;'>
+        <span style="font-size: 16px;">
+         Keywords: China, finance, money, global, political anthropology, border, culture, state
+        </span>
+       </p>
+      </section>
+     </section>
+     <span style="display: inline-block;width: 20px;height:50px;background-color: #fff;border-right: 2px solid #000;float: right;margin-right: -10px;margin-top:-35px;transform: rotate(-135deg);-webkit-transform: rotate(-135deg);-moz-transform: rotate(-135deg);-ms-transform: rotate(-135deg);-o-transform: rotate(-135deg);">
+     </span>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="text-align: justify;line-height: normal;">
+  <span style="font-size: 16px;">
+   <span style="max-width: 100%;letter-spacing: 0.544px;background-color: rgb(255, 255, 255);font-family: 宋体;color: rgb(38, 38, 38);box-sizing: border-box !important;word-wrap: break-word !important;">
+    <br/>
+   </span>
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;margin-bottom: 5px;margin-top: 5px;">
+  <span style="font-size: 16px;letter-spacing: normal;">
+   <span style="font-size: 16px;max-width: 100%;background-color: rgb(255, 255, 255);font-family: 宋体;color: rgb(38, 38, 38);box-sizing: border-box !important;word-wrap: break-word !important;">
+    作者简介：Horacio Ortiz（何瑞雪），现任华东师范大学社会发展学院人类学研究所副教授，主要研究方向为货币人类学、金融人类学、全球人类学、社会科学哲学。
+   </span>
+  </span>
+ </p>
+ <p style="text-align: justify;line-height: 1.75em;margin-bottom: 5px;margin-top: 5px;">
+  <span style="font-size: 16px;letter-spacing: normal;">
+   <span style="font-size: 16px;max-width: 100%;background-color: rgb(255, 255, 255);font-family: 宋体;color: rgb(38, 38, 38);box-sizing: border-box !important;word-wrap: break-word !important;">
+    编辑说明：本文正式刊载于
+   </span>
+  </span>
+  <em>
+   <span style="font-size: 16px;max-width: 100%;background-color: rgb(255, 255, 255);color: rgb(38, 38, 38);box-sizing: border-box !important;word-wrap: break-word !important;">
+    HAU : Journal of Ethnographic Theory
+   </span>
+  </em>
+  <span style="font-size: 16px;letter-spacing: normal;">
+   <span style="font-size: 16px;max-width: 100%;background-color: rgb(255, 255, 255);font-family: 宋体;color: rgb(38, 38, 38);box-sizing: border-box !important;word-wrap: break-word !important;">
+   </span>
+  </span>
+  <span style="font-size: 16px;max-width: 100%;background-color: rgb(255, 255, 255);color: rgb(38, 38, 38);box-sizing: border-box !important;word-wrap: break-word !important;">
+   2017
+  </span>
+  <span style="font-size: 16px;max-width: 100%;background-color: rgb(255, 255, 255);font-family: 宋体;color: rgb(38, 38, 38);box-sizing: border-box !important;word-wrap: break-word !important;">
+   年第
+  </span>
+  <span style="font-size: 16px;max-width: 100%;background-color: rgb(255, 255, 255);color: rgb(38, 38, 38);box-sizing: border-box !important;word-wrap: break-word !important;">
+   7
+  </span>
+  <span style="font-size: 16px;max-width: 100%;background-color: rgb(255, 255, 255);font-family: 宋体;color: rgb(38, 38, 38);box-sizing: border-box !important;word-wrap: break-word !important;">
+   卷第
+  </span>
+  <span style="font-size: 16px;max-width: 100%;background-color: rgb(255, 255, 255);color: rgb(38, 38, 38);box-sizing: border-box !important;word-wrap: break-word !important;">
+   3
+  </span>
+  <span style="font-size: 16px;max-width: 100%;background-color: rgb(255, 255, 255);font-family: 宋体;color: rgb(38, 38, 38);box-sizing: border-box !important;word-wrap: break-word !important;">
+   期。
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <span style="letter-spacing: 0.544px;background-color: rgb(255, 255, 255);color: rgb(38, 38, 38);font-family: 宋体;font-size: 14px;">
+   <br/>
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <span style="letter-spacing: 0.544px;background-color: rgb(255, 255, 255);color: rgb(38, 38, 38);font-family: 宋体;font-size: 14px;">
+   点击文末“阅读原文”可查看全文
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <img class="" data-copyright="0" data-ratio="0.525" data-s="300,640" data-type="png" data-w="720" src="https://mmbiz.qpic.cn/mmbiz_png/5wzOkVxppZAlJCBT2AMJCpncuIKwFjGSVpbrcopLU4llnlAmrRRtE9BwxyI3a5OWDicQ2WuoicQpH3dzdTLwibCOg/640?wx_fmt=png" style=""/>
+ </p>

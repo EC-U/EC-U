@@ -1,0 +1,747 @@
+
+ <section data-role="outer" label="Powered by 135editor.com" style="font-family: 微软雅黑;">
+  <section class="_135editor" data-id="86318" data-tools="135编辑器" style="font-size: 16px; border-width: 0px; border-style: none; border-color: initial; box-sizing: border-box;">
+   <section class="layout" style="margin-right: auto; margin-left: auto;">
+    <section style="margin-top: 2em; padding-top: 0.5em; padding-bottom: 0.5em; font-size: 1em; font-weight: inherit; white-space: normal; line-height: 22.4px; border-style: solid none none; border-top-width: 1px; border-top-color: rgb(204, 204, 204); text-decoration: inherit; box-sizing: border-box;">
+     <section style="margin-top: -1.2em; text-align: center; border-width: initial; border-style: none; border-color: initial; line-height: 1.4; box-sizing: border-box;">
+      <span style="color:#ffffff">
+       <span style="background-color: rgb(2, 30, 170);">
+        当科技邂逅美 会碰撞出怎样的火花
+       </span>
+      </span>
+     </section>
+    </section>
+   </section>
+  </section>
+  <p style="font-size: 16px; white-space: normal;">
+   <br/>
+  </p>
+  <section class="_135editor" data-role="paragraph" style="border-width: 0px; border-style: none; border-color: initial; box-sizing: border-box;">
+   <p style="font-size: 16px; white-space: normal; text-align: center;">
+    <span style="color: rgb(121, 123, 170);">
+     千呼万唤始出来
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(121, 123, 170);">
+     信息学
+    </span>
+    <span style="color: rgb(121, 123, 170);">
+     院
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; text-align: center; line-height: 1.5em;">
+    <span style="background-color: rgb(2, 30, 170); color: rgb(255, 255, 255);">
+     “科技之美”
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(121, 123, 170);">
+     校园主题日
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(121, 123, 170);">
+     华丽回归
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(121, 123, 170);">
+     ↓↓↓
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(121, 123, 170);">
+     此处应有掌声
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; text-align: center; line-height: 1.5em;">
+    <span style="background-color: rgb(2, 30, 170); color: rgb(255, 255, 255); widows: 1;">
+     ( ◣⌄◢ )✧
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; text-align: center; line-height: 1.5em;">
+    <span style="background-color: rgb(2, 30, 170); color: rgb(255, 255, 255); widows: 1;">
+     <br/>
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; text-align: center; line-height: 1.5em;">
+    <img data-ratio="0.6522727272727272" data-s="300,640" data-type="jpeg" data-w="440" src="http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlH0eiagQIQOv0PCXJr33RGicicocafbLtxyXwzaljoRkneNhdIqAr73BmxjAsibQPnRRrdl1k4VsgeSUA/0?wx_fmt=jpeg"/>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <br/>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(121, 123, 170);">
+     不管你是喜欢科技
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(121, 123, 170);">
+     还是爱好摄影
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(121, 123, 170);">
+     都来加入我们吧！
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center;">
+    <br/>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="background-color: rgb(2, 30, 170); color: rgb(255, 255, 255);">
+     活动内容
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(121, 123, 170);">
+     分享一张与主题
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(255, 255, 255); background-color: rgb(2, 30, 170);">
+     “科技之美”
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(255, 255, 255);">
+     <span style="color: rgb(121, 123, 170);">
+      相关的照片
+     </span>
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(121, 123, 170);">
+     （手机相机拍的都可以~
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color:#797baa">
+     但一定要是自己拍的）
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(121, 123, 170);">
+     并附上这
+    </span>
+    <span style="color: rgb(121, 123, 170);">
+     张照片的主题
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(121, 123, 170);">
+     具体参与方式
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(121, 123, 170);">
+     <span style="background-color: rgb(2, 30, 170); color: rgb(255, 255, 255);">
+      请戳全文
+     </span>
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="background-color: rgb(255, 255, 255); color: rgb(136, 136, 136);">
+     ↓↓↓
+    </span>
+   </p>
+   <p style="font-size: 16px;">
+    <br/>
+   </p>
+   <p style="font-size: 16px; text-align: center;">
+    <span style="color: rgb(121, 123, 170);">
+     还是不知道什么是
+    </span>
+   </p>
+   <p style="font-size: 16px; text-align: center;">
+    <span style="color: rgb(121, 123, 170);">
+     “科技之美”的照片？
+    </span>
+   </p>
+   <p style="font-size: 16px; text-align: center;">
+    <span style="color:#797baa">
+     那小编就先和大家分享两张
+    </span>
+   </p>
+   <p style="font-size: 16px; text-align: center;">
+    <span style="color:#797baa">
+     <br/>
+    </span>
+   </p>
+   <p style="font-size: 16px; text-align: center;">
+    <span style="color:#797baa">
+    </span>
+   </p>
+   <p>
+    <img data-ratio="0.5054773082942097" data-s="300,640" data-type="jpeg" data-w="639" src="http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlH0eiagQIQOv0PCXJr33RGicicvUOqIHtJe1ab2P5AQYno0HlDIPoTbrzh3akSwicD2ICiaFaSB7hfXMjQ/0?wx_fmt=jpeg"/>
+   </p>
+   <p>
+    <span style="color: rgb(121, 123, 170); font-size: 16px; text-align: center;">
+     <br/>
+    </span>
+   </p>
+   <p style="text-align: center;">
+    <span style="color: rgb(121, 123, 170); font-size: 16px; text-align: center;">
+     cr: Jennifer E. Fairman
+    </span>
+   </p>
+   <p style="font-size: 16px; text-align: center;">
+    <span style="color: rgb(121, 123, 170);">
+     多层蛋白质网络
+    </span>
+   </p>
+   <p style="font-size: 16px; text-align: center;">
+    <span style="color:#797baa">
+     很神奇？
+    </span>
+   </p>
+   <p style="font-size: 16px; text-align: center;">
+    <span style="color:#797baa">
+     <br/>
+    </span>
+   </p>
+   <p style="font-size: 16px; text-align: center;">
+    <span style="color:#797baa">
+    </span>
+   </p>
+   <p style="text-align: center;">
+    <img data-ratio="0.5054773082942097" data-s="300,640" data-type="jpeg" data-w="639" src="http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlH0eiagQIQOv0PCXJr33RGicicVaI3ujJyuJTmqDe3rgiaamsmxTgnxiaoBzGVoUk6LtEmEW7zibdbxxhZg/0?wx_fmt=jpeg"/>
+   </p>
+   <p style="text-align: center; line-height: 1.5em;">
+    <span style="font-size: 16px; color: rgb(121, 123, 170);">
+    </span>
+   </p>
+   <p style="text-align: center; line-height: 1.5em;">
+    <span style="font-size: 16px; color: rgb(121, 123, 170);">
+     cr: Bernhard Je
+    </span>
+    <span style="font-size: 16px; color: rgb(121, 123, 170);">
+     nny et al
+    </span>
+    <br/>
+   </p>
+   <p style="font-family: 微软雅黑; font-size: 16px; white-space: normal; text-align: center;">
+    <span style="color:#797baa">
+     二氧化碳在地球上的一年
+    </span>
+   </p>
+   <p style="font-family: 微软雅黑; font-size: 16px; white-space: normal; text-align: center;">
+    <span style="color: rgb(121, 123, 170);">
+     很有趣？
+    </span>
+   </p>
+   <p style="font-size: 16px; text-align: center;">
+    <span style="color: rgb(121, 123, 170);">
+     <br/>
+    </span>
+   </p>
+   <p style="font-size: 16px; text-align: center;">
+    <span style="color:#797baa">
+     “太高大上我拍不出来？”
+    </span>
+   </p>
+   <p style="font-size: 16px; text-align: center;">
+    <span style="color:#797baa">
+     no.no.no
+    </span>
+   </p>
+   <p style="font-size: 16px; text-align: center;">
+    <span style="color:#797baa">
+     只要是你自己的独特视角
+    </span>
+   </p>
+   <p style="font-size: 16px; text-align: center;">
+    <span style="color:#797baa">
+     在主题中加以说明
+    </span>
+   </p>
+   <p style="font-size: 16px; text-align: center;">
+    <span style="color:#797baa">
+     也是能够崭露头角的
+    </span>
+   </p>
+   <p style="font-size: 16px; text-align: center;">
+    <span style="color:#797baa">
+     <span style="background-color: rgb(2, 30, 170); color: rgb(255, 255, 255);">
+      (✪ω✪)
+     </span>
+    </span>
+   </p>
+   <p style="font-size: 16px; text-align: center;">
+    <br/>
+   </p>
+   <section data-role="outer" label="Powered by 135editor.com" style="font-size: 16px; font-family: 微软雅黑; white-space: normal;">
+    <section class="_135editor" data-id="89558" data-tools="135编辑器" style="border-width: 0px; border-style: none; border-color: initial; box-sizing: border-box; text-align: center;">
+     <section style="display: inline-block; width: 210px;">
+      <img data-ratio="0.27906976744186046" data-w="387" src="http://mmbiz.qpic.cn/mmbiz_png/fgnkxfGnnkTHSWEib5nFy0OtxsFq9K2FgqrNuRrkxA5Wk4wEnC8VF0tRrcBtBFcrcwiawiatNh9er4XzjXlZvTcaw/0?" style="width: 210px; display: inline;" title="树自行车分割线"/>
+     </section>
+     <p>
+      <br/>
+     </p>
+    </section>
+   </section>
+   <p style="font-size: 16px;">
+    <br/>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(136, 136, 136);">
+     <span style="background-color: rgb(2, 30, 170); color: rgb(255, 255, 255);">
+      活动时间
+     </span>
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <strong>
+     <span style="color: rgb(136, 136, 136);">
+      <span style="color: rgb(121, 123, 170);">
+      </span>
+     </span>
+    </strong>
+   </p>
+   <section data-role="outer" label="Powered by 135editor.com" style="font-family: 微软雅黑;">
+    <section class="_135editor" data-color="rgb(55, 74, 174)" data-custom="rgb(55, 74, 174)" data-id="85938" data-tools="135编辑器" style=" border-width: 0px; border-style: none; border-color: initial;  box-sizing: border-box; ">
+     <section style="margin: 20px auto 16px; text-align: center;">
+      <section style="border-top: 1px solid rgb(137, 137, 137); box-sizing: border-box;">
+       <section style="font-size: 16px; border-width: 1px; border-style: solid; border-color: rgb(137, 137, 137); height: 30px; width: 30px; border-radius: 50%; background-color: rgb(255, 255, 255); margin-left: 50px; text-align: left; margin-top: -15px; box-sizing: border-box;">
+        <section style="height: 24px; width: 24px; line-height: 24px; border-radius: 50%; margin-top: 2px; margin-right: auto; margin-left: auto; text-align: center; color: rgb(255, 255, 255); background-color: rgb(55, 74, 174); box-sizing: border-box;">
+         <p style="line-height: 1.5em; white-space: normal;">
+          <span class="autonum" data-original-title="" style="vertical-align: middle;" title="">
+           1
+          </span>
+         </p>
+        </section>
+       </section>
+       <section style="padding-right: 8px; padding-left: 8px; line-height: 24px; margin-top: -30px; box-sizing: border-box;">
+        <section style="display: inline-block; background-color: rgb(254, 254, 254); padding-right: 8px; padding-left: 8px; box-sizing: border-box;">
+         <p style="white-space: normal;">
+          <span style="background-color: rgb(2, 30, 170); color: rgb(255, 255, 255);">
+           上传照片
+          </span>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(136, 136, 136);">
+     <span style="color: rgb(121, 123, 170);">
+      即日起到
+     </span>
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(136, 136, 136);">
+     <span style="background-color: rgb(2, 30, 170); color: rgb(255, 255, 255);">
+      5月10日晚上
+     </span>
+    </span>
+    <span style="background-color: rgb(2, 30, 170); color: rgb(255, 255, 255);">
+     8点
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color:#ffffff">
+     <span style="color: rgb(121, 123, 170);">
+      上传你的作品吧
+     </span>
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color:#797baa">
+     千万别错过时间了~
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color:#797baa">
+     <br/>
+    </span>
+   </p>
+   <section data-role="outer" label="Powered by 135editor.com" style="font-family: 微软雅黑;">
+    <section class="_135editor" data-color="rgb(55, 74, 174)" data-custom="rgb(55, 74, 174)" data-id="85938" data-tools="135编辑器" style=" border-width: 0px; border-style: none; border-color: initial;  box-sizing: border-box; ">
+     <section style="margin: 20px auto 16px; text-align: center;">
+      <section style="border-top: 1px solid rgb(137, 137, 137); box-sizing: border-box;">
+       <section style="font-size: 16px; border-width: 1px; border-style: solid; border-color: rgb(137, 137, 137); height: 30px; width: 30px; border-radius: 50%; background-color: rgb(255, 255, 255); margin-left: 50px; text-align: left; margin-top: -15px; box-sizing: border-box;">
+        <section style="height: 24px; width: 24px; line-height: 24px; border-radius: 50%; margin-top: 2px; margin-right: auto; margin-left: auto; text-align: center; color: rgb(255, 255, 255); background-color: rgb(55, 74, 174); box-sizing: border-box;">
+         <p style="line-height: 1.5em; white-space: normal;">
+          2
+         </p>
+        </section>
+       </section>
+       <section style="padding-right: 8px; padding-left: 8px; line-height: 24px; margin-top: -30px; box-sizing: border-box;">
+        <section style="display: inline-block; background-color: rgb(254, 254, 254); padding-right: 8px; padding-left: 8px; box-sizing: border-box;">
+         <p style="white-space: normal;">
+          <span style="color: rgb(255, 255, 255); background-color: rgb(2, 30, 170);">
+           投票
+          </span>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section class="_135editor" data-role="paragraph" style="font-size: 16px; border-width: 0px; border-style: none; border-color: initial; box-sizing: border-box;">
+     <p style="white-space: normal; text-align: center;">
+      <span style="font-family: 微软雅黑; font-size: 16px; text-align: center;  widows: 1; color: rgb(136, 136, 136);">
+       <span style="background-color: rgb(2, 30, 170); color: rgb(255, 255, 255);">
+        5月11日
+       </span>
+      </span>
+     </p>
+     <p style="widows: 1; white-space: normal; text-align: center;">
+      <span style="color:#ffffff">
+       <span style="color: rgb(121, 123, 170);">
+        我们将动用所有的势力
+       </span>
+      </span>
+     </p>
+     <p style="widows: 1; white-space: normal; text-align: center;">
+      <span style="color:#797baa">
+       举行神圣的投票仪式
+      </span>
+     </p>
+     <p style="widows: 1; white-space: normal; text-align: center;">
+      <span style="background-color: rgb(2, 30, 170); color: rgb(255, 255, 255);">
+       (๑•̀ω•́๑)
+      </span>
+     </p>
+    </section>
+   </section>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color:#ffffff">
+     <span style="color: rgb(121, 123, 170);">
+      选出高人气的作品
+     </span>
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color:#797baa">
+     发放相应的奖品
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <br/>
+   </p>
+   <section data-role="outer" label="Powered by 135editor.com" style="font-family: 微软雅黑;">
+    <section class="_135editor" data-color="rgb(55, 74, 174)" data-custom="rgb(55, 74, 174)" data-id="85938" data-tools="135编辑器" style=" border-width: 0px; border-style: none; border-color: initial;  box-sizing: border-box; ">
+     <section style="margin: 20px auto 16px; text-align: center;">
+      <section style="border-top: 1px solid rgb(137, 137, 137); box-sizing: border-box;">
+       <section style="font-size: 16px; border-width: 1px; border-style: solid; border-color: rgb(137, 137, 137); height: 30px; width: 30px; border-radius: 50%; background-color: rgb(255, 255, 255); margin-left: 50px; text-align: left; margin-top: -15px; box-sizing: border-box;">
+        <section style="height: 24px; width: 24px; line-height: 24px; border-radius: 50%; margin-top: 2px; margin-right: auto; margin-left: auto; text-align: center; color: rgb(255, 255, 255); background-color: rgb(55, 74, 174); box-sizing: border-box;">
+         <p style="line-height: 1.5em; white-space: normal;">
+          3
+         </p>
+        </section>
+       </section>
+       <section style="padding-right: 8px; padding-left: 8px; line-height: 24px; margin-top: -30px; box-sizing: border-box;">
+        <section style="display: inline-block; background-color: rgb(254, 254, 254); padding-right: 8px; padding-left: 8px; box-sizing: border-box;">
+         <p style="white-space: normal;">
+          <span style="background-color: rgb(2, 30, 170); color: rgb(255, 255, 255);">
+           领取奖品
+          </span>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(121, 123, 170);">
+     <span style="color: rgb(255, 255, 255); background-color: rgb(2, 30, 170);">
+      <span style="color: rgb(255, 255, 255); font-family: 微软雅黑; font-size: 16px; text-align: center;  widows: 1; background-color: rgb(2, 30, 170);">
+       5月12日
+      </span>
+     </span>
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color:#ffffff">
+     <span style="color: rgb(121, 123, 170);">
+      获奖者领取奖品
+     </span>
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color:#ffffff">
+     <span style="color: rgb(121, 123, 170);">
+      如果有兴趣
+     </span>
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color:#ffffff">
+     <span style="color: rgb(121, 123, 170);">
+      你也可以来和志同道合的朋友们
+     </span>
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color:#ffffff">
+     <span style="color: rgb(121, 123, 170);">
+      聊聊自己的感悟
+     </span>
+    </span>
+    <br/>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(121, 123, 170);">
+     <span style="color: rgb(255, 255, 255); background-color: rgb(2, 30, 170);">
+      <span style="color: rgb(255, 255, 255); font-family: 微软雅黑; font-size: 16px; text-align: center;  widows: 1; background-color: rgb(2, 30, 170);">
+       <br/>
+      </span>
+     </span>
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(121, 123, 170);">
+     <span style="color: rgb(255, 255, 255); background-color: rgb(2, 30, 170);">
+      领取地点
+     </span>
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(121, 123, 170);">
+     信息学院一楼大厅
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(121, 123, 170);">
+     <br/>
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(121, 123, 170);">
+     还有最最最重要的
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(255, 255, 255); background-color: rgb(2, 30, 170);">
+     活动奖品
+    </span>
+   </p>
+   <p style="font-size: 16px; font-family: 微软雅黑; white-space: normal; widows: 1; text-align: center; line-height: 1.5em;">
+    <span style="color: rgb(121, 123, 170);">
+     ！！！
+    </span>
+   </p>
+   <p style="font-size: 16px;">
+    <br/>
+   </p>
+   <section data-role="outer" label="Powered by 135editor.com" style="font-size: 16px; font-family: 微软雅黑; white-space: normal;">
+    <section class="_135editor" data-id="89540" data-tools="135编辑器" style="border-width: 0px; border-style: none; border-color: initial; box-sizing: border-box; text-align: center;">
+     <section style='margin-right: auto; margin-left: auto; display: inline-block; text-align: left; height: 50px; background-image: url("http://mmbiz.qpic.cn/mmbiz_png/ianq03UUWGmLly6X8wIFDVMQbVE5qtib2CnKJGZJaSk3DNXUXhQE7ELaZwvCDyRhfoxicISvicZSLGjjSNw4Mq8pIw/0?wx_fmt=png"); background-size: auto 50px; background-repeat: no-repeat;'>
+      <section style="margin-left: 65px; display: inline-block; line-height: 50px; color: rgb(51, 51, 51); vertical-align: top; font-size: 14px;">
+       <p class="135brush" data-brushtype="text" style="border-width: 0px; border-style: initial; border-color: initial;">
+        一等奖：1名
+       </p>
+      </section>
+     </section>
+     <section style='margin-right: auto; margin-left: auto; display: inline-block; text-align: left; width: 23px; height: 50px; vertical-align: top; background-image: url("http://mmbiz.qpic.cn/mmbiz_png/ianq03UUWGmLly6X8wIFDVMQbVE5qtib2Cicc3UfibRwC72VP28nqGcbPvZA3T0x5cc3XmchibzlukgMq1pJ3Jm97iaA/0?wx_fmt=png"); background-size: auto 50px; background-repeat: no-repeat;'>
+     </section>
+     <p>
+      <br/>
+     </p>
+    </section>
+    <p style="text-align: center; line-height: 1.5em;">
+     <img data-ratio="1" data-s="300,640" data-type="jpeg" data-w="225" src="http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlH0eiagQIQOv0PCXJr33RGicicLiawLBo1kGZ4iau3cls8OmJjs92H4gWJwqPpCNZ3ZyrKKjwSomMg3fYQ/0?wx_fmt=jpeg"/>
+    </p>
+    <p style="text-align: center; line-height: 1.5em;">
+     <span style="color: rgb(121, 123, 170);">
+      <br/>
+     </span>
+    </p>
+    <p style="text-align: center; line-height: 1.5em;">
+     <span style="color: rgb(121, 123, 170);">
+      防丢器一枚~
+     </span>
+    </p>
+    <p style="text-align: center; line-height: 1.5em;">
+     <span style="color: rgb(121, 123, 170);">
+      麻麻再也不用担心我丢东西啦
+     </span>
+    </p>
+    <p style="text-align: center; line-height: 1.5em;">
+     <br/>
+    </p>
+    <section data-role="outer" label="Powered by 135editor.com">
+     <section class="_135editor" data-id="89540" data-tools="135编辑器" style="border-width: 0px; border-style: none; border-color: initial; box-sizing: border-box; text-align: center;">
+      <section style='margin-right: auto; margin-left: auto; display: inline-block; text-align: left; height: 50px; background-image: url("http://mmbiz.qpic.cn/mmbiz_png/ianq03UUWGmLly6X8wIFDVMQbVE5qtib2CnKJGZJaSk3DNXUXhQE7ELaZwvCDyRhfoxicISvicZSLGjjSNw4Mq8pIw/0?wx_fmt=png"); background-size: auto 50px; background-repeat: no-repeat;'>
+       <section style="margin-left: 65px; display: inline-block; line-height: 50px; color: rgb(51, 51, 51); vertical-align: top; font-size: 14px;">
+        <p class="135brush" data-brushtype="text" style="border-width: 0px; border-style: initial; border-color: initial;">
+         二等奖：3名
+        </p>
+       </section>
+      </section>
+      <section style='margin-right: auto; margin-left: auto; display: inline-block; text-align: left; width: 23px; height: 50px; vertical-align: top; background-image: url("http://mmbiz.qpic.cn/mmbiz_png/ianq03UUWGmLly6X8wIFDVMQbVE5qtib2Cicc3UfibRwC72VP28nqGcbPvZA3T0x5cc3XmchibzlukgMq1pJ3Jm97iaA/0?wx_fmt=png"); background-size: auto 50px; background-repeat: no-repeat;'>
+      </section>
+      <p>
+       <br/>
+      </p>
+     </section>
+     <p style="text-align: center; line-height: 1.5em;">
+      <img data-ratio="1" data-s="300,640" data-type="jpeg" data-w="254" src="http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlH0eiagQIQOv0PCXJr33RGicicxKYbkl96QdpjjLttibzWB29AR59DRjuVBtn8M73ibTyDsvcpBfGhe4ug/0?wx_fmt=jpeg"/>
+     </p>
+     <p style="text-align: center; line-height: 1.5em;">
+      <span style="color: rgb(121, 123, 170);">
+       蓝牙音箱
+      </span>
+     </p>
+     <p style="text-align: center; line-height: 1.5em;">
+      <span style="color: rgb(121, 123, 170);">
+       你心水吗？~
+      </span>
+     </p>
+     <section data-role="outer" label="Powered by 135editor.com">
+      <section class="_135editor" data-id="89540" data-tools="135编辑器" style="border-width: 0px; border-style: none; border-color: initial; box-sizing: border-box; text-align: center;">
+       <p style="margin-right: auto; margin-left: auto; border-width: 0px; border-style: initial; border-color: initial; box-sizing: border-box; line-height: 1.5em;">
+        <br/>
+       </p>
+       <section style='margin-right: auto; margin-left: auto; display: inline-block; text-align: left; height: 50px; background-image: url("http://mmbiz.qpic.cn/mmbiz_png/ianq03UUWGmLly6X8wIFDVMQbVE5qtib2CnKJGZJaSk3DNXUXhQE7ELaZwvCDyRhfoxicISvicZSLGjjSNw4Mq8pIw/0?wx_fmt=png"); background-size: auto 50px; background-repeat: no-repeat;'>
+        <section style="margin-left: 65px; display: inline-block; line-height: 50px; color: rgb(51, 51, 51); vertical-align: top; font-size: 14px;">
+         <p class="135brush" data-brushtype="text" style="border-width: 0px; border-style: initial; border-color: initial;">
+          三等奖：3名
+         </p>
+        </section>
+       </section>
+       <section style='margin-right: auto; margin-left: auto; display: inline-block; text-align: left; width: 23px; height: 50px; vertical-align: top; background-image: url("http://mmbiz.qpic.cn/mmbiz_png/ianq03UUWGmLly6X8wIFDVMQbVE5qtib2Cicc3UfibRwC72VP28nqGcbPvZA3T0x5cc3XmchibzlukgMq1pJ3Jm97iaA/0?wx_fmt=png"); background-size: auto 50px; background-repeat: no-repeat;'>
+       </section>
+       <p>
+        <br/>
+       </p>
+      </section>
+      <p style="text-align: center; line-height: 1.5em;">
+       <img data-ratio="1" data-s="300,640" data-type="jpeg" data-w="224" src="http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlH0eiagQIQOv0PCXJr33RGicicibWiaRhh4uia0t6HUvg42e5XqtuyYNLtXEPtZjJPb8rWcYXc6zcPayCnA/0?wx_fmt=jpeg"/>
+      </p>
+      <p style="text-align: center; line-height: 1.5em;">
+       <span style="color: rgb(121, 123, 170);">
+        小夜灯
+       </span>
+      </p>
+      <p style="text-align: center; line-height: 1.5em;">
+       <span style="color: rgb(121, 123, 170);">
+        “夜晚就让我来陪伴你吧”
+       </span>
+      </p>
+      <p style="text-align: center; line-height: 1.5em;">
+       <br/>
+      </p>
+      <section data-role="outer" label="Powered by 135editor.com">
+       <section class="_135editor" data-id="89540" data-tools="135编辑器" style="border-width: 0px; border-style: none; border-color: initial; box-sizing: border-box; text-align: center;">
+        <section style='margin-right: auto; margin-left: auto; display: inline-block; text-align: left; height: 50px; background-image: url("http://mmbiz.qpic.cn/mmbiz_png/ianq03UUWGmLly6X8wIFDVMQbVE5qtib2CnKJGZJaSk3DNXUXhQE7ELaZwvCDyRhfoxicISvicZSLGjjSNw4Mq8pIw/0?wx_fmt=png"); background-size: auto 50px; background-repeat: no-repeat;'>
+         <section style="margin-left: 65px; display: inline-block; line-height: 50px; color: rgb(51, 51, 51); vertical-align: top; font-size: 14px;">
+          <p class="135brush" data-brushtype="text" style="border-width: 0px; border-style: initial; border-color: initial;">
+           入围奖：7名
+          </p>
+         </section>
+        </section>
+        <section style='margin-right: auto; margin-left: auto; display: inline-block; text-align: left; width: 23px; height: 50px; vertical-align: top; background-image: url("http://mmbiz.qpic.cn/mmbiz_png/ianq03UUWGmLly6X8wIFDVMQbVE5qtib2Cicc3UfibRwC72VP28nqGcbPvZA3T0x5cc3XmchibzlukgMq1pJ3Jm97iaA/0?wx_fmt=png"); background-size: auto 50px; background-repeat: no-repeat;'>
+        </section>
+        <p>
+         <br/>
+        </p>
+       </section>
+       <p style="text-align: center; line-height: 1.5em;">
+        <img data-ratio="0.957983193277311" data-s="300,640" data-type="jpeg" data-w="238" src="http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlH0eiagQIQOv0PCXJr33RGicicEJvDf4frsvuOI9ufHBiaHzGD4QD4WOmltcvqicQNJT5zvXIUpUFW4YQw/0?wx_fmt=jpeg"/>
+       </p>
+       <section class="_135editor" data-role="paragraph" style="border-width: 0px; border-style: none; border-color: initial; box-sizing: border-box;">
+        <p style="text-align: center; line-height: 1.5em;">
+         <span style="color: rgb(121, 123, 170);">
+          小风扇
+         </span>
+        </p>
+       </section>
+      </section>
+      <p style="text-align: center; line-height: 1.5em;">
+       <span style="color: rgb(121, 123, 170);">
+       </span>
+       <span style="color: rgb(121, 123, 170);">
+        吹呀吹呀你的骄傲放纵
+       </span>
+      </p>
+      <section class="_135editor" data-role="paragraph" style="border-width: 0px; border-style: none; border-color: initial; box-sizing: border-box;">
+       <p>
+        <br/>
+       </p>
+      </section>
+     </section>
+     <section data-role="outer" label="Powered by 135editor.com">
+      <section class="_135editor" data-id="87691" data-tools="135编辑器" style="border-width: 0px; border-style: none; border-color: initial; box-sizing: border-box;">
+       <p style="text-align: center; line-height: 1.5em;">
+        <img data-ratio="0.06521739130434782" data-w="690" src="http://mmbiz.qpic.cn/mmbiz/ziadDDQxbCJFDq1MaoNclaJOpElczibia6UXtxCadkIvdKUiaLVkuVnhkx32A3JCM6I4howpH175pChoFaXn9gKSicA/0?" style="display: inline;" title="叶子分割线"/>
+       </p>
+      </section>
+      <p>
+       <br/>
+      </p>
+      <section class="_135editor" data-role="paragraph" style="border-width: 0px; border-style: none; border-color: initial; box-sizing: border-box;">
+       <p style="text-align: center; line-height: 1.5em;">
+        <span style="color: rgb(121, 123, 170);">
+         获奖名单将于
+        </span>
+       </p>
+       <p style="text-align: center; line-height: 1.5em;">
+        <span style="color: rgb(121, 123, 170);">
+         5月11日晚公布
+        </span>
+       </p>
+       <p style="text-align: center; line-height: 1.5em;">
+        <span style="color: rgb(121, 123, 170);">
+         敬请关注
+        </span>
+       </p>
+       <p style="text-align: center; line-height: 1.5em;">
+        <span style="color: rgb(121, 123, 170);">
+         期待你的参与
+        </span>
+       </p>
+       <p style="text-align: center; line-height: 1.5em;">
+        <span style="color: rgb(121, 123, 170);">
+         <span style="color: rgb(255, 41, 65);">
+          <strong style="max-width: 100%; font-size: 18px; background-color: rgb(255, 255, 255); color: rgb(255, 79, 121); line-height: 1.6; box-sizing: border-box !important; word-wrap: break-word !important;">
+           ❤
+          </strong>
+         </span>
+        </span>
+       </p>
+       <p style="text-align: center; line-height: 1.5em;">
+        <span style="color: rgb(121, 123, 170);">
+         <strong style="max-width: 100%; font-size: 18px; background-color: rgb(255, 255, 255); color: rgb(255, 79, 121); line-height: 1.6; box-sizing: border-box !important; word-wrap: break-word !important;">
+          <br/>
+         </strong>
+        </span>
+       </p>
+       <p style="text-align: center; line-height: 1.5em;">
+        <span style="color: rgb(121, 123, 170);">
+         <strong style="max-width: 100%; font-size: 18px; background-color: rgb(255, 255, 255); color: rgb(255, 79, 121); line-height: 1.6; box-sizing: border-box !important; word-wrap: break-word !important;">
+         </strong>
+        </span>
+       </p>
+       <p style="line-height: 1.5em; text-align: center;">
+        <img data-ratio="2.07109375" data-s="300,640" data-type="jpeg" data-w="1280" src="http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlH0eiagQIQOv0PCXJr33RGicicR2WxfyfwDAjgBbSAgcgVtk2fQWODQDg0PiaKLRMiaKRyp1BHsOXDMXkQ/0?wx_fmt=jpeg"/>
+       </p>
+      </section>
+     </section>
+    </section>
+   </section>
+   <p style="font-size: 16px;">
+    <br/>
+   </p>
+   <section data-role="outer" label="Powered by 135editor.com" style="font-size: 16px; font-family: 微软雅黑;">
+    <section class="_135editor" data-id="89437" data-tools="135编辑器" style="border-width: 0px; border-style: none; border-color: initial; box-sizing: border-box;">
+     <section style="padding: 10px; box-sizing: border-box;">
+      <section data-width="100%" style="width:100%;">
+       <section style="float:left; width:50px; height:38px;transform: rotate(90deg);-webkit-transform: rotate(90deg);-moz-transform: rotate(90deg);-ms-transform: rotate(90deg);-o-transform: rotate(90deg);">
+        <img data-ratio="0.75" data-w="160" src="http://mmbiz.qpic.cn/mmbiz_gif/fgnkxfGnnkTMNtGy7KWfCrdJibAYY6HtIGhhtVOFQXzkE5GcmZIhTLgxggMlCe3oMwqKNesBDoU7kfgzFHuxyeA/0?" style="width:50px; vertical-align:middle;"/>
+       </section>
+       <section style="float: left;">
+        一指禅 戳戳戳!
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>

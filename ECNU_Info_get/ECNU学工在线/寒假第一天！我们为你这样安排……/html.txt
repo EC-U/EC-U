@@ -1,0 +1,978 @@
+
+ <section style="font-size: 14px;padding-right: 10px;padding-left: 10px;line-height: 1.8;letter-spacing: 0.8px;box-sizing: border-box;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(212, 236, 220);padding-top: 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px 15px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="color: rgb(79, 118, 120);box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            寒假第一天！你正在路上，或是回到家中，或是留在学校呢？
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            今天，我们呈上学生工作部的寒假安排，并给出寒假的生活小贴士。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: -5px 0% -3px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+        <svg class="svg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;" viewbox="0 0 630.7 35" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+         <g style="box-sizing: border-box;">
+          <g style="box-sizing: border-box;">
+           <path d="M10.9,19.9c6,0,10.9,6.7,10.9,15H0C0,26.7,4.9,19.9,10.9,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M32.6,19.9c6,0,10.9,6.7,10.9,15H21.7C21.7,26.7,26.6,19.9,32.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M54.4,19.9c6,0,10.9,6.7,10.9,15H43.5C43.5,26.7,48.4,19.9,54.4,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M76.1,19.9c6,0,10.9,6.7,10.9,15H65.2C65.2,26.7,70.1,19.9,76.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M97.8,19.9c6,0,10.9,6.7,10.9,15H87C87,26.7,91.8,19.9,97.8,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M119.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C108.7,26.7,113.6,19.9,119.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M141.3,19.9c6,0,10.9,6.7,10.9,15h-21.7C130.4,26.7,135.3,19.9,141.3,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M163.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C152.2,26.7,157.1,19.9,163.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M184.9,20c6,0,10.9,6.7,10.9,15H174C174,26.7,178.9,20,184.9,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M206.6,20c6,0,10.9,6.7,10.9,15h-21.7C195.7,26.7,200.6,20,206.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M228.4,20c6,0,10.9,6.7,10.9,15h-21.7C217.5,26.7,222.4,20,228.4,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M250.1,20c6,0,10.9,6.7,10.9,15h-21.7C239.2,26.7,244.1,20,250.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M271.8,20c6,0,10.9,6.7,10.9,15H261C261,26.7,265.8,20,271.8,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M293.6,20c6,0,10.9,6.7,10.9,15h-21.7C282.7,26.7,287.6,20,293.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M315.3,20c6,0,10.9,6.7,10.9,15h-21.7C304.4,26.7,309.3,20,315.3,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M337.1,20c6,0,10.9,6.7,10.9,15h-21.7C326.2,26.7,331.1,20,337.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M358.9,19.9c6,0,10.9,6.7,10.9,15H348C348,26.7,352.9,19.9,358.9,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M380.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C369.7,26.7,374.6,19.9,380.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M402.4,19.9c6,0,10.9,6.7,10.9,15h-21.7C391.5,26.7,396.4,19.9,402.4,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M424.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C413.2,26.7,418.1,19.9,424.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M445.8,19.9c6,0,10.9,6.7,10.9,15H435C435,26.7,439.8,19.9,445.8,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M467.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C456.7,26.7,461.6,19.9,467.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M489.3,19.9c6,0,10.9,6.7,10.9,15h-21.7C478.4,26.7,483.3,19.9,489.3,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M511.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C500.2,26.7,505.1,19.9,511.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M532.9,20c6,0,10.9,6.7,10.9,15H522C522,26.7,526.9,20,532.9,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M554.6,20c6,0,10.9,6.7,10.9,15h-21.7C543.7,26.7,548.6,20,554.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M576.4,20c6,0,10.9,6.7,10.9,15h-21.7C565.5,26.7,570.4,20,576.4,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M598.1,20c6,0,10.9,6.7,10.9,15h-21.7C587.2,26.7,592.1,20,598.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M619.8,20c6,0,10.9,6.7,10.9,15H609C609,26.7,613.8,20,619.8,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+          </g>
+         </g>
+        </svg>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 20px 0% 50px;box-sizing: border-box;">
+    <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;background-color: rgb(224, 242, 241);border-width: 0px;border-radius: 10px;border-style: none;border-color: rgb(62, 62, 62);box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="transform: rotateZ(5deg);-webkit-transform: rotateZ(5deg);-moz-transform: rotateZ(5deg);-o-transform: rotateZ(5deg);box-sizing: border-box;">
+      <section style="text-align: right;margin-top: -20px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 80px;height: 30px;vertical-align: top;overflow: hidden;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 100%;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.31" data-type="png" data-w="300" src="https://mmbiz.qpic.cn/mmbiz_png/LGPuMo1nF8cgeWFy9zG07xtKkwab5nsWbkJ4FGhq18o1VyzVHZPWZBMbZVj9uYLPp0myOfuibJz6ByX2NEAVG7Q/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 16px;color: rgb(0, 105, 92);padding-right: 10px;padding-left: 10px;line-height: 1.8;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          学生工作部
+         </strong>
+        </p>
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          寒假安排
+         </strong>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="transform: rotateZ(3deg);-webkit-transform: rotateZ(3deg);-moz-transform: rotateZ(3deg);-o-transform: rotateZ(3deg);box-sizing: border-box;">
+      <section style="text-align: left;margin-right: 0%;margin-bottom: -15px;margin-left: 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 80px;height: 25px;vertical-align: top;overflow: hidden;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="text-align: right;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 100%;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.31" data-type="png" data-w="300" src="https://mmbiz.qpic.cn/mmbiz_png/LGPuMo1nF8cgeWFy9zG07xtKkwab5nsWIcLqhh3zkRFjdeGenGibRtZJQUQ1rLkhWIHppgye4JayanQ2MIyAS4g/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 40px 0% 10px;box-sizing: border-box;">
+    <section style="height: 1.4em;border-left: 1px solid rgb(158, 158, 158);margin-bottom: -0.9em;margin-left: 0.5em;box-sizing: border-box;">
+    </section>
+    <section style="width: 2.5em;border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+    </section>
+    <section style="padding-right: 0.5em;padding-left: 0.5em;box-sizing: border-box;">
+     <section style="padding: 10px;box-sizing: border-box;">
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         <p style="white-space: normal;box-sizing: border-box;">
+          寒假期间，学生工作部在工作日安排了专人值班，如有工作事宜，可及时联系我们。
+         </p>
+         <p style="white-space: normal;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+         <p style="white-space: normal;box-sizing: border-box;">
+          寒假期间学生工作部值班信息：
+         </p>
+         <p style="white-space: normal;box-sizing: border-box;">
+          【闵行校区】行政楼210-212室，电话：54344862,54345495
+         </p>
+         <p style="white-space: normal;box-sizing: border-box;">
+          【中北校区】大学生活动中心5楼510-511，电话：62231159,62231211
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="width: 2.5em;margin-left: auto;box-sizing: border-box;">
+     <section style="width: 2.5em;border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+     </section>
+     <section style="height: 1.4em;border-left: 1px solid rgb(158, 158, 158);margin-top: -0.9em;margin-left: 2em;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;font-size: 11px;transform: translate3d(5px, 0px, 0px);-webkit-transform: translate3d(5px, 0px, 0px);-moz-transform: translate3d(5px, 0px, 0px);-o-transform: translate3d(5px, 0px, 0px);box-sizing: border-box;">
+    <section style="width: 2.6em;display: inline-block;vertical-align: middle;box-sizing: border-box;">
+     <section style="width: 2.6em;height: 2.6em;display: inline-block;vertical-align: middle;line-height: 2.6em;text-align: center;border-radius: 50%;background-color: rgb(135, 222, 214);box-sizing: border-box;">
+      <section style="width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 50%;margin-top: 0.36em;margin-bottom: 0.35em;margin-left: 0.44em;background-color: rgba(255, 255, 255, 0.86);box-sizing: border-box;">
+       <section style="width: 100%;height: 100%;color: rgb(110, 110, 110);box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section style="margin: -0.5em auto 0.3em;width: 0px;border-top: 1.1em solid rgb(135, 222, 214);border-left: 1em solid transparent !important;border-right: 1.12em solid transparent !important;box-sizing: border-box;">
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: middle;margin-bottom: -0.5em;margin-left: -1.5em;padding-right: 10px;border-bottom: 1px dashed rgb(135, 222, 214);box-sizing: border-box;">
+     <section style="display: inline-block;margin-left: 1.3em;padding-left: 5px;line-height: 1.5;font-size: 15px;color: rgb(110, 110, 110);text-align: center;box-sizing: border-box;">
+      <p style="box-sizing: border-box;">
+       学生档案室寒假安排
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 5px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 95%;vertical-align: top;box-shadow: rgb(185, 185, 185) 1.41421px 1.41421px 6px;padding: 10px 10px 15px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 8px 0% 18px;box-sizing: border-box;">
+       <section style="border-top: 1px dashed rgb(185, 185, 185);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: left;transform: translate3d(-10px, 0px, 0px);-webkit-transform: translate3d(-10px, 0px, 0px);-moz-transform: translate3d(-10px, 0px, 0px);-o-transform: translate3d(-10px, 0px, 0px);box-sizing: border-box;">
+       <section style="text-align: justify;color: rgb(63, 63, 63);box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         中北校区：1月21-22日（星期一至星期二）、2月14-15日（星期四至星期五）
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         闵行校区：1月21-24日（星期一至星期四）
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         对外服务时间:上午8:30－11:00，下午13:30－16:30。
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         值班地点：
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         闵行校区行政楼210室，电话：54344862
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         中北校区地理馆102室，电话：62232348
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;font-size: 11px;transform: translate3d(5px, 0px, 0px);-webkit-transform: translate3d(5px, 0px, 0px);-moz-transform: translate3d(5px, 0px, 0px);-o-transform: translate3d(5px, 0px, 0px);box-sizing: border-box;">
+    <section style="width: 2.6em;display: inline-block;vertical-align: middle;box-sizing: border-box;">
+     <section style="width: 2.6em;height: 2.6em;display: inline-block;vertical-align: middle;line-height: 2.6em;text-align: center;border-radius: 50%;background-color: rgb(135, 222, 214);box-sizing: border-box;">
+      <section style="width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 50%;margin-top: 0.36em;margin-bottom: 0.35em;margin-left: 0.44em;background-color: rgba(255, 255, 255, 0.86);box-sizing: border-box;">
+       <section style="width: 100%;height: 100%;color: rgb(110, 110, 110);box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section style="margin: -0.5em auto 0.3em;width: 0px;border-top: 1.1em solid rgb(135, 222, 214);border-left: 1em solid transparent !important;border-right: 1.12em solid transparent !important;box-sizing: border-box;">
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: middle;margin-bottom: -0.5em;margin-left: -1.5em;padding-right: 10px;border-bottom: 1px dashed rgb(135, 222, 214);box-sizing: border-box;">
+     <section style="display: inline-block;margin-left: 1.3em;padding-left: 5px;line-height: 1.5;font-size: 15px;color: rgb(110, 110, 110);box-sizing: border-box;">
+      <p style="box-sizing: border-box;">
+       寒假留校活动
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 5px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 95%;vertical-align: top;box-shadow: rgb(185, 185, 185) 1.41421px 1.41421px 6px;padding: 10px 10px 15px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: -30px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section class="group-empty" style="display: inline-block;vertical-align: top;width: 50%;box-sizing: border-box;height: 1px;">
+       </section>
+       <section class="group-empty" style="display: inline-block;vertical-align: top;width: 50%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;height: 1px;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 8px 0% 18px;box-sizing: border-box;">
+       <section style="border-top: 1px dashed rgb(185, 185, 185);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: left;transform: translate3d(-10px, 0px, 0px);-webkit-transform: translate3d(-10px, 0px, 0px);-moz-transform: translate3d(-10px, 0px, 0px);-o-transform: translate3d(-10px, 0px, 0px);box-sizing: border-box;">
+       <section style="text-align: justify;color: rgb(63, 63, 63);box-sizing: border-box;">
+        <ul class="list-paddingleft-2" style="">
+         <li>
+          <p style="text-align: left;box-sizing: border-box;">
+           <span style="letter-spacing: 0.8px;box-sizing: border-box;">
+            1月23日9:30，闵行校区办公楼207室，留校学生联络员座谈会
+           </span>
+          </p>
+         </li>
+         <li>
+          <p style="box-sizing: border-box;">
+           <span style="letter-spacing: 0.8px;box-sizing: border-box;">
+            1月23日13:30，
+           </span>
+           <span style="letter-spacing: 0.8px;box-sizing: border-box;">
+            闵行校区办公楼207室
+           </span>
+           <span style="letter-spacing: 0.8px;box-sizing: border-box;">
+            留校民族学生座谈会
+           </span>
+          </p>
+         </li>
+         <li>
+          <p style="box-sizing: border-box;">
+           1月25日、2月1日、2月8日、2月15日，13:00-16:00，闵行校区学生之家C区一楼健身房（近爱心屋）及中北校区大学生活动中心二楼羽毛球、乒乓球馆，健身房、羽毛球、乒乓球场地免费开放，组织趣味运动等
+          </p>
+         </li>
+         <li>
+          <p style="box-sizing: border-box;">
+           1月30日
+           <span style="letter-spacing: 0.8px;box-sizing: border-box;">
+            16:00-19：00，闵行校区夏雨厅（华闵）一楼餐厅，寒假留校师生迎新年同乐会
+           </span>
+          </p>
+         </li>
+         <li>
+          <p style="box-sizing: border-box;">
+           <span style="letter-spacing: 0.8px;box-sizing: border-box;">
+            2月4日（除夕）16:30-18:30，中北：河东食堂一楼、丽娃食堂二楼伊源餐厅，闵行：春华阁一楼、冬月厅一楼、冬月厅二楼清真餐厅，
+           </span>
+           <span style="letter-spacing: 0.8px;box-sizing: border-box;">
+            留校学生
+           </span>
+           <span style="letter-spacing: 0.8px;box-sizing: border-box;">
+            年夜饭
+           </span>
+          </p>
+         </li>
+         <li>
+          <p style="box-sizing: border-box;">
+           <span style="letter-spacing: 0.8px;box-sizing: border-box;">
+            各书院、学部、院系还将组织留校学生活动
+           </span>
+          </p>
+         </li>
+        </ul>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br/>
+     </p>
+     <p style="box-sizing: border-box;">
+      详情请点击链接：
+      <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzI5NzMzNTE5Nw==&amp;mid=2247488508&amp;idx=1&amp;sn=e2bcc4dadd7d87a3440b4bdc73a777a8&amp;chksm=ecb7f30edbc07a1829de3bff6826214594a06473f53afcf80f71fcc5cdd9ce1358498f9a5afb&amp;scene=21#wechat_redirect" target="_blank">
+       寒假留校？ECNUers的寒假留校活动安排出炉啦！
+      </a>
+     </p>
+     <p style="box-sizing: border-box;">
+      其他安排请点击：
+      <a data-linktype="2" href="https://mp.weixin.qq.com/s?__biz=MjM5MzY4NTMwMQ==&amp;mid=2651053034&amp;idx=1&amp;sn=01237a8177b1f06488d83f57bae1de60&amp;scene=21#wechat_redirect" target="_blank">
+       啥是佩琦？华东师大乐活寒假服务信息要配齐
+      </a>
+     </p>
+     <p style="box-sizing: border-box;">
+      <br/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <section style="font-size: 14px;padding-right: 10px;padding-left: 10px;line-height: 1.8;letter-spacing: 0.8px;box-sizing: border-box;">
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         <p style="box-sizing: border-box;">
+          <br/>
+         </p>
+        </section>
+       </section>
+      </section>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="display: inline-block;vertical-align: top;width: 45%;box-sizing: border-box;">
+         <section powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="margin: 22px 0% 8px;box-sizing: border-box;">
+           <section style="border-top: 1px dashed rgb(185, 167, 121);box-sizing: border-box;">
+           </section>
+          </section>
+         </section>
+        </section>
+        <section style="display: inline-block;vertical-align: top;width: 10%;box-sizing: border-box;">
+         <section powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+           <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 60%;box-sizing: border-box;">
+            <img class="raw-image" data-ratio="1.5443038" data-type="png" data-w="237" src="https://mmbiz.qpic.cn/mmbiz_png/LGPuMo1nF8cgeWFy9zG07xtKkwab5nsWdxbecd7ps6WZmDX3CkWZsaO0QCh2XMSS8jiadWkgia1tSF6Q91DGhib2A/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section style="display: inline-block;vertical-align: top;width: 45%;box-sizing: border-box;">
+         <section powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="margin: 22px 0% 8px;box-sizing: border-box;">
+           <section style="border-top: 1px dashed rgb(185, 167, 121);box-sizing: border-box;">
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         <p style="box-sizing: border-box;">
+          <br/>
+         </p>
+        </section>
+       </section>
+      </section>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="text-align: center;margin: 20px 0% 40px;box-sizing: border-box;">
+        <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;background-color: rgb(224, 242, 241);border-width: 0px;border-radius: 10px;border-style: none;border-color: rgb(62, 62, 62);box-sizing: border-box;">
+         <section powered-by="xiumi.us" style="transform: rotateZ(5deg);-webkit-transform: rotateZ(5deg);-moz-transform: rotateZ(5deg);-o-transform: rotateZ(5deg);box-sizing: border-box;">
+          <section style="text-align: right;margin-top: -20px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+           <section style="display: inline-block;width: 80px;height: 30px;vertical-align: top;overflow: hidden;box-sizing: border-box;">
+            <section powered-by="xiumi.us" style="box-sizing: border-box;">
+             <section style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;box-sizing: border-box;">
+              <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 100%;box-sizing: border-box;">
+               <img class="raw-image" data-ratio="0.31" data-type="png" data-w="300" src="https://mmbiz.qpic.cn/mmbiz_png/LGPuMo1nF8cgeWFy9zG07xtKkwab5nsWbkJ4FGhq18o1VyzVHZPWZBMbZVj9uYLPp0myOfuibJz6ByX2NEAVG7Q/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+         <section powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <section style="font-size: 16px;color: rgb(0, 105, 92);padding-right: 10px;padding-left: 10px;line-height: 1.8;box-sizing: border-box;">
+            <p style="box-sizing: border-box;">
+             假期安全
+            </p>
+           </section>
+          </section>
+         </section>
+         <section powered-by="xiumi.us" style="transform: rotateZ(3deg);-webkit-transform: rotateZ(3deg);-moz-transform: rotateZ(3deg);-o-transform: rotateZ(3deg);box-sizing: border-box;">
+          <section style="text-align: left;margin-right: 0%;margin-bottom: -15px;margin-left: 0%;box-sizing: border-box;">
+           <section style="display: inline-block;width: 80px;height: 25px;vertical-align: top;overflow: hidden;box-sizing: border-box;">
+            <section powered-by="xiumi.us" style="box-sizing: border-box;">
+             <section style="text-align: right;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+              <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 100%;box-sizing: border-box;">
+               <img class="raw-image" data-ratio="0.31" data-type="png" data-w="300" src="https://mmbiz.qpic.cn/mmbiz_png/LGPuMo1nF8cgeWFy9zG07xtKkwab5nsWIcLqhh3zkRFjdeGenGibRtZJQUQ1rLkhWIHppgye4JayanQ2MIyAS4g/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="margin: 40px 0% 10px;box-sizing: border-box;">
+        <section style="height: 1.4em;border-left: 1px solid rgb(158, 158, 158);margin-bottom: -0.9em;margin-left: 0.5em;box-sizing: border-box;">
+        </section>
+        <section style="width: 2.5em;border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+        </section>
+        <section style="padding-right: 0.5em;padding-left: 0.5em;box-sizing: border-box;">
+         <section style="padding: 10px;box-sizing: border-box;">
+          <section powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <p style="white-space: normal;box-sizing: border-box;">
+              不论大家寒假安排如何，都要时刻牢记“安全第一”，好好度过寒假和春节。为此，我们准备了一些安全小贴士——
+             </p>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section style="width: 2.5em;margin-left: auto;box-sizing: border-box;">
+         <section style="width: 2.5em;border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+         </section>
+         <section style="height: 1.4em;border-left: 1px solid rgb(158, 158, 158);margin-top: -0.9em;margin-left: 2em;box-sizing: border-box;">
+         </section>
+        </section>
+       </section>
+      </section>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         <p style="box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="margin: 10px 0%;font-size: 11px;transform: translate3d(5px, 0px, 0px);-webkit-transform: translate3d(5px, 0px, 0px);-moz-transform: translate3d(5px, 0px, 0px);-o-transform: translate3d(5px, 0px, 0px);box-sizing: border-box;">
+        <section style="width: 2.6em;display: inline-block;vertical-align: middle;box-sizing: border-box;">
+         <section style="width: 2.6em;height: 2.6em;display: inline-block;vertical-align: middle;line-height: 2.6em;text-align: center;border-radius: 50%;background-color: rgb(135, 222, 214);box-sizing: border-box;">
+          <section style="width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 50%;margin-top: 0.36em;margin-bottom: 0.35em;margin-left: 0.44em;background-color: rgba(255, 255, 255, 0.86);box-sizing: border-box;">
+           <section style="width: 100%;height: 100%;color: rgb(110, 110, 110);box-sizing: border-box;">
+            <p style="box-sizing: border-box;">
+             <br style="box-sizing: border-box;"/>
+            </p>
+           </section>
+          </section>
+         </section>
+         <section style="margin: -0.5em auto 0.3em;width: 0px;border-top: 1.1em solid rgb(135, 222, 214);border-left: 1em solid transparent !important;border-right: 1.12em solid transparent !important;box-sizing: border-box;">
+         </section>
+        </section>
+        <section style="display: inline-block;vertical-align: middle;margin-bottom: -0.5em;margin-left: -1.5em;padding-right: 10px;border-bottom: 1px dashed rgb(135, 222, 214);box-sizing: border-box;">
+         <section style="display: inline-block;margin-left: 1.3em;padding-left: 5px;line-height: 1.5;font-size: 15px;color: rgb(110, 110, 110);box-sizing: border-box;">
+          <p style="box-sizing: border-box;">
+           出行篇
+          </p>
+         </section>
+        </section>
+       </section>
+      </section>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="text-align: center;margin: 5px 0% 10px;box-sizing: border-box;">
+        <section style="display: inline-block;width: 95%;vertical-align: top;box-shadow: rgb(185, 185, 185) 1.41421px 1.41421px 6px;padding: 10px 10px 15px;box-sizing: border-box;">
+         <section powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="margin: 8px 0% 18px;box-sizing: border-box;">
+           <section style="border-top: 1px dashed rgb(185, 185, 185);box-sizing: border-box;">
+           </section>
+          </section>
+         </section>
+         <section powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="text-align: left;transform: translate3d(-10px, 0px, 0px);-webkit-transform: translate3d(-10px, 0px, 0px);-moz-transform: translate3d(-10px, 0px, 0px);-o-transform: translate3d(-10px, 0px, 0px);box-sizing: border-box;">
+           <section style="text-align: justify;color: rgb(63, 63, 63);box-sizing: border-box;">
+            <p style="white-space: normal;box-sizing: border-box;">
+             1、外出时注意交通安全，遵守交通规则
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             2、注意检查身份证件、护照等重要证件，避免丢失
+             <br style="box-sizing: border-box;"/>
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             3、尽量不要单独出门或者夜间出门
+             <br style="box-sizing: border-box;"/>
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             4、尽量不要独自前往人烟稀少的地方或者靠近可疑的车辆
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             5、尽量远离可疑或者醉酒人士
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             6、打车时，将车牌号发给常用联系人，可以发送即时定位
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             7、
+             <span style="letter-spacing: 0.8px;">
+              遇到危险要有把握地施救，不要逞强自救，更不可对别人盲目施救
+             </span>
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         <p style="box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         <p style="box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="margin: 10px 0%;font-size: 11px;transform: translate3d(5px, 0px, 0px);-webkit-transform: translate3d(5px, 0px, 0px);-moz-transform: translate3d(5px, 0px, 0px);-o-transform: translate3d(5px, 0px, 0px);box-sizing: border-box;">
+        <section style="width: 2.6em;display: inline-block;vertical-align: middle;box-sizing: border-box;">
+         <section style="width: 2.6em;height: 2.6em;display: inline-block;vertical-align: middle;line-height: 2.6em;text-align: center;border-radius: 50%;background-color: rgb(135, 222, 214);box-sizing: border-box;">
+          <section style="width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 50%;margin-top: 0.36em;margin-bottom: 0.35em;margin-left: 0.44em;background-color: rgba(255, 255, 255, 0.86);box-sizing: border-box;">
+           <section style="width: 100%;height: 100%;color: rgb(110, 110, 110);box-sizing: border-box;">
+            <p style="box-sizing: border-box;">
+             <br style="box-sizing: border-box;"/>
+            </p>
+           </section>
+          </section>
+         </section>
+         <section style="margin: -0.5em auto 0.3em;width: 0px;border-top: 1.1em solid rgb(135, 222, 214);border-left: 1em solid transparent !important;border-right: 1.12em solid transparent !important;box-sizing: border-box;">
+         </section>
+        </section>
+        <section style="display: inline-block;vertical-align: middle;margin-bottom: -0.5em;margin-left: -1.5em;padding-right: 10px;border-bottom: 1px dashed rgb(135, 222, 214);box-sizing: border-box;">
+         <section style="display: inline-block;margin-left: 1.3em;padding-left: 5px;line-height: 1.5;font-size: 15px;color: rgb(110, 110, 110);box-sizing: border-box;">
+          <p style="box-sizing: border-box;">
+           居家篇
+          </p>
+         </section>
+        </section>
+       </section>
+      </section>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="text-align: center;margin: 5px 0% 10px;box-sizing: border-box;">
+        <section style="display: inline-block;width: 95%;vertical-align: top;box-shadow: rgb(185, 185, 185) 1.41421px 1.41421px 6px;padding: 10px 10px 15px;box-sizing: border-box;">
+         <section powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="margin: 8px 0% 18px;box-sizing: border-box;">
+           <section style="border-top: 1px dashed rgb(185, 185, 185);box-sizing: border-box;">
+           </section>
+          </section>
+         </section>
+         <section powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="text-align: left;transform: translate3d(-10px, 0px, 0px);-webkit-transform: translate3d(-10px, 0px, 0px);-moz-transform: translate3d(-10px, 0px, 0px);-o-transform: translate3d(-10px, 0px, 0px);box-sizing: border-box;">
+           <section style="text-align: justify;color: rgb(63, 63, 63);box-sizing: border-box;">
+            <p style="white-space: normal;box-sizing: border-box;">
+             1、注意人身安全，小心烟花爆竹，庆祝活动中避免接触易燃易爆物品
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             2、注意饮食卫生，预防传染性疾病
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             3、切忌暴饮暴食，不要过量饮酒
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             4、不搞迷信活动
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             5、不在江河、湖泊、海滩、水库等地溜冰，避免发生意外
+             <br style="box-sizing: border-box;"/>
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         <p style="box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         <p style="box-sizing: border-box;">
+          <br/>
+         </p>
+        </section>
+       </section>
+      </section>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="margin: 10px 0%;font-size: 11px;transform: translate3d(5px, 0px, 0px);-webkit-transform: translate3d(5px, 0px, 0px);-moz-transform: translate3d(5px, 0px, 0px);-o-transform: translate3d(5px, 0px, 0px);box-sizing: border-box;">
+        <section style="width: 2.6em;display: inline-block;vertical-align: middle;box-sizing: border-box;">
+         <section style="width: 2.6em;height: 2.6em;display: inline-block;vertical-align: middle;line-height: 2.6em;text-align: center;border-radius: 50%;background-color: rgb(135, 222, 214);box-sizing: border-box;">
+          <section style="width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 50%;margin-top: 0.36em;margin-bottom: 0.35em;margin-left: 0.44em;background-color: rgba(255, 255, 255, 0.86);box-sizing: border-box;">
+           <section style="width: 100%;height: 100%;color: rgb(110, 110, 110);box-sizing: border-box;">
+            <p style="box-sizing: border-box;">
+             <br style="box-sizing: border-box;"/>
+            </p>
+           </section>
+          </section>
+         </section>
+         <section style="margin: -0.5em auto 0.3em;width: 0px;border-top: 1.1em solid rgb(135, 222, 214);border-left: 1em solid transparent !important;border-right: 1.12em solid transparent !important;box-sizing: border-box;">
+         </section>
+        </section>
+        <section style="display: inline-block;vertical-align: middle;margin-bottom: -0.5em;margin-left: -1.5em;padding-right: 10px;border-bottom: 1px dashed rgb(135, 222, 214);box-sizing: border-box;">
+         <section style="display: inline-block;margin-left: 1.3em;padding-left: 5px;line-height: 1.5;font-size: 15px;color: rgb(110, 110, 110);box-sizing: border-box;">
+          <p style="box-sizing: border-box;">
+           网络篇
+          </p>
+         </section>
+        </section>
+       </section>
+      </section>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="text-align: center;margin: 5px 0% 10px;box-sizing: border-box;">
+        <section style="display: inline-block;width: 95%;vertical-align: top;box-shadow: rgb(185, 185, 185) 1.41421px 1.41421px 6px;padding: 10px 10px 15px;box-sizing: border-box;">
+         <section powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="margin: 8px 0% 18px;box-sizing: border-box;">
+           <section style="border-top: 1px dashed rgb(185, 185, 185);box-sizing: border-box;">
+           </section>
+          </section>
+         </section>
+         <section powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="text-align: left;transform: translate3d(-10px, 0px, 0px);-webkit-transform: translate3d(-10px, 0px, 0px);-moz-transform: translate3d(-10px, 0px, 0px);-o-transform: translate3d(-10px, 0px, 0px);box-sizing: border-box;">
+           <section style="text-align: justify;color: rgb(63, 63, 63);box-sizing: border-box;">
+            <p style="white-space: normal;box-sizing: border-box;">
+             1、不沉迷网络游戏，对不良网站、直播、群聊、贴吧不接触不参与
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             2、警惕各类电信诈骗和网络诈骗，不要轻易汇款，如遇问题及时报警
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             3、提高金融风险防范意识，不参与网络不良借贷
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             4、如遇转账需提前通过电话等方式核实确认
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             5、注意网络账号保护，提高账户安全等级
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         <p style="box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="margin: 10px 0%;font-size: 11px;transform: translate3d(5px, 0px, 0px);-webkit-transform: translate3d(5px, 0px, 0px);-moz-transform: translate3d(5px, 0px, 0px);-o-transform: translate3d(5px, 0px, 0px);box-sizing: border-box;">
+        <section style="width: 2.6em;display: inline-block;vertical-align: middle;box-sizing: border-box;">
+         <section style="width: 2.6em;height: 2.6em;display: inline-block;vertical-align: middle;line-height: 2.6em;text-align: center;border-radius: 50%;background-color: rgb(135, 222, 214);box-sizing: border-box;">
+          <section style="width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 50%;margin-top: 0.36em;margin-bottom: 0.35em;margin-left: 0.44em;background-color: rgba(255, 255, 255, 0.86);box-sizing: border-box;">
+           <section style="width: 100%;height: 100%;color: rgb(110, 110, 110);box-sizing: border-box;">
+            <p style="box-sizing: border-box;">
+             <br style="box-sizing: border-box;"/>
+            </p>
+           </section>
+          </section>
+         </section>
+         <section style="margin: -0.5em auto 0.3em;width: 0px;border-top: 1.1em solid rgb(135, 222, 214);border-left: 1em solid transparent !important;border-right: 1.12em solid transparent !important;box-sizing: border-box;">
+         </section>
+        </section>
+        <section style="display: inline-block;vertical-align: middle;margin-bottom: -0.5em;margin-left: -1.5em;padding-right: 10px;border-bottom: 1px dashed rgb(135, 222, 214);box-sizing: border-box;">
+         <section style="display: inline-block;margin-left: 1.3em;padding-left: 5px;line-height: 1.5;font-size: 15px;color: rgb(110, 110, 110);box-sizing: border-box;">
+          <p style="box-sizing: border-box;">
+           留校篇
+          </p>
+         </section>
+        </section>
+       </section>
+      </section>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="text-align: center;margin: 5px 0% 10px;box-sizing: border-box;">
+        <section style="display: inline-block;width: 95%;vertical-align: top;box-shadow: rgb(185, 185, 185) 1.41421px 1.41421px 6px;padding: 10px 10px 15px;box-sizing: border-box;">
+         <section powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="margin: 8px 0% 18px;box-sizing: border-box;">
+           <section style="border-top: 1px dashed rgb(185, 185, 185);box-sizing: border-box;">
+           </section>
+          </section>
+         </section>
+         <section powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="text-align: left;transform: translate3d(-10px, 0px, 0px);-webkit-transform: translate3d(-10px, 0px, 0px);-moz-transform: translate3d(-10px, 0px, 0px);-o-transform: translate3d(-10px, 0px, 0px);box-sizing: border-box;">
+           <section style="text-align: justify;color: rgb(63, 63, 63);box-sizing: border-box;">
+            <p style="white-space: normal;box-sizing: border-box;">
+             1、注意宿舍及实验室用电安全，离开房间时请关闭电源
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             2、出门前锁好门窗，收好贵重物品，注意防火防盗
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             3、离校时请将个人去向及时告知辅导员和亲友，保持通讯工具畅通
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+      <section powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         <p style="box-sizing: border-box;">
+          <br/>
+         </p>
+         <section powered-by="xiumi.us" style="font-size: 14px;letter-spacing: 0.8px;white-space: normal;box-sizing: border-box;">
+          <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;text-align: center;">
+           <section style="padding-top: 10px;display: inline-block;width: 535.789px;vertical-align: top;background-color: rgb(212, 236, 220);box-sizing: border-box;">
+            <section powered-by="xiumi.us" style="box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              <section style="padding: 10px 15px;display: inline-block;width: 535.789px;vertical-align: top;box-sizing: border-box;">
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="margin-top: 10px;box-sizing: border-box;">
+                 <section style="color: rgb(79, 118, 120);box-sizing: border-box;">
+                  <p style="box-sizing: border-box;">
+                   <strong>
+                    祝大家拥有一个美好的寒假！
+                   </strong>
+                  </p>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+            <section powered-by="xiumi.us" style="box-sizing: border-box;">
+             <section style="margin-top: -5px;margin-bottom: -3px;text-align: center;box-sizing: border-box;">
+              <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+               <svg class="svg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;" viewbox="0 0 630.7 35" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+                <g style="box-sizing: border-box;">
+                 <g style="box-sizing: border-box;">
+                  <path d="M10.9,19.9c6,0,10.9,6.7,10.9,15H0C0,26.7,4.9,19.9,10.9,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                  <path d="M32.6,19.9c6,0,10.9,6.7,10.9,15H21.7C21.7,26.7,26.6,19.9,32.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                  <path d="M54.4,19.9c6,0,10.9,6.7,10.9,15H43.5C43.5,26.7,48.4,19.9,54.4,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                  <path d="M76.1,19.9c6,0,10.9,6.7,10.9,15H65.2C65.2,26.7,70.1,19.9,76.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                  <path d="M97.8,19.9c6,0,10.9,6.7,10.9,15H87C87,26.7,91.8,19.9,97.8,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                  <path d="M119.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C108.7,26.7,113.6,19.9,119.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                  <path d="M141.3,19.9c6,0,10.9,6.7,10.9,15h-21.7C130.4,26.7,135.3,19.9,141.3,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                  <path d="M163.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C152.2,26.7,157.1,19.9,163.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                 </g>
+                 <g style="box-sizing: border-box;">
+                  <path d="M184.9,20c6,0,10.9,6.7,10.9,15H174C174,26.7,178.9,20,184.9,20z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                  <path d="M206.6,20c6,0,10.9,6.7,10.9,15h-21.7C195.7,26.7,200.6,20,206.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                  <path d="M228.4,20c6,0,10.9,6.7,10.9,15h-21.7C217.5,26.7,222.4,20,228.4,20z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                  <path d="M250.1,20c6,0,10.9,6.7,10.9,15h-21.7C239.2,26.7,244.1,20,250.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                  <path d="M271.8,20c6,0,10.9,6.7,10.9,15H261C261,26.7,265.8,20,271.8,20z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                  <path d="M293.6,20c6,0,10.9,6.7,10.9,15h-21.7C282.7,26.7,287.6,20,293.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                  <path d="M315.3,20c6,0,10.9,6.7,10.9,15h-21.7C304.4,26.7,309.3,20,315.3,20z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                  <path d="M337.1,20c6,0,10.9,6.7,10.9,15h-21.7C326.2,26.7,331.1,20,337.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                 </g>
+                 <g style="box-sizing: border-box;">
+                  <path d="M358.9,19.9c6,0,10.9,6.7,10.9,15H348C348,26.7,352.9,19.9,358.9,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                  <path d="M380.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C369.7,26.7,374.6,19.9,380.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                  <path d="M402.4,19.9c6,0,10.9,6.7,10.9,15h-21.7C391.5,26.7,396.4,19.9,402.4,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                  <path d="M424.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C413.2,26.7,418.1,19.9,424.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                  <path d="M445.8,19.9c6,0,10.9,6.7,10.9,15H435C435,26.7,439.8,19.9,445.8,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                  <path d="M467.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C456.7,26.7,461.6,19.9,467.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                  <path d="M489.3,19.9c6,0,10.9,6.7,10.9,15h-21.7C478.4,26.7,483.3,19.9,489.3,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                  <path d="M511.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C500.2,26.7,505.1,19.9,511.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                 </g>
+                 <g style="box-sizing: border-box;">
+                  <path d="M532.9,20c6,0,10.9,6.7,10.9,15H522C522,26.7,526.9,20,532.9,20z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                  <path d="M554.6,20c6,0,10.9,6.7,10.9,15h-21.7C543.7,26.7,548.6,20,554.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                  <path d="M576.4,20c6,0,10.9,6.7,10.9,15h-21.7C565.5,26.7,570.4,20,576.4,20z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                  <path d="M598.1,20c6,0,10.9,6.7,10.9,15h-21.7C587.2,26.7,592.1,20,598.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                  <path d="M619.8,20c6,0,10.9,6.7,10.9,15H609C609,26.7,613.8,20,619.8,20z" fill="#ffffff" style="box-sizing: border-box;">
+                  </path>
+                 </g>
+                </g>
+               </svg>
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+         <p style="box-sizing: border-box;">
+          <br/>
+         </p>
+         <hr style="border-style: solid;border-width: 1px 0 0;border-color: rgba(0,0,0,0.1);-webkit-transform-origin: 0 0;-webkit-transform: scale(1, 0.5);transform-origin: 0 0;transform: scale(1, 0.5);"/>
+         <p style="box-sizing: border-box;">
+          <span style="color: rgb(136, 136, 136);">
+           来源：学工党委、学工部，网络
+          </span>
+         </p>
+         <p style="text-align: center;">
+          <img class="" data-copyright="0" data-ratio="0.5" data-s="300,640" data-type="jpeg" data-w="1280" src="https://mmbiz.qpic.cn/mmbiz_jpg/LGPuMo1nF8fwkAaRQyMX2cjpMffLqEePH9q3UDdkNE8l7SKaO88VibBCV9sdRYEdwFSYGeTF2MRgLfVLu3M2NMA/640?wx_fmt=jpeg" style=""/>
+         </p>
+         <p style="box-sizing: border-box;text-align: center;">
+          <span style="color: rgb(136, 136, 136);">
+           投稿&amp;加入我们：ecnuxg_tg@126.com
+          </span>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>

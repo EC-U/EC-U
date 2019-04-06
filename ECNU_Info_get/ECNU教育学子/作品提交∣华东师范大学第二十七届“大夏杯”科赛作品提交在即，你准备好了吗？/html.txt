@@ -1,0 +1,485 @@
+
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 96%;vertical-align: top;box-shadow: rgb(239, 154, 154) 0px 0px 6px;border-width: 0px;border-style: none;border-color: rgb(62, 62, 62);border-radius: 8px;overflow: hidden;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 30%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.5" data-type="png" data-w="880" src="https://mmbiz.qpic.cn/mmbiz_png/hOFiaNE65nsCFib3naX0sLMgFo2nMgfuH3ZRTulTsjdZ9OuTricm853tMiaEJ67ibPiateEpSLMhjdqQiaJ52aPmJ81vw/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 39%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 100%;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.5" data-type="png" data-w="880" src="https://mmbiz.qpic.cn/mmbiz_png/hOFiaNE65nsCFib3naX0sLMgFo2nMgfuH3ZRTulTsjdZ9OuTricm853tMiaEJ67ibPiateEpSLMhjdqQiaJ52aPmJ81vw/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 30%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.5" data-type="png" data-w="880" src="https://mmbiz.qpic.cn/mmbiz_png/hOFiaNE65nsCFib3naX0sLMgFo2nMgfuH3ZRTulTsjdZ9OuTricm853tMiaEJ67ibPiateEpSLMhjdqQiaJ52aPmJ81vw/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px 15px 8px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 10px 0%;box-sizing: border-box;">
+          <section class="tn-yzk-fuid-text-61658-1548305745155" style="text-align: justify;font-size: 15px;box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            各位同学：
+           </p>
+           <p>
+            根据《关于举办华东师范大学第二十七届“大夏杯”大学生课外学术科技作品竞赛的通知》，本届“大夏杯”大学生课外学术科技作品竞赛已经进入作品提交、收集阶段。请各位参赛同学按期完成学术科技作品，并于2019年3月19日前，提交作品纸质版（包括申报书和作品完整稿件，一式两份）、电子版。
+           </p>
+           <p>
+            纸质版提交：文科大楼S209（工作日15:00-17:00）
+           </p>
+           <p>
+            电子版提交：jyxbllkc@163.com（邮件统一命名为：姓名-作品名称）
+           </p>
+           <p>
+           </p>
+           <p>
+            此外，本次大赛设特色报送通道，团委学生部门科研兴趣小组项目，可直接上交作品至组委会。
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <br/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section class="tn-yzk-fuid-text-48289-1548308565737" style="text-align: left;font-size: 14px;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: left;margin-top: -30px;margin-right: 0%;margin-left: 0%;transform: translate3d(5px, 0px, 0px);box-sizing: border-box;">
+       <section style="display: inline-block;width: 40px;height: 50px;vertical-align: top;overflow: hidden;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="text-align: center;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="1.4459459" data-type="png" data-w="296" src="https://mmbiz.qpic.cn/mmbiz_png/hOFiaNE65nsCFib3naX0sLMgFo2nMgfuH3bQ0pJZFT6VG2lNGuNsOEEX557mPZgguoqZPKLGXbkR2HsN4r2RpcxA/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+     <section style="display: inline-block;vertical-align: bottom;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);line-height: 0;width: 2.2em;margin-right: -1em;box-sizing: border-box;">
+      <img class="raw-image" data-ratio="1.6766667" data-type="gif" data-w="300" src="https://mmbiz.qpic.cn/mmbiz_gif/hOFiaNE65nsCFib3naX0sLMgFo2nMgfuH3p8QODp4alQNDpibkk0hItJRTR0c5cuRjBbRxoN2xIoXILwUh7YIQ0oA/640?wx_fmt=gif" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+     </section>
+     <section style="border-radius: 5px;display: inline-block;vertical-align: bottom;border-color: rgb(227, 73, 33);border-style: dashed;border-width: 1px;padding-left: 1em;padding-right: 8px;box-sizing: border-box;">
+      <p style="box-sizing: border-box;">
+       <span style="letter-spacing: 0px;box-sizing: border-box;">
+        参赛作品要求：
+       </span>
+       <br style="box-sizing: border-box;"/>
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 30px 0% 20px;padding-left: 5px;padding-right: 5px;box-sizing: border-box;">
+    <section style="transform: rotate(3deg);-webkit-transform: rotate(3deg);-moz-transform: rotate(3deg);-o-transform: rotate(3deg);box-sizing: border-box;">
+     <section style="border-width: 1px;border-style: solid;border-color: rgb(237, 193, 203);background-color: rgb(232, 177, 190);box-sizing: border-box;">
+      <section style="transform: rotate(-3deg);-webkit-transform: rotate(-3deg);-moz-transform: rotate(-3deg);-o-transform: rotate(-3deg);box-sizing: border-box;">
+       <section style="border-width: 1px;border-style: dashed;border-color: rgb(232, 177, 190);width: 100%;padding: 10px;background-color: rgb(255, 255, 255);box-shadow: rgb(166, 90, 108) 0px 0px 6px inset;border-radius: 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="text-align: right;margin-top: -36px;margin-right: 0%;margin-left: 0%;transform: translate3d(10px, 0px, 0px);box-sizing: border-box;">
+          <section style="display: inline-block;width: 30px;height: 60px;vertical-align: top;overflow: hidden;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 100%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="1.8894737" data-type="png" data-w="380" src="https://mmbiz.qpic.cn/mmbiz_png/hOFiaNE65nsCFib3naX0sLMgFo2nMgfuH3kibnElxOYxQH9Jn0Zs2GgyrEEtBwV0PIaVQv9vxmm3oObfv7joW9BwA/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 15px;color: rgb(117, 117, 117);line-height: 1.8;box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            “大夏杯”大学生课外学术科技作品竞赛是华东师范大学最高水平的学生课外学术科技作品竞赛。本次竞赛要求参赛者按（1）自然科学类学术论文；（2）哲学社会科学类调查报告和学术论文（3）科技发明制作（含实物）三大类作品申报参赛。其中，集体作品申报人数原则上不超过7人。作品评选过程中，按照项目参与作者的最高学历计算项目学历层次，作为评审参考。
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 25%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.6742424" data-type="png" data-w="396" src="https://mmbiz.qpic.cn/mmbiz_png/hOFiaNE65nsCFib3naX0sLMgFo2nMgfuH387k7ibEZN7BPDhBAu2CU1Qczg2AiaLyicGVavTTC6ia7rVKOt3gic5h6fpA/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+     <section style="border-radius: 5px;display: inline-block;vertical-align: bottom;border-color: rgb(234, 23, 23);border-style: dashed;border-width: 1px;padding-left: 8px;padding-right: 1em;box-sizing: border-box;">
+      <p style="box-sizing: border-box;">
+       竞赛程序及日程安排：
+      </p>
+     </section>
+     <section style="display: inline-block;vertical-align: bottom;line-height: 0;width: 2.2em;margin-left: -1em;box-sizing: border-box;">
+      <img class="raw-image" data-ratio="1.6766667" data-type="gif" data-w="300" src="https://mmbiz.qpic.cn/mmbiz_gif/hOFiaNE65nsCFib3naX0sLMgFo2nMgfuH3p8QODp4alQNDpibkk0hItJRTR0c5cuRjBbRxoN2xIoXILwUh7YIQ0oA/640?wx_fmt=gif" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 30px 0% 20px;padding-left: 5px;padding-right: 5px;box-sizing: border-box;">
+    <section style="transform: rotate(3deg);-webkit-transform: rotate(3deg);-moz-transform: rotate(3deg);-o-transform: rotate(3deg);box-sizing: border-box;">
+     <section style="border-width: 1px;border-style: solid;border-color: rgb(237, 193, 203);background-color: rgb(232, 177, 190);box-sizing: border-box;">
+      <section style="transform: rotate(-3deg);-webkit-transform: rotate(-3deg);-moz-transform: rotate(-3deg);-o-transform: rotate(-3deg);box-sizing: border-box;">
+       <section style="border-width: 1px;border-style: dashed;border-color: rgb(232, 177, 190);width: 100%;padding: 10px;background-color: rgb(255, 255, 255);box-shadow: rgb(166, 90, 108) 0px 0px 6px inset;border-radius: 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="text-align: right;margin-top: -36px;margin-right: 0%;margin-left: 0%;transform: translate3d(10px, 0px, 0px);box-sizing: border-box;">
+          <section style="display: inline-block;width: 30px;height: 60px;vertical-align: top;overflow: hidden;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 100%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="1.8894737" data-type="png" data-w="380" src="https://mmbiz.qpic.cn/mmbiz_png/hOFiaNE65nsCFib3naX0sLMgFo2nMgfuH3kibnElxOYxQH9Jn0Zs2GgyrEEtBwV0PIaVQv9vxmm3oObfv7joW9BwA/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 15px;color: rgb(117, 117, 117);line-height: 1.8;box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            1. 2018年12月，宣传、发动阶段
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            2. 2018年12月27日前，项目报送阶段
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            3. 2019年3月24日前，作品提交阶段
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            4. 2019年4-6月，评审阶段
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            5. 2019年7月初，表彰阶段：对获奖个人及团体进行表彰。
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 25%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.6742424" data-type="png" data-w="396" src="https://mmbiz.qpic.cn/mmbiz_png/hOFiaNE65nsCFib3naX0sLMgFo2nMgfuH387k7ibEZN7BPDhBAu2CU1Qczg2AiaLyicGVavTTC6ia7rVKOt3gic5h6fpA/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+     <section style="display: inline-block;vertical-align: bottom;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);line-height: 0;width: 2.2em;margin-right: -1em;box-sizing: border-box;">
+      <img class="raw-image" data-ratio="0.8708333" data-type="png" data-w="240" src="https://mmbiz.qpic.cn/mmbiz_png/hOFiaNE65nsCFib3naX0sLMgFo2nMgfuH3lEnLxkoEPJlFRv1Q76sVAcQEw3DgibwBdTR9o10L8InJhzc81z1uUiag/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+     </section>
+     <section style="border-radius: 5px;display: inline-block;vertical-align: bottom;border-color: rgb(218, 97, 219);border-style: dashed;border-width: 1px;padding-left: 1em;padding-right: 8px;box-sizing: border-box;">
+      <p style="box-sizing: border-box;">
+       <span style="letter-spacing: 0px;box-sizing: border-box;">
+        注意事项：
+       </span>
+       <br style="box-sizing: border-box;"/>
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style='display: inline-block;width: 100%;vertical-align: top;padding: 2px 3px;background-image: url("https://mmbiz.qpic.cn/mmbiz_gif/hOFiaNE65nsCFib3naX0sLMgFo2nMgfuH3zEyXO5dVX1986D7kwHuics1oD833FmyNFmN1PPjqPJ5368MKvGLuD6A/640?wx_fmt=gif");background-position: 0% 0%;background-repeat: repeat-y;background-size: 100.733%;background-attachment: scroll;line-height: 1.6;box-sizing: border-box;'>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 1px 0%;text-align: center;box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;border-width: 1px;border-style: solid;border-color: transparent;padding: 10px;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            1.上交作品不予返还，参赛者务必自己保留原稿；原则上不受理逾期上交的作品。
+           </p>
+           <p style="box-sizing: border-box;">
+            2.申报书及作品完整稿件格式请参照附件“第二十七届‘大夏杯’大学生课外学术科技作品竞赛项目申报材料填写及作品格式说明.doc。”
+           </p>
+           <p style="box-sizing: border-box;">
+            3.申报书等相关附件与项目报送阶段的附件不同，请注意区别，可在师大青年网上查阅下载。
+           </p>
+           <p style="box-sizing: border-box;">
+            4.项目负责人应与项目报送阶段负责人一致，如需变更，请填写《第二十七届“大夏杯”大学生课外学术科技作品竞赛项目负责人变更申请》。
+           </p>
+           <p style="box-sizing: border-box;">
+            5.学术论文、社会调查报告及所附的有关材料必须是中文（若是外文，请附中文本），学术论文及有关材料在8000字以内，社会调查报告在15000字以内。
+           </p>
+           <p style="box-sizing: border-box;">
+            6.光盘等实物类作品提交请注意准备文件袋或其他方法，以免损坏、丢失或混淆，发送邮件时请上传实物照片或视频。
+           </p>
+           <p style="box-sizing: border-box;">
+            7.参赛作品一律要求原创，一经发现抄袭，立即取消其参赛资格，同时追究责任。广大师生可对本次大赛进行监督，并直接向大赛组委会投诉。
+           </p>
+           <p style="box-sizing: border-box;">
+            8.相关信息请关注：
+           </p>
+           <p style="box-sizing: border-box;">
+            华东师范大学师大青年网网站：http://www.youth.ecnu.edu.cn/twkczx/
+           </p>
+           <p style="box-sizing: border-box;">
+            华东师范大学校团委科技创新部官方微信平台：科创iclub
+           </p>
+           <p style="box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style='display: inline-block;width: 100%;vertical-align: top;background-position: 300% 16.782%;background-repeat: repeat;background-size: 100.078%;background-attachment: scroll;line-height: 1.6;letter-spacing: 0px;padding: 10px;background-image: url("https://mmbiz.qpic.cn/mmbiz_gif/hOFiaNE65nsCFib3naX0sLMgFo2nMgfuH39Epuf7yHLSvvpDuL0IKkPtkLL562gm2unLChRz4jExQDxMPhQrYLHg/640?wx_fmt=gif");box-sizing: border-box;'>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: -20px 0% 10px;transform: translate3d(-1px, 0px, 0px);-webkit-transform: translate3d(-1px, 0px, 0px);-moz-transform: translate3d(-1px, 0px, 0px);-o-transform: translate3d(-1px, 0px, 0px);box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 45%;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.3638814" data-type="png" data-w="371" src="https://mmbiz.qpic.cn/mmbiz_png/hOFiaNE65nsCFib3naX0sLMgFo2nMgfuH32QH0QjCTjhwlZmOshVQ2BMqWUXfJWOlKNYZvzUOINz23rvPhArST3g/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="color: rgb(72, 72, 72);box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         <span style="letter-spacing: 0px;">
+          联系人：白老师
+         </span>
+         <br/>
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <span style="letter-spacing: 0px;">
+          联系电话
+         </span>
+         <span style="letter-spacing: 0px;">
+          ：62233302
+         </span>
+         <br/>
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <span style="letter-spacing: 0px;">
+          联系邮箱：xybai@pese.ecnu.edu.cn
+         </span>
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         相关附件包括：
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         1.第二十七届“大夏杯”大学生课外学术科技作品竞赛项目申报材料填写及作品格式说明.doc
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         2.第二十七届“大夏杯”大学生课外学术科技作品竞赛作品申报书.zip
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         3.第二十七届“大夏杯”大学生课外学术科技作品竞赛项目负责人变更申请.doc
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         4.第二十七届“大夏杯”大学生课外学术科技作品竞赛项目成员变更申请.doc
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+        </p>
+        <p style="text-align: right;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          教育学部学生联合会理论科创中心
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="font-size: 12px;text-align: right;color: rgb(188, 188, 188);box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      排版 | 胡舒婷（2018级教育学系本科生）
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 0.5em;box-sizing: border-box;">
+    <section style="height: 1px;background-color: rgb(249, 110, 87);box-sizing: border-box;">
+    </section>
+    <section style="margin-top: 0.3em;margin-bottom: 0.3em;height: 3px;background-color: rgb(249, 110, 87);box-sizing: border-box;">
+    </section>
+    <section style="border-width: 1px;border-style: solid;box-shadow: rgb(226, 226, 226) 0px 16px 1px -13px;border-color: rgb(249, 110, 87);padding: 0.5em;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="color: rgb(64, 84, 115);box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         请点击“阅读原文”链接获得附件
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="font-size: 32px;color: rgb(249, 110, 87);box-sizing: border-box;">
+     ↓↓↓
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

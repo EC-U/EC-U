@@ -1,0 +1,478 @@
+
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(123, 172, 163);border: 4px solid rgb(123, 172, 163);border-top-left-radius: 8px;border-bottom-right-radius: 8px;border-bottom-left-radius: 8px;border-top-right-radius: 8px;overflow: hidden;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;box-sizing: border-box;">
+        <section style="width: 8px;height: 8px;float: left;border-top-width: 1px;border-top-style: solid;border-top-color: rgb(175, 33, 33);border-left-width: 1px;border-left-style: solid;border-left-color: rgb(175, 33, 33);box-sizing: border-box;">
+        </section>
+        <section style="width: 8px;height: 8px;float: right;border-top-width: 1px;border-top-style: solid;border-top-color: rgb(175, 33, 33);border-right-width: 1px;border-right-style: solid;border-right-color: rgb(175, 33, 33);box-sizing: border-box;">
+        </section>
+        <section style="clear: both;box-sizing: border-box;">
+        </section>
+        <section style="margin: -5px 0px;padding: 0px 8px;line-height: 1.3;box-sizing: border-box;">
+         <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           “
+           <strong style="font-size: 16px;line-height: 20px;text-align: center;white-space: normal;background-color: rgb(123, 172, 163);box-sizing: border-box;">
+            阳明学与世界文明
+           </strong>
+           ”
+          </strong>
+         </p>
+         <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           华东师范大学哲学系
+          </strong>
+         </p>
+         <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           第二届“青年哲学研修营”
+          </strong>
+         </p>
+         <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           （2019）
+          </strong>
+         </p>
+        </section>
+        <section style="width: 8px;height: 8px;float: left;border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: rgb(175, 33, 33);border-left-width: 1px;border-left-style: solid;border-left-color: rgb(175, 33, 33);box-sizing: border-box;">
+        </section>
+        <section style="width: 8px;height: 8px;float: right;border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: rgb(175, 33, 33);border-right-width: 1px;border-right-style: solid;border-right-color: rgb(175, 33, 33);box-sizing: border-box;">
+        </section>
+        <section style="clear: both;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);padding: 10px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="font-size: 58px;text-align: center;margin: 10px 0% 0px;box-sizing: border-box;">
+          <section style='box-sizing: border-box;display: inline-block;vertical-align: bottom;margin: auto;width: 3em;height: 3em;border-top-left-radius: 100%;border-top-right-radius: 100%;border-bottom-right-radius: 100%;border-bottom-left-radius: 100%;background-size: cover;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/5XON9K7S2Ju5esyly1BaSpqOtzOUePCoAgJNNribWP8Jia3qibBhHwkIURkyCrAgdgk6b4ZEZeMoJxaZbSq46n9vA/640?wx_fmt=png?x-oss-process=style/xmwebp");overflow: hidden;background-position: 50% 50%;background-repeat: no-repeat no-repeat;'>
+           <section style="height: 100%;overflow: hidden;line-height: 0;vertical-align: middle;max-width: 100%;box-sizing: border-box;">
+            <img class="" data-ratio="0.6666666666666666" data-type="png" data-w="801" src="https://mmbiz.qpic.cn/mmbiz_png/5XON9K7S2Ju5esyly1BaSpqOtzOUePCoAgJNNribWP8Jia3qibBhHwkIURkyCrAgdgk6b4ZEZeMoJxaZbSq46n9vA/640?wx_fmt=png" style="width: 100%;height: 100%;opacity: 0;box-sizing: border-box;"/>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: justify;line-height: 2;box-sizing: border-box;">
+           <p style="text-indent: 2em;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            日往月来，大道运行。吾辈生而有幸，躬逢中国文化、世界文化及人类文化过渡之时代。文明生发，亟需哲学导夫先路。贞下起元，有赖青年承担重任。舍青年，无哲学之兴。舍哲学，无青年之兴。舍哲学，无从养成无问东西的胸怀，无从养成清楚的思想、省思的精神、容忍的态度、广阔的眼界和自由独立的人格。
+           </p>
+           <p style="text-indent: 2em;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            华东师范大学哲学系有感于此，以冯契学术成就陈列室学术基金为基础，发心举办
+            <strong>
+             第二届“青年哲学研修营”
+            </strong>
+            。本年度以
+            <strong>
+             “阳明学与世界文明”
+            </strong>
+            为主题，拟采取
+            <strong>
+             名家讲座、问答研讨、团体探究、专题学术会议、茶会联谊
+            </strong>
+            等多种组织形式。诚邀海内外青年俊彦来会，共同切磋，相互砥砺，振兴阳刚乾动之精神，研讨哲学前沿之问题，探索人类文明之新路向。
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0.5em 0px;text-align: center;box-sizing: border-box;">
+          <img class="" data-ratio="2.2419354838709675" data-type="png" data-w="62" src="https://mmbiz.qpic.cn/mmbiz_png/uvSPoicfnqwTsqoFaEwcOwPB3x6JqSYbB9t8LvRhfAfDJMSWcHYia816IYRicAHMjS0KgpgAApw37srTapPWbP78w/640?wx_fmt=png" style="display: inline-block;width: 2em;vertical-align: middle;box-sizing: border-box;"/>
+          <section style="display: inline-block;vertical-align: middle;color: rgb(117, 151, 136);font-size: 18px;line-height: 1.4em;max-width: 70% !important;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            第二届“青年哲学研修营”
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            相关信息
+           </p>
+          </section>
+          <img class="" data-ratio="2.2419354838709675" data-type="png" data-w="62" src="https://mmbiz.qpic.cn/mmbiz_png/uvSPoicfnqwTsqoFaEwcOwPB3x6JqSYbBQyIVWPuVnLnINgEBwRskm1MEp4z2qV7wCIw0P3ZJb4I0dxUrGzcjpw/640?wx_fmt=png" style="display: inline-block;width: 2em;vertical-align: middle;box-sizing: border-box;"/>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0% 10px;box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;border: 1px solid rgb(19, 124, 115);border-top-left-radius: 0px;border-bottom-right-radius: 0px;border-bottom-left-radius: 0px;border-top-right-radius: 0px;padding: 15px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="text-align: center;font-size: 14px;color: rgb(62, 62, 62);line-height: 2;box-sizing: border-box;">
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 16px;box-sizing: border-box;">
+                <strong style="letter-spacing: 0px;box-sizing: border-box;">
+                 <span style="color: rgb(19, 124, 115);box-sizing: border-box;">
+                  举办时间
+                 </span>
+                </strong>
+               </span>
+              </p>
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 16px;letter-spacing: 0px;box-sizing: border-box;">
+               </span>
+               <span style="font-size: 16px;box-sizing: border-box;">
+                2019年6月15-23日
+               </span>
+              </p>
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 16px;box-sizing: border-box;">
+                （15日报到，23日离会）
+               </span>
+               <span style="letter-spacing: 0px;font-size: 16px;box-sizing: border-box;">
+               </span>
+              </p>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="text-align: center;font-size: 14px;color: rgb(62, 62, 62);line-height: 2;box-sizing: border-box;">
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 16px;box-sizing: border-box;">
+                <strong style="letter-spacing: 0px;box-sizing: border-box;">
+                 <span style="color: rgb(19, 124, 115);box-sizing: border-box;">
+                  举办地点
+                 </span>
+                </strong>
+               </span>
+              </p>
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 16px;box-sizing: border-box;">
+                <span style="letter-spacing: 0px;box-sizing: border-box;">
+                 华东师范大学闵行校区
+                </span>
+               </span>
+              </p>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="text-align: center;font-size: 14px;color: rgb(62, 62, 62);line-height: 2;box-sizing: border-box;">
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 16px;box-sizing: border-box;">
+                <strong style="letter-spacing: 0px;box-sizing: border-box;">
+                 <span style="color: rgb(19, 124, 115);box-sizing: border-box;">
+                  名家讲座
+                 </span>
+                </strong>
+               </span>
+              </p>
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;text-align: left;">
+               <span style="font-size: 16px;box-sizing: border-box;">
+                <span style="letter-spacing: 0px;box-sizing: border-box;">
+                 杨国荣（华东师范大学）：阳明与中国哲学
+                </span>
+               </span>
+               <br style="box-sizing: border-box;"/>
+              </p>
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;text-align: left;">
+               <span style="font-size: 16px;box-sizing: border-box;">
+                <span style="letter-spacing: 0px;box-sizing: border-box;">
+                 吴震（复旦大学）：阳明与日本学
+                </span>
+               </span>
+              </p>
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;text-align: left;">
+               <span style="font-size: 16px;box-sizing: border-box;">
+                <span style="letter-spacing: 0px;box-sizing: border-box;">
+                 黄勇（香港中文大学）：阳明与分析伦理学
+                </span>
+               </span>
+              </p>
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;text-align: left;">
+               <span style="font-size: 16px;box-sizing: border-box;">
+                <span style="letter-spacing: 0px;box-sizing: border-box;">
+                 陈立胜（中山大学）：阳明与现象学
+                </span>
+               </span>
+              </p>
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;text-align: left;">
+               <span style="font-size: 16px;box-sizing: border-box;">
+                <span style="letter-spacing: 0px;box-sizing: border-box;">
+                 董平（浙江大学）：阳明与印度学
+                </span>
+               </span>
+              </p>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="text-align: justify;font-size: 14px;color: rgb(62, 62, 62);line-height: 2;box-sizing: border-box;">
+              <p style="text-align: center;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 16px;box-sizing: border-box;">
+                <strong style="letter-spacing: 0px;box-sizing: border-box;">
+                 <span style="color: rgb(19, 124, 115);box-sizing: border-box;">
+                  营员规模
+                 </span>
+                </strong>
+               </span>
+              </p>
+              <p style="text-align: center;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 16px;box-sizing: border-box;">
+                <span style="letter-spacing: 0px;box-sizing: border-box;">
+                 25人
+                </span>
+               </span>
+              </p>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="text-align: justify;font-size: 14px;color: rgb(62, 62, 62);line-height: 2;box-sizing: border-box;">
+              <p style="text-align: center;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 16px;box-sizing: border-box;">
+                <strong style="letter-spacing: 0px;box-sizing: border-box;">
+                 <span style="color: rgb(19, 124, 115);box-sizing: border-box;">
+                  经费支持
+                 </span>
+                </strong>
+               </span>
+              </p>
+              <p style="text-align: center;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 16px;box-sizing: border-box;">
+                <span style="letter-spacing: 0px;box-sizing: border-box;">
+                 主办方承担营员往返差旅（二等座火车票或经济舱机票）、研修期间食宿
+                </span>
+               </span>
+              </p>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="font-size: 14px;color: rgb(62, 62, 62);text-align: justify;line-height: 2;box-sizing: border-box;">
+              <p style="text-align: center;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 16px;box-sizing: border-box;">
+                <strong style="letter-spacing: 0px;box-sizing: border-box;">
+                 <span style="color: rgb(19, 124, 115);box-sizing: border-box;">
+                  报名条件
+                 </span>
+                </strong>
+               </span>
+              </p>
+              <p style="text-align: center;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 16px;box-sizing: border-box;">
+                <span style="letter-spacing: 0px;box-sizing: border-box;">
+                 在读博士生、副教授（含）以下青年教师，
+                </span>
+               </span>
+               <strong>
+                <span style="letter-spacing: 0px;font-size: 16px;font-family: sans-serif;line-height: 2;box-sizing: border-box;">
+                 有志于阳明学
+                </span>
+               </strong>
+              </p>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="text-align: justify;font-size: 14px;color: rgb(62, 62, 62);line-height: 2;box-sizing: border-box;">
+              <p style="text-align: center;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 16px;box-sizing: border-box;">
+                <strong style="letter-spacing: 0px;box-sizing: border-box;">
+                 <span style="color: rgb(19, 124, 115);box-sizing: border-box;">
+                  报名方法
+                 </span>
+                </strong>
+               </span>
+              </p>
+              <p style="text-align: center;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 16px;box-sizing: border-box;">
+                <span style="letter-spacing: 0px;box-sizing: border-box;">
+                 2019年5月1日前，将学术简历、代表性阳明学论著（论文1篇，或专著1部，PDF格式，中英文不限）寄往报名邮箱qingnianzhexue@126.com
+                </span>
+               </span>
+              </p>
+              <p style="text-align: center;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="font-size: 16px;box-sizing: border-box;">
+                <span style="letter-spacing: 0px;box-sizing: border-box;">
+                 联系人：陈霞老师
+                </span>
+               </span>
+              </p>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="text-align: justify;font-size: 14px;line-height: 2;box-sizing: border-box;">
+              <p style="text-indent: 0em;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="color: rgb(0, 0, 0);box-sizing: border-box;">
+                <strong style="letter-spacing: 0px;box-sizing: border-box;">
+                 营员录取名单于2019年5月8日在华东师大哲学系官网
+                </strong>
+               </span>
+               <strong style="letter-spacing: 0px;box-sizing: border-box;">
+                <span style="color: rgb(0, 0, 0);box-sizing: border-box;">
+                 （http://www.philo.ecnu.edu.cn）及微信公众号（ECNUphilosophy）公布。
+                </span>
+               </strong>
+              </p>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="0.31" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/5XON9K7S2Ju5esyly1BaSpqOtzOUePCoxg5W3a9K0X67VypFnev1yEB3XsPrjLVxWDWhgEtAa7ImKjficTVDkGw/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="text-align: center;box-sizing: border-box;">
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               <strong style="box-sizing: border-box;">
+                <span style="font-size: 14px;box-sizing: border-box;">
+                 冯契学术成就陈列室
+                </span>
+               </strong>
+              </p>
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               <strong style="box-sizing: border-box;">
+                <span style="font-size: 14px;box-sizing: border-box;">
+                 华东师范大学哲学系
+                </span>
+               </strong>
+              </p>
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               <strong style="box-sizing: border-box;">
+                <span style="font-size: 14px;box-sizing: border-box;">
+                 2019年2月26日
+                </span>
+               </strong>
+              </p>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="display: inline-block;vertical-align: bottom;width: 30%;box-sizing: border-box;">
+              <section powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+                <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+                 <img class="raw-image" data-ratio="0.6125356125356125" data-type="png" data-w="351" src="https://mmbiz.qpic.cn/mmbiz_png/5XON9K7S2Ju5esyly1BaSpqOtzOUePCoLU1nAONtc1icC8lcYXfPRRlmYeoS3MAcLKPBPI8fFl9OmrCoa0M6ZSQ/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+                </section>
+               </section>
+              </section>
+             </section>
+             <section style="display: inline-block;vertical-align: bottom;width: 40%;box-sizing: border-box;">
+              <section powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+                <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;width: 100%;box-sizing: border-box;">
+                 <img class="raw-image" data-ratio="1" data-type="jpeg" data-w="258" src="https://mmbiz.qpic.cn/mmbiz_jpg/5XON9K7S2Ju5esyly1BaSpqOtzOUePCoa3PT4PT1zl3mxnvtia8wQkPNkS1Bczq185tKyGl5BknDRSKbiaHjia2hQ/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;"/>
+                </section>
+               </section>
+              </section>
+             </section>
+             <section style="display: inline-block;vertical-align: bottom;width: 30%;box-sizing: border-box;">
+              <section powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+                <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+                 <img class="raw-image" data-ratio="0.6125356125356125" data-type="png" data-w="351" src="https://mmbiz.qpic.cn/mmbiz_png/5XON9K7S2Ju5esyly1BaSpqOtzOUePCoLU1nAONtc1icC8lcYXfPRRlmYeoS3MAcLKPBPI8fFl9OmrCoa0M6ZSQ/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              <p style="text-align: center;margin: 0px;padding: 0px;box-sizing: border-box;">
+               长按二维码，关注哲学系
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>

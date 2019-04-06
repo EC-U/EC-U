@@ -1,0 +1,481 @@
+
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 20px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;width: 19%;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;font-size: 21px;box-sizing: border-box;">
+       <section style="width: 3em;height: 3em;padding: 5px;display: inline-block;vertical-align: bottom;border-radius: 100%;background-color: rgb(255, 255, 255);box-shadow: rgb(160, 160, 160) 0px 0px 10px;box-sizing: border-box;">
+        <section style='width: 100%;height: 100%;border-radius: 100%;background-position: 66.2793% 17.0443%;background-repeat: no-repeat;background-size: 151.215%;overflow: hidden;background-image: url("https://mmbiz.qpic.cn/mmbiz_jpg/6Ug6fwiaa24Pkst3ribRMTqa9cj6zWV7udGv5Ww3G7zV8XHDcDNQfqqP9j7ESuibsuBGUmicU95PgxWSfC8c8JrU5w/640?wx_fmt=jpeg");box-sizing: border-box;'>
+         <section style="height: 100%;overflow: hidden;line-height: 0;vertical-align: middle;max-width: 100%;box-sizing: border-box;">
+          <img data-ratio="1.2021858" data-type="jpeg" data-w="915" src="https://mmbiz.qpic.cn/mmbiz_jpg/6Ug6fwiaa24Pkst3ribRMTqa9cj6zWV7udGv5Ww3G7zV8XHDcDNQfqqP9j7ESuibsuBGUmicU95PgxWSfC8c8JrU5w/640?wx_fmt=jpeg" style="width: 100%;height: 100%;opacity: 0;box-sizing: border-box;" width="100%"/>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: top;width: 24%;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 28px 0% 8px;box-sizing: border-box;">
+       <section style="width: 0px;display: inline-block;vertical-align: middle;border-right: 1em solid transparent;border-top: 0.5em solid transparent !important;border-bottom: 0.5em solid transparent !important;box-sizing: border-box;">
+       </section>
+       <section style="width: 100%;margin: 0px -1.1em 0px -0.9em;border-bottom: 2px dotted rgba(63, 63, 63, 0.4);display: inline-block;vertical-align: middle;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: top;width: 14%;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: 20px 0% 10px;font-size: 14px;box-sizing: border-box;">
+       <section style="width: 3em;height: 3em;padding: 5px;display: inline-block;vertical-align: bottom;border-radius: 100%;background-color: rgb(255, 255, 255);box-shadow: transparent 0px 0px 10px;box-sizing: border-box;">
+        <section style='width: 100%;height: 100%;border-radius: 100%;background-position: center center;background-repeat: no-repeat;background-size: cover;background-image: url("https://mmbiz.qpic.cn/mmbiz_gif/XJO28aic3l9pniaiahmLlTWOG1eST5nrcYYxlaWSibzLEPNm3k9rl84eUYBwj0tmlSW9dhVxnOlQVO2fZLRYIviazjg/640?wx_fmt=gif");overflow: hidden;box-sizing: border-box;'>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: top;width: 24%;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 28px 0% 8px;box-sizing: border-box;">
+       <section style="width: 0px;display: inline-block;vertical-align: middle;border-right: 1em solid transparent;border-top: 0.5em solid transparent !important;border-bottom: 0.5em solid transparent !important;box-sizing: border-box;">
+       </section>
+       <section style="width: 100%;margin: 0px -1.1em 0px -0.9em;border-bottom: 2px dotted rgba(63, 63, 63, 0.4);display: inline-block;vertical-align: middle;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: top;width: 19%;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;font-size: 21px;box-sizing: border-box;">
+       <section style="width: 3em;height: 3em;padding: 5px;display: inline-block;vertical-align: bottom;border-radius: 100%;background-color: rgb(255, 255, 255);box-shadow: rgb(160, 160, 160) 0px 0px 10px;box-sizing: border-box;">
+        <section style='width: 100%;height: 100%;border-radius: 100%;background-position: 40% 60%;background-repeat: no-repeat;background-size: 109.615%;overflow: hidden;background-image: url("https://mmbiz.qpic.cn/mmbiz_jpg/6Ug6fwiaa24Pkst3ribRMTqa9cj6zWV7uddDNKDM4UkVCg2GKphgF64yjURbaLOgYxtslicwoQBicdpnftO1WxlsvQ/640?wx_fmt=jpeg");box-sizing: border-box;'>
+         <section style="height: 100%;overflow: hidden;line-height: 0;vertical-align: middle;max-width: 100%;box-sizing: border-box;">
+          <img data-ratio="1" data-type="jpeg" data-w="550" src="https://mmbiz.qpic.cn/mmbiz_jpg/6Ug6fwiaa24Pkst3ribRMTqa9cj6zWV7uddDNKDM4UkVCg2GKphgF64yjURbaLOgYxtslicwoQBicdpnftO1WxlsvQ/640?wx_fmt=jpeg" style="width: 100%;height: 100%;opacity: 0;box-sizing: border-box;" width="100%"/>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 10px 0%;box-sizing: border-box;">
+    <section style='display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;padding: 0px 8px;background-position: 50% 50%;background-repeat: no-repeat;background-size: cover;background-attachment: scroll;border-width: 0px;border-radius: 3px;border-style: dashed;border-color: rgb(62, 62, 62);background-image: url("https://mmbiz.qpic.cn/mmbiz_gif/dL9ahVdJqIX4R4WrSLqhzhW1MviaHHEiclCHia341o68x4AzO6fULVSiaMra5JNgqnR4tnmAicLeLcGVIkXa7ceA98g/640?wx_fmt=gif");box-sizing: border-box;'>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 3px 0%;box-sizing: border-box;">
+       <section style="font-size: 15px;color: rgb(96, 125, 139);padding: 0px;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="background-color: rgba(255, 255, 255, 0.53);box-sizing: border-box;">
+          库客音乐正式开通使用啦
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="transform: translate3d(5px, 0px, 0px);-webkit-transform: translate3d(5px, 0px, 0px);-moz-transform: translate3d(5px, 0px, 0px);-o-transform: translate3d(5px, 0px, 0px);text-align: center;margin: 30px 0% 10px;box-sizing: border-box;">
+    <section style='display: inline-block;width: 95%;vertical-align: top;border-width: 0px 0px 3px 3px;padding: 0px;border-style: none;border-radius: 0px;border-color: rgb(62, 62, 62);background-image: url("https://mmbiz.qpic.cn/mmbiz_png/CUGafseOvToia7cMhFSGRljT6kO9bMOWcoubRFXyU5V419QwIkkBukYMnr1Sa7jpbGGOoauKzgWdTyr3PJbBqMg/640?wx_fmt=png?x-oss-process=style/xmorient");background-position: 0% 0%;background-repeat: repeat;background-size: 8.7588%;background-attachment: scroll;box-sizing: border-box;'>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="transform: translate3d(-10px, 0px, 0px);-webkit-transform: translate3d(-10px, 0px, 0px);-moz-transform: translate3d(-10px, 0px, 0px);-o-transform: translate3d(-10px, 0px, 0px);margin: -12px 0% 10px;box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgba(153, 210, 200, 0.3);border-style: none;border-width: 3px 3px 0px 0px;border-radius: 0px;border-color: rgb(62, 62, 62);padding: 10px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="text-align: center;margin: 0px;padding: 0px;box-sizing: border-box;">
+            <span style="color: rgb(48, 93, 237);box-sizing: border-box;">
+             <strong style="box-sizing: border-box;">
+              简  介
+             </strong>
+            </span>
+           </p>
+           <p style="text-indent: 2em;margin: 0px;padding: 0px;box-sizing: border-box;">
+            库客（KUKE）数字音乐图书馆是国内唯一一家专注于非流行音乐发展的数字音乐图书馆。拥有Naxos、sony、Marco Polo、AVC、Countdown等著名唱片公司的授权。
+           </p>
+           <p style="text-indent: 2em;margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="text-indent: 2em;margin: 0px;padding: 0px;box-sizing: border-box;">
+            目前已收藏了世界上98%以上的古典音乐，以及世界各国独具特色的民族风情音乐、爵士音乐、电影音乐、新世纪音乐等多种音乐类型。共汇聚了中世纪到近现代30000多位艺术家、100多种乐器的音乐作品，120多万首曲目。
+           </p>
+           <p style="text-indent: 2em;margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="text-indent: 2em;margin: 0px;padding: 0px;box-sizing: border-box;">
+            我馆目前购买使用的是
+            <span style="color: rgb(166, 91, 203);box-sizing: border-box;">
+             库客音乐图书馆
+            </span>
+            和
+            <span style="color: rgb(166, 91, 203);box-sizing: border-box;">
+             库客视频图书馆
+            </span>
+            。
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="transform: rotateZ(17.71deg);-webkit-transform: rotateZ(17.71deg);-moz-transform: rotateZ(17.71deg);-o-transform: rotateZ(17.71deg);box-sizing: border-box;">
+         <section style="text-align: right;margin: -30px 0% 15px;transform: translate3d(2px, 0px, 0px);-webkit-transform: translate3d(2px, 0px, 0px);-moz-transform: translate3d(2px, 0px, 0px);-o-transform: translate3d(2px, 0px, 0px);box-sizing: border-box;">
+          <section style="display: inline-block;width: 80px;height: 65px;vertical-align: top;overflow: hidden;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin: 0px 0% 10px;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 100%;border-width: 0px;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="0.7125" data-type="png" data-w="480" src="https://mmbiz.qpic.cn/mmbiz_png/6Ug6fwiaa24Pkst3ribRMTqa9cj6zWV7udLdFbkiasicaaxwJbJomwWalIaOl27txLMhftodbEcH9zAPrAlGEaqbIg/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 10px 0% 20px;box-sizing: border-box;">
+          <section style='display: inline-block;width: 90%;vertical-align: top;padding: 15px;border-width: 2px;border-radius: 5px;border-style: solid;border-color: rgb(197, 226, 224);background-position: 233.929% 1.8202%;background-repeat: repeat;background-size: 107.589%;background-attachment: scroll;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/3l496Hhyxu69jyj9LccuDL1HZBM9yDz5TeSbGq30hYE5U2Lm6y3R7nibuyjOf0dEWQFTTibLbqtObqwK77kG5ySQ/640?wx_fmt=png");box-sizing: border-box;'>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="font-size: 15px;color: rgb(110, 110, 110);box-sizing: border-box;">
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               网址：www.kuke.com
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;color: rgb(0, 0, 0);box-sizing: border-box;">
+           <p style="text-indent: 0em;margin: 0px;padding: 0px;box-sizing: border-box;">
+            <span style="color: rgb(48, 93, 237);box-sizing: border-box;">
+             <strong style="box-sizing: border-box;">
+              使 用 说 明
+             </strong>
+            </span>
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <ol class="list-paddingleft-2" style="list-style-type: decimal;">
+            <li>
+             <p style="text-indent: 0em;margin: 0px;padding: 0px;box-sizing: border-box;">
+              馆内IP地址范围内自动登录，库客首页左上方出现学校LOGO，表示绑定了IP，可以正常使用。
+             </p>
+            </li>
+            <li>
+             <p style="text-indent: 0em;margin: 0px;padding: 0px;box-sizing: border-box;">
+              <span style="color: rgb(166, 91, 203);font-size: 18px;box-sizing: border-box;">
+               移动服务
+              </span>
+              ：在馆内IP地址范围，在库客官网或是手机应用商店下载“库客音乐”，注册个人账号使用，使用期限同图书馆的有效使用时间一致。
+             </p>
+            </li>
+            <li>
+             <p style="text-indent: 0em;margin: 0px;padding: 0px;box-sizing: border-box;">
+              使用期限：2019.1.1--2021.12.31
+             </p>
+            </li>
+           </ol>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+           <svg class="svg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;" viewbox="0 0 902.1 38.2" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+            <g style="box-sizing: border-box;">
+             <path d="M18.4,1.4c0.9-1.9,2.4-1.9,3.4,0l3.4,6.9c0.9,1.9,3.4,3.7,5.4,4l7.6,1.1c2.1,0.3,2.5,1.7,1,3.2   l-5.5,5.4c-1.5,1.5-2.4,4.3-2.1,6.4l1.3,7.6c0.4,2.1-0.9,2.9-2.7,2l-6.8-3.6c-1.8-1-4.9-1-6.7,0l-6.8,3.6c-1.9,1-3.1,0.1-2.7-2   l1.3-7.6c0.4-2.1-0.6-4.9-2.1-6.4l-5.5-5.4c-1.5-1.5-1-2.9,1-3.2l7.6-1.1c2.1-0.3,4.5-2.1,5.4-4L18.4,1.4z" fill="rgb(178, 243, 230)" style="box-sizing: border-box;">
+             </path>
+             <path d="M90.6,5.4c0.7-1.4,1.9-1.4,2.6,0l2.6,5.3c0.7,1.4,2.6,2.8,4.2,3.1l5.9,0.9c1.6,0.2,2,1.3,0.8,2.5   l-4.2,4.1c-1.2,1.1-1.9,3.3-1.6,4.9l1,5.8c0.3,1.6-0.7,2.3-2.1,1.5l-5.2-2.8c-1.4-0.8-3.8-0.8-5.2,0L84,33.6   c-1.4,0.8-2.4,0.1-2.1-1.5l1-5.8c0.3-1.6-0.5-3.8-1.6-4.9l-4.2-4.1c-1.2-1.1-0.8-2.2,0.8-2.5l5.9-0.9c1.6-0.2,3.5-1.6,4.2-3.1   L90.6,5.4z" fill="rgb(190, 204, 246)" style="box-sizing: border-box;">
+             </path>
+             <path d="M162.6,7.5c0.6-1.2,1.6-1.2,2.2,0l2.2,4.5c0.6,1.2,2.2,2.4,3.6,2.6l5,0.7c1.4,0.2,1.7,1.1,0.7,2.1   l-3.6,3.5c-1,1-1.6,2.9-1.4,4.2l0.9,5c0.2,1.4-0.6,1.9-1.8,1.3l-4.5-2.4c-1.2-0.6-3.2-0.6-4.4,0l-4.5,2.4c-1.2,0.6-2,0.1-1.8-1.3   l0.9-5c0.2-1.4-0.4-3.3-1.4-4.2l-3.6-3.5c-1-1-0.7-1.9,0.7-2.1l5-0.7c1.4-0.2,3-1.4,3.6-2.6L162.6,7.5z" fill="rgb(150, 208, 240)" style="box-sizing: border-box;">
+             </path>
+             <path d="M60.1,19.1c0,2.3-1.9,4.2-4.2,4.2c-2.3,0-4.2-1.9-4.2-4.2s1.9-4.2,4.2-4.2   C58.3,14.9,60.1,16.8,60.1,19.1z" fill="rgb(218, 240, 224)" style="box-sizing: border-box;">
+             </path>
+             <path d="M203.8,19.1c0,2.3-1.9,4.2-4.2,4.2c-2.3,0-4.2-1.9-4.2-4.2s1.9-4.2,4.2-4.2   C201.9,14.9,203.8,16.8,203.8,19.1z" fill="rgb(218, 240, 224)" style="box-sizing: border-box;">
+             </path>
+             <path d="M130.9,19.1c0,1.7-1.4,3.1-3.1,3.1c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1   C129.5,16.1,130.9,17.4,130.9,19.1z" fill="rgb(218, 240, 224)" style="box-sizing: border-box;">
+             </path>
+             <path d="M233.9,1.4c0.9-1.9,2.4-1.9,3.4,0l3.4,6.9c0.9,1.9,3.4,3.7,5.4,4l7.6,1.1c2.1,0.3,2.5,1.7,1,3.2   l-5.5,5.4c-1.5,1.5-2.4,4.3-2.1,6.4l1.3,7.6c0.4,2.1-0.9,2.9-2.7,2l-6.8-3.6c-1.8-1-4.9-1-6.7,0l-6.8,3.6c-1.9,1-3.1,0.1-2.7-2   l1.3-7.6c0.4-2.1-0.6-4.9-2.1-6.4l-5.5-5.4c-1.5-1.5-1-2.9,1-3.2l7.6-1.1c2.1-0.3,4.5-2.1,5.4-4L233.9,1.4z" fill="rgb(178, 243, 230)" style="box-sizing: border-box;">
+             </path>
+             <path d="M306.1,5.4c0.7-1.4,1.9-1.4,2.6,0l2.6,5.3c0.7,1.4,2.6,2.8,4.2,3.1l5.9,0.9c1.6,0.2,2,1.3,0.8,2.5   l-4.2,4.1c-1.2,1.1-1.9,3.3-1.6,4.9l1,5.8c0.3,1.6-0.7,2.3-2.1,1.5l-5.2-2.8c-1.4-0.8-3.8-0.8-5.2,0l-5.2,2.8   c-1.4,0.8-2.4,0.1-2.1-1.5l1-5.8c0.3-1.6-0.4-3.8-1.6-4.9l-4.2-4.1c-1.2-1.1-0.8-2.2,0.8-2.5l5.9-0.9c1.6-0.2,3.5-1.6,4.2-3.1   L306.1,5.4z" fill="rgb(190, 204, 246)" style="box-sizing: border-box;">
+             </path>
+             <path d="M378.1,7.5c0.6-1.2,1.6-1.2,2.2,0l2.2,4.5c0.6,1.2,2.2,2.4,3.6,2.6l5,0.7c1.4,0.2,1.7,1.1,0.7,2.1   l-3.6,3.5c-1,1-1.6,2.9-1.4,4.2l0.9,5c0.2,1.4-0.6,1.9-1.8,1.3l-4.5-2.4c-1.2-0.6-3.2-0.6-4.4,0l-4.5,2.4c-1.2,0.6-2,0.1-1.8-1.3   l0.9-5c0.2-1.4-0.4-3.3-1.4-4.2l-3.6-3.5c-1-1-0.7-1.9,0.7-2.1l5-0.7c1.4-0.2,3-1.4,3.6-2.6L378.1,7.5z" fill="rgb(150, 208, 240)" style="box-sizing: border-box;">
+             </path>
+             <path d="M275.7,19.1c0,2.3-1.9,4.2-4.2,4.2c-2.3,0-4.2-1.9-4.2-4.2s1.9-4.2,4.2-4.2   C273.8,14.9,275.7,16.8,275.7,19.1z" fill="rgb(218, 240, 224)" style="box-sizing: border-box;">
+             </path>
+             <path d="M419.3,19.1c0,2.3-1.9,4.2-4.2,4.2c-2.3,0-4.2-1.9-4.2-4.2s1.9-4.2,4.2-4.2   C417.5,14.9,419.3,16.8,419.3,19.1z" fill="rgb(218, 240, 224)" style="box-sizing: border-box;">
+             </path>
+             <path d="M346.4,19.1c0,1.7-1.4,3.1-3.1,3.1c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1   C345,16.1,346.4,17.4,346.4,19.1z" fill="rgb(218, 240, 224)" style="box-sizing: border-box;">
+             </path>
+             <path d="M449.4,1.4c0.9-1.9,2.4-1.9,3.4,0l3.4,6.9c0.9,1.9,3.4,3.7,5.4,4l7.6,1.1c2.1,0.3,2.5,1.7,1,3.2   l-5.5,5.4c-1.5,1.5-2.4,4.3-2.1,6.4l1.3,7.6c0.4,2.1-0.9,2.9-2.7,2l-6.8-3.6c-1.8-1-4.9-1-6.7,0l-6.8,3.6c-1.9,1-3.1,0.1-2.7-2   l1.3-7.6c0.4-2.1-0.6-4.9-2.1-6.4l-5.5-5.4c-1.5-1.5-1-2.9,1-3.2l7.6-1.1c2.1-0.3,4.5-2.1,5.4-4L449.4,1.4z" fill="rgb(178, 243, 230)" style="box-sizing: border-box;">
+             </path>
+             <path d="M521.6,5.4c0.7-1.4,1.9-1.4,2.6,0l2.6,5.3c0.7,1.4,2.6,2.8,4.2,3.1l5.9,0.9c1.6,0.2,2,1.3,0.8,2.5   l-4.2,4.1c-1.2,1.1-1.9,3.3-1.6,4.9l1,5.8c0.3,1.6-0.7,2.3-2.1,1.5l-5.2-2.8c-1.4-0.8-3.8-0.8-5.2,0l-5.2,2.8   c-1.4,0.8-2.4,0.1-2.1-1.5l1-5.8c0.3-1.6-0.5-3.8-1.6-4.9l-4.2-4.1c-1.2-1.1-0.8-2.2,0.8-2.5l5.9-0.9c1.6-0.2,3.5-1.6,4.2-3.1   L521.6,5.4z" fill="rgb(190, 204, 246)" style="box-sizing: border-box;">
+             </path>
+             <path d="M593.6,7.5c0.6-1.2,1.6-1.2,2.2,0l2.2,4.5c0.6,1.2,2.2,2.4,3.6,2.6l5,0.7c1.4,0.2,1.7,1.1,0.7,2.1   l-3.6,3.5c-1,1-1.6,2.9-1.4,4.2l0.9,5c0.2,1.4-0.6,1.9-1.8,1.3l-4.5-2.4c-1.2-0.6-3.2-0.6-4.4,0l-4.5,2.4c-1.2,0.6-2,0.1-1.8-1.3   l0.9-5c0.2-1.4-0.4-3.3-1.4-4.2l-3.6-3.5c-1-1-0.7-1.9,0.7-2.1l5-0.7c1.4-0.2,3-1.4,3.6-2.6L593.6,7.5z" fill="rgb(150, 208, 240)" style="box-sizing: border-box;">
+             </path>
+             <path d="M491.2,19.1c0,2.3-1.9,4.2-4.2,4.2c-2.3,0-4.2-1.9-4.2-4.2s1.9-4.2,4.2-4.2   C489.3,14.9,491.2,16.8,491.2,19.1z" fill="rgb(218, 240, 224)" style="box-sizing: border-box;">
+             </path>
+             <path d="M634.9,19.1c0,2.3-1.9,4.2-4.2,4.2c-2.3,0-4.2-1.9-4.2-4.2s1.9-4.2,4.2-4.2   C633,14.9,634.9,16.8,634.9,19.1z" fill="rgb(218, 240, 224)" style="box-sizing: border-box;">
+             </path>
+             <path d="M561.9,19.1c0,1.7-1.4,3.1-3.1,3.1c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1   C560.5,16.1,561.9,17.4,561.9,19.1z" fill="rgb(218, 240, 224)" style="box-sizing: border-box;">
+             </path>
+             <path d="M664.9,1.4c0.9-1.9,2.4-1.9,3.4,0l3.4,6.9c0.9,1.9,3.4,3.7,5.4,4l7.6,1.1c2.1,0.3,2.5,1.7,1,3.2   l-5.5,5.4c-1.5,1.5-2.4,4.3-2.1,6.4l1.3,7.6c0.4,2.1-0.9,2.9-2.7,2l-6.8-3.6c-1.8-1-4.9-1-6.7,0l-6.8,3.6c-1.9,1-3.1,0.1-2.7-2   l1.3-7.6c0.4-2.1-0.6-4.9-2.1-6.4l-5.5-5.4c-1.5-1.5-1-2.9,1-3.2l7.6-1.1c2.1-0.3,4.5-2.1,5.4-4L664.9,1.4z" fill="rgb(178, 243, 230)" style="box-sizing: border-box;">
+             </path>
+             <path d="M737.1,5.4c0.7-1.4,1.9-1.4,2.6,0l2.6,5.3c0.7,1.4,2.6,2.8,4.2,3.1l5.9,0.9c1.6,0.2,2,1.3,0.8,2.5   l-4.2,4.1c-1.2,1.1-1.9,3.3-1.6,4.9l1,5.8c0.3,1.6-0.7,2.3-2.1,1.5l-5.2-2.8c-1.4-0.8-3.8-0.8-5.2,0l-5.2,2.8   c-1.4,0.8-2.4,0.1-2.1-1.5l1-5.8c0.3-1.6-0.5-3.8-1.6-4.9l-4.2-4.1c-1.2-1.1-0.8-2.2,0.8-2.5l5.9-0.9c1.6-0.2,3.5-1.6,4.2-3.1   L737.1,5.4z" fill="rgb(190, 204, 246)" style="box-sizing: border-box;">
+             </path>
+             <path d="M809.2,7.5c0.6-1.2,1.6-1.2,2.2,0l2.2,4.5c0.6,1.2,2.2,2.4,3.6,2.6l5,0.7c1.4,0.2,1.7,1.1,0.7,2.1   l-3.6,3.5c-1,1-1.6,2.9-1.4,4.2l0.9,5c0.2,1.4-0.6,1.9-1.8,1.3l-4.5-2.4c-1.2-0.6-3.2-0.6-4.4,0l-4.5,2.4c-1.2,0.6-2,0.1-1.8-1.3   l0.9-5c0.2-1.4-0.4-3.3-1.4-4.2l-3.6-3.5c-1-1-0.7-1.9,0.7-2.1l5-0.7c1.4-0.2,3-1.4,3.6-2.6L809.2,7.5z" fill="rgb(150, 208, 240)" style="box-sizing: border-box;">
+             </path>
+             <path d="M706.7,19.1c0,2.3-1.9,4.2-4.2,4.2c-2.3,0-4.2-1.9-4.2-4.2s1.9-4.2,4.2-4.2   C704.8,14.9,706.7,16.8,706.7,19.1z" fill="rgb(218, 240, 224)" style="box-sizing: border-box;">
+             </path>
+             <path d="M850.4,19.1c0,2.3-1.9,4.2-4.2,4.2c-2.3,0-4.2-1.9-4.2-4.2s1.9-4.2,4.2-4.2   C848.5,14.9,850.4,16.8,850.4,19.1z" fill="rgb(218, 240, 224)" style="box-sizing: border-box;">
+             </path>
+             <path d="M777.4,19.1c0,1.7-1.4,3.1-3.1,3.1c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1   C776,16.1,777.4,17.4,777.4,19.1z" fill="rgb(218, 240, 224)" style="box-sizing: border-box;">
+             </path>
+             <path d="M880.4,1.4c0.9-1.9,2.4-1.9,3.4,0l3.4,6.9c0.9,1.9,3.4,3.7,5.4,4l7.6,1.1c2.1,0.3,2.5,1.7,1,3.2   l-5.5,5.4c-1.5,1.5-2.4,4.3-2.1,6.4l1.3,7.6c0.4,2.1-0.9,2.9-2.7,2l-6.8-3.6c-1.8-1-4.9-1-6.7,0l-6.8,3.6c-1.8,1-3.1,0.1-2.7-2   l1.3-7.6c0.4-2.1-0.6-4.9-2.1-6.4l-5.5-5.4c-1.5-1.5-1-2.9,1-3.2l7.6-1.1c2.1-0.3,4.5-2.1,5.4-4L880.4,1.4z" fill="rgb(178, 243, 230)" style="box-sizing: border-box;">
+             </path>
+            </g>
+           </svg>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;color: rgb(48, 93, 237);box-sizing: border-box;">
+           <p style="text-align: center;margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             音 乐 库 内 容
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-bottom: 10px;text-align: left;box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <section style="display: inline-block;vertical-align: bottom;box-sizing: border-box;">
+            <section style="transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);background-color: rgba(248, 191, 227, 0.73);width: 1.6em;height: 1.6em;text-align: center;font-size: 18px;line-height: 1.6em;color: rgb(255, 255, 255);box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              01
+             </section>
+            </section>
+            <section style="width: 0px;margin-left: auto;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);border-width: 3px;border-style: solid;border-color: rgb(107, 178, 171) transparent transparent rgb(107, 178, 171);box-sizing: border-box;">
+            </section>
+           </section>
+           <section style="display: inline-block;vertical-align: bottom;margin-left: -6px;box-sizing: border-box;">
+            <section style="display: inline-block;vertical-align: middle;height: 1.6em;line-height: 1.7em;background-color: rgb(240, 240, 240);text-align: center;padding-left: 10px;padding-right: 4px;color: rgb(71, 193, 168);box-sizing: border-box;">
+             <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+              唱片
+             </p>
+            </section>
+            <section style="display: inline-block;vertical-align: middle;width: 0px;border-left: 0.8em solid rgb(240, 240, 240);border-top: 0.8em solid transparent !important;border-bottom: 0.8em solid transparent !important;box-sizing: border-box;">
+            </section>
+            <section style="clear: both;box-sizing: border-box;">
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.4972222" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/6Ug6fwiaa24Pkst3ribRMTqa9cj6zWV7uduZmcr0RobGrbZkwkmSHcK8yrOQHibic7BCHVAaQC4xD3s8osW7mJkT2g/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="color: rgb(255, 129, 36);box-sizing: border-box;">
+           <p style="text-indent: 0em;margin: 0px;padding: 0px;box-sizing: border-box;">
+            ✨主页为精选专辑，可使用关键字搜索或高级搜索，也可按作曲家、艺术家、厂牌等进行搜索。
+           </p>
+           <p style="text-indent: 2em;margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.5916667" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/6Ug6fwiaa24Pkst3ribRMTqa9cj6zWV7ud9fmdLetTUGBrVfuWEx1hNzft5XHZHZa3TTao4wp5Qr6iavDsHpQp0IQ/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;font-size: 15px;color: rgb(255, 129, 36);box-sizing: border-box;">
+           <p style="text-indent: 2em;text-align: center;margin: 0px;padding: 0px;box-sizing: border-box;">
+            ✨汇集了管弦乐、协奏曲、歌剧、器乐曲、室内音乐、声乐作品等多个种类
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.5546296" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/6Ug6fwiaa24Pkst3ribRMTqa9cj6zWV7udkAuS97JyN7lbEeVIBiaicPjQLWanImRzpAq9GPvcEqCobenFZfziaJhnA/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 15px;color: rgb(255, 129, 36);box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            ✨可查看音乐字典及考级音乐
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-bottom: 10px;text-align: left;box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <section style="display: inline-block;vertical-align: bottom;box-sizing: border-box;">
+            <section style="transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);background-color: rgba(248, 191, 227, 0.73);width: 1.6em;height: 1.6em;text-align: center;font-size: 18px;line-height: 1.6em;color: rgb(255, 255, 255);box-sizing: border-box;">
+             <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+              02
+             </p>
+            </section>
+            <section style="width: 0px;margin-left: auto;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);border-width: 3px;border-style: solid;border-color: rgb(107, 178, 171) transparent transparent rgb(107, 178, 171);box-sizing: border-box;">
+            </section>
+           </section>
+           <section style="display: inline-block;vertical-align: bottom;margin-left: -6px;box-sizing: border-box;">
+            <section style="display: inline-block;vertical-align: middle;height: 1.6em;line-height: 1.7em;background-color: rgb(240, 240, 240);text-align: center;padding-left: 10px;padding-right: 4px;color: rgb(71, 193, 168);box-sizing: border-box;">
+             <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+              视频
+             </p>
+            </section>
+            <section style="display: inline-block;vertical-align: middle;width: 0px;border-left: 0.8em solid rgb(240, 240, 240);border-top: 0.8em solid transparent !important;border-bottom: 0.8em solid transparent !important;box-sizing: border-box;">
+            </section>
+            <section style="clear: both;box-sizing: border-box;">
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.6592593" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/6Ug6fwiaa24Pkst3ribRMTqa9cj6zWV7udeJ29jUQLzrKYicWbStO9EfcI2ibwl7f1G2rHmD5NR0yIdZya1LkxibOHQ/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="color: rgb(255, 129, 36);font-size: 15px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            ✨视频首页呈现各类精选
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.6574074" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/6Ug6fwiaa24Pkst3ribRMTqa9cj6zWV7ududOoGCfVdoaJfXQx7gqtTOENYVmSIYjnh1Wr9qgsC7u9rc4akhoRWw/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="color: rgb(255, 129, 36);font-size: 15px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            ✨收藏了歌剧、音乐会、舞蹈、纪录片、戏剧、讲解与大师课等多种视频
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="text-indent: 2em;margin: 0px;padding: 0px;box-sizing: border-box;">
+            充分利用图书馆的数字资源，尽情享受音乐之美吧😉
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="font-size: 46px;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+          <section style="display: inline-block;vertical-align: top;box-sizing: border-box;">
+           <section style="margin-bottom: -1.5em;box-sizing: border-box;">
+            <section style="width: 3em;height: 1.5em;margin-bottom: -5px;border-radius: 1.5em 1.5em 0px 0px;border-left: 1px dashed rgba(248, 191, 227, 0.73);border-right: 1px dashed rgba(248, 191, 227, 0.73);border-top: 1px dashed rgba(248, 191, 227, 0.73);border-bottom-color: rgba(248, 191, 227, 0.73);box-sizing: border-box;">
+            </section>
+            <section style="width: 5px;height: 5px;float: right;background: rgb(255, 255, 255);margin-right: -3px;border-width: 1px;border-style: solid;border-color: rgba(248, 191, 227, 0.73);margin-left: -3px;border-radius: 50%;box-sizing: border-box;">
+            </section>
+            <section style="width: 5px;height: 5px;background: rgb(255, 255, 255);transform: rotate(0deg);margin-bottom: -2px;margin-left: -3px;border-width: 1px;border-style: solid;border-color: rgba(248, 191, 227, 0.73);border-radius: 50%;box-sizing: border-box;">
+            </section>
+           </section>
+           <section style="margin-bottom: -5px;width: 3em;height: 3em;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);padding: 5px;box-sizing: border-box;">
+            <section style='width: 100%;height: 100%;border-radius: 100%;background-position: 51.5624% 60.9374%;background-repeat: no-repeat;background-size: 149.613%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;overflow: hidden;background-image: url("https://mmbiz.qpic.cn/mmbiz_jpg/6Ug6fwiaa24Pkst3ribRMTqa9cj6zWV7udEfE1En1Zdzrq93lVXgHFQDnvM8eiacedxPmFec3ZP6h1TH2xE6tX12A/640?wx_fmt=jpeg");box-sizing: border-box;'>
+             <section style="height: 100%;overflow: hidden;line-height: 0;vertical-align: middle;max-width: 100%;box-sizing: border-box;">
+              <img data-ratio="1" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/6Ug6fwiaa24Pkst3ribRMTqa9cj6zWV7udEfE1En1Zdzrq93lVXgHFQDnvM8eiacedxPmFec3ZP6h1TH2xE6tX12A/640?wx_fmt=jpeg" style="width: 100%;height: 100%;opacity: 0;box-sizing: border-box;" width="100%"/>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;color: rgb(100, 96, 96);font-size: 15px;box-sizing: border-box;">
+           <p style="text-align: center;margin: 0px;padding: 0px;box-sizing: border-box;">
+            整理编辑|文献资源建设部
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>

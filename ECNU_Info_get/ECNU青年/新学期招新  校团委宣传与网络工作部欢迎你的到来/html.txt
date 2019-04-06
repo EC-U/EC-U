@@ -1,0 +1,727 @@
+
+ <section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;">
+  <section data-role="outer" label="Powered by 135editor.com">
+   <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <p>
+     <img class="" data-ratio="0.6274864376130199" data-type="png" data-w="553" src="https://mmbiz.qpic.cn/mmbiz_png/hOWxIuT5SrH8AiaUvCyCHnjn3DPMpXibHnYXlntqOdEljibSMpqlA1JT6kI6gsR9qGOh8O3ozAnHicv5EEFYibYe8Vg/640?wx_fmt=png"/>
+    </p>
+    <section class="_135editor" data-id="85660" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section class="layout" style="margin-top: 2em;margin-right: auto;margin-left: auto;padding-top: 0.5em;padding-bottom: 0.5em;white-space: normal;border-right: none;border-left: none;border-top: 1px solid rgb(204, 204, 204);font-size: 1em;font-family: inherit;font-weight: inherit;text-decoration: inherit;color: rgb(166, 166, 166);border-bottom: 1px solid rgb(204, 204, 204);box-sizing: border-box;">
+      <section style="margin-top: -1.2em;text-align: center;border-width: initial;border-style: none;border-color: initial;line-height: 1.4;box-sizing: border-box;">
+       <span style="color: #000000;">
+        <strong>
+         <span style="background-color: rgb(243, 223, 1);border-color: rgb(183, 184, 184);font-weight: inherit;padding: 8px 23px;text-decoration: inherit;font-family: PingFangTC-Light;font-size: 15px;">
+          宣传与网络工作部
+         </span>
+        </strong>
+       </span>
+      </section>
+      <section class="135brush" data-style="white-space: normal; text-align: left;font-size: 14px;line-height: 1.5em; color: rgb(12, 12, 12);" style="padding: 16px 16px 10px;color: rgb(32, 32, 32);line-height: 1.4;font-family: inherit;font-size: 1em;box-sizing: border-box;">
+       <p style="text-align: left;line-height: 1.5em;">
+        <span style="color:#0c0c0c;font-size:14px;">
+         <span style="color: rgb(127, 127, 127);font-family: PingFangTC-Light;letter-spacing: 1.5px;text-align: justify;background-color: rgb(254, 254, 254);">
+          隶属于校团委，涵盖网络工作部、视频组、记者团等多个部门。负责学校师大青年网的维护以及公众号ECNU青年上推送的发布。
+         </span>
+        </span>
+       </p>
+      </section>
+     </section>
+    </section>
+    <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <p>
+      <br/>
+     </p>
+    </section>
+    <section class="_135editor" data-id="94332" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section data-width="100%" style="width:100%;">
+      <section style="text-align: center;">
+       <section style="width:4em;display: inline-block;">
+        <img class="" data-ratio="0.3208955223880597" data-type="gif" data-w="134" src="https://mmbiz.qpic.cn/mmbiz_gif/hOWxIuT5SrH8AiaUvCyCHnjn3DPMpXibHnWomDERuIYBDqLma0SbkwKSG7gv2MhbtVicrjSaticMsKSLia80Uibw8DKw/640?wx_fmt=gif" style="width: 4em;display: block;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <p>
+      <br/>
+     </p>
+    </section>
+    <section class="_135editor" data-id="93640" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section style="padding: 5px;box-sizing: border-box;">
+      <section style="border-width: 1px;border-style: dashed;border-color: rgb(204, 204, 204);background: none 0% 0% repeat scroll rgb(248, 248, 248);box-shadow: rgb(229, 229, 229) -1px 5px 7px;letter-spacing: 1.5px;padding: 1em;color: rgb(63, 63, 63);box-sizing: border-box;">
+       <section style="display: inline-block;margin-bottom: 1em;">
+        <p style="padding-right: 0.6em;padding-left: 0.6em;box-sizing: border-box;">
+         <span style="font-family: PingFangTC-Light;font-size: 14px;">
+          过去的学期里，大家过得如何呢，是否有想找点有意义的事、来度过大学里的闲暇时光的想法呢？新的学期开始之际，我们将开始新一轮招新，有兴趣的同学赶紧来看看呀。
+         </span>
+         <br/>
+        </p>
+        <p style="padding-right: 0.6em;padding-left: 0.6em;box-sizing: border-box;">
+         <br/>
+        </p>
+        <section class="_135editor" data-id="92498" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <section style="display: flex;justify-content: center;padding-top: 15px;padding-bottom: 15px;box-sizing: border-box;">
+          <section style='background-image: url("https://mmbiz.qpic.cn/mmbiz_png/hOWxIuT5SrH8AiaUvCyCHnjn3DPMpXibHncG2wGtx246BTmQWwJIxnVFGibcibVqNo0vyWlicu3IYeeKAqfJXaqzfwQ/640?wx_fmt=png");background-position: left top;background-repeat: no-repeat;background-size: 30px;'>
+           <section style='background-image: url("https://mmbiz.qpic.cn/mmbiz_png/hOWxIuT5SrH8AiaUvCyCHnjn3DPMpXibHnhyuTytib15dPLxgfRjTYQD3b95ibvIJRa6VKU1gD8whwPADOY1jAQmUA/640?wx_fmt=png");background-position: right bottom;background-size: 30px;background-repeat: no-repeat;padding: 8px 12px;box-sizing: border-box;'>
+            <section class="135brush" data-brushtype="text" style="padding-right: 20px;padding-left: 20px;line-height: 30px;background-color: rgb(170, 206, 219);color: rgb(255, 255, 255);box-sizing: border-box;">
+             本次招新的部门
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section class="135brush" data-autoskip="1" style="text-align: center;padding: 2px 0.8em;line-height: 1.75em;font-size: 14px;box-sizing: border-box;">
+        <p>
+         <span style="font-size: 15px;font-family: PingFangTC-Light;">
+          <strong>
+           1.办公室组
+          </strong>
+         </span>
+        </p>
+        <p>
+         <br/>
+        </p>
+        <p>
+         <span style="font-family: 微软雅黑;">
+          <img class="" data-ratio="1.0642458100558658" data-type="jpeg" data-w="358" src="https://mmbiz.qpic.cn/mmbiz_jpg/hOWxIuT5SrH8AiaUvCyCHnjn3DPMpXibHniclpiaSllFich39eSuibXNjrDFfMtQuxUVkEtMw5fohdoUaF4UflW0V8cg/640?wx_fmt=jpeg"/>
+         </span>
+        </p>
+        <p>
+         <br/>
+        </p>
+        <p>
+         <span style="font-family: PingFangTC-Light;">
+          管理担当
+         </span>
+        </p>
+        <p>
+         <span style="font-family: PingFangTC-Light;">
+          在日常工作中承上启下
+         </span>
+        </p>
+        <p>
+         <span style="font-family: PingFangTC-Light;">
+          掌握多项办公技能
+         </span>
+        </p>
+        <span style="font-family: PingFangTC-Light;">
+         培养耐心和细心
+        </span>
+        <p>
+         <br/>
+        </p>
+        <p style="text-align: left;">
+         <span style="font-family: PingFangTC-Light;">
+          <em>
+           <span style="color: rgb(127, 127, 127);">
+            “办公室的工作轻松有趣，可以帮忙策划组织活动，结交到新朋友，学习更多技能，欢迎并且感谢大家选择办公室。”
+           </span>
+          </em>
+         </span>
+        </p>
+        <p style="text-align: left;">
+         <span style="font-family: PingFangTC-Light;">
+          <em>
+           <span style="color: rgb(127, 127, 127);">
+            <br/>
+           </span>
+          </em>
+         </span>
+        </p>
+        <p style="text-align: left;">
+         <span style="font-family: PingFangTC-Light;">
+          <em>
+           <span style="color: rgb(127, 127, 127);">
+            “同时希望新的同学能带来新的idea，能够让整个部门活跃起来。”
+           </span>
+          </em>
+         </span>
+        </p>
+        <p style="text-align: justify;">
+         <br/>
+        </p>
+        <hr style="border-style: solid;border-width: 1px 0 0;border-color: rgba(0,0,0,0.1);-webkit-transform-origin: 0 0;-webkit-transform: scale(1, 0.5);transform-origin: 0 0;transform: scale(1, 0.5);"/>
+        <p style="text-align: justify;">
+         <br/>
+        </p>
+        <p>
+         <span style="font-family: PingFangTC-Light;">
+          <span style="font-size: 15px;">
+           <strong>
+            2.网络工作部
+           </strong>
+          </span>
+          <br/>
+         </span>
+        </p>
+        <p>
+         <br/>
+        </p>
+        <p>
+         <span style="font-family: PingFangTC-Light;">
+          闵行校区
+         </span>
+        </p>
+        <p>
+         <span style="font-family: PingFangTC-Light;">
+          负责日常维护部门官方微博和b站
+         </span>
+        </p>
+        <p>
+         <span style="font-family: PingFangTC-Light;">
+          中北校区
+         </span>
+        </p>
+        <p>
+         <span style="font-family: PingFangTC-Light;">
+          负责日常维护师大青年网
+         </span>
+        </p>
+        <p style="text-align: left;">
+         <br/>
+        </p>
+        <p style="text-align: left;">
+         <span style="color: #7f7f7f;font-family: PingFangTC-Light;">
+          <em>
+           “欢迎加入网工大家庭！期待大家在部门里有所收获，丰富自己的大学生活呀。通过我们的部门，大家还可以直接面对面地与老师领导交流哦。”
+          </em>
+         </span>
+        </p>
+        <p style="text-align: left;">
+         <br/>
+        </p>
+        <hr style="border-style: solid;border-width: 1px 0 0;border-color: rgba(0,0,0,0.1);-webkit-transform-origin: 0 0;-webkit-transform: scale(1, 0.5);transform-origin: 0 0;transform: scale(1, 0.5);"/>
+        <p style="text-align: left;">
+         <br/>
+        </p>
+        <p>
+         <span style="font-size: 15px;font-family: PingFangTC-Light;">
+          <strong>
+           3.记者团
+          </strong>
+         </span>
+        </p>
+        <p style="text-align: left;">
+         <br/>
+        </p>
+        <p>
+         <span style="font-family: 宋体;">
+          <img class="" data-ratio="0.7786458333333334" data-type="png" data-w="384" src="https://mmbiz.qpic.cn/mmbiz_png/hOWxIuT5SrH8AiaUvCyCHnjn3DPMpXibHnPiacpuWKUwfrqGbW2icqVkhhCBG4U28sxiaztAWECAf70w2hxMOEu5BiaA/640?wx_fmt=png"/>
+          <br/>
+         </span>
+        </p>
+        <p style="text-align: left;">
+         <br/>
+        </p>
+        <p style="text-align: center;">
+         <img class="" data-ratio="0.75" data-type="png" data-w="424" src="https://mmbiz.qpic.cn/mmbiz_png/hOWxIuT5SrH8AiaUvCyCHnjn3DPMpXibHnN7kYV4lFS2VgvVPGbnEI5lj8rEFPIDPJPNQKo5o8HriaqXLab0UQyBA/640?wx_fmt=png"/>
+        </p>
+        <p style="text-align: left;">
+         <br/>
+        </p>
+        <p>
+         <span style="font-family: PingFangTC-Light;">
+          我们捕捉校园热点，测评周边
+         </span>
+        </p>
+        <p>
+         <span style="font-family: PingFangTC-Light;">
+          我们随手拍下校园美景
+         </span>
+        </p>
+        <p>
+         <span style="font-family: PingFangTC-Light;">
+          我们有着传媒人拥有的“蜂巢素养”
+         </span>
+        </p>
+        <p>
+         <span style="font-family: PingFangTC-Light;">
+          火一样的激情，海洋一样的胸襟
+         </span>
+        </p>
+        <p>
+         <span style="font-family: PingFangTC-Light;">
+          钢铁一样的脊梁，慈母一样的爱心
+         </span>
+        </p>
+        <p>
+         <span style="font-family: PingFangTC-Light;">
+          猎犬一样的敏锐，冰山一样的冷峻
+         </span>
+        </p>
+        <p>
+         <br/>
+        </p>
+        <p style="text-align: left;">
+         <br/>
+        </p>
+        <p style="text-align: left;">
+         <span style="color: #7f7f7f;font-family: PingFangTC-Light;">
+          <em>
+           【推送链接】
+           <a data-itemshowtype="0" data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA5MjgxOTQyNQ==&amp;mid=2650506359&amp;idx=2&amp;sn=404f1b0e8a3ea7bc552672f3e75f7875&amp;chksm=88687ef9bf1ff7eff5a99ef0f44d20b09f85d2a369f993dced7c1355e32268efcffae09756bc&amp;scene=21#wechat_redirect" target="_blank">
+            赏桂地图 | 觉来帘外木犀风
+           </a>
+          </em>
+         </span>
+        </p>
+        <p style="text-align: left;">
+         <br/>
+        </p>
+        <hr style="border-style: solid;border-width: 1px 0 0;border-color: rgba(0,0,0,0.1);-webkit-transform-origin: 0 0;-webkit-transform: scale(1, 0.5);transform-origin: 0 0;transform: scale(1, 0.5);"/>
+        <p style="text-align: left;">
+         <br/>
+        </p>
+        <p>
+         <span style="font-size: 15px;font-family: PingFangTC-Light;">
+          <strong>
+           4.视频组
+          </strong>
+         </span>
+        </p>
+        <p style="text-align: left;">
+         <br/>
+        </p>
+        <p style="text-align: left;">
+         <strong>
+          <span style="font-family: 微软雅黑;">
+           <img class="" data-ratio="0.5623869801084991" data-type="png" data-w="553" src="https://mmbiz.qpic.cn/mmbiz_png/hOWxIuT5SrH8AiaUvCyCHnjn3DPMpXibHnm0h2luGlGP787XyN6IakpIDic3zpWWWK1D9KcLINGbD4900F0Ot6MOA/640?wx_fmt=png"/>
+           <br/>
+          </span>
+         </strong>
+        </p>
+        <p style="text-align: left;">
+         <br/>
+        </p>
+        <p>
+         <span style="font-family: PingFangTC-Light;">
+          你是否对视频剪辑、街头采访感兴趣
+         </span>
+        </p>
+        <p>
+         <span style="font-family: PingFangTC-Light;">
+          零基础也不怕，我们会教你的呀
+         </span>
+        </p>
+        <span style="font-family: PingFangTC-Light;">
+         快来加入我们，成为视频达人！
+        </span>
+        <p style="text-align: left;">
+         <br/>
+        </p>
+        <p style="text-align:left;">
+         <span style="color: #7f7f7f;font-family: PingFangTC-Light;">
+          <em>
+           “在视频组我遇到了可爱的小伙伴和外表看似严肃其实非常暖心的部长。以零基础来到这个部门的我一开始非常担忧，但是后来我的顾虑慢慢打消，因为剪辑视频和处理图片的技术部长都会耐心教给我们，我们时不时还会有pr和ps的培训。所以只要你愿意认真学，完全不用担心技术问题！既能收获一大堆可爱的朋友们还可以学到实用的技能，何乐而不为呢～快来加入我们叭！”
+          </em>
+         </span>
+        </p>
+        <p style="text-align:left;">
+         <br/>
+        </p>
+        <p style="text-align: left;">
+         <br/>
+        </p>
+        <p style="text-align: left;">
+         <span style="color: rgb(127, 127, 127);font-family: PingFangTC-Light;">
+          <em>
+           【推送连接】
+           <a data-itemshowtype="0" data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA5MjgxOTQyNQ==&amp;mid=2650506685&amp;idx=1&amp;sn=f9ee65e4585418c120f02da7e91a96b7&amp;chksm=88687f33bf1ff62504e5815b31938e5a3444f4eb46e3b934c4e73fcdcaf5f1b0569f31e140ba&amp;scene=21#wechat_redirect" target="_blank">
+            特工大队 | 问世间手机为何物
+           </a>
+          </em>
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <p>
+      <br/>
+     </p>
+    </section>
+    <section class="_135editor" data-id="94332" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section data-width="100%" style="width:100%;">
+      <section style="text-align: center;">
+       <p style="width:4em;display: inline-block;">
+        <img class="" data-ratio="0.3208955223880597" data-type="gif" data-w="134" src="https://mmbiz.qpic.cn/mmbiz_gif/hOWxIuT5SrH8AiaUvCyCHnjn3DPMpXibHnWomDERuIYBDqLma0SbkwKSG7gv2MhbtVicrjSaticMsKSLia80Uibw8DKw/640?wx_fmt=gif" style="width: 4em;display: block;"/>
+       </p>
+      </section>
+     </section>
+    </section>
+    <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <p>
+      <br/>
+     </p>
+    </section>
+    <section class="_135editor" data-id="94208" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section data-width="96%" style="width: 96%;margin:12px auto;">
+      <section style="box-shadow: #d5d5d5 0px 0px 6px;">
+       <section class="135bg" style='background-image: url("https://mmbiz.qpic.cn/mmbiz_png/hOWxIuT5SrH8AiaUvCyCHnjn3DPMpXibHnaeqBjaz5pV93BnuQRCaz3NElTKasRLF4iazx5qctuCH0PeONruL1orQ/640?wx_fmt=png");background-repeat: no-repeat;background-attachment: initial;background-origin: initial;background-clip: initial;background-size: 80%;background-position: left bottom;'>
+        <section class="135brush" data-autoskip="1" style="font-size: 14px;text-align: center;letter-spacing: 1.5px;line-height: 1.75em;padding: 1em 1em 3em;box-sizing: border-box;">
+         <p>
+          <br/>
+         </p>
+         <p>
+          <span style="font-family: PingFangTC-Light;">
+           我们是一个温暖的大家庭
+          </span>
+         </p>
+         <p>
+          <span style="font-family: PingFangTC-Light;">
+           节假日惯例发抢红包
+          </span>
+         </p>
+         <p>
+          <span style="font-family: PingFangTC-Light;">
+           定期会有培训
+          </span>
+         </p>
+         <span style="font-family: PingFangTC-Light;">
+          平时也会有小活动，大家聚在一起玩游戏
+         </span>
+         <p>
+          <br/>
+         </p>
+         <p>
+          <img class="" data-ratio="0.7504520795660036" data-type="png" data-w="553" src="https://mmbiz.qpic.cn/mmbiz_png/hOWxIuT5SrH8AiaUvCyCHnjn3DPMpXibHnl9rnf1EJ0bNldlTa9WyYfM8I1WXb56wHdKQHFq7OK7VtoKWFGGmMJQ/640?wx_fmt=png"/>
+         </p>
+         <p>
+          <br/>
+         </p>
+         <table cellpadding="0" cellspacing="0">
+          <tbody>
+           <tr class="firstRow">
+            <td colspan="3" style="border-color: windowtext;padding: 0px 7px;" valign="top" width="568">
+             <p>
+              <strong>
+               <span style="font-family: PingFangTC-Light;font-size: 15px;">
+                招新计划
+               </span>
+              </strong>
+             </p>
+            </td>
+           </tr>
+           <tr>
+            <td style="border-color: currentcolor windowtext windowtext;border-top-style: none;border-top-width: medium;padding: 0px 7px;" valign="top" width="189">
+             <p>
+              <strong>
+               <span style="font-family: PingFangTC-Light;font-size: 15px;">
+                部门
+               </span>
+              </strong>
+             </p>
+            </td>
+            <td style="border-color: currentcolor windowtext windowtext currentcolor;border-top-style: none;border-left-style: none;border-top-width: medium;border-left-width: medium;padding: 0px 7px;" valign="top" width="189">
+             <p>
+              <strong>
+               <span style="font-family: PingFangTC-Light;font-size: 15px;">
+                校区
+               </span>
+              </strong>
+             </p>
+            </td>
+            <td style="border-color: currentcolor windowtext windowtext currentcolor;border-top-style: none;border-left-style: none;border-top-width: medium;border-left-width: medium;padding: 0px 7px;" valign="top" width="189">
+             <p>
+              <strong>
+               <span style="font-family: PingFangTC-Light;font-size: 15px;">
+                人数
+               </span>
+              </strong>
+             </p>
+            </td>
+           </tr>
+           <tr>
+            <td style="border-color: currentcolor windowtext windowtext;border-top-style: none;border-top-width: medium;padding: 0px 7px;" valign="top" width="189">
+             <p>
+              <span style="font-family: PingFangTC-Light;font-size: 13px;">
+               办公室
+              </span>
+             </p>
+            </td>
+            <td style="border-color: currentcolor windowtext windowtext currentcolor;border-top-style: none;border-left-style: none;border-top-width: medium;border-left-width: medium;padding: 0px 7px;word-break: break-all;" valign="top" width="189">
+             <p>
+              <span style="font-family: PingFangTC-Light;font-size: 13px;">
+               中北校区
+              </span>
+             </p>
+            </td>
+            <td style="border-color: currentcolor windowtext windowtext currentcolor;border-top-style: none;border-left-style: none;border-top-width: medium;border-left-width: medium;padding: 0px 7px;" valign="top" width="189">
+             <p>
+              <span style="font-family: PingFangTC-Light;font-size: 13px;">
+               4
+              </span>
+             </p>
+            </td>
+           </tr>
+           <tr>
+            <td style="border-color: currentcolor windowtext windowtext;border-top-style: none;border-top-width: medium;padding: 0px 7px;" valign="top" width="189">
+             <p>
+              <span style="font-family: PingFangTC-Light;font-size: 13px;">
+               网络工作部
+              </span>
+             </p>
+            </td>
+            <td style="border-color: currentcolor windowtext windowtext currentcolor;border-top-style: none;border-left-style: none;border-top-width: medium;border-left-width: medium;padding: 0px 7px;word-break: break-all;" valign="top" width="189">
+             <p>
+              <span style="font-family: PingFangTC-Light;font-size: 13px;">
+               中北校区
+              </span>
+             </p>
+            </td>
+            <td style="border-color: currentcolor windowtext windowtext currentcolor;border-top-style: none;border-left-style: none;border-top-width: medium;border-left-width: medium;padding: 0px 7px;" valign="top" width="189">
+             <p>
+              <span style="font-family: PingFangTC-Light;font-size: 13px;">
+               1
+              </span>
+             </p>
+            </td>
+           </tr>
+           <tr>
+            <td style="border-color: currentcolor windowtext windowtext;border-top-style: none;border-top-width: medium;padding: 0px 7px;" valign="top" width="189">
+             <p>
+              <span style="font-family: PingFangTC-Light;font-size: 13px;">
+               记者团
+              </span>
+             </p>
+            </td>
+            <td style="border-color: currentcolor windowtext windowtext currentcolor;border-top-style: none;border-left-style: none;border-top-width: medium;border-left-width: medium;padding: 0px 7px;word-break: break-all;" valign="top" width="189">
+             <p>
+              <span style="font-family: PingFangTC-Light;font-size: 13px;">
+               中北校区
+              </span>
+             </p>
+            </td>
+            <td style="border-color: currentcolor windowtext windowtext currentcolor;border-top-style: none;border-left-style: none;border-top-width: medium;border-left-width: medium;padding: 0px 7px;" valign="top" width="189">
+             <p>
+              <span style="font-family: PingFangTC-Light;font-size: 13px;">
+               5
+              </span>
+             </p>
+            </td>
+           </tr>
+           <tr>
+            <td style="border-color: currentcolor windowtext windowtext;border-top-style: none;border-top-width: medium;padding: 0px 7px;" valign="top" width="189">
+             <p>
+              <span style="font-family: PingFangTC-Light;font-size: 13px;">
+               视频组
+              </span>
+             </p>
+            </td>
+            <td style="border-color: currentcolor windowtext windowtext currentcolor;border-top-style: none;border-left-style: none;border-top-width: medium;border-left-width: medium;padding: 0px 7px;word-break: break-all;" valign="top" width="189">
+             <p>
+              <span style="font-family: PingFangTC-Light;font-size: 13px;">
+               中北校区
+              </span>
+             </p>
+            </td>
+            <td style="border-color: currentcolor windowtext windowtext currentcolor;border-top-style: none;border-left-style: none;border-top-width: medium;border-left-width: medium;padding: 0px 7px;" valign="top" width="189">
+             <p>
+              <span style="font-family: PingFangTC-Light;font-size: 13px;">
+               1
+              </span>
+             </p>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+         <p>
+          <br/>
+         </p>
+         <p>
+          <span style="text-decoration: underline;font-family: PingFangTC-Light;">
+           <strong>
+            <span style="color: rgb(192, 0, 0);">
+             3.3日（周日）前
+            </span>
+           </strong>
+          </span>
+         </p>
+         <p>
+          <span style="font-family: PingFangTC-Light;">
+           点击“阅读全文”或扫描下方二维码即可申请加入
+          </span>
+         </p>
+         <p>
+          <span style="font-family: 微软雅黑;">
+           <img class="" data-ratio="1" data-type="png" data-w="225" src="https://mmbiz.qpic.cn/mmbiz_png/hOWxIuT5SrH8AiaUvCyCHnjn3DPMpXibHnHN1coznThSdWJaTjJiaicSVmQI46Tibhvo0iaQboSpNLQA69dg52lNgZvA/640?wx_fmt=png"/>
+           <br/>
+          </span>
+         </p>
+         <p>
+          <br/>
+         </p>
+         <p>
+          <span style="font-family: PingFangTC-Light;">
+           大学四年，不应留下什么遗憾
+          </span>
+         </p>
+         <p>
+          <span style="font-family: PingFangTC-Light;">
+           给自己的大学生活留下一个美好的回忆吧！
+          </span>
+         </p>
+         <p>
+          <br/>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <p style="max-width: 100%;min-height: 1em;font-family: -apple-system-font, BlinkMacSystemFont, Arial, sans-serif;font-size: 17px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;line-height: 27.2px;white-space: normal;widows: 1;text-align: right;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+     <span style="max-width: 100%;color: rgb(165, 165, 165);font-family: PingFangTC-Light;font-size: 12px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+      文案 | 邓煜星 李叶青
+      <br/>
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;font-family: -apple-system-font, BlinkMacSystemFont, Arial, sans-serif;font-size: 17px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;line-height: 27.2px;white-space: normal;widows: 1;text-align: right;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+     <span style="max-width: 100%;color: rgb(165, 165, 165);font-family: PingFangTC-Light;font-size: 12px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+      图源 | 邓煜星 网络
+      <br/>
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;font-family: -apple-system-font, BlinkMacSystemFont, Arial, sans-serif;font-size: 17px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;text-align: right;line-height: 1.5em;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+     <span style="max-width: 100%;color: rgb(165, 165, 165);font-family: PingFangTC-Light;font-size: 12px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+      编辑 | 陈的妮
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;font-family: -apple-system-font, BlinkMacSystemFont, Arial, sans-serif;font-size: 17px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;white-space: normal;widows: 1;line-height: 1.5em;text-align: right;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+     <span style="max-width: 100%;color: rgb(165, 165, 165);font-family: PingFangTC-Light;font-size: 12px;box-sizing: border-box !important;overflow-wrap: break-word !important;">
+      责任编辑 | 曹梓祎
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;font-family: -apple-system-font, BlinkMacSystemFont, Arial, sans-serif;font-size: 17px;font-variant-numeric: normal;font-variant-east-asian: normal;letter-spacing: 0.544px;line-height: 27.2px;white-space: normal;widows: 1;background-color: rgb(255, 255, 255);box-sizing: border-box !important;overflow-wrap: break-word !important;">
+     <img class="__bg_gif" data-copyright="0" data-ratio="0.5555555555555556" data-type="gif" data-w="819" src="https://mmbiz.qpic.cn/mmbiz_gif/hOWxIuT5SrH8AiaUvCyCHnjn3DPMpXibHnEC0jKYKRuicdrciahXydWWeE7dXLWOhQkLpoznHxpHNI09jGL3ibAibbicQ/640?wx_fmt=gif" style="width: 100%;box-sizing: border-box !important;overflow-wrap: break-word !important;visibility: visible !important;"/>
+    </p>
+    <section style="max-width: 100%;box-sizing: border-box;letter-spacing: 0.544px;white-space: normal;color: rgba(62, 62, 62, 0.74);font-family: Optima-Regular, PingFangTC-light;text-align: right;background-color: rgb(255, 255, 255);font-size: 16px;overflow-wrap: break-word !important;">
+     <section style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+      <section style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+       <section style="max-width: 100%;box-sizing: border-box;font-size: 12px;overflow-wrap: break-word !important;">
+        <section style="max-width: 100%;box-sizing: border-box;font-size: 16px;overflow-wrap: break-word !important;">
+         <section style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+          <section style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+           <section style="max-width: 100%;box-sizing: border-box;font-size: 12px;overflow-wrap: break-word !important;">
+            <section style="max-width: 100%;box-sizing: border-box;color: rgb(175, 175, 175);font-variant-numeric: normal;letter-spacing: 0.544px;widows: 1;font-size: 16px;overflow-wrap: break-word !important;">
+             <section style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+              <section style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+               <section style="max-width: 100%;box-sizing: border-box;font-size: 5px;overflow-wrap: break-word !important;">
+                <section style="max-width: 100%;box-sizing: border-box;color: rgba(62, 62, 62, 0.74);font-size: 16px;overflow-wrap: break-word !important;">
+                 <section style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+                  <section style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+                   <section style="max-width: 100%;box-sizing: border-box;font-size: 12px;line-height: 1.6;color: rgb(214, 214, 214);letter-spacing: 0px;overflow-wrap: break-word !important;">
+                    <section data-role="paragraph" style="max-width: 677px;box-sizing: border-box;font-stretch: normal;line-height: 25.6px;font-family: -apple-system-font, BlinkMacSystemFont, Arial, sans-serif;border-width: 0px;border-style: none;border-color: rgb(178, 178, 178);color: rgb(178, 178, 178);letter-spacing: 0.54px;text-align: center;overflow-wrap: break-word !important;">
+                     <section style="margin-top: 14px;padding: 7px;max-width: 677px;box-sizing: border-box;border-width: 1px;border-style: solid;border-color: rgb(215, 215, 215);font-family: 微软雅黑;font-size: 14px;letter-spacing: 1px;line-height: 18.3px;overflow-wrap: break-word !important;">
+                      <p style="max-width: 661px;box-sizing: border-box;min-height: 14px;overflow-wrap: break-word !important;">
+                       <span style="max-width: 100%;box-sizing: border-box;color: rgb(136, 136, 136);font-size: 12px;font-weight: 700;overflow-wrap: break-word !important;">
+                        阅 读 更 多
+                       </span>
+                       <strong style="max-width: 100%;box-sizing: border-box;color: rgb(160, 160, 160);text-align: right;overflow-wrap: break-word !important;">
+                        <span style="max-width: 100%;box-sizing: border-box;border-width: 0px;border-style: none;border-color: rgb(120, 172, 254);bottom: auto;color: rgb(120, 172, 254);height: auto;left: auto;line-height: normal;max-height: none;min-height: 0px;min-width: 0px;top: auto;visibility: visible;z-index: auto;background-image: none;background-size: auto;background-clip: border-box;background-position: 0% 0%;background-repeat: repeat;overflow-wrap: break-word !important;">
+                        </span>
+                       </strong>
+                      </p>
+                      <p style="max-width: 661px;box-sizing: border-box;min-height: 14px;overflow-wrap: break-word !important;">
+                       <br style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;"/>
+                      </p>
+                      <p style="max-width: 661px;box-sizing: border-box;min-height: 14px;color: rgb(136, 136, 136);line-height: 24.5px;text-align: left;overflow-wrap: break-word !important;">
+                       <span style="color: rgb(87, 107, 149);-webkit-tap-highlight-color: rgba(0, 0, 0, 0);max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;font-weight: 700;text-align: right;">
+                        <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA5MjgxOTQyNQ==&amp;mid=2650506915&amp;idx=1&amp;sn=e0fbbd7d65092b0a7c12f7d97f9d4993&amp;chksm=88687c2dbf1ff53bb8d65fa9ad2c926197c3698bbcdca10244da90a2b860f5fc10b3ebe22a67&amp;scene=21#wechat_redirect" style="color: rgb(87, 107, 149);-webkit-tap-highlight-color: rgba(0, 0, 0, 0);max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;" target="_blank">
+                         <strong style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+                          <strong style="max-width: 100%;box-sizing: border-box;border-width: 0px;border-style: none;border-color: rgb(0, 0, 0);bottom: auto;display: inline;float: none;height: auto;left: auto;line-height: 18.3px;max-height: none;min-height: 0px;min-width: 0px;top: auto;visibility: visible;z-index: auto;background-image: none;background-size: auto;background-clip: border-box;background-position: 0% 0%;background-repeat: repeat;overflow-wrap: break-word !important;">
+                           ·
+                          </strong>
+                         </strong>
+                         <strong style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+                          <strong style="max-width: 100%;box-sizing: border-box;border-width: 0px;border-style: none;border-color: rgb(120, 172, 254);bottom: auto;display: inline;float: none;height: auto;left: auto;line-height: 18.3px;max-height: none;min-height: 0px;min-width: 0px;top: auto;visibility: visible;z-index: auto;background-image: none;background-size: auto;background-clip: border-box;background-position: 0% 0%;background-repeat: repeat;overflow-wrap: break-word !important;">
+                          </strong>
+                         </strong>
+                        </a>
+                       </span>
+                       <a data-itemshowtype="0" data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA5MjgxOTQyNQ==&amp;mid=2650507896&amp;idx=1&amp;sn=4f019c7a2da2f240b7a1d443426364a8&amp;chksm=886870f6bf1ff9e0f3326612e4ee74f6a59dc881273a82f9200d4d8440f72ed2a6aff4a6f520&amp;scene=21#wechat_redirect" target="_blank">
+                        开学第一周，校园里等着你的除了可爱的朋友，还有....
+                       </a>
+                      </p>
+                      <p style="max-width: 661px;box-sizing: border-box;min-height: 14px;color: rgb(136, 136, 136);line-height: 24.5px;text-align: left;overflow-wrap: break-word !important;">
+                       <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA5MjgxOTQyNQ==&amp;mid=2650506901&amp;idx=1&amp;sn=f7d3fbba0231b6ff922fc519388684ba&amp;chksm=88687c1bbf1ff50dcd70a6930048ff504fe69b534feb334ab1e04c208572f2ae34bed2ca7ede&amp;scene=21#wechat_redirect" style="color: rgb(87, 107, 149);-webkit-tap-highlight-color: rgba(0, 0, 0, 0);max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;" target="_blank">
+                        <span style="max-width: 100%;box-sizing: border-box;font-weight: 700;text-align: right;overflow-wrap: break-word !important;">
+                         <strong style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+                          <strong style="max-width: 100%;box-sizing: border-box;border-width: 0px;border-style: none;border-color: rgb(0, 0, 0);bottom: auto;display: inline;float: none;height: auto;left: auto;line-height: 18.3px;max-height: none;min-height: 0px;min-width: 0px;top: auto;visibility: visible;z-index: auto;background-image: none;background-size: auto;background-clip: border-box;background-position: 0% 0%;background-repeat: repeat;overflow-wrap: break-word !important;">
+                           ·
+                          </strong>
+                         </strong>
+                         <strong style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+                          <strong style="max-width: 100%;box-sizing: border-box;border-width: 0px;border-style: none;border-color: rgb(120, 172, 254);bottom: auto;display: inline;float: none;height: auto;left: auto;line-height: 18.3px;max-height: none;min-height: 0px;min-width: 0px;top: auto;visibility: visible;z-index: auto;background-image: none;background-size: auto;background-clip: border-box;background-position: 0% 0%;background-repeat: repeat;overflow-wrap: break-word !important;">
+                          </strong>
+                         </strong>
+                        </span>
+                       </a>
+                       <a data-itemshowtype="0" data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA5MjgxOTQyNQ==&amp;mid=2650507677&amp;idx=1&amp;sn=90fec4de9903dfa3677444f470bf3834&amp;chksm=88687313bf1ffa05e4c2826efe0374867a19eba5153071ac253885a6ec975bb6f9418b25dfa3&amp;scene=21#wechat_redirect" target="_blank">
+                        2019实践再出发，我们都是新时代的追梦人
+                       </a>
+                      </p>
+                      <p style="max-width: 661px;box-sizing: border-box;min-height: 14px;color: rgb(136, 136, 136);line-height: 24.5px;text-align: left;overflow-wrap: break-word !important;">
+                       <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA5MjgxOTQyNQ==&amp;mid=2650506901&amp;idx=2&amp;sn=1ac7d261209eb489db66496e493d1a0b&amp;chksm=88687c1bbf1ff50d870de0e2aad2739d3ab1bcbaca3e6fea91124997e7bf498cc39a2148d837&amp;scene=21#wechat_redirect" style="color: rgb(87, 107, 149);-webkit-tap-highlight-color: rgba(0, 0, 0, 0);max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;" target="_blank">
+                        <span style="max-width: 100%;box-sizing: border-box;font-weight: 700;text-align: right;overflow-wrap: break-word !important;">
+                         <strong style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+                          <strong style="max-width: 100%;box-sizing: border-box;border-width: 0px;border-style: none;border-color: rgb(0, 0, 0);bottom: auto;display: inline;float: none;height: auto;left: auto;line-height: 18.3px;max-height: none;min-height: 0px;min-width: 0px;top: auto;visibility: visible;z-index: auto;background-image: none;background-size: auto;background-clip: border-box;background-position: 0% 0%;background-repeat: repeat;overflow-wrap: break-word !important;">
+                           ·
+                          </strong>
+                         </strong>
+                         <strong style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;">
+                          <strong style="max-width: 100%;box-sizing: border-box;border-width: 0px;border-style: none;border-color: rgb(120, 172, 254);bottom: auto;display: inline;float: none;height: auto;left: auto;line-height: 18.3px;max-height: none;min-height: 0px;min-width: 0px;top: auto;visibility: visible;z-index: auto;background-image: none;background-size: auto;background-clip: border-box;background-position: 0% 0%;background-repeat: repeat;overflow-wrap: break-word !important;">
+                          </strong>
+                         </strong>
+                        </span>
+                       </a>
+                       <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA5MjgxOTQyNQ==&amp;mid=2650507267&amp;idx=1&amp;sn=f2d679549a09315f4bd8b8934c8e0e2d&amp;chksm=8868728dbf1ffb9be37b3a57d4ff1123dd995562d5960349f07b8fb26dd4c40e983cd0e9391c&amp;scene=21#wechat_redirect" style="color: rgb(87, 107, 149);-webkit-tap-highlight-color: rgba(0, 0, 0, 0);max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;" target="_blank">
+                        最强回忆杀！华东师大青年首进社区宣讲40年市民生活变化
+                       </a>
+                      </p>
+                      <p style="max-width: 661px;box-sizing: border-box;min-height: 14px;color: rgb(136, 136, 136);text-align: right;overflow-wrap: break-word !important;">
+                       <br style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;"/>
+                      </p>
+                      <p style="max-width: 661px;box-sizing: border-box;min-height: 14px;color: rgb(136, 136, 136);text-align: right;overflow-wrap: break-word !important;">
+                       <br style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;"/>
+                      </p>
+                      <p style="margin-bottom: 5px;max-width: 661px;box-sizing: border-box;min-height: 14px;color: rgb(160, 160, 160);overflow-wrap: break-word !important;">
+                       <span style="max-width: 100%;box-sizing: border-box;color: rgb(136, 136, 136);font-size: 12px;font-weight: 700;overflow-wrap: break-word !important;">
+                        关 键 词 回 复
+                       </span>
+                      </p>
+                      <p style="margin-right: 8px;margin-left: 8px;max-width: 661px;box-sizing: border-box;min-height: 14px;color: rgb(160, 160, 160);overflow-wrap: break-word !important;">
+                       <span style="max-width: 100%;box-sizing: border-box;color: rgb(177, 177, 177);font-size: 12px;overflow-wrap: break-word !important;">
+                        师大青年/科创/行知/志愿者/支部风采/师说/河边人/阅读/特工大队/校车/校历/小花吃/毕业季
+                       </span>
+                      </p>
+                      <p style="margin-top: 10px;margin-bottom: 5px;max-width: 661px;box-sizing: border-box;min-height: 14px;color: rgb(136, 136, 136);overflow-wrap: break-word !important;">
+                       <span style="max-width: 100%;box-sizing: border-box;font-size: 12px;overflow-wrap: break-word !important;">
+                        更 多 精 彩，关 注 菜 单
+                       </span>
+                      </p>
+                     </section>
+                    </section>
+                   </section>
+                  </section>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

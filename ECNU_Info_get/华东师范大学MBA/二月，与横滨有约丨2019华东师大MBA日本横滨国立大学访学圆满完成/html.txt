@@ -1,0 +1,1007 @@
+
+ <section style="padding: 0px 2px;box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0% 20px;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;width: 50%;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: right;margin: 0px 0% -10px;box-sizing: border-box;">
+       <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;padding: 0px 20px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;color: rgb(149, 172, 175);font-size: 14px;letter-spacing: 2px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             华东师范大学
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: -10px 0% 0px;text-align: right;transform: translate3d(9px, 0px, 0px);-webkit-transform: translate3d(9px, 0px, 0px);-moz-transform: translate3d(9px, 0px, 0px);-o-transform: translate3d(9px, 0px, 0px);box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+        <section style="display: inline-block;vertical-align: bottom;margin-bottom: 11px;width: 5px;border-right: 1px solid rgb(79, 118, 120);border-left: 1px solid rgb(79, 118, 120);height: 8px;transform-origin: center bottom 0px;-webkit-transform-origin: center bottom 0px;-moz-transform-origin: center bottom 0px;-o-transform-origin: center bottom 0px;transform: skew(-30deg);-webkit-transform: skew(-30deg);-moz-transform: skew(-30deg);-o-transform: skew(-30deg);border-top-color: rgb(79, 118, 120);border-bottom-color: rgb(79, 118, 120);box-sizing: border-box;">
+        </section>
+        <section style="display: inline-block;vertical-align: top;padding-left: 10px;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+       <section style="height: 12px;margin-top: -12px;border-top: 1px solid rgb(79, 118, 120);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: top;width: 50%;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+        <section style="display: inline-block;vertical-align: top;padding-right: 5px;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+        </section>
+        <section style="margin-right: 4px;margin-bottom: 4px;display: inline-block;vertical-align: bottom;width: 5px;border-right: 1px solid rgb(79, 118, 120);border-left: 1px solid rgb(79, 118, 120);height: 8px;transform-origin: center bottom 0px;-webkit-transform-origin: center bottom 0px;-moz-transform-origin: center bottom 0px;-o-transform-origin: center bottom 0px;transform: skew(-30deg);-webkit-transform: skew(-30deg);-moz-transform: skew(-30deg);-o-transform: skew(-30deg);border-top-color: rgb(79, 118, 120);border-bottom-color: rgb(79, 118, 120);box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="height: 12px;margin-top: -12px;border-top: 1px solid rgb(79, 118, 120);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: -10px 0% 0px;box-sizing: border-box;">
+       <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;padding: 0px 0px 0px 20px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="color: rgb(149, 172, 175);font-size: 14px;letter-spacing: 2px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             横滨国立大学
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 10px 0% 25px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 80%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicuSBhqsEWaLz1ZlkTH6wgtIlo0p3167NIEibcwGyciaT5J7VDXHNSITC2BEY5PupRV0cTtJDHibVmzicg/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: -20px 0% 20px;box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;color: rgb(116, 155, 166);letter-spacing: 1px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      访学团集体合影
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 0px 0% 20px;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border-width: 2px 1px;border-style: none none dashed;border-color: rgb(117, 119, 123);padding: 0px;background-color: rgba(190, 211, 214, 0.48);border-radius: 0px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;text-align: left;line-height: 1;box-sizing: border-box;">
+       <section style="width: 0px;display: inline-block;border-top: 0.6em solid rgb(255, 255, 255);border-left: 0.6em solid rgb(255, 255, 255);border-bottom: 0.6em solid transparent !important;border-right: 0.6em solid transparent !important;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;letter-spacing: 0px;padding: 0px 10px 10px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: justify;font-size: 14px;line-height: 2;padding: 0px 5px;color: rgb(131, 130, 130);letter-spacing: 2px;box-sizing: border-box;">
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            2019年2月12日至2月23日，华东师范大学经济与管理学部专业学位教育中心14名MBA学生在吴信如教授、专业学位教育中心刘莹老师的带领下，顺利完成了为期12天的横滨国立大学寒假访学之旅。整个访学行程设置丰富多彩，课程学习与企业参访交错穿插，令师生们在经历一场学术交流盛宴的同时，也进行了一场对日本文化的探索之旅。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 20px 0% 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 10%;box-sizing: border-box;">
+     <svg class="svg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" viewbox="0 0 126.4 105.9" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+      <g style="box-sizing: border-box;">
+       <g style="box-sizing: border-box;">
+        <polygon fill="rgb(35, 31, 32)" points="55,102 59.5,102 57.2,105.9" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="49.5,92.5 65,92.5 62.7,96.4 51.7,96.4" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="38.5,73.6 76,73.6 73.7,77.5 40.7,77.5" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="44,83.1 70.5,83.1 68.2,87 46.2,87" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="33,64.1 81.5,64.1 79.2,68 35.2,68" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="27.5,54.6 87,54.6 84.7,58.5 29.7,58.5" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="22,45.1 92.5,45.1 90.2,49 24.2,49" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="16.5,35.6 98,35.6 95.7,39.5 18.8,39.5" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="11,26.1 103.5,26.1 101.2,30 13.3,30" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="5.5,16.7 109,16.7 106.7,20.6 7.8,20.6" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="0,7.2 114.5,7.2 112.2,11.1 2.3,11.1" style="box-sizing: border-box;">
+        </polygon>
+       </g>
+       <g style="box-sizing: border-box;">
+        <polygon fill="rgb(190, 211, 214)" points="67,94.9 71.5,94.9 69.2,98.8" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="61.5,85.4 77,85.4 74.7,89.3 63.7,89.3" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="50.5,66.4 88,66.4 85.7,70.3 52.7,70.3" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="56,75.9 82.5,75.9 80.2,79.8 58.2,79.8" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="45,56.9 93.5,56.9 91.2,60.8 47.2,60.8" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="39.5,47.4 99,47.4 96.7,51.3 41.7,51.3" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="34,37.9 104.5,37.9 102.2,41.8 36.2,41.8" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="28.5,28.5 110,28.5 107.7,32.4 30.7,32.4" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="23,19 115.5,19 113.2,22.9 25.2,22.9" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="17.5,9.5 121,9.5 118.7,13.4 19.8,13.4" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="12,0 126.4,0 124.2,3.9 14.3,3.9" style="box-sizing: border-box;">
+        </polygon>
+       </g>
+      </g>
+     </svg>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 20px 0% 0px;box-sizing: border-box;">
+    <section style="text-align: center;font-size: 15px;color: rgb(116, 155, 166);letter-spacing: 2px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       初识横滨&amp;横滨国立大学
+      </strong>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 20px 0% 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 90%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.65" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicuSBhqsEWaLz1ZlkTH6wgtIbj8mF5HSLJicFG0hmzibdyQX11O8ic1NweKXXJhLw0Zyu6faoRMWEPoKg/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: -5px 0% 10px;box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;color: rgb(116, 155, 166);letter-spacing: 2px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      横滨海湾大桥景观及港湾物流输送重要地段
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 15px 0% 0px;box-sizing: border-box;">
+    <section style="text-align: justify;font-size: 14px;color: rgb(131, 130, 130);letter-spacing: 2px;line-height: 2;padding: 0px 5px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      横滨（Yokohama）是神奈川县东部的国际港口都市，该市拥有日本国内仅次于东京都区部的人口数。市内有位于东京湾西岸的横滨港，经常被视为是东京的外港，沿岸设有大量的港埠设施与伴生的工业与仓储产业，是日本东西方交流的重要城市。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 90%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.6537037" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicuSBhqsEWaLz1ZlkTH6wgtIEbdU02H93bXw1bZFW4dJ2IYnVmcKicoWE3lTuU6zDDiboIH5VC5D00qg/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: -5px 0% 10px;box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;color: rgb(116, 155, 166);letter-spacing: 2px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      横滨国立大学一角
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 15px 0% 0px;box-sizing: border-box;">
+    <section style="text-align: justify;font-size: 14px;color: rgb(131, 130, 130);letter-spacing: 2px;line-height: 2;padding: 0px 5px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      横滨国立大学，英文全称为Yokohama National University，简称YNU，是一所本部位于日本神奈川县横滨市保土谷区的研究型国立综合大学，其中的经济学部与经营学部在日本一直被视为走向金融行业的教育重镇。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 20px 0% 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 5%;box-sizing: border-box;">
+     <svg class="svg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" viewbox="0 0 126.4 105.9" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+      <g style="box-sizing: border-box;">
+       <g style="box-sizing: border-box;">
+        <polygon fill="rgb(35, 31, 32)" points="55,102 59.5,102 57.2,105.9" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="49.5,92.5 65,92.5 62.7,96.4 51.7,96.4" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="38.5,73.6 76,73.6 73.7,77.5 40.7,77.5" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="44,83.1 70.5,83.1 68.2,87 46.2,87" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="33,64.1 81.5,64.1 79.2,68 35.2,68" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="27.5,54.6 87,54.6 84.7,58.5 29.7,58.5" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="22,45.1 92.5,45.1 90.2,49 24.2,49" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="16.5,35.6 98,35.6 95.7,39.5 18.8,39.5" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="11,26.1 103.5,26.1 101.2,30 13.3,30" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="5.5,16.7 109,16.7 106.7,20.6 7.8,20.6" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="0,7.2 114.5,7.2 112.2,11.1 2.3,11.1" style="box-sizing: border-box;">
+        </polygon>
+       </g>
+       <g style="box-sizing: border-box;">
+        <polygon fill="rgb(190, 211, 214)" points="67,94.9 71.5,94.9 69.2,98.8" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="61.5,85.4 77,85.4 74.7,89.3 63.7,89.3" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="50.5,66.4 88,66.4 85.7,70.3 52.7,70.3" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="56,75.9 82.5,75.9 80.2,79.8 58.2,79.8" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="45,56.9 93.5,56.9 91.2,60.8 47.2,60.8" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="39.5,47.4 99,47.4 96.7,51.3 41.7,51.3" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="34,37.9 104.5,37.9 102.2,41.8 36.2,41.8" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="28.5,28.5 110,28.5 107.7,32.4 30.7,32.4" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="23,19 115.5,19 113.2,22.9 25.2,22.9" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="17.5,9.5 121,9.5 118.7,13.4 19.8,13.4" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="12,0 126.4,0 124.2,3.9 14.3,3.9" style="box-sizing: border-box;">
+        </polygon>
+       </g>
+      </g>
+     </svg>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 20px 0% 0px;box-sizing: border-box;">
+    <section style="text-align: center;font-size: 15px;color: rgb(116, 155, 166);letter-spacing: 2px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       课程学习，知学收获
+      </strong>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 20px 0% 0px;box-sizing: border-box;">
+    <section style="text-align: justify;font-size: 14px;color: rgb(131, 130, 130);letter-spacing: 2px;line-height: 2;padding: 0px 5px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      课程学习作为本次访学日程的重要板块，日本横滨国立大学的资深教授们运用自身深厚的学术积淀，以及丰富的实战经验为访学师生讲授了数堂精彩课程，涵盖了基础日语、日本文化与社会、领导力、供应链管理、经营管理游戏、可持续发展目标与商业、气候变化与商业管理等专题课程。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 15px 0% 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 90%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicuSBhqsEWaLz1ZlkTH6wgtIyEWJRTuBUicL5UkCibEpFymPjpzLVNOM4hDJsOodS75WO8AlB6XX1c9g/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: -5px 0% 10px;box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;color: rgb(116, 155, 166);letter-spacing: 2px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      Hanzawa教授授课现场
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 20px 0% 0px;box-sizing: border-box;">
+    <section style="text-align: justify;font-size: 14px;color: rgb(131, 130, 130);letter-spacing: 2px;line-height: 2;padding: 0px 5px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      Hanzawa教授极具亲和力，她生动的语言教学、亲切的教态引导同学们快速掌握了基础的日语日常对话，也进一步激发了同学们对于语言的学习兴趣。值得一提的是，日语课程当日恰逢2月14日情人节，用心的Hanzawa教授还为同学们特别准备了巧克力作为惊喜，令同学们纷纷表示感受到了浓浓的温暖与感动。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 15px 0% 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 90%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicuSBhqsEWaLz1ZlkTH6wgtIicN9cJOvh4bbic0qVDc5kxg61ZUlB8ehhiaV7ln0EIia7ZuToJOEBYJwiag/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: -5px 0% 10px;box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;color: rgb(116, 155, 166);letter-spacing: 2px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      Thornton教授授课现场
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 20px 0% 0px;box-sizing: border-box;">
+    <section style="text-align: justify;font-size: 14px;color: rgb(131, 130, 130);letter-spacing: 2px;line-height: 2;padding: 0px 5px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      Thornton教授在课程中深情并茂地为访学师生们介绍了日本的当地文化、日本的社会结构以及日本人的生活习惯等，一路从旧时代的日本讲解到新时代的日本，通过经济、社会、地理、商业等多个角度对日本文化进行了剖析，帮助师生们更深入地了解了日本的风土人情。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 15px 0% 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 90%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicuSBhqsEWaLz1ZlkTH6wgtIiaUOia5ibTKLImHgftjKL1T8icuXRv24bFudGdknCWFkZ5CHygJZ0ylsiag/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: -5px 0% 10px;box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;color: rgb(116, 155, 166);letter-spacing: 2px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      Heller教授授课现场
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 20px 0% 0px;box-sizing: border-box;">
+    <section style="text-align: justify;font-size: 14px;color: rgb(131, 130, 130);letter-spacing: 2px;line-height: 2;padding: 0px 5px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      来自美国的Heller教授在日本旅居多年，风趣幽默，授课方式极有感染力，在Janpanese leadership的课程中，他分享了在《Global Leadership Perspectives：Insights and Analysis》一书中的观点，通过讲述与西方公司的对比以及日本学者关于日企领导力的理解，深度阐述了日本公司的企业文化中的领导力概念。他指出，有别于西方的个人英雄主义，日本公司的领导力不强调能言善辩，领导关系是分散的、建立在长期关系的基础上的。课程中，校方还邀请了横滨国立大学YBS的同学参与讨论，与中方同学们共同分享领导力在各自实际生活工作中的体验与感悟。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 15px 0% 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 90%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicuSBhqsEWaLz1ZlkTH6wgtITettiaMqYoQuf2NibmFNDPO1RooxrOjf8LdyFr3LgByibIKia2xjibhWNCg/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: -5px 0% 10px;box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;color: rgb(116, 155, 166);letter-spacing: 2px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      Ishida教授授课现场
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 20px 0% 0px;box-sizing: border-box;">
+    <section style="text-align: justify;font-size: 14px;color: rgb(131, 130, 130);letter-spacing: 2px;line-height: 2;padding: 0px 5px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      在SDGs &amp; business课程中，Ishida教授首先介绍了SDGs的概念，即联合国可持续发展目标，它是为所有人实现更美好、更可持续未来的蓝图而设定的，涉及当前人类面临的贫困、不平等、气候、环境退化以及和平正义等挑战相关的17大类目标。随后，Ishida教授进一步介绍了SDGs实施过程中的企业分类，各国政府所作的积极努力等。授课过程中，Ishida教授通过启发式提问，训练了学生们善用提问与思考的思维方式。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 15px 0% 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 90%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicuSBhqsEWaLz1ZlkTH6wgtIRVYDt58qHBnRyS7SEe1M8RGVODFlm45K7lrw3cQZnq8DkibnzZQxwjg/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: -5px 0% 10px;box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;color: rgb(116, 155, 166);letter-spacing: 2px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      两校师生合作研讨
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 20px 0% 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 5%;box-sizing: border-box;">
+     <svg class="svg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" viewbox="0 0 126.4 105.9" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+      <g style="box-sizing: border-box;">
+       <g style="box-sizing: border-box;">
+        <polygon fill="rgb(35, 31, 32)" points="55,102 59.5,102 57.2,105.9" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="49.5,92.5 65,92.5 62.7,96.4 51.7,96.4" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="38.5,73.6 76,73.6 73.7,77.5 40.7,77.5" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="44,83.1 70.5,83.1 68.2,87 46.2,87" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="33,64.1 81.5,64.1 79.2,68 35.2,68" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="27.5,54.6 87,54.6 84.7,58.5 29.7,58.5" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="22,45.1 92.5,45.1 90.2,49 24.2,49" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="16.5,35.6 98,35.6 95.7,39.5 18.8,39.5" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="11,26.1 103.5,26.1 101.2,30 13.3,30" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="5.5,16.7 109,16.7 106.7,20.6 7.8,20.6" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="0,7.2 114.5,7.2 112.2,11.1 2.3,11.1" style="box-sizing: border-box;">
+        </polygon>
+       </g>
+       <g style="box-sizing: border-box;">
+        <polygon fill="rgb(190, 211, 214)" points="67,94.9 71.5,94.9 69.2,98.8" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="61.5,85.4 77,85.4 74.7,89.3 63.7,89.3" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="50.5,66.4 88,66.4 85.7,70.3 52.7,70.3" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="56,75.9 82.5,75.9 80.2,79.8 58.2,79.8" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="45,56.9 93.5,56.9 91.2,60.8 47.2,60.8" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="39.5,47.4 99,47.4 96.7,51.3 41.7,51.3" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="34,37.9 104.5,37.9 102.2,41.8 36.2,41.8" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="28.5,28.5 110,28.5 107.7,32.4 30.7,32.4" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="23,19 115.5,19 113.2,22.9 25.2,22.9" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="17.5,9.5 121,9.5 118.7,13.4 19.8,13.4" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="12,0 126.4,0 124.2,3.9 14.3,3.9" style="box-sizing: border-box;">
+        </polygon>
+       </g>
+      </g>
+     </svg>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 20px 0% 0px;box-sizing: border-box;">
+    <section style="font-size: 15px;color: rgb(116, 155, 166);text-align: center;letter-spacing: 2px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       企业参访，实地体验
+      </strong>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 20px 0% 0px;box-sizing: border-box;">
+    <section style="text-align: justify;font-size: 14px;color: rgb(131, 130, 130);letter-spacing: 2px;line-height: 2;padding: 0px 5px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      学习之外，访学团还进行了多场企业参访，实地体验，加深对日本当地企业的运作、管理认知。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 15px 0% 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 90%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.7490741" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicuSBhqsEWaLz1ZlkTH6wgtIJlxgkd9k7MMmB3aly1IGqGc20c2vsRuxznhOZjM0fTA5snca5cXmag/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: -5px 0% 10px;box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;color: rgb(116, 155, 166);letter-spacing: 2px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      尼桑（NISSAN）公司外景
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 20px 0% 0px;box-sizing: border-box;">
+    <section style="text-align: justify;font-size: 14px;color: rgb(131, 130, 130);letter-spacing: 2px;line-height: 2;padding: 0px 5px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      尼桑（NISSAN）是全球知名的汽车制造商，于1933年在神奈川县横滨市成立，在全球160多个国家和地区提供产品和服务。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 15px 0% 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 90%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicuSBhqsEWaLz1ZlkTH6wgtIMQD5pJWYHFMiacibf152jpTprcPrKfKWMDqtxy7mGukIFicNakyAuMOmA/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: -5px 0% 10px;box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;color: rgb(116, 155, 166);letter-spacing: 2px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      尼桑工厂展厅
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 20px 0% 0px;box-sizing: border-box;">
+    <section style="text-align: justify;font-size: 14px;color: rgb(131, 130, 130);letter-spacing: 2px;line-height: 2;padding: 0px 5px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      参访中，访学师生们首先听取了对尼桑的发展背景，汽车冲压成模、涂装、焊接、组装流程，以及全新的电动车型及发展前景等的讲解介绍。随后，师生们共同参访了尼桑的现代化生产线和存储场地，近距离感受了尼桑工厂的高自动化生产线。装配过程中随处可见的机器人，精确到秒的人工组装技术，严格的检测流程都为师生们留下了深刻印象。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 15px 0% 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 90%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicuSBhqsEWaLz1ZlkTH6wgtI4T5u8jlibtKSBZtAJ0RJicicuopMLriaGwaibicKIDOtqXABn9qVorrqcJIw/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: -5px 0% 10px;box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;color: rgb(116, 155, 166);letter-spacing: 2px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      思科（Cisco）公司参访合影
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 20px 0% 0px;box-sizing: border-box;">
+    <section style="text-align: justify;font-size: 14px;color: rgb(131, 130, 130);letter-spacing: 2px;line-height: 2;padding: 0px 5px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      思科（Cisco）公司取名自于San Francisco，是全球领先的网络解决方案供应商。日本的思科公司坐落于日本繁华的东京中城Midtown。参访中，思科公司的工作人员从不同角度介绍了思科公司的企业背景、产品业务、发展愿景等，特别提到了思科公司作为2020年东京奥林匹克运动会主要供应商之一，在积极做出社会贡献的同时针对提升品牌价值采用的举措。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 15px 0% 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 90%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicuSBhqsEWaLz1ZlkTH6wgtIV7F4de3I8CW9NEqGnlJs190WrKSFl9ZW944WQNAk4icphegwVE6trBg/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: -5px 0% 10px;box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;color: rgb(116, 155, 166);letter-spacing: 2px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      体验视频会议系统
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 20px 0% 0px;box-sizing: border-box;">
+    <section style="text-align: justify;font-size: 14px;color: rgb(131, 130, 130);letter-spacing: 2px;line-height: 2;padding: 0px 5px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      Q&amp;A环节，思科公司介绍了其推行的令员工认同感很强的企业文化、面对5G时代的竞争策略、员工的多元职业生涯规划等，师生们还现场体验了由远在新加坡的思科工作人员远程授课的视频会议系统。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 15px 0% 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 90%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicuSBhqsEWaLz1ZlkTH6wgtIdzSicee2S14CBPKHBqDROmXyJoa30IicxP9uRwiaKNFLqYlRDic3w31EGg/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: -5px 0% 10px;box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;color: rgb(116, 155, 166);letter-spacing: 2px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      参访麒麟啤酒生产车间
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: middle;width: 50%;padding: 0px 5px 0px 0px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: 0px 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicuSBhqsEWaLz1ZlkTH6wgtI44mBcZhG7bYsJZlPkKZiciaGO2k1BdqvicxBibBtmUcPFrptOOx4qhXTSg/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: middle;width: 50%;padding: 0px 0px 0px 5px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: 0px 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicuSBhqsEWaLz1ZlkTH6wgtIP59ibzSGVODiae7fD2gwALNPicWVfIcPAd84kZ1GibFvBUZyUMcZg1VSkg/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: -5px 0% 10px;box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;color: rgb(116, 155, 166);letter-spacing: 2px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      麒麟啤酒体验区
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 20px 0% 0px;box-sizing: border-box;">
+    <section style="text-align: justify;font-size: 14px;color: rgb(131, 130, 130);letter-spacing: 2px;line-height: 2;padding: 0px 5px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      麒麟啤酒（Kirin）创始于1888年，至今已经有131年的历史。麒麟啤酒厂于2016年在工厂原址上改造，现在是一家可以对外开放参观体验的花园工厂。参访中，麒麟啤酒的工作人员带领师生们首先参观了生产车间，讲解了啤酒制作工艺，其中，师生们了解到，大麦用水煮沸后，麦汁水可以提取为一番榨和两番榨。最后，师生们也亲身在体验区感受了一番榨啤酒的风味。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: middle;width: 50%;padding: 0px 5px 0px 0px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: 0px 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicuSBhqsEWaLz1ZlkTH6wgtIq3iagxORrbS8Ausd2hH2JvbU66icHRz4wALUWYicbURaDrIX6VxsscmCQ/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: middle;width: 50%;padding: 0px 0px 0px 5px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: 0px 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicuSBhqsEWaLz1ZlkTH6wgtIsC7EoFzficYOMWZp71Ilibn0lxzDuwomz8UXxw1npib22kibTjoUtGiaV4g/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: -5px 0% 10px;box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;color: rgb(116, 155, 166);letter-spacing: 2px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      鹤见工厂参访
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 20px 0% 0px;box-sizing: border-box;">
+    <section style="text-align: justify;font-size: 14px;color: rgb(131, 130, 130);letter-spacing: 2px;line-height: 2;padding: 0px 5px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      鹤见工厂由横滨资源循环局下设，厂址建于海边，旨在处理横滨市一些大型不燃的垃圾，比如家具、废木材等，同时也处理一些经过分类回收后的铁器、铝器和玻璃制品等。工厂自1995年开始运营，每小时处理垃圾60吨。工作人员介绍到，垃圾在工厂的垃圾坑中进行焚烧后，燃烧后的灰烬经过水处理会重新再处理。燃烧中产生的废气在经过过滤处理后才进行排放，以此保障对环境和人的身体不会产生危害。大部分的工厂设施每天都是自动启动和关闭，工作人员通过LCD监控系统便可以远程控制工厂设备。鹤见工厂先进的垃圾处理技术与专业的环保理念令访学师生们大有所获。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 15px 0% 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 90%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicuSBhqsEWaLz1ZlkTH6wgtIuCqe1JTxS0aF6B6Rp11icEYez0SJx0icfN2Ss4hU2O5XCZVnZibQbGYdQ/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: -5px 0% 10px;box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;color: rgb(116, 155, 166);letter-spacing: 2px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      大川印刷参访
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 20px 0% 0px;box-sizing: border-box;">
+    <section style="text-align: justify;font-size: 14px;color: rgb(131, 130, 130);letter-spacing: 2px;line-height: 2;padding: 0px 5px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      大川印刷成立于1881年，是日本一家历史悠久的印刷公司，主要印刷生产食品和药品的包装和说明书。大川印刷率先改良印刷工艺，从使用石油油墨改为植物油墨，并一直致力于推广此种环保工艺，于2015年11月获得环境部颁发的“环境部长全球变暖活动奖”。参访中，大川印刷厂的工作人员特别安排每一位师生将一片空白圆形纸板放进一台年代悠久的印刷仪器中，掰动机关亲自体验了一把手动印刷，成品是刻有大川LOGO的纪念品，非常具有意义。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 20px 0% 25px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 5%;box-sizing: border-box;">
+     <svg class="svg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" viewbox="0 0 126.4 105.9" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+      <g style="box-sizing: border-box;">
+       <g style="box-sizing: border-box;">
+        <polygon fill="rgb(35, 31, 32)" points="55,102 59.5,102 57.2,105.9" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="49.5,92.5 65,92.5 62.7,96.4 51.7,96.4" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="38.5,73.6 76,73.6 73.7,77.5 40.7,77.5" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="44,83.1 70.5,83.1 68.2,87 46.2,87" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="33,64.1 81.5,64.1 79.2,68 35.2,68" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="27.5,54.6 87,54.6 84.7,58.5 29.7,58.5" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="22,45.1 92.5,45.1 90.2,49 24.2,49" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="16.5,35.6 98,35.6 95.7,39.5 18.8,39.5" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="11,26.1 103.5,26.1 101.2,30 13.3,30" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="5.5,16.7 109,16.7 106.7,20.6 7.8,20.6" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(35, 31, 32)" points="0,7.2 114.5,7.2 112.2,11.1 2.3,11.1" style="box-sizing: border-box;">
+        </polygon>
+       </g>
+       <g style="box-sizing: border-box;">
+        <polygon fill="rgb(190, 211, 214)" points="67,94.9 71.5,94.9 69.2,98.8" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="61.5,85.4 77,85.4 74.7,89.3 63.7,89.3" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="50.5,66.4 88,66.4 85.7,70.3 52.7,70.3" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="56,75.9 82.5,75.9 80.2,79.8 58.2,79.8" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="45,56.9 93.5,56.9 91.2,60.8 47.2,60.8" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="39.5,47.4 99,47.4 96.7,51.3 41.7,51.3" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="34,37.9 104.5,37.9 102.2,41.8 36.2,41.8" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="28.5,28.5 110,28.5 107.7,32.4 30.7,32.4" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="23,19 115.5,19 113.2,22.9 25.2,22.9" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="17.5,9.5 121,9.5 118.7,13.4 19.8,13.4" style="box-sizing: border-box;">
+        </polygon>
+        <polygon fill="rgb(190, 211, 214)" points="12,0 126.4,0 124.2,3.9 14.3,3.9" style="box-sizing: border-box;">
+        </polygon>
+       </g>
+      </g>
+     </svg>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: middle;width: 50%;padding: 0px 5px 0px 0px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: 0px 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.7509259" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicuSBhqsEWaLz1ZlkTH6wgtIQ7O5FfrGqT8CfCMxFd9aaoHYmfg0hOV41wx8q4xuuhIAKmkicW0xAgw/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: middle;width: 50%;padding: 0px 0px 0px 5px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: 0px 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.7509259" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicuSBhqsEWaLz1ZlkTH6wgtIfau4d7pNfPVy6T2MRFnicQgTQJlbrcKFc1VFdYAGGeOD6SQN6Uicnfeg/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: -5px 0% 10px;box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;color: rgb(116, 155, 166);letter-spacing: 2px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      颁发访学证书
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 20px 0%;box-sizing: border-box;">
+    <section style="text-align: justify;font-size: 14px;color: rgb(131, 130, 130);letter-spacing: 2px;line-height: 2;padding: 0px 5px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      经历了十天的多元学习与实践体验，访学学生们顺利完成了全部的课程学习、企业参访以及全英文的主题汇报，并且获得了横滨国立大学颁发的访学证书，并与日方学部长原俊雄先生进行了合影留念。华东师大MBA学生们在访学期间表现的积极参与性、快速学习力、深度思考力都得到了日方教授、企业高管们的高度认可。此次访学让学生们对日本文化、日本的企业管理有了全新的认知，拓展了国际视野，开拓了思维模式，学生们纷纷表示受益匪浅，意犹未尽。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 0px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: bottom;width: 50%;padding: 2px;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(255, 211, 196);box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 100%;box-sizing: border-box;">
+        <section style="width: 2.5em;height: 2.5em;margin-bottom: -2.5em;border-left: 2px dotted rgba(255, 196, 196, 0.76);border-top: 2px dotted rgba(255, 196, 196, 0.76);box-sizing: border-box;">
+        </section>
+        <section style="padding: 8px;box-sizing: border-box;">
+         <section style="width: 100%;background-color: rgb(241, 233, 222);box-sizing: border-box;">
+          <section powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="margin: 0px 0%;box-sizing: border-box;">
+            <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+             <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicuSBhqsEWaLz1ZlkTH6wgtIDsm2jKB7ltJ8Q9rhWLxYHHB4zws5asScicxSlkNux8nW9g15vr50WjA/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+            </section>
+           </section>
+          </section>
+          <section powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="margin: 3px 0% 10px;box-sizing: border-box;">
+            <section style="font-size: 12px;color: rgb(116, 155, 166);letter-spacing: 1px;box-sizing: border-box;">
+             <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+              镰仓小镇
+             </p>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section style="width: 2.5em;height: 2.5em;float: right;margin-top: -2.5em;border-right: 2px dotted rgba(255, 196, 196, 0.76);border-bottom: 2px dotted rgba(255, 196, 196, 0.76);box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: bottom;width: 50%;padding: 2px;border-width: 0px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 100%;box-sizing: border-box;">
+        <section style="width: 2.5em;height: 2.5em;margin-bottom: -2.5em;float: right;border-right: 2px dotted rgb(197, 227, 211);border-top: 2px dotted rgb(197, 227, 211);box-sizing: border-box;">
+        </section>
+        <section style="padding: 8px;box-sizing: border-box;">
+         <section style="width: 100%;background-color: rgb(241, 233, 222);box-sizing: border-box;">
+          <section powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="margin: 0px 0%;box-sizing: border-box;">
+            <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+             <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicuSBhqsEWaLz1ZlkTH6wgtIxGD8SVrZRPfiapUJdWIGjGh7tXuBQDw1eXf3wLJH6GZdBPImaSTvDoQ/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+            </section>
+           </section>
+          </section>
+          <section powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="margin: 3px 0% 10px;box-sizing: border-box;">
+            <section style="font-size: 12px;color: rgb(116, 155, 166);letter-spacing: 1px;box-sizing: border-box;">
+             <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+              镰仓市鹤岗八幡宫外景
+             </p>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section style="width: 2.5em;height: 2.5em;margin-top: -2.5em;border-left: 2px dotted rgb(197, 227, 211);border-bottom: 2px dotted rgb(197, 227, 211);box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 0px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;width: 50%;padding: 2px;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(255, 211, 196);box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 100%;box-sizing: border-box;">
+        <section style="width: 2.5em;height: 2.5em;margin-bottom: -2.5em;border-left: 2px dotted rgba(255, 196, 196, 0.76);border-top: 2px dotted rgba(255, 196, 196, 0.76);box-sizing: border-box;">
+        </section>
+        <section style="padding: 8px;box-sizing: border-box;">
+         <section style="width: 100%;background-color: rgb(241, 233, 222);box-sizing: border-box;">
+          <section powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="margin: 0px 0%;box-sizing: border-box;">
+            <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+             <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicuSBhqsEWaLz1ZlkTH6wgtIhEeqLE8MulicaEJvwLvMmPTZpzjFpkV4gvMtLIetV4KZJUSqeKozgiaA/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+            </section>
+           </section>
+          </section>
+          <section powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="margin: 3px 0% 10px;box-sizing: border-box;">
+            <section style="font-size: 12px;color: rgb(116, 155, 166);letter-spacing: 1px;box-sizing: border-box;">
+             <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+              皇居外河边风景
+             </p>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section style="width: 2.5em;height: 2.5em;float: right;margin-top: -2.5em;border-right: 2px dotted rgba(255, 196, 196, 0.76);border-bottom: 2px dotted rgba(255, 196, 196, 0.76);box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: top;width: 50%;padding: 2px;border-width: 0px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 100%;box-sizing: border-box;">
+        <section style="width: 2.5em;height: 2.5em;margin-bottom: -2.5em;border-left: 2px dotted rgba(255, 196, 196, 0.76);border-top: 2px dotted rgba(255, 196, 196, 0.76);box-sizing: border-box;">
+        </section>
+        <section style="padding: 8px;box-sizing: border-box;">
+         <section style="width: 100%;background-color: rgb(241, 233, 222);box-sizing: border-box;">
+          <section powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="margin: 0px 0%;box-sizing: border-box;">
+            <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+             <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicuSBhqsEWaLz1ZlkTH6wgtIH1PtZa51HJH8UeeFjW1iaLUKW2EnmLhgcpAkhO9fyZLia2JY3rakLib6g/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+            </section>
+           </section>
+          </section>
+          <section powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="margin: 3px 0% 10px;box-sizing: border-box;">
+            <section style="font-size: 12px;color: rgb(116, 155, 166);letter-spacing: 1px;box-sizing: border-box;">
+             <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+              东京塔
+             </p>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section style="width: 2.5em;height: 2.5em;float: right;margin-top: -2.5em;border-right: 2px dotted rgba(255, 196, 196, 0.76);border-bottom: 2px dotted rgba(255, 196, 196, 0.76);box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 25px 0% 0px;box-sizing: border-box;">
+    <section style="text-align: center;font-size: 13px;color: rgb(131, 175, 187);letter-spacing: 2px;line-height: 2;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      - End -
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: right;font-size: 12px;color: rgb(160, 160, 160);line-height: 2;letter-spacing: 1px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      来源丨横滨访学团
+     </p>
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      联合撰文丨金艳、韩松君、张丽佳
+     </p>
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      图丨金艳
+     </p>
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      编审 / 后期 / 编辑丨张晨蕊
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="1.0297806" data-type="png" data-w="638" src="https://mmbiz.qpic.cn/mmbiz_png/82wlmOERcictK7AGSchBDjY2kyXxqx1qHp4Mv0slCjkzJw7onBB9ia7MzCyj3E9HMYKLWY3YfBiceF3MWjPNib7Wqg/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+ </section>

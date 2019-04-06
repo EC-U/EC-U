@@ -1,0 +1,645 @@
+
+ <section style="box-sizing: border-box;">
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: -10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+    <section style="padding-right: 15px;padding-left: 15px;box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;width: 98%;vertical-align: top;border-style: none;border-width: 3px 3px 10px 0px;border-radius: 0px 0px 10px 10px;border-color: rgba(0, 0, 0, 0);background-image: linear-gradient(rgb(66, 205, 226), rgb(208, 248, 242));overflow: hidden;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="text-align: justify;color: rgb(255, 255, 255);padding-right: 15px;padding-left: 15px;font-size: 14px;box-sizing: border-box;">
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(44, 40, 40);text-shadow: rgb(242, 242, 242) 1.53209px 1.28558px 2px;box-sizing: border-box;">
+          让我们乘着戏剧的翅膀
+         </span>
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(44, 40, 40);text-shadow: rgb(242, 242, 242) 1.53209px 1.28558px 2px;box-sizing: border-box;">
+          飞到夏日的柏林街头
+         </span>
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(44, 40, 40);text-shadow: rgb(242, 242, 242) 1.53209px 1.28558px 2px;box-sizing: border-box;">
+          飞到霍格沃茨魔法学校
+         </span>
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(44, 40, 40);text-shadow: rgb(242, 242, 242) 1.53209px 1.28558px 2px;box-sizing: border-box;">
+          飞到庭院深深的清朝皇宫
+         </span>
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(44, 40, 40);text-shadow: rgb(242, 242, 242) 1.53209px 1.28558px 2px;box-sizing: border-box;">
+          飞到音乐点亮梦想的法国乡村
+         </span>
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(44, 40, 40);text-shadow: rgb(242, 242, 242) 1.53209px 1.28558px 2px;box-sizing: border-box;">
+          飞到藏着惊天秘密的阿尔泰村庄
+         </span>
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(44, 40, 40);text-shadow: rgb(242, 242, 242) 1.53209px 1.28558px 2px;box-sizing: border-box;">
+          飞到万寿菊花瓣飘扬的乌斯怀亚街道
+         </span>
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(44, 40, 40);text-shadow: rgb(242, 242, 242) 1.53209px 1.28558px 2px;box-sizing: border-box;">
+          飞到小精灵出没的古希腊雅典
+         </span>
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(44, 40, 40);text-shadow: rgb(242, 242, 242) 1.53209px 1.28558px 2px;box-sizing: border-box;">
+          飞到让人屏息的日本侦探所
+         </span>
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(44, 40, 40);text-shadow: rgb(242, 242, 242) 1.53209px 1.28558px 2px;box-sizing: border-box;">
+         </span>
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(44, 40, 40);text-shadow: rgb(242, 242, 242) 1.53209px 1.28558px 2px;box-sizing: border-box;">
+          让我们和剧中人一起
+         </span>
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(44, 40, 40);text-shadow: rgb(242, 242, 242) 1.53209px 1.28558px 2px;box-sizing: border-box;">
+          穿越古今中外
+         </span>
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(44, 40, 40);text-shadow: rgb(242, 242, 242) 1.53209px 1.28558px 2px;box-sizing: border-box;">
+          穿越春夏秋冬
+         </span>
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(44, 40, 40);text-shadow: rgb(242, 242, 242) 1.53209px 1.28558px 2px;box-sizing: border-box;">
+          穿越悲欢离合
+         </span>
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(44, 40, 40);text-shadow: rgb(242, 242, 242) 1.53209px 1.28558px 2px;box-sizing: border-box;">
+          穿越寒冷与温暖
+         </span>
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(44, 40, 40);text-shadow: rgb(242, 242, 242) 1.53209px 1.28558px 2px;box-sizing: border-box;">
+          穿越脆弱与坚强
+         </span>
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(44, 40, 40);text-shadow: rgb(242, 242, 242) 1.53209px 1.28558px 2px;box-sizing: border-box;">
+          穿越现实与梦想
+         </span>
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(44, 40, 40);text-shadow: rgb(242, 242, 242) 1.53209px 1.28558px 2px;box-sizing: border-box;">
+         </span>
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(44, 40, 40);text-shadow: rgb(242, 242, 242) 1.53209px 1.28558px 2px;box-sizing: border-box;">
+          在这个气温如同过山车的冬天
+         </span>
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(44, 40, 40);text-shadow: rgb(242, 242, 242) 1.53209px 1.28558px 2px;box-sizing: border-box;">
+          我们一起乘坐剧情的过山车吧
+         </span>
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+        <img data-ratio="0.1546875" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/CI6t2oXknIQF4IvW5TtUukKEaOmqWiazMLf1b7roTTwxACylxyq8DB4iaH1LUOIKa8nIWyakwtzvA9qdnH3LJedg/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: -10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+    <section style="text-align: justify;padding-right: 15px;padding-left: 15px;font-size: 14px;box-sizing: border-box;">
+     <p style="white-space: normal;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+      2018年12月12日13:00，一年一度的外语学院盛典舞台剧大赛将在学生之家C区报告厅拉开帷幕。来自英语、翻译、日语、法语、德语、俄语、西班牙语7个专业的2017级学生将为我们带来8部精彩纷呈、风格各异的戏剧作品。
+     </p>
+     <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+      <span style="letter-spacing: 0px;box-sizing: border-box;">
+       第八届舞台剧大赛的主题是“戏骨传情·语翼生辉”，以戏剧为骨，语言化翼，在简朴却隆重的舞台上，通过对中外戏剧作品的真情演绎，展现语言之美、戏剧之美、文化之美、人性之美。
+      </span>
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+      <span style="letter-spacing: 0px;box-sizing: border-box;">
+       下面跟随小编，抢先看看扣人心弦的剧情预告吧！
+      </span>
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 8%;box-sizing: border-box;">
+     <img data-ratio="1.0342466" data-type="png" data-w="146" src="https://mmbiz.qpic.cn/mmbiz_png/CI6t2oXknIQF4IvW5TtUukKEaOmqWiazMmM6AYG1LahcECJOXTRnw9TeQVR61CZg7UibsdvJeDkRuq1gec8HXBAA/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 0.5em;margin-bottom: 0.5em;padding-left: 0.5em;padding-right: 0.5em;box-sizing: border-box;">
+    <section style="box-sizing: border-box;width: 50%;border-width: 4px;border-style: solid;border-color: white;box-shadow: rgb(102, 102, 102) 3.53553px 3.53553px 8px;display: inline-block;height: auto !important;">
+     <img data-ratio="1.7822222" data-type="jpeg" data-w="225" src="https://mmbiz.qpic.cn/mmbiz_jpg/CI6t2oXknIQF4IvW5TtUukKEaOmqWiazM3hfLWf6x8O65Jv02fHVA7Xh8wBIIhsibG48ATGkibT8YcspEflbAozmQ/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border-width: 0px 6px 0px 0px;border-style: solid;border-left-color: rgb(255, 255, 255);border-right-color: rgb(255, 255, 255);background-color: rgb(239, 239, 239);box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          1. 德语系
+          <span style="letter-spacing: 0px;box-sizing: border-box;">
+           《罗拉快跑》
+          </span>
+         </strong>
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <span style="text-indent: 2em;letter-spacing: 0px;box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+          </strong>
+          罗拉和曼尼是一对恋人，曼尼是一个不务正业的小混混。柏林的一个夏日，曼尼惹上了一个天大的麻烦——他弄丢了十万马克，而他的老大要求他20分钟内交差。走投无路的曼尼只能向罗拉求助，就只有二十分钟，钱到底在哪里？如何救命？罗拉快跑！
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 8%;box-sizing: border-box;">
+     <img data-ratio="1.0342466" data-type="png" data-w="146" src="https://mmbiz.qpic.cn/mmbiz_png/CI6t2oXknIQF4IvW5TtUukKEaOmqWiazMmM6AYG1LahcECJOXTRnw9TeQVR61CZg7UibsdvJeDkRuq1gec8HXBAA/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 0.5em;margin-bottom: 0.5em;padding-left: 0.5em;padding-right: 0.5em;box-sizing: border-box;">
+    <section style="box-sizing: border-box;width: 50%;border-width: 4px;border-style: solid;border-color: white;box-shadow: rgb(102, 102, 102) 3.53553px 3.53553px 8px;display: inline-block;height: auto !important;">
+     <img data-ratio="1.7786667" data-type="jpeg" data-w="750" src="https://mmbiz.qpic.cn/mmbiz_jpg/CI6t2oXknIQF4IvW5TtUukKEaOmqWiazM0Rjic9Cq4e2bzic4aLHpFZNOHlF8nrZ8iaqBABI6cOze9ibvrxJ4D5JZUw/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border-width: 0px 6px 0px 0px;border-style: solid;border-left-color: rgb(255, 255, 255);border-right-color: rgb(255, 255, 255);background-color: rgb(239, 239, 239);box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          2.  英语系三四班
+          <span style="letter-spacing: 0px;box-sizing: border-box;">
+           《哈利波特与魔法石》
+          </span>
+         </strong>
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <span style="text-indent: 2em;letter-spacing: 0px;box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+          </strong>
+          伏地魔受够了附身他人的生活，需要魔法石使他重塑身体…...与此同时，哈利波特也在寻找魔法石。两人决战时，尽管伏地魔企图用假象迷惑哈利，哈利最终用正义与智慧战胜了它。原来，在这个世界上，唯有爱与正义可以战胜一切！唯有爱与正义不可战胜！
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 8%;box-sizing: border-box;">
+     <img data-ratio="1.0342466" data-type="png" data-w="146" src="https://mmbiz.qpic.cn/mmbiz_png/CI6t2oXknIQF4IvW5TtUukKEaOmqWiazMmM6AYG1LahcECJOXTRnw9TeQVR61CZg7UibsdvJeDkRuq1gec8HXBAA/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 0.5em;margin-bottom: 0.5em;padding-left: 0.5em;padding-right: 0.5em;box-sizing: border-box;">
+    <section style="box-sizing: border-box;width: 50%;border-width: 4px;border-style: solid;border-color: white;box-shadow: rgb(102, 102, 102) 3.53553px 3.53553px 8px;display: inline-block;height: auto !important;">
+     <img data-ratio="1.7786667" data-type="jpeg" data-w="750" src="https://mmbiz.qpic.cn/mmbiz_jpg/CI6t2oXknIQF4IvW5TtUukKEaOmqWiazMWbib3Oiakpf6DYFqICAcgEtX7VTNLXEIpsw8yS6LejVEa27cQM5dyr3A/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border-width: 0px 6px 0px 0px;border-style: solid;border-left-color: rgb(255, 255, 255);border-right-color: rgb(255, 255, 255);background-color: rgb(239, 239, 239);box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          3.  英语系一二班
+          <span style="letter-spacing: 0px;box-sizing: border-box;">
+           《甄嬛传之不能说的秘密》
+          </span>
+         </strong>
+        </p>
+        <p style="text-align: center;box-sizing: border-box;">
+         曾愿
+        </p>
+        <p style="text-align: center;box-sizing: border-box;">
+         逆风如解意
+        </p>
+        <p style="text-align: center;box-sizing: border-box;">
+         容易莫摧残
+        </p>
+        <p style="text-align: center;box-sizing: border-box;">
+         可深宫红墙
+        </p>
+        <p style="text-align: center;box-sizing: border-box;">
+         明争暗斗
+        </p>
+        <p style="text-align: center;box-sizing: border-box;">
+         饶过谁人
+        </p>
+        <p style="text-align: center;box-sizing: border-box;">
+         梅香暗涌
+        </p>
+        <p style="text-align: center;box-sizing: border-box;">
+         是情
+        </p>
+        <p style="text-align: center;box-sizing: border-box;">
+         是孽
+        </p>
+        <p style="text-align: center;box-sizing: border-box;">
+         还是缘
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 12%;box-sizing: border-box;">
+     <img data-ratio="0.6757164" data-type="png" data-w="663" src="https://mmbiz.qpic.cn/mmbiz_png/CI6t2oXknIQF4IvW5TtUukKEaOmqWiazMbHdhEgXMlljtfgnCjqb879KU4zc4wu4ZrLEfcgSIwRGHqUgnaFMaTQ/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 0.5em;margin-bottom: 0.5em;padding-left: 0.5em;padding-right: 0.5em;box-sizing: border-box;">
+    <section style="box-sizing: border-box;width: 50%;border-width: 4px;border-style: solid;border-color: white;box-shadow: rgb(102, 102, 102) 3.53553px 3.53553px 8px;display: inline-block;height: auto !important;">
+     <img data-ratio="1.7786667" data-type="jpeg" data-w="750" src="https://mmbiz.qpic.cn/mmbiz_jpg/CI6t2oXknIQF4IvW5TtUukKEaOmqWiazMhz0vyqMykdtuagdxX1hlyIPiarzfWBay2e2cneSibDl3XeyJkO9TLRiaA/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border-width: 0px 6px 0px 0px;border-style: solid;border-left-color: rgb(255, 255, 255);border-right-color: rgb(255, 255, 255);background-color: rgb(239, 239, 239);box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          4. 法语系
+          <span style="letter-spacing: 0px;box-sizing: border-box;">
+           《放牛班的春天》
+          </span>
+         </strong>
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <span style="text-indent: 2em;letter-spacing: 0px;box-sizing: border-box;">
+          在校长的冷漠残暴的管制之下，以皮埃尔·莫翰奇为首的问题少年们终日与体罚、禁闭和枯燥的课堂为伴，仇视老师，痛恨规则。初来乍到的马修发现了孩子们不同寻常的音乐天赋，并决定组建一个合唱团……对叛逆顽皮却天性纯良的孩子们来说，来自年长者的认可和鼓励是最好的礼物！在马修的带领下，阴暗的池塘底第一次传出了歌声，美妙的音乐为蒙尘的心灵扫去阴霾。
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 12%;box-sizing: border-box;">
+     <img data-ratio="0.6757164" data-type="png" data-w="663" src="https://mmbiz.qpic.cn/mmbiz_png/CI6t2oXknIQF4IvW5TtUukKEaOmqWiazMbHdhEgXMlljtfgnCjqb879KU4zc4wu4ZrLEfcgSIwRGHqUgnaFMaTQ/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 0.5em;margin-bottom: 0.5em;padding-left: 0.5em;padding-right: 0.5em;box-sizing: border-box;">
+    <section style="box-sizing: border-box;width: 50%;border-width: 4px;border-style: solid;border-color: white;box-shadow: rgb(102, 102, 102) 3.53553px 3.53553px 8px;display: inline-block;height: auto !important;">
+     <img data-ratio="1.7786667" data-type="jpeg" data-w="750" src="https://mmbiz.qpic.cn/mmbiz_jpg/CI6t2oXknIQF4IvW5TtUukKEaOmqWiazM4jHNticbI5XLiagiaY0r7DbmwxVKyF31GhYfoOz3nvEkVYo3EkmiaqbuFg/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border-width: 0px 6px 0px 0px;border-style: solid;border-left-color: rgb(255, 255, 255);border-right-color: rgb(255, 255, 255);background-color: rgb(239, 239, 239);box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          5.  俄语系
+          <span style="letter-spacing: 0px;box-sizing: border-box;">
+           《斯焦普卡》
+          </span>
+         </strong>
+        </p>
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         小村庄的寂静被斯焦普卡的归来打破，
+        </p>
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         年迈的父母，哑巴的姐姐，寂寞的寡妇，邻居的农人，
+        </p>
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         不曾想到欢声笑语中却藏着惊天的秘密......
+        </p>
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         警察悄然而至，斯焦普卡被带去审讯室，揭开了不可告人的秘密……
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 12%;box-sizing: border-box;">
+     <img data-ratio="0.6757164" data-type="png" data-w="663" src="https://mmbiz.qpic.cn/mmbiz_png/CI6t2oXknIQF4IvW5TtUukKEaOmqWiazMbHdhEgXMlljtfgnCjqb879KU4zc4wu4ZrLEfcgSIwRGHqUgnaFMaTQ/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 0.5em;margin-bottom: 0.5em;padding-left: 0.5em;padding-right: 0.5em;box-sizing: border-box;">
+    <section style="box-sizing: border-box;width: 50%;border-width: 4px;border-style: solid;border-color: white;box-shadow: rgb(102, 102, 102) 3.53553px 3.53553px 8px;display: inline-block;height: auto !important;">
+     <img data-ratio="1.7786667" data-type="jpeg" data-w="750" src="https://mmbiz.qpic.cn/mmbiz_jpg/CI6t2oXknIQF4IvW5TtUukKEaOmqWiazMJxmMmeOok4JSUFupkh4sjkOc0triazbbqja3jLMdo8VkOKdicIajVQYA/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border-width: 0px 6px 0px 0px;border-style: solid;border-left-color: rgb(255, 255, 255);border-right-color: rgb(255, 255, 255);background-color: rgb(239, 239, 239);box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          6.  西班牙语专业
+          <span style="letter-spacing: 0px;box-sizing: border-box;">
+           《邮局》
+          </span>
+         </strong>
+        </p>
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         墨西哥城乌斯怀亚街道的角落里，一间小小的邮局静静地坐落着。亡灵节这天，一位老人坐在桌前，写一封给亡妻的信。两个女孩走进邮局，在老人的提醒下回忆起自己心底尘封的故事——
+        </p>
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         小有名气的歌手，多年无法释怀对已故母亲的遗憾；
+        </p>
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         而另一个女孩心里，始终无法原谅自己多年前和朋友间犯下的错。
+        </p>
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         这一切是误打误撞，还是命运的罗盘早已写就？
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 12%;box-sizing: border-box;">
+     <img data-ratio="0.6757164" data-type="png" data-w="663" src="https://mmbiz.qpic.cn/mmbiz_png/CI6t2oXknIQF4IvW5TtUukKEaOmqWiazMbHdhEgXMlljtfgnCjqb879KU4zc4wu4ZrLEfcgSIwRGHqUgnaFMaTQ/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 0.5em;margin-bottom: 0.5em;padding-left: 0.5em;padding-right: 0.5em;box-sizing: border-box;">
+    <section style="box-sizing: border-box;width: 50%;border-width: 4px;border-style: solid;border-color: white;box-shadow: rgb(102, 102, 102) 3.53553px 3.53553px 8px;display: inline-block;height: auto !important;">
+     <img data-ratio="1.7786667" data-type="jpeg" data-w="750" src="https://mmbiz.qpic.cn/mmbiz_jpg/CI6t2oXknIQF4IvW5TtUukKEaOmqWiazMrUsVtYag8Kw0ICUwfYBo8pmdZHzwUiavm3oy2216tRGJgRhOKpSR2mg/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border-width: 0px 6px 0px 0px;border-style: solid;border-left-color: rgb(255, 255, 255);border-right-color: rgb(255, 255, 255);background-color: rgb(239, 239, 239);box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          7.  翻译系
+          <span style="letter-spacing: 0px;box-sizing: border-box;">
+           《仲夏夜之梦》
+          </span>
+         </strong>
+        </p>
+        <p style="text-align: justify;text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         仙王和他的仙子迫克将用会使人爱上醒来看到的第一个人的神秘花汁
+        </p>
+        <p style="text-align: justify;text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         为两对凡人爱侣带来什么？
+        </p>
+        <p style="text-align: justify;text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         海丽娜与狄米特律斯、拉山德与赫米娅
+        </p>
+        <p style="text-align: justify;text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         父母的命令，仙药的魔力，
+        </p>
+        <p style="text-align: justify;text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         会有怎样的闹剧与结局？
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 8%;box-sizing: border-box;">
+     <img data-ratio="1.0342466" data-type="png" data-w="146" src="https://mmbiz.qpic.cn/mmbiz_png/CI6t2oXknIQF4IvW5TtUukKEaOmqWiazMmM6AYG1LahcECJOXTRnw9TeQVR61CZg7UibsdvJeDkRuq1gec8HXBAA/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 0.5em;margin-bottom: 0.5em;padding-left: 0.5em;padding-right: 0.5em;box-sizing: border-box;">
+    <section style="box-sizing: border-box;width: 50%;border-width: 4px;border-style: solid;border-color: white;box-shadow: rgb(102, 102, 102) 3.53553px 3.53553px 8px;display: inline-block;height: auto !important;">
+     <img data-ratio="1.7822222" data-type="jpeg" data-w="225" src="https://mmbiz.qpic.cn/mmbiz_jpg/CI6t2oXknIQF4IvW5TtUukKEaOmqWiazMXeTiaiaBMn30ZdcJUaYPYHrxsMgW9chO83Um3lGczsEyqwEDs5U7OUmw/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border-width: 0px 6px 0px 0px;border-style: solid;border-left-color: rgb(255, 255, 255);border-right-color: rgb(255, 255, 255);background-color: rgb(239, 239, 239);box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          8.  日语系《掂上今日子的备忘录》
+         </strong>
+        </p>
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         这一天，开发高新专利技术的研究室里，重要的会议资料不翼而飞。
+        </p>
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         室长心急如焚，众社员也纷纷将怀疑的目光指向了刚入职不久的隐馆厄介。
+        </p>
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         仿佛习惯了被怀疑般，厄介熟练地拨通了侦探事务所的电话，然而这次接受委托的侦探仿佛并不一般。如白纸般无暇的白发、平静恬适的笑容、不放过任何细节的慧眼，以及——仅能保存一日的记忆。侦探究竟能否成功破案，找回重要资料？
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 12%;box-sizing: border-box;">
+     <img data-ratio="0.6757164" data-type="png" data-w="663" src="https://mmbiz.qpic.cn/mmbiz_png/CI6t2oXknIQF4IvW5TtUukKEaOmqWiazMbHdhEgXMlljtfgnCjqb879KU4zc4wu4ZrLEfcgSIwRGHqUgnaFMaTQ/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+    <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;border-bottom: 1px solid rgb(114, 114, 114);border-bottom-right-radius: 0px;padding-right: 5px;padding-bottom: 4px;padding-left: 5px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         想知道每段故事的结局吗？
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 5px 0% 10px;text-align: center;line-height: 1;font-size: 11px;box-sizing: border-box;">
+    <section style="width: 0px;display: inline-block;border-top: 1.2em solid rgb(114, 114, 114);border-left: 0.7em solid transparent !important;border-right: 0.7em solid transparent !important;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;width: 95%;vertical-align: top;border-right: 0px none rgb(62, 62, 62);border-top-right-radius: 15px;overflow: hidden;box-shadow: rgb(187, 222, 251) 0px 0px 15px;border-left: 0px none rgb(62, 62, 62);border-bottom-left-radius: 15px;padding-top: 15px;padding-right: 15px;padding-left: 15px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;line-height: 1.8;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          12月12日（周三）
+         </strong>
+        </p>
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          下午13：00
+         </strong>
+        </p>
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          大活C区报告厅
+         </strong>
+        </p>
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          “戏骨传情·语翼生辉”
+         </strong>
+        </p>
+        <p style="box-sizing: border-box;">
+         外语学院第八届舞台剧大赛
+        </p>
+        <p style="box-sizing: border-box;">
+         期待您的到来
+        </p>
+        <p style="box-sizing: border-box;">
+         不见不散
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: right;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 15%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <img data-ratio="0.9729167" data-type="gif" data-w="480" src="https://mmbiz.qpic.cn/mmbiz_gif/CI6t2oXknIQF4IvW5TtUukKEaOmqWiazMSMbRrbdpzicEZMDgYw8wr5xFQGW3IibDdqib6a6cyrlOETMz4Kk9ZOnTw/640?wx_fmt=gif" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <img data-ratio="0.5625" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/CI6t2oXknIQF4IvW5TtUukKEaOmqWiazMeabCTENawQTTYnBOYVHibjWlvGdE3oic3JeV2m6zvN2KEvKZPFqkqPlg/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+     <img data-ratio="0.1546875" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/CI6t2oXknIQF4IvW5TtUukKEaOmqWiazMLf1b7roTTwxACylxyq8DB4iaH1LUOIKa8nIWyakwtzvA9qdnH3LJedg/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: right;font-size: 12px;box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      撰稿：外语学院团委、各剧组
+     </p>
+     <p style="box-sizing: border-box;">
+      图片：各剧组
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

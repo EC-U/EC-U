@@ -1,0 +1,1019 @@
+
+ <section style="box-sizing: border-box;">
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="transform: translate3d(-5px, 0px, 0px);-webkit-transform: translate3d(-5px, 0px, 0px);-moz-transform: translate3d(-5px, 0px, 0px);-o-transform: translate3d(-5px, 0px, 0px);text-align: center;margin: 30px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 90%;vertical-align: top;background-color: rgba(253, 246, 130, 0.4);border-width: 0px 0px 3px 3px;padding: 0px;border-style: none none solid solid;border-radius: 0px;border-color: rgb(62, 62, 62);box-sizing: border-box;">
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="transform: translate3d(10px, 0px, 0px);-webkit-transform: translate3d(10px, 0px, 0px);-moz-transform: translate3d(10px, 0px, 0px);-o-transform: translate3d(10px, 0px, 0px);margin: -12px 0% 10px;box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgba(252, 246, 130, 0.4);border-style: solid solid none none;border-width: 3px 3px 0px 0px;border-radius: 0px;border-color: rgb(62, 62, 62);padding: 0px 10px 0px 0px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="margin: 10px 0% 0px;box-sizing: border-box;">
+          <section style="font-size: 21px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             新生赛初赛赛果公布
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(212, 236, 220);padding: 10px 0px 0px;box-sizing: border-box;">
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px 15px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+           <img data-ratio="0.6671875" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/7KicRju7UxHH4DfRNshbExv7xNYcamg9qSibHCdibTqvZ7fgVEgHfbtFhRf4xgFA3kJalaS4IKytAaffmwibfBVh6w/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: center;font-size: 15px;color: rgb(79, 118, 120);line-height: 1.8;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             就在9.27号，心院新生辩论赛落下了帷幕
+            </strong>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             各位小鲜肉在在场上的表现真是令人难忘
+            </strong>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             废话不多说
+            </strong>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             让我们一起来回顾初赛的比赛结果吧~
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: -5px 0% -3px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+        <svg style="vertical-align: middle;max-width: 100%;box-sizing: border-box;" viewbox="0 0 630.7 35" width="630.7" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+         <g style="box-sizing: border-box;">
+          <g style="box-sizing: border-box;">
+           <path d="M10.9,19.9c6,0,10.9,6.7,10.9,15H0C0,26.7,4.9,19.9,10.9,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M32.6,19.9c6,0,10.9,6.7,10.9,15H21.7C21.7,26.7,26.6,19.9,32.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M54.4,19.9c6,0,10.9,6.7,10.9,15H43.5C43.5,26.7,48.4,19.9,54.4,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M76.1,19.9c6,0,10.9,6.7,10.9,15H65.2C65.2,26.7,70.1,19.9,76.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M97.8,19.9c6,0,10.9,6.7,10.9,15H87C87,26.7,91.8,19.9,97.8,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M119.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C108.7,26.7,113.6,19.9,119.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M141.3,19.9c6,0,10.9,6.7,10.9,15h-21.7C130.4,26.7,135.3,19.9,141.3,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M163.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C152.2,26.7,157.1,19.9,163.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M184.9,20c6,0,10.9,6.7,10.9,15H174C174,26.7,178.9,20,184.9,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M206.6,20c6,0,10.9,6.7,10.9,15h-21.7C195.7,26.7,200.6,20,206.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M228.4,20c6,0,10.9,6.7,10.9,15h-21.7C217.5,26.7,222.4,20,228.4,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M250.1,20c6,0,10.9,6.7,10.9,15h-21.7C239.2,26.7,244.1,20,250.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M271.8,20c6,0,10.9,6.7,10.9,15H261C261,26.7,265.8,20,271.8,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M293.6,20c6,0,10.9,6.7,10.9,15h-21.7C282.7,26.7,287.6,20,293.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M315.3,20c6,0,10.9,6.7,10.9,15h-21.7C304.4,26.7,309.3,20,315.3,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M337.1,20c6,0,10.9,6.7,10.9,15h-21.7C326.2,26.7,331.1,20,337.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M358.9,19.9c6,0,10.9,6.7,10.9,15H348C348,26.7,352.9,19.9,358.9,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M380.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C369.7,26.7,374.6,19.9,380.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M402.4,19.9c6,0,10.9,6.7,10.9,15h-21.7C391.5,26.7,396.4,19.9,402.4,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M424.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C413.2,26.7,418.1,19.9,424.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M445.8,19.9c6,0,10.9,6.7,10.9,15H435C435,26.7,439.8,19.9,445.8,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M467.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C456.7,26.7,461.6,19.9,467.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M489.3,19.9c6,0,10.9,6.7,10.9,15h-21.7C478.4,26.7,483.3,19.9,489.3,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M511.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C500.2,26.7,505.1,19.9,511.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M532.9,20c6,0,10.9,6.7,10.9,15H522C522,26.7,526.9,20,532.9,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M554.6,20c6,0,10.9,6.7,10.9,15h-21.7C543.7,26.7,548.6,20,554.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M576.4,20c6,0,10.9,6.7,10.9,15h-21.7C565.5,26.7,570.4,20,576.4,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M598.1,20c6,0,10.9,6.7,10.9,15h-21.7C587.2,26.7,592.1,20,598.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M619.8,20c6,0,10.9,6.7,10.9,15H609C609,26.7,613.8,20,619.8,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+          </g>
+         </g>
+        </svg>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="margin: 10px 0% 0px;font-size: 32px;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+     <section style="width: 0px;box-sizing: border-box;">
+      <section style="border-bottom: 0.65em solid rgb(255, 202, 0);border-left: 1em solid transparent !important;border-right: 1em solid transparent !important;box-sizing: border-box;">
+      </section>
+     </section>
+     <section style="width: 2em;line-height: 1em;height: 1em;background-color: rgb(255, 202, 0);text-align: center;color: rgb(255, 255, 255);box-sizing: border-box;">
+      <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+       <br style="box-sizing: border-box;"/>
+      </p>
+     </section>
+     <section style="width: 0px;box-sizing: border-box;">
+      <section style="border-top: 0.65em solid rgb(255, 202, 0);border-left: 1em solid transparent !important;border-right: 1em solid transparent !important;box-sizing: border-box;">
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="text-align: right;margin: -40px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 95%;vertical-align: top;background-color: rgb(62, 62, 62);border-style: solid;border-width: 3px;border-radius: 0px;border-color: rgb(255, 255, 255);padding: 5px 10px;box-sizing: border-box;">
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;font-size: 18px;color: rgb(255, 255, 255);box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         01
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="text-align: left;box-sizing: border-box;">
+       <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;box-shadow: rgb(0, 0, 0) 0px 0px 0px;border-top: 1px solid rgb(255, 255, 255);border-top-left-radius: 0px;padding: 0px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 18px;color: rgb(255, 255, 255);letter-spacing: 0.5px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            公立大学教学楼接受商业冠名的
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            做法可取/不可取
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="margin: 10px 0px;text-align: center;box-sizing: border-box;">
+    <section style="width: 2.25em;height: 2.25em;margin-left: auto;border-top: 5px solid rgb(249, 110, 87);border-right: 5px solid rgb(249, 110, 87);transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);box-sizing: border-box;">
+    </section>
+    <section style="margin-top: -2.25em;box-sizing: border-box;">
+     <section style="padding: 10px;background-color: rgb(242, 242, 242);box-sizing: border-box;">
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="padding: 10px;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          正方：安辰梓 王宁
+         </p>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+        <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+         <img data-ratio="0.6671875" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/7KicRju7UxHH4DfRNshbExv7xNYcamg9qj4icXXpSqqYQeGHm8NkwGPoo9ickXyOBlKYTU7RtNj25acrnym3rODQw/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="text-align: left;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          反方：冯韵孜 曹子浩
+         </p>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+        <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+         <img data-ratio="0.6671875" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/7KicRju7UxHH4DfRNshbExv7xNYcamg9qgUj4trMlnsEInnXpGQdSzBdZtDOP0mrmKKDlyngyOgua3ibvibPHXXIw/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="text-align: left;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          胜方：正方
+         </p>
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          最佳辩手：正方一辩安辰梓
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="margin: 10px 0% 0px;text-align: right;font-size: 32px;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+     <section style="width: 0px;box-sizing: border-box;">
+      <section style="border-bottom: 0.65em solid rgb(255, 202, 0);border-left: 1em solid transparent !important;border-right: 1em solid transparent !important;box-sizing: border-box;">
+      </section>
+     </section>
+     <section style="width: 2em;line-height: 1em;height: 1em;background-color: rgb(255, 202, 0);text-align: center;color: rgb(255, 255, 255);box-sizing: border-box;">
+      <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+       <br style="box-sizing: border-box;"/>
+      </p>
+     </section>
+     <section style="width: 0px;box-sizing: border-box;">
+      <section style="border-top: 0.65em solid rgb(255, 202, 0);border-left: 1em solid transparent !important;border-right: 1em solid transparent !important;box-sizing: border-box;">
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="margin: -40px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 95%;vertical-align: top;background-color: rgb(62, 62, 62);border-style: solid;border-width: 3px;border-radius: 0px;border-color: rgb(255, 255, 255);padding: 5px 10px;box-sizing: border-box;">
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: right;font-size: 18px;color: rgb(255, 255, 255);box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         02
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="text-align: right;box-sizing: border-box;">
+       <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;box-shadow: rgb(0, 0, 0) 0px 0px 0px;border-top: 1px solid rgb(255, 255, 255);border-top-left-radius: 0px;padding: 0px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;font-size: 18px;color: rgb(255, 255, 255);letter-spacing: 0.5px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            应该/不应该重开五一黄金周
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="margin: 10px 0px;text-align: center;box-sizing: border-box;">
+    <section style="margin-bottom: -2.25em;box-sizing: border-box;">
+     <section style="padding: 10px;background-color: rgb(242, 242, 242);box-sizing: border-box;">
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="padding: 10px;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          正方：何嘉瑜 江宇春
+         </p>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+        <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+         <img data-ratio="0.709375" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/7KicRju7UxHH4DfRNshbExv7xNYcamg9q5dsIrTfZUPIHC03ichBw9Vv66gUCvYzkWtq8p4ic4drP5PYxPamsplug/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="text-align: left;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="text-align: left;box-sizing: border-box;">
+         <p style="text-align: center;margin: 0px;padding: 0px;box-sizing: border-box;">
+          反方：刘昭远 卢秋豪
+         </p>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+        <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+         <img data-ratio="0.759375" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/7KicRju7UxHH4DfRNshbExv7xNYcamg9q2odSmEgjjfxaqmaDG3lByxzibFsgvjbaVzdBFq6icjkyzrzCq2ROaGibA/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="text-align: left;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          胜方：反方
+         </p>
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          最佳辩手：反方二辩刘昭远
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="width: 2.25em;height: 2.25em;border-bottom: 5px solid rgb(249, 110, 87);border-left: 5px solid rgb(249, 110, 87);transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="margin: 10px 0% 0px;font-size: 32px;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+     <section style="width: 0px;box-sizing: border-box;">
+      <section style="border-bottom: 0.65em solid rgb(255, 202, 0);border-left: 1em solid transparent !important;border-right: 1em solid transparent !important;box-sizing: border-box;">
+      </section>
+     </section>
+     <section style="width: 2em;line-height: 1em;height: 1em;background-color: rgb(255, 202, 0);text-align: center;color: rgb(255, 255, 255);box-sizing: border-box;">
+      <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+       <br style="box-sizing: border-box;"/>
+      </p>
+     </section>
+     <section style="width: 0px;box-sizing: border-box;">
+      <section style="border-top: 0.65em solid rgb(255, 202, 0);border-left: 1em solid transparent !important;border-right: 1em solid transparent !important;box-sizing: border-box;">
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="text-align: right;margin: -40px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 95%;vertical-align: top;background-color: rgb(62, 62, 62);border-style: solid;border-width: 3px;border-radius: 0px;border-color: rgb(255, 255, 255);padding: 5px 10px;box-sizing: border-box;">
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;font-size: 18px;color: rgb(255, 255, 255);box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         03
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="text-align: left;box-sizing: border-box;">
+       <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;box-shadow: rgb(0, 0, 0) 0px 0px 0px;border-top: 1px solid rgb(255, 255, 255);border-top-left-radius: 0px;padding: 0px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 18px;color: rgb(255, 255, 255);letter-spacing: 0.5px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            当今中国应该/不应该提高退休年龄
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="margin: 10px 0px;text-align: center;box-sizing: border-box;">
+    <section style="margin-bottom: -2.25em;box-sizing: border-box;">
+     <section style="padding: 10px;background-color: rgb(242, 242, 242);box-sizing: border-box;">
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="padding: 10px;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          正方：高言 梁婧涵 刘德嘉 周钰彤
+         </p>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+        <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+         <img data-ratio="0.6671875" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/7KicRju7UxHH4DfRNshbExv7xNYcamg9qlO4FJsCiacQ9s2D50suRbAJYhCBo5G3MA0gfw0Mal2YlfUIFQhfmxicw/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="text-align: left;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          反方：孙正 吴浏钰  胡予  杨阳
+         </p>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+        <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+         <img data-ratio="0.8171875" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/7KicRju7UxHH4DfRNshbExv7xNYcamg9qybRzKTrnbZmNI4dw0y1BHwccvSa4UNsUNnkhZpdnOIAMhiaGJBFzbVg/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="text-align: left;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          胜方：正方
+         </p>
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          最佳辩手：反方二辩杨阳，正方一辩梁婧涵
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="width: 2.25em;height: 2.25em;margin-left: auto;border-bottom: 5px solid rgb(249, 110, 87);border-right: 5px solid rgb(249, 110, 87);transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="margin: 10px 0% 0px;font-size: 32px;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+     <section style="width: 0px;box-sizing: border-box;">
+      <section style="border-bottom: 0.65em solid rgb(255, 202, 0);border-left: 1em solid transparent !important;border-right: 1em solid transparent !important;box-sizing: border-box;">
+      </section>
+     </section>
+     <section style="width: 2em;line-height: 1em;height: 1em;background-color: rgb(255, 202, 0);text-align: center;color: rgb(255, 255, 255);box-sizing: border-box;">
+      <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+       <br style="box-sizing: border-box;"/>
+      </p>
+     </section>
+     <section style="width: 0px;box-sizing: border-box;">
+      <section style="border-top: 0.65em solid rgb(255, 202, 0);border-left: 1em solid transparent !important;border-right: 1em solid transparent !important;box-sizing: border-box;">
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="text-align: right;margin: -40px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 95%;vertical-align: top;background-color: rgb(62, 62, 62);border-style: solid;border-width: 3px;border-radius: 0px;border-color: rgb(255, 255, 255);padding: 5px 10px;box-sizing: border-box;">
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;font-size: 18px;color: rgb(255, 255, 255);box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         04
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="text-align: left;box-sizing: border-box;">
+       <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;box-shadow: rgb(0, 0, 0) 0px 0px 0px;border-top: 1px solid rgb(255, 255, 255);border-top-left-radius: 0px;padding: 0px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 18px;color: rgb(255, 255, 255);letter-spacing: 0.5px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            当今中国应该/不应该征收交通拥堵费
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="margin: 10px 0px;text-align: center;box-sizing: border-box;">
+    <section style="margin-bottom: -2.25em;box-sizing: border-box;">
+     <section style="padding: 10px;background-color: rgb(242, 242, 242);box-sizing: border-box;">
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="padding: 10px;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          正方：申了 徐菲雨 陆忆诚 钟莹彦
+         </p>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+        <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+         <img data-ratio="0.7" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/7KicRju7UxHH4DfRNshbExv7xNYcamg9qaKfKOVVC0LrCYAmgsbsGelmztraq5IMAQhB6U6iamtsyXPiblhBW8N2A/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="text-align: left;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          反方：吴远程 陈曦 任雪晴 常小瑜
+         </p>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+        <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+         <img data-ratio="0.740625" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/7KicRju7UxHH4DfRNshbExv7xNYcamg9qs3Cl3ic0lEicnWibmy7Bicx2gndkIaaQPAsaP91uEyd2JEicfcCGKicAMNSA/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="text-align: left;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="text-align: left;box-sizing: border-box;">
+         <p style="text-align: center;margin: 0px;padding: 0px;box-sizing: border-box;">
+          胜方：反方
+         </p>
+         <p style="text-align: center;margin: 0px;padding: 0px;box-sizing: border-box;">
+          最佳辩手：正方三辩陆忆诚
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="width: 2.25em;height: 2.25em;border-bottom: 5px solid rgb(249, 110, 87);border-left: 5px solid rgb(249, 110, 87);transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="margin: 10px 0% 0px;text-align: right;font-size: 32px;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+     <section style="width: 0px;box-sizing: border-box;">
+      <section style="border-bottom: 0.65em solid rgb(255, 202, 0);border-left: 1em solid transparent !important;border-right: 1em solid transparent !important;box-sizing: border-box;">
+      </section>
+     </section>
+     <section style="width: 2em;line-height: 1em;height: 1em;background-color: rgb(255, 202, 0);text-align: center;color: rgb(255, 255, 255);box-sizing: border-box;">
+      <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+       <br style="box-sizing: border-box;"/>
+      </p>
+     </section>
+     <section style="width: 0px;box-sizing: border-box;">
+      <section style="border-top: 0.65em solid rgb(255, 202, 0);border-left: 1em solid transparent !important;border-right: 1em solid transparent !important;box-sizing: border-box;">
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="margin: -40px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 95%;vertical-align: top;background-color: rgb(62, 62, 62);border-style: solid;border-width: 3px;border-radius: 0px;border-color: rgb(255, 255, 255);padding: 5px 10px;box-sizing: border-box;">
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: right;font-size: 18px;color: rgb(255, 255, 255);box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         05
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="text-align: right;box-sizing: border-box;">
+       <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;box-shadow: rgb(0, 0, 0) 0px 0px 0px;border-top: 1px solid rgb(255, 255, 255);border-top-left-radius: 0px;padding: 0px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;font-size: 18px;color: rgb(255, 255, 255);letter-spacing: 0.5px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            电子竞技可以/不可以纳入
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            奥运会运动比赛项目
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="margin: 10px 0px;text-align: center;box-sizing: border-box;">
+    <section style="margin-bottom: -2.25em;box-sizing: border-box;">
+     <section style="padding: 10px;background-color: rgb(242, 242, 242);box-sizing: border-box;">
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="padding: 10px;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          正方：蒲哲龙
+         </p>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+        <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+         <img data-ratio="0.68125" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/7KicRju7UxHH4DfRNshbExv7xNYcamg9qm9jEGJChGjq4eWmSK4OI2t41tl1A0ePbXiaEf9dYzK5TyNOBuVIDgqQ/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="text-align: left;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          反方：诸淑芬
+         </p>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+        <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+         <img data-ratio="0.76875" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/7KicRju7UxHH4DfRNshbExv7xNYcamg9qribQSEyCfoUO0xGaJTSQWkk2IlWo9icTUibgFrj7sGiaYvMCcQibA3yGPicQ/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="text-align: left;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          胜方：正方
+         </p>
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          最佳辩手：正方蒲哲龙
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="width: 2.25em;height: 2.25em;margin-left: auto;border-bottom: 5px solid rgb(249, 110, 87);border-right: 5px solid rgb(249, 110, 87);transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(212, 236, 220);padding: 10px 0px 0px;box-sizing: border-box;">
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px 15px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: center;font-size: 15px;color: rgb(79, 118, 120);line-height: 1.8;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             感谢大家的精彩表现！
+            </strong>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             就让我们一起期待国庆之后的心院新生赛决赛吧~
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+           <img data-ratio="0.5" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/7KicRju7UxHH4DfRNshbExv7xNYcamg9qKmD01TkLkhs39SJUiazoHoGpB6EbcDib2iaFIosjVXMjyx4mc3kyvGDrw/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: -5px 0% -3px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+        <svg style="vertical-align: middle;max-width: 100%;box-sizing: border-box;" viewbox="0 0 630.7 35" width="630.7" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+         <g style="box-sizing: border-box;">
+          <g style="box-sizing: border-box;">
+           <path d="M10.9,19.9c6,0,10.9,6.7,10.9,15H0C0,26.7,4.9,19.9,10.9,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M32.6,19.9c6,0,10.9,6.7,10.9,15H21.7C21.7,26.7,26.6,19.9,32.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M54.4,19.9c6,0,10.9,6.7,10.9,15H43.5C43.5,26.7,48.4,19.9,54.4,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M76.1,19.9c6,0,10.9,6.7,10.9,15H65.2C65.2,26.7,70.1,19.9,76.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M97.8,19.9c6,0,10.9,6.7,10.9,15H87C87,26.7,91.8,19.9,97.8,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M119.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C108.7,26.7,113.6,19.9,119.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M141.3,19.9c6,0,10.9,6.7,10.9,15h-21.7C130.4,26.7,135.3,19.9,141.3,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M163.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C152.2,26.7,157.1,19.9,163.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M184.9,20c6,0,10.9,6.7,10.9,15H174C174,26.7,178.9,20,184.9,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M206.6,20c6,0,10.9,6.7,10.9,15h-21.7C195.7,26.7,200.6,20,206.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M228.4,20c6,0,10.9,6.7,10.9,15h-21.7C217.5,26.7,222.4,20,228.4,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M250.1,20c6,0,10.9,6.7,10.9,15h-21.7C239.2,26.7,244.1,20,250.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M271.8,20c6,0,10.9,6.7,10.9,15H261C261,26.7,265.8,20,271.8,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M293.6,20c6,0,10.9,6.7,10.9,15h-21.7C282.7,26.7,287.6,20,293.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M315.3,20c6,0,10.9,6.7,10.9,15h-21.7C304.4,26.7,309.3,20,315.3,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M337.1,20c6,0,10.9,6.7,10.9,15h-21.7C326.2,26.7,331.1,20,337.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M358.9,19.9c6,0,10.9,6.7,10.9,15H348C348,26.7,352.9,19.9,358.9,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M380.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C369.7,26.7,374.6,19.9,380.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M402.4,19.9c6,0,10.9,6.7,10.9,15h-21.7C391.5,26.7,396.4,19.9,402.4,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M424.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C413.2,26.7,418.1,19.9,424.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M445.8,19.9c6,0,10.9,6.7,10.9,15H435C435,26.7,439.8,19.9,445.8,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M467.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C456.7,26.7,461.6,19.9,467.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M489.3,19.9c6,0,10.9,6.7,10.9,15h-21.7C478.4,26.7,483.3,19.9,489.3,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M511.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C500.2,26.7,505.1,19.9,511.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M532.9,20c6,0,10.9,6.7,10.9,15H522C522,26.7,526.9,20,532.9,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M554.6,20c6,0,10.9,6.7,10.9,15h-21.7C543.7,26.7,548.6,20,554.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M576.4,20c6,0,10.9,6.7,10.9,15h-21.7C565.5,26.7,570.4,20,576.4,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M598.1,20c6,0,10.9,6.7,10.9,15h-21.7C587.2,26.7,592.1,20,598.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M619.8,20c6,0,10.9,6.7,10.9,15H609C609,26.7,613.8,20,619.8,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+          </g>
+         </g>
+        </svg>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

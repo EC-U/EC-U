@@ -1,0 +1,727 @@
+
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;width: 50%;box-sizing: border-box;">
+     <svg class="svg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" viewbox="0 0 1214.3 197" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+      <g style="box-sizing: border-box;">
+       <g style="box-sizing: border-box;">
+        <g style="box-sizing: border-box;">
+         <path d="M737.6,129.2H479.3L608.4,0L737.6,129.2z M495.7,122.4h225.5L608.4,9.6L495.7,122.4z" fill="rgb(204, 146, 94)" style="box-sizing: border-box;">
+         </path>
+        </g>
+        <g style="box-sizing: border-box;">
+         <path d="M669.4,129.2H547.5l60.9-60.9L669.4,129.2z M563.9,122.4h89l-44.5-44.5L563.9,122.4z" fill="rgb(204, 146, 94)" style="box-sizing: border-box;">
+         </path>
+        </g>
+        <g style="box-sizing: border-box;">
+         <polygon fill="rgb(204, 146, 94)" points="609.3,128.2 604.5,123.3 692.9,34.9 781.4,123.3 776.6,128.2 692.9,44.5" style="box-sizing: border-box;">
+         </polygon>
+        </g>
+        <g style="box-sizing: border-box;">
+         <path d="M858.1,129.2h-80.6l40.3-40.3L858.1,129.2z M793.9,122.4h47.7l-23.9-23.9L793.9,122.4z" fill="rgb(204, 146, 94)" style="box-sizing: border-box;">
+         </path>
+        </g>
+        <g style="box-sizing: border-box;">
+         <path d="M436.1,129.2h-80.6l40.3-40.3L436.1,129.2z M372,122.4h47.7l-23.9-23.9L372,122.4z" fill="rgb(204, 146, 94)" style="box-sizing: border-box;">
+         </path>
+        </g>
+        <g style="box-sizing: border-box;">
+         <polygon fill="rgb(204, 146, 94)" points="605.1,128.2 521.5,44.5 437.8,128.2 433,123.3 521.5,34.9 609.9,123.3" style="box-sizing: border-box;">
+         </polygon>
+        </g>
+        <g style="box-sizing: border-box;">
+         <g style="box-sizing: border-box;">
+          <rect fill="rgb(204, 146, 94)" height="6.8" style="box-sizing: border-box;" width="223.9" x="775.7" y="122.4">
+          </rect>
+         </g>
+         <g style="box-sizing: border-box;">
+          <rect fill="rgb(204, 146, 94)" height="6.8" style="box-sizing: border-box;" width="223.9" x="214.7" y="122.4">
+          </rect>
+         </g>
+        </g>
+        <g style="box-sizing: border-box;">
+         <g style="box-sizing: border-box;">
+          <g style="box-sizing: border-box;">
+           <rect fill="rgb(204, 146, 94)" height="6.8" style="box-sizing: border-box;" width="73.1" x="875.8" y="99.6">
+           </rect>
+          </g>
+         </g>
+         <g style="box-sizing: border-box;">
+          <g style="box-sizing: border-box;">
+           <rect fill="rgb(204, 146, 94)" height="6.8" style="box-sizing: border-box;" width="73.1" x="265.4" y="99.6">
+           </rect>
+          </g>
+         </g>
+        </g>
+       </g>
+       <g style="box-sizing: border-box;">
+        <rect fill="rgb(204, 146, 94)" height="6.8" style="box-sizing: border-box;" width="1214.3" y="190.2">
+        </rect>
+       </g>
+       <g style="box-sizing: border-box;">
+        <rect fill="rgb(204, 146, 94)" height="6.8" style="box-sizing: border-box;" width="810.2" x="202.1" y="159.8">
+        </rect>
+       </g>
+      </g>
+     </svg>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="max-width: 100%;font-size: 0px;padding-bottom: 3px;box-sizing: border-box;">
+     <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+      <section style="width: 5px;height: 1px;background-color: rgb(249, 110, 87);box-sizing: border-box;">
+      </section>
+      <section style="width: 1px;height: 5px;margin: -3px auto 0px;background-color: rgb(249, 110, 87);box-sizing: border-box;">
+      </section>
+     </section>
+     <section style="margin: -1px -5px 0px;width: 100%;display: inline-block;vertical-align: middle;padding: 0px 8px;box-sizing: border-box;">
+      <section style="width: 100%;height: 1px;background-color: rgb(249, 110, 87);box-sizing: border-box;">
+      </section>
+     </section>
+     <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+      <section style="width: 5px;height: 1px;background-color: rgb(249, 110, 87);box-sizing: border-box;">
+      </section>
+      <section style="width: 1px;height: 5px;margin: -3px auto 0px;background-color: rgb(249, 110, 87);box-sizing: border-box;">
+      </section>
+     </section>
+    </section>
+    <section style="border-left: 1px solid rgb(249, 110, 87);border-right: 1px solid rgb(249, 110, 87);margin: 0px 2px 5px;border-top-color: rgb(249, 110, 87);border-bottom-color: rgb(249, 110, 87);box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="padding: 10px;box-sizing: border-box;">
+       <section style="letter-spacing: 1px;line-height: 1.8;box-sizing: border-box;">
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          一百年前，韦伯在影响深远的演讲《以学术为业》中发问：
+          <strong style="box-sizing: border-box;">
+           “我们应当做什么，我们应当如何生活?
+          </strong>
+          ”百年之后，这样的问题仍是我们需要回答的问题。这也是我们探索“哲学之道”的出发点。
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          为进一步增强博士生对时代问题的责任感与使命感，同时提升博士生的基础理论研究和学术交流能力，由华东师范大学研究生院主办、华东师范大学哲学系承办的
+          <strong style="box-sizing: border-box;">
+           “哲学之道”第八届博士生学术论坛（全国）拟于2019年6月举办
+          </strong>
+          。论坛即日起面向全国各大高校从事哲学研究的博士生（含部分优秀硕士生）征集优秀论文。期待与您在樱桃河畔相聚！
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="max-width: 100%;font-size: 0px;box-sizing: border-box;">
+     <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+      <section style="width: 5px;height: 1px;background-color: rgb(249, 110, 87);box-sizing: border-box;">
+      </section>
+      <section style="width: 1px;height: 5px;margin: -3px auto 0px;background-color: rgb(249, 110, 87);box-sizing: border-box;">
+      </section>
+     </section>
+     <section style="margin: -1px -5px 0px;width: 100%;display: inline-block;vertical-align: middle;padding: 0px 8px;box-sizing: border-box;">
+      <section style="width: 100%;height: 1px;background-color: rgb(249, 110, 87);box-sizing: border-box;">
+      </section>
+     </section>
+     <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+      <section style="width: 5px;height: 1px;background-color: rgb(249, 110, 87);box-sizing: border-box;">
+      </section>
+      <section style="width: 1px;height: 5px;margin: -3px auto 0px;background-color: rgb(249, 110, 87);box-sizing: border-box;">
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.04375" data-type="png?x-oss-process=style/xmorient" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/8mpibugRB0rT4cziaV0Ms9vRZj0noicwT8mXkv5TZjZoE55aP7BiaL9XBPRVNZnA6oRjQe0sPTbsT6MVLsjDQGVWUQ/640?wx_fmt=png?x-oss-process=style/xmorient" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border-radius: 0.7em;box-shadow: rgb(204, 204, 204) 0.2em 0.2em 0.3em;border-color: rgb(249, 110, 87);border-style: solid;border-width: 0.14em;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="padding: 10px;box-sizing: border-box;">
+       <section style="text-align: center;box-sizing: border-box;">
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: 8px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;border-style: solid;border-width: 1px 5px 1px 1px;border-radius: 0px;border-color: rgb(197, 36, 36);padding: 5px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;padding: 0px 8px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             一、 论坛主题：哲学之道
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="padding: 10px;box-sizing: border-box;">
+       <section style="text-align: center;font-size: 14px;line-height: 1.8;letter-spacing: 1px;box-sizing: border-box;">
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="box-sizing: border-box;">
+          何为哲学与哲学何为，是哲学从业者必须首先面对的问题。古今中外的哲学家们对此问题都进行过解答。从西方哲学史上看，远在古希腊时期，哲学（philosophy）即被理解为爱智慧；而在中国古代哲学中，先秦开始对“性与天道”的追问就与智慧紧密相连。如何理解哲学与如何从事哲学研究，对于我们哲学博士生显得尤为重要。我们以“哲学之道”为主题，为从事哲学研究的博士生们提供交流的平台，既可以就热点问题把握哲学研究动态，也可从不同哲学领域的具体问题入手做出精深研究。
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="box-sizing: border-box;">
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="color: rgb(204, 161, 90);box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           <span style="box-sizing: border-box;">
+            参考子课题：
+           </span>
+          </strong>
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="box-sizing: border-box;">
+          1. 历史唯物主义当代研究
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="box-sizing: border-box;">
+          2．新文化运动以来的中国哲学研究
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="box-sizing: border-box;">
+          3．中西哲学比较的新视域与新方法
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="box-sizing: border-box;">
+          4．西方哲学的诠释与理解
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="box-sizing: border-box;">
+          5．科技伦理与道德哲学
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="box-sizing: border-box;">
+          6．人工智能与人类未来研究
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="box-sizing: border-box;">
+          7．认知与逻辑
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="box-sizing: border-box;">
+          8、环境哲学
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="box-sizing: border-box;">
+          9. 其它与主题相关的选题
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="box-sizing: border-box;">
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: 8px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;border-style: solid;border-width: 1px 5px 1px 1px;border-radius: 0px;border-color: rgb(197, 36, 36);padding: 5px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;padding: 0px 8px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             二、论坛时间与地点
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="padding: 10px;box-sizing: border-box;">
+       <section style="text-align: center;line-height: 1.8;letter-spacing: 1px;box-sizing: border-box;">
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           <span style="color: rgb(204, 161, 90);box-sizing: border-box;">
+            时间：2019年5月31日-6月2日
+           </span>
+          </strong>
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          （5月31日报到，6月1日正式会议，2日离会）
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          地点：华东师范大学闵行校区
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: 8px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;border-style: solid;border-width: 1px 5px 1px 1px;border-radius: 0px;border-color: rgb(197, 36, 36);padding: 5px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;padding: 0px 8px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             三、主办单位：华东师范大学研究生院
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="padding: 10px;box-sizing: border-box;">
+       <section style="text-align: center;line-height: 1.8;letter-spacing: 1px;box-sizing: border-box;">
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          承办单位：华东师范大学哲学系
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          协办单位：《探索与争鸣》杂志社
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          《华东师范大学学报》杂志社
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          《思想与文化》杂志社
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: 8px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;border-style: solid;border-width: 1px 5px 1px 1px;border-radius: 0px;border-color: rgb(197, 36, 36);padding: 5px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;padding: 0px 8px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             四、论坛形式
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="padding: 10px;box-sizing: border-box;">
+       <section style="text-align: center;line-height: 1.8;letter-spacing: 1px;box-sizing: border-box;">
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;letter-spacing: 0px;box-sizing: border-box;">
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;letter-spacing: 0px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;letter-spacing: 0px;box-sizing: border-box;">
+          1.入选论文汇报交流；
+         </span>
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          2.名家讲坛：邀请著名哲学家进行论坛主旨演讲。
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: 8px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;border-style: solid;border-width: 1px 5px 1px 1px;border-radius: 0px;border-color: rgb(197, 36, 36);padding: 5px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;padding: 0px 8px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             五、论文相关要求
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="padding: 10px;box-sizing: border-box;">
+       <section style="text-align: center;line-height: 1.8;letter-spacing: 1px;box-sizing: border-box;">
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          1.投稿截止日期：
+          <span style="color: rgb(210, 59, 59);box-sizing: border-box;">
+           <strong style="box-sizing: border-box;">
+            2019年5月5日
+           </strong>
+          </span>
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          2.请将论文发送至投稿邮箱：ecnuzxbslt@163.com
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;color: rgb(204, 161, 90);box-sizing: border-box;">
+          3
+          <strong style="box-sizing: border-box;">
+           .投稿文件名：“姓名+论文题目+学校+联系电邮+联系电话”
+          </strong>
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          4.与论坛主题相关且未以任何形式发表的原创学术论文。
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          5.中英文不限，论文字数以0.8至1.2万字为宜。请在正文前附中文摘要（400字以内）、中文关键词（3—5个）。在文末附作者介绍，包括专业、研究方向、联系方式、学校及院系等信息。
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          6.论文格式要求如下：一级标题：黑体，三号，加粗；二级标题：黑体，四号，加粗；三级标题：黑体，小四号，加粗；摘要与关键词：楷体，五号；正文与参考文献：宋体，小四号，行距为固定值25磅；论文一律使用脚注（即页下注），注释序号用①②③……标示，每页重新编号。
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: 8px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;border-style: solid;border-width: 1px 5px 1px 1px;border-radius: 0px;border-color: rgb(197, 36, 36);padding: 5px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;padding: 0px 8px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             六、论坛其他事项
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="padding: 10px;box-sizing: border-box;">
+       <section style="text-align: center;line-height: 1.8;letter-spacing: 1px;box-sizing: border-box;">
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          <span style="font-size: 14px;color: rgb(204, 161, 90);box-sizing: border-box;">
+           1．论文评审结果于2019年5月20日前在华东师范大学哲学系官网、官微公布。
+          </span>
+         </strong>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          2、会议主办方提供会议期间的食宿，差旅费敬请自理。
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          3、设立优秀论文奖，颁发证书。
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          4、《思想与文化》（CSSCI集刊）将从第一、二等获奖论文中遴选出4篇论文，经作者同意、导师指导修改后刊发。
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          5. 未尽事宜，可通过会务邮箱ecnuzxbslt@163.com
+         </span>
+         <span style="font-size: 14px;box-sizing: border-box;">
+          或以下方式与我们联系。
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          汪  兵  15921926595
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          文  杰  15821130159
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </span>
+        </p>
+        <p style="text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </span>
+        </p>
+        <p style="text-align: right;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          华东师范大学研究生院
+         </span>
+        </p>
+        <p style="text-align: right;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          华东师范大学哲学系
+         </span>
+        </p>
+        <p style="text-align: right;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          2019年1月4日
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 50%;box-sizing: border-box;">
+     <svg class="svg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" viewbox="0 0 1214.3 197" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+      <g style="box-sizing: border-box;">
+       <g style="box-sizing: border-box;">
+        <g style="box-sizing: border-box;">
+         <path d="M476.7,67.8H735L605.9,197L476.7,67.8z M718.6,74.6H493.1l112.7,112.7L718.6,74.6z" fill="rgb(204, 146, 94)" style="box-sizing: border-box;">
+         </path>
+        </g>
+        <g style="box-sizing: border-box;">
+         <path d="M544.9,67.8h121.9l-60.9,60.9L544.9,67.8z M650.4,74.6h-89l44.5,44.5L650.4,74.6z" fill="rgb(204, 146, 94)" style="box-sizing: border-box;">
+         </path>
+        </g>
+        <g style="box-sizing: border-box;">
+         <polygon fill="rgb(204, 146, 94)" points="605,68.8 609.8,73.6 521.3,162.1 432.9,73.6 437.7,68.8 521.3,152.5" style="box-sizing: border-box;">
+         </polygon>
+        </g>
+        <g style="box-sizing: border-box;">
+         <path d="M356.2,67.8h80.6l-40.3,40.3L356.2,67.8z M420.3,74.6h-47.7l23.9,23.9L420.3,74.6z" fill="rgb(204, 146, 94)" style="box-sizing: border-box;">
+         </path>
+        </g>
+        <g style="box-sizing: border-box;">
+         <path d="M778.1,67.8h80.6l-40.3,40.3L778.1,67.8z M842.3,74.6h-47.7l23.9,23.9L842.3,74.6z" fill="rgb(204, 146, 94)" style="box-sizing: border-box;">
+         </path>
+        </g>
+        <g style="box-sizing: border-box;">
+         <polygon fill="rgb(204, 146, 94)" points="609.1,68.8 692.8,152.5 776.5,68.8 781.3,73.6 692.8,162.1 604.3,73.6" style="box-sizing: border-box;">
+         </polygon>
+        </g>
+        <g style="box-sizing: border-box;">
+         <g style="box-sizing: border-box;">
+          <rect fill="rgb(204, 146, 94)" height="6.8" style="box-sizing: border-box;" width="223.9" x="214.7" y="67.8">
+          </rect>
+         </g>
+         <g style="box-sizing: border-box;">
+          <rect fill="rgb(204, 146, 94)" height="6.8" style="box-sizing: border-box;" width="223.9" x="775.7" y="67.8">
+          </rect>
+         </g>
+        </g>
+        <g style="box-sizing: border-box;">
+         <g style="box-sizing: border-box;">
+          <g style="box-sizing: border-box;">
+           <rect fill="rgb(204, 146, 94)" height="6.8" style="box-sizing: border-box;" width="73.1" x="265.4" y="90.6">
+           </rect>
+          </g>
+         </g>
+         <g style="box-sizing: border-box;">
+          <g style="box-sizing: border-box;">
+           <rect fill="rgb(204, 146, 94)" height="6.8" style="box-sizing: border-box;" width="73.1" x="875.8" y="90.6">
+           </rect>
+          </g>
+         </g>
+        </g>
+       </g>
+       <g style="box-sizing: border-box;">
+        <rect fill="rgb(204, 146, 94)" height="6.8" style="box-sizing: border-box;" width="1214.3">
+        </rect>
+       </g>
+       <g style="box-sizing: border-box;">
+        <rect fill="rgb(204, 146, 94)" height="6.8" style="box-sizing: border-box;" width="810.2" x="202.1" y="30.4">
+        </rect>
+       </g>
+      </g>
+     </svg>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>

@@ -1,0 +1,436 @@
+
+ <section class="tn-Powered-by-XIUMI" style="border: none; margin: 0.5em 0px; text-align: center; box-sizing: border-box; padding: 0px;">
+  <section class="tn-Powered-by-XIUMI" style="width: 3em; height: 3em; -webkit-transform: rotate(-45deg); display: inline-block; vertical-align: middle; border-left-width: 5px; border-left-style: solid; border-color: rgb(78, 140, 149); border-top-width: 5px; border-top-style: solid; border-radius: 5em 0px 0px; box-sizing: border-box;">
+  </section>
+  <section class="tn-Powered-by-XIUMI" style="width: 7em; height: 7em; display: inline-block; vertical-align: middle; border-radius: 100%; margin: 0px -2.18em 0px -2.2em; box-sizing: border-box; background-color: rgb(255, 255, 255);">
+   <section class="tn-Powered-by-XIUMI" style="width: 6em; height: 6em; margin: 0.5em auto; border-radius: 100%; box-sizing: border-box; background-image: url(http://statics.xiumi.us/xmi/rc/7tnI/i/a42dd5512a6e7e2d537448190baa9142-sz_201774.jpg); background-size: cover; background-position: 50% 50%; background-repeat: no-repeat;">
+   </section>
+  </section>
+  <section class="tn-Powered-by-XIUMI" style="width: 3em; height: 3em; display: inline-block; vertical-align: middle; -webkit-transform: rotate(45deg); border-right-width: 5px; border-right-style: solid; border-color: rgb(78, 140, 149); border-top-width: 5px; border-top-style: solid; border-radius: 0px 5em 0px 0px; box-sizing: border-box;">
+  </section>
+  <section class="tn-Powered-by-XIUMI" style="width: 100%; height: 0px; border-top-width: 2px; border-top-style: solid; border-color: rgb(78, 140, 149); margin: -3.5em 0px 3.5em; box-sizing: border-box;">
+  </section>
+  <section style="width: 0px; height: 0px; clear: both;">
+  </section>
+ </section>
+ <p>
+  <section class="tn-Powered-by-XIUMI" style="border: none; margin: 0.5em 0px; padding-top: 15px; box-sizing: border-box;">
+   <section class="tn-Powered-by-XIUMI" style="margin-left: 1em; border-radius: 4em; padding-left: 6em; height: 4em; line-height: 4em; overflow: hidden; font-size: 100%; font-family: inherit; text-decoration: inherit; color: rgb(255, 255, 255); border-color: rgb(95, 156, 239); box-sizing: border-box; background-color: rgb(95, 156, 239);">
+    <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+     模拟联合国基本情况
+    </section>
+   </section>
+   <section class="tn-Powered-by-XIUMI" style="width: 5em; height: 5em; margin-top: -4em; display: inline-block; vertical-align: top; text-align: center; border-radius: 100%; border: 3px solid rgb(95, 156, 239); font-size: 112.5%; font-family: inherit; text-decoration: inherit; box-sizing: border-box; background-color: rgb(255, 255, 255);">
+    <section class="tn-Powered-by-XIUMI" style="display: table; width: 100%; height: 5em; box-sizing: border-box;">
+     <section class="tn-Powered-by-XIUMI" style="display: table-cell; vertical-align: middle; width: 100%; line-height: 1.2; box-sizing: border-box;">
+      <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+       ECNU
+      </section>
+      <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+       MUN
+      </section>
+     </section>
+    </section>
+   </section>
+   <section style="width: 0px; height: 0px; clear: both;">
+   </section>
+  </section>
+  <section class="tn-Powered-by-XIUMI" style="border: 0px; box-sizing: border-box; padding: 0px;">
+   <section class="tn-Powered-by-XIUMI" style="width: 95%; margin-left: 5%; box-sizing: border-box;">
+    <section class="tn-Powered-by-XIUMI" style="display: inline-block; float: left; width: 1.5em; height: 1.5em; line-height: 1.5em; margin: 1em 0px -2em -0.75em; border: 1px solid rgb(95, 156, 239); border-radius: 100%; font-size: 1em; font-family: inherit; text-align: center; text-decoration: inherit; color: rgb(95, 156, 239); box-sizing: border-box; background-color: rgb(255, 255, 255);">
+     <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+      <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+       1
+      </section>
+     </section>
+    </section>
+    <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+     <section class="tn-Powered-by-XIUMI" style="border-left-width: 1px; border-left-style: solid; border-color: rgb(95, 156, 239); height: 1.2em; box-sizing: border-box;">
+     </section>
+     <section class="tn-Powered-by-XIUMI" style="border-left-width: 1px; border-left-style: solid; border-color: rgb(95, 156, 239); box-sizing: border-box;">
+      <section class="tn-Powered-by-XIUMI" style="clear: both; margin: -0.4em 0px 0px 1.6em; padding-bottom: 0.2em; font-size: 1em; font-family: inherit; text-decoration: inherit; color: rgb(95, 156, 239); box-sizing: border-box;">
+       <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+        起源
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <section style="width: 0px; height: 0px; clear: both;">
+   </section>
+  </section>
+  <section class="tn-Powered-by-XIUMI" style="border: 0px; box-sizing: border-box; padding: 0px;">
+   <section class="tn-Powered-by-XIUMI" style="width: 95%; margin-left: 5%; box-sizing: border-box;">
+    <section class="tn-Powered-by-XIUMI" style="display: inline-block; float: left; width: 1em; height: 1em; margin: 1em 0px -2em -0.5em; border: 1px solid rgb(95, 156, 239); border-radius: 100%; box-sizing: border-box; background-color: rgb(255, 255, 255);">
+     <section class="tn-Powered-by-XIUMI" style="width: 100%; height: 100%; border-radius: 100%; box-sizing: border-box; background-color: rgb(95, 156, 239);">
+     </section>
+    </section>
+    <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+     <section class="tn-Powered-by-XIUMI" style="border-left-width: 1px; border-left-style: solid; border-color: rgb(95, 156, 239); padding: 0.8em 0px 0.5em; box-sizing: border-box;">
+      <section class="tn-Powered-by-XIUMI" style="clear: both; margin-left: 1.6em; font-size: 87.5%; font-family: inherit; text-decoration: inherit; box-sizing: border-box;">
+       <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+        模拟联合国活动源自美国，是一项历史悠久、开展广泛的学生活动。
+       </section>
+       <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+        早在1923年，联合国还未成立之时，美国就有一批学生对国际组织、对国际政治充满了浓厚的兴趣，他们活跃在哈佛大学和其他大学的校园里，举办了跨学校的针对国际联盟的模拟仿真——模拟国际联盟会议。他们模拟不同国家的外交官，参照国际联盟的议事程序讨论国际问题。模拟联合国活动则是对这类模拟会议的继承。1945年联合国的成立引起了世界人民的广泛热情。1951年，美国加州伯克利大学（UC Berkeley）率先成立模拟联合国团队，开始进行模拟联合国活动。
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <section style="width: 0px; height: 0px; clear: both;">
+   </section>
+  </section>
+  <section class="tn-Powered-by-XIUMI" style="border: 0px; box-sizing: border-box; padding: 0px;">
+   <section class="tn-Powered-by-XIUMI" style="width: 95%; margin-left: 5%; box-sizing: border-box;">
+    <section class="tn-Powered-by-XIUMI" style="display: inline-block; float: left; width: 1.5em; height: 1.5em; line-height: 1.5em; margin: 1em 0px -2em -0.75em; border: 1px solid rgb(95, 156, 239); border-radius: 100%; font-size: 1em; font-family: inherit; text-align: center; text-decoration: inherit; color: rgb(95, 156, 239); box-sizing: border-box; background-color: rgb(255, 255, 255);">
+     <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+      <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+       2
+      </section>
+     </section>
+    </section>
+    <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+     <section class="tn-Powered-by-XIUMI" style="border-left-width: 1px; border-left-style: solid; border-color: rgb(95, 156, 239); height: 1.2em; box-sizing: border-box;">
+     </section>
+     <section class="tn-Powered-by-XIUMI" style="border-left-width: 1px; border-left-style: solid; border-color: rgb(95, 156, 239); box-sizing: border-box;">
+      <section class="tn-Powered-by-XIUMI" style="clear: both; margin: -0.4em 0px 0px 1.6em; padding-bottom: 0.2em; font-size: 1em; font-family: inherit; text-decoration: inherit; color: rgb(95, 156, 239); box-sizing: border-box;">
+       <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+        是什么
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <section style="width: 0px; height: 0px; clear: both;">
+   </section>
+  </section>
+  <section class="tn-Powered-by-XIUMI" style="border: 0px; box-sizing: border-box; padding: 0px;">
+   <section class="tn-Powered-by-XIUMI" style="width: 95%; margin-left: 5%; box-sizing: border-box;">
+    <section class="tn-Powered-by-XIUMI" style="display: inline-block; float: left; width: 1em; height: 1em; margin: 1em 0px -2em -0.5em; border: 1px solid rgb(95, 156, 239); border-radius: 100%; box-sizing: border-box; background-color: rgb(255, 255, 255);">
+     <section class="tn-Powered-by-XIUMI" style="width: 100%; height: 100%; border-radius: 100%; box-sizing: border-box; background-color: rgb(95, 156, 239);">
+     </section>
+    </section>
+    <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+     <section class="tn-Powered-by-XIUMI" style="border-left-width: 1px; border-left-style: solid; border-color: rgb(95, 156, 239); padding: 0.8em 0px 0.5em; box-sizing: border-box;">
+      <section class="tn-Powered-by-XIUMI" style="display: inline-block; padding: 0px 0px 5px 20px; box-sizing: border-box;">
+       <img class="tn-Powered-by-XIUMI" data-ratio="0.6652173913043479" data-type="jpeg" data-w="460" src="http://mmbiz.qpic.cn/mmbiz/Y3NuZJhY0NP4ZhJ0fjQyFfibcsSRvfXxqn7Zr03WA0h0wRWOGuccKH8lkaGThJV6tg37Ebwcznhicd5pueicwAnCQ/0?wx_fmt=jpeg" style="box-sizing: border-box; width: 100%;"/>
+       <section class="tn-Powered-by-XIUMI" style="padding-top: 5px; margin: 0.5em auto; line-height: 1.5em; font-size: 87.5%; font-family: inherit; text-decoration: inherit; box-sizing: border-box;">
+        <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+         模拟联合国 (Model United Nations)，是对联合国大会和其它多边机构的仿真学术模拟，是为青年人组织的公民教育活动。在活动中，青年学生们扮演不同国家或其它政治实体的外交代表，参与围绕国际上的热点问题召开的会议。代表们遵循议事规则，在会议主席团的主持下，通过演讲来阐述观点，为了“国家利益”辩论、磋商、游说。他们与友好的国家沟通协作，解决冲突；通过写作决议草案和投票表决来推进国际问题的解决。
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <section style="width: 0px; height: 0px; clear: both;">
+   </section>
+  </section>
+  <section class="tn-Powered-by-XIUMI" style="border: 0px; box-sizing: border-box; padding: 0px;">
+   <section class="tn-Powered-by-XIUMI" style="width: 95%; margin-left: 5%; box-sizing: border-box;">
+    <section class="tn-Powered-by-XIUMI" style="display: inline-block; float: left; width: 1.5em; height: 1.5em; line-height: 1.5em; margin: 1em 0px -2em -0.75em; border: 1px solid rgb(95, 156, 239); border-radius: 100%; font-size: 1em; font-family: inherit; text-align: center; text-decoration: inherit; color: rgb(95, 156, 239); box-sizing: border-box; background-color: rgb(255, 255, 255);">
+     <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+      <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+       3
+      </section>
+     </section>
+    </section>
+    <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+     <section class="tn-Powered-by-XIUMI" style="border-left-width: 1px; border-left-style: solid; border-color: rgb(95, 156, 239); height: 1.2em; box-sizing: border-box;">
+     </section>
+     <section class="tn-Powered-by-XIUMI" style="border-left-width: 1px; border-left-style: solid; border-color: rgb(95, 156, 239); box-sizing: border-box;">
+      <section class="tn-Powered-by-XIUMI" style="clear: both; margin: -0.4em 0px 0px 1.6em; padding-bottom: 0.2em; font-size: 1em; font-family: inherit; text-decoration: inherit; color: rgb(95, 156, 239); box-sizing: border-box;">
+       <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+        模联活动中议题主要涉及领域
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <section style="width: 0px; height: 0px; clear: both;">
+   </section>
+  </section>
+  <section class="tn-Powered-by-XIUMI" style="border: 0px; box-sizing: border-box; padding: 0px;">
+   <section class="tn-Powered-by-XIUMI" style="width: 95%; margin-left: 5%; box-sizing: border-box;">
+    <section class="tn-Powered-by-XIUMI" style="display: inline-block; float: left; width: 1em; height: 1em; margin: 1em 0px -2em -0.5em; border: 1px solid rgb(95, 156, 239); border-radius: 100%; box-sizing: border-box; background-color: rgb(255, 255, 255);">
+     <section class="tn-Powered-by-XIUMI" style="width: 100%; height: 100%; border-radius: 100%; box-sizing: border-box; background-color: rgb(95, 156, 239);">
+     </section>
+    </section>
+    <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+     <section class="tn-Powered-by-XIUMI" style="border-left-width: 1px; border-left-style: solid; border-color: rgb(95, 156, 239); padding: 0.8em 0px 0.5em; box-sizing: border-box;">
+      <section class="tn-Powered-by-XIUMI" style="display: inline-block; padding: 0px 0px 5px 20px; box-sizing: border-box;">
+       <img class="tn-Powered-by-XIUMI" data-ratio="0.7760869565217391" data-type="jpeg" data-w="460" src="http://mmbiz.qpic.cn/mmbiz/Y3NuZJhY0NP4ZhJ0fjQyFfibcsSRvfXxqNlzsiaicVMOibjKDoqBT5PHcFpUQVkvO6ibcUx92cyZnmq4CBibL5ock8vA/0?wx_fmt=jpeg" style="box-sizing: border-box; width: 100%;"/>
+       <section class="tn-Powered-by-XIUMI" style="padding-top: 5px; margin: 0.5em auto; line-height: 1.5em; font-size: 87.5%; font-family: inherit; text-decoration: inherit; box-sizing: border-box;">
+        <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+         <span class="tn-Powered-by-XIUMI" style="font-family: inherit; font-size: 1em; line-height: 1.5em; text-decoration: inherit; box-sizing: border-box;">
+          和平与安全 、
+         </span>
+         <span class="tn-Powered-by-XIUMI" style="font-family: inherit; font-size: 1em; line-height: 1.5em; text-decoration: inherit; box-sizing: border-box;">
+          人权 、
+         </span>
+         <span class="tn-Powered-by-XIUMI" style="font-family: inherit; font-size: 1em; line-height: 1.5em; text-decoration: inherit; box-sizing: border-box;">
+          环境 、
+         </span>
+         <span class="tn-Powered-by-XIUMI" style="font-family: inherit; font-size: 1em; line-height: 1.5em; text-decoration: inherit; box-sizing: border-box;">
+          贫穷与发展 、
+         </span>
+         <span class="tn-Powered-by-XIUMI" style="font-family: inherit; font-size: 1em; line-height: 1.5em; text-decoration: inherit; box-sizing: border-box;">
+          货币政策 、
+         </span>
+         <span class="tn-Powered-by-XIUMI" style="font-family: inherit; font-size: 1em; line-height: 1.5em; text-decoration: inherit; box-sizing: border-box;">
+          石油危机 、
+         </span>
+         <span class="tn-Powered-by-XIUMI" style="font-family: inherit; font-size: 1em; line-height: 1.5em; text-decoration: inherit; box-sizing: border-box;">
+          全球化 、
+         </span>
+         <span class="tn-Powered-by-XIUMI" style="font-family: inherit; font-size: 1em; line-height: 1.5em; text-decoration: inherit; box-sizing: border-box;">
+          公共卫生等
+         </span>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <section style="width: 0px; height: 0px; clear: both;">
+   </section>
+  </section>
+  <section class="tn-Powered-by-XIUMI" style="border: 0px; box-sizing: border-box; padding: 0px;">
+   <section class="tn-Powered-by-XIUMI" style="width: 95%; margin-left: 5%; box-sizing: border-box;">
+    <section class="tn-Powered-by-XIUMI" style="display: inline-block; float: left; width: 1.5em; height: 1.5em; line-height: 1.5em; margin: 1em 0px -2em -0.75em; border: 1px solid rgb(95, 156, 239); border-radius: 100%; font-size: 1em; font-family: inherit; text-align: center; text-decoration: inherit; color: rgb(95, 156, 239); box-sizing: border-box; background-color: rgb(255, 255, 255);">
+     <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+      <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+       4
+      </section>
+     </section>
+    </section>
+    <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+     <section class="tn-Powered-by-XIUMI" style="border-left-width: 1px; border-left-style: solid; border-color: rgb(95, 156, 239); height: 1.2em; box-sizing: border-box;">
+     </section>
+     <section class="tn-Powered-by-XIUMI" style="border-left-width: 1px; border-left-style: solid; border-color: rgb(95, 156, 239); box-sizing: border-box;">
+      <section class="tn-Powered-by-XIUMI" style="clear: both; margin: -0.4em 0px 0px 1.6em; padding-bottom: 0.2em; font-size: 1em; font-family: inherit; text-decoration: inherit; color: rgb(95, 156, 239); box-sizing: border-box;">
+       <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+        主要职能
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <section style="width: 0px; height: 0px; clear: both;">
+   </section>
+  </section>
+  <section class="tn-Powered-by-XIUMI" style="border: 0px; box-sizing: border-box; padding: 0px;">
+   <section class="tn-Powered-by-XIUMI" style="width: 95%; margin-left: 5%; box-sizing: border-box;">
+    <section class="tn-Powered-by-XIUMI" style="display: inline-block; float: left; width: 1em; height: 1em; margin: 1em 0px -2em -0.5em; border: 1px solid rgb(95, 156, 239); border-radius: 100%; box-sizing: border-box; background-color: rgb(255, 255, 255);">
+     <section class="tn-Powered-by-XIUMI" style="width: 100%; height: 100%; border-radius: 100%; box-sizing: border-box; background-color: rgb(95, 156, 239);">
+     </section>
+    </section>
+    <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+     <section class="tn-Powered-by-XIUMI" style="border-left-width: 1px; border-left-style: solid; border-color: rgb(95, 156, 239); padding: 0.8em 0px 0.5em; box-sizing: border-box;">
+      <section class="tn-Powered-by-XIUMI" style="display: inline-block; padding: 0px 0px 5px 20px; box-sizing: border-box;">
+       <img class="tn-Powered-by-XIUMI" data-ratio="0.6891304347826087" data-type="jpeg" data-w="460" src="http://mmbiz.qpic.cn/mmbiz/Y3NuZJhY0NP4ZhJ0fjQyFfibcsSRvfXxqcKDP8HW5aNdn1h7j2BNzEI7hewm2yVSN4tcwy5TPZtJ0H7a7xJBYew/0?wx_fmt=jpeg" style="box-sizing: border-box; width: 100%;"/>
+       <section class="tn-Powered-by-XIUMI" style="padding-top: 5px; margin: 0.5em auto; line-height: 1.5em; font-size: 87.5%; font-family: inherit; text-decoration: inherit; box-sizing: border-box;">
+        <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+         1、审议为维持国际和平与安全、包括裁军开展合作的一般原则并提出建议。
+         <br class="tn-Powered-by-XIUMI" style="box-sizing: border-box;"/>
+        </section>
+        <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+         2、讨论与国际和平与安全有关的任何问题，并就此提出建议，但当前由安全理事会讨论的争端或情势除外。
+         <br class="tn-Powered-by-XIUMI" style="box-sizing: border-box;"/>
+        </section>
+        <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+         3、除同样的争端或情势之外，讨论属于《宪章》范畴的任何问题或涉及联合国任何机关权力和职能的任何问题，并就此提出建议。
+         <br class="tn-Powered-by-XIUMI" style="box-sizing: border-box;"/>
+        </section>
+        <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+         4、开展研究和提出建议，促进国际政治合作、国际法的发展和编纂、人权和基本自由的实现以及经济、社会、人道主义、文化、教育和健康领域的国际合作。
+         <br class="tn-Powered-by-XIUMI" style="box-sizing: border-box;"/>
+        </section>
+        <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+         5、就和平解决可能妨碍国家间友好关系的任何情势提出建议。
+         <br class="tn-Powered-by-XIUMI" style="box-sizing: border-box;"/>
+        </section>
+        <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+         6、收取并审议安全理事会和联合国其他机关的报告。
+         <br class="tn-Powered-by-XIUMI" style="box-sizing: border-box;"/>
+        </section>
+        <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+         7、审议和批准联合国预算，并确定会员国的分摊会费。
+         <br class="tn-Powered-by-XIUMI" style="box-sizing: border-box;"/>
+        </section>
+        <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+         8、选举安全理事会非常任理事国以及联合国其他理事会和机关的成员，并根据安全理事会的建议任命秘书长。
+         <br class="tn-Powered-by-XIUMI" style="box-sizing: border-box;"/>
+        </section>
+        <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+         9、在和平似乎受到威胁、破坏或出现侵略行为时，如安全理事会因一常任理事国投反对票而未能采取行动，大会也可采取行动。大会可立即审议有关事项，以便建议会员国集体采取措施，维护或恢复国际和平与安全。
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <section style="width: 0px; height: 0px; clear: both;">
+   </section>
+  </section>
+  <section class="tn-Powered-by-XIUMI" style="border: none; margin: 0.5em 0px; box-sizing: border-box; padding: 0px;">
+   <section class="tn-Powered-by-XIUMI" style="width: 5em; height: 5em; float: right; margin-bottom: -4em; display: inline-block; vertical-align: bottom; text-align: center; border-radius: 100%; border: 3px solid rgb(95, 156, 239); font-size: 1.2em; font-family: inherit; text-decoration: inherit; box-sizing: border-box; background-color: rgb(255, 255, 255);">
+    <section class="tn-Powered-by-XIUMI" style="display: table; width: 100%; height: 5em; box-sizing: border-box;">
+     <section class="tn-Powered-by-XIUMI" style="display: table-cell; vertical-align: middle; width: 100%; line-height: 1.2; box-sizing: border-box;">
+      <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+       ECNU
+      </section>
+      <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+       MUN
+      </section>
+     </section>
+    </section>
+   </section>
+   <section class="tn-Powered-by-XIUMI" style="margin-left: 1em; border-radius: 4em; padding: 0px 6em 0px 1em; height: 4em; line-height: 4em; clear: both; margin-bottom: 1em; overflow: hidden; font-size: 1em; font-family: inherit; text-decoration: inherit; color: rgb(255, 255, 255); border-color: rgb(95, 156, 239); box-sizing: border-box; background-color: rgb(95, 156, 239);">
+    <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+     模拟联合国长什么样子
+    </section>
+   </section>
+   <section style="width: 0px; height: 0px; clear: both;">
+   </section>
+  </section>
+  <section class="tn-Powered-by-XIUMI" style="border: 0px; margin-top: 0px; margin-bottom: 0px; clear: both; font-size: 87.5%; font-family: inherit; text-align: justify; text-decoration: inherit; color: inherit; box-sizing: border-box; padding: 0px;">
+   <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+    说了这么多，模拟联合国到底长什么样子呢？不急不急，待小编慢慢讲给你们听
+   </section>
+   <section style="width: 0px; height: 0px; clear: both;">
+   </section>
+  </section>
+  <section class="tn-Powered-by-XIUMI" style="border: 0px; box-sizing: border-box; width: 100%; clear: both; margin: 0.8em 0px 0.5em; overflow: hidden; padding: 0px;">
+   <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box; width: 65%; float: right; padding: 0px 0px 0px 0.1em;">
+    <img class="tn-Powered-by-XIUMI" data-ratio="0.07033639143730887" data-type="jpeg" data-w="327" src="http://mmbiz.qpic.cn/mmbiz/Y3NuZJhY0NP4ZhJ0fjQyFfibcsSRvfXxquuur7icib4OyYicm8jGhXCG7CEPSnFMcg3Q7leib7bibW7orkKHDs3icPp1A/0?wx_fmt=jpeg" style="box-sizing: border-box; width: 100%;"/>
+   </section>
+   <section class="tn-Powered-by-XIUMI" style="display: inline-block; width: 35%; box-sizing: border-box; float: right; padding: 0px 0.1em 0px 0px; text-align: right;">
+    <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box; margin-right: 4px; padding: 4px 6px; color: rgb(52, 54, 60); border-bottom-width: 1px; border-bottom-style: solid; border-color: black; font-size: 1.2em; font-family: inherit; text-decoration: inherit;">
+     <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+      会场
+     </section>
+    </section>
+    <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box; margin-right: 0.3em; padding: 3px 5px; color: rgb(120, 124, 129); font-size: 0.9em; font-family: inherit; text-decoration: inherit;">
+     <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+      将头发梳成大人模样，穿上一身帅气西装，等会儿见你一定比平时美。。。会场上，我们西装革履意气风发，恰同学少年，风华正茂
+     </section>
+    </section>
+   </section>
+   <section style="width: 0px; height: 0px; clear: both;">
+   </section>
+  </section>
+  <section class="tn-Powered-by-XIUMI" style="border: 0px; box-sizing: border-box; width: 100%; clear: both; margin: 0.8em 0px 0.5em; overflow: hidden; padding: 0px;">
+   <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box; width: 65%; float: left; padding: 0px 0.1em 0px 0px;">
+    <img class="tn-Powered-by-XIUMI" data-ratio="1.3333333333333333" data-type="jpeg" data-w="327" src="http://mmbiz.qpic.cn/mmbiz/Y3NuZJhY0NP4ZhJ0fjQyFfibcsSRvfXxq3iaYwewEyskJ5FVTLvsibXhA3NPuWUWaib4nNUzzs3K3Pkle0OgucA0IA/0?wx_fmt=jpeg" style="box-sizing: border-box; width: 100%;"/>
+   </section>
+   <section class="tn-Powered-by-XIUMI" style="display: inline-block; width: 35%; box-sizing: border-box; float: left; padding: 0px 0px 0px 0.1em;">
+    <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box; margin-right: 4px; padding: 4px 6px; color: rgb(52, 54, 60); font-size: 1.2em; border-bottom-width: 1px; border-bottom-style: solid; border-color: black; font-family: inherit; text-decoration: inherit;">
+     <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+      酒会
+     </section>
+    </section>
+    <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box; margin-right: 0.3em; padding: 0.3em 0.5em; color: rgb(120, 124, 129); font-size: 0.9em; font-family: inherit; text-decoration: inherit;">
+     <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+      酒会上，你可以穿正装可以着礼服，品着红酒在高逼格的酒店里和小伙伴们畅谈明天去做什么发型。
+     </section>
+    </section>
+   </section>
+   <section style="width: 0px; height: 0px; clear: both;">
+   </section>
+  </section>
+  <section class="tn-Powered-by-XIUMI" style="border: 0px; box-sizing: border-box; width: 100%; margin: 0.8em 0px 0px; clear: both; overflow: hidden; padding: 0px;">
+   <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box; width: 50%; float: left; padding: 0px 0.1em 0px 0px;">
+    <img class="tn-Powered-by-XIUMI" data-ratio="0.6653386454183267" data-type="jpeg" data-w="251" src="http://mmbiz.qpic.cn/mmbiz/Y3NuZJhY0NP4ZhJ0fjQyFfibcsSRvfXxqwibAhBnlcLJdEmRqpadU5rbwibXXqraxLHfhOYxq7ibngcoe1Col9qJJw/0?wx_fmt=jpeg" style="box-sizing: border-box; width: 100%;"/>
+    <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box; margin: 0.3em 0px 1em 0.3em; color: rgb(102, 102, 102); font-size: 0.9em; font-family: inherit; text-decoration: inherit;">
+     <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+      会议休息期间
+     </section>
+    </section>
+   </section>
+   <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box; width: 50%; float: right; padding: 0px 0px 0px 0.1em;">
+    <img class="tn-Powered-by-XIUMI" data-ratio="0.6653386454183267" data-type="jpeg" data-w="251" src="http://mmbiz.qpic.cn/mmbiz/Y3NuZJhY0NP4ZhJ0fjQyFfibcsSRvfXxqTlKibQVIdVHAxwHK5LkSGlsV55Stxqiae3UicDB2L99bJI8VbMkXIPVCQ/0?wx_fmt=jpeg" style="box-sizing: border-box; width: 100%;"/>
+    <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box; margin: 0.3em 0px 1em 0.3em; color: rgb(102, 102, 102); font-size: 0.9em; font-family: inherit; text-decoration: inherit;">
+     <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+      坐下来慢慢谈
+     </section>
+    </section>
+   </section>
+   <section style="width: 0px; height: 0px; clear: both;">
+   </section>
+  </section>
+  <section class="tn-Powered-by-XIUMI" style="border: 0px; box-sizing: border-box; width: 100%; clear: both; margin: 0.8em 0px 0.5em; overflow: hidden; padding: 0px;">
+   <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box; width: 65%; float: left; padding: 0px 0.1em 0px 0px;">
+    <img class="tn-Powered-by-XIUMI" data-ratio="0.7492354740061162" data-type="jpeg" data-w="327" src="http://mmbiz.qpic.cn/mmbiz/Y3NuZJhY0NP4ZhJ0fjQyFfibcsSRvfXxqaibG2mqnhLHnVT1WfQ2jSKW2KxwUETZXyQ8ibJSN5UmuPoT1NF8PVndg/0?wx_fmt=jpeg" style="box-sizing: border-box; width: 100%;"/>
+   </section>
+   <section class="tn-Powered-by-XIUMI" style="display: inline-block; width: 35%; box-sizing: border-box; float: left; padding: 0px 0px 0px 0.1em;">
+    <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box; margin-right: 4px; padding: 4px 6px; color: rgb(52, 54, 60); font-size: 1.2em; border-bottom-width: 1px; border-bottom-style: solid; border-color: black; font-family: inherit; text-decoration: inherit;">
+     <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+      代表牌
+     </section>
+    </section>
+    <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box; margin-right: 0.3em; padding: 0.3em 0.5em; color: rgb(120, 124, 129); font-size: 0.9em; font-family: inherit; text-decoration: inherit;">
+     <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+      会议结束后，你的国家代表牌满满都是小伙伴们的涂鸦
+     </section>
+    </section>
+   </section>
+   <section style="width: 0px; height: 0px; clear: both;">
+   </section>
+  </section>
+  <section class="tn-Powered-by-XIUMI" style="border: 0px; margin-top: 0px; margin-bottom: 0px; clear: both; font-size: 87.5%; font-family: inherit; text-align: justify; text-decoration: inherit; color: rgb(95, 156, 239); box-sizing: border-box; padding: 0px;">
+   <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+    不要责怪闵大荒太偏僻，认识不了更多的小伙伴，那是因为你没有加入华师模联！不要吐槽男生太少，帅哥是稀有资源，那是因为你没有加入华师模联！不要惆怅英语水平上了大学越来越下降，那是因为你没有加入华师模联！华师模联，高逼格低门槛，带你走出校园，走向世界！
+   </section>
+   <section style="width: 0px; height: 0px; clear: both;">
+   </section>
+  </section>
+  <section class="tn-Powered-by-XIUMI" style="border: none; margin: 0.5em 0px -1em; box-sizing: border-box; padding: 0px;">
+   <section class="tn-Powered-by-XIUMI" style="width: 100%; text-align: center; box-sizing: border-box;">
+    <img class="tn-Powered-by-XIUMI" data-ratio="1.0511363636363635" data-type="png" data-w="176" src="http://mmbiz.qpic.cn/mmbiz/Y3NuZJhY0NP4ZhJ0fjQyFfibcsSRvfXxqkyC0z0sCclrhFpLNqX2Bm9bTCqQgLrgkdGiapgdS2aoKh4TcFEUZiadw/0?wx_fmt=png" style="width: 11em; height: 12em; margin: 0px auto; box-sizing: border-box; background-color: rgb(95, 156, 239);"/>
+   </section>
+   <section class="tn-Powered-by-XIUMI" style="margin: -9.4em 0px 0px; width: 100%; display: inline-block; vertical-align: top; box-sizing: border-box;">
+    <section class="tn-Powered-by-XIUMI" style="margin: auto; width: 16em; box-sizing: border-box;">
+     <section class="tn-Powered-by-XIUMI" style="margin-left: 0.5em; font-size: 2em; font-family: inherit; text-align: center; text-decoration: inherit; color: rgb(255, 255, 255); border-color: rgb(95, 156, 239); box-sizing: border-box; background-color: rgb(95, 156, 239);">
+      <section class="tn-Powered-by-XIUMI" style="width: 0px; float: left; margin-top: -0.035em; border-right-width: 0.18em; border-right-style: solid; border-right-color: rgb(95, 156, 239); border-bottom-width: 1em; border-bottom-style: solid; border-bottom-color: rgb(95, 156, 239); border-left-width: 0.3em !important; border-left-style: solid !important; border-left-color: transparent !important; border-top-width: 0.6em !important; border-top-style: solid !important; border-top-color: transparent !important; box-sizing: border-box;">
+      </section>
+      <section class="tn-Powered-by-XIUMI" style="float: left; box-sizing: border-box; background-color: rgb(255, 255, 255);">
+       <section class="tn-Powered-by-XIUMI" style="height: 1.58em; line-height: 1.6em; width: 5em; box-sizing: border-box; background-color: rgb(95, 156, 239);">
+        <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+         拒绝沉默
+        </section>
+       </section>
+      </section>
+      <section class="tn-Powered-by-XIUMI" style="width: 0px; float: left; border-left-width: 0.3em; border-left-style: solid; border-left-color: rgb(95, 156, 239); border-top-width: 0.6em; border-top-style: solid; border-top-color: rgb(95, 156, 239); border-right-width: 0.18em !important; border-right-style: solid !important; border-right-color: transparent !important; border-bottom-width: 1em !important; border-bottom-style: solid !important; border-bottom-color: transparent !important; box-sizing: border-box;">
+      </section>
+     </section>
+     <section class="tn-Powered-by-XIUMI" style="clear: both; margin-left: 1.4em; font-size: 2em; font-family: inherit; text-align: center; text-decoration: inherit; color: rgb(255, 255, 255); border-color: rgb(95, 156, 239); box-sizing: border-box; background-color: rgb(95, 156, 239);">
+      <section class="tn-Powered-by-XIUMI" style="width: 0px; float: left; margin-top: -0.068em; border-right-width: 0.18em; border-right-style: solid; border-right-color: rgb(95, 156, 239); border-bottom-width: 1em; border-bottom-style: solid; border-bottom-color: rgb(95, 156, 239); border-left-width: 0.3em !important; border-left-style: solid !important; border-left-color: transparent !important; border-top-width: 0.6em !important; border-top-style: solid !important; border-top-color: transparent !important; box-sizing: border-box;">
+      </section>
+      <section class="tn-Powered-by-XIUMI" style="float: left; margin-top: -1px; box-sizing: border-box; background-color: rgb(255, 255, 255);">
+       <section class="tn-Powered-by-XIUMI" style="height: 1.58em; line-height: 1.6em; width: 5em; box-sizing: border-box; background-color: rgb(95, 156, 239);">
+        <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+         大声动议
+        </section>
+       </section>
+      </section>
+      <section class="tn-Powered-by-XIUMI" style="width: 0px; float: left; margin-top: -1px; border-left-width: 0.3em; border-left-style: solid; border-left-color: rgb(95, 156, 239); border-top-width: 0.6em; border-top-style: solid; border-top-color: rgb(95, 156, 239); border-right-width: 0.18em !important; border-right-style: solid !important; border-right-color: transparent !important; border-bottom-width: 1em !important; border-bottom-style: solid !important; border-bottom-color: transparent !important; box-sizing: border-box;">
+      </section>
+     </section>
+    </section>
+   </section>
+   <section style="width: 0px; height: 0px; clear: both;">
+   </section>
+  </section>
+  <section class="tn-Powered-by-XIUMI" style="border: 0px; margin-top: 0px; margin-bottom: 0px; clear: both; font-size: 1em; font-family: inherit; text-align: justify; text-decoration: inherit; color: rgb(95, 156, 239); box-sizing: border-box; padding: 0px;">
+   <section class="tn-Powered-by-XIUMI" style="box-sizing: border-box;">
+    华东师范大学模拟联合国，等着你来填写更多的美好！
+   </section>
+   <section style="width: 0px; height: 0px; clear: both;">
+   </section>
+  </section>
+ </p>
+ <p>
+  <br/>
+ </p>

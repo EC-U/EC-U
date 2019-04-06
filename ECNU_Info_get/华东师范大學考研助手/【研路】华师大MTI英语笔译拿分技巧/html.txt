@@ -1,0 +1,312 @@
+
+ <section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;">
+  <section class="_135editor" data-id="94399" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section style="text-align: center;">
+    <section style="display: inline-block;width:2em;">
+     <img class="" data-ratio="0.8461538461538461" data-type="png" data-w="78" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/HqfVjH48EaibJrFbxCwPEzIX7hibe1A0iakjqNetm4qGgVEcZvox4ncr54h2ZHbXlSUjfPCnhuY7g8iboZUGbZ0icLg/640?wx_fmt=png" style="width: 100%;display: block;"/>
+    </section>
+    <section style="display: flex;justify-content: center;align-items: center;margin-top:-6px;">
+     <section style="background:#838ec2;width:1em;height:1px;">
+     </section>
+     <section class="autonum" data-original-title="" style="color: rgb(63, 63, 63);padding-right: 6px;padding-left: 6px;box-sizing: border-box;" title="">
+      <strong>
+       1
+      </strong>
+     </section>
+     <section style="background:#838ec2;width:1em;height:1px;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <p style="text-indent: 2em;">
+    <strong>
+     <span style="font-size: 14px;">
+      如果你们已经决定要考翻译，第一步先要择校。
+     </span>
+    </strong>
+   </p>
+   <p style="text-indent: 2em;">
+    <span style="font-size: 14px;">
+     基本择校的原则就是：城市--学校类型（综合/师范/外语类/理工类院校、211/985)--选择2-3所学校找来真题浏览一遍看哪个学校出题方向适合自己--查询该校往年录取信息、报录比等--找该学校学长学姐咨询。咨询家人、老师也是有帮助的，最重要的还是看自己心仪哪所学校。这是我认为比较科学的择校流程，虽然并不是这样选的。当时因为好朋友本科来华师交换过一年，期间一直跟我说这所学校很好，于是对这所学校产生蜜汁好感，然后想考上海的学校又估摸着自己考不上上外。所以就报了华师。
+    </span>
+   </p>
+   <p style="text-indent: 2em;">
+    <span style="font-size: 14px;">
+     择校这一步完成后，就要着手准备买资料看书了，但是每个人开始的时间不一样。复习早晚要分析自身情况而定。有很强的执行力不拖延也不会无视计划，心里有数适合长期复习，那么趁现在就可以开始，毕竟考研到后期都会觉得没时间。如果和我一样对时间没有紧迫感，计划改了又改，就需要尽量缩短自己复习战线，提高效率（但缩短不代表一周两周就复习完哈...不要误会）
+    </span>
+   </p>
+   <p style="text-indent: 2em;">
+    <br/>
+   </p>
+   <section class="_135editor" data-id="94399" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section style="text-align: center;">
+     <section style="display: inline-block;width:2em;">
+      <img class="" data-ratio="0.8461538461538461" data-type="png" data-w="78" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/HqfVjH48EaibJrFbxCwPEzIX7hibe1A0iakjqNetm4qGgVEcZvox4ncr54h2ZHbXlSUjfPCnhuY7g8iboZUGbZ0icLg/640?wx_fmt=png" style="width: 100%;display: block;"/>
+     </section>
+     <section style="display: flex;justify-content: center;align-items: center;margin-top:-6px;">
+      <section style="background:#838ec2;width:1em;height:1px;">
+      </section>
+      <section class="autonum" data-num="2" data-original-title="" style="color: rgb(63, 63, 63);padding-right: 6px;padding-left: 6px;box-sizing: border-box;" title="">
+       <strong>
+        2
+       </strong>
+      </section>
+      <section style="background:#838ec2;width:1em;height:1px;">
+      </section>
+     </section>
+    </section>
+   </section>
+   <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <p style="text-align: center;">
+     <strong>
+      专业课复习
+     </strong>
+     <br/>
+    </p>
+   </section>
+   <section class="_135editor" data-id="94071" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section style="padding-right: 0.6em;padding-bottom: 1em;padding-left: 0.6em;box-sizing: border-box;">
+     <section style="text-align: left;font-size:50px;font-weight: bold;display: flex;justify-content:flex-start;align-items: center;">
+      <section style="margin-left: 10px;z-index:999;">
+       <span style="color: #f79646;">
+        0
+       </span>
+      </section>
+      <section class="autonum" data-original-title="" style="z-index:999;" title="">
+       <span style="color: #f79646;">
+        1
+       </span>
+      </section>
+      <section class="135brush" data-brushtype="text" style="font-size: 16px;margin-top:-6px;">
+       <strong>
+        <span style="color: #f79646;">
+         基础英语
+        </span>
+       </strong>
+      </section>
+     </section>
+     <section style="background:#fefefe;box-shadow:0px 0px 5px #dedede;margin-top: -30px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-ms-transform: rotate(0deg);-o-transform: rotate(0deg);">
+      <section class="135brush" data-autoskip="1" style="font-size: 14px;letter-spacing: 1.5px;line-height: 1.75em;color: rgb(63, 62, 63);padding: 1em;box-sizing: border-box;">
+       <p>
+        复习资料：
+       </p>
+       <p>
+        华东师范大学英语基础真题
+       </p>
+       <p>
+        GRE黄皮书选择
+       </p>
+       <p>
+        GRE高分必备短语搭配
+       </p>
+       <p>
+        如鱼得水专八单词
+       </p>
+       <p>
+        专八改错+专八阅读+专八作文
+       </p>
+       <p>
+        张道真实用英语语法
+       </p>
+      </section>
+     </section>
+    </section>
+   </section>
+   <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      因为语法很烂，我复习的时候着重复习的语法和基础，整理了一大本语法和词义辨析之类的笔记。GRE词汇和专八词汇是为了准备单选的，因为往年华师单选题会出GRE的题型考的都是词义辨析，常用搭配这种类型的。所以日常精读很重要，不是刷题能准备到的。
+     </span>
+    </p>
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      改错就是用的专八改错那本书，平常错的比较多，华师出的题和专八持平吧不算太难。我阅读一直水平忽上忽下，所以那本专八阅读只做了1/3，发下试卷来一看竟然没阅读。无选项填空往年也考过，都是填些助词之类的，这个属于比较难的题型，考前在网上找了20套练习做了找了找语感。
+     </span>
+    </p>
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      作文我从10月每周都会找一个热点话题写一篇作文，12月报了一个学长的班，上了3次课，根据他讲的课件和话题自己整理了思路，然后整理了七八个自认为最容易考的话题，虽然最后一个没考到，考了个翻译是科学还是艺术这么哲学的话题，我觉得日常写作的习惯还是帮了不少忙。
+     </span>
+    </p>
+    <p style="text-indent: 2em;">
+     <br/>
+    </p>
+    <section class="_135editor" data-id="94071" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section style="padding-right: 0.6em;padding-bottom: 1em;padding-left: 0.6em;box-sizing: border-box;">
+      <section style="text-align: left;font-size:50px;font-weight: bold;display: flex;justify-content:flex-start;align-items: center;">
+       <section style="margin-left: 10px;z-index:999;">
+        <span style="color: #f79646;">
+         0
+        </span>
+       </section>
+       <section class="autonum" data-num="2" data-original-title="" style="z-index:999;" title="">
+        <span style="color: #f79646;">
+         2
+        </span>
+       </section>
+       <section class="135brush" data-brushtype="text" style="font-size: 16px;margin-top:-6px;">
+        <strong>
+         <span style="color: #f79646;">
+          翻译基础
+         </span>
+        </strong>
+       </section>
+      </section>
+      <section style="background:#fefefe;box-shadow:0px 0px 5px #dedede;margin-top: -30px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-ms-transform: rotate(0deg);-o-transform: rotate(0deg);">
+       <section class="135brush" data-autoskip="1" style="font-size: 14px;letter-spacing: 1.5px;line-height: 1.75em;color: rgb(63, 62, 63);padding: 1em;box-sizing: border-box;">
+        <p>
+         散文108篇
+        </p>
+        <p>
+         政府工作报告
+        </p>
+        <p>
+         中式英语之鉴
+        </p>
+        <p>
+         三级笔译教材
+        </p>
+        <p>
+         外刊（经济学人为主）
+        </p>
+        <p>
+         卢敏热词（可以关注微博@卢敏微博）
+        </p>
+        <p>
+         中国日报热词点津
+        </p>
+        <p>
+         武峰12天突破英译汉
+        </p>
+        <p>
+         翻译硕士黄皮书
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       英语翻译真题这些材料里我后期复习以外刊、三笔教材（只有教材，没有练习册，因为我没买。）、散文108篇和黄皮书为主。外刊从大三其实就一直在看，碰到好文章会做精读笔记，前面就说了精读很有用，比单纯练翻译技巧、做题更有价值，从9月开始，在精读时我有意把不同的表达方式、句型会记在手机备忘录里，12月的时候翻看大约有70多个句子，写作时也可以套用，自己记下来的比看别人整理的会记得快些。
+      </span>
+     </p>
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       我读最多的是经济学人、FT中文，每周经济学人的头版文章基本能找到双语版的。还有一个很好用的网站叫译言，里面会有一些译文交流，也会找到一些比较好的外刊译文。华师翻译出题风格，汉译英一般是散文，偶尔一年我记得是总理讲话；英译汉是应用文比较多。
+      </span>
+     </p>
+     <section class="_135editor" data-id="image-89932" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <p style="text-align:center;">
+       <img class="" data-ratio="0.6671732522796353" data-type="jpeg" data-w="658" src="https://mmbiz.qpic.cn/mmbiz_jpg/HqfVjH48EaibJrFbxCwPEzIX7hibe1A0iakVYHqAu3LohCZVNGGTjjLlgZKfSnxq2D2KKhhun6iaHeydS5vU4tl7xQ/640?wx_fmt=jpeg" title="Kindle电子阅读器的宏显示模糊背景的书"/>
+      </p>
+     </section>
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       今年（2018年）汉译英是《永远的尹雪艳》，英译汉是一篇应用文。三笔那本书我从大三下准备过一次，看过一遍，到11月又翻译了2遍，之后就是看自己的笔记和纠错。翻译的时候尽量译完再比较着改错，把语法错误的改正，不地道的地方记下来，最后会发现很多规律是互通的。但是9月初我花了太多精力看政府工作报告，一直到10月还是啃不动，每天花的时间多又感觉学不到东西，以至于散文汉译英一直到10月中旬才开始，当时有些着急，但是还是把散文108篇这本书里汉译英的部分都整理了笔记，差不多11月底才过完一遍，不过做笔记真的很有效，考前翻看了很多遍，感觉用词提升了不少。
+      </span>
+     </p>
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       11月的时候开始做黄皮书里各学校真题，都是选择的和华师出题风格相似的练习的，到12月初差不多练了有10多篇。12月没再做过新翻译，当然每个人不一样，我是选择消化之前的笔记和纠错。
+      </span>
+     </p>
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       热词这一部分，我也是深有感触。复习材料是卢敏热词、中国日报热词点津和政府工作报告里的词条。刚开始复习，我下载了前6个月的热词，结果每次拿出来背都是从一月开始，以至于到11月还没背完前半年的。当时一怒之下每天拿手机录音，闲着的时候都去听自己录的音。终于在11月底之前把前10个月的背完了，我说这个的意思是，在是在复习不下去的时候应该给自己换个方式，比如录音啊、写便携卡片啊都可以。华师今年热词部分，汉译英全都出自政府工作报告，英译汉是三个长句子，是比较正式的文体。
+      </span>
+     </p>
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       我的建议：像政府工作报告、中式英语之鉴还有武峰老师的书、理论性、技巧性的书和视频可以复习之前就抽空看，每天做一篇练习也不累。因为后期复习的科目多，需要集中练习，很难有时间再去细读。
+      </span>
+     </p>
+    </section>
+    <section class="_135editor" data-id="94071" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section style="padding-right: 0.6em;padding-bottom: 1em;padding-left: 0.6em;box-sizing: border-box;">
+      <section style="text-align: left;font-size:50px;font-weight: bold;display: flex;justify-content:flex-start;align-items: center;">
+       <section style="margin-left: 10px;z-index:999;">
+        <span style="color: #f79646;">
+         0
+        </span>
+       </section>
+       <section class="autonum" data-num="3" data-original-title="" style="z-index:999;" title="">
+        <span style="color: #f79646;">
+         3
+        </span>
+       </section>
+       <section class="135brush" data-brushtype="text" style="font-size: 16px;margin-top:-6px;">
+        <strong>
+         <span style="color: #f79646;">
+          百科与写作
+         </span>
+        </strong>
+       </section>
+      </section>
+      <section style="background:#fefefe;box-shadow:0px 0px 5px #dedede;margin-top: -30px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-ms-transform: rotate(0deg);-o-transform: rotate(0deg);">
+       <section class="135brush" data-autoskip="1" style="font-size: 14px;letter-spacing: 1.5px;line-height: 1.75em;color: rgb(63, 62, 63);padding: 1em;box-sizing: border-box;">
+        <p>
+         育明百科（绿皮书）
+        </p>
+        <p>
+         百科知识考点狂背
+        </p>
+        <p>
+         中国文化读本
+        </p>
+        <p>
+         西方文化史
+        </p>
+        <p>
+         翻译硕士黄皮书各校真题
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       百科前两年是考名词解释，出题方向西方文化比较多，也会有经济词条。
+      </span>
+     </p>
+     <section class="_135editor" data-id="image-95144" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <p style="text-align:center;">
+       <img class="" data-ratio="0.6671732522796353" data-type="jpeg" data-w="658" src="https://mmbiz.qpic.cn/mmbiz_jpg/HqfVjH48EaibJrFbxCwPEzIX7hibe1A0iakDcfrQibQy4x80tMJMg3Q5WaufMF6jGpYsnykZL99zTZP5ricAJ0P000w/640?wx_fmt=jpeg" title="读，读，文学，自然，森林，森林，女孩，女人，粮食，文学"/>
+      </p>
+     </section>
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       复习这一科，知识面越宽泛越好，多关注时事，因为你也不知道最后会碰到什么题。当时买了翻译硕士网的百科考点狂背，都是分类以词条的形式呈现的，基本每年11月底才会出新的版本。虽然没用上感觉还蛮全的，育明那本绿皮书也很全，可以自己再做补充。应用文就是公文写作，百度会出来一堆模板和写作套路，每一种练一篇背过就好，今年华师是填充流程图，然后写申请公文。
+      </span>
+     </p>
+     <p style="text-indent: 2em;">
+      <span style="font-size: 14px;">
+       作文的话参考高考作文，考研最大的乐趣就是看书，同时我也会积累各话题素材。从11月每周五限时写一篇800词作文，虽然没押中题目，但是素材积累多了都是可以通用哒
+      </span>
+      。
+     </p>
+     <p style="text-indent: 2em;">
+      <br/>
+     </p>
+     <p style="text-indent: 2em;">
+      <strong>
+       <span style="font-size: 14px;">
+        今天的经验分享就到此结束啦，想要咨询交流复试和调剂的同学可以点击蓝字：
+       </span>
+      </strong>
+      <a data-itemshowtype="0" data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA3OTI4Njg2MA==&amp;mid=2649536954&amp;idx=1&amp;sn=39dfd2794f5f0bd58d3795a8fa2051c4&amp;chksm=87adde99b0da578f506d8fbaf1b88dd2e2eee7be70e0e32d21105fdbdc4cad8bf5a99d2f0f24&amp;scene=21#wechat_redirect" target="_blank">
+       2019华师大考研复试调剂交流群，欢迎加入！
+      </a>
+     </p>
+     <p style="text-align: center;">
+      <img class="" data-copyright="0" data-ratio="0.6041666666666666" data-s="300,640" data-type="jpeg" data-w="480" src="https://mmbiz.qpic.cn/mmbiz_jpg/HqfVjH48Ea9x26JJRku7MRCOB4gPOVWCFWfqNCzUArUkmRVn2nTMiaic3aMeJFHmVvbs3nfrKx7lltHY1EhQD6dQ/640?wx_fmt=jpeg" style=""/>
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

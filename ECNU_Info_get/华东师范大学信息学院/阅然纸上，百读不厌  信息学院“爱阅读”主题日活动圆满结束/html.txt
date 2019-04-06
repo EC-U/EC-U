@@ -1,0 +1,192 @@
+
+ <p style="text-align: center;">
+  <span style="color: rgb(136, 136, 136); font-size: 16px; text-align: center;  background-color: rgb(255, 255, 255);">
+  </span>
+ </p>
+ <section data-role="outer" label="Powered by 135editor.com" style="font-family:微软雅黑;font-size:16px;">
+  <section class="_135editor" data-id="89205" data-tools="135编辑器" style="border-width: 0px; border-style: none; border-color: initial; box-sizing: border-box;">
+   <p style=" margin:10px auto; width:300px; height:50px; background-image:url(http://mmbiz.qpic.cn/mmbiz_png/fgnkxfGnnkRiaIqAyNmibsCS7GeQyST7kTmEiaObVibLjtaf6H0nbW856GF0STUD9dicDcONz8IOcctRcxibPQrPMd4Q/0?wx_fmt=png); background-size:100% 100%; text-align:center; font-size:18px; line-height:50px; text-align:center; color:#fff;">
+    文脉丽娃         品读师大
+   </p>
+  </section>
+ </section>
+ <p style="white-space: normal; text-align: center;">
+  4月13日
+ </p>
+ <p style="white-space: normal; text-align: center;">
+  信息楼147室
+ </p>
+ <p style="text-align: center;">
+  信息学院
+  <br/>
+ </p>
+ <p style="text-align: center;">
+  “爱阅读”主题日活动
+ </p>
+ <p style="text-align: center;">
+  <span style="color: rgb(255, 255, 255); background-color: rgb(20, 19, 19);">
+   阅然纸上，百读不厌
+  </span>
+ </p>
+ <p style="text-align: center;">
+  圆满落下帷幕
+ </p>
+ <p style="text-align: center;">
+  <img data-ratio="0.9968152866242038" data-s="300,640" data-type="jpeg" data-w="314" src="http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlE8EFiah4CszHgbYugqevZ3NiaWsqcmTIQYj6433O5QxDQKvtNTXngwLWujtnVjgxJryzHMoicJCTl7Q/0?wx_fmt=jpeg"/>
+ </p>
+ <section data-role="outer" label="Powered by 135editor.com" style="font-size: 16px;">
+  <section class="_135editor" data-id="88167" data-tools="135编辑器" style=" font-family: 微软雅黑; border-width: 0px; border-style: none; border-color: initial;  box-sizing: border-box; ">
+   <section style=" margin-top: 0.5em; margin-bottom: 0.5em; text-align: center;  ">
+    <section style="border-width: 1px; border-style: solid; border-color: rgb(204, 204, 204); box-shadow: rgb(204, 204, 204) 1px 1px 5px; display: inline-block; box-sizing: border-box;">
+     <img data-ratio="0.75" data-type="jpeg" data-w="800" src="http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlE8EFiah4CszHgbYugqevZ3NicCEyBN7tHKvC7F9fQEQXXLPib70DKFgEhyPSFUJNRHz0CicxibmmNDSUA/0?wx_fmt=jpeg" style="vertical-align: middle;" title="领奖.jpg"/>
+     <section data-width="100%" style="width: 100%; height: 1em; margin-top: -0.95em;">
+      <section data-width="45%" style="width: 45%; height: 1em; display: inline-block; vertical-align: top; background-color: rgb(254, 255, 255);">
+      </section>
+      <section style="width: 0px; margin: auto; display: inline-block; vertical-align: top; border-left: 0.8em solid rgb(255, 255, 255); border-right: 0.8em solid rgb(255, 255, 255); border-top: 1em solid transparent !important; box-sizing: border-box;">
+      </section>
+      <section data-width="45%" style="width: 45%; height: 1em; display: inline-block; vertical-align: top; background-color: rgb(254, 255, 255);">
+      </section>
+     </section>
+     <section data-width="100%" style="width: 100%; margin-top: -1em;">
+      <section data-width="10%" style="width: 10%; height: 1em; display: inline-block; vertical-align: top; background-color: rgb(254, 255, 255);">
+      </section>
+      <section data-width="10%" style="width: 10%; height: 1em; margin-left: 80%; display: inline-block; vertical-align: top; background-color: rgb(254, 255, 255);">
+      </section>
+     </section>
+     <section style="margin-top: -0.6em; padding: 10px; box-sizing: border-box;">
+      <section style="">
+       <section data-width="100%" style="display: inline-block; width: 100%; vertical-align: top;">
+        <section style=" margin-top: -90px; margin-right: 0%; margin-left: 0%;  ">
+         <section style="letter-spacing: 2px; font-size: 24px; color: rgb(255, 255, 255);">
+          <p style="white-space: normal;">
+           <strong>
+            Award Time
+           </strong>
+          </p>
+         </section>
+        </section>
+        <section style="">
+         <section style="font-size: 14px; letter-spacing: 2px; color: rgb(255, 255, 255);">
+          <p style="white-space: normal;">
+           领/奖/时/间
+          </p>
+         </section>
+        </section>
+        <section style="  margin-top:30px; ">
+         <section style="color: rgb(202, 198, 198); letter-spacing: 2px;">
+          <p style="white-space: normal;">
+           <span class="line-selected" data="means_6_15" style="color: rgb(51, 51, 51); font-size: 15px;">
+            杨意不逢，
+           </span>
+           <span style="color: rgb(51, 51, 51); font-size: 15px;">
+           </span>
+           <span data="means_6_16" style="color: rgb(51, 51, 51); font-size: 15px;">
+            抚凌云而自惜
+           </span>
+          </p>
+          <p style="white-space: normal;">
+           <span data="means_6_17" style="color: rgb(51, 51, 51); font-size: 15px;">
+            钟期既遇，
+           </span>
+           <span style="color: rgb(51, 51, 51); font-size: 15px;">
+           </span>
+           <span data="means_6_18" style="color: rgb(51, 51, 51); font-size: 15px;">
+            奏流水以何惭
+           </span>
+          </p>
+         </section>
+        </section>
+        <section style="">
+         <section style="font-size: 12px; color: rgb(160, 160, 160); letter-spacing: 2px;">
+          <p style="white-space: normal;">
+           <br/>
+          </p>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <p style="font-family: 微软雅黑; white-space: normal;">
+   <br/>
+  </p>
+  <section class="_135editor" data-role="paragraph" style="border-width: 0px; border-style: none; border-color: initial; box-sizing: border-box;">
+   <p style="font-family: 微软雅黑; white-space: normal; text-align: center;">
+    为获奖的同学
+   </p>
+   <p style="font-family: 微软雅黑; white-space: normal; text-align: center;">
+    送上他们的
+    <span style="background-color: rgb(20, 19, 19); color: rgb(255, 255, 255);">
+     心愿书目
+    </span>
+    ~
+   </p>
+   <p style="font-family: 微软雅黑; white-space: normal; text-align: center;">
+    同学们也互相分享了
+   </p>
+   <p style="font-family: 微软雅黑; white-space: normal; text-align: center;">
+    自己的感触与体会
+   </p>
+   <p style="font-family: 微软雅黑; white-space: normal; text-align: center;">
+    <br/>
+   </p>
+   <section data-role="outer" label="Powered by 135editor.com" style="font-size: 16px;">
+    <section class="_135editor" data-id="88423" data-tools="135编辑器" style=" font-family: 微软雅黑; border-width: 0px; border-style: none; border-color: initial;  box-sizing: border-box; ">
+     <section>
+      <section data-width="50%" style="display: inline-block; vertical-align: top; width: 50%;">
+       <section style=" text-align: center; margin: 0.5em; box-shadow: rgb(102, 102, 102) 3.53553px 3.53553px 8px; ">
+        <section data-role="square" data-width="100%" style='overflow: hidden; margin-right: auto; margin-left: auto; width: 100%; padding-bottom: 100%; height: 0px; background-image: url("http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlE8EFiah4CszHgbYugqevZ3Nln32fosePXdmz5kbJEASD6QLqHDGWxJjCMjpIkZSJ8icCtKz5Vfrq9w/0?wx_fmt=jpeg"); background-position: 50% 50%; background-size: cover; box-sizing: border-box;'>
+         <img data-ratio="0.7504520795660036" data-type="jpeg" data-w="1106" data-width="100%" src="http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlE8EFiah4CszHgbYugqevZ3Nln32fosePXdmz5kbJEASD6QLqHDGWxJjCMjpIkZSJ8icCtKz5Vfrq9w/0?wx_fmt=jpeg" style="opacity:0;width:100%;" title="分享1.jpg"/>
+        </section>
+       </section>
+      </section>
+      <section data-width="50%" style="display: inline-block; vertical-align: top; width: 50%;">
+       <section style=" text-align: center; margin: 0.5em; box-shadow: rgb(102, 102, 102) 3.53553px 3.53553px 8px; ">
+        <section data-role="square" data-width="100%" style='overflow: hidden; margin-right: auto; margin-left: auto; width: 100%; padding-bottom: 100%; height: 0px; background-image: url("http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlE8EFiah4CszHgbYugqevZ3NeHmLHcc9Hp8TwicrAu4ltCKvibU56DBf1nIbIpPOJ05AibltmP7n35eAw/0?wx_fmt=jpeg"); background-position: 50% 50%; background-size: cover; box-sizing: border-box;'>
+         <img data-ratio="0.7497781721384206" data-type="jpeg" data-w="1127" data-width="100%" src="http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlE8EFiah4CszHgbYugqevZ3NeHmLHcc9Hp8TwicrAu4ltCKvibU56DBf1nIbIpPOJ05AibltmP7n35eAw/0?wx_fmt=jpeg" style="opacity:0;width:100%;" title="分享2.jpg"/>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <p style="font-family: 微软雅黑; white-space: normal;">
+     <br/>
+    </p>
+    <section class="_135editor" data-role="paragraph" style="border-width: 0px; border-style: none; border-color: initial; box-sizing: border-box;">
+     <p style="font-family: 微软雅黑; white-space: normal; text-align: center;">
+      <span style="font-family: arial; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-size: 16px;">
+       为学之道
+      </span>
+     </p>
+     <p style="font-family: 微软雅黑; white-space: normal; text-align: center;">
+      <span style="font-family: arial; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-size: 16px;">
+       莫先于穷理
+      </span>
+     </p>
+     <p style="font-family: 微软雅黑; white-space: normal; text-align: center;">
+      <span style="font-family: arial; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-size: 16px;">
+       穷理之要
+      </span>
+     </p>
+     <p style="font-family: 微软雅黑; white-space: normal; text-align: center;">
+      <span style="font-family: arial; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-size: 16px;">
+       必先于读书
+      </span>
+     </p>
+     <p style="font-family: 微软雅黑; white-space: normal; text-align: center;">
+      <span style="font-family: arial; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-size: 16px;">
+       <br/>
+      </span>
+     </p>
+     <p style="font-family: 微软雅黑; white-space: normal; text-align: center;">
+      Hi~
+     </p>
+     <p style="white-space: normal; text-align: center;">
+      和我一起读书吧
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>

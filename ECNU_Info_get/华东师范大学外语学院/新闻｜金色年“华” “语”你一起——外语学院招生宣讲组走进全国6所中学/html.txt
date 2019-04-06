@@ -1,0 +1,743 @@
+
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 0.5em;margin-bottom: 0.5em;padding-top: 10px;box-sizing: border-box;">
+    <section style="text-align: center;width: 90%;margin-right: auto;margin-left: auto;box-sizing: border-box;">
+     <section style='width: 16px;height: 16px;float: left;margin-top: -10px;background-position: center center;background-repeat: no-repeat;background-size: cover;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/CI6t2oXknIThhPH10PQUATKib9mce94bV2cIzheSYUVHJH1Uy0Rl26ib8jBAffokFDJvs415hEcv580HkYygn6Fw/640?wx_fmt=png");box-sizing: border-box;'>
+      <section style="height: 100%;overflow: hidden;line-height: 0;vertical-align: middle;max-width: 100%;box-sizing: border-box;">
+       <img data-ratio="1" data-type="png" data-w="16" src="https://mmbiz.qpic.cn/mmbiz_png/CI6t2oXknIThhPH10PQUATKib9mce94bV2cIzheSYUVHJH1Uy0Rl26ib8jBAffokFDJvs415hEcv580HkYygn6Fw/640?wx_fmt=png" style="width: 100%;height: 100%;opacity: 0;box-sizing: border-box;"/>
+      </section>
+     </section>
+     <section style="width: 80%;height: 3px;margin-right: auto;margin-left: auto;border-top: 1px solid rgb(252, 173, 45);border-bottom: 1px solid rgb(252, 173, 45);box-sizing: border-box;">
+     </section>
+     <section style='width: 16px;height: 16px;float: right;margin-top: -10px;background-position: center center;background-repeat: no-repeat;background-size: cover;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/CI6t2oXknIThhPH10PQUATKib9mce94bVcqHEvXEEsguaZqHUutgqoPQUIE071MfOa80CdkrvOYKGL6XFLwIFZA/640?wx_fmt=png");box-sizing: border-box;'>
+      <section style="height: 100%;overflow: hidden;line-height: 0;vertical-align: middle;max-width: 100%;box-sizing: border-box;">
+       <img data-ratio="1" data-type="png" data-w="16" src="https://mmbiz.qpic.cn/mmbiz_png/CI6t2oXknIThhPH10PQUATKib9mce94bVcqHEvXEEsguaZqHUutgqoPQUIE071MfOa80CdkrvOYKGL6XFLwIFZA/640?wx_fmt=png" style="width: 100%;height: 100%;opacity: 0;box-sizing: border-box;"/>
+      </section>
+     </section>
+     <section style="clear: both;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="border-bottom: 1px dotted rgb(252, 173, 45);padding-top: 3px;width: 100%;margin-bottom: -3px;box-sizing: border-box;">
+    </section>
+    <section style="height: 5px;line-height: 5px;box-sizing: border-box;">
+     <section style="display: inline-block;vertical-align: top;background-color: rgb(254, 252, 248);box-sizing: border-box;">
+      <span style="width: 5px;height: 5px;float: left;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(252, 173, 45);box-sizing: border-box;">
+      </span>
+      <span style="width: 5px;height: 5px;float: left;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(252, 173, 45);margin-left: 5px;box-sizing: border-box;">
+      </span>
+      <span style="width: 5px;height: 5px;float: left;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(252, 173, 45);margin-left: 5px;box-sizing: border-box;">
+      </span>
+      <span style="width: 5px;height: 5px;float: left;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(252, 173, 45);margin-left: 5px;box-sizing: border-box;">
+      </span>
+      <span style="width: 5px;height: 5px;float: left;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(252, 173, 45);margin-left: 5px;box-sizing: border-box;">
+      </span>
+     </section>
+     <section style="clear: both;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="font-size: 14px;box-sizing: border-box;">
+     <p style="white-space: normal;box-sizing: border-box;">
+      2018年11月至2019年1月，在校招生办主任濮晓龙、副主任许文韬等陪同下，由外语学院党政班子组成的招生宣讲组先后奔赴深圳外国语学校、杭州外国语学校、延安中学、上海外国语大学附属外国语学校、西安铁一中学、西安高新一中全国6所中学进行宣讲。宣讲内容包括介绍宣传华东师范大学办学特色、举办外语类学术讲座，并对具有外语类保送生资格的中学进行相关政策解读，以及在陕西延安中学、西安高新一中举办“华东师范大学优质生源基地”授牌仪式。此次宣讲活动让同学们和家长进一步了解了华东师大，提高了学校的知名度和影响力；精彩的专家讲座激发了同学们对外语学科的兴趣以及对未来学习的热情。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="border-bottom: 1px dotted rgb(252, 173, 45);padding-top: 3px;width: 100%;margin-bottom: -3px;box-sizing: border-box;">
+    </section>
+    <section style="height: 5px;line-height: 5px;box-sizing: border-box;">
+     <section style="display: inline-block;vertical-align: top;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+      <span style="width: 5px;height: 5px;float: left;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(252, 173, 45);box-sizing: border-box;">
+      </span>
+      <span style="width: 5px;height: 5px;float: left;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(252, 173, 45);margin-left: 5px;box-sizing: border-box;">
+      </span>
+      <span style="width: 5px;height: 5px;float: left;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(252, 173, 45);margin-left: 5px;box-sizing: border-box;">
+      </span>
+      <span style="width: 5px;height: 5px;float: left;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(252, 173, 45);margin-left: 5px;box-sizing: border-box;">
+      </span>
+      <span style="width: 5px;height: 5px;float: left;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(252, 173, 45);margin-left: 5px;box-sizing: border-box;">
+      </span>
+     </section>
+     <section style="clear: both;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border-width: 1px;border-style: solid;border-color: rgb(192, 200, 209);padding: 10px;background-color: rgb(250, 250, 239);box-shadow: rgb(170, 170, 170) 0px 0px 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="margin-bottom: -1.4em;box-sizing: border-box;">
+        <section style="width: 0.62em;height: 0.62em;border-left: 1px solid rgb(158, 158, 158);border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+        </section>
+        <section style="width: 2.5em;height: 1.4em;margin-left: 0.31em;margin-top: -0.31em;border-left: 1px solid rgb(158, 158, 158);border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="padding-right: 0.31em;padding-left: 0.31em;box-sizing: border-box;">
+        <section style="display: inline-block;vertical-align: top;width: 100%;padding: 10px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+         <section powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <section style="font-size: 14px;box-sizing: border-box;">
+            <p style="white-space: normal;box-sizing: border-box;">
+             <strong style="box-sizing: border-box;">
+              深圳外国语学校
+             </strong>
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             <br style="box-sizing: border-box;"/>
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             2018年11月12日，外语学院党委副书记兼副院长庄瑜赴深圳外国语学校进行校园宣讲，这也是外语学院连续第三年进入外语类高中开展宣讲工作。宣讲工作得到了深外推荐保送生办公室主任王世红的支持与帮助。利用学生下课后的1小时时间，庄瑜向30多名家长、学生介绍了华东师范大学的发展历史与办学特色，尤其是外语学院的本科生培养方案与就业情况，现场气氛热烈，家长就宣讲内容提问，庄瑜都一一进行了解答。现场除了2019届毕业生外，还有不少高一、高二的家长与学生，他们对华东师范大学的一些热门专业也表现出极大的报考意愿。
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="width: 2.5em;margin-top: -1.4em;margin-left: auto;box-sizing: border-box;">
+        <section style="width: 2.5em;height: 1.4em;margin-bottom: -0.31em;margin-left: -0.31em;border-right: 1px solid rgb(158, 158, 158);border-bottom: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="width: 0.62em;height: 0.62em;margin-left: auto;border-right: 1px solid rgb(158, 158, 158);border-bottom: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 80%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/CI6t2oXknIThhPH10PQUATKib9mce94bVy2BsYXzibgsjgmMsnqtONMz6FMicHsQ194FHnVCRjEcmdSJ0efwEbicIw/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      庄瑜就华东师范大学及外语学院办学特色进行宣讲
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 80%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.7515625" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/CI6t2oXknIThhPH10PQUATKib9mce94bVbNJIEXrbsuwK9GZByglQdWgXdyJpKRHOXtZ5QZ8htQia9AfiausDDo8g/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="text-align: center;box-sizing: border-box;">
+      <span style="font-size: 12px;box-sizing: border-box;">
+       庄瑜一一解答家长和学生的提问
+      </span>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border-width: 1px;border-style: solid;border-color: rgb(192, 200, 209);padding: 10px;background-color: rgb(250, 250, 239);box-shadow: rgb(170, 170, 170) 0px 0px 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="margin-bottom: -1.4em;box-sizing: border-box;">
+        <section style="width: 0.62em;height: 0.62em;border-left: 1px solid rgb(158, 158, 158);border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+        </section>
+        <section style="width: 2.5em;height: 1.4em;margin-left: 0.31em;margin-top: -0.31em;border-left: 1px solid rgb(158, 158, 158);border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="padding-right: 0.31em;padding-left: 0.31em;box-sizing: border-box;">
+        <section style="display: inline-block;vertical-align: top;width: 100%;padding: 10px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+         <section powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <section style="font-size: 14px;box-sizing: border-box;">
+            <p style="white-space: normal;box-sizing: border-box;">
+             <strong style="box-sizing: border-box;">
+              杭州外国语学校
+             </strong>
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             <br style="box-sizing: border-box;"/>
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             2018年11月25日，
+             <span style="font-size: 14px;background-color: rgb(250, 250, 239);">
+              校招生办副主任许文韬和
+             </span>
+             外语学院副院长侯敏跃前往杭州外国语学校作招生宣讲。杭外校领导会见了许文韬和侯敏跃，双方就校际合作、招生事宜等进行了坦诚、友好的交流，校办负责人、30多位学生和家长出席了宣讲会。许文韬就我校校情和招生政策、尤其是外语专业保送生政策，作了精辟有益的介绍；侯敏跃详细介绍了我校外语学院的专业设置、课程体系、培养方案、就业方向、我校外语专业在国内外的排名等情况。宣讲结束后，不少学生对参加我校外语专业保送生选拔表示出了极大的兴趣。
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="width: 2.5em;margin-top: -1.4em;margin-left: auto;box-sizing: border-box;">
+        <section style="width: 2.5em;height: 1.4em;margin-bottom: -0.31em;margin-left: -0.31em;border-right: 1px solid rgb(158, 158, 158);border-bottom: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="width: 0.62em;height: 0.62em;margin-left: auto;border-right: 1px solid rgb(158, 158, 158);border-bottom: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;width: 80%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.60625" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/CI6t2oXknIThhPH10PQUATKib9mce94bVreiauDvrJxxJiaLWgNMGogwfsp1QMeqkKr8ibM3p1AWt2dMmSfQciba2fw/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      杭州外国语学校领导与许文韬、侯敏跃交流
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 80%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.5604396" data-type="jpeg" data-w="910" src="https://mmbiz.qpic.cn/mmbiz_jpg/CI6t2oXknIThhPH10PQUATKib9mce94bViaiaKWdJcQIYMkcJL5XUic3BWelnQ2YgQ4CVv09Y41trbzeCAveAbukQQ/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      许文韬作招生宣讲
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 80%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/CI6t2oXknIThhPH10PQUATKib9mce94bVY258VDQUvRyuQuTEGL3y7iaDF1nPIicjYl6j13ibHGMK5G2LLLIFHssWg/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      侯敏跃介绍我校外语学院及外语保送生情况
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border-width: 1px;border-style: solid;border-color: rgb(192, 200, 209);padding: 10px;background-color: rgb(250, 250, 239);box-shadow: rgb(170, 170, 170) 0px 0px 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="margin-bottom: -1.4em;box-sizing: border-box;">
+        <section style="width: 0.62em;height: 0.62em;border-left: 1px solid rgb(158, 158, 158);border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+        </section>
+        <section style="width: 2.5em;height: 1.4em;margin-left: 0.31em;margin-top: -0.31em;border-left: 1px solid rgb(158, 158, 158);border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="padding-right: 0.31em;padding-left: 0.31em;box-sizing: border-box;">
+        <section style="display: inline-block;vertical-align: top;width: 100%;padding: 10px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+         <section powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <section style="font-size: 14px;box-sizing: border-box;">
+            <p style="white-space: normal;box-sizing: border-box;">
+             <strong style="box-sizing: border-box;">
+              陕西延安中学
+             </strong>
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             <br style="box-sizing: border-box;"/>
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             2018年12月27日，
+             <span style="font-size: 14px;background-color: rgb(250, 250, 239);">
+              校招生办副主任许文韬和
+             </span>
+             外语学院副院长侯敏跃前往陕西省示范性高中延安中学进行招生宣讲，并参加“华东师范大学优质生源基地”授牌仪式，还与该校领导和师生交流座谈。活动期间，许文韬就我校校情、招生政策、历年来我校在陕西的招录情况，向该校高三年级快班的学生作详细介绍，引发了同学们对我校的向往。侯敏跃为学生们作精彩的“感知澳大利亚”学术讲座，并介绍了我校外语学院、澳大利亚研究中心的情况，拓展了学生的信息资源，激发了学生的兴趣。
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             <span style="letter-spacing: 0px;box-sizing: border-box;">
+              <span style="font-size: 14px;background-color: rgb(250, 250, 239);">
+               许文韬和
+              </span>
+              侯敏跃还与延安中学的领导和十几位英语教师，就英语师范专业人才培养、师范专业认证事宜，举行座谈，听取中学领导和一线教师对师范生培养工作的意见和建议，以助于我校英语专业人才培养的外向设计工作。
+             </span>
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="width: 2.5em;margin-top: -1.4em;margin-left: auto;box-sizing: border-box;">
+        <section style="width: 2.5em;height: 1.4em;margin-bottom: -0.31em;margin-left: -0.31em;border-right: 1px solid rgb(158, 158, 158);border-bottom: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="width: 0.62em;height: 0.62em;margin-left: auto;border-right: 1px solid rgb(158, 158, 158);border-bottom: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;width: 80%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/CI6t2oXknIThhPH10PQUATKib9mce94bVR7de89A5A7V7r8gtz2rZR69KfZcYTXZ1sibCtiblDmGl2vob2BAybeBA/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      延安中学“华东师范大学优质生源基地”授牌仪式
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 80%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.6953125" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/CI6t2oXknIThhPH10PQUATKib9mce94bVgich8250cE0K3ealD6TmddicLQw1WhZv2ibd4DQHUP0LRY1W00WfezruA/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      许文韬向学生介绍我校校情和招生政策
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 80%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.5625" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/CI6t2oXknIThhPH10PQUATKib9mce94bV2MdJpXNUS7QqAgWvEpGGo9WgEnwnLS4Y4uHibmBcRaj4iaib2B8ppvshg/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      侯敏跃作“感知澳大利亚”学术讲座
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 80%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.5625" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/CI6t2oXknIThhPH10PQUATKib9mce94bVvSXU0oK95PJ77EGyAnBQJgXGG0F2WaicpjmL0Ipb8X9oic62ibNrWzEgg/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <span style="font-size: 12px;text-align: center;">
+       许文韬
+       <span style="font-size: 12px;text-align: center;">
+        、
+       </span>
+      </span>
+      侯敏跃与延安中学领导和英语教师座谈英语师范生培养工作
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border-width: 1px;border-style: solid;border-color: rgb(192, 200, 209);padding: 10px;background-color: rgb(250, 250, 239);box-shadow: rgb(170, 170, 170) 0px 0px 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="margin-bottom: -1.4em;box-sizing: border-box;">
+        <section style="width: 0.62em;height: 0.62em;border-left: 1px solid rgb(158, 158, 158);border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+        </section>
+        <section style="width: 2.5em;height: 1.4em;margin-left: 0.31em;margin-top: -0.31em;border-left: 1px solid rgb(158, 158, 158);border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="padding-right: 0.31em;padding-left: 0.31em;box-sizing: border-box;">
+        <section style="display: inline-block;vertical-align: top;width: 100%;padding: 10px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+         <section powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <section style="font-size: 14px;box-sizing: border-box;">
+            <p style="white-space: normal;box-sizing: border-box;">
+             <strong style="box-sizing: border-box;">
+              上海外国语大学附属外国语学校
+             </strong>
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             <br style="box-sizing: border-box;"/>
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             2019年1月3日，
+             <span style="font-size: 14px;background-color: rgb(250, 250, 239);">
+              校招生办主任濮晓龙和
+             </span>
+             外语学院院长袁筱一前往上海外国语大学附属外国语学校进行宣讲。袁筱一就华东师范大学外语类保送生招生政策进行了解读，并向同学们介绍了华东师范大学外语学院的专业设置、办学特色、人才培养等方面的基本情况，欢迎同学们选择外语专业、欢迎选择华东师范大学外语学院，“在这里，你可以感受到不同国家的文化习俗，领略到不同语言的奥秘，学会用不同的眼光看大不同的世界。外语，不仅仅是一门语言，而是一把开启未来世界的钥匙”。濮晓龙向同学们介绍了华东师范大学的历史沿革和近年发展情况，并一一解答了同学们的提问，最后，他还鼓励同学们努力学习，将来进入理想的大学进行深造。
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="width: 2.5em;margin-top: -1.4em;margin-left: auto;box-sizing: border-box;">
+        <section style="width: 2.5em;height: 1.4em;margin-bottom: -0.31em;margin-left: -0.31em;border-right: 1px solid rgb(158, 158, 158);border-bottom: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="width: 0.62em;height: 0.62em;margin-left: auto;border-right: 1px solid rgb(158, 158, 158);border-bottom: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 80%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.7515625" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/CI6t2oXknIThhPH10PQUATKib9mce94bVFlmMPLZF4rzn8w7X4LhcNxGl49U2THJuStYyDll1BYkFXdEl2GibVTQ/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      袁筱一就华东师范大学外语类保送生招生政策进行解读
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;width: 80%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/CI6t2oXknIThhPH10PQUATKib9mce94bVhAVIB5IHMr43ic5ubSd4TMlWE5ksNrfJnZTEACYMvlXm8LjkZDbQAfw/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      濮晓龙一一解答同学们的提问
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border-width: 1px;border-style: solid;border-color: rgb(192, 200, 209);padding: 10px;background-color: rgb(250, 250, 239);box-shadow: rgb(170, 170, 170) 0px 0px 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="margin-bottom: -1.4em;box-sizing: border-box;">
+        <section style="width: 0.62em;height: 0.62em;border-left: 1px solid rgb(158, 158, 158);border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+        </section>
+        <section style="width: 2.5em;height: 1.4em;margin-left: 0.31em;margin-top: -0.31em;border-left: 1px solid rgb(158, 158, 158);border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="padding-right: 0.31em;padding-left: 0.31em;box-sizing: border-box;">
+        <section style="display: inline-block;vertical-align: top;width: 100%;padding: 10px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+         <section powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <section style="font-size: 14px;box-sizing: border-box;">
+            <p style="white-space: normal;box-sizing: border-box;">
+             <strong style="box-sizing: border-box;">
+              西安铁一中
+             </strong>
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             <br style="box-sizing: border-box;"/>
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             2019年1月7日下午外语学院副院长杨延宁在西安铁一中为全校英语教师做学术报告，现场反应热烈，教师就教学中遇到的问题踊跃提问。报告结束后，杨延宁和铁一中副校长龚少华进行了深入交流，讨论未来就教学研究展开合作的可能性。
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             <span style="letter-spacing: 0px;box-sizing: border-box;">
+              7日晚，杨延宁和校招生办老师张雨晗为150多名家长做招生宣讲。杨延宁首先从平台优势、历史发展、学科分布、教学科研、学生生活等多个角度对我校进行了全方位的介绍。随后，杨延宁和张雨晗在现场回答了家长们提出的各类具体问题。整个活动持续近两个小时。
+             </span>
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="width: 2.5em;margin-top: -1.4em;margin-left: auto;box-sizing: border-box;">
+        <section style="width: 2.5em;height: 1.4em;margin-bottom: -0.31em;margin-left: -0.31em;border-right: 1px solid rgb(158, 158, 158);border-bottom: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="width: 0.62em;height: 0.62em;margin-left: auto;border-right: 1px solid rgb(158, 158, 158);border-bottom: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;width: 80%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/CI6t2oXknIThhPH10PQUATKib9mce94bVbia8pMKvI0ry0BpTjRCUkIlCqYWoEspF6C18BRD9b9fOmX2jGBuxYMA/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      杨延宁为150多名家长做招生宣讲
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border-width: 1px;border-style: solid;border-color: rgb(192, 200, 209);padding: 10px;background-color: rgb(250, 250, 239);box-shadow: rgb(170, 170, 170) 0px 0px 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="margin-bottom: -1.4em;box-sizing: border-box;">
+        <section style="width: 0.62em;height: 0.62em;border-left: 1px solid rgb(158, 158, 158);border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+        </section>
+        <section style="width: 2.5em;height: 1.4em;margin-left: 0.31em;margin-top: -0.31em;border-left: 1px solid rgb(158, 158, 158);border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="padding-right: 0.31em;padding-left: 0.31em;box-sizing: border-box;">
+        <section style="display: inline-block;vertical-align: top;width: 100%;padding: 10px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+         <section powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <section style="font-size: 14px;box-sizing: border-box;">
+            <p style="white-space: normal;box-sizing: border-box;">
+             <strong style="box-sizing: border-box;">
+              西安高新一中
+             </strong>
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             <br style="box-sizing: border-box;"/>
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             2019年1月8日上午，
+             <span style="font-size: 14px;background-color: rgb(250, 250, 239);">
+              校招生办主任濮晓龙，
+             </span>
+             陕西招生宣传组组长、外语学院党委书记俞黎阳，外语学院副院长杨延宁和
+             <span style="font-size: 14px;background-color: rgb(250, 250, 239);">
+              校招生办张雨晗老师
+             </span>
+             到高新一中进行交流，并参加“华东师范大学优质生源基地”授牌仪式。高新一中副校长李翔、教务主任张磊参加授牌仪式。仪式结束后，双方进行了深入交流，濮晓龙向高新一中介绍了我校的整体情况和招生政策，杨延宁和李翔讨论了重点高中英语教学改革的整体思路。
+            </p>
+            <p style="white-space: normal;box-sizing: border-box;">
+             <span style="letter-spacing: 0px;box-sizing: border-box;">
+              上午10：00，由濮晓龙为高新一中来自四个班级的高三学生做招生宣讲，重点从我校综合实力和未来专业选择的角度做了讲解。
+             </span>
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="width: 2.5em;margin-top: -1.4em;margin-left: auto;box-sizing: border-box;">
+        <section style="width: 2.5em;height: 1.4em;margin-bottom: -0.31em;margin-left: -0.31em;border-right: 1px solid rgb(158, 158, 158);border-bottom: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="width: 0.62em;height: 0.62em;margin-left: auto;border-right: 1px solid rgb(158, 158, 158);border-bottom: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;width: 80%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/CI6t2oXknIThhPH10PQUATKib9mce94bVnfGWShywA7XLhSEeWzY7BLQbyyjsy9o2e2BXDv7AlQh5N9N55NKqMQ/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      高新一中“华东师范大学优质生源基地”授牌仪式
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 80%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/CI6t2oXknIThhPH10PQUATKib9mce94bVvve5ibyjuP0tcHn4zXDnmlaFHibdYNV7yEWJrlFk2GDiceszw1sXml9zw/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      陕西招生宣传组一行与高新一中进行交流
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 80%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="1.7730496" data-type="jpeg" data-w="564" src="https://mmbiz.qpic.cn/mmbiz_jpg/CI6t2oXknIThhPH10PQUATKib9mce94bVWbWgnPg6ZzcfGjH6VEEee7dey6efmZ9eHFeCS9LAkPiandathiaUttkw/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      濮晓龙为高新一中高三学生做招生宣讲
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="border-bottom: 1px dotted rgb(252, 173, 45);padding-top: 3px;width: 100%;margin-bottom: -3px;box-sizing: border-box;">
+    </section>
+    <section style="height: 5px;line-height: 5px;box-sizing: border-box;">
+     <section style="display: inline-block;vertical-align: top;background-color: rgb(254, 252, 248);box-sizing: border-box;">
+      <span style="width: 5px;height: 5px;float: left;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(252, 173, 45);box-sizing: border-box;">
+      </span>
+      <span style="width: 5px;height: 5px;float: left;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(252, 173, 45);margin-left: 5px;box-sizing: border-box;">
+      </span>
+      <span style="width: 5px;height: 5px;float: left;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(252, 173, 45);margin-left: 5px;box-sizing: border-box;">
+      </span>
+      <span style="width: 5px;height: 5px;float: left;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(252, 173, 45);margin-left: 5px;box-sizing: border-box;">
+      </span>
+      <span style="width: 5px;height: 5px;float: left;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(252, 173, 45);margin-left: 5px;box-sizing: border-box;">
+      </span>
+     </section>
+     <section style="clear: both;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.5625" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/CI6t2oXknIThhPH10PQUATKib9mce94bVeoTIJ45Pj2zmhibcJ5T27PUK4Y7mqPdPyXu1Afh5uWLmQpYpk09OIIw/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: right;font-size: 12px;box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      图文编辑：于洋
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

@@ -1,0 +1,248 @@
+
+ <section class="row tn-board-head" ng-show="displaySystemTitle" style="background-color: transparent;box-sizing: border-box;clear: none;color: rgb(51, 51, 51);display: block;">
+  <p>
+   <br/>
+  </p>
+ </section>
+ <section class="row tn-article-body" ng-show="isReady" style="background-color: transparent;box-sizing: border-box;clear: none;color: rgb(51, 51, 51);display: block;" tn-atom-context="{ type: 'paper', inReader: true, animationEnabled: false }" tn-opera-house="{ gesture: false }">
+  <article class="tn-cube-box" ng-show="!!htmlForPreview" style="box-sizing: border-box;display: block;">
+   <section class="ng-scope" style="box-sizing: border-box;display: block;">
+    <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+     <section style="box-sizing: border-box;display: block;margin-bottom: 10px;margin-left: 0px;margin-right: 0px;margin-top: 10px;">
+      <section background-repeat="" border-box="border-box" http="" inline-block="inline-block" png="" px="px" quot="" repeat="repeat" scroll="scroll" style="background-position: 0% -57.23%;padding: 10px;width: 710px;background-image: url();" top="top">
+       <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+        <section style="box-sizing: border-box;display: block;">
+         <section style="background-color: rgba(235, 240, 248, 0.7);border-bottom-color: rgb(62, 62, 62);border-bottom-left-radius: 10px;border-bottom-right-radius: 10px;border-bottom-style: none;border-bottom-width: 0px;border-left-color: rgb(62, 62, 62);border-left-style: none;border-left-width: 0px;border-right-color: rgb(62, 62, 62);border-right-style: none;border-right-width: 0px;border-top-color: rgb(62, 62, 62);border-top-left-radius: 10px;border-top-right-radius: 10px;border-top-style: none;border-top-width: 0px;box-sizing: border-box;display: inline-block;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;padding-top: 10px;vertical-align: top;width: 690px;">
+          <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+           <section style="box-sizing: border-box;display: block;">
+            <section style="box-sizing: border-box;color: rgb(67, 90, 152);display: block;">
+             <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;">
+              又是多雨的一周
+             </p>
+             <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;">
+              跟随书协的脚步
+             </p>
+             <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;">
+              赶跑烦恼
+             </p>
+             <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;">
+              收获篆刻的美妙体验吧
+             </p>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+     <section style="box-sizing: border-box;display: block;">
+      <section style="box-sizing: border-box;display: inline-block;vertical-align: top;width: 326.6px;">
+       <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+        <section style="box-sizing: border-box;display: block;margin-bottom: 8px;margin-left: 0px;margin-right: 0px;margin-top: 8px;">
+         <section style="border-top-color: rgb(18, 39, 54);border-top-style: dotted;border-top-width: 1px;box-sizing: border-box;display: block;">
+         </section>
+        </section>
+       </section>
+      </section>
+      <section style="box-sizing: border-box;display: inline-block;vertical-align: top;width: 56.8px;">
+       <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+        <section style="box-sizing: border-box;display: block;margin-bottom: 10px;margin-left: 0px;margin-right: 0px;margin-top: 8px;text-align: center;">
+         <section style="box-sizing: border-box;display: inline-block;max-width: 56.8px;overflow: hidden;vertical-align: middle;">
+          <img data-ratio="1.345" data-type="gif" data-w="200" src="https://mmbiz.qpic.cn/mmbiz_gif/AibYjglW8CFeYLyXuyiadQo8zcj8LicgficwibadYm16aKjLazCeU5lYSho2mYdicnAju1A4QuMzHSfzXtGW1WlhEuAg/640?wx_fmt=gif" style="border: 0px rgb(62, 62, 62);vertical-align: middle;max-width: 56.8px;box-sizing: border-box;"/>
+         </section>
+        </section>
+       </section>
+      </section>
+      <section style="box-sizing: border-box;display: inline-block;vertical-align: top;width: 326.6px;">
+       <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+        <section style="box-sizing: border-box;display: block;margin-bottom: 8px;margin-left: 0px;margin-right: 0px;margin-top: 8px;">
+         <section style="border-top-color: rgb(18, 39, 54);border-top-style: dotted;border-top-width: 1px;box-sizing: border-box;display: block;">
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+     <section style="box-sizing: border-box;display: block;">
+      <section style="box-sizing: border-box;display: inline-block;vertical-align: top;width: 710px;">
+       <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+        <section style="box-sizing: border-box;display: block;margin-bottom: 20px;margin-left: 0px;margin-right: 0px;margin-top: -20px;text-align: center;">
+         <section style="background-color: rgb(243, 166, 140);box-sizing: border-box;display: block;height: 1px;">
+         </section>
+        </section>
+       </section>
+       <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+        <section style="box-sizing: border-box;display: block;">
+         <section style="box-sizing: border-box;display: block;">
+          <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;">
+           <br style="box-sizing: border-box;"/>
+          </p>
+         </section>
+        </section>
+       </section>
+       <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+        <section style="box-sizing: border-box;display: block;margin-bottom: 10px;margin-left: 0px;margin-right: 0px;margin-top: 10px;">
+         <section style="border-bottom-width: 0px;border-left-width: 0px;border-right-width: 0px;border-top-width: 0px;box-sizing: border-box;display: inline-block;vertical-align: top;width: 319.5px;">
+          <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+           <section style="box-sizing: border-box;display: block;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;text-align: center;">
+            <section style="box-sizing: border-box;display: inline-block;vertical-align: middle;">
+             <section style="box-sizing: border-box;color: rgb(67, 90, 152);display: inline-block;line-height: 19.2px;margin-bottom: 2px;padding-left: 5px;padding-right: 5px;vertical-align: bottom;">
+              <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;">
+               <strong style="box-sizing: border-box;font-weight: 700;">
+                活动时间
+               </strong>
+              </p>
+             </section>
+             <section style="box-sizing: border-box;display: inline-block;max-width: 319.5px;overflow: hidden;vertical-align: bottom;width: 63.9px;">
+              <img data-ratio="0.7716049" data-type="png" data-w="324" src="https://mmbiz.qpic.cn/mmbiz_png/AibYjglW8CFeYLyXuyiadQo8zcj8LicgficwM1H2WYRtA0GXPxnz761P6amdArtia9fsk8Lfv1xFcQ9kvyxicRnxE8gg/640?wx_fmt=png" style="border: 0px rgb(62, 62, 62);width: 63.9px;vertical-align: middle;max-width: 63.9px;box-sizing: border-box;" width="100%"/>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+         <section style="border-bottom-color: rgb(254, 38, 109);border-bottom-left-radius: 0px;border-bottom-right-radius: 0px;border-bottom-style: none;border-bottom-width: 0px;border-left-color: rgb(254, 38, 109);border-left-style: none;border-left-width: 0px;border-right-color: rgb(254, 38, 109);border-right-style: none;border-right-width: 0px;border-top-color: rgb(254, 38, 109);border-top-left-radius: 0px;border-top-right-radius: 0px;border-top-style: none;border-top-width: 0px;box-sizing: border-box;display: inline-block;padding-bottom: 0px;padding-left: 10px;padding-right: 0px;padding-top: 0px;vertical-align: top;width: 390.5px;">
+          <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+           <section style="box-sizing: border-box;display: block;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 5px;">
+            <section style="box-sizing: border-box;color: rgb(67, 90, 152);display: block;font-size: 15px;letter-spacing: 0px;line-height: 24px;text-align: justify;">
+             <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;white-space: normal;">
+              <br/>
+             </p>
+             <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;white-space: normal;">
+              本周六 5月26日
+             </p>
+             <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;white-space: normal;">
+              15:00-16:30
+             </p>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+        <section style="box-sizing: border-box;display: block;margin-bottom: 10px;margin-left: 0px;margin-right: 0px;margin-top: 10px;">
+         <section style="border-bottom-width: 0px;border-left-width: 0px;border-right-width: 0px;border-top-width: 0px;box-sizing: border-box;display: inline-block;vertical-align: top;width: 319.5px;">
+          <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+           <section style="box-sizing: border-box;display: block;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;text-align: center;">
+            <section style="box-sizing: border-box;display: inline-block;vertical-align: middle;">
+             <section style="box-sizing: border-box;color: rgb(67, 90, 152);display: inline-block;line-height: 19.2px;margin-bottom: 2px;padding-left: 5px;padding-right: 5px;vertical-align: bottom;">
+              <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;">
+               <strong style="box-sizing: border-box;font-weight: 700;">
+                活动地点
+               </strong>
+              </p>
+             </section>
+             <section style="box-sizing: border-box;display: inline-block;max-width: 319.5px;overflow: hidden;vertical-align: bottom;width: 63.9px;">
+              <img data-ratio="0.7716049" data-type="png" data-w="324" src="https://mmbiz.qpic.cn/mmbiz_png/AibYjglW8CFeYLyXuyiadQo8zcj8LicgficwM1H2WYRtA0GXPxnz761P6amdArtia9fsk8Lfv1xFcQ9kvyxicRnxE8gg/640?wx_fmt=png" style="border: 0px rgb(62, 62, 62);width: 63.9px;vertical-align: middle;max-width: 63.9px;box-sizing: border-box;" width="100%"/>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+         <section style="border-bottom-color: rgb(254, 38, 109);border-bottom-left-radius: 0px;border-bottom-right-radius: 0px;border-bottom-style: none;border-bottom-width: 0px;border-left-color: rgb(254, 38, 109);border-left-style: none;border-left-width: 0px;border-right-color: rgb(254, 38, 109);border-right-style: none;border-right-width: 0px;border-top-color: rgb(254, 38, 109);border-top-left-radius: 0px;border-top-right-radius: 0px;border-top-style: none;border-top-width: 0px;box-sizing: border-box;display: inline-block;padding-bottom: 0px;padding-left: 10px;padding-right: 0px;padding-top: 0px;vertical-align: top;width: 390.5px;">
+          <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+           <section style="box-sizing: border-box;display: block;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 5px;">
+            <section style="box-sizing: border-box;color: rgb(67, 90, 152);display: block;font-size: 15px;letter-spacing: 0px;line-height: 24px;text-align: justify;">
+             <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;white-space: normal;">
+              闵二教221
+             </p>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+     <section style="box-sizing: border-box;display: block;margin-bottom: 10px;margin-top: 10px;text-align: center;">
+      <section style="box-sizing: border-box;display: inline-block;max-width: 710px;overflow: hidden;vertical-align: middle;width: 142px;">
+       <img data-ratio="0.978125" data-type="gif" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_gif/AibYjglW8CFeYLyXuyiadQo8zcj8Licgficwq9JTicEscCAMK5lkxYfMMib5pAVtZMSNQNb4PKrwhl2kViaZO2M4O1B2A/640?wx_fmt=gif" style="border: 0px rgb(62, 62, 62);width: 142px;vertical-align: middle;max-width: 142px;box-sizing: border-box;" width="100%"/>
+      </section>
+     </section>
+    </section>
+    <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+     <section style="box-sizing: border-box;display: block;margin-bottom: 10px;margin-top: 10px;">
+      <img data-ratio="0.075" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/AibYjglW8CFeYLyXuyiadQo8zcj8LicgficwGxv551ThAHERQ8kJsew9a3xnbPyfibVep3pRibcPKpJ8h2ouTrXCflVQ/640?wx_fmt=png" style="border: 0px rgb(62, 62, 62);width: 710px;height: 53.25px;vertical-align: baseline;max-width: 710px;box-sizing: border-box;" width="100%"/>
+      <section style="box-sizing: border-box;display: block;padding-bottom: 5px;padding-left: 10px;padding-right: 10px;padding-top: 5px;">
+       <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+        <section style="box-sizing: border-box;display: block;">
+         <section style="box-sizing: border-box;display: block;text-align: center;">
+          <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;">
+           请各位同学看好时间地点
+          </p>
+          <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;">
+           及时关注群里消息喔~
+          </p>
+          <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;">
+           风里雨里 书协等你
+          </p>
+         </section>
+        </section>
+       </section>
+      </section>
+      <img data-ratio="0.078125" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/AibYjglW8CFeYLyXuyiadQo8zcj8LicgficwqrUSOn8s4rpOiaeAjmAavPuRg5NpnAoiap5yBiaTtSfnfq2JTj4v396KQ/640?wx_fmt=png" style="border: 0px rgb(62, 62, 62);width: 710px;height: 55.46px;vertical-align: baseline;max-width: 710px;box-sizing: border-box;" width="100%"/>
+     </section>
+    </section>
+    <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+     <section style="box-sizing: border-box;display: block;margin-bottom: 10px;margin-top: 10px;text-align: center;">
+      <section style="box-sizing: border-box;display: inline-block;max-width: 710px;overflow: hidden;vertical-align: middle;">
+       <img data-ratio="0.2609375" data-type="gif" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_gif/AibYjglW8CFeYLyXuyiadQo8zcj8LicgficwEcPRPsDzX7sDx5ia8ysrl1GBHXV8q3yzzy7TAXSFgOZ1vqCrJ3Cs1AQ/640?wx_fmt=gif" style="border: 0px rgb(62, 62, 62);vertical-align: middle;max-width: 640px;box-sizing: border-box;"/>
+      </section>
+     </section>
+    </section>
+    <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+     <section style="box-sizing: border-box;display: block;margin-bottom: 10px;margin-left: 0px;margin-right: 0px;margin-top: 10px;text-align: center;">
+      <section style="border-bottom-color: rgb(164, 197, 244);border-bottom-left-radius: 5px;border-bottom-right-radius: 5px;border-bottom-style: solid;border-bottom-width: 0px;border-left-color: rgb(164, 197, 244);border-left-style: solid;border-left-width: 0px;border-right-color: rgb(164, 197, 244);border-right-style: solid;border-right-width: 0px;border-top-color: rgb(164, 197, 244);border-top-left-radius: 5px;border-top-right-radius: 5px;border-top-style: solid;border-top-width: 0px;box-shadow: inset 0px 0px 8px rgb(133,134,135);box-sizing: border-box;display: inline-block;height: 90px;overflow: hidden;padding-bottom: 0px;padding-left: 10px;padding-right: 10px;padding-top: 0px;vertical-align: top;width: 681.6px;">
+       <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+        <section style="box-sizing: border-box;display: block;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 5px;">
+         <section style="box-shadow: 0px 0px 0px rgb(0,0,0);box-sizing: border-box;display: inline-block;vertical-align: middle;width: 152.16px;">
+          <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+           <section style="box-sizing: border-box;display: block;font-size: 21px;margin-bottom: 10px;margin-left: 0px;margin-right: 0px;margin-top: 10px;transform: matrix(1, 0, 0, 1, 13, 0);">
+            <section background-repeat="" border-box="border-box" cover="cover" http="" inline-block="inline-block" jpeg="" no-repeat="no-repeat" px="px" quot="" rgb="rgb" style="background-position: center;margin: 0px;border-radius: 50% 0% 50% 50%;border: 0px solid rgb(62, 62, 62);width: 63px;height: 63px;background-image: none;" top="top">
+             <section style="box-sizing: border-box;display: block;height: 63px;overflow: hidden;width: 63px;">
+              <img data-ratio="0.9923077" data-type="jpeg" data-w="260" src="https://mmbiz.qpic.cn/mmbiz_jpg/AibYjglW8CFeYLyXuyiadQo8zcj8Licgficw4qqeg7DkdKEGibdYiaT1mPcVrCGiaOEQKPmoLxUEvuD1uJnIfeCEUpaeQ/640?wx_fmt=jpeg" style="border: 0px rgb(62, 62, 62);width: 63px;height: 63px;vertical-align: baseline;max-width: 63px;box-sizing: border-box;opacity: 0;" width="100%"/>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+         <section style="box-shadow: 0px 0px 0px rgb(0,0,0);box-sizing: border-box;display: inline-block;padding-bottom: 0px;padding-left: 10px;padding-right: 10px;padding-top: 0px;vertical-align: middle;width: 363.88px;">
+          <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+           <section style="box-sizing: border-box;display: block;transform: matrix(1, 0, 0, 1, 12, 0);">
+            <section style="box-sizing: border-box;color: rgb(67, 90, 152);display: block;">
+             <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;">
+              <strong style="box-sizing: border-box;font-weight: 700;">
+               长按识别二维码
+              </strong>
+             </p>
+             <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;">
+              <strong style="box-sizing: border-box;font-weight: 700;">
+               关注我们~
+              </strong>
+             </p>
+            </section>
+           </section>
+          </section>
+         </section>
+         <section style="border-bottom-color: rgb(113, 215, 0);border-bottom-left-radius: 0px;border-bottom-right-radius: 0px;border-bottom-style: none;border-bottom-width: 0px;border-left-color: rgb(113, 215, 0);border-left-style: none;border-left-width: 0px;border-right-color: rgb(113, 215, 0);border-right-style: none;border-right-width: 0px;border-top-color: rgb(113, 215, 0);border-top-left-radius: 0px;border-top-right-radius: 0px;border-top-style: none;border-top-width: 0px;box-shadow: 0px 0px 0px rgb(0,0,0);box-sizing: border-box;display: inline-block;vertical-align: middle;width: 145.55px;">
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <p>
+    <br/>
+   </p>
+  </article>
+ </section>
+ <p>
+  <br/>
+ </p>

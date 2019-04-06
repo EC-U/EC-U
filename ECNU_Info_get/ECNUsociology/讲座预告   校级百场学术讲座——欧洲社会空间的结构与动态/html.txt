@@ -1,0 +1,366 @@
+
+ <section powered-by="135编辑器" style="font: 16px/25.6px 微软雅黑;margin: 0px;padding: 0px;border: 0px;text-align: justify;color: rgb(51, 51, 51);text-transform: none;text-indent: 0px;letter-spacing: 0.54px;word-spacing: 0px;white-space: normal;word-wrap: break-word !important;max-width: 100%;box-sizing: border-box;widows: 1;font-size-adjust: none;font-stretch: normal;-webkit-text-stroke-width: 0px;background-color: rgb(255, 255, 255);">
+  <section style="margin: 10px 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;text-align: center;">
+   <section auto="auto" border-box="border-box" box-sizing="" break-word="break-word" hidden="hidden" https="" important="important" inline-block="inline-block" max-width="" overflow="" png="" quot="" repeat="repeat" scroll="scroll" style="background-position: 0% 0%;margin: 0px;padding: 0px;border-radius: 6px;border: 1px solid rgb(62, 62, 62);background-image: none;" top="top">
+    <section powered-by="135编辑器" style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+     <section style="margin: 0px 0px -2px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+      <section style="margin: 0px;padding: 5px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;display: inline-block;border-style: none none solid;border-width: 1px;border-radius: 6px;border-color: rgb(62, 62, 62);overflow: hidden;background-color: rgb(255, 255, 255);">
+       <section powered-by="135编辑器" style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+        <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+         <section style="margin: 0px;padding: 5px 10px;border-radius: 6px;border: 0px rgb(62, 62, 62);overflow: hidden;vertical-align: top;display: inline-block;word-wrap: break-word !important;min-width: 10%;max-width: 100%;box-sizing: border-box;background-color: rgb(216, 98, 34);">
+          <section powered-by="135编辑器" style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+           <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+            <section style="margin: 0px;padding: 0px 10px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;text-align: left;color: rgb(252, 242, 241);">
+             <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;clear: both;min-height: 1em;text-align: center;">
+              <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;font-size: 15px;">
+               讲座题目
+              </span>
+             </p>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <section powered-by="135编辑器" style="font: 16px/25.6px 微软雅黑;margin: 0px;padding: 0px;border: 0px;text-align: justify;color: rgb(51, 51, 51);text-transform: none;text-indent: 0px;letter-spacing: 0.54px;word-spacing: 0px;white-space: normal;word-wrap: break-word !important;max-width: 100%;box-sizing: border-box;widows: 1;font-size-adjust: none;font-stretch: normal;-webkit-text-stroke-width: 0px;background-color: rgb(255, 255, 255);">
+  <section style="margin: 10px 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+   <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+    <section style="margin: 0px 0px -1px;padding: 0px 12px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+     <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;border-bottom-width: 1px;border-bottom-style: solid;border-color: rgb(249, 110, 87);">
+     </section>
+    </section>
+    <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;float: left;width: 16px;">
+     <section style="margin: 0px 0px 4px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;width: 0px;border-width: 4px;border-style: solid;border-color: rgb(249, 110, 87) transparent transparent rgb(249, 110, 87);">
+     </section>
+     <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;border-bottom-width: 1px;border-bottom-style: solid;border-color: rgb(249, 110, 87);width: 16px;transform-origin: left top 0px;-webkit-transform-origin: left top 0px;transform: rotate(-45deg);-webkit-transform: rotate(-45deg);">
+     </section>
+    </section>
+    <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;float: right;width: 16px;text-align: right;">
+     <section style="margin: 0px 0px 4px auto;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;width: 0px;border-width: 4px;border-style: solid;border-color: rgb(249, 110, 87) rgb(249, 110, 87) transparent transparent;">
+     </section>
+     <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;border-bottom-width: 1px;border-bottom-style: solid;border-color: rgb(249, 110, 87);width: 16px;transform-origin: right top 0px;-webkit-transform-origin: right top 0px;transform: rotate(45deg);-webkit-transform: rotate(45deg);">
+     </section>
+    </section>
+    <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;clear: both;">
+    </section>
+   </section>
+   <section style="margin: 0px;padding: 0px 10px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;border-left-width: 1px;border-left-style: solid;border-color: rgb(249, 110, 87);border-right-width: 1px;border-right-style: solid;">
+    <section powered-by="135编辑器" style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+     <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+      <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+       <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;clear: both;min-height: 1em;">
+        <br style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+       </p>
+      </section>
+     </section>
+    </section>
+    <section powered-by="135编辑器" style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+     <section style="margin: 20px 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+      <section style="margin: 0px;padding: 0px 15px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;text-align: center;letter-spacing: 1px;">
+       <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;clear: both;min-height: 1em;">
+        <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;font-size: 15px;">
+         <strong style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+          <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;color: rgb(229, 139, 36);">
+           欧洲社会空间的结构与动态
+          </span>
+         </strong>
+        </span>
+       </p>
+       <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;clear: both;min-height: 1em;text-align: left;">
+        <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;font-size: 14px;">
+         ——基于“欧盟收入与生活状况”（EU-SILC）统计数据的解释性研究
+        </span>
+       </p>
+      </section>
+     </section>
+    </section>
+    <section powered-by="135编辑器" style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+     <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+      <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+       <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;clear: both;min-height: 1em;">
+        <br style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+       </p>
+      </section>
+     </section>
+    </section>
+   </section>
+   <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+    <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;float: left;width: 16px;">
+     <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;border-bottom-width: 1px;border-bottom-style: solid;border-color: rgb(249, 110, 87);width: 16px;transform-origin: left bottom 0px;-webkit-transform-origin: left bottom 0px;transform: rotate(45deg);-webkit-transform: rotate(45deg);">
+     </section>
+     <section style="margin: 4px 0px 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;width: 0px;border-width: 4px;border-style: solid;border-color: transparent transparent rgb(249, 110, 87) rgb(249, 110, 87);">
+     </section>
+    </section>
+    <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;float: right;width: 16px;text-align: right;">
+     <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;border-bottom-width: 1px;border-bottom-style: solid;border-color: rgb(249, 110, 87);width: 16px;transform-origin: right bottom 0px;-webkit-transform-origin: right bottom 0px;transform: rotate(-45deg);-webkit-transform: rotate(-45deg);">
+     </section>
+     <section style="margin: 4px 0px 0px auto;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;width: 0px;border-width: 4px;border-style: solid;border-color: transparent rgb(249, 110, 87) rgb(249, 110, 87) transparent;">
+     </section>
+    </section>
+    <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;clear: both;">
+    </section>
+    <section style="margin: -1px 0px 0px;padding: 0px 12px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+     <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;border-bottom-width: 1px;border-bottom-style: solid;border-color: rgb(249, 110, 87);">
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <section powered-by="135编辑器" style="font: 16px/25.6px 微软雅黑;margin: 0px;padding: 0px;border: 0px;text-align: justify;color: rgb(51, 51, 51);text-transform: none;text-indent: 0px;letter-spacing: 0.54px;word-spacing: 0px;white-space: normal;word-wrap: break-word !important;max-width: 100%;box-sizing: border-box;widows: 1;font-size-adjust: none;font-stretch: normal;-webkit-text-stroke-width: 0px;background-color: rgb(255, 255, 255);">
+  <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+   <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+    <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;clear: both;min-height: 1em;">
+     <br style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+    </p>
+   </section>
+  </section>
+ </section>
+ <section powered-by="135编辑器" style="font: 16px/25.6px 微软雅黑;margin: 0px;padding: 0px;border: 0px;text-align: justify;color: rgb(51, 51, 51);text-transform: none;text-indent: 0px;letter-spacing: 0.54px;word-spacing: 0px;white-space: normal;word-wrap: break-word !important;max-width: 100%;box-sizing: border-box;widows: 1;font-size-adjust: none;font-stretch: normal;-webkit-text-stroke-width: 0px;background-color: rgb(255, 255, 255);">
+  <section style="margin: 10px 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;text-align: center;">
+   <section style="margin: 0px 0px -3px;padding: 3px 0px 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: rgb(249, 110, 87);width: 592px;">
+   </section>
+   <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;height: 5px;line-height: 5px;">
+    <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;display: inline-block;vertical-align: top;background-color: rgb(255, 255, 255);">
+     <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;width: 5px;height: 5px;float: left;border-radius: 50%;background-color: rgb(249, 110, 87);">
+     </span>
+     <span style="margin: 0px 0px 0px 5px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;width: 5px;height: 5px;float: left;border-radius: 50%;background-color: rgb(249, 110, 87);">
+     </span>
+    </section>
+    <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;clear: both;">
+    </section>
+   </section>
+  </section>
+ </section>
+ <section powered-by="135编辑器" style="font: 16px/25.6px 微软雅黑;margin: 0px;padding: 0px;border: 0px;text-align: justify;color: rgb(51, 51, 51);text-transform: none;text-indent: 0px;letter-spacing: 0.54px;word-spacing: 0px;white-space: normal;word-wrap: break-word !important;max-width: 100%;box-sizing: border-box;widows: 1;font-size-adjust: none;font-stretch: normal;-webkit-text-stroke-width: 0px;background-color: rgb(255, 255, 255);">
+  <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+   <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+    <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;clear: both;min-height: 1em;">
+     <br style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+    </p>
+   </section>
+  </section>
+ </section>
+ <section powered-by="135编辑器" style="font: 16px/25.6px 微软雅黑;margin: 0px;padding: 0px;border: 0px;text-align: justify;color: rgb(51, 51, 51);text-transform: none;text-indent: 0px;letter-spacing: 0.54px;word-spacing: 0px;white-space: normal;word-wrap: break-word !important;max-width: 100%;box-sizing: border-box;widows: 1;font-size-adjust: none;font-stretch: normal;-webkit-text-stroke-width: 0px;background-color: rgb(255, 255, 255);">
+  <section style="margin: 10px 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;text-align: center;">
+   <section auto="auto" border-box="border-box" box-sizing="" break-word="break-word" hidden="hidden" https="" important="important" inline-block="inline-block" max-width="" overflow="" png="" quot="" repeat="repeat" scroll="scroll" style="background-position: 0% 0%;margin: 0px;padding: 0px;border-radius: 6px;border: 1px solid rgb(62, 62, 62);background-image: none;" top="top">
+    <section powered-by="135编辑器" style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+     <section style="margin: 0px 0px -2px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+      <section style="margin: 0px;padding: 5px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;display: inline-block;border-style: none none solid;border-width: 1px;border-radius: 6px;border-color: rgb(62, 62, 62);overflow: hidden;background-color: rgb(255, 255, 255);">
+       <section powered-by="135编辑器" style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+        <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+         <section style="margin: 0px;padding: 5px 10px;border-radius: 6px;border: 0px rgb(62, 62, 62);overflow: hidden;vertical-align: top;display: inline-block;word-wrap: break-word !important;min-width: 10%;max-width: 100%;box-sizing: border-box;background-color: rgb(216, 98, 34);">
+          <section powered-by="135编辑器" style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+           <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+            <section style="margin: 0px;padding: 0px 10px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;color: rgb(252, 242, 241);">
+             <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;clear: both;min-height: 1em;">
+              <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;font-size: 15px;">
+               主讲人
+              </span>
+             </p>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <section powered-by="135编辑器" style="font: 16px/25.6px 微软雅黑;margin: 0px;padding: 0px;border: 0px;text-align: justify;color: rgb(51, 51, 51);text-transform: none;text-indent: 0px;letter-spacing: 0.54px;word-spacing: 0px;white-space: normal;word-wrap: break-word !important;max-width: 100%;box-sizing: border-box;widows: 1;font-size-adjust: none;font-stretch: normal;-webkit-text-stroke-width: 0px;background-color: rgb(255, 255, 255);">
+  <section style="margin: 10px 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+   <section style="margin: 0px 0px -6px auto;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;width: 0px;border-bottom-width: 3px;border-bottom-style: solid;border-bottom-color: rgb(89, 99, 176);border-left-width: 3px;border-left-style: solid;border-left-color: rgb(89, 99, 176);transform: rotate(0deg);-webkit-transform: rotate(0deg);border-top-width: 3px !important;border-top-style: solid !important;border-top-color: rgb(255, 255, 255) !important;border-right-width: 3px !important;border-right-style: solid !important;border-right-color: rgb(255, 255, 255) !important;">
+   </section>
+   <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;border-right-width: 6px;border-right-style: solid;border-color: rgb(247, 188, 0);border-bottom-width: 6px;border-bottom-style: solid;">
+    <section style="margin: 0px;padding: 10px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;background-color: rgb(245, 245, 245);">
+     <section powered-by="135编辑器" style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+      <section style="margin: 20px 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+       <section style="margin: 0px;padding: 0px 20px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;letter-spacing: 1px;line-height: 1.8;font-size: 14px;">
+        <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;clear: both;min-height: 1em;">
+         <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;font-size: 16px;">
+          <strong style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+           <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;color: rgb(229, 139, 36);">
+            Frédéric Lebaron教授
+           </span>
+          </strong>
+         </span>
+         <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+          是法国巴黎-萨克雷高师社会科学系系主任、教授。主要研究方向经济社会学，关注经济领域从业者的职业轨迹、价值信仰和话语体系，经济政策的起源与影响等。他的研究关注于法国、欧洲的社会结构动态，更广及国际范围，方法论研究集中于社会科学的几何数据分析和其他方法（回归、多层次方法等），目前理论研究主要在关系社会学和遗传结构主义，生物与社会学之间的关系等。
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <section style="margin: -6px 0px 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;width: 0px;border-top-width: 3px;border-top-style: solid;border-top-color: rgb(89, 99, 176);border-right-width: 3px;border-right-style: solid;border-right-color: rgb(89, 99, 176);transform: rotate(0deg);-webkit-transform: rotate(0deg);border-bottom-width: 3px !important;border-bottom-style: solid !important;border-bottom-color: rgb(255, 255, 255) !important;border-left-width: 3px !important;border-left-style: solid !important;border-left-color: rgb(255, 255, 255) !important;">
+   </section>
+  </section>
+ </section>
+ <section powered-by="135编辑器" style="font: 16px/25.6px 微软雅黑;margin: 0px;padding: 0px;border: 0px;text-align: justify;color: rgb(51, 51, 51);text-transform: none;text-indent: 0px;letter-spacing: 0.54px;word-spacing: 0px;white-space: normal;word-wrap: break-word !important;max-width: 100%;box-sizing: border-box;widows: 1;font-size-adjust: none;font-stretch: normal;-webkit-text-stroke-width: 0px;background-color: rgb(255, 255, 255);">
+  <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+   <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+    <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;clear: both;min-height: 1em;">
+     <br style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+    </p>
+   </section>
+  </section>
+ </section>
+ <section powered-by="135编辑器" style="font: 16px/25.6px 微软雅黑;margin: 0px;padding: 0px;border: 0px;text-align: justify;color: rgb(51, 51, 51);text-transform: none;text-indent: 0px;letter-spacing: 0.54px;word-spacing: 0px;white-space: normal;word-wrap: break-word !important;max-width: 100%;box-sizing: border-box;widows: 1;font-size-adjust: none;font-stretch: normal;-webkit-text-stroke-width: 0px;background-color: rgb(255, 255, 255);">
+  <section style="margin: 10px 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;text-align: center;">
+   <section style="margin: 0px 0px -3px;padding: 3px 0px 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: rgb(249, 110, 87);width: 592px;">
+   </section>
+   <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;height: 5px;line-height: 5px;">
+    <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;display: inline-block;vertical-align: top;background-color: rgb(255, 255, 255);">
+     <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;width: 5px;height: 5px;float: left;border-radius: 50%;background-color: rgb(249, 110, 87);">
+     </span>
+     <span style="margin: 0px 0px 0px 5px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;width: 5px;height: 5px;float: left;border-radius: 50%;background-color: rgb(249, 110, 87);">
+     </span>
+    </section>
+    <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;clear: both;">
+    </section>
+   </section>
+  </section>
+ </section>
+ <section powered-by="135编辑器" style="font: 16px/25.6px 微软雅黑;margin: 0px;padding: 0px;border: 0px;text-align: justify;color: rgb(51, 51, 51);text-transform: none;text-indent: 0px;letter-spacing: 0.54px;word-spacing: 0px;white-space: normal;word-wrap: break-word !important;max-width: 100%;box-sizing: border-box;widows: 1;font-size-adjust: none;font-stretch: normal;-webkit-text-stroke-width: 0px;background-color: rgb(255, 255, 255);">
+  <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+   <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+    <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;clear: both;min-height: 1em;">
+     <br style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+    </p>
+   </section>
+  </section>
+ </section>
+ <section powered-by="135编辑器" style="font: 16px/25.6px 微软雅黑;margin: 0px;padding: 0px;border: 0px;text-align: justify;color: rgb(51, 51, 51);text-transform: none;text-indent: 0px;letter-spacing: 0.54px;word-spacing: 0px;white-space: normal;word-wrap: break-word !important;max-width: 100%;box-sizing: border-box;widows: 1;font-size-adjust: none;font-stretch: normal;-webkit-text-stroke-width: 0px;background-color: rgb(255, 255, 255);">
+  <section style="margin: 10px 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;text-align: center;">
+   <section auto="auto" border-box="border-box" box-sizing="" break-word="break-word" hidden="hidden" https="" important="important" inline-block="inline-block" max-width="" overflow="" png="" quot="" repeat="repeat" scroll="scroll" style="background-position: 0% 0%;margin: 0px;padding: 0px;border-radius: 6px;border: 1px solid rgb(62, 62, 62);background-image: none;" top="top">
+    <section powered-by="135编辑器" style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+     <section style="margin: 0px 0px -2px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+      <section style="margin: 0px;padding: 5px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;display: inline-block;border-style: none none solid;border-width: 1px;border-radius: 6px;border-color: rgb(62, 62, 62);overflow: hidden;background-color: rgb(255, 255, 255);">
+       <section powered-by="135编辑器" style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+        <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+         <section style="margin: 0px;padding: 5px 10px;border-radius: 6px;border: 0px rgb(62, 62, 62);overflow: hidden;vertical-align: top;display: inline-block;word-wrap: break-word !important;min-width: 10%;max-width: 100%;box-sizing: border-box;background-color: rgb(216, 98, 34);">
+          <section powered-by="135编辑器" style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+           <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+            <section style="margin: 0px;padding: 0px 10px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;color: rgb(252, 242, 241);">
+             <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;clear: both;min-height: 1em;">
+              <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;font-size: 15px;">
+               讲座内容简介
+              </span>
+             </p>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <section powered-by="135编辑器" style="font: 16px/25.6px 微软雅黑;margin: 0px;padding: 0px;border: 0px;text-align: justify;color: rgb(51, 51, 51);text-transform: none;text-indent: 0px;letter-spacing: 0.54px;word-spacing: 0px;white-space: normal;word-wrap: break-word !important;max-width: 100%;box-sizing: border-box;widows: 1;font-size-adjust: none;font-stretch: normal;-webkit-text-stroke-width: 0px;background-color: rgb(255, 255, 255);">
+  <section style="margin: 10px 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+   <section style="margin: 0px 0px -6px auto;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;width: 0px;border-bottom-width: 3px;border-bottom-style: solid;border-bottom-color: rgb(89, 99, 176);border-left-width: 3px;border-left-style: solid;border-left-color: rgb(89, 99, 176);transform: rotate(0deg);-webkit-transform: rotate(0deg);border-top-width: 3px !important;border-top-style: solid !important;border-top-color: rgb(255, 255, 255) !important;border-right-width: 3px !important;border-right-style: solid !important;border-right-color: rgb(255, 255, 255) !important;">
+   </section>
+   <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;border-right-width: 6px;border-right-style: solid;border-color: rgb(247, 188, 0);border-bottom-width: 6px;border-bottom-style: solid;">
+    <section style="margin: 0px;padding: 10px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;background-color: rgb(245, 245, 245);">
+     <section powered-by="135编辑器" style="margin: 0px;padding: 0px;border: 0px;word-wrap: break-word !important;max-width: 100%;box-sizing: border-box;">
+      <section style="margin: 20px 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+       <section style="margin: 0px;padding: 0px 20px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;letter-spacing: 1px;line-height: 1.8;">
+        <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;clear: both;min-height: 1em;">
+         <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+          <strong style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+           <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;color: rgb(229, 139, 36);">
+            首先
+           </span>
+          </strong>
+         </span>
+         <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;font-size: 14px;">
+          ，Lebaron教授将主要介绍和讨论 “社会空间”概念，这一概念是既是理论也是方法论工具，能够在“大数据”环境下被用于调查社会不平等。我们将特别强调“社会空间”的操作化，重点讨论其与一系列基于几何数据分析方法实践联系起来的路径，这些分析方法也与(大)数据的可视化探索和关系解释密切相关。
+         </span>
+         <br style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+        </p>
+        <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;clear: both;min-height: 1em;">
+         <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+          <strong style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+           <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;color: rgb(229, 139, 36);">
+            其次
+           </span>
+          </strong>
+         </span>
+         <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;font-size: 14px;">
+          ，他将基于欧盟统计局所发起的欧盟国家收入与生活状况统计数据，致力于讨论一个欧洲的社会空间建构和探索的关联，并提出一个探究2010年欧洲社会空间及其动态的研究策略。
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;clear: both;min-height: 1em;">
+         <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;font-size: 14px;">
+          此外，教授将会描述和解释以往研究建构的欧洲社会空间的主要维度，讨论作为阶层结构和相关社会特征探索结果的多维度构成，简要地将这些结果与之前关于社会空间的研究进行对比，比如Bourdieu的“区隔”以及Roselund的分析。
+         </span>
+        </p>
+        <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;clear: both;min-height: 1em;">
+         <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+          <strong style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+           <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;color: rgb(229, 139, 36);">
+            最后
+           </span>
+          </strong>
+         </span>
+         <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;font-size: 18px;">
+          ，
+         </span>
+         <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;font-size: 14px;">
+          Lebaron会介绍一些2010年代欧洲社会空间演变的总体结果，尤其是关于国族、社会职业群体和多维度的社会阶层，并针对这些结果进行一系列社会学阐释。
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <section style="margin: -6px 0px 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;width: 0px;border-top-width: 3px;border-top-style: solid;border-top-color: rgb(89, 99, 176);border-right-width: 3px;border-right-style: solid;border-right-color: rgb(89, 99, 176);transform: rotate(0deg);-webkit-transform: rotate(0deg);border-bottom-width: 3px !important;border-bottom-style: solid !important;border-bottom-color: rgb(255, 255, 255) !important;border-left-width: 3px !important;border-left-style: solid !important;border-left-color: rgb(255, 255, 255) !important;">
+   </section>
+  </section>
+ </section>
+ <section powered-by="135编辑器" style="font: 16px/25.6px 微软雅黑;margin: 0px;padding: 0px;border: 0px;text-align: justify;color: rgb(51, 51, 51);text-transform: none;text-indent: 0px;letter-spacing: 0.54px;word-spacing: 0px;white-space: normal;word-wrap: break-word !important;max-width: 100%;box-sizing: border-box;widows: 1;font-size-adjust: none;font-stretch: normal;-webkit-text-stroke-width: 0px;background-color: rgb(255, 255, 255);">
+  <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+   <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+    <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;clear: both;min-height: 1em;">
+     <br style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+    </p>
+   </section>
+  </section>
+ </section>
+ <section powered-by="135编辑器" style="font: 16px/25.6px 微软雅黑;margin: 0px;padding: 0px;border: 0px;text-align: justify;color: rgb(51, 51, 51);text-transform: none;text-indent: 0px;letter-spacing: 0.54px;word-spacing: 0px;white-space: normal;word-wrap: break-word !important;max-width: 100%;box-sizing: border-box;widows: 1;font-size-adjust: none;font-stretch: normal;-webkit-text-stroke-width: 0px;background-color: rgb(255, 255, 255);">
+  <section style="margin: 10px 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;text-align: center;">
+   <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;vertical-align: middle;display: inline-block;">
+    <img data-ratio="1.5" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/r3SKuX3TRaDoK9cIr3z13nHphxq0CadCDuLjP0uU9ZqAEsXaibZfJdNnugKmK93tGCxn6oMP3kqXQJKlVgNLxSg/640?wx_fmt=jpeg" style="margin: 0px;padding: 0px;height: auto !important;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;vertical-align: middle;width: 592px !important;visibility: visible !important;"/>
+   </section>
+  </section>
+ </section>
+ <section powered-by="135编辑器" style="font: 16px/25.6px 微软雅黑;margin: 0px;padding: 0px;border: 0px;text-align: justify;color: rgb(51, 51, 51);text-transform: none;text-indent: 0px;letter-spacing: 0.54px;word-spacing: 0px;white-space: normal;word-wrap: break-word !important;max-width: 100%;box-sizing: border-box;widows: 1;font-size-adjust: none;font-stretch: normal;-webkit-text-stroke-width: 0px;background-color: rgb(255, 255, 255);">
+  <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+   <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;text-align: right;font-size: 13px;">
+    <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;clear: both;min-height: 1em;">
+     <br style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+    </p>
+    <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;clear: both;min-height: 1em;">
+     <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;color: rgb(191, 191, 191);">
+      编辑 | 黄原
+     </span>
+    </p>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

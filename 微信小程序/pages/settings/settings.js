@@ -46,5 +46,10 @@ Page({
     wx.navigateTo({
       url: '../schedule2/schedule2',
     })
+  },
+  test: function () {
+    wx.navigateTo({
+      url: '../test/test',
+    })
   }
 })

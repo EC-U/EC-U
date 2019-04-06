@@ -1,0 +1,397 @@
+
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 30px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 95%;vertical-align: top;box-shadow: rgb(185, 185, 185) 1.41421px 1.41421px 6px;padding: 5px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: -20px 0% 5px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.0604167" data-type="png" data-w="480" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88YHEtSQNMJ6dOAPEcRaQOUuFLg651v7YSZJhnTGZlh7pZDehGjg27CBvfjRFBtfIicJ1M7PicvPOOtA/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;box-sizing: border-box;">
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 14px;">
+          2018年12月26日上午九时，由日本数据库协会和中国数据库专委会联合举办的中日数据库研讨会在华东师范大学中山北路校区的小礼堂举行，中日数据库领域的权威专家齐聚一堂，DBSJ(The Database society of Japan)主席喜连川优教授作为代表受邀出席。
+         </span>
+        </p>
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 14px;">
+          据悉，本次研讨会致力于鼓励中日技术信息的交流与传播，促进日本数据库协会(DBSJ)和中国计算机联合会数据库技术委员会(CCF TCDB)成员之间的了解与合作。
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 5px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.6671875" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88YHEtSQNMJ6dOAPEcRaQOUujHSQib4tkgPEAHOcbBx2LZNPXVqfBGhUBgftCIZcmAykjsiazDzyGQJQ/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 20px 0%;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;width: 95%;vertical-align: top;box-shadow: rgb(158, 158, 158) 0px 0px 4px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;box-sizing: border-box;">
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 14px;">
+          首先，DBSJ主席喜连川优教授介绍了DBSJ的历史背景，成员组成，企业支撑以及相关校企联合实验室现状。
+         </span>
+        </p>
+        <p class="p1">
+         <span style="font-size: 14px;">
+          之后，中日双方讨论了并签署了CCF TCDB和DBSJ之间的合作备忘录。东京大学的喜连川优教授认为，TCDB和DBSJ应当加强联系，多开展交流活动，包括技术报告、讲座交流等。周傲英教授对此非常认可，并表示TCDB和DBSJ可以尝试联合举办新的学术会议。双方都同意今后在DBSJ和CCF TCDB之间交换主要活动的计划和时间表，并对重大会议或活动举办方案进行协商。
+         </span>
+        </p>
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 14px;">
+          本次研讨会邀请了五位研究者作主题报告。
+         </span>
+         <span style='font-size: 14px;text-indent: 2em;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;'>
+          中方东北大学的于戈教授介绍了一种可实时更新以及追踪数据分布演变的流式聚类算法EDMStream。
+         </span>
+         <span style='font-size: 14px;text-indent: 2em;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;'>
+          随着数据分布的变化，聚类也会不断发展变化，而记录追踪此类变化也很重要。因此，如何有效地更新聚类结果以及如何追踪聚类的演变成为流式聚类算法的挑战。传统的流式聚类算法，譬如Clusteream、DenStream等，分为线上总结(online-summarizing）与线下聚类两步，实时更新与追踪演变的代价较高。EDMStream算法受DPClustering（Density Peaks Clustering）算法的启发，通过监测密度高峰(density mountain，即数据点的密度分布)设计了一种新颖的聚类演变追踪算法，提出了一种高校的数据结构依赖树(Dependency-Tree)来维护密度高峰的状态，利用两种过滤策略来精简更新操作，并提出一种自动调正机制，通过学习用户偏好以及数据演变，自动更新算法参数。经大量实验结果表明，EDM-Stream较于传统流式聚类算法具有更好的效力与功效。
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-bottom: -7px;margin-left: 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.554717" data-type="png" data-w="530" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88YHEtSQNMJ6dOAPEcRaQOUunfjicB14ZibKTsdnNkrCJ1tv2fdFVmKmmhqR7xZIJNpau5MgUickvAZPw/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="text-align: center;box-sizing: border-box;">
+         <span style="font-size: 12px;">
+          图1 流式聚类算法EDMStream
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;box-sizing: border-box;">
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 14px;">
+          来自东京工业大学的Jun Miyazaki教授介绍了一种针对于大规模高维数据的新型高效聚合查询处理方法。近些年来，互联网的高速发展产生了大量的高维数据，如传感器数据等。聚合查询在分析这类数据上十分有效。传统的关系数据库（RDBs）支持高效的聚合查询以实现更快的查询处理，但数据量的激增会带来严重的瓶颈。另一方面，使用分布式键值存储（D-KVS）可增加数据插入的吞吐量，但由于数据索引的不足，高维数据查询需要进行完整的数据扫描。因此，Jun Miyazaki教授提出了一种将RDBs和D-KVS结合的方法，利用两种方法各自的优点。并提出了一种新型技术，将数据网格划分为多个子集，提前计算每个划分网格的聚合值。通过该新型技术，扫描数据量大幅减少，查询处理性能得到提高。完整的系统架构见下图2。最后，大量的实验结果表明，该新型高效聚合查询处理方法在读写性能上优于现有的所有方法。
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.3822938" data-type="gif" data-w="497" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88YHEtSQNMJ6dOAPEcRaQOUuj3NSYSnqh0pJXOjvmISXUDTVQTEnTO5LKmG8veg7ddYnBicuiaSIAWZA/640?wx_fmt=gif" style="vertical-align: middle;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="text-align: center;box-sizing: border-box;">
+         <span style="font-size: 12px;">
+          图2 系统架构
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;box-sizing: border-box;">
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 14px;">
+          Jun Miyazaki教授介绍完后，在座的老师学生与其进行了深刻的交流。
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="transform: translate3d(1px, 0px, 0px);margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="display: inline-block;vertical-align: top;width: 48%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;padding: 4px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(132, 132, 132) 0px 0px 4px;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="0.6671875" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88YHEtSQNMJ6dOAPEcRaQOUul7Nb02JqibbB81jLibhsqjTeCzThLYKQdicCSVbhicxV8eGu7E9sAUxicNA/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+          </section>
+          <section style="display: inline-block;vertical-align: top;width: 48%;padding: 4px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(132, 132, 132) 0px 0px 4px;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="0.6671875" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88YHEtSQNMJ6dOAPEcRaQOUumoUf9hhBt40KicQrTibHfQBdUrXxlud3SyVKc44Y0MgO8KLMPTdo3b8w/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;box-sizing: border-box;">
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 14px;text-indent: 2em;letter-spacing: 0px;box-sizing: border-box;">
+          随后，清华大学的李国良教授作了名为《AI4DB and DB4AI: Challenges and Opportunities for the Database Community》的报告。他通过大量的例子详细介绍了数据库管理系统(DBMS)如何与人工智能技术(AI)相结合，并获得共同提高。
+          <br style="box-sizing: border-box;"/>
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.6671875" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88YHEtSQNMJ6dOAPEcRaQOUunTYJRe7SwZJPwqicCNEviay1iaBZMWzRSfP6P2PoxDmibFdk5bqeo5Hd4w/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="text-align: center;box-sizing: border-box;">
+         <span style="font-size: 12px;">
+          图3 李国良教授的报告
+          <br style="box-sizing: border-box;"/>
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;box-sizing: border-box;">
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         <span style="letter-spacing: 0px;box-sizing: border-box;font-size: 14px;">
+          我们知道，DBMS肩负着处理大量数据以及高复杂性工作负载的重任，然而其本身难以管理，因为其中包含数百种配置“旋钮”(knob)，用于控制诸如缓存内存分配量以及存储数据写入频率等要素。李国良教授团队通过采用强化学习(Reinforcement Learning)的技术，对于数据库的配置定义智能体(Agent)、环境(Environment)、状态(State)和奖励(Reward)，在多个数据库系统上提升吞吐量减少延迟。同时，他们也优化了数据库中的“Join”操作，在效率上提升了2-3个数量级。
+         </span>
+        </p>
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 14px;">
+          来自日本名古屋大学信息学研究生院的Yoshiharu Ishikawa教授为我们带来了题为《Query Processing over Probabilistic Data Streams》的报告。在开始正式报告前，Yoshiharu Ishikawa教授首先给我们做了一个简单自我介绍，并为我们介绍了一些有关名古屋市的文化，增加了在场老师和同学对Yoshiharu Ishikawa教授和名古屋市的了解。
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.7241026" data-type="png" data-w="975" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88YHEtSQNMJ6dOAPEcRaQOUuvVDZG8fWepdqFU5UQrQM0LyZu1icSGw9O1ZeV79thDT6Tjfib0wXPaZQ/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;box-sizing: border-box;">
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 12px;">
+          图4 Yoshiharu Ishikawa教授的报告
+         </span>
+        </p>
+        <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 14px;">
+          <br/>
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="text-align: justify;text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 14px;">
+          接着，Yoshiharu Ishikawa教授便为大家介绍了数据流系统上的查询处理，在当前的自动驾驶领域，Yoshiharu Ishikawa教授认为可以把一辆汽车看作是一个数据流管理系统，它通过各种传感器实时地收集外部的各种数据来促进自动和安全驾驶，接着Yoshiharu Ishikawa教授对比了数据流系统和传统数据库系统中查询处理的不同并介绍了查询处理在数据流系统中面临的挑战以及他们团队实现的一个原型系统。
+         </span>
+        </p>
+        <p style="text-indent: 2em;text-align: justify;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 14px;">
+          最后，数据科学与工程学院副院长周烜教授分享了学院自主研发的分布式数据库Cedar。
+         </span>
+         <span style='font-size: 14px;text-indent: 2em;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;'>
+          随着互联网经济蓬勃发展，诸如ORACLE和DB2等传统数据库在扩展能力和性价比上受到了严峻挑战。为了应对挑战，数据学院开发了Cedar，一款具备高可扩展性和高可用性的NewSQL系统。周老师首先从Cedar的总体架构出发，向大家讲解了其具体设计。然后以时间线为进程，结合具体应用，讲述了Cedar的发展和在交通银行里的逐步应用过程。
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 97%;vertical-align: top;border-top: 5px solid rgb(225, 54, 89);border-top-left-radius: 0px;box-shadow: rgb(160, 160, 160) 0px 1px 2px;padding: 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;box-sizing: border-box;">
+        <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+         <span style="font-size: 14px;">
+          本次联合研讨会上，中日数据库领域的专家之间的交流热烈，增进了参会人员之间的深厚友谊。
+         </span>
+         <span style='font-size: 14px;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;'>
+          本次研讨会为大家提供了学术分享平台，加强了中日数据库研究的联系；也为日后中日在数据库领域的多层次合作打下了基础。
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.6671875" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88YHEtSQNMJ6dOAPEcRaQOUufSYA7blzjib6FzUJLMfxSnhuVxceHiaMic9sOpiaEBgbOx8eECPFQpNazQ/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+       </section>
+      </section>
+      <p style="white-space: normal;font-family: 微软雅黑;text-align: right;font-size: 15px;">
+       <span style="font-family: 宋体, SimSun;font-size: 12px;text-indent: 28px;">
+        <br/>
+       </span>
+      </p>
+      <p style="white-space: normal;font-family: 微软雅黑;text-align: right;font-size: 15px;">
+       <span style="font-family: 宋体, SimSun;font-size: 12px;text-indent: 28px;">
+        <br/>
+       </span>
+      </p>
+      <p style="white-space: normal;font-family: 微软雅黑;text-align: right;font-size: 15px;">
+       <span style="font-family: 宋体, SimSun;font-size: 12px;text-indent: 28px;">
+        <br/>
+       </span>
+      </p>
+      <p style="white-space: normal;font-family: 微软雅黑;text-align: right;font-size: 15px;">
+       <span style="font-family: 宋体, SimSun;font-size: 12px;text-indent: 28px;">
+        <br/>
+       </span>
+      </p>
+      <p style="white-space: normal;font-family: 微软雅黑;text-align: right;font-size: 15px;">
+       <span style="font-family: 宋体, SimSun;font-size: 12px;text-indent: 28px;">
+        文案 | 濮敏、蔡磊、王晓桐、朱仁煜、申弋斌、丁国浩、胡耀艺、熊双宇
+       </span>
+      </p>
+      <p style="white-space: normal;font-family: 微软雅黑;text-align: right;font-size: 15px;">
+       <span style="font-family: 宋体, SimSun;font-size: 12px;text-indent: 28px;">
+        摄影 | 黄建伟
+       </span>
+      </p>
+      <p style="white-space: normal;font-family: 微软雅黑;text-align: right;font-size: 15px;">
+       <span style="font-family: 宋体, SimSun;font-size: 12px;text-indent: 28px;">
+        排版 | 方敏
+       </span>
+      </p>
+      <p style="margin-top: 5px;margin-bottom: 5px;color: rgb(63, 62, 63);letter-spacing: 2px;text-indent: 2em;text-align: right;line-height: normal;">
+       <br/>
+      </p>
+      <p style="color: rgb(63, 62, 63);font-family: Helvetica, Arial, sans-serif;letter-spacing: 2px;text-align: center;">
+       <br/>
+      </p>
+      <section class="_135editor" data-role="paragraph" style="color: rgb(63, 62, 63);letter-spacing: 2px;text-align: center;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+       <section class="" style='font-family: 微软雅黑;font-size: 16px;white-space: normal;width: 8em;height: 8em;display: inline-block;vertical-align: bottom;border-radius: 100%;border-width: 2px;border-style: solid;border-color: rgb(166, 91, 203);box-shadow: rgb(204, 204, 204) 0.707107px 0.707107px 2px;background-image: url("https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88YWwsMV4AF23UjKdMSFRQmzxSMvjNnPXf2icFNfDkMgRLmwhsVNM37lNZX4phkuqdcj3Q3qS3XB1Pw/640?wx_fmt=jpeg");background-size: cover;background-position: 50% 50%;background-repeat: no-repeat;box-sizing: border-box;'>
+        <section class="" style="width: 124px;height: 124px;overflow: hidden;">
+         <strong>
+          <img class="" data-ratio="1.0020449897750512" data-type="jpeg" data-w="489" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88YWwsMV4AF23UjKdMSFRQmzxSMvjNnPXf2icFNfDkMgRLmwhsVNM37lNZX4phkuqdcj3Q3qS3XB1Pw/640?wx_fmt=jpeg" style="height: 124.25px;width: 124px;opacity: 0;" width="100%"/>
+         </strong>
+        </section>
+       </section>
+       <p style="font-family: 微软雅黑;font-size: 16px;white-space: normal;">
+        <br/>
+       </p>
+       <section class="" style="margin-top: -4em;padding: 4em 15px 10px;font-family: 微软雅黑;font-size: 16px;white-space: normal;border-width: 1px;border-style: solid;border-color: rgb(166, 91, 203);border-radius: 16px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section class="_135editor" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <section class="">
+          <section class="">
+           <p>
+            华东师范大学数据科学与工程学院
+           </p>
+          </section>
+         </section>
+        </section>
+        <section class="_135editor" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <section class="" style="padding-top: 0.5em;padding-bottom: 0.5em;box-sizing: border-box;">
+          <section class="" style="height: 1px;background-color: rgb(166, 91, 203);">
+          </section>
+         </section>
+        </section>
+        <section class="_135editor" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <section class="" style="margin: auto;padding-top: 10px;width: 223.188px;box-sizing: border-box;">
+          <img class="" data-ratio="1" data-type="jpeg" data-w="258" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88YWwsMV4AF23UjKdMSFRQmzI2NUVw52jWqc8bFyPRTJOcNRFSzIDTy24ibpjH5NPMic8pbHL4dW3Cxw/640?wx_fmt=jpeg" style="vertical-align: middle;"/>
+         </section>
+        </section>
+       </section>
+      </section>
+      <section style="margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <br/>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>

@@ -1,0 +1,654 @@
+
+ <section style="box-sizing: border-box;">
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;border-width: 0px 1px 1px 2px;border-style: none none none dashed;border-color: rgb(160, 160, 160);background-color: rgb(239, 239, 239);border-radius: 0px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;letter-spacing: 0px;padding: 10px 10px 5px;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 15px;text-align: justify;line-height: 1.8;padding-right: 5px;padding-left: 5px;color: rgb(4, 4, 4);box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            亲爱的考生，
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            你好！我校工商管理硕士(MBA)专业学位现接受全国考生的调剂意向登记。由于近两年报考人数的增多以及上线率的逐年提升，每年可供调剂的名额逐渐减少。相比2018年，2019年可供调剂的名额可能更为紧张，所以请有调剂意向的考生抓紧时间通过微信在线填写调剂意向登记。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-left: 0%;text-align: right;line-height: 1;font-size: 14px;box-sizing: border-box;">
+       <section style="width: 0px;display: inline-block;vertical-align: top;border-bottom: 0.6em solid rgb(255, 255, 255);border-right: 0.6em solid rgb(255, 255, 255);border-top: 0.6em solid transparent !important;border-left: 0.6em solid transparent !important;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <section style="display: inline-block;vertical-align: top;height: 2em;padding-right: 0.5em;padding-left: 0.5em;line-height: 2em;background-color: rgb(243, 243, 243);text-align: center;color: rgb(249, 110, 87);box-sizing: border-box;">
+      <p style="box-sizing: border-box;">
+       <span style="color: rgb(255, 0, 0);">
+        调剂申请条件：
+       </span>
+      </p>
+     </section>
+     <section style="display: inline-block;vertical-align: top;border-left: 0.5em solid rgb(243, 243, 243);border-bottom: 1em solid rgb(243, 243, 243);border-right: 0.5em solid transparent !important;border-top: 1em solid transparent !important;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(243, 243, 243);padding-top: 10px;padding-bottom: 10px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="text-align: justify;color: rgb(34, 75, 20);padding-right: 25px;padding-left: 25px;font-size: 15px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(4, 4, 4);box-sizing: border-box;">
+          1.
+          <span style="letter-spacing: 0px;box-sizing: border-box;">
+           考生参加2019年全国管理类联考（MBA/MPA/MPAcc/MEM等）且预估成绩可以达到2018年的国家东部线（参考分数：总分≥165、外语≥42、综合≥84）；
+          </span>
+         </span>
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(4, 4, 4);box-sizing: border-box;">
+          <span style="letter-spacing: 0px;box-sizing: border-box;">
+           <br/>
+          </span>
+         </span>
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(4, 4, 4);box-sizing: border-box;">
+          2. 需为在职考生，截至2019年9月入学，研究生毕业满两年；或本科毕业满三年；或专科毕业满五年。应届毕业生不具备报考MBA的资格；
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <section style="display: inline-block;vertical-align: top;height: 2em;padding-right: 0.5em;padding-left: 0.5em;line-height: 2em;background-color: rgb(243, 243, 243);text-align: center;color: rgb(249, 110, 87);box-sizing: border-box;">
+      <p style="box-sizing: border-box;">
+       <span style="color: rgb(255, 0, 0);">
+        调剂重要说明：
+       </span>
+      </p>
+     </section>
+     <section style="display: inline-block;vertical-align: top;border-left: 0.5em solid rgb(243, 243, 243);border-bottom: 1em solid rgb(243, 243, 243);border-right: 0.5em solid transparent !important;border-top: 1em solid transparent !important;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(243, 243, 243);padding-top: 10px;padding-bottom: 10px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="color: rgb(4, 4, 4);padding-right: 25px;padding-left: 25px;text-align: justify;font-size: 15px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(4, 4, 4);font-size: 15px;text-align: justify;background-color: rgb(243, 243, 243);">
+          关于2019年华东师范大学MBA调剂意向登记作如下的说明：
+         </span>
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(4, 4, 4);font-size: 15px;text-align: justify;background-color: rgb(243, 243, 243);">
+          <br/>
+         </span>
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         1. 在10月份网报中未一志愿报考华东师范大学MBA，已经一志愿报考的无需再填写调剂意向登记；
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         2.考生在此填写的为2019年MBA调剂意向登记，不影响原来的一志愿录取，如果在分数和国家线出来后符合原来一志愿录取要求的，仍可以正常一志愿录取；
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         3. 2019年调剂名额有限，我们届时将根据实际情况优先安排微信在线填写调剂意向登记的考生参加2019年调剂面试，具体面试时间后续以邮件通知为准；
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         4.如有以下三类推荐人的情况：
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         第一
+         <span style="font-size: 15px;text-align: justify;">
+          、
+         </span>
+         MBA在校生或校友推荐
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         第二
+         <span style="font-size: 15px;text-align: justify;">
+          、
+         </span>
+         2019年一志愿MBA考生推荐
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(4, 4, 4);font-size: 15px;text-align: justify;background-color: rgb(243, 243, 243);">
+          第三
+          <span style="font-size: 15px;text-align: justify;">
+           、
+          </span>
+         </span>
+         其他人推荐（华东师范大学老师，MBA企业导师，MBA招生面试官）
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(255, 41, 65);">
+          可在同等条件下优先录取，请有推荐人的考生将推荐信息写在调剂意向申请表里。
+         </span>
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         5. 2019年华东师范大学MBA调剂过程中不会向考生收取任何费用，谨防上当受骗。如果有打着华东师范大学名义向考生收费的，请大家切勿轻信，也可以在第一时间与我们取得联系。
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="margin-top: 5px;margin-bottom: 5px;white-space: normal;max-width: 100%;min-height: 1em;">
+  <span style="color: rgb(255, 0, 0);background-color: rgb(255, 251, 0);font-size: 15px;">
+   <strong>
+    <span style="font-family: 新宋体;">
+     以上若有与国家教育部和华东师范大学研究生院2019年研究生招生调剂政策不符的，以国家教育部和华东师范大学研究生的政策为准！
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="margin-top: 5px;margin-bottom: 5px;white-space: normal;max-width: 100%;min-height: 1em;">
+  <span style="max-width: 100%;line-height: 25.6px;">
+   关于调剂申请过程中如有任何疑惑或者疑问，请及时与我们取得联系。
+  </span>
+ </p>
+ <p style="margin-top: 5px;margin-bottom: 5px;white-space: normal;max-width: 100%;min-height: 1em;">
+  <span style="color: rgb(255, 0, 0);">
+   <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <span style="max-width: 100%;line-height: 25.6px;">
+     工作时间
+    </span>
+   </strong>
+  </span>
+  <span style="max-width: 100%;line-height: 25.6px;">
+   请直接咨询华东师范大学MBA招生办公室，
+  </span>
+  <span style="font-size: 16px;">
+   联系电话：021-
+  </span>
+  <span style="font-size: 16px;max-width: 100%;line-height: 25.6px;">
+   32529408
+   <span style="max-width: 100%;line-height: 25.6px;box-sizing: border-box !important;word-wrap: break-word !important;">
+    /
+   </span>
+  </span>
+  <span style="font-size: 16px;">
+   62233427；
+  </span>
+ </p>
+ <p style="margin-top: 5px;margin-bottom: 5px;white-space: normal;max-width: 100%;min-height: 1em;">
+  <span style="color: rgb(255, 0, 0);">
+   <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <span style="color: rgb(255, 0, 0);max-width: 100%;line-height: 25.6px;">
+     办公地址：
+    </span>
+   </strong>
+  </span>
+  <span style="max-width: 100%;line-height: 25.6px;">
+   上海市中山北路3663号华
+  </span>
+  <span style="max-width: 100%;line-height: 25.6px;">
+   东师范大学地理馆239室（毛主席像后面）
+  </span>
+ </p>
+ <p style="white-space: normal;max-width: 100%;min-height: 1em;line-height: 25.6px;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="color: rgb(255, 0, 0);">
+   <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <span style="color: rgb(255, 0, 0);max-width: 100%;line-height: 25.6px;">
+     非工作时间
+    </span>
+   </strong>
+  </span>
+  <span style="max-width: 100%;line-height: 25.6px;">
+   请联系招生办公室主任王祖亮老师
+  </span>
+  <strong>
+   <span style="max-width: 100%;line-height: 25.6px;background-color: rgb(255, 251, 0);">
+    13564644598
+   </span>
+  </strong>
+  <span style="max-width: 100%;line-height: 25.6px;">
+   （该手机号也是微信号，添加时请备注“19年MBA调剂申请+姓名”）。
+  </span>
+ </p>
+ <p style="margin-top: 5px;margin-bottom: 5px;white-space: normal;max-width: 100%;min-height: 1em;">
+  <br/>
+ </p>
+ <section data-source="bj.96weixin.com" style="padding-right: 5px;padding-left: 5px;white-space: normal;max-width: 100%;border-width: 1px;border-style: dashed;border-color: transparent;font-size: 14px;line-height: normal;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <section style="margin-top: 10px;margin-bottom: 10px;max-width: 100%;display: flex;align-items: flex-start;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <section style="margin-right: 10px;max-width: 100%;display: flex;align-items: center;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <section style="padding-right: 20px;padding-left: 10px;max-width: 100%;height: 30px;font-size: 18px;color: rgb(255, 255, 255);line-height: 30px;text-align: center;background: rgba(211, 27, 71, 0.96);box-sizing: border-box !important;word-wrap: break-word !important;">
+     <br/>
+    </section>
+    <section style="margin-left: -10px;padding-top: 3px;padding-right: 3px;max-width: 100%;border-top: 1px solid rgba(211, 27, 71, 0.96);border-right: 1px solid rgba(211, 27, 71, 0.96);border-bottom-color: rgb(216, 40, 33);border-left-color: rgb(216, 40, 33);transform: rotate(45deg);box-sizing: border-box !important;word-wrap: break-word !important;">
+     <section style="max-width: 100%;width: 21.5px;height: 21.5px;color: rgb(255, 255, 255);background: rgba(211, 27, 71, 0.96);box-sizing: border-box !important;word-wrap: break-word !important;">
+     </section>
+    </section>
+   </section>
+   <section style="margin-top: 2px;max-width: 100%;flex: 1 1 0px;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <p style="max-width: 100%;min-height: 1em;font-size: 18px;color: rgba(211, 27, 71, 0.96);box-sizing: border-box !important;word-wrap: break-word !important;">
+     微信在线申请方式
+    </p>
+    <p style="margin-top: 5px;max-width: 100%;min-height: 1em;color: rgb(66, 66, 66);box-sizing: border-box !important;word-wrap: break-word !important;">
+     <span style="font-size: 18px;">
+      点击文章左下角
+      <strong>
+       <span style="background-color: rgb(255, 251, 0);color: rgb(255, 0, 0);">
+        “阅读原文”
+       </span>
+      </strong>
+      ，按照相关提示要求填写好表格内容提交即申请登记成功，我们会在
+      <strong>
+       <span style="background-color: rgb(255, 251, 0);color: rgb(255, 0, 0);">
+        1个工作日内
+       </span>
+      </strong>
+      发送邮件到考生在线申请时填写的邮箱地址确认申请成功！
+     </span>
+    </p>
+   </section>
+  </section>
+ </section>
+ <p style="margin-top: 5px;margin-bottom: 5px;white-space: normal;max-width: 100%;min-height: 1em;text-align: justify;">
+  <span style="font-size: 15px;">
+   华东师范大学MBA项目系国家教育部和国务院学位办【2007（36）号】批准的工商管理硕士（MBA）培养单位。项目自2007年创办以来，共招收5000余名学员。项目秉承首任校长孟宪承先生提出的现代大学理想即“智慧的创获，品性的陶熔，民族和社会的发展”，以“视野宽广、厚文重义”为培养理念，依托师大深厚的人文底蕴和育人文化，汲取优势学科的精髓，致力于培养“富情商、高智商、厚文商”的睿智型商科管理人才。2017年6月1日，中国高质量MBA教育认证工作委员会会议在南开大学召开。会议正式审议宣布华东师范大学经济与管理学部通过中国高质量MBA教育认证（“CAMEA认证”），我校成为第15所（获得该认证的MBA培养单位。
+  </span>
+ </p>
+ <p style="margin-top: 5px;margin-bottom: 5px;white-space: normal;max-width: 100%;min-height: 1em;text-align: justify;">
+  <span style="font-size: 15px;">
+   经过10余年的发展，华东师范大学MBA充分借助自身优势学科和社会资源已建立了人力资源与应用心理、商业数据分析、金融与投资管理、新兴产业创业管理等专业方向MBA项目。
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <section data-source="bj.96weixin.com" style="padding-right: 5px;padding-left: 5px;white-space: normal;max-width: 100%;border-width: 1px;border-style: dashed;border-color: transparent;font-size: 14px;line-height: normal;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <section style="margin: 5px;max-width: 100%;font-family: 微软雅黑;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <section style="margin-bottom: -54px;max-width: 100%;text-align: right;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <section style="margin-right: 10px;max-width: 100%;display: inline-block;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <section style="max-width: 100%;border-bottom: 12px solid rgba(211, 27, 71, 0.96);border-left: 12px solid transparent;border-right: 0px solid transparent;height: 0px;width: 0px;float: left;box-sizing: border-box !important;word-wrap: break-word !important;">
+     </section>
+     <section style="max-width: 100%;float: left;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+      <section style="max-width: 100%;opacity: 0.85;box-sizing: border-box !important;word-wrap: break-word !important;">
+       <section style="padding-right: 5px;padding-left: 5px;max-width: 100%;width: 60px;height: 50px;display: table-cell;vertical-align: middle;color: rgb(255, 255, 255);text-align: center;background-color: rgba(211, 27, 71, 0.96);box-sizing: border-box !important;word-wrap: break-word !important;">
+        <section style="max-width: 100%;font-size: 16px;color: inherit;box-sizing: border-box !important;word-wrap: break-word !important;">
+         <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+          01
+         </strong>
+        </section>
+       </section>
+       <section style="max-width: 100%;border-top: 10px solid rgba(211, 27, 71, 0.96);border-left: 30px solid transparent;border-right: 30px solid transparent;height: 0px;width: 0px;box-sizing: border-box !important;word-wrap: break-word !important;">
+       </section>
+      </section>
+     </section>
+     <section style="max-width: 100%;border-bottom: 12px solid rgba(211, 27, 71, 0.96);border-left: 0px solid transparent;border-right: 12px solid transparent;height: 0px;width: 0px;float: left;box-sizing: border-box !important;word-wrap: break-word !important;">
+     </section>
+    </section>
+   </section>
+   <section style="padding: 50px 10px 10px;max-width: 100%;box-shadow: rgba(0, 0, 0, 0.498) 0px 0px 6px;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <section style="max-width: 100%;color: rgba(211, 27, 71, 0.96);box-sizing: border-box !important;word-wrap: break-word !important;">
+     <section style="padding-right: 10px;padding-left: 10px;max-width: 100%;word-wrap: break-word;font-size: 16px;color: inherit;box-sizing: border-box !important;">
+      <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+       人力资源与应用心理MBA项目简介
+      </strong>
+     </section>
+    </section>
+    <p style="margin-top: 20px;padding: 20px 10px;max-width: 100%;word-wrap: break-word;min-height: 1em;border-top: 1px dashed rgb(153, 153, 153);color: rgb(60, 60, 60);text-align: justify;box-sizing: border-box !important;">
+     <span style="max-width: 100%;font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+      华东师范大学依托本校强大的心理学、人力资源管理等学科优势与深厚的人文底蕴，开设人力资源管理项目，凸显应用心理学嵌入人力资源管理的鲜明特色，将应用心理的思维与方法嵌入到人力资源管理实务中，通过校企深度对接，联动培养等创新机制，以企业真实案例强化实战训练，提升学员综合管理能力，致力于培养具有高度人文意识和人际洞察力、具有创新意识和前沿思维的高情商企业首席人才官。
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <span style="max-width: 100%;font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+      学制：非全日制学习2.5年；
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <span style="max-width: 100%;font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+      学习时间：一个工作日晚上+周末一天；
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <span style="max-width: 100%;font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+      学费：24.8万，分三年缴付，第一年9.4万，第二年9.4万和最后一年6万；
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <span style="max-width: 100%;font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+      学历学位：MBA学生在规定年限内按照培养计划修满规定学分，完成硕士论文并通过学位论文答辩，经审核通过，可授予教育部统一制发的华东师范大学硕士研究生毕业证书和工商管理硕士(MBA)专业学位证书。
+     </span>
+    </p>
+   </section>
+  </section>
+ </section>
+ <section data-source="bj.96weixin.com" style="padding-right: 5px;padding-left: 5px;white-space: normal;max-width: 100%;border-width: 1px;border-style: dashed;border-color: transparent;font-size: 14px;line-height: normal;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <section style="margin: 5px;max-width: 100%;font-family: 微软雅黑;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <section style="margin-bottom: -54px;max-width: 100%;text-align: right;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <section style="margin-right: 10px;max-width: 100%;display: inline-block;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <section style="max-width: 100%;border-bottom: 12px solid rgba(211, 27, 71, 0.96);border-left: 12px solid transparent;border-right: 0px solid transparent;height: 0px;width: 0px;float: left;box-sizing: border-box !important;word-wrap: break-word !important;">
+     </section>
+     <section style="max-width: 100%;float: left;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+      <section style="max-width: 100%;opacity: 0.85;box-sizing: border-box !important;word-wrap: break-word !important;">
+       <section style="padding-right: 5px;padding-left: 5px;max-width: 100%;width: 60px;height: 50px;display: table-cell;vertical-align: middle;color: rgb(255, 255, 255);text-align: center;background-color: rgba(211, 27, 71, 0.96);box-sizing: border-box !important;word-wrap: break-word !important;">
+        <section style="max-width: 100%;font-size: 16px;color: inherit;box-sizing: border-box !important;word-wrap: break-word !important;">
+         <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+          02
+         </strong>
+        </section>
+       </section>
+       <section style="max-width: 100%;border-top: 10px solid rgba(211, 27, 71, 0.96);border-left: 30px solid transparent;border-right: 30px solid transparent;height: 0px;width: 0px;box-sizing: border-box !important;word-wrap: break-word !important;">
+       </section>
+      </section>
+     </section>
+     <section style="max-width: 100%;border-bottom: 12px solid rgba(211, 27, 71, 0.96);border-left: 0px solid transparent;border-right: 12px solid transparent;height: 0px;width: 0px;float: left;box-sizing: border-box !important;word-wrap: break-word !important;">
+     </section>
+    </section>
+   </section>
+   <section style="padding: 50px 10px 10px;max-width: 100%;box-shadow: rgba(0, 0, 0, 0.498) 0px 0px 6px;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <section style="max-width: 100%;color: rgba(211, 27, 71, 0.96);box-sizing: border-box !important;word-wrap: break-word !important;">
+     <section style="padding-right: 10px;padding-left: 10px;max-width: 100%;word-wrap: break-word;font-size: 16px;color: inherit;box-sizing: border-box !important;">
+      <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+       金融与投资管理MBA项目简介
+      </strong>
+     </section>
+    </section>
+    <p style="margin-top: 20px;padding: 20px 10px;max-width: 100%;word-wrap: break-word;min-height: 1em;border-top: 1px dashed rgb(153, 153, 153);color: rgb(60, 60, 60);text-align: justify;box-sizing: border-box !important;">
+     <span style="max-width: 100%;font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+      为了满足中国多层次资本市场蓬勃发展对上市公司证券事务管理人才的巨大需求，依托华东师范大学多学科交叉平台，引入上海上市公司协会丰富的上市公司资源，合作培养具有上市公司治理素养、多层次资本市场运作能力、复杂问题综合处理技巧的三类高层次复合型管理人才：董事会秘书、证券事务代表和投资总监管理岗位的人员。
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;line-height: normal;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <span style="max-width: 100%;font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+      学制：非全日制学习2.5年；
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;line-height: normal;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <span style="max-width: 100%;font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+      学习时间：一个工作日晚上+周末一天或一个月一次四天集中授课；
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;line-height: normal;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <span style="max-width: 100%;font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+      学费：24.8万，分三年缴付，第一年9.4万，第二年9.4万和最后一年6万；
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;line-height: normal;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <span style="max-width: 100%;font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+      学历学位：MBA学生在规定年限内按照培养计划修满规定学分，完成硕士论文并通过学位论文答辩，经审核通过，可授予教育部统一制发的华东师范大学硕士研究生毕业证书和工商管理硕士(MBA)专业学位证书。
+     </span>
+    </p>
+   </section>
+  </section>
+ </section>
+ <section data-source="bj.96weixin.com" style="padding-right: 5px;padding-left: 5px;white-space: normal;max-width: 100%;border-width: 1px;border-style: dashed;border-color: transparent;font-size: 14px;line-height: normal;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <section style="margin: 5px;max-width: 100%;font-family: 微软雅黑;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <section style="margin-bottom: -54px;max-width: 100%;text-align: right;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <section style="margin-right: 10px;max-width: 100%;display: inline-block;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <section style="max-width: 100%;border-bottom: 12px solid rgba(211, 27, 71, 0.96);border-left: 12px solid transparent;border-right: 0px solid transparent;height: 0px;width: 0px;float: left;box-sizing: border-box !important;word-wrap: break-word !important;">
+     </section>
+     <section style="max-width: 100%;float: left;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+      <section style="max-width: 100%;opacity: 0.85;box-sizing: border-box !important;word-wrap: break-word !important;">
+       <section style="padding-right: 5px;padding-left: 5px;max-width: 100%;width: 60px;height: 50px;display: table-cell;vertical-align: middle;color: rgb(255, 255, 255);text-align: center;background-color: rgba(211, 27, 71, 0.96);box-sizing: border-box !important;word-wrap: break-word !important;">
+        <section style="max-width: 100%;font-size: 16px;color: inherit;box-sizing: border-box !important;word-wrap: break-word !important;">
+         <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+          03
+         </strong>
+        </section>
+       </section>
+       <section style="max-width: 100%;border-top: 10px solid rgba(211, 27, 71, 0.96);border-left: 30px solid transparent;border-right: 30px solid transparent;height: 0px;width: 0px;box-sizing: border-box !important;word-wrap: break-word !important;">
+       </section>
+      </section>
+     </section>
+     <section style="max-width: 100%;border-bottom: 12px solid rgba(211, 27, 71, 0.96);border-left: 0px solid transparent;border-right: 12px solid transparent;height: 0px;width: 0px;float: left;box-sizing: border-box !important;word-wrap: break-word !important;">
+     </section>
+    </section>
+   </section>
+   <section style="padding: 50px 10px 10px;max-width: 100%;box-shadow: rgba(0, 0, 0, 0.498) 0px 0px 6px;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <section style="max-width: 100%;color: rgba(211, 27, 71, 0.96);box-sizing: border-box !important;word-wrap: break-word !important;">
+     <section style="padding-right: 10px;padding-left: 10px;max-width: 100%;word-wrap: break-word;font-size: 16px;color: inherit;box-sizing: border-box !important;">
+      <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+       商业数据分析MBA项目简介
+      </strong>
+     </section>
+    </section>
+    <p style="margin-top: 20px;padding: 20px 10px;max-width: 100%;word-wrap: break-word;min-height: 1em;border-top: 1px dashed rgb(153, 153, 153);color: rgb(60, 60, 60);text-align: justify;box-sizing: border-box !important;">
+     <span style="max-width: 100%;font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+      为了满足中国经济转型发展中对大数据管理与分析人才的巨大需求，依托华东师范大学多学科交叉平台，引入美商天睿公司(Teradata)专业数据仓库经验、丰富的行业知识和强大的技术性能，合作培养具有商业理解能力、数据管理能力和数据分析能力的高层次管理人才，构建数据思维，实现价值创造。
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;line-height: normal;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <span style="max-width: 100%;font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+      学制：非全日制学习2.5年；
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;line-height: normal;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <span style="max-width: 100%;font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+      学习时间：一个工作日晚上+周末一天；
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;line-height: normal;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <span style="max-width: 100%;font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+      学费：24.8万，分三年缴付，第一年9.4万，第二年9.4万和最后一年6万；
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;line-height: normal;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <span style="max-width: 100%;font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+      学历学位：MBA学生在规定年限内按照培养计划修满规定学分，完成硕士论文并通过学位论文答辩，经审核通过，可授予教育部统一制发的华东师范大学硕士研究生毕业证书和工商管理硕士(MBA)专业学位证书。
+     </span>
+    </p>
+   </section>
+  </section>
+ </section>
+ <section data-source="bj.96weixin.com" style="padding-right: 5px;padding-left: 5px;white-space: normal;max-width: 100%;border-width: 1px;border-style: dashed;border-color: transparent;font-size: 14px;line-height: normal;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <section style="margin: 5px;max-width: 100%;font-family: 微软雅黑;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <section style="margin-bottom: -54px;max-width: 100%;text-align: right;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <br/>
+   </section>
+  </section>
+ </section>
+ <section data-source="bj.96weixin.com" style="padding-right: 5px;padding-left: 5px;white-space: normal;max-width: 100%;border-width: 1px;border-style: dashed;border-color: transparent;font-size: 14px;line-height: normal;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <section style="margin: 5px;max-width: 100%;font-family: 微软雅黑;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <section style="margin-bottom: -54px;max-width: 100%;text-align: right;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <br/>
+   </section>
+  </section>
+ </section>
+ <section data-source="bj.96weixin.com" style="padding-right: 5px;padding-left: 5px;white-space: normal;max-width: 100%;border-width: 1px;border-style: dashed;border-color: transparent;font-size: 14px;line-height: normal;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <section style="margin: 5px;max-width: 100%;font-family: 微软雅黑;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <section style="margin-bottom: -54px;max-width: 100%;text-align: right;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <section style="margin-right: 10px;max-width: 100%;display: inline-block;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <section style="max-width: 100%;float: left;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+      <section style="max-width: 100%;opacity: 0.85;box-sizing: border-box !important;word-wrap: break-word !important;">
+       <section style="padding-right: 5px;padding-left: 5px;max-width: 100%;width: 60px;height: 50px;display: table-cell;vertical-align: middle;color: rgb(255, 255, 255);text-align: center;background-color: rgba(211, 27, 71, 0.96);box-sizing: border-box !important;word-wrap: break-word !important;">
+        <section style="max-width: 100%;font-size: 16px;color: inherit;box-sizing: border-box !important;word-wrap: break-word !important;">
+         <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+          04
+         </strong>
+        </section>
+       </section>
+       <section style="max-width: 100%;border-top: 10px solid rgba(211, 27, 71, 0.96);border-left: 30px solid transparent;border-right: 30px solid transparent;height: 0px;width: 0px;box-sizing: border-box !important;word-wrap: break-word !important;">
+       </section>
+      </section>
+     </section>
+     <section style="max-width: 100%;border-bottom: 12px solid rgba(211, 27, 71, 0.96);border-left: 0px solid transparent;border-right: 12px solid transparent;height: 0px;width: 0px;float: left;box-sizing: border-box !important;word-wrap: break-word !important;">
+     </section>
+    </section>
+   </section>
+   <section style="padding: 50px 10px 10px;max-width: 100%;box-shadow: rgba(0, 0, 0, 0.498) 0px 0px 6px;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <section style="max-width: 100%;color: rgba(211, 27, 71, 0.96);box-sizing: border-box !important;word-wrap: break-word !important;">
+     <section style="padding-right: 10px;padding-left: 10px;max-width: 100%;word-wrap: break-word;font-size: 16px;color: inherit;box-sizing: border-box !important;">
+      <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+       新兴产业创业管理MBA项目简介
+      </strong>
+     </section>
+    </section>
+    <p style="margin-top: 20px;padding: 20px 10px;max-width: 100%;word-wrap: break-word;min-height: 1em;border-top: 1px dashed rgb(153, 153, 153);color: rgb(60, 60, 60);text-align: justify;box-sizing: border-box !important;">
+     <span style="max-width: 100%;font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+      旨在培养富有创新精神和创业意识、具有创新创业能力、深谙市场特性、洞悉行业规律、勇于投身创业实践的创新创业人才。该项目依托中心创业俱乐部的平台，帮助学生解决创业过程中的实际问题或困难。创业俱乐部将为创业者做实事，俱乐部将邀请各界长期从事创业及融资业务方面的专家为创业者提供投资、融资、上市方面的培训；定期举办主题沙龙，分享创业成功人士的宝贵经验和心路历程；帮助实现创业项目与资本对接，根据项目情况推介路演；举办创业项目一对一辅导活动，实现创业者与对应领域老总或导师间的零距离一对一交流。学生通过参与创业俱乐部的系列活动，最终实现创业创新能力的提升。
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;line-height: normal;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <span style="max-width: 100%;font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+      学制：全日制学习2年；
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;line-height: normal;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <span style="max-width: 100%;font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+      学习时间：学习时间为平时工作日；
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;line-height: normal;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <span style="max-width: 100%;font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+      学费：22.8万，分两年缴付，每年11.4万；
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;line-height: normal;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <span style="max-width: 100%;font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+      学历学位：MBA学生在规定年限内按照培养计划修满规定学分，完成硕士论文并通过学位论文答辩，经审核通过，可授予教育部统一制发的华东师范大学硕士研究生毕业证书和工商管理硕士(MBA)专业学位证书。
+     </span>
+    </p>
+   </section>
+  </section>
+ </section>
+ <section data-source="bj.96weixin.com" style="padding-right: 5px;padding-left: 5px;white-space: normal;max-width: 100%;border-width: 1px;border-style: dashed;border-color: transparent;font-size: 14px;line-height: normal;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <section style="margin: 5px;max-width: 100%;font-family: 微软雅黑;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <section style="margin-bottom: -54px;max-width: 100%;text-align: right;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <section style="margin-right: 10px;max-width: 100%;display: inline-block;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <section style="max-width: 100%;float: left;background-color: rgb(255, 255, 255);box-sizing: border-box !important;word-wrap: break-word !important;">
+      <section style="max-width: 100%;opacity: 0.85;box-sizing: border-box !important;word-wrap: break-word !important;">
+       <section style="padding-right: 5px;padding-left: 5px;max-width: 100%;width: 60px;height: 50px;display: table-cell;vertical-align: middle;color: rgb(255, 255, 255);text-align: center;background-color: rgba(211, 27, 71, 0.96);box-sizing: border-box !important;word-wrap: break-word !important;">
+        <section style="max-width: 100%;font-size: 16px;color: inherit;box-sizing: border-box !important;word-wrap: break-word !important;">
+         <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+          05
+         </strong>
+        </section>
+       </section>
+       <section style="max-width: 100%;border-top: 10px solid rgba(211, 27, 71, 0.96);border-left: 30px solid transparent;border-right: 30px solid transparent;height: 0px;width: 0px;box-sizing: border-box !important;word-wrap: break-word !important;">
+       </section>
+      </section>
+     </section>
+     <section style="max-width: 100%;border-bottom: 12px solid rgba(211, 27, 71, 0.96);border-left: 0px solid transparent;border-right: 12px solid transparent;height: 0px;width: 0px;float: left;box-sizing: border-box !important;word-wrap: break-word !important;">
+     </section>
+    </section>
+   </section>
+   <section style="padding: 50px 10px 10px;max-width: 100%;box-shadow: rgba(0, 0, 0, 0.498) 0px 0px 6px;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <section style="max-width: 100%;color: rgba(211, 27, 71, 0.96);box-sizing: border-box !important;word-wrap: break-word !important;">
+     <section style="padding-right: 10px;padding-left: 10px;max-width: 100%;word-wrap: break-word;font-size: 16px;color: inherit;box-sizing: border-box !important;">
+      <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+       通用管理MBA项目简介
+      </strong>
+     </section>
+    </section>
+    <p style="margin-top: 20px;padding: 20px 10px;max-width: 100%;word-wrap: break-word;min-height: 1em;border-top: 1px dashed rgb(153, 153, 153);color: rgb(60, 60, 60);text-align: justify;box-sizing: border-box !important;">
+     <span style="max-width: 100%;font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+      旨在培养通晓管理知识模块（管理实务与综合运用、人力资源管理实务与综合运用、金融与财务分析、经济决策学与领导力发展和人文素养与管理智慧）、具有丰富管理经验的职业经理人。
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <span style="max-width: 100%;font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+      学制：非全日制学习2.5年，全日制学习2年；
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <span style="max-width: 100%;font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+      学习时间：非全日制学习时间为一个工作日晚上+周末一天，全日制学习时间为平时工作日；
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <span style="max-width: 100%;font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+      学费：非全日制22.8万，分三年缴付，第一年9.4万，第二年9.4万和最后一年4万；全日制22.8万，分两年缴付，每年11.4万；
+     </span>
+    </p>
+    <p style="max-width: 100%;min-height: 1em;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <span style="max-width: 100%;font-size: 12px;box-sizing: border-box !important;word-wrap: break-word !important;">
+      学历学位：MBA学生在规定年限内按照培养计划修满规定学分，完成硕士论文并通过学位论文答辩，经审核通过，可授予教育部统一制发的华东师范大学硕士研究生毕业证书和工商管理硕士(MBA)专业学位证书。
+     </span>
+    </p>
+   </section>
+  </section>
+ </section>
+ <p style="white-space: normal;">
+  <span style="font-size: 12px;">
+   <strong>
+    <span style="color: rgb(255, 0, 0);">
+     *学费信息以当年研究生院发布为准。
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="white-space: normal;max-width: 100%;min-height: 1em;line-height: 25.6px;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(255, 0, 0);font-size: 20px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <span style="max-width: 100%;line-height: 25.6px;background-color: rgb(255, 251, 0);box-sizing: border-box !important;word-wrap: break-word !important;">
+     华东师范大学简介
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="white-space: normal;max-width: 100%;min-height: 1em;line-height: 25.6px;text-align: justify;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;font-size: 14px;line-height: 25.6px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   华东师范大学是由国家举办，教育部主管，教育部与上海市人民政府重点共建的综合性研究型大学。学校成立于1951年10月16日，是以大夏大学（1924年）、光华大学（1925年）为基础，同时调进复旦大学、同济大学、浙江大学和圣约翰大学等高校的部分系科，在大夏大学原址上创办的。1959年学校被中共中央确定为全国16所重点院校之一。1972年与上海师范学院、上海体育学院等院校合并，改名上海师范大学。1978年学校再次被确认为全国重点大学。1980年恢复华东师范大学校名。1986年学校被国务院批准成为设立研究生院的33所高等院校之一。1996年被列入
+   <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <span style="max-width: 100%;line-height: 25.6px;color: rgb(255, 0, 0);background-color: rgb(255, 251, 0);box-sizing: border-box !important;word-wrap: break-word !important;">
+     "211工程"
+    </span>
+   </strong>
+   国家重点建设大学行列。1997、1998年，上海幼儿师范高等专科学校、上海教育学院和上海第二教育学院先后并入。2002年根据上海市高校布局结构调整的战略部署，启动闵行校区规划建设，2006年学校主体搬迁到闵行校区，形成了"一校两区、联动发展"的办学格局。2006年教育部和上海市决定重点共建华东师范大学，学校进入国家
+   <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <span style="max-width: 100%;line-height: 25.6px;color: rgb(255, 0, 0);background-color: rgb(255, 251, 0);box-sizing: border-box !important;word-wrap: break-word !important;">
+     "985工程"
+    </span>
+   </strong>
+   高校行列。
+  </span>
+  <span style="font-size: 14px;">
+   2017年学校进入
+   <strong>
+    <span style="background-color: rgb(255, 251, 0);color: rgb(255, 0, 0);">
+     世界一流大学A类建设高校行列
+    </span>
+   </strong>
+   ，全面开启建设中国特色世界一流大学的新征程。
+  </span>
+ </p>
+ <p style="white-space: normal;max-width: 100%;min-height: 1em;line-height: 25.6px;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <img data-copyright="0" data-ratio="1.01875" data-s="300,640" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicupcu0ay4bbu6JPW6NwpkrS3TIgG7Basm0gOHAhsgUNlBxjxytEWCe1sYqsYGu0n311h6wCFYzxuQ/640?wx_fmt=jpeg"/>
+ </p>

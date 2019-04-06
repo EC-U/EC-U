@@ -1,0 +1,509 @@
+
+ <section style="padding-right: 10px;padding-left: 10px;font-size: 15px;line-height: 1.8;box-sizing: border-box;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-right: 0%;margin-left: 0%;transform: translate3d(0px, 0px, 0px);text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);box-shadow: rgb(165, 164, 164) 0.707107px 0.707107px 4px;padding: 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.5462795" data-type="jpeg" data-w="551" src="https://mmbiz.qpic.cn/mmbiz_jpg/82wlmOERcicvZhQZ2cfiamsGuh4jwxwaNmEwJgsfgHaQibRu3ZY9rRpdGqgWaLgAewIb0fTX6R9kQJDV9h90ic7D5g/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section class="group-empty" style="display: inline-block;vertical-align: top;width: 20%;box-sizing: border-box;height: 1px;">
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 80%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: -35px;margin-right: 0%;margin-left: 0%;transform: translate3d(-30px, 0px, 0px);box-sizing: border-box;">
+          <section style="width: 100%;background: -webkit-linear-gradient(left, rgb(206, 169, 203), rgba(255, 247, 234, 0)) rgb(4, 112, 193);box-sizing: border-box;">
+           <section style="padding: 5px;border-width: 0px;border-radius: 6px;border-style: none;border-color: rgb(62, 62, 62);box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+            <section powered-by="xiumi.us" style="box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              <section style="color: rgb(255, 255, 255);letter-spacing: 2px;line-height: 2;font-size: 14px;box-sizing: border-box;">
+               <p style="box-sizing: border-box;">
+                <strong style="box-sizing: border-box;">
+                 马烈创新创业中心
+                </strong>
+               </p>
+               <p style="box-sizing: border-box;">
+                <strong style="box-sizing: border-box;">
+                 《创业与融资、上市》系列讲座
+                </strong>
+               </p>
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: -20px;margin-right: 0%;margin-left: 0%;line-height: 0.8;box-sizing: border-box;">
+          <section style="width: 0px;display: inline-block;border-top: 0.8em solid rgb(39, 139, 196);border-left: 0.7em solid transparent !important;border-right: 0.7em solid transparent !important;box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 7px;margin-right: 0%;margin-left: 0%;line-height: 0.8;transform: translate3d(-32px, 0px, 0px);box-sizing: border-box;">
+          <section style="width: 0px;display: inline-block;border-top: 0.8em solid rgb(77, 114, 176);border-left: 0.7em solid transparent !important;border-right: 0.7em solid transparent !important;box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 25px 0% 2px;box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;color: rgb(89, 85, 85);letter-spacing: 2px;line-height: 2;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         为鼓励创新创业，为2019年“马烈杯” MBA创业大赛进行前期指导及商业计划书写作辅导，华东师范大学经管学部专业学位教育中心“马烈创新创业中心”特开设《创业与融资、上市》系列讲座。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0% 2px;box-sizing: border-box;">
+       <section style="text-align: justify;line-height: 2;letter-spacing: 2px;font-size: 14px;color: rgb(89, 85, 85);box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         此次讲座旨在丰富专业学位教育中心学生及校友对创业各个阶段的认识，提高学生及校友创业方案向创业实践转化、创业项目向成功企业转化的能力。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 20px 0%;box-sizing: border-box;">
+       <section style="width: 100%;height: 1.8em;padding-top: 0.9em;box-sizing: border-box;">
+        <section style="padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+         <section style="border-bottom: 1px solid rgb(160, 160, 160);width: 100%;box-sizing: border-box;">
+         </section>
+         <section style="margin-top: -3px;box-sizing: border-box;">
+          <section style="float: left;width: 5px;height: 5px;margin-left: -5px;border-radius: 100%;background-color: rgb(160, 160, 160);box-sizing: border-box;">
+          </section>
+          <section style="float: right;width: 5px;height: 5px;margin-right: -5px;border-radius: 100%;background-color: rgb(160, 160, 160);box-sizing: border-box;">
+          </section>
+          <section style="clear: both;box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+        <section style="border-radius: 1em;display: inline-block;vertical-align: top;background: -webkit-linear-gradient(right, rgb(206, 169, 203), rgba(255, 247, 234, 0)) rgb(45, 178, 234);height: 1.8em;line-height: 1.8em;padding-left: 12px;padding-right: 12px;color: rgb(255, 255, 255);margin-top: -1em;letter-spacing: 3px;box-sizing: border-box;">
+         <p style="box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           讲座活动预告
+          </strong>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 35px 0% 15px;box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;color: rgb(89, 85, 85);letter-spacing: 2px;padding-right: 5px;padding-left: 5px;line-height: 2;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(4, 112, 193);box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           主讲人：
+          </strong>
+         </span>
+         <strong style="box-sizing: border-box;">
+          潘鸿
+         </strong>
+         上海石滴投资管理公司董事长
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 15px 0%;box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;color: rgb(89, 85, 85);letter-spacing: 2px;line-height: 2;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(4, 112, 193);box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           时间：
+          </strong>
+         </span>
+         讲座共4次，2019年2月24日、3月3日、3月10日、3月17日（周日）13:50-16:50
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 15px 0%;box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;color: rgb(89, 85, 85);letter-spacing: 2px;line-height: 2;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(4, 112, 193);box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           地点：
+          </strong>
+         </span>
+         华东师大中北校区中北三馆333
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 25px 0% 20px;padding-left: 0.5em;padding-right: 0.5em;box-sizing: border-box;">
+       <section style="box-sizing: border-box;width: 45%;box-shadow: rgb(102, 102, 102) 2.82843px 2.82843px 7px;height: auto !important;display: inline-block;line-height: 0;border-color: white;">
+        <img class="raw-image" data-ratio="0.7942387" data-type="png" data-w="486" src="https://mmbiz.qpic.cn/mmbiz_png/82wlmOERcicvZhQZ2cfiamsGuh4jwxwaNmag2s0fsmVhaDaEMmn5v3aT8NeZZCZCiaLLjbcoGKGw34Aj4w6c8tFOw/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 15px 0%;box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;color: rgb(89, 85, 85);letter-spacing: 2px;line-height: 2;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(4, 112, 193);box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           嘉宾简介：
+          </strong>
+         </span>
+         <strong style="box-sizing: border-box;">
+          潘鸿博士，
+         </strong>
+         上海交通大学管理科学博士后，上海交通大学企业管理博士，复旦大学经济学硕士。曾先后担任温商创业投资有限公司总经理、上海融天资产管理有限公司总经理、深圳达晨创业投资有限公司上海公司（上海锡泉投资有限公司）常务副总经理、上海共同创业投资有限公司副总经理，岳阳宇航新材料有限公司董事长。从事投资十多年，成功投资过同洲电子（已上市002052），拓维信息（已上市002261），兰州海默仪器（已上市300084），其他包括中外合资企业合计数十家，投资总金额约5亿元，在投资领域积累了丰富的经验。现任中国浦东干部学院特聘讲师，主讲创业投资，多次给各省直机关局级领导讲课；多次在各高校、各地开发区、企业家论坛主讲创业投资。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 15px 0%;box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;color: rgb(89, 85, 85);letter-spacing: 2px;line-height: 2;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         <span style="color: rgb(4, 112, 193);box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           面向对象：
+          </strong>
+         </span>
+         华东师范大学经济与管理学部专业学位教育中心全体在读学生及校友
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;box-sizing: border-box;">
+       <section style='display: inline-block;width: 300px;height: 60px;vertical-align: top;overflow: hidden;background-position: 50% 50%;background-repeat: no-repeat;background-size: contain;background-attachment: scroll;box-shadow: rgb(0, 0, 0) 0px 0px 0px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/82wlmOERcicvZhQZ2cfiamsGuh4jwxwaNmHBydL2hStTSOMjB6BDVYKic4VFLorm2fyGPtTVFtuCl6bTzYS4Avzsg/640?wx_fmt=png");box-sizing: border-box;'>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 15px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="color: rgb(4, 112, 193);line-height: 1.4;letter-spacing: 2px;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             对于MBA2018级3班
+            </strong>
+           </p>
+           <p style="box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             （新兴产业创业管理项目班）
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 25px 0% 15px;box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;color: rgb(89, 85, 85);letter-spacing: 2px;line-height: 2;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         1.《创业与融资、上市》系列讲座纳入课程
+         <strong style="box-sizing: border-box;">
+          必修学分体系
+         </strong>
+         ，学生参加四次课程讲座（缺课不能超过1次），每人独立提交商业计划书并评审合格，可获得必修课程学分。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 15px 0%;box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;color: rgb(89, 85, 85);letter-spacing: 2px;line-height: 2;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         2.无须报名，讲座提前10分钟到现场，签到入场。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 15px 0%;box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;color: rgb(89, 85, 85);letter-spacing: 2px;line-height: 2;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         3.3月24日前提交商业计划书。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 15px 0%;box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;color: rgb(89, 85, 85);letter-spacing: 2px;line-height: 2;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         4.商业计划书可同时作为创业大赛计划书提交，参加“马烈杯” MBA创业大赛，大赛获奖者颁发证书并发放奖金。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;box-sizing: border-box;">
+       <section style='display: inline-block;width: 300px;height: 60px;vertical-align: top;overflow: hidden;background-position: 50% 50%;background-repeat: no-repeat;background-size: contain;background-attachment: scroll;box-shadow: rgb(0, 0, 0) 0px 0px 0px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/82wlmOERcicvZhQZ2cfiamsGuh4jwxwaNmHBydL2hStTSOMjB6BDVYKic4VFLorm2fyGPtTVFtuCl6bTzYS4Avzsg/640?wx_fmt=png");box-sizing: border-box;'>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 20px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="color: rgb(4, 112, 193);line-height: 1.4;letter-spacing: 2px;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             对于MBA其他班级在读学生
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 25px 0% 15px;box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;color: rgb(89, 85, 85);letter-spacing: 2px;line-height: 2;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         1.《创业与融资、上市》系列讲座纳入
+         <strong style="box-sizing: border-box;">
+          实践学分体系
+         </strong>
+         ，学生参加四次讲座（缺课不能超过1次），提交商业计划书并评审合格，可获得1个选修实践学分。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 15px 0%;box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;color: rgb(89, 85, 85);letter-spacing: 2px;line-height: 2;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         2.须2月22日前提交讲座报名申请，讲座提前10分钟到现场，签到入场。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 15px 0%;box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;color: rgb(89, 85, 85);letter-spacing: 2px;line-height: 2;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         3.3月24日前提交商业计划书。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 15px 0%;box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;color: rgb(89, 85, 85);letter-spacing: 2px;line-height: 2;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         4.商业计划书可同时作为创业大赛计划书提交，参加“马烈杯” MBA创业大赛，大赛将向获奖者颁发证书并发放奖金。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;box-sizing: border-box;">
+       <section style='display: inline-block;width: 300px;height: 60px;vertical-align: top;overflow: hidden;background-position: 50% 50%;background-repeat: no-repeat;background-size: contain;background-attachment: scroll;box-shadow: rgb(0, 0, 0) 0px 0px 0px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/82wlmOERcicvZhQZ2cfiamsGuh4jwxwaNmHBydL2hStTSOMjB6BDVYKic4VFLorm2fyGPtTVFtuCl6bTzYS4Avzsg/640?wx_fmt=png");box-sizing: border-box;'>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 15px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="color: rgb(4, 112, 193);line-height: 1.4;letter-spacing: 2px;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             对于专业学位教育中心
+            </strong>
+           </p>
+           <p style="box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             其他专业学生及校友
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 25px 0% 15px;box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;color: rgb(89, 85, 85);letter-spacing: 2px;line-height: 2;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         1.参加《创业与融资、上市》四次讲座（缺课不能超过1次），提交商业计划书并评审合格，可获得《创业与融资、上市》
+         <strong style="box-sizing: border-box;">
+          培训课程结业证书
+         </strong>
+         。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 15px 0%;box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;color: rgb(89, 85, 85);letter-spacing: 2px;line-height: 2;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         2.须2月22日前提交讲座报名申请，讲座提前10分钟到现场，签到入场。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 15px 0%;box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;color: rgb(89, 85, 85);letter-spacing: 2px;line-height: 2;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         3.3月24日前提交商业计划书。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 15px 0%;box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;color: rgb(89, 85, 85);letter-spacing: 2px;line-height: 2;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         4.商业计划书可同时作为创业大赛计划书提交，参加“马烈杯” MBA创业大赛，大赛获奖者颁发证书并发放奖金。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 15px 0% 30px;box-sizing: border-box;">
+       <section style="font-size: 14px;color: rgb(4, 112, 193);letter-spacing: 2px;line-height: 2;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          欢迎创业达人们报名
+         </strong>
+         <strong style="box-sizing: border-box;">
+          参加
+         </strong>
+        </p>
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          《创业与融资、上市》系列讲座
+         </strong>
+        </p>
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          及2019年“马烈杯” MBA创业大赛！
+         </strong>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 20px 0%;box-sizing: border-box;">
+       <section style="width: 100%;height: 1.8em;padding-top: 0.9em;box-sizing: border-box;">
+        <section style="padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+         <section style="border-bottom: 1px solid rgb(160, 160, 160);width: 100%;box-sizing: border-box;">
+         </section>
+         <section style="margin-top: -3px;box-sizing: border-box;">
+          <section style="float: left;width: 5px;height: 5px;margin-left: -5px;border-radius: 100%;background-color: rgb(160, 160, 160);box-sizing: border-box;">
+          </section>
+          <section style="float: right;width: 5px;height: 5px;margin-right: -5px;border-radius: 100%;background-color: rgb(160, 160, 160);box-sizing: border-box;">
+          </section>
+          <section style="clear: both;box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+        <section style="border-radius: 1em;display: inline-block;vertical-align: top;background: -webkit-linear-gradient(right, rgb(206, 169, 203), rgba(255, 247, 234, 0)) rgb(45, 178, 234);height: 1.8em;line-height: 1.8em;padding-left: 12px;padding-right: 12px;color: rgb(255, 255, 255);margin-top: -1em;letter-spacing: 3px;box-sizing: border-box;">
+         <p style="box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           联系人
+          </strong>
+         </p>
+         <p style="box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 35px 0% 15px;box-sizing: border-box;">
+       <section style="text-align: justify;font-size: 14px;color: rgb(89, 85, 85);letter-spacing: 2px;line-height: 2;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         王老师、蔡老师 021-32526439
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 20px 0%;box-sizing: border-box;">
+       <section style="width: 100%;height: 1.8em;padding-top: 0.9em;box-sizing: border-box;">
+        <section style="padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+         <section style="border-bottom: 1px solid rgb(160, 160, 160);width: 100%;box-sizing: border-box;">
+         </section>
+         <section style="margin-top: -3px;box-sizing: border-box;">
+          <section style="float: left;width: 5px;height: 5px;margin-left: -5px;border-radius: 100%;background-color: rgb(160, 160, 160);box-sizing: border-box;">
+          </section>
+          <section style="float: right;width: 5px;height: 5px;margin-right: -5px;border-radius: 100%;background-color: rgb(160, 160, 160);box-sizing: border-box;">
+          </section>
+          <section style="clear: both;box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+        <section style="border-radius: 1em;display: inline-block;vertical-align: top;background: -webkit-linear-gradient(right, rgb(206, 169, 203), rgba(255, 247, 234, 0)) rgb(45, 178, 234);height: 1.8em;line-height: 1.8em;padding-left: 12px;padding-right: 12px;color: rgb(255, 255, 255);margin-top: -1em;letter-spacing: 3px;box-sizing: border-box;">
+         <p style="box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           报名方式
+          </strong>
+         </p>
+         <p style="box-sizing: border-box;">
+          <br/>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 35px 0% 15px;box-sizing: border-box;">
+       <section style="font-size: 12px;color: rgb(89, 85, 85);letter-spacing: 2px;line-height: 2;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         请扫描以下二维码提交
+        </p>
+        <p style="box-sizing: border-box;">
+         《创业与融资、上市》系列讲座报名申请！
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 15px 0% 30px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 35%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="1" data-type="png" data-w="198" src="https://mmbiz.qpic.cn/mmbiz_png/82wlmOERcicvZhQZ2cfiamsGuh4jwxwaNmhSGI2iagwLTGQUm8aia8aTaNnF3RWRuW5ibPFe3Jev5TwskibONmfFFJEw/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 35px 0% 15px;box-sizing: border-box;">
+       <section style="font-size: 14px;color: rgb(89, 85, 85);letter-spacing: 2px;line-height: 2;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         请点击“阅读原文”查看并报名参加
+        </p>
+        <p style="box-sizing: border-box;">
+         2019年“马烈杯” MBA创业大赛！
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 30px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+    <section style="text-align: center;font-size: 12px;color: rgb(160, 160, 160);letter-spacing: 1px;line-height: 2;box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      来源丨学生事务部
+     </p>
+     <p style="box-sizing: border-box;">
+      文丨蔡欣利
+     </p>
+     <p style="box-sizing: border-box;">
+      编辑丨张晨蕊
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="1.0297806" data-type="png" data-w="638" src="https://mmbiz.qpic.cn/mmbiz_png/82wlmOERcicvZhQZ2cfiamsGuh4jwxwaNmSjjK3sRCLHxQ83kuObKLH2oBiaN2PttuHCUSaWToQnm2Gxdic3UCP5Vg/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+ </section>

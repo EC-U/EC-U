@@ -1,0 +1,163 @@
+
+ <p>
+  <br/>
+ </p>
+ <section class="row tn-board-head" ng-show="displaySystemTitle" style="box-sizing: border-box;clear: none;display: block;margin-left: -15px;margin-right: -15px;">
+  <hr style="border-width: 1px 0px 0px;border-style: solid none none;border-color: rgb(238, 238, 238) rgb(51, 51, 51) rgb(51, 51, 51);margin: 20px 21px;height: 0px;box-sizing: content-box;"/>
+ </section>
+ <section class="row tn-article-body" ng-show="isReady" style="box-sizing: border-box;clear: none;display: block;margin-left: -15px;margin-right: -15px;" tn-atom-context="{ type: 'paper', inReader: true, animationEnabled: false }" tn-opera-house="{ gesture: false }">
+  <article class="tn-cube-box" ng-show="!!htmlForPreview" style="box-sizing: border-box;display: block;">
+   <p>
+    <br/>
+   </p>
+   <section class="ng-scope" style="background-color: rgb(255, 255, 255);box-sizing: border-box;display: block;">
+    <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+     <section style="box-sizing: border-box;display: block;margin-bottom: 10px;margin-top: 10px;text-align: center;">
+      <section style="box-sizing: border-box;display: inline-block;max-width: 710px;overflow: hidden;vertical-align: middle;width: 177.5px;">
+       <img data-ratio="0.9083333" data-type="png" data-w="120" src="https://mmbiz.qpic.cn/mmbiz_png/AibYjglW8CFdoKtXS99Pz4Iv4AjfNLafv75SOtnglGVReTJvKicndYZn51w9HTnGgNuxaic9zMzbiatib2d4loHWm3g/640?wx_fmt=png" style="border: 0px rgb(62, 62, 62);width: 177.5px;vertical-align: middle;max-width: 177.5px;box-sizing: border-box;" width="100%"/>
+      </section>
+     </section>
+    </section>
+    <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+     <section style="box-sizing: border-box;display: block;">
+      <section style="box-sizing: border-box;display: block;">
+       <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;text-align: center;">
+        又是风起
+        <br style="box-sizing: border-box;"/>
+       </p>
+       <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;text-align: center;">
+        书协邀你
+       </p>
+       <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;text-align: center;">
+        一场美妙的书法之旅
+       </p>
+      </section>
+     </section>
+    </section>
+    <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+     <section style="box-sizing: border-box;display: block;margin-bottom: 10px;margin-top: 10px;text-align: center;">
+      <section style="box-sizing: border-box;display: inline-block;max-width: 710px;overflow: hidden;vertical-align: middle;width: 355px;">
+       <img data-ratio="0.2265625" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/AibYjglW8CFdoKtXS99Pz4Iv4AjfNLafvLzzsj1bWqx67Gib13f1u7lxjWbdiavJaKWQGozWwGLTfoGlkPf6SST2g/640?wx_fmt=png" style="border: 0px rgb(62, 62, 62);width: 355px;vertical-align: middle;max-width: 355px;box-sizing: border-box;" width="100%"/>
+      </section>
+     </section>
+    </section>
+    <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+     <section style="box-sizing: border-box;display: block;">
+      <section style="box-sizing: border-box;display: block;text-align: center;">
+       <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;">
+        <br style="box-sizing: border-box;"/>
+       </p>
+       <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;">
+        <strong style="box-sizing: border-box;font-weight: 700;">
+         本周日（4月15日）
+        </strong>
+       </p>
+       <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;">
+        <strong style="box-sizing: border-box;font-weight: 700;">
+         二教113室
+        </strong>
+       </p>
+       <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;">
+        <strong style="box-sizing: border-box;font-weight: 700;">
+         下午4：00~5：30 软笔基础班
+        </strong>
+       </p>
+       <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;">
+        <strong style="box-sizing: border-box;font-weight: 700;">
+         晚上6：30~8：00 硬笔基础班
+        </strong>
+       </p>
+       <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;">
+        <br style="box-sizing: border-box;"/>
+       </p>
+      </section>
+     </section>
+    </section>
+    <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+     <section style="box-sizing: border-box;display: block;margin-bottom: 8px;margin-left: 0px;margin-right: 0px;margin-top: 8px;text-align: center;">
+      <img data-ratio="0.0203125" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/AibYjglW8CFdoKtXS99Pz4Iv4AjfNLafvxDcn5Y2icD0OVkBtCswCrfjGgCRUURUlgaYs0z6icvIQaK7Ckt3OJ1Kg/640?wx_fmt=png" style="border: 0px rgb(62, 62, 62);width: 710px;vertical-align: baseline;max-height: 19.2px;max-width: 710px;box-sizing: border-box;" width="100%"/>
+      <section style="box-sizing: border-box;display: block;height: 9.6px;margin-bottom: 14.4px;margin-left: 350.2px;margin-right: 350.2px;margin-top: -14.4px;width: 9.6px;">
+       <section style="background-color: rgb(98, 249, 87);border-bottom-left-radius: 100%;border-bottom-right-radius: 100%;border-top-left-radius: 100%;border-top-right-radius: 100%;box-sizing: border-box;display: block;height: 9.6px;margin-left: 1px;width: 9.6px;">
+       </section>
+      </section>
+     </section>
+    </section>
+    <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+     <section style="box-sizing: border-box;display: block;">
+      <section style="box-sizing: border-box;display: block;text-align: center;">
+       <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;">
+        诸卿，看定定时间哦~
+        <br style="box-sizing: border-box;"/>
+       </p>
+       <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;">
+        同时还望及时关注群里消息
+       </p>
+       <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;">
+        以防时间地点临时变动
+       </p>
+      </section>
+     </section>
+    </section>
+    <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+     <section style="box-sizing: border-box;display: block;margin-bottom: 10px;margin-top: 10px;text-align: center;">
+      <section style="box-sizing: border-box;display: inline-block;max-width: 710px;overflow: hidden;vertical-align: middle;width: 426px;">
+       <img data-ratio="0.159375" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/AibYjglW8CFdoKtXS99Pz4Iv4AjfNLafv1z6JONWDcHEvjRzSZoia9sZKVbYLiaBEicI1iboj90x31CnWb7O6lqYj8Q/640?wx_fmt=png" style="border: 0px rgb(62, 62, 62);width: 426px;vertical-align: middle;max-width: 426px;box-sizing: border-box;" width="100%"/>
+      </section>
+     </section>
+    </section>
+    <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+     <section style="box-sizing: border-box;display: block;">
+      <section style="box-sizing: border-box;display: block;text-align: center;">
+       <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;">
+        闵行风里
+       </p>
+       <p style="box-sizing: border-box;margin-bottom: 0px;margin-left: 0px;margin-right: 0px;margin-top: 0px;padding-bottom: 0px;padding-left: 0px;padding-right: 0px;padding-top: 0px;">
+        期待你的身影
+       </p>
+      </section>
+     </section>
+    </section>
+    <section class="Powered-by-XIUMI V5" powered-by="xiumi.us" style="box-sizing: border-box;display: block;">
+     <section style="box-sizing: border-box;display: block;margin-bottom: 10px;margin-left: 0px;margin-right: 0px;margin-top: 0px;text-align: center;">
+      <section style="box-sizing: border-box;display: inline-block;max-width: 710px;overflow: hidden;vertical-align: middle;width: 213px;">
+       <img data-ratio="0.7383178" data-type="png" data-w="107" src="https://mmbiz.qpic.cn/mmbiz_png/AibYjglW8CFdoKtXS99Pz4Iv4AjfNLafvenFv677iaKic5eJhHkAD0aDq5ibNlRe5PV75wudtr8mcDlbV95GS9MkSg/640?wx_fmt=png" style="border: 0px rgb(62, 62, 62);width: 213px;vertical-align: middle;max-width: 213px;box-sizing: border-box;" width="100%"/>
+      </section>
+     </section>
+    </section>
+   </section>
+   <p>
+    <br/>
+   </p>
+  </article>
+ </section>
+ <section class="row tn-board-foot" ng-show="isReady" style="box-sizing: border-box;clear: none;color: rgb(156, 157, 159);display: block;font-size: 13px;margin-bottom: 19.5px;margin-left: -15px;margin-right: -15px;">
+  <hr style="border-width: 1px 0px 0px;border-style: solid none none;border-color: rgb(238, 238, 238) rgb(156, 157, 159) rgb(156, 157, 159);margin: 20px 19.5px;height: 0px;box-sizing: content-box;"/>
+  <p>
+   阅读
+   <span class="ng-binding" ng-bind="showInfo.hit_count | hitCountText" style="box-sizing: border-box;">
+    11
+   </span>
+  </p>
+  <p>
+   由秀米提供技术支持
+  </p>
+  <p>
+   举报
+  </p>
+ </section>
+ <p>
+  <br/>
+ </p>
+ <p>
+  <span cjk="cjk" color="color" emoji="emoji" gb="gb" helvetica="helvetica" left="left" neue="neue" none="none" normal="normal" px="px" sans="sans" sc="sc" style="display: inline !important;float: none;background-color: rgb(255, 255, 255);color: rgb(51, 51, 51);" symbol="symbol" ui="ui" yahei="yahei">
+  </span>
+ </p>
+ <section class="tn-scripts tn-last-block" style="background-color: transparent;box-sizing: border-box;color: rgb(51, 51, 51);display: block;">
+ </section>
+ <p>
+  <span cjk="cjk" color="color" emoji="emoji" gb="gb" helvetica="helvetica" left="left" neue="neue" none="none" normal="normal" px="px" sans="sans" sc="sc" style="display: inline !important;float: none;background-color: rgb(255, 255, 255);color: rgb(51, 51, 51);" symbol="symbol" ui="ui" yahei="yahei">
+  </span>
+ </p>
+ <p>
+  <br/>
+ </p>

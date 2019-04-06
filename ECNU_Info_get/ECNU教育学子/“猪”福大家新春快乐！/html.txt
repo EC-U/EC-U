@@ -1,0 +1,54 @@
+
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.1425926" data-type="png" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_png/hOFiaNE65nsDfUA9YTyFEXDwbmjsjMbHCc3CIHib0JILLCruZmTfWjicq8WqaE6DPIDJjjErnWzOTTNlQqFZsH0fw/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: center;font-size: 15px;line-height: 1.8;box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      美好伊始，新年岁首
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="box-sizing: border-box;">
+      教育学子恭祝您
+      <span style="letter-spacing: 0px;box-sizing: border-box;">
+       新春快乐
+      </span>
+     </p>
+     <p style="box-sizing: border-box;">
+      愿您快乐多有劲头，生活多有甜头
+     </p>
+     <p style="box-sizing: border-box;">
+      成功与幸福永远伴您左右
+     </p>
+     <p style="box-sizing: border-box;">
+      新的一年，一起成长！
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.3792517" data-type="jpeg" data-w="588" src="https://mmbiz.qpic.cn/mmbiz_jpg/hOFiaNE65nsDfUA9YTyFEXDwbmjsjMbHCeGPyL3cDsOiaS1wPicquKZfZicKSSnlcgoHDIGpiccpk5GdImozLM7e2Eg/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

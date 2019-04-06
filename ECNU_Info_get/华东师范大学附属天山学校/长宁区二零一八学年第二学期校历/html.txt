@@ -1,0 +1,509 @@
+
+ <table cellpadding="0" cellspacing="0" style="width: 556px;" width="624">
+  <tbody>
+   <tr style="height:34px;">
+    <td height="34" style="border-width: 1px;border-color: windowtext;padding: 0px 7px;" width="58">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;line-height:150%;">
+      <span style="font-size:19px;line-height:150%;font-family:宋体;color:#222222;">
+       周
+      </span>
+      <span style="font-size:19px;line-height:150%;font-family:宋体;color:#222222;">
+       次
+      </span>
+     </p>
+    </td>
+    <td height="34" style="border-top-width: 1px;border-right-width: 1px;border-bottom-width: 1px;border-top-color: windowtext;border-right-color: windowtext;border-bottom-color: windowtext;border-left: none;padding: 0px 7px;" width="117">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;line-height:150%;">
+      <span style="font-size:19px;line-height:150%;font-family:宋体;color:#222222;">
+       日
+      </span>
+      <span style="font-size:  19px;line-height:150%;color:#222222;">
+      </span>
+      <span style="font-size:19px;line-height:150%;font-family:宋体;color:#222222;">
+       期
+      </span>
+     </p>
+    </td>
+    <td height="34" style="border-top-width: 1px;border-right-width: 1px;border-bottom-width: 1px;border-top-color: windowtext;border-right-color: windowtext;border-bottom-color: windowtext;border-left: none;padding: 0px 7px;" width="449">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;line-height:150%;">
+      <span style="font-size:19px;line-height:150%;font-family:宋体;color:#222222;">
+       主
+      </span>
+      <span style="font-size:  19px;line-height:150%;color:#222222;">
+      </span>
+      <span style="font-size:19px;line-height:150%;font-family:宋体;color:#222222;">
+       要
+      </span>
+      <span style="font-size:  19px;line-height:150%;color:#222222;">
+      </span>
+      <span style="font-size:19px;line-height:150%;font-family:宋体;color:#222222;">
+       工
+      </span>
+      <span style="font-size:  19px;line-height:150%;color:#222222;">
+      </span>
+      <span style="font-size:19px;line-height:150%;font-family:宋体;color:#222222;">
+       作
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr style="height:25px;">
+    <td height="25" style="border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-color: windowtext;border-bottom-color: windowtext;border-left-color: windowtext;border-top: none;padding: 0px 7px;" width="58">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       1
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="117">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       2/20-2/22
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="449">
+     <p>
+      <span style="font-family:宋体;color:#222222;">
+       防近宣传周；视力检查
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr style="height:25px;">
+    <td height="25" style="border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-color: windowtext;border-bottom-color: windowtext;border-left-color: windowtext;border-top: none;padding: 0px 7px;" width="58">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       2
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="117">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       2/25-3/1
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="449">
+     <br/>
+    </td>
+   </tr>
+   <tr style="height:25px;">
+    <td height="25" style="border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-color: windowtext;border-bottom-color: windowtext;border-left-color: windowtext;border-top: none;padding: 0px 7px;" width="58">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       3
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="117">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       3/4-3/8
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="449">
+     <p>
+      <span style="font-family:宋体;color:#222222;">
+       3
+      </span>
+      <span style="font-family:宋体;color:#222222;">
+       月5日学雷锋日
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr style="height:25px;">
+    <td height="25" style="border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-color: windowtext;border-bottom-color: windowtext;border-left-color: windowtext;border-top: none;padding: 0px 7px;" width="58">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       4
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="117">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       3/11-3/15
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="449">
+     <br/>
+    </td>
+   </tr>
+   <tr style="height:25px;">
+    <td height="25" style="border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-color: windowtext;border-bottom-color: windowtext;border-left-color: windowtext;border-top: none;padding: 0px 7px;" width="58">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       5
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="117">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       3/18-3/22
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="449">
+     <p>
+      <span style="font-family:宋体;color:#222222;">
+       第34届上海市青少年科技创新大赛；3·24世界防治结核病日
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr style="height:25px;">
+    <td height="25" style="border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-color: windowtext;border-bottom-color: windowtext;border-left-color: windowtext;border-top: none;padding: 0px 7px;" width="58">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       6
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="117">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       3/25-3/29
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="449">
+     <p>
+      <span style="font-family:宋体;color:#222222;">
+       第17届上海市百万青少年争创“明日科技之星”评选活动
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr style="height:25px;">
+    <td height="25" style="border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-color: windowtext;border-bottom-color: windowtext;border-left-color: windowtext;border-top: none;padding: 0px 7px;" width="58">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       7
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="117">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       4/1-4/5
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="449">
+     <p>
+      <span style="font-family:宋体;color:#222222;">
+       “爱国卫生月”活动
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr style="height:25px;">
+    <td height="25" style="border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-color: windowtext;border-bottom-color: windowtext;border-left-color: windowtext;border-top: none;padding: 0px 7px;" width="58">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       8
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="117">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       4/8-4/12
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="449">
+     <p>
+      <span style="font-family:宋体;color:#222222;">
+       高三年级质量检测
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr style="height:25px;">
+    <td height="25" style="border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-color: windowtext;border-bottom-color: windowtext;border-left-color: windowtext;border-top: none;padding: 0px 7px;" width="58">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       9
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="117">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       4/15-4/19
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="449">
+     <p>
+      <span style="font-family:宋体;color:#222222;">
+       期中考试，初三年级质量检测
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr style="height:25px;">
+    <td height="25" style="border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-color: windowtext;border-bottom-color: windowtext;border-left-color: windowtext;border-top: none;padding: 0px 7px;" width="58">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       10
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="117">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       4/22-4/26
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="449">
+     <p>
+      <span style="font-family:宋体;color:#222222;">
+       长宁区学生书画作品展收稿；长宁区学生艺术单项比赛
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr style="height:25px;">
+    <td height="25" style="border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-color: windowtext;border-bottom-color: windowtext;border-left-color: windowtext;border-top: none;padding: 0px 7px;" width="58">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       11
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="117">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       4/29-5/3
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="449">
+     <p>
+      <span style="font-family:宋体;color:#222222;">
+       长宁区第16届学生科技节
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr style="height:25px;">
+    <td height="25" style="border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-color: windowtext;border-bottom-color: windowtext;border-left-color: windowtext;border-top: none;padding: 0px 7px;" width="58">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       12
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="117">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       5/6-5/10
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="449">
+     <p>
+      <span style="font-family:宋体;color:#222222;">
+       纪念五四运动100周年
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr style="height:25px;">
+    <td height="25" style="border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-color: windowtext;border-bottom-color: windowtext;border-left-color: windowtext;border-top: none;padding: 0px 7px;" width="58">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       13
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="117">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       5/13-5/17
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="449">
+     <br/>
+    </td>
+   </tr>
+   <tr style="height:46px;">
+    <td height="46" style="border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-color: windowtext;border-bottom-color: windowtext;border-left-color: windowtext;border-top: none;padding: 0px 7px;" width="58">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       14
+      </span>
+     </p>
+    </td>
+    <td height="46" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="117">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       5/20-5/24
+      </span>
+     </p>
+    </td>
+    <td height="46" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="449">
+     <p>
+      <span style="font-family:宋体;color:#222222;">
+       长宁区学校艺术团考核
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr style="height:25px;">
+    <td height="25" style="border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-color: windowtext;border-bottom-color: windowtext;border-left-color: windowtext;border-top: none;padding: 0px 7px;" width="58">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       15
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="117">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       5/27-5/31
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="449">
+     <p>
+      <span style="font-family:宋体;color:#222222;">
+       长宁区学校艺术团考核；“世界无烟日”宣传活动
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr style="height:25px;">
+    <td height="25" style="border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-color: windowtext;border-bottom-color: windowtext;border-left-color: windowtext;border-top: none;padding: 0px 7px;" width="58">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       16
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="117">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       6/3-6/7
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="449">
+     <p>
+      <span style="font-family:宋体;color:#222222;">
+       长宁区“六•五”环境日宣传教育活动；“爱眼日”宣传活动；视力检查
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr style="height:25px;">
+    <td height="25" style="border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-color: windowtext;border-bottom-color: windowtext;border-left-color: windowtext;border-top: none;padding: 0px 7px;" width="58">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       17
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="117">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       6/10-6/14
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="449">
+     <br/>
+    </td>
+   </tr>
+   <tr style="height:25px;">
+    <td height="25" style="border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-color: windowtext;border-bottom-color: windowtext;border-left-color: windowtext;border-top: none;padding: 0px 7px;" width="58">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       18
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="117">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       6/17-6/21
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="449">
+     <p>
+      <span style="font-family:宋体;color:#222222;">
+       期末考试（考查）
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr style="height:25px;">
+    <td height="25" style="border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-right-color: windowtext;border-bottom-color: windowtext;border-left-color: windowtext;border-top: none;padding: 0px 7px;" width="58">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       19
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="117">
+     <p style="margin-top:auto;margin-bottom:  auto;text-align:center;">
+      <span style="font-family:宋体;color:#222222;">
+       6/24-6/28
+      </span>
+     </p>
+    </td>
+    <td height="25" style="border-top: none;border-left: none;border-bottom-width: 1px;border-bottom-color: windowtext;border-right-width: 1px;border-right-color: windowtext;padding: 0px 7px;" width="449">
+     <br/>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <p style="margin-top:auto;margin-bottom:auto;text-align:left;line-height:150%;">
+  <strong>
+   <span style="font-size:15px;line-height:150%;font-family:宋体;color:#222222;">
+    备注：
+   </span>
+  </strong>
+ </p>
+ <p style="margin-top:auto;margin-bottom:auto;text-align:left;line-height:150%;">
+  <span style="line-height:150%;font-family:宋体;color:#222222;">
+   （1）本学期2019年2月20日开学，2019年6月30日结束，共19周。
+  </span>
+ </p>
+ <p style="margin-top:auto;margin-bottom:auto;text-align:left;line-height:150%;">
+  <span style="line-height:150%;font-family:宋体;color:#222222;">
+   （2）暑假2019年7月1日开始，8月31日结束。
+  </span>
+ </p>
+ <p style="margin-top:auto;margin-bottom:auto;text-align:left;line-height:150%;">
+  <span style="line-height:150%;font-family:宋体;color:#222222;">
+   （3）3月侨法宣传月。
+  </span>
+ </p>
+ <p style="margin-top:auto;margin-bottom:auto;text-align:left;line-height:150%;">
+  <span style="line-height:150%;font-family:宋体;color:#222222;">
+   （4）6月民族宗教法制宣传月，有食品安全宣传周。
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <img class="" data-copyright="0" data-ratio="0.9166666666666666" data-s="300,640" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/3najcUbhc7via5tJc5eictbibdzTT5H2FBHeRJ0icvHIENwDuU04N0codZSzspibTauAv8kicE8tianqD5Kxx9DAxZSmQ/640?wx_fmt=jpeg" style=""/>
+ </p>
+ <p style="margin-top:auto;margin-bottom:auto;text-align:left;line-height:150%;">
+  <span style="line-height:150%;font-family:宋体;color:#222222;">
+  </span>
+  <br/>
+ </p>
+ <p>
+  <br/>
+ </p>

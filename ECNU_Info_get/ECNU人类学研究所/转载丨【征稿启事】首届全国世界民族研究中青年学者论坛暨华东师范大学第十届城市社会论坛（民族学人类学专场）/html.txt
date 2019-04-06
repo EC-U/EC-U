@@ -1,0 +1,188 @@
+
+ <section class="_editor">
+  <section style="margin-top: 10px;margin-bottom: 10px;">
+   <section style="background-color: rgb(243, 0, 0);border-radius: 10px;padding: 5px;box-sizing: border-box;">
+    <p style="text-align: left;margin-left:20px;">
+     <br/>
+    </p>
+    <section style="margin-top:-10px;background-color:#fff;border-radius:10px;padding:15px 15px;transform: rotateZ(0deg);-webkit-transform: rotateZ(0deg);-moz-transform: rotateZ(0deg);-ms-transform: rotateZ(0deg);-o-transform: rotateZ(0deg);">
+     <section style="border-bottom: 1px dashed rgb(243, 79, 0);border-top-width: 1px;border-right-width: 1px;border-left-width: 1px;border-top-color: rgb(243, 79, 0);border-right-color: rgb(243, 79, 0);border-left-color: rgb(243, 79, 0);padding: 5px;box-sizing: border-box;">
+      <section style="border-style: solid;border-width: 2px;border-color: rgb(243, 0, 0);display: inline-block;border-radius: 10px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+       <p style="text-align:center;">
+        <span style="font-size: 15px;">
+         <strong>
+          <span style="font-family: 宋体;">
+           首届全国世界民族研究中青年学者论坛暨华东师范大学第十届城市社会论坛（民族学人类学专场）
+          </span>
+         </strong>
+        </span>
+       </p>
+       <p style="text-align:center;">
+        <span style="font-size: 15px;">
+         <strong>
+          <span style="font-family: 宋体;">
+           征稿启事
+          </span>
+         </strong>
+        </span>
+       </p>
+      </section>
+     </section>
+     <section class="_editor">
+      <section style="margin-top: 20px;margin-bottom: 20px;">
+       <section style="border-style: dashed;border-width: 1px;border-color: #c50000;background-color: #ffe8e8;padding: 15px;box-sizing: border-box;">
+        <section style="margin-top:-30px;">
+         <section data-width="50%" style="display:inline-block;width:50%;">
+          <section style="width:1.5em;margin-left:20px;margin-right:auto;">
+           <p>
+            <img class="" data-ratio="1.7" data-type="png" data-w="30" src="https://mmbiz.qpic.cn/mmbiz_png/Ljib4So7yuWhHeG4dvLoxYm34O9ebCiby2ltJjSDkqBQRhZYTAbyVMqEe9zWPr0jo2ib6AXnGRzyP8UTibiaiaBmLEYA/640?wx_fmt=png"/>
+           </p>
+          </section>
+         </section>
+         <section data-width="50%" style="display:inline-block;width:50%;">
+          <section style="width:1.5em;margin-left:auto;margin-right:20px;">
+           <p>
+            <img class="" data-ratio="1.7" data-type="png" data-w="30" src="https://mmbiz.qpic.cn/mmbiz_png/Ljib4So7yuWhHeG4dvLoxYm34O9ebCiby2ltJjSDkqBQRhZYTAbyVMqEe9zWPr0jo2ib6AXnGRzyP8UTibiaiaBmLEYA/640?wx_fmt=png"/>
+           </p>
+          </section>
+         </section>
+         <p style="letter-spacing: 2px;line-height: 1.75em;">
+          <span style="color: #5e5e5e;font-size: 14px;">
+           为繁荣和发展我国世界民族研究，《世界民族》杂志社倡议举办全国世界民族研究中青年学者系列论坛。经协商决定，由《世界民族》杂志社、浙江师范大学边疆研究院和华东师范大学社会发展学院联合主办，中国世界民族学会协办，华东师范大学人类学研究所承办的“首届全国世界民族研究中青年学者论坛暨华东师范大学第十届城市社会论坛（民族学人类学专场）”，拟于2019年10月中下旬在上海举行。
+          </span>
+         </p>
+         <p style="letter-spacing: 2px;line-height: 1.75em;">
+          <span style="color: #5e5e5e;font-size: 14px;">
+           <br/>
+           本届论坛旨在为相关研究者搭建交流平台，以期从新的视角或运用新的方法对相关选题进行深入探讨。兹面向学界征稿，竭诚欢迎广大中青年学者踊跃投稿。《世界民族》杂志社将组织专家对参会论文进行评选，根据论文学术质量决定参会人选。入选论文将择优在《世界民族》发表。
+          </span>
+         </p>
+         <p style="letter-spacing: 2px;line-height: 1.75em;">
+          <span style="color: #5e5e5e;font-size: 14px;">
+           <br/>
+           《世界民族》（Journal of World Peoples Studies）（曾用名《民族译丛》，1979年创刊）杂志是由中国社会科学院主管、民族学与人类学研究所主办的国内唯一刊载世界民族研究成果的中文核心期刊，创刊于1995年，截止2018年已出刊130期（双月刊），订户主要分布在亚洲、北美、欧洲、澳洲等地，为我国世界民族研究事业的发展做出了重要的贡献。
+          </span>
+         </p>
+         <p style="letter-spacing: 2px;line-height: 1.75em;">
+          <span style="color: #5e5e5e;font-size: 14px;">
+           <br/>
+           《世界民族》杂志的宗旨是研究世界，服务中国。主要栏目有：热点透视、民族学人类学理论研究、民族学人类学视野（田野调查）、多民族国家治理研究、经济社会文化广角、国际移民论坛、资料与信息等，重点刊载探讨人类世界范围内的民族现象、民族问题、民族理论、族际关系治理的国际经验和教训等方面的学术文章及有关的资料和信息。本刊在呈现“世界民族”真实图景的同时，也为世界提供“中国的视角”、“中国的理论”以及“中国的方法”，是中国社会科学院“学术走出去”富有特色的“交流窗口”“话语阵地”和“传播平台”。
+          </span>
+         </p>
+         <p style="letter-spacing: 2px;line-height: 1.75em;">
+          <span style="color: #5e5e5e;font-size: 14px;">
+           <br/>
+           <strong>
+            征稿对象：
+           </strong>
+           国内高校、科研机构50周岁以下（1969年1月1日后出生）、博士学位获得者（或副教授以上职称）的中青年学者。
+          </span>
+         </p>
+         <p style="letter-spacing: 2px;line-height: 1.75em;">
+          <span style="color: #5e5e5e;font-size: 14px;">
+           <br/>
+           <strong>
+            征稿主题：
+           </strong>
+           1.“人类命运共同体”的内涵外延及如何构建研究；2.“一带一路”国家和地区民族历史和现状研究；3.中华人民共和国成立70年来有关世界民族重大问题的研究综述；4.当前全球范围内有关民族和宗教热点问题的研究；5.国际移民问题研究；6.多民族国家民族问题治理研究；7.中国边疆及周边国家城市化进程中的跨境民族研究；8.世界各国城市化进程中的民族、族群与移民研究；9.世界海洋民族与海上族群研究；10.原住民问题研究。
+          </span>
+         </p>
+         <p style="letter-spacing: 2px;line-height: 1.75em;">
+          <span style="color: #5e5e5e;font-size: 14px;">
+           <br/>
+           <strong>
+            征稿要求：
+           </strong>
+           1.论文应为未公开发表、未他投的原创性成果。字数限制在0.8—1.2万字（不含注释）。2.论文注释体例参照《世界民族》编辑技术规范。投稿时请附作者简介（姓名、出生年月、工作单位、职称、学位）及联系方式（手机号和电子邮箱）。3.论文经评审入选后，杂志社将向作者发出参会邀请函。４.论文一经入选，《世界民族》将享有优先采用权。评审结束后，杂志社将选择比较成熟的高质量论文进入审稿流程。
+          </span>
+         </p>
+         <p style="letter-spacing: 2px;line-height: 1.75em;">
+          <span style="color: #5e5e5e;font-size: 14px;">
+           <br/>
+           <strong>
+            征稿截止及寄发邀请函时间：
+           </strong>
+           截止日期为2019年6月30日；8月20日前寄发参会邀请函。
+          </span>
+         </p>
+         <p style="letter-spacing: 2px;line-height: 1.75em;">
+          <span style="color: #5e5e5e;font-size: 14px;">
+           <br/>
+           <strong>
+            参会费用：
+           </strong>
+           住宿费及往返交通费自理。
+          </span>
+         </p>
+         <p style="letter-spacing: 2px;line-height: 1.75em;">
+          <span style="color: #5e5e5e;font-size: 14px;">
+           <br/>
+           <strong>
+            投稿邮箱：
+           </strong>
+           有意参会者请将论文word版以附件形式发至sjmzbjb＠cass.org.cn，邮件主题为“姓名＋中青年学者论坛论文”，附件标题为“姓名＋论文题目”。
+          </span>
+         </p>
+         <p style="letter-spacing: 2px;line-height: 1.75em;text-align: left;">
+          <span style="color: #5e5e5e;font-size: 14px;">
+           <br/>
+           <strong>
+            杂志社联系电话：
+           </strong>
+          </span>
+         </p>
+         <p style="letter-spacing: 2px;line-height: 1.75em;text-align: left;">
+          <span style="color: #5e5e5e;font-size: 14px;">
+           010－68932802（每周二、五）。
+          </span>
+         </p>
+         <p style="letter-spacing: 2px;line-height: 1.75em;">
+          <br/>
+         </p>
+         <p style="text-align:right;">
+          <span style="font-size: 14px;font-family: 微软雅黑, 'Microsoft YaHei';">
+           《世界民族》杂志社
+          </span>
+         </p>
+         <p style="text-align:right;">
+          <span style="font-size: 14px;font-family: 微软雅黑, 'Microsoft YaHei';">
+           2019
+           <span style="font-family: 宋体;">
+            年
+           </span>
+           1
+           <span style="font-family: 宋体;">
+            月
+           </span>
+           31
+           <span style="font-family: 宋体;">
+            日
+           </span>
+          </span>
+         </p>
+         <p style="text-align: center;">
+          <span style="font-size: 14px;font-family: 微软雅黑, 'Microsoft YaHei';">
+           <span style="font-family: 宋体;">
+            <br/>
+           </span>
+          </span>
+         </p>
+         <p style="text-align: left;">
+          <span style="font-size: 14px;font-family: 微软雅黑, 'Microsoft YaHei';">
+           <span style="font-family: 宋体;">
+            编辑说明：本文经公众号“社科期刊网”授权转发。
+            <br/>
+           </span>
+          </span>
+         </p>
+         <p style="text-align: center;">
+          <img class="" data-copyright="0" data-ratio="0.525" data-s="300,640" data-type="png" data-w="720" src="https://mmbiz.qpic.cn/mmbiz_png/5wzOkVxppZAlJCBT2AMJCpncuIKwFjGSVpbrcopLU4llnlAmrRRtE9BwxyI3a5OWDicQ2WuoicQpH3dzdTLwibCOg/640?wx_fmt=png" style=""/>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>

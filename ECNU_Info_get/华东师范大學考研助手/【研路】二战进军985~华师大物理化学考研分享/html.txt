@@ -1,0 +1,145 @@
+
+ <section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;">
+  <section class="_135editor" data-id="92255" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section data-width="100%" style="width: 100%;margin-right: auto;margin-left: auto;box-sizing: border-box;">
+    <section data-width="100%" style="width: 100%;border-width: 1px;border-style: solid;border-color: rgb(173, 218, 204);box-sizing: border-box;">
+     <section style="padding: 3px;box-sizing: border-box;">
+      <section data-bgless="spin" data-bglessp="120" data-bgopacity="10%" style="color: #3f3e3f;background:#f7fbf9;">
+       <section class="135brush" style="font-size: 14px;letter-spacing: 1px;line-height: 25px;padding: 0.5em;box-sizing: border-box;">
+        <p>
+         <span style="color: rgb(68, 68, 68);font-family: Tahoma, Simsun;">
+          决定二战，并没有经过多么强烈的思想挣扎，因为我在第一次考研之前就已想好，考不上就二战！
+         </span>
+         一旦开始认真复习，你会发现你在慢慢地变强。所以我现在要说一下我的复习计划。
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="_135editor" data-id="93340" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <section style="margin: 10px 0%;line-height: 20px;clear: both;letter-spacing: 1.5px;text-align: center;padding-left: 1em;padding-right: 1em;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: baseline;width: auto;">
+     <section>
+      <section style="display: inline-block;">
+       <section style="display: inline-block;padding: 5px 10px;color: rgb(254, 254, 254);font-weight: bold;border-top-left-radius: 3px;border-bottom-left-radius: 3px;background-color: rgb(251, 178, 178);box-sizing: border-box;">
+        <p>
+         01
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display:inline-block;vertical-align: baseline;width:auto;">
+     <section>
+      <section style="display: inline-block;">
+       <section style="display: inline-block;padding: 5px 10px;color: rgb(254, 254, 254);font-weight: bold;border-top-right-radius: 3px;border-bottom-right-radius: 3px;background-color: rgb(141, 163, 215);box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         公共课
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+   <p style="text-indent: 2em;">
+    <span style="font-size: 14px;">
+     7—8月复习两门专业课+政治英语
+    </span>
+   </p>
+   <p style="text-indent: 2em;">
+    <span style="font-size: 14px;">
+     英语：真题（看到我的英语分数，可能大家也没有必要向我学习什么经验了），在英语这门中，两年的考试准备我并没有购买任何单词书和阅读资料，我一直以为我的英语还行，所以第二年也并没有下多大功夫，就是简单地做了真题，背了真题里的单词，如果基础不好的同学千万不要这样。说实话，在考英语的考场上，我的状态并不好，没有做到轻松应对，一直在想这是自己的最后一次机会，千万不要考砸了，正是这样的心理暗示才给了自己心理压力，做题时完全不在状态。
+    </span>
+   </p>
+   <p style="text-indent: 2em;">
+    <span style="font-size: 14px;">
+     政治：我是在网上找的启航的视频，因为我很喜欢石磊老师的讲课风格，从马原到思修，全是找的石老师的视频，在很大程度上，石老师给了我许多力量。所以复习政治这门课，我认为整理能力不强的同学还是报个班或者看视频跟着老师学比较好，可以为你省去许多时间，而你可以用这些时间拿来复习专业课。（这个期间老师会为你安排好复习时间）
+    </span>
+   </p>
+   <section class="_135editor" data-id="image-77934" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <p style="text-align:center;">
+     <img class="" data-ratio="0.6671732522796353" data-type="jpeg" data-w="658" src="https://mmbiz.qpic.cn/mmbiz_jpg/HqfVjH48Ea8uYH06ahEOsoQ7EvCuqOY0SOckqtdubeoM3MhTSYcicMgkez4h4qO3d2r1thNicibWH1xBIAkGIphXw/640?wx_fmt=jpeg" title="杂志，书堆，商店，商店，摊位，货架，纸张，杂志商店，杂志商店"/>
+    </p>
+   </section>
+   <p style="text-indent: 2em;">
+    <br/>
+   </p>
+   <section class="_135editor" data-id="93340" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section style="margin: 10px 0%;line-height: 20px;clear: both;letter-spacing: 1.5px;text-align: center;padding-left: 1em;padding-right: 1em;box-sizing: border-box;">
+     <section style="display: inline-block;vertical-align: baseline;width: auto;">
+      <section>
+       <section style="display: inline-block;">
+        <section style="display: inline-block;padding: 5px 10px;color: rgb(254, 254, 254);font-weight: bold;border-top-left-radius: 3px;border-bottom-left-radius: 3px;background-color: rgb(251, 178, 178);box-sizing: border-box;">
+         <p>
+          02
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section style="display:inline-block;vertical-align: baseline;width:auto;">
+      <section>
+       <section style="display: inline-block;">
+        <section style="display: inline-block;padding: 5px 10px;color: rgb(254, 254, 254);font-weight: bold;border-top-right-radius: 3px;border-bottom-right-radius: 3px;background-color: rgb(141, 163, 215);box-sizing: border-box;">
+         <p style="box-sizing: border-box;">
+          专业课
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      物化：资料（傅献彩版本的上下册+习题，我还看了沈文霞主编的习题+真题）7-8月，复习课本，练习课后题，每道题都弄懂，不考的题型暂时先不看；9月份，将傅献彩的习题册前面的知识点、例题、自我测评做一遍（不翻书），每天看物化笔记；10月份，开始做真题，大概两天一份，第一天上午或者下午做，第二天根据买到的仅有的少部分答案对一下，再将不会的进行汇总，有的和我二战的同学商量，有的通过查阅资料自己思考；11月份，买了沈文霞的习题书，这个看的有点迟，我给自己规定一个月练完，每天看固定的页数，按时完成，如果当天未完成，第二天我会完成双倍的。真题这个月几乎没怎么看，只是将难的题目稍微复习；12月份，查缺补漏，重点是笔记，笔记中记了每章的重难点，复习笔记只看这些。所以其实我的真题就做了一遍，但是并不是做了一遍就扔到一边，而是我会定期查看真题中自己不擅长的题目，一直保持一种真题的感觉。
+     </span>
+    </p>
+    <p style="text-indent: 2em;">
+     <span style="font-size: 14px;">
+      普化：资料（无机化学上册宋天佑版+习题册，普通化学原理+习题册）7-8月，复习无机化学上册，做课后题，练习习题册中相应的题目。其实普通化学原理我并没有看，但是如果大家有时间还是做一下题目比较好，因为可能会有原题以及比较好的题目，有助于你举一反三；9月，由于租房问题，暂停学习普化；10月，开始真题，可能是好久没看普化，做起真题来不太顺手，所以我花了两天时间复习笔记，然后也是每两天做一份普化真题，第一天做，第二天对答案+总结题目；11月，复习笔记，每天会看真题中不会的题目；12月，复习笔记。所以，笔记其实是个很重要的资料，要学会记笔记，考试的时候我就只带了自己的笔记，别的什么也没带，这是干货。
+     </span>
+    </p>
+    <p style="text-indent: 2em;">
+     <br/>
+    </p>
+   </section>
+   <section class="_135editor" data-id="92230" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section class="_135editor" data-color="#c6c6c7" data-custom="#c6c6c7" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section style="margin-right: auto;margin-left: auto;">
+      <section data-width="95%" style="width: 95%;margin-right: auto;margin-left: auto;">
+       <section data-width="100%" style="width: 100%;">
+        <section style="width: 50px;height: 50px;border-top: 1px solid rgb(198, 198, 199);border-left: 1px solid rgb(198, 198, 199);margin-left: -2px;box-sizing: border-box;">
+        </section>
+       </section>
+       <section class="135brush" style="background-color: rgb(246, 246, 246);padding: 10px;margin-top: -48px;margin-bottom: -48px;line-height: 28px;transform: translateZ(10px);">
+        <p style="text-indent: 2em;">
+         <span style="font-size: 14px;">
+          我只想说，在考研初试这条路上，参考书目和资料的准备是一方面，但是最重要的还是自己要坚持，坚持并不是说从开始到最后你去参加考试了，而是无论你遇到什么挫折和打击，都是保持和原来一样的心境，你可以很快地将自己调整过来，继续向着目标前进。
+         </span>
+        </p>
+       </section>
+       <section data-width="100%" style="width: 100%;display: flex;display: -webkit-flex;justify-content: flex-end;-webkit-justify-content: flex-end;">
+        <section style="width: 50px;height: 50px;float: right;border-bottom: 1px solid rgb(198, 198, 199);border-right: 1px solid rgb(198, 198, 199);margin-right: -2px;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+     <p>
+      <br/>
+     </p>
+    </section>
+   </section>
+   <p style="text-align: center;">
+    <img class="" data-copyright="0" data-ratio="0.6041666666666666" data-s="300,640" data-type="jpeg" data-w="480" src="https://mmbiz.qpic.cn/mmbiz_jpg/HqfVjH48Ea9x26JJRku7MRCOB4gPOVWCFWfqNCzUArUkmRVn2nTMiaic3aMeJFHmVvbs3nfrKx7lltHY1EhQD6dQ/640?wx_fmt=jpeg" style=""/>
+   </p>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

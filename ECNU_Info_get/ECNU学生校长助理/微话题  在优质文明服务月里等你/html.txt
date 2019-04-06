@@ -1,0 +1,1528 @@
+
+ <section class="xmteditor" data-label="powered by xmt.cn" data-tools="新媒体管家" style="display:none;">
+ </section>
+ <section style="box-sizing: border-box;">
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="line-height: 1.5;color: rgb(124, 122, 122);letter-spacing: 0.5px;box-sizing: border-box;">
+     <p style="text-align: center;box-sizing: border-box;line-height: 2em;">
+      <span style="font-size: 14px;">
+      </span>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;font-family:微软雅黑;">
+   <section data-role="outer" label="Powered by 135editor.com">
+    <section class="_135editor" style="font-family: Helvetica, Arial, sans-serif;font-size: medium;white-space: normal;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section>
+      <section style="line-height: 1.5;color: #7c7a7a;letter-spacing: 0.5px;">
+       <p style="text-align: center;">
+        <br/>
+       </p>
+       <p style="text-align: center;line-height: 2em;">
+        <span style="font-size: 14px;">
+         提起学校的后勤
+        </span>
+        <br/>
+       </p>
+      </section>
+     </section>
+    </section>
+    <section class="_135editor" style="font-family: Helvetica, Arial, sans-serif;font-size: medium;white-space: normal;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section>
+      <section style="color: #7c7a7a;letter-spacing: 0.5px;">
+       <p style="text-align: center;line-height: 2em;">
+        <span style="font-size: 14px;">
+         你也许会想到食堂里
+         <span style="text-shadow: rgb(247, 150, 70) 2px 2px 10px;">
+          热腾腾的饭菜
+         </span>
+        </span>
+       </p>
+      </section>
+     </section>
+    </section>
+    <section class="_135editor" style="font-family: Helvetica, Arial, sans-serif;font-size: medium;white-space: normal;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section>
+      <section style="color: #7c7a7a;letter-spacing: 0.5px;">
+       <p style="text-align: center;line-height: 2em;">
+        <span style="font-size: 14px;">
+         也许会想到宿舍楼里
+         <span style="text-shadow: rgb(247, 150, 70) 2px 2px 10px;">
+          运转不停的洗衣机
+         </span>
+        </span>
+       </p>
+      </section>
+     </section>
+    </section>
+    <section class="_135editor" style="font-family: Helvetica, Arial, sans-serif;font-size: medium;white-space: normal;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section>
+      <section style="color: #7c7a7a;letter-spacing: 0.5px;">
+       <p style="text-align: center;line-height: 2em;">
+        <span style="font-size: 14px;">
+         也许会想到每日
+         <span style="text-shadow: rgb(247, 150, 70) 2px 2px 10px;">
+          辛勤工作的保洁阿姨
+         </span>
+        </span>
+       </p>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="color: rgb(124, 122, 122);letter-spacing: 0.5px;box-sizing: border-box;">
+     <p style="text-align: center;box-sizing: border-box;line-height: 2em;">
+      <span style="font-size: 14px;">
+      </span>
+     </p>
+    </section>
+   </section>
+   <br/>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="width: 2.12em;height: 2.12em;overflow: hidden;box-sizing: border-box;">
+     <section style="width: 2.12em;border-top: 1px solid rgb(152, 152, 152);transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-o-transform: rotate(45deg);transform-origin: left top 0px;-webkit-transform-origin: left top 0px;-moz-transform-origin: left top 0px;-o-transform-origin: left top 0px;box-sizing: border-box;">
+     </section>
+     <section style="width: 1.5em;height: 1.5em;margin-top: -1px;border-left: 1px solid rgb(152, 152, 152);border-top: 1px solid rgb(152, 152, 152);box-sizing: border-box;">
+     </section>
+    </section>
+    <section style="margin: -0.5em 1em -1.5em 1.25em;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: center;color: rgb(124, 122, 122);letter-spacing: 0.5px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;line-height: 2em;">
+         <span style="font-size: 14px;">
+          小助啊还会想到
+         </span>
+        </p>
+        <p style="box-sizing: border-box;line-height: 2em;">
+         <span style="font-size: 14px;">
+          那面在同学提意见的第一天就装上去的
+         </span>
+        </p>
+        <p style="box-sizing: border-box;line-height: 2em;">
+         <span style="color: rgb(255, 167, 38);box-sizing: border-box;font-size: 14px;">
+          河东浴室的全身镜
+          <span style="color: rgb(255, 167, 38);font-size: 14px;letter-spacing: 0.5px;text-align: center;">
+           💗
+          </span>
+         </span>
+        </p>
+        <p style="box-sizing: border-box;line-height: 2em;">
+         <br/>
+        </p>
+        <p style="text-align: center;">
+         <img data-backh="291" data-backw="304" data-before-oversubscription-url="https://mmbiz.qpic.cn/mmbiz_jpg/buZW4wpYfOxS9lX5OhNyoqQYk4sQWHTWu12rn2JVibq5YwXluqRJqnsTUhHm6kicDU6mQ4tHSr9iaGufYwo6dGLcA/640?wx_fmt=jpeg" data-croporisrc="https://mmbiz.qpic.cn/mmbiz_png/buZW4wpYfOxS9lX5OhNyoqQYk4sQWHTWWMgxQgwGSWpd28UqJGZ5tiaGIF8XtSqwrhZAlyJiahf15LDlfdAuG9Kw/?wx_fmt=png" data-cropx1="0" data-cropx2="304" data-cropy1="0" data-cropy2="291" data-oversubscription-url="http://mmbiz.qpic.cn/mmbiz_jpg/buZW4wpYfOxS9lX5OhNyoqQYk4sQWHTWiaVv3COP3QGnbhNy4t4xRMftXjpjA6Qcia6v17AEOXE7icxzVB8HpuT9Q/0?wx_fmt=jpeg" data-ratio="0.9572368421052632" data-s="300,640" data-type="jpeg" data-w="304" src="https://mmbiz.qpic.cn/mmbiz_jpg/buZW4wpYfOxS9lX5OhNyoqQYk4sQWHTWiaVv3COP3QGnbhNy4t4xRMftXjpjA6Qcia6v17AEOXE7icxzVB8HpuT9Q/640?wx_fmt=jpeg" style="width: 100%;height: auto;box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;border-radius: 8px;"/>
+        </p>
+        <p style="text-align: center;">
+         <img data-backh="494" data-backw="392" data-before-oversubscription-url="https://mmbiz.qpic.cn/mmbiz_jpg/buZW4wpYfOxS9lX5OhNyoqQYk4sQWHTWmen9eWrHOAv9oRKZmibcyKSdysjadb3FpcBT5M8mVnIKequLOZ4BiaIw/?wx_fmt=jpeg" data-copyright="0" data-ratio="1.2625698324022345" data-s="300,640" data-type="jpeg" data-w="537" src="https://mmbiz.qpic.cn/mmbiz_jpg/buZW4wpYfOxS9lX5OhNyoqQYk4sQWHTWmen9eWrHOAv9oRKZmibcyKSdysjadb3FpcBT5M8mVnIKequLOZ4BiaIw/640?wx_fmt=jpeg" style="width: 100%;height: auto;box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;border-radius: 8px;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="width: 2.25em;height: 2.25em;margin-left: auto;border-right: 1px solid rgb(152, 152, 152);border-bottom: 1px solid rgb(152, 152, 152);box-sizing: border-box;">
+     <br/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="width: 2.12em;height: 2.12em;overflow: hidden;box-sizing: border-box;">
+     <section style="width: 2.12em;border-top: 1px solid rgb(152, 152, 152);transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-o-transform: rotate(45deg);transform-origin: left top 0px;-webkit-transform-origin: left top 0px;-moz-transform-origin: left top 0px;-o-transform-origin: left top 0px;box-sizing: border-box;">
+     </section>
+     <section style="width: 1.5em;height: 1.5em;margin-top: -1px;border-left: 1px solid rgb(152, 152, 152);border-top: 1px solid rgb(152, 152, 152);box-sizing: border-box;">
+      <br/>
+     </section>
+    </section>
+    <section style="margin: -0.5em 1em -1.5em 1.25em;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: center;color: rgb(124, 122, 122);letter-spacing: 0.5px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;line-height: 2em;">
+         <span style="color: rgb(255, 167, 38);box-sizing: border-box;font-size: 14px;">
+          💗
+          <span style="color: rgb(124, 122, 122);box-sizing: border-box;">
+          </span>
+         </span>
+         <span style="font-size: 14px;color: rgb(153, 153, 153);">
+          那次阿姨顺手
+         </span>
+         <span style="color: rgb(255, 167, 38);box-sizing: border-box;font-size: 14px;font-family: 宋体;">
+          帮忙洗的衣服
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+        <img data-backh="340" data-backw="300" data-before-oversubscription-url="https://mmbiz.qpic.cn/mmbiz_png/buZW4wpYfOxS9lX5OhNyoqQYk4sQWHTWp0icn9MFe7j2JoSibqPq5bcyibJicjOCpic3wsroXVhxicPZeUlYWhmWFDjg/?wx_fmt=png" data-copyright="0" data-cropselx1="0" data-cropselx2="300" data-cropsely1="0" data-cropsely2="269" data-oversubscription-url="http://mmbiz.qpic.cn/mmbiz_jpg/buZW4wpYfOwichyEkyJpT9ibw5J4nMGUFNWrOqjWlyNmE8PmYPWswCqVibSthJ5jTYMDTm8zfXUOvQtmhkqbN3iaIg/0?wx_fmt=jpeg" data-ratio="1.1333333333333333" data-type="jpeg" data-w="300" src="https://mmbiz.qpic.cn/mmbiz_jpg/buZW4wpYfOwichyEkyJpT9ibw5J4nMGUFNWrOqjWlyNmE8PmYPWswCqVibSthJ5jTYMDTm8zfXUOvQtmhkqbN3iaIg/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;width: 100%;height: auto;border-radius: 8px;box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="width: 2.25em;height: 2.25em;margin-left: auto;border-right: 1px solid rgb(152, 152, 152);border-bottom: 1px solid rgb(152, 152, 152);box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: center;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="color: rgb(124, 122, 122);white-space: normal;box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="margin: -0.5em 1em -1.5em 1.25em;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: center;color: rgb(124, 122, 122);letter-spacing: 0.5px;box-sizing: border-box;">
+           <section class="V5" powered-by="xiumi.us" style="white-space: normal;box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="color: rgb(124, 122, 122);letter-spacing: 0.5px;box-sizing: border-box;">
+              <p style="text-align: center;box-sizing: border-box;line-height: 2em;">
+               <br/>
+              </p>
+             </section>
+            </section>
+           </section>
+           <section class="V5" powered-by="xiumi.us" style="white-space: normal;box-sizing: border-box;">
+            <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+             <section style="width: 2.12em;height: 2.12em;overflow: hidden;box-sizing: border-box;">
+              <section style="width: 2.12em;border-top: 1px solid rgb(152, 152, 152);transform: rotate(45deg);transform-origin: left top 0px;box-sizing: border-box;">
+              </section>
+              <section style="margin-top: -1px;width: 1.5em;height: 1.5em;border-left: 1px solid rgb(152, 152, 152);border-top: 1px solid rgb(152, 152, 152);box-sizing: border-box;">
+              </section>
+             </section>
+             <section style="margin: -0.5em 1em -1.5em 1.25em;box-sizing: border-box;">
+              <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="box-sizing: border-box;">
+                <section style="text-align: center;color: rgb(124, 122, 122);letter-spacing: 0.5px;box-sizing: border-box;">
+                 <p style="box-sizing: border-box;line-height: 2em;">
+                  <span style="font-size: 14px;color: rgb(153, 153, 153);">
+                   那台同学刚提完意见的
+                  </span>
+                 </p>
+                 <p style="box-sizing: border-box;line-height: 2em;">
+                  <span style="color: rgb(255, 167, 38);font-size: 14px;">
+                   就更换的开水机💗
+                  </span>
+                 </p>
+                 <p style="box-sizing: border-box;line-height: 2em;">
+                  <span style="color: rgb(255, 167, 38);font-size: 14px;">
+                   <br/>
+                  </span>
+                 </p>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+           <img data-backh="340" data-backw="300" data-before-oversubscription-url="https://mmbiz.qpic.cn/mmbiz_png/buZW4wpYfOxS9lX5OhNyoqQYk4sQWHTWp0icn9MFe7j2JoSibqPq5bcyibJicjOCpic3wsroXVhxicPZeUlYWhmWFDjg/?wx_fmt=png" data-croporisrc="https://mmbiz.qpic.cn/mmbiz_png/buZW4wpYfOwichyEkyJpT9ibw5J4nMGUFN1zQKt9MiaTETtR1rxmZrt5yoOpNO1JOOiavWo4QcA3QvGhFdtSTUYBog/?wx_fmt=png" data-cropx1="0" data-cropx2="250.27692307692308" data-cropy1="0" data-cropy2="297.0153846153846" data-oversubscription-url="http://mmbiz.qpic.cn/mmbiz_jpg/buZW4wpYfOwichyEkyJpT9ibw5J4nMGUFNWrOqjWlyNmE8PmYPWswCqVibSthJ5jTYMDTm8zfXUOvQtmhkqbN3iaIg/0?wx_fmt=jpeg" data-ratio="1.188" data-type="jpeg" data-w="250" src="https://mmbiz.qpic.cn/mmbiz_jpg/buZW4wpYfOwichyEkyJpT9ibw5J4nMGUFNAkH3xlMDO7cOFRSJsLD1NNaKGLham0eL2HhUgwfSkvAcOcSko4l5vw/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;width: 498px;border-radius: 8px;box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;height: 591px;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="margin-left: auto;width: 2.25em;height: 2.25em;border-right: 1px solid rgb(152, 152, 152);border-bottom: 1px solid rgb(152, 152, 152);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="white-space: normal;box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: center;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="text-align: center;white-space: normal;box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+          <section style="margin: -0.5em 1em -1.5em 1.25em;box-sizing: border-box;">
+           <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="letter-spacing: 0.5px;box-sizing: border-box;">
+              <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+                <section style="color: rgb(124, 122, 122);width: 2.12em;height: 2.12em;overflow: hidden;box-sizing: border-box;">
+                 <section style="width: 2.12em;border-top: 1px solid rgb(152, 152, 152);transform: rotate(45deg);transform-origin: left top 0px;box-sizing: border-box;">
+                 </section>
+                 <section style="margin-top: -1px;width: 1.5em;height: 1.5em;border-left: 1px solid rgb(152, 152, 152);border-top: 1px solid rgb(152, 152, 152);box-sizing: border-box;">
+                 </section>
+                </section>
+                <section style="margin: -0.5em 1em -1.5em 1.25em;box-sizing: border-box;">
+                 <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+                  <section style="box-sizing: border-box;">
+                   <section style="box-sizing: border-box;">
+                    <p style="box-sizing: border-box;line-height: 2em;">
+                     <span style="font-size: 14px;">
+                      <span style="color:#999999;">
+                       那道被同学
+                      </span>
+                      <span style="color:#999999;">
+                       <span style="font-size: 14px;color: rgb(255, 169, 0);">
+                        点名表扬了的菜
+                       </span>
+                      </span>
+                     </span>
+                     <span style="color: rgb(255, 167, 38);font-size: 14px;">
+                      💗
+                     </span>
+                     <br/>
+                    </p>
+                   </section>
+                  </section>
+                 </section>
+                </section>
+               </section>
+              </section>
+              <p style="color: rgb(124, 122, 122);box-sizing: border-box;line-height: 2em;">
+               <br/>
+              </p>
+             </section>
+            </section>
+           </section>
+           <section class="V5" powered-by="xiumi.us" style="color: rgb(124, 122, 122);box-sizing: border-box;">
+            <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+              <img data-backh="340" data-backw="300" data-before-oversubscription-url="https://mmbiz.qpic.cn/mmbiz_png/buZW4wpYfOxS9lX5OhNyoqQYk4sQWHTWp0icn9MFe7j2JoSibqPq5bcyibJicjOCpic3wsroXVhxicPZeUlYWhmWFDjg/?wx_fmt=png" data-copyright="0" data-cropselx1="12" data-cropselx2="510" data-cropsely1="0" data-cropsely2="592" data-oversubscription-url="http://mmbiz.qpic.cn/mmbiz_jpg/buZW4wpYfOwichyEkyJpT9ibw5J4nMGUFNWrOqjWlyNmE8PmYPWswCqVibSthJ5jTYMDTm8zfXUOvQtmhkqbN3iaIg/0?wx_fmt=jpeg" data-ratio="0.7838616714697406" data-type="png" data-w="347" src="https://mmbiz.qpic.cn/mmbiz_png/buZW4wpYfOwichyEkyJpT9ibw5J4nMGUFNHl5D1T3nJNkFSdLiaCD58vnolSf0GSG8nmk6iaI1qBbKJN0at1qhLUfg/640?wx_fmt=png" style="height: 438px;vertical-align: middle;box-sizing: border-box;width: 558px;border-radius: 8px;box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;"/>
+             </section>
+            </section>
+           </section>
+          </section>
+          <section style="color: rgb(124, 122, 122);margin-left: auto;width: 2.25em;height: 2.25em;border-right: 1px solid rgb(152, 152, 152);border-bottom: 1px solid rgb(152, 152, 152);box-sizing: border-box;">
+           <br/>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <p style="color: rgb(124, 122, 122);box-sizing: border-box;">
+      <br/>
+     </p>
+     <p style="color: rgb(124, 122, 122);box-sizing: border-box;">
+      <span style="font-size: 14px;">
+       还有……
+      </span>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;padding-right: 3px;padding-left: 3px;box-sizing: border-box;">
+    <section style="height: 2em;border-left: 1px solid rgb(207, 116, 53);border-top: 1px solid rgb(207, 116, 53);border-right: 1px solid rgb(207, 116, 53);border-bottom-color: rgb(207, 116, 53);box-sizing: border-box;">
+    </section>
+    <section style="width: 6px;height: 6px;float: left;background-color: rgb(207, 116, 53);margin-left: -3px;border-radius: 100%;box-sizing: border-box;">
+    </section>
+    <section style="width: 6px;height: 6px;margin-right: -3px;background-color: rgb(207, 116, 53);float: right;border-radius: 100%;box-sizing: border-box;">
+    </section>
+    <section style="display: inline-block;vertical-align: middle;padding: 5px 10px 10px;margin-top: -2em;width: 100%;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+        <img data-ratio="0.9981481" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/buZW4wpYfOxS9lX5OhNyoqQYk4sQWHTWeXsD5khoQ0lHKIbcmIy35mZOPXalTa45UicrpgELic06VlKK45DCy7ng/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;border-radius: 8px;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="color: rgb(124, 122, 122);letter-spacing: 0.5px;box-sizing: border-box;">
+     <p style="text-align: center;box-sizing: border-box;line-height: 2em;">
+      <span style="font-size: 14px;color: rgb(153, 153, 153);">
+       他们是一直在背后
+      </span>
+     </p>
+     <p style="text-align: center;box-sizing: border-box;line-height: 2em;">
+      <span style="font-size: 14px;color: rgb(153, 153, 153);">
+       默默温暖你、支持你的人
+      </span>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: center;color: rgb(124, 122, 122);letter-spacing: 0.5px;box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br/>
+     </p>
+     <section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;font-family:微软雅黑;">
+      <section data-role="outer" label="Powered by 135editor.com">
+       <section class="_135editor" data-id="93341" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+        <section style="margin: 10px;box-sizing: border-box;">
+         <section style="width: 12px;height: 12px;float: left;padding: 1px;background-color: #ffffff;box-sizing: border-box;">
+          <section style="width: 6px;height: 6px;border-width: 1px;border-style: solid;border-color: #e1c129;border-radius: 50%;box-sizing: border-box;">
+          </section>
+         </section>
+         <section style="width: 12px;height: 12px;float: right;padding: 1px;background-color: #ffffff;box-sizing: border-box;">
+          <section style="width: 6px;height: 6px;border-width: 1px;border-style: solid;border-color: #e1c129;border-radius: 50%;margin-left: auto;box-sizing: border-box;">
+          </section>
+         </section>
+         <section style="clear: both;box-sizing: border-box;">
+         </section>
+         <section style="margin-top: -12px;margin-bottom: -12px;box-sizing: border-box;">
+          <section style="border-width: 1px;border-style: dotted;border-color: #d2d2d2;box-sizing: border-box;">
+           <section>
+            <section style="padding: 1em 0.8em;box-sizing: border-box;">
+             <section class="135brush" data-brushtype="text" style="text-align: center;font-size: 14px;color:#3f3f3f;line-height:1.75em;letter-spacing: 1.5px;text-align:justify;">
+              <p style="color: rgb(124, 122, 122);font-family: Helvetica, Arial, sans-serif;font-size: medium;letter-spacing: 0.5px;text-align: center;text-indent: 14px;">
+               <strong>
+                <span style="font-family: 宋体;font-size: 14px;color: rgb(136, 136, 136);background-color: rgb(255, 218, 169);">
+                 为了进一步提升后勤服务质量
+                </span>
+               </strong>
+              </p>
+              <p style="color: rgb(124, 122, 122);font-family: Helvetica, Arial, sans-serif;font-size: medium;letter-spacing: 0.5px;text-align: center;text-indent: 14px;">
+               <strong>
+                <span style="font-family: 宋体;font-size: 14px;color: rgb(136, 136, 136);background-color: rgb(255, 218, 169);">
+                 加强与师生之间的交流互动
+                </span>
+               </strong>
+              </p>
+              <p style="color: rgb(124, 122, 122);font-family: Helvetica, Arial, sans-serif;font-size: medium;letter-spacing: 0.5px;text-align: center;text-indent: 14px;">
+               <strong>
+                <span style="font-size: 14px;color: rgb(136, 136, 136);background-color: rgb(255, 218, 169);">
+                 <span style="font-size: 14px;background-color: rgb(255, 218, 169);color: rgb(136, 136, 136);font-family: 宋体;">
+                  后勤保障部重磅推出了
+                 </span>
+                 “
+                 <span style="font-size: 14px;background-color: rgb(255, 218, 169);color: rgb(136, 136, 136);font-family: 宋体;">
+                  优质文明服务月
+                 </span>
+                 ”
+                 <span style="font-size: 14px;background-color: rgb(255, 218, 169);color: rgb(136, 136, 136);font-family: 宋体;">
+                  主题活动
+                 </span>
+                </span>
+               </strong>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+         <section style="width: 12px;height: 12px;float: left;padding-top: 5px;padding-left: 1px;background-color: #ffffff;box-sizing: border-box;">
+          <section style="width: 6px;height: 6px;border-width: 1px;border-style: solid;border-color: #e1c129;border-radius: 50%;box-sizing: border-box;">
+          </section>
+         </section>
+         <section style="width: 12px;height: 12px;float: right;padding-right: 1px;padding-top: 5px;background-color: #ffffff;box-sizing: border-box;">
+          <section style="width: 6px;height: 6px;border-width: 1px;border-style: solid;border-color: #e1c129;margin-left: auto;border-radius: 50%;box-sizing: border-box;">
+           <br/>
+          </section>
+         </section>
+        </section>
+       </section>
+       <p>
+        <br/>
+       </p>
+       <p>
+        <br/>
+       </p>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;font-family:微软雅黑;">
+    <section data-role="outer" label="Powered by 135editor.com">
+     <section class="_135editor" data-id="93522" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <section data-width="100%" style="width:100%;text-align:center;">
+       <section style="border-width: 5px;border-style: solid;display: inline-block;box-sizing: border-box;">
+        <section class="135brush" data-brushtype="text" style="line-height: 30px;padding-right: 20px;padding-left: 20px;color: rgb(63, 63, 63);box-sizing: border-box;">
+         <p>
+          <span style="font-size: 20px;color: rgb(136, 136, 136);">
+           <strong>
+            活动安排
+           </strong>
+          </span>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+     <p>
+      <br/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="display: inline-block;width: 100%;border-width: 2px;border-style: dotted;border-color: rgb(192, 200, 209);padding: 10px;box-sizing: border-box;">
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section style="color: rgb(51, 51, 51);letter-spacing: 0.5px;line-height: 1.5;font-size: 18px;box-sizing: border-box;">
+       <p style="text-align: center;box-sizing: border-box;">
+        <strong style="box-sizing: border-box;">
+         <span style="color: rgb(255, 167, 38);box-sizing: border-box;">
+         </span>
+        </strong>
+       </p>
+       <section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;font-family:微软雅黑;">
+        <section data-role="outer" label="Powered by 135editor.com">
+         <p style="text-align: center;">
+          <span style="color: rgb(136, 136, 136);font-size: 18px;">
+           <strong>
+            <span style="text-shadow: rgb(247, 150, 70) 2px 2px 10px;color: rgb(136, 136, 136);font-family: 宋体;">
+             后勤保障部
+            </span>
+           </strong>
+          </span>
+         </p>
+         <p style="text-align: center;">
+          <span style="color: rgb(136, 136, 136);font-size: 18px;">
+           <strong>
+            <span style="text-shadow: rgb(247, 150, 70) 2px 2px 10px;color: rgb(136, 136, 136);font-family: 宋体;">
+             【为民服务一条街】
+            </span>
+           </strong>
+          </span>
+         </p>
+         <p>
+          <br/>
+         </p>
+        </section>
+       </section>
+       <p style="text-align: left;">
+        <span style="font-family: 宋体;color: rgb(136, 136, 136);font-size: 14px;">
+         主办单位：后勤保障部
+        </span>
+       </p>
+       <p style="text-align: left;">
+        <span style="font-family: 宋体;color: rgb(136, 136, 136);font-size: 14px;">
+         承办单位：后勤保障部各服务中心、社会企业
+        </span>
+       </p>
+       <p style="text-align: left;">
+        <span style="font-family: 宋体;color: rgb(136, 136, 136);font-size: 14px;">
+         活动地点：闵行校区夏雨厅广场
+        </span>
+       </p>
+       <p style="text-align: left;">
+        <span style="color: rgb(136, 136, 136);font-size: 14px;">
+         <span style="font-size: 14px;color: rgb(136, 136, 136);font-family: 宋体;">
+          活动时间：
+         </span>
+         11
+         <span style="font-size: 14px;color: rgb(136, 136, 136);font-family: 宋体;">
+          月
+         </span>
+         21
+         <span style="font-size: 14px;color: rgb(136, 136, 136);font-family: 宋体;">
+          日9:30-12:30
+         </span>
+        </span>
+       </p>
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+      <section style="display: inline-block;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 0px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -5px;border-right: 0.56em solid rgb(110, 125, 118);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-right: 0.56em solid rgb(236, 170, 104);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;padding-right: 5px;padding-left: 5px;color: rgb(124, 122, 122);letter-spacing: 1px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <span style="text-shadow: rgba(0, 0, 0, 0) 1.87939px 0.68404px 2px;box-sizing: border-box;background-color: rgb(255, 218, 169);font-size: 14px;">
+          <strong style="box-sizing: border-box;">
+           服务师生，名家有约
+          </strong>
+         </span>
+        </p>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 0px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -5px;border-left: 0.56em solid rgb(110, 125, 118);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-left: 0.56em solid rgb(236, 170, 104);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section style="text-align: center;color: rgb(124, 122, 122);letter-spacing: 0.5px;box-sizing: border-box;">
+       <p>
+        <br/>
+       </p>
+       <section style="display: inline-block;width: 100%;border-width: 2px;border-style: dotted;border-color: rgb(192, 200, 209);padding: 10px;box-sizing: border-box;">
+        <span style="font-size: 14px;">
+         瑞金医院和第六人民医院的心血管、皮肤科专家现场健康咨询
+        </span>
+       </section>
+       <p>
+        <br/>
+       </p>
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+      <section style="display: inline-block;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 0px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -5px;border-right: 0.56em solid rgb(110, 125, 118);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-right: 0.56em solid rgb(236, 170, 104);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;padding-right: 5px;padding-left: 5px;color: rgb(124, 122, 122);letter-spacing: 1px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <span style="background-color: rgb(255, 218, 169);font-size: 14px;">
+          <strong style="box-sizing: border-box;">
+           绿色环保，垃圾分类
+          </strong>
+         </span>
+        </p>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 0px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -5px;border-left: 0.56em solid rgb(110, 125, 118);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-left: 0.56em solid rgb(236, 170, 104);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section style="text-align: center;color: rgb(124, 122, 122);letter-spacing: 0.5px;box-sizing: border-box;">
+       <p>
+        <br/>
+       </p>
+       <section style="display: inline-block;width: 100%;border-width: 2px;border-style: dotted;border-color: rgb(192, 200, 209);padding: 10px;box-sizing: border-box;">
+        <span style="font-size: 14px;">
+         能源与环境管理办公室向大家宣传节能及垃圾分类知识
+        </span>
+       </section>
+       <p>
+        <br/>
+       </p>
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+      <section style="display: inline-block;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 0px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -5px;border-right: 0.56em solid rgb(110, 125, 118);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-right: 0.56em solid rgb(236, 170, 104);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;padding-right: 5px;padding-left: 5px;color: rgb(124, 122, 122);letter-spacing: 1px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <span style="background-color: rgb(255, 218, 169);font-size: 14px;">
+          <strong style="box-sizing: border-box;">
+           巧手换妆，教你化妆
+          </strong>
+         </span>
+        </p>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 0px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -5px;border-left: 0.56em solid rgb(110, 125, 118);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-left: 0.56em solid rgb(236, 170, 104);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section style="text-align: center;color: rgb(124, 122, 122);letter-spacing: 0.5px;box-sizing: border-box;">
+       <p>
+        <br/>
+       </p>
+       <section style="display: inline-block;width: 100%;border-width: 2px;border-style: dotted;border-color: rgb(192, 200, 209);padding: 10px;box-sizing: border-box;">
+        <span style="font-size: 14px;">
+         质量与安全管理办公室邀请专业化妆师、学生模特传授化妆技巧
+        </span>
+       </section>
+       <p>
+        <br/>
+       </p>
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+      <section style="display: inline-block;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 0px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -5px;border-right: 0.56em solid rgb(110, 125, 118);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-right: 0.56em solid rgb(236, 170, 104);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;padding-right: 5px;padding-left: 5px;color: rgb(124, 122, 122);letter-spacing: 1px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <span style="background-color: rgb(255, 218, 169);font-size: 14px;">
+          <strong style="box-sizing: border-box;">
+           家有儿女，缝补衣服
+          </strong>
+         </span>
+        </p>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 0px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -5px;border-left: 0.56em solid rgb(110, 125, 118);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-left: 0.56em solid rgb(236, 170, 104);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section style="text-align: center;color: rgb(124, 122, 122);letter-spacing: 0.5px;box-sizing: border-box;">
+       <p>
+        <br/>
+       </p>
+       <section style="display: inline-block;width: 100%;border-width: 2px;border-style: dotted;border-color: rgb(192, 200, 209);padding: 10px;box-sizing: border-box;">
+        <span style="font-size: 14px;">
+         宿舍与教学楼服务中心(2)工作人员为师生免费缝补衣服
+        </span>
+       </section>
+       <p>
+        <br/>
+       </p>
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+      <section style="display: inline-block;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 0px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -5px;border-right: 0.56em solid rgb(110, 125, 118);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-right: 0.56em solid rgb(236, 170, 104);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;padding-right: 5px;padding-left: 5px;color: rgb(124, 122, 122);letter-spacing: 1px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <span style="background-color: rgb(255, 218, 169);font-size: 14px;">
+          <strong style="box-sizing: border-box;">
+           安全第一，修配锁具
+          </strong>
+         </span>
+        </p>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 0px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -5px;border-left: 0.56em solid rgb(110, 125, 118);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-left: 0.56em solid rgb(236, 170, 104);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section style="color: rgb(124, 122, 122);letter-spacing: 0.5px;box-sizing: border-box;text-align: center;">
+       <p style="text-align: center;">
+        <br/>
+       </p>
+       <section style="display: inline-block;width: 100%;border-width: 2px;border-style: dotted;border-color: rgb(192, 200, 209);padding: 10px;box-sizing: border-box;">
+        <span style="font-size: 14px;">
+         宿舍与教学楼服务中心(2)工作人员免费为师生配钥匙
+        </span>
+       </section>
+       <section style="display: inline-block;width: 100%;border-width: 2px;border-style: dotted;border-color: rgb(192, 200, 209);padding: 10px;box-sizing: border-box;">
+        <span style="font-size: 14px;">
+         修缮与装潢服务中心工作人员向师生宣传安全用电知识
+        </span>
+       </section>
+       <p>
+        <br/>
+       </p>
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+      <section style="display: inline-block;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 0px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -5px;border-right: 0.56em solid rgb(110, 125, 118);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-right: 0.56em solid rgb(236, 170, 104);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;padding-right: 5px;padding-left: 5px;color: rgb(124, 122, 122);letter-spacing: 1px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <span style="background-color: rgb(255, 218, 169);font-size: 14px;">
+          <strong style="box-sizing: border-box;">
+           免费证件，精彩一瞬
+          </strong>
+         </span>
+        </p>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 0px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -5px;border-left: 0.56em solid rgb(110, 125, 118);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-left: 0.56em solid rgb(236, 170, 104);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section style="color: rgb(124, 122, 122);letter-spacing: 0.5px;box-sizing: border-box;text-align: center;">
+       <p style="text-align: center;">
+        <br/>
+       </p>
+       <section style="display: inline-block;width: 100%;border-width: 2px;border-style: dotted;border-color: rgb(192, 200, 209);padding: 10px;box-sizing: border-box;">
+        <span style="font-size: 14px;">
+         宿舍与教学楼服务中心(2)工作人员免费为师生拍证件照
+        </span>
+       </section>
+       <p>
+        <br/>
+       </p>
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+      <section style="display: inline-block;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 0px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -5px;border-right: 0.56em solid rgb(110, 125, 118);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-right: 0.56em solid rgb(236, 170, 104);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;padding-right: 5px;padding-left: 5px;color: rgb(124, 122, 122);letter-spacing: 1px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <span style="background-color: rgb(255, 218, 169);font-size: 14px;">
+          <strong style="box-sizing: border-box;">
+           为您服务，免费理发
+          </strong>
+         </span>
+        </p>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 0px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -5px;border-left: 0.56em solid rgb(110, 125, 118);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-left: 0.56em solid rgb(236, 170, 104);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section style="text-align: center;color: rgb(124, 122, 122);letter-spacing: 0.5px;box-sizing: border-box;">
+       <p>
+        <br/>
+       </p>
+       <section style="display: inline-block;width: 100%;border-width: 2px;border-style: dotted;border-color: rgb(192, 200, 209);padding: 10px;box-sizing: border-box;">
+        <span style="font-size: 14px;">
+         六角物业、瀛海三幸物业工作人员免费为师生理发
+        </span>
+       </section>
+       <p>
+        <br/>
+       </p>
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+      <section style="display: inline-block;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 0px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -5px;border-right: 0.56em solid rgb(110, 125, 118);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-right: 0.56em solid rgb(236, 170, 104);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;padding-right: 5px;padding-left: 5px;color: rgb(124, 122, 122);letter-spacing: 1px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <span style="background-color: rgb(255, 218, 169);font-size: 14px;">
+          <strong style="box-sizing: border-box;">
+           爱心放送，修理家电
+          </strong>
+         </span>
+        </p>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 0px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -5px;border-left: 0.56em solid rgb(110, 125, 118);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-left: 0.56em solid rgb(236, 170, 104);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section style="text-align: center;color: rgb(124, 122, 122);letter-spacing: 0.5px;box-sizing: border-box;">
+       <p>
+        <br/>
+       </p>
+       <section style="display: inline-block;width: 100%;border-width: 2px;border-style: dotted;border-color: rgb(192, 200, 209);padding: 10px;box-sizing: border-box;">
+        <span style="font-size: 14px;">
+         生乐物业工作人员免费为同学们修理小电器、自行车
+        </span>
+       </section>
+       <p>
+        <br/>
+       </p>
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+      <section style="display: inline-block;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 0px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -5px;border-right: 0.56em solid rgb(110, 125, 118);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-right: 0.56em solid rgb(236, 170, 104);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;padding-right: 5px;padding-left: 5px;color: rgb(124, 122, 122);letter-spacing: 1px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <span style="background-color: rgb(255, 218, 169);font-size: 14px;">
+          <strong style="box-sizing: border-box;">
+           电信时代，贴膜升级
+          </strong>
+         </span>
+        </p>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 0px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -5px;border-left: 0.56em solid rgb(110, 125, 118);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-left: 0.56em solid rgb(236, 170, 104);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section style="text-align: center;color: rgb(124, 122, 122);letter-spacing: 0.5px;box-sizing: border-box;">
+       <p>
+        <br/>
+       </p>
+       <section style="display: inline-block;width: 100%;border-width: 2px;border-style: dotted;border-color: rgb(192, 200, 209);padding: 10px;box-sizing: border-box;">
+        <span style="color: rgb(124, 122, 122);box-sizing: border-box;font-size: 14px;">
+         中国电信将现场提供电信业务咨询、免费手机贴膜、免费手机升级
+        </span>
+       </section>
+       <p>
+        <br/>
+       </p>
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+      <section style="display: inline-block;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 0px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -5px;border-right: 0.56em solid rgb(110, 125, 118);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-right: 0.56em solid rgb(236, 170, 104);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;padding-right: 5px;padding-left: 5px;color: rgb(124, 122, 122);letter-spacing: 1px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <span style="background-color: rgb(255, 218, 169);font-size: 14px;">
+          <strong style="box-sizing: border-box;">
+           美化环境，盆栽派送
+          </strong>
+         </span>
+        </p>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 0px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -5px;border-left: 0.56em solid rgb(110, 125, 118);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-left: 0.56em solid rgb(236, 170, 104);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section style="letter-spacing: 0.5px;box-sizing: border-box;text-align: center;">
+       <p style="text-align: center;">
+        <br/>
+       </p>
+       <section style="display: inline-block;width: 100%;border-width: 2px;border-style: dotted;border-color: rgb(192, 200, 209);padding: 10px;box-sizing: border-box;">
+        <span style="color: rgb(136, 136, 136);font-size: 14px;letter-spacing: 0px;">
+         校园环境管理中心将给大家带来美化环境、养护绿植的小知识（送小盆栽嘿嘿~）
+        </span>
+       </section>
+       <p>
+        <br/>
+       </p>
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+      <section style="display: inline-block;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 0px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -5px;border-right: 0.56em solid rgb(110, 125, 118);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-right: 0.56em solid rgb(236, 170, 104);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;padding-right: 5px;padding-left: 5px;color: rgb(124, 122, 122);letter-spacing: 1px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <span style="background-color: rgb(255, 218, 169);font-size: 14px;">
+          <strong style="box-sizing: border-box;">
+           保护环境，免费邮寄
+          </strong>
+         </span>
+        </p>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 0px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -5px;border-left: 0.56em solid rgb(110, 125, 118);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-left: 0.56em solid rgb(236, 170, 104);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section style="text-align: center;color: rgb(124, 122, 122);letter-spacing: 0.5px;box-sizing: border-box;">
+       <p>
+        <br/>
+       </p>
+       <section style="display: inline-block;width: 100%;border-width: 2px;border-style: dotted;border-color: rgb(192, 200, 209);padding: 10px;box-sizing: border-box;">
+        <span style="letter-spacing: 0px;box-sizing: border-box;font-size: 14px;">
+         带上一个A4纸大小快递空盒子，即可在菜鸟驿站免费寄快递一次（不超过1kg）
+        </span>
+       </section>
+       <p>
+        <br/>
+       </p>
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+      <section style="display: inline-block;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 0px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -5px;border-right: 0.56em solid rgb(110, 125, 118);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-right: 0.56em solid rgb(236, 170, 104);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;padding-right: 5px;padding-left: 5px;color: rgb(124, 122, 122);letter-spacing: 1px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <span style="background-color: rgb(255, 218, 169);font-size: 14px;">
+          <strong style="box-sizing: border-box;">
+           益生一衣，免费洗衣
+          </strong>
+         </span>
+        </p>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="width: 0px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -5px;border-left: 0.56em solid rgb(110, 125, 118);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+        <section style="width: 0px;border-left: 0.56em solid rgb(236, 170, 104);border-top: 0.31em solid transparent;border-bottom: 0.31em solid transparent;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section style="text-align: center;color: rgb(124, 122, 122);letter-spacing: 0.5px;box-sizing: border-box;">
+       <p>
+        <br/>
+       </p>
+       <section style="display: inline-block;width: 100%;border-width: 2px;border-style: dotted;border-color: rgb(192, 200, 209);padding: 10px;box-sizing: border-box;">
+        <span style="letter-spacing: 0px;box-sizing: border-box;font-size: 14px;">
+         21日当天，早上5:00-24:00，学生免费使用宿舍楼内洗衣机洗衣服
+        </span>
+       </section>
+       <p>
+        <br/>
+       </p>
+       <p style="box-sizing: border-box;">
+        <br/>
+        <span style="letter-spacing: 0px;box-sizing: border-box;font-size: 14px;">
+        </span>
+       </p>
+      </section>
+     </section>
+    </section>
+   </section>
+   <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <section style="text-align: center;color: rgb(124, 122, 122);letter-spacing: 0.5px;box-sizing: border-box;">
+      <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="text-align: center;color: rgb(124, 122, 122);letter-spacing: 0.5px;box-sizing: border-box;">
+         <p>
+         </p>
+         <p>
+          <br/>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <p style="text-align: center;">
+    <strong>
+     <span style="font-family: 宋体;font-size: 14px;color: rgb(136, 136, 136);background-color: rgb(255, 218, 169);">
+      后勤服务一条街是不是让你hin心动呀！
+     </span>
+    </strong>
+   </p>
+   <p style="text-align: center;">
+    <strong>
+     <span style="font-family: 宋体;font-size: 14px;color: rgb(136, 136, 136);background-color: rgb(255, 218, 169);">
+      别急，还有更精彩的活动预告👇
+     </span>
+    </strong>
+   </p>
+   <p style="text-align: center;">
+    <strong>
+     <span style="font-family: 宋体;font-size: 14px;color: rgb(136, 136, 136);background-color: rgb(255, 218, 169);">
+      <br/>
+     </span>
+    </strong>
+   </p>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="width: 2.25em;height: 2.25em;border-top: 5px solid rgb(255, 167, 38);border-left: 5px solid rgb(255, 167, 38);transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);box-sizing: border-box;">
+    </section>
+    <section style="margin-top: -2.25em;box-sizing: border-box;">
+     <section style="padding: 10px;background-color: rgb(242, 242, 242);box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+      <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="padding: 10px;color: rgb(124, 122, 122);box-sizing: border-box;">
+         <section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;font-family:微软雅黑;">
+          <section data-role="outer" label="Powered by 135editor.com">
+           <p>
+            <span style="color: rgb(153, 153, 153);">
+             <strong>
+              <span style="text-shadow: rgb(247, 150, 70) 2px 2px 10px;font-size: 18px;">
+               后勤保障部
+              </span>
+             </strong>
+            </span>
+           </p>
+           <p>
+            <span style="color: rgb(153, 153, 153);">
+             <strong>
+              <span style="color: rgb(153, 153, 153);text-shadow: rgb(247, 150, 70) 2px 2px 10px;font-size: 18px;">
+               【第十七届“我爱我家”文艺汇演】
+              </span>
+             </strong>
+            </span>
+           </p>
+           <p>
+            <span style="text-shadow: #F79646 2px 2px 10px;">
+             <br/>
+            </span>
+           </p>
+          </section>
+         </section>
+         <p style="box-sizing: border-box;line-height: 2em;">
+          <strong>
+           <span style="font-size: 14px;">
+            主办单位
+           </span>
+          </strong>
+          <span style="font-size: 14px;">
+           ：后勤保障部
+          </span>
+         </p>
+         <p style="box-sizing: border-box;line-height: 2em;">
+          <strong>
+           <span style="font-size: 14px;">
+            承办单位
+           </span>
+          </strong>
+          <span style="font-size: 14px;">
+           ：校学生会、
+          </span>
+         </p>
+         <p style="box-sizing: border-box;line-height: 2em;">
+          <span style="font-size: 14px;">
+           宿舍与教学楼服务中心(1)
+          </span>
+         </p>
+         <p style="box-sizing: border-box;line-height: 2em;">
+          <span style="font-size: 14px;">
+           <strong>
+            演出人员
+           </strong>
+           ：后勤职工、本校学生
+          </span>
+          <br/>
+         </p>
+         <p style="box-sizing: border-box;line-height: 2em;">
+          <strong>
+           <span style="font-size: 14px;">
+            表演形式
+           </span>
+          </strong>
+          <span style="font-size: 14px;">
+           ： 歌舞表演等
+          </span>
+         </p>
+         <p style="box-sizing: border-box;line-height: 2em;">
+          <strong>
+           <span style="font-size: 14px;">
+            晚会时间地点
+           </span>
+          </strong>
+          <span style="font-size: 14px;">
+           ：
+          </span>
+         </p>
+         <p style="box-sizing: border-box;line-height: 2em;">
+          <strong style="color: rgb(255, 167, 38);font-size: 14px;box-sizing: border-box;">
+           11月15日18:00
+           <strong style="color: rgb(124, 122, 122);font-size: 14px;text-align: center;white-space: normal;background-color: rgb(242, 242, 242);box-sizing: border-box;">
+            <span style="color: rgb(255, 167, 38);box-sizing: border-box;">
+             中北四舍篮球场
+            </span>
+           </strong>
+          </strong>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="width: 2.25em;height: 2.25em;border-top: 5px solid rgb(255, 167, 38);border-left: 5px solid rgb(255, 167, 38);transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);box-sizing: border-box;">
+    </section>
+    <section style="margin-top: -2.25em;box-sizing: border-box;">
+     <section style="padding: 10px;background-color: rgb(242, 242, 242);box-sizing: border-box;">
+      <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="padding: 10px;letter-spacing: 0.5px;box-sizing: border-box;">
+         <section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;font-family:微软雅黑;">
+          <section data-role="outer" label="Powered by 135editor.com">
+           <p>
+            <span style="color: rgb(136, 136, 136);font-size: 18px;">
+             <strong>
+              <span style="color: rgb(136, 136, 136);font-family: 宋体;text-shadow: rgb(247, 150, 70) 2px 2px 10px;">
+               后勤保障部
+              </span>
+             </strong>
+            </span>
+           </p>
+           <p>
+            <span style="color: rgb(136, 136, 136);font-size: 18px;">
+             <strong>
+              <span style="color: rgb(136, 136, 136);font-family: 宋体;text-shadow: rgb(247, 150, 70) 2px 2px 10px;">
+               【第六届食品节】
+              </span>
+             </strong>
+            </span>
+           </p>
+          </section>
+         </section>
+         <p style="box-sizing: border-box;line-height: 2em;">
+          <span style="font-size: 18px;box-sizing: border-box;">
+           <strong style="box-sizing: border-box;">
+            <span style="color: rgb(255, 167, 38);box-sizing: border-box;">
+             <br/>
+            </span>
+           </strong>
+          </span>
+         </p>
+         <p style="box-sizing: border-box;line-height: 2em;">
+          <span style="font-size: 14px;">
+           <strong style="box-sizing: border-box;">
+            <span style="color: rgb(124, 122, 122);box-sizing: border-box;">
+             主办单位
+            </span>
+           </strong>
+           <span style="color: rgb(124, 122, 122);box-sizing: border-box;">
+            ：后勤保障部
+           </span>
+          </span>
+         </p>
+         <p style="box-sizing: border-box;line-height: 2em;">
+          <span style="font-size: 14px;">
+           <strong style="box-sizing: border-box;">
+            <span style="font-size: 14px;color: rgb(124, 122, 122);box-sizing: border-box;">
+             承办单位
+            </span>
+           </strong>
+           <span style="font-size: 14px;color: rgb(124, 122, 122);box-sizing: border-box;">
+            ：餐饮各部门
+           </span>
+          </span>
+         </p>
+         <p style="box-sizing: border-box;line-height: 2em;">
+          <span style="font-size: 14px;">
+           <strong style="box-sizing: border-box;">
+            <span style="font-size: 14px;color: rgb(124, 122, 122);box-sizing: border-box;">
+            </span>
+           </strong>
+          </span>
+         </p>
+         <p>
+          <strong>
+           <span style="font-size: 14px;color: rgb(124, 122, 122);box-sizing: border-box;">
+            活动时间地点
+           </span>
+          </strong>
+          <span style="font-size: 14px;color: rgb(124, 122, 122);box-sizing: border-box;">
+           ：
+          </span>
+         </p>
+         <p>
+          <span style="font-size: 14px;">
+           <strong style="box-sizing: border-box;">
+            <span style="font-size: 14px;color: rgb(255, 167, 38);box-sizing: border-box;">
+             11月15日10:30-13:30
+            </span>
+           </strong>
+          </span>
+          <strong style="font-size: 14px;box-sizing: border-box;">
+           <span style="color: rgb(255, 167, 38);box-sizing: border-box;">
+            中北校区丽娃餐厅前
+           </span>
+          </strong>
+         </p>
+         <p>
+          <span style="font-size: 14px;">
+           <strong style="box-sizing: border-box;">
+            <span style="font-size: 14px;color: rgb(255, 167, 38);box-sizing: border-box;">
+             11月30日10:30-13:30
+            </span>
+           </strong>
+          </span>
+          <strong style="font-size: 14px;box-sizing: border-box;">
+           <span style="color: rgb(255, 167, 38);box-sizing: border-box;">
+            闵行校区夏雨厅前广场
+           </span>
+          </strong>
+         </p>
+         <p style="box-sizing: border-box;line-height: 2em;">
+          <span style="font-size: 14px;">
+           <strong style="box-sizing: border-box;">
+            <span style="font-size: 14px;color: rgb(255, 167, 38);box-sizing: border-box;">
+            </span>
+           </strong>
+          </span>
+          <br/>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="width: 2.25em;height: 2.25em;border-top: 5px solid rgb(255, 167, 38);border-left: 5px solid rgb(255, 167, 38);transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);box-sizing: border-box;">
+    </section>
+    <section style="margin-top: -2.25em;box-sizing: border-box;">
+     <section style="padding: 10px;background-color: rgb(242, 242, 242);box-sizing: border-box;">
+      <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="padding: 10px;letter-spacing: 0.5px;box-sizing: border-box;">
+         <section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;font-family:微软雅黑;">
+          <section data-role="outer" label="Powered by 135editor.com">
+           <section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;font-family:微软雅黑;">
+            <section data-role="outer" label="Powered by 135editor.com">
+             <p>
+              <strong>
+               <span style="text-shadow: rgb(247, 150, 70) 2px 2px 10px;font-size: 18px;color: rgb(136, 136, 136);">
+                后勤保障部
+               </span>
+              </strong>
+             </p>
+             <p>
+              <strong>
+               <span style="text-shadow: rgb(247, 150, 70) 2px 2px 10px;font-size: 18px;color: rgb(136, 136, 136);">
+                【师生厨艺展示】
+               </span>
+              </strong>
+             </p>
+             <p>
+              <br/>
+             </p>
+            </section>
+           </section>
+          </section>
+         </section>
+         <p style="color: rgb(124, 122, 122);box-sizing: border-box;line-height: 2em;">
+          <span style="font-size: 14px;">
+           <strong style="box-sizing: border-box;">
+            主办单位
+           </strong>
+           ：校工会、后勤保障部
+          </span>
+         </p>
+         <p style="color: rgb(124, 122, 122);box-sizing: border-box;line-height: 2em;">
+          <span style="font-size: 14px;">
+           <strong style="box-sizing: border-box;">
+            承办单位
+           </strong>
+           ：
+          </span>
+          <span style="font-size: 14px;">
+           膳食服务中心(1)
+          </span>
+         </p>
+         <p style="box-sizing: border-box;line-height: 2em;">
+          <span style="font-size: 14px;">
+           <strong style="color: rgb(124, 122, 122);box-sizing: border-box;">
+            参与人员
+           </strong>
+           <span style="color:#7c7a7a;">
+            ：
+           </span>
+           <span style="color:#888888;">
+            学校师生
+           </span>
+          </span>
+          <br/>
+         </p>
+         <p style="color: rgb(124, 122, 122);box-sizing: border-box;line-height: 2em;">
+          <span style="font-size: 14px;">
+           <strong style="box-sizing: border-box;">
+            比赛地点
+           </strong>
+           ：
+          </span>
+          <span style="font-size: 14px;">
+           <strong style="box-sizing: border-box;">
+            <span style="font-size: 14px;color: rgb(255, 167, 38);box-sizing: border-box;">
+             中北校区河东食堂三楼教工餐厅
+            </span>
+           </strong>
+          </span>
+         </p>
+         <p style="color: rgb(124, 122, 122);box-sizing: border-box;line-height: 2em;">
+          <span style="font-size: 14px;">
+           <strong style="box-sizing: border-box;">
+            比赛时间
+           </strong>
+           ：
+           <strong style="box-sizing: border-box;">
+            <span style="font-size: 14px;color: rgb(255, 167, 38);box-sizing: border-box;">
+             11月28日14:00
+            </span>
+           </strong>
+          </span>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: center;color: rgb(124, 122, 122);letter-spacing: 1.5px;box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <span style="font-size: 14px;">
+       <br/>
+      </span>
+     </p>
+     <p style="box-sizing: border-box;">
+      <span style="font-size: 14px;">
+      </span>
+     </p>
+     <section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;font-family:微软雅黑;">
+      <section data-role="outer" label="Powered by 135editor.com">
+       <p style="color: rgb(124, 122, 122);font-family: Helvetica, Arial, sans-serif;font-size: medium;letter-spacing: 1.5px;text-align: center;">
+        <span style="font-size: 14px;text-shadow: #F79646 2px 2px 10px;">
+         他们守护我们
+        </span>
+       </p>
+       <p style="color: rgb(124, 122, 122);font-family: Helvetica, Arial, sans-serif;font-size: medium;letter-spacing: 1.5px;text-align: center;">
+        <span style="font-size: 14px;text-shadow: #F79646 2px 2px 10px;">
+         从春天到冬天
+        </span>
+       </p>
+       <p style="color: rgb(124, 122, 122);font-family: Helvetica, Arial, sans-serif;font-size: medium;letter-spacing: 1.5px;text-align: center;">
+        <span style="font-size: 14px;text-shadow: #F79646 2px 2px 10px;">
+         从白昼到深夜
+        </span>
+       </p>
+       <p style="color: rgb(124, 122, 122);font-family: Helvetica, Arial, sans-serif;font-size: medium;letter-spacing: 1.5px;text-align: center;">
+        <br/>
+       </p>
+       <p style="color: rgb(124, 122, 122);letter-spacing: 1.5px;text-align: center;font-family: Helvetica, Arial, sans-serif;">
+        <span style="font-size: 14px;text-shadow: rgb(247, 150, 70) 2px 2px 10px;">
+         在这个银杏委地
+        </span>
+        <span style="font-size: 14px;text-shadow: rgb(247, 150, 70) 2px 2px 10px;">
+         、冬寒乍起的时节
+        </span>
+       </p>
+       <p style="color: rgb(124, 122, 122);letter-spacing: 1.5px;text-align: center;font-family: Helvetica, Arial, sans-serif;">
+        <span style="font-size: 14px;text-shadow: rgb(247, 150, 70) 2px 2px 10px;">
+         让后勤保障部优质文明服务月
+        </span>
+       </p>
+       <p style="color: rgb(124, 122, 122);letter-spacing: 1.5px;text-align: center;font-family: Helvetica, Arial, sans-serif;">
+        <span style="font-size: 14px;text-shadow: rgb(247, 150, 70) 2px 2px 10px;">
+         来温暖你💗
+        </span>
+       </p>
+       <p>
+        <br/>
+       </p>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <img data-ratio="0.6666667" data-type="jpeg" data-w="900" src="https://mmbiz.qpic.cn/mmbiz_jpg/buZW4wpYfOxS9lX5OhNyoqQYk4sQWHTW33D73Qx8JDg7GNloHv4fBZxMI2BxYyFSzjf272RMrF69xSSsIeiaaag/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

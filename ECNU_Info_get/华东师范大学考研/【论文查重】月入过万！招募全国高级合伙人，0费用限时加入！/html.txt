@@ -1,0 +1,1229 @@
+
+ <section class="xmteditor" data-label="powered by xmt.cn" data-tools="新媒体管家" style="display:none;">
+ </section>
+ <section class="xmteditor" data-label="powered by xmt.cn" data-tools="新媒体管家" style="display:none;">
+ </section>
+ <section class="xmteditor" data-label="powered by xmt.cn" data-tools="新媒体管家" style="display:none;">
+ </section>
+ <p style="text-align: center;">
+  <span style="color: rgb(255, 76, 0);">
+   【前言】
+  </span>
+  <br/>
+  <br/>
+ </p>
+ <p style="letter-spacing: 0.5px;padding-left: 0.5em;padding-right: 0.5em;line-height: 1.75em;">
+  <span style="font-size: 14px;">
+   <strong>
+    本文所介绍的工具是毕业论文查重平台，毕业论文都会用到。作为高校兼职，所有年级均可参加，并且学长认为低年级去锻炼也很好。
+   </strong>
+  </span>
+ </p>
+ <p style="padding-left: 0.5em;padding-right: 0.5em;">
+  <br/>
+ </p>
+ <p style="letter-spacing: 0.5px;padding-left: 0.5em;padding-right: 0.5em;line-height: 1.75em;">
+  <span style="font-size: 14px;">
+   全国90%以上的学校都对论文重复率有明确要求，比如学长所在的南大政府管理学院硕士论文要求“重复率低于10%”。当然大家的本科论文要求不会这么严格的，到时候参考自己学院的具体要求。为了达到这个要求，大部分同学都需要先检测初稿，再修改，最终检测合格才提交“定稿论文”。
+  </span>
+ </p>
+ <p style="padding-left: 0.5em;padding-right: 0.5em;">
+  <br/>
+ </p>
+ <p style="letter-spacing: 0.5px;padding-left: 0.5em;padding-right: 0.5em;line-height: 1.75em;">
+  <span style="font-size: 14px;">
+   以下所介绍的查重工具下学期很多同学会用得到，大家自己到时候可以使用，同时也可以通过兼职担任校园合伙人推荐给室友和同学使用，获得一定的提成回报。
+  </span>
+ </p>
+ <p style="padding-left: 0.5em;padding-right: 0.5em;">
+  <br/>
+ </p>
+ <p style="letter-spacing: 0.5px;padding-left: 0.5em;padding-right: 0.5em;line-height: 1.75em;text-align: left;">
+  <span style="font-size: 14px;">
+   具体的使用和推广现在你可能还不懂，但平台会有专业工作人员培训和指导，本文主要是招募有兴趣兼职的同学做校园代理。
+   <br/>
+  </span>
+ </p>
+ <p style="letter-spacing: 0.5px;padding-left: 0.5em;padding-right: 0.5em;line-height: 1.75em;text-align: center;">
+  <span style="font-size: 14px;">
+   <span style="color: rgb(136, 136, 136);font-size: 13.3333px;text-align: center;">
+    去年有的同学做的还是不错的
+   </span>
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <img class="" data-ratio="1.7292576419213974" data-s="300,640" data-type="png" data-w="458" src="https://mmbiz.qpic.cn/mmbiz_png/SLr2BwzknP3F5UtV6fZKNjaUaSdib4R4fFTDicwUaxLuM8Hn1h2vWAtQnliaq0rwbTiaItK6b2ibHdUwM2jahYCSOsA/640?wx_fmt=png" style="box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;"/>
+ </p>
+ <p style="letter-spacing: 0.5px;padding-left: 0.5em;padding-right: 0.5em;line-height: 1.75em;text-align: left;">
+  <span style="font-size: 14px;">
+   <strong>
+    <br/>
+    加入高级代理请看下文：
+   </strong>
+  </span>
+  <br/>
+  <br/>
+ </p>
+ <section class="xmt-style-block" data-mpa-powered-by="yiban.io" data-tools="新媒体排版" style='white-space: normal;font-family: "PingFang SC", "Source Sans Pro", "Hiragino Sans GB", "Helvetica Neue", Helvetica, "Microsoft Yahei", arial, sans-serif;text-align: start;background-color: rgb(255, 255, 255);'>
+  <section class="" style="max-width: 100%;box-sizing: border-box;text-align: center;word-wrap: break-word !important;">
+   <section class="" style='padding: 2px 3px;max-width: 100%;box-sizing: border-box;display: inline-block;width: 556.364px;vertical-align: top;background-image: url("https://mmbiz.qpic.cn/mmbiz_gif/UVG89jHdYKSxxPwut6SssqF88gg4xiaHOCtoPhX5sd6czBt1T60Lq68kwDGhNfafEYuXmicArqNuhyuq3mQTJvwg/640?wx_fmt=gif");background-position: 0% 0%;background-repeat: repeat-y;background-size: 100.733%;background-attachment: scroll;line-height: 1.6;word-wrap: break-word !important;'>
+    <section class="" powered-by="xiumi.us" style="max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+     <section class="" style="margin-top: 1px;margin-bottom: 1px;max-width: 100%;box-sizing: border-box;text-align: center;word-wrap: break-word !important;">
+      <section class="" style="padding: 10px;max-width: 100%;box-sizing: border-box;display: inline-block;border-width: 1px;border-style: solid;border-color: transparent;background-color: rgb(254, 255, 255);width: 550.369px;word-wrap: break-word !important;">
+       <section class="" powered-by="xiumi.us" style="max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+        <section class="" style="max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+         <section class="" style="max-width: 100%;box-sizing: border-box;text-align: left;word-wrap: break-word !important;">
+          <p style="color: rgb(62, 62, 62);font-size: 16px;padding-right: 0.5em;padding-left: 0.5em;text-align: center;">
+           <span style="color: rgb(255, 76, 0);font-size: 20px;">
+            <strong>
+             招募全国高级合伙人
+            </strong>
+           </span>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;padding-right: 0.5em;padding-left: 0.5em;text-align: center;">
+           <span style="color: rgb(136, 136, 136);font-size: 14px;">
+            无需任何费用，限时加入！
+           </span>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;padding-right: 0.5em;padding-left: 0.5em;text-align: center;">
+           <br/>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;padding-right: 0.5em;padding-left: 0.5em;">
+           <span style="color: rgb(255, 76, 0);font-size: 14px;">
+           </span>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;text-align: left;">
+           <span style="color: rgb(255, 76, 0);">
+            <strong>
+             <span style="font-size: 14px;">
+              一、项目介绍
+             </span>
+            </strong>
+           </span>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;text-align: left;">
+           <strong>
+            <span style="font-size: 14px;">
+             【必过论文】
+            </span>
+           </strong>
+           <span style="font-size: 14px;">
+            专业论文查重平台。平台上有知网、维普、paperpass等查重系统，都是官网正品，确保查重结果和学校一样。
+           </span>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;">
+           <br/>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;text-align: left;">
+           <strong>
+            <span style="font-size: 14px;">
+             【时间】
+            </span>
+           </strong>
+           <span style="font-size: 14px;">
+            每年3-6月毕业季，90%以上本硕博毕业生论文都需要进行论文查重。
+           </span>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;">
+           <br/>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;text-align: left;">
+           <strong>
+            <span style="font-size: 14px;">
+             【对象】
+            </span>
+           </strong>
+           <span style="font-size: 14px;">
+            目标用户主要为大四、研二应届生，产品刚需，用户自助查重。
+           </span>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;text-align: left;">
+           <span style="font-size: 14px;">
+            只需线上线下推广触达毕业生用户即可，全国可做，无地区限制。
+           </span>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;">
+           <br style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;text-align: left;">
+           <span style="color: rgb(255, 76, 0);">
+            <strong>
+             <span style="font-size: 14px;">
+              二、合伙人收益
+             </span>
+            </strong>
+           </span>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;text-align: left;">
+           <span style="font-size: 14px;">
+            校园团队（专业推广团队）月入10万以上，积累第一桶创业启动资金。
+           </span>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;text-align: left;">
+           <span style="font-size: 14px;">
+            在校学生（大二、三、四）月入可过万，轻松赚一年生活费。
+            <br/>
+            <br/>
+           </span>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;text-align: left;">
+           <span style="font-size: 14px;">
+            ps：根据平台反馈去年总查重次数超过百万人次，并且今年会加大力度推广，已经和很多公众号建立合作关系，是可能实现上述高收益的。
+            <br/>
+            <br/>
+            不过学长觉得，这肯定是少数能力优秀的同学啦。但即使个人时间和能力有限，毕业季赚个几千块钱把考研的资料费回收总没问题吧。
+            <br/>
+            <br/>
+           </span>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;text-align: left;">
+           <strong>
+            <span style="font-size: 14px;color: rgb(255, 76, 0);">
+             三、合伙人优势
+            </span>
+           </strong>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;text-align: left;">
+           <span style="font-size: 14px;">
+            专属后台、专属链接、交易清晰
+           </span>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;text-align: left;">
+           <span style="font-size: 14px;">
+            可观利润、专人培训、随时提现
+           </span>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;">
+           <br/>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;padding-right: 0.5em;padding-left: 0.5em;text-align: justify;">
+           <span style="font-size: 14px;color: rgb(255, 76, 0);">
+            <strong>
+             四、报名加入代理联系下方微信
+             <br/>
+             <br/>
+            </strong>
+           </span>
+          </p>
+          <p style="color: rgb(63, 62, 63);font-size: 14px;max-width: 100%;min-height: 1em;letter-spacing: 1.5px;line-height: 24.5px;text-align: start;white-space: normal;widows: 1;font-family: 微软雅黑;background-color: rgb(254, 254, 254);box-sizing: border-box !important;word-wrap: break-word !important;">
+           <span style="max-width: 100%;color: rgb(0, 0, 0);box-sizing: border-box !important;word-wrap: break-word !important;">
+            并发送下基本信息
+           </span>
+          </p>
+          <p style="color: rgb(63, 62, 63);font-size: 14px;max-width: 100%;min-height: 1em;letter-spacing: 1.5px;line-height: 24.5px;text-align: start;white-space: normal;widows: 1;font-family: 微软雅黑;background-color: rgb(254, 254, 254);box-sizing: border-box !important;word-wrap: break-word !important;">
+           <span style="max-width: 100%;color: rgb(0, 0, 0);box-sizing: border-box !important;word-wrap: break-word !important;">
+            1、手机号：
+           </span>
+           <span style="max-width: 100%;color: rgb(136, 136, 136);box-sizing: border-box !important;word-wrap: break-word !important;">
+            xxx
+           </span>
+          </p>
+          <p style="color: rgb(63, 62, 63);font-size: 14px;max-width: 100%;min-height: 1em;letter-spacing: 1.5px;line-height: 24.5px;text-align: start;white-space: normal;widows: 1;font-family: 微软雅黑;background-color: rgb(254, 254, 254);box-sizing: border-box !important;word-wrap: break-word !important;">
+           <span style="color: rgb(0, 0, 0);">
+            2、姓名：
+           </span>
+           <span style="color: rgb(136, 136, 136);">
+            xxx（
+           </span>
+           <span style="color: rgb(136, 136, 136);">
+            需实名，提现时财务要核对滴）
+           </span>
+          </p>
+          <p style="color: rgb(63, 62, 63);font-size: 14px;max-width: 100%;min-height: 1em;letter-spacing: 1.5px;line-height: 24.5px;text-align: start;white-space: normal;widows: 1;font-family: 微软雅黑;background-color: rgb(254, 254, 254);box-sizing: border-box !important;word-wrap: break-word !important;">
+           <span style="max-width: 100%;color: rgb(0, 0, 0);box-sizing: border-box !important;word-wrap: break-word !important;">
+            3、所属区域：
+           </span>
+           <span style="max-width: 100%;color: rgb(136, 136, 136);box-sizing: border-box !important;word-wrap: break-word !important;">
+            xx省、xxx市
+           </span>
+          </p>
+          <p style="color: rgb(63, 62, 63);font-size: 14px;max-width: 100%;min-height: 1em;letter-spacing: 1.5px;line-height: 24.5px;text-align: start;white-space: normal;widows: 1;font-family: 微软雅黑;background-color: rgb(254, 254, 254);box-sizing: border-box !important;word-wrap: break-word !important;">
+           <span style="max-width: 100%;color: rgb(0, 0, 0);box-sizing: border-box !important;word-wrap: break-word !important;">
+            4、学校和年级：
+           </span>
+           <span style="max-width: 100%;color: rgb(136, 136, 136);box-sizing: border-box !important;word-wrap: break-word !important;">
+            xx（大学）、xx（大几、研究生或已毕业）
+            <br/>
+            <br/>
+           </span>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;padding-right: 0.5em;padding-left: 0.5em;text-align: justify;">
+           <span style="font-size: 14px;">
+            根据你的信息，为你开专属代理账号，无需任何费用。
+            <br/>
+            <br/>
+           </span>
+          </p>
+          <p style="text-align: center;">
+           <img class="" data-copyright="0" data-ratio="1" data-s="300,640" data-type="jpeg" data-w="430" src="https://mmbiz.qpic.cn/mmbiz_jpg/SLr2BwzknP3F5UtV6fZKNjaUaSdib4R4f6uyACE8bK60elnuib46nvvwZNTxIia6YnaFloWSLGHLm2zJBkaTwlrkw/640?wx_fmt=jpeg" style="box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;width:55%;height:auto;"/>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;padding-right: 0.5em;padding-left: 0.5em;text-align: center;">
+           <span style="color: rgb(255, 76, 0);font-size: 14px;">
+            ▲
+           </span>
+           <br/>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;padding-right: 0.5em;padding-left: 0.5em;text-align: center;">
+           <strong>
+            扫码识别添加
+           </strong>
+           <br/>
+           <span style="font-size: 14px;color: rgb(178, 178, 178);">
+            （加油派学长）
+           </span>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;padding-right: 0.5em;padding-left: 0.5em;text-align: center;">
+           <br/>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;text-align: center;">
+           <span style="font-size: 14px;color: rgb(0, 0, 0);">
+            <strong>
+             简单的说这是怎么一回事？
+            </strong>
+            <br/>
+            <br/>
+           </span>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;text-align: justify;">
+           <span style="font-size: 14px;">
+            这是一个能
+            <span style="color: rgb(255, 76, 0);">
+             <strong>
+              替你省钱、帮你赚钱
+             </strong>
+            </span>
+            的论文查重平台，成为我们代理后，可以生成自己的专属推广链接。
+           </span>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;text-align: justify;">
+           <br/>
+           <span style="font-size: 14px;">
+            <span style="text-align: left;">
+             你通过自己的专属推广链接，付费查重后会有返现。
+             <br/>
+            </span>
+            <br/>
+            别人通过你的推广链接，付费查重后会有分成。
+            <br/>
+            <br/>
+           </span>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;text-align: justify;">
+           <span style="font-size: 14px;">
+            <strong>
+             所以也是给自己的论文查重省钱，而且推广给身边的人用，还可以顺便赚点钱。
+            </strong>
+           </span>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;">
+           <br/>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;">
+           <span style="font-size: 14px;">
+            <span style="color: rgb(255, 76, 0);">
+             <strong>
+              而且现在成为高级代理是
+             </strong>
+             <strong>
+              0费用
+             </strong>
+             <strong>
+              ，不过代理名额有限，快先加入了解下吧！
+              <br/>
+              <br/>
+             </strong>
+            </span>
+            <span style="color: rgb(0, 0, 0);">
+             <strong>
+              而加入的流程也很简单，加我微信
+             </strong>
+            </span>
+            <span style="color: rgb(0, 128, 255);">
+             <strong>
+              kaoyanpai999
+             </strong>
+            </span>
+            <span style="color: rgb(0, 0, 0);">
+             <strong>
+              <br/>
+              <br/>
+              发送
+             </strong>
+            </span>
+            <span style="color: rgb(255, 76, 0);">
+             <strong>
+              姓名+手机号+你的学校所在省市+学校全称，
+             </strong>
+            </span>
+            <span style="color: rgb(0, 0, 0);">
+             <strong>
+              并备注大几或已毕业
+             </strong>
+             <strong>
+              <br/>
+              <br/>
+             </strong>
+             我这边根据你提供的信息，给你开
+            </span>
+           </span>
+           <span style="font-size: 14px;">
+            专属
+           </span>
+           <span style="font-size: 14px;color: rgb(0, 0, 0);">
+            的代理账号。
+            <strong>
+             <br/>
+             <br/>
+            </strong>
+           </span>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;text-align: center;">
+           <img class="" data-copyright="0" data-ratio="1.775" data-s="300,640" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/UVG89jHdYKSnZz9HhpVtlG73nibryJrHibswicK29HTpM8V4tPWecg2M54POMaWNQhdBZqVermJs1L5BLdxTiboy3w/640?wx_fmt=png" style="width: 75%;height: auto;box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;"/>
+           <br/>
+           <span style="color: rgb(255, 76, 0);">
+            ▲
+           </span>
+          </p>
+          <p style="color: rgb(62, 62, 62);font-size: 16px;text-align: center;">
+           <span style="font-size: 14px;color: rgb(0, 0, 0);">
+            送你张
+           </span>
+           <strong>
+            <span style="font-size: 14px;color: rgb(255, 76, 0);">
+             10
+            </span>
+           </strong>
+           <span style="font-size: 14px;color: rgb(0, 0, 0);">
+            万字
+            <br/>
+            免费查重券体验下
+           </span>
+          </p>
+          <p style="text-align: center;">
+           <span style="color:#000000;">
+            <span style="font-size: 14px;">
+             扫码即可领取
+            </span>
+           </span>
+          </p>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="padding-right: 0.5em;padding-left: 0.5em;white-space: normal;max-width: 100%;min-height: 1em;letter-spacing: 0.544px;background-color: rgb(255, 255, 255);font-family: 微软雅黑;line-height: 25.6px;widows: 1;text-align: center;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <span style="color: rgb(0, 0, 0);font-size: 14px;">
+   不管你做不做，先成为高级代理再说。
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <span style="color: rgb(0, 0, 0);font-size: 14px;">
+   毕竟，自己毕业需要查重。
+   <br/>
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <span style="font-size: 14px;">
+   <span style="color: rgb(0, 0, 0);">
+    可以节省自己论文查重的费用。
+   </span>
+   <br/>
+   <br/>
+   <span style="color: rgb(0, 0, 0);">
+    而且我们有客服定期培训，简单上手。
+   </span>
+   <br/>
+   <br/>
+   <span style="color: rgb(0, 0, 0);">
+    后期也会经常发放一些免费的查重券！
+    <br/>
+    <br/>
+   </span>
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <span style="font-size: 14px;">
+   <strong style="font-family: Optima-Regular, PingFangTC-light;letter-spacing: 0.5px;text-align: center;background-color: rgb(255, 255, 255);">
+    <span style="font-family: 微软雅黑;letter-spacing: 0.544px;text-indent: 2em;widows: 1;">
+     最后做不做都没事哈，报名代理不收费的哈，也不会有任何业绩考核要求。
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <section class="" data-id="94178" data-tools="135编辑器" style="padding-right: 0.5em;padding-left: 0.5em;white-space: normal;max-width: 100%;letter-spacing: 0.544px;background-color: rgb(255, 255, 255);font-family: 微软雅黑;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+  <hr style="border-style: solid;border-right-width: 0px;border-bottom-width: 0px;border-left-width: 0px;border-color: rgba(0, 0, 0, 0.0980392);transform-origin: 0px 0px 0px;transform: scale(1, 0.5);"/>
+  <p style="max-width: 100%;min-height: 1em;text-align: center;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   <span style="font-size: 16px;">
+    <strong>
+     <span style="color: rgb(255, 76, 0);max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+      现在只需
+     </span>
+    </strong>
+    <span style="color: rgb(0, 128, 255);">
+     <strong>
+      <span style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+       2步
+      </span>
+     </strong>
+    </span>
+    <strong>
+     <span style="color: rgb(255, 76, 0);">
+      <span style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+       <br/>
+       即可成为我们高级代理
+       <br/>
+       <br/>
+       限时加入！
+       <br/>
+      </span>
+      论文查重高峰期马上要来了！
+     </span>
+    </strong>
+   </span>
+  </p>
+  <hr style="border-style: solid;border-width: 1px 0 0;border-color: rgba(0,0,0,0.1);-webkit-transform-origin: 0 0;-webkit-transform: scale(1, 0.5);transform-origin: 0 0;transform: scale(1, 0.5);"/>
+  <p style="max-width: 100%;min-height: 1em;text-align: center;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   <br/>
+  </p>
+ </section>
+ <section style="white-space: normal;max-width: 100%;font-size: 50px;font-weight: bold;display: flex;justify-content: flex-start;align-items: center;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+  <section style="margin-left: 10px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   0
+  </section>
+  <section class="" data-original-title="" style="max-width: 100%;z-index: 999;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;" title="">
+   1
+  </section>
+  <section class="" data-brushtype="text" style="margin-top: -6px;max-width: 100%;font-size: 16px;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   <span style="font-size: 14px;">
+    提供信息，我们帮你开通后台
+   </span>
+  </section>
+ </section>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <section style="margin-top: -30px;white-space: normal;max-width: 100%;background: rgb(254, 254, 254);box-shadow: rgb(222, 222, 222) 0px 0px 5px;transform: rotate(0deg);box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+  <section class="" data-autoskip="1" style="padding: 1em;max-width: 100%;font-size: 14px;letter-spacing: 1.5px;line-height: 1.75em;color: rgb(63, 62, 63);box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   <p style="max-width: 100%;min-height: 1em;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+    <strong style="color: rgb(255, 76, 0);letter-spacing: 1.5px;overflow-wrap: break-word !important;">
+     手机号：
+    </strong>
+   </p>
+   <p>
+    <span style="color: rgb(255, 76, 0);letter-spacing: 1.5px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+     <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+      姓
+     </strong>
+    </span>
+    <span style="color: rgb(255, 76, 0);">
+     <strong>
+      名：
+     </strong>
+    </span>
+   </p>
+   <p>
+    <span style="max-width: 100%;color: rgb(255, 76, 0);box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+     <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+      <strong style="font-family: Optima-Regular, PingFangTC-light;letter-spacing: 0.5px;overflow-wrap: break-word !important;">
+       所在
+      </strong>
+      省市
+     </strong>
+     <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+      ：
+     </strong>
+    </span>
+    <span style="color: rgb(136, 136, 136);">
+     <strong>
+      学校所在的省份、城市
+     </strong>
+    </span>
+   </p>
+   <p>
+    <span style="max-width: 100%;color: rgb(255, 76, 0);box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+     <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+      学校名称：
+     </strong>
+    </span>
+    <strong>
+     <span style="color: rgb(136, 136, 136);">
+      你的学校全称（在校需要备注大几，或是备注已毕业）
+     </span>
+    </strong>
+   </p>
+   <p style="max-width: 100%;min-height: 1em;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+    <br style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+   </p>
+   <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+    <span style="max-width: 100%;color: rgb(0, 0, 0);box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+     <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+      把以上信息发到学长微信：
+     </strong>
+    </span>
+    <span style="max-width: 100%;color: rgb(0, 128, 255);box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+     <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+      kaoyanpai999
+     </strong>
+    </span>
+   </p>
+   <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+    <br/>
+   </p>
+   <p style="text-align: center;">
+    <img class="" data-copyright="0" data-ratio="1" data-s="300,640" data-type="jpeg" data-w="430" src="https://mmbiz.qpic.cn/mmbiz_jpg/SLr2BwzknP3F5UtV6fZKNjaUaSdib4R4f6uyACE8bK60elnuib46nvvwZNTxIia6YnaFloWSLGHLm2zJBkaTwlrkw/640?wx_fmt=jpeg" style="box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;width:45%;height:auto;"/>
+   </p>
+   <p style="max-width: 100%;min-height: 1em;text-align: center;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+    （扫一扫添加）
+    <br/>
+   </p>
+  </section>
+ </section>
+ <section style="white-space: normal;max-width: 100%;font-size: 50px;font-weight: bold;display: flex;justify-content: flex-start;align-items: center;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+  <section style="margin-left: 10px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   0
+  </section>
+  <section class="" data-num="2" data-original-title="" style="max-width: 100%;z-index: 999;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;" title="">
+   2
+  </section>
+  <section class="" data-brushtype="text" style="margin-top: -6px;max-width: 100%;font-size: 16px;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   <span style="font-size: 14px;">
+    根据你的信息，为你定制专属后台
+   </span>
+  </section>
+ </section>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <section style="margin-top: -30px;white-space: normal;max-width: 100%;background: rgb(254, 254, 254);box-shadow: rgb(222, 222, 222) 0px 0px 5px;transform: rotate(0deg);box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+  <section class="" data-autoskip="1" style="padding: 1em;max-width: 100%;font-size: 14px;letter-spacing: 1.5px;line-height: 1.75em;color: rgb(63, 62, 63);box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   <p style="max-width: 100%;min-height: 1em;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+    <br style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;"/>
+   </p>
+   <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+    <strong>
+     后台网址：
+    </strong>
+    <span style="color: rgb(136, 136, 136);">
+     （会发给你）
+    </span>
+   </p>
+   <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+    <strong>
+     登录账号：
+    </strong>
+    <span style="color: rgb(136, 136, 136);">
+     你的手机号
+    </span>
+   </p>
+   <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+    <strong>
+     登录密码：
+    </strong>
+    <span style="max-width: 100%;color: rgb(136, 136, 136);box-sizing: border-box !important;word-wrap: break-word !important;">
+     （会发给你，登陆后可自行修改）
+    </span>
+   </p>
+   <p style="max-width: 100%;min-height: 1em;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+    <br style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;"/>
+   </p>
+   <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+    <strong>
+     注意：
+    </strong>
+   </p>
+   <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+    1、登录记得修改初始密码
+   </p>
+   <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+    2、新招的代理添加
+    <span style="max-width: 100%;color: rgb(255, 76, 0);box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+     <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+      我们的客服微信
+     </strong>
+    </span>
+    <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+     （会单独把客服微信推送给你）
+    </strong>
+    ，
+    <span style="max-width: 100%;color: rgb(255, 76, 0);box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+     <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+      进行资料审核、激活后台
+     </strong>
+    </span>
+    ，审核通过之后，才能登录账号，否则无法登录。
+    <br/>
+    3、
+    <span style="color: rgb(0, 0, 0);">
+     客服会定期培训，简单上手。
+    </span>
+   </p>
+  </section>
+ </section>
+ <p style="padding-right: 0.6em;padding-bottom: 1em;padding-left: 0.6em;white-space: normal;max-width: 100%;letter-spacing: 0.5px;line-height: 1.75em;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <section style="white-space: normal;max-width: 100%;font-size: 50px;font-weight: bold;display: flex;justify-content: flex-start;align-items: center;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+  <section style="margin-left: 10px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   0
+  </section>
+  <section class="" data-num="3" data-original-title="" style="max-width: 100%;z-index: 999;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;" title="">
+   3
+  </section>
+  <section class="" data-brushtype="text" style="margin-top: -6px;max-width: 100%;font-size: 16px;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   <span style="font-size: 14px;">
+    开通激活后台，选择登陆
+   </span>
+  </section>
+ </section>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <section style="margin-top: -30px;white-space: normal;max-width: 100%;background: rgb(254, 254, 254);box-shadow: rgb(222, 222, 222) 0px 0px 5px;transform: rotate(0deg);box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+  <section class="" data-autoskip="1" style="padding: 1em;max-width: 100%;font-size: 14px;letter-spacing: 1.5px;line-height: 1.75em;color: rgb(63, 62, 63);box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;text-align: center;">
+    <img class="" data-copyright="0" data-cropselx1="0" data-cropselx2="423" data-cropsely1="0" data-cropsely2="237" data-ratio="0.6666666666666666" data-type="png" data-w="965" src="https://mmbiz.qpic.cn/mmbiz_png/ytfVppZmGs9ia7B356TaYC6AaXrwrH8mJdkzpvTlAzVm04jPiccCUYicOECw9iaiaAzqbzXoKmQfFCU76t9cH6picKgw/640?wx_fmt=png" style="border-radius: 4px;box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;width: 563.802px;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;visibility: visible !important;"/>
+   </p>
+  </section>
+ </section>
+ <p style="padding-right: 0.6em;padding-bottom: 1em;padding-left: 0.6em;white-space: normal;max-width: 100%;letter-spacing: 0.5px;line-height: 1.75em;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <section style="white-space: normal;max-width: 100%;font-size: 50px;font-weight: bold;display: flex;justify-content: flex-start;align-items: center;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+  <section style="margin-left: 10px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   0
+  </section>
+  <section class="" data-num="4" data-original-title="" style="max-width: 100%;z-index: 999;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;" title="">
+   4
+  </section>
+  <section class="" data-brushtype="text" style="margin-top: -6px;max-width: 100%;font-size: 16px;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   <span style="font-size: 14px;">
+    登陆进去以后，请马上修改密码
+   </span>
+  </section>
+ </section>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <section style="margin-top: -30px;white-space: normal;max-width: 100%;background: rgb(254, 254, 254);box-shadow: rgb(222, 222, 222) 0px 0px 5px;transform: rotate(0deg);box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+  <section class="" data-autoskip="1" style="padding: 1em;max-width: 100%;font-size: 14px;letter-spacing: 1.5px;line-height: 1.75em;color: rgb(63, 62, 63);box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+    <img class="" data-before-oversubscription-url="https://mmbiz.qpic.cn/mmbiz_png/jdV0iaq7Q61wPfdic2phwxclUcanice3Lz1UIQ2vCU0oYiaor9tzYic3SpRkIIlgdVu6h2Iu5zjYluRBaoEhZZcNT1A/640?wx_fmt=png" data-copyright="0" data-cropselx1="0" data-cropselx2="509" data-cropsely1="0" data-cropsely2="323" data-ratio="0.6666666666666666" data-type="png" data-w="962" src="https://mmbiz.qpic.cn/mmbiz_png/ytfVppZmGs9ia7B356TaYC6AaXrwrH8mJgTriaGqmE1s8liaEesrL1RZbyn4lZLQ6MASNIHr7I6YTkFS976wkNweg/640?wx_fmt=png" style="width: 626.458px;border-radius: 4px;box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;visibility: visible !important;"/>
+   </p>
+  </section>
+ </section>
+ <p style="padding-right: 0.6em;padding-bottom: 1em;padding-left: 0.6em;white-space: normal;max-width: 100%;letter-spacing: 0.5px;line-height: 1.75em;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+  <span style="font-size: 14px;">
+   会给你个初始的登录账号和密码，你登录修改下密码，要保管好别忘记了哈，3月到6月是查重的高峰期，会派上用场的！
+  </span>
+ </p>
+ <section style="white-space: normal;max-width: 100%;font-size: 50px;font-weight: bold;display: flex;justify-content: flex-start;align-items: center;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+  <section style="margin-left: 10px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   0
+  </section>
+  <section class="" data-num="8" data-original-title="" style="max-width: 100%;z-index: 999;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;" title="">
+   5
+  </section>
+  <section class="" data-brushtype="text" style="margin-top: -6px;max-width: 100%;font-size: 16px;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   <span style="font-size: 14px;">
+    推广产品，让大家论文查重了
+   </span>
+  </section>
+ </section>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <section style="margin-top: -30px;white-space: normal;max-width: 100%;background: rgb(254, 254, 254);box-shadow: rgb(222, 222, 222) 0px 0px 5px;transform: rotate(0deg);box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+  <section class="" data-autoskip="1" style="padding: 1em;max-width: 100%;font-size: 14px;letter-spacing: 1.5px;line-height: 1.75em;color: rgb(63, 62, 63);box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;text-align: center;">
+    <img class="" data-copyright="0" data-cropselx1="0" data-cropselx2="509" data-cropsely1="0" data-cropsely2="302" data-ratio="0.6666666666666666" data-type="png" data-w="1213" src="https://mmbiz.qpic.cn/mmbiz_png/ytfVppZmGs9ia7B356TaYC6AaXrwrH8mJB1QTEJ9lib5Xr5xZBFfMJSsry4uX82FicGoXWjLrz1AqdicXUpX7gwAJw/640?wx_fmt=png" style="height: 299px;width: 527px;border-radius: 4px;box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;visibility: visible !important;"/>
+   </p>
+   <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+    在此可生成自己的专属推广链接或二维码，别人通过你的专属链接或二维码付费查重你就有分成。
+   </p>
+  </section>
+ </section>
+ <p style="padding-right: 0.5em;padding-left: 0.5em;white-space: normal;max-width: 100%;letter-spacing: 0.544px;background-color: rgb(255, 255, 255);border-width: 0px;border-style: none;border-color: initial;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+  <br/>
+ </p>
+ <section style="white-space: normal;max-width: 100%;font-size: 50px;font-weight: bold;display: flex;justify-content: flex-start;align-items: center;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+  <section style="margin-left: 10px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   0
+  </section>
+  <section class="" data-num="5" data-original-title="" style="max-width: 100%;z-index: 999;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;" title="">
+   6
+  </section>
+  <section class="" data-brushtype="text" style="margin-top: -6px;max-width: 100%;font-size: 16px;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   <span style="font-size: 14px;">
+    选择代理管理，你也可以招募代理
+    <br style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;"/>
+   </span>
+  </section>
+ </section>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <section style="margin-top: -30px;white-space: normal;max-width: 100%;background: rgb(254, 254, 254);box-shadow: rgb(222, 222, 222) 0px 0px 5px;transform: rotate(0deg);box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+  <section class="" data-autoskip="1" style="padding: 1em;max-width: 100%;font-size: 14px;letter-spacing: 1.5px;line-height: 1.75em;color: rgb(63, 62, 63);box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   <p style="max-width: 100%;min-height: 1em;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+    <br style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;"/>
+   </p>
+   <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+    <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+     因为你是我们的
+    </strong>
+    <span style="color: rgb(255, 76, 0);">
+     <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+      高级代理
+     </strong>
+    </span>
+    <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+     ，所以你可以
+    </strong>
+    <span style="color: rgb(255, 76, 0);">
+     <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+      招募下级代理
+     </strong>
+    </span>
+    <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+     ，可享受所招代理推广收益！
+    </strong>
+   </p>
+   <p style="max-width: 100%;min-height: 1em;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+    <br style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;"/>
+   </p>
+   <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+    <img class="" data-copyright="0" data-cropselx1="0" data-cropselx2="509" data-cropsely1="0" data-cropsely2="143" data-ratio="0.6666666666666666" data-type="png" data-w="1196" src="https://mmbiz.qpic.cn/mmbiz_png/ytfVppZmGs9ia7B356TaYC6AaXrwrH8mJFqeU6LBqMvvbnRibm8D3tUMBRAseQWDF42GkGxeHLQtNd6ld3DedjTw/640?wx_fmt=png" style="width: 620.191px;border-radius: 4px;box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;visibility: visible !important;"/>
+   </p>
+  </section>
+ </section>
+ <p style="text-align: left;">
+  <img class="" data-ratio="0.2675" data-s="300,640" data-type="png" data-w="1200" src="https://mmbiz.qpic.cn/mmbiz_png/M5icKFentlia1DWJS5dmSwjdrTf1XL4x7ZecdIuofWZVSJEicK5YLiaCnmbR3aOSqpMjnaiaI8jX3vbexWBKxcgAdsA/640?wx_fmt=png" style="box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;width:100%;height:auto;"/>
+  <br/>
+  <span style="font-size: 14px;">
+   添加下级代理的方式也很简单，比如我们在这添加了赵丹琳同学，填写下基本信息就可以开通。
+  </span>
+  <br/>
+  <br/>
+ </p>
+ <section style="white-space: normal;max-width: 100%;font-size: 50px;font-weight: bold;display: flex;justify-content: flex-start;align-items: center;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+  <section style="margin-left: 10px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   0
+  </section>
+  <section class="" data-num="6" data-original-title="" style="max-width: 100%;z-index: 999;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;" title="">
+   7
+  </section>
+  <section class="" data-brushtype="text" style="margin-top: -6px;max-width: 100%;font-size: 16px;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   <span style="font-size: 14px;">
+    分成方式，清晰明了
+   </span>
+  </section>
+ </section>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <section style="margin-top: -30px;white-space: normal;max-width: 100%;background: rgb(254, 254, 254);box-shadow: rgb(222, 222, 222) 0px 0px 5px;transform: rotate(0deg);box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+  <section class="" data-autoskip="1" style="padding: 1em;max-width: 100%;font-size: 14px;letter-spacing: 1.5px;line-height: 1.75em;color: rgb(63, 62, 63);box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+    <img class="" data-copyright="0" data-cropselx1="0" data-cropselx2="508" data-cropsely1="0" data-cropsely2="408" data-ratio="0.7677664974619289" data-type="png" data-w="788" src="https://mmbiz.qpic.cn/mmbiz_png/4rqIFRZvRic9S7XdSFxHHJtbMiaqhZsViczDA5sYtZnOvQph373nbVPqWLJZibqaibWYUibjYnia2YeW7aCpu4FZQ5w6Q/640?wx_fmt=png" style="width: 620.191px;border-radius: 4px;box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;visibility: visible !important;"/>
+   </p>
+  </section>
+ </section>
+ <p style="padding-right: 0.6em;padding-bottom: 1em;padding-left: 0.6em;white-space: normal;max-width: 100%;letter-spacing: 0.5px;line-height: 1.75em;text-align: left;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+  <span style="font-size: 14px;">
+   后台分成方式清晰明了，到时先推荐给身边的人用，就能轻松赚好几百！
+  </span>
+ </p>
+ <section style="white-space: normal;max-width: 100%;font-size: 50px;font-weight: bold;display: flex;justify-content: flex-start;align-items: center;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+  <section style="margin-left: 10px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   0
+  </section>
+  <section class="" data-num="7" data-original-title="" style="max-width: 100%;z-index: 999;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;" title="">
+   8
+  </section>
+  <section class="" data-brushtype="text" style="margin-top: -6px;max-width: 100%;font-size: 16px;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   <span style="font-size: 14px;">
+    申请提现，简单快捷
+   </span>
+  </section>
+ </section>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <section style="margin-top: -30px;white-space: normal;max-width: 100%;background: rgb(254, 254, 254);box-shadow: rgb(222, 222, 222) 0px 0px 5px;transform: rotate(0deg);box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+  <section class="" data-autoskip="1" style="padding: 1em;max-width: 100%;font-size: 14px;letter-spacing: 1.5px;line-height: 1.75em;color: rgb(63, 62, 63);box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+   <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;">
+    <img class="" data-copyright="0" data-cropselx1="0" data-cropselx2="509" data-cropsely1="0" data-cropsely2="222" data-ratio="0.6666666666666666" data-type="png" data-w="1188" src="https://mmbiz.qpic.cn/mmbiz_png/ytfVppZmGs9ia7B356TaYC6AaXrwrH8mJVy4DiaJQocoSmchWgJfAZBwuEpVOLQGQibb1FZbppSa3GmUuGryfJ7jQ/640?wx_fmt=png" style="width: 620.191px;border-radius: 4px;box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;box-sizing: border-box !important;word-wrap: break-word !important;overflow-wrap: break-word !important;visibility: visible !important;"/>
+   </p>
+  </section>
+ </section>
+ <p style="padding-right: 0.5em;padding-left: 0.5em;white-space: normal;max-width: 100%;min-height: 1em;background-color: rgb(255, 255, 255);color: rgb(63, 63, 63);text-align: center;widows: 1;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;font-size: 14px;color: rgb(136, 136, 136);box-sizing: border-box !important;word-wrap: break-word !important;">
+   <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+    快速提现，安全放心
+   </strong>
+  </span>
+ </p>
+ <p style="padding-right: 0.5em;padding-left: 0.5em;white-space: normal;max-width: 100%;min-height: 1em;background-color: rgb(255, 255, 255);color: rgb(63, 63, 63);text-align: center;widows: 1;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="padding-right: 0.5em;padding-left: 0.5em;white-space: normal;max-width: 100%;min-height: 1em;background-color: rgb(255, 255, 255);color: rgb(63, 63, 63);text-align: center;widows: 1;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;color: rgb(255, 76, 0);font-size: 18px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+    必过论文集合了8大检测系统
+   </strong>
+  </span>
+ </p>
+ <p style="padding-right: 0.5em;padding-left: 0.5em;white-space: normal;max-width: 100%;min-height: 1em;background-color: rgb(255, 255, 255);color: rgb(63, 63, 63);text-align: center;widows: 1;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;font-size: 14px;color: rgb(136, 136, 136);box-sizing: border-box !important;word-wrap: break-word !important;">
+   <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+    论文查重必用
+    <br/>
+    <br/>
+    <strong style="color: rgb(63, 63, 63);font-family: Optima-Regular, PingFangTC-light;font-size: 14px;letter-spacing: 0.5px;white-space: normal;widows: 1;background-color: rgb(255, 255, 255);max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+     <span style='color: rgb(62, 62, 62);font-family: "PingFang SC", "Source Sans Pro", "Hiragino Sans GB", "Helvetica Neue", Helvetica, "Microsoft Yahei", arial, sans-serif;text-align: left;background-color: rgb(254, 255, 255);'>
+      平台上有知网、维普、paperpass等查重系统，都是官网正品，确保查重结果和学校一样。
+     </span>
+    </strong>
+   </strong>
+  </span>
+ </p>
+ <p style="padding-right: 0.5em;padding-left: 0.5em;white-space: normal;max-width: 100%;min-height: 1em;background-color: rgb(255, 255, 255);color: rgb(63, 63, 63);widows: 1;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;font-size: 14px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <img class="" data-ratio="0.46943765281173594" data-type="png" data-w="818" src="https://mmbiz.qpic.cn/mmbiz_png/ByQgzrz2zwOsyDNbiagu4lXUGXdGa3dJ3q1btRc8jLugsCPUODmHyID1QmRvCgyT3NKibwGzic0IF22UwXIlfybuw/640?wx_fmt=png" style="width: 631.076px;border-radius: 4px;box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;box-sizing: border-box !important;word-wrap: break-word !important;visibility: visible !important;"/>
+    <br/>
+    <br/>
+   </strong>
+  </span>
+ </p>
+ <p style="padding-right: 0.5em;padding-left: 0.5em;white-space: normal;max-width: 100%;min-height: 1em;background-color: rgb(255, 255, 255);color: rgb(63, 63, 63);widows: 1;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;font-size: 14px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <img class="" data-ratio="0.460880195599022" data-type="png" data-w="818" src="https://mmbiz.qpic.cn/mmbiz_png/ByQgzrz2zwOsyDNbiagu4lXUGXdGa3dJ3ZhWQPu29Lhroic95VszpibGen7cmKnnIUdcvl3njiawMgt0JOiakGw2DNA/640?wx_fmt=png" style="border-radius: 4px;box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;box-sizing: border-box !important;word-wrap: break-word !important;width: 677px !important;visibility: visible !important;"/>
+   </strong>
+  </span>
+ </p>
+ <p style="padding-right: 0.5em;padding-left: 0.5em;white-space: normal;max-width: 100%;min-height: 1em;background-color: rgb(255, 255, 255);text-align: center;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <span style="font-size: 20px;color: rgb(0, 128, 255);">
+   <strong style="text-align: left;">
+    <span style="font-family: 微软雅黑;letter-spacing: 0.544px;text-align: center;widows: 1;background-color: rgb(255, 255, 255);">
+     【
+     <strong>
+      常见问题
+     </strong>
+     】
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="white-space: normal;text-align: left;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <span style="font-size: 14px;color: rgb(255, 76, 0);">
+   <strong>
+    1.简单的说这是怎么一回事？
+   </strong>
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <span style="font-size: 14px;">
+   这是一个能
+   <span style="color: rgb(255, 76, 0);">
+    <strong>
+     替你省钱、帮你赚钱
+    </strong>
+   </span>
+   的论文查重平台，成为我们代理后，可以生成自己的专属推广链接。
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+  <span style="font-size: 14px;">
+   别人通过你的推广链接，付费查重后会有分成。
+   <br/>
+   <br/>
+   而你通过自己专属链接，付费查重后也有分成。
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <span style="font-size: 14px;">
+   <strong>
+    所以是给自己的论文查重省钱，而且推广给身边的人用，还可以顺便赚点零花钱。
+   </strong>
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p>
+  <span style="font-size: 14px;color: rgb(255, 76, 0);">
+   <strong>
+    而且现在成为高级代理是
+   </strong>
+   <strong>
+    0费用
+   </strong>
+   <strong>
+    ，不过名额有限，快先加入了解下吧！
+    <br/>
+    <br/>
+   </strong>
+  </span>
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   <strong>
+    而加入的流程也很简单
+   </strong>
+  </span>
+  <span style="color: rgb(0, 0, 0);font-size: 14px;">
+   <strong>
+    ，
+   </strong>
+   <strong>
+    加我微信
+   </strong>
+  </span>
+  <span style="font-size: 14px;">
+   <strong>
+    <span style="color:#0080ff;">
+     kaoyanpai999
+    </span>
+   </strong>
+  </span>
+  <span style="color: rgb(0, 0, 0);font-size: 14px;">
+   ，
+  </span>
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   <strong>
+    发送姓名+手机号+你的的学校所在省市+学校全称。
+    <br/>
+    <br/>
+   </strong>
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <span style="font-size: 14px;color: rgb(0, 0, 0);">
+   <strong>
+    我这边根据你的信息，给你开专属代理账号。
+   </strong>
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <span style="font-size: 14px;color: rgb(255, 76, 0);">
+   <strong>
+    2.你们这的检测结果和学校的是一样的吗？
+    <br/>
+    <br/>
+   </strong>
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <span style="font-size: 14px;">
+   在必过论文官网选择和学校一样的检测系统（学校有自建库的除外），检测结果和学校的一样。
+   <br/>
+   <br/>
+   <strong>
+    所有检测报告均支持真伪验证，如有假冒，全额退款。
+   </strong>
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <span style="font-size: 14px;color: rgb(255, 76, 0);">
+   <strong>
+    3.论文在这里检测安全吗？会不会把我的论文泄露呢？
+   </strong>
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <span style="font-size: 14px;">
+   必过论文的整个检测过程系统完全自助检测 ，封闭式运行，无人工干预，每一位用户都有自己独立的订单编号进行检测论文，服务器提供7天论文检测报告下。
+   <br/>
+   <br/>
+   超过7天则被删除，删除以后将无法恢复，确保您的论文不会被泄露和盗窃。
+   <br/>
+   <br/>
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <span style="font-size: 14px;">
+   如果你去某宝上查的话，价格可能会稍低一些，但真的有很大的泄露风险。
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <span style="font-size: 14px;color: rgb(255, 76, 0);">
+   <strong>
+    4.我不太会推广怎么办？
+   </strong>
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <span style="font-size: 14px;">
+   同学们加我后，我给你推送一个客服微信，后期客服会定期给大家推送后台使用教程，帮助大家了解、如何去推广赚钱。
+   <br/>
+   <strong style="font-family: Optima-Regular, PingFangTC-light;letter-spacing: 0.5px;background-color: rgb(255, 255, 255);">
+    <span style="font-family: 微软雅黑;letter-spacing: 0.544px;text-indent: 2em;widows: 1;">
+     <br/>
+     最后做不做都没事哈，报名代理不收费的哈，也不会有任何业绩考核要求。
+     <br/>
+    </span>
+   </strong>
+   <br/>
+   审核激活后的同学，请登录后台修改密码，认真学习下，
+   <strong>
+    我要推广、推广方案、代理管理
+   </strong>
+   三个菜单的文档。
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p style="white-space: normal;text-align: center;">
+  <img class="" data-copyright="0" data-ratio="0.15412186379928317" data-s="300,640" data-type="png" data-w="837" src="https://mmbiz.qpic.cn/mmbiz_png/UVG89jHdYKRr3HHoYjrAfYUNnF2iaNhxeiao8j5QCLXzg0xia9CDX4czVDe7kstI1DPTg87Liadia5dJucM2Gia3AA1A/640?wx_fmt=png" style="box-shadow: rgb(170, 170, 170) 0em 0em 1em 0px;border-radius: 3px;"/>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <span style="font-size: 14px;color: rgb(255, 76, 0);">
+   <strong>
+    5.收入大概是什么样的情况？
+   </strong>
+  </span>
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <span style="font-variant-numeric: normal;letter-spacing: 0.544px;line-height: 22.4px;widows: 1;background-color: rgb(255, 255, 255);font-size: 14px;">
+   首先你通过自己的查重链接付费查重，是省了一笔钱的。
+   <br/>
+   <br/>
+   如果你推广自己的查重链接，给别人使用，我们的后台是有明确的分成系统。
+   <br/>
+   <br/>
+   去年有的在校学生靠毕业季高峰期一个月赚2-3万，也有校园推广团队高峰期一个月赚超过10万！
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <span style="font-variant-numeric: normal;letter-spacing: 0.544px;line-height: 22.4px;widows: 1;background-color: rgb(255, 255, 255);font-size: 14px;">
+   <br/>
+   一份耕耘一份收入，期待你的加入！
+  </span>
+ </p>
+ <p style="padding-right: 0.5em;padding-left: 0.5em;white-space: normal;max-width: 100%;min-height: 1em;background-color: rgb(255, 255, 255);letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="padding-right: 0.5em;padding-left: 0.5em;white-space: normal;max-width: 100%;min-height: 1em;background-color: rgb(255, 255, 255);text-align: center;letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="padding-right: 0.5em;padding-left: 0.5em;white-space: normal;max-width: 100%;min-height: 1em;background-color: rgb(255, 255, 255);letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="font-size: 20px;color: rgb(255, 76, 0);">
+   <strong>
+    <span style="font-size: 20px;max-width: 100%;font-family: 微软雅黑;letter-spacing: 0.544px;line-height: 25.6px;widows: 1;box-sizing: border-box !important;word-wrap: break-word !important;">
+     【总结】
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="padding-right: 0.5em;padding-left: 0.5em;white-space: normal;max-width: 100%;min-height: 1em;background-color: rgb(255, 255, 255);letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="padding-right: 0.5em;padding-left: 0.5em;white-space: normal;max-width: 100%;min-height: 1em;background-color: rgb(255, 255, 255);letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="font-family: 微软雅黑;letter-spacing: 0.544px;text-indent: 2em;widows: 1;font-size: 14px;">
+   1.比较推荐大四的同学参与，因为下学期会有实际使用需求。
+   <br/>
+   <br/>
+   2.有兴趣通过课余时间锻炼自己，并获取一定报酬的同学可以积极参与。
+  </span>
+ </p>
+ <p style="padding-right: 0.5em;padding-left: 0.5em;white-space: normal;max-width: 100%;min-height: 1em;background-color: rgb(255, 255, 255);letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <br/>
+ </p>
+ <p style="padding-right: 0.5em;padding-left: 0.5em;white-space: normal;max-width: 100%;min-height: 1em;background-color: rgb(255, 255, 255);letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="font-size: 14px;">
+   <strong>
+    <span style="font-family: 微软雅黑;letter-spacing: 0.544px;text-indent: 2em;widows: 1;">
+     3.最后做不做都没事哈，报名代理不收费的哈，也不会有任何业绩考核要求。
+     <br/>
+    </span>
+   </strong>
+   <span style="font-family: 微软雅黑;letter-spacing: 0.544px;text-indent: 2em;widows: 1;">
+    <br/>
+    4.纯自愿的，报名完就忘了或者不高兴做了也ok。
+   </span>
+  </span>
+ </p>
+ <p style="padding-right: 0.5em;padding-left: 0.5em;white-space: normal;max-width: 100%;min-height: 1em;background-color: rgb(255, 255, 255);letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <br/>
+  <br/>
+ </p>
+ <p style="padding-right: 0.5em;padding-left: 0.5em;white-space: normal;max-width: 100%;min-height: 1em;background-color: rgb(255, 255, 255);letter-spacing: 0.5px;line-height: 1.75em;font-family: Optima-Regular, PingFangTC-light;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="font-size: 14px;color: rgb(255, 76, 0);">
+   <strong style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <span style="max-width: 100%;font-family: 微软雅黑;letter-spacing: 0.544px;line-height: 25.6px;text-indent: 32px;widows: 1;box-sizing: border-box !important;word-wrap: break-word !important;">
+     注：
+    </span>
+    <span style="max-width: 100%;font-family: 微软雅黑;letter-spacing: 0.544px;text-indent: 32px;widows: 1;box-sizing: border-box !important;word-wrap: break-word !important;">
+     因推文发出后报名者可能短时间较集中，学长最迟12小时内会反馈信息，请勿着急哈。
+     <br/>
+     <br/>
+     如超时未反馈，请再提示我。
+     <br/>
+    </span>
+   </strong>
+  </span>
+  <span style='font-size: 14px;letter-spacing: 0.544px;widows: 1;font-family: -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;'>
+   <br/>
+   一份耕耘一份收入，期待你的加入。
+   <br/>
+   <img class="" data-ratio="0.5614285714285714" data-type="jpeg" data-w="700" src="https://mmbiz.qpic.cn/mmbiz_jpg/UVG89jHdYKSnZz9HhpVtlG73nibryJrHibECsRHbibtIPfkKq7dnAxgCcplEZNzIGU22xT1I3gDIhMm25ibtDQ82Ag/640?wx_fmt=jpeg" style="box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;"/>
+  </span>
+ </p>

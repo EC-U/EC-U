@@ -1,0 +1,108 @@
+
+ <section style="box-sizing: border-box;">
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="opacity: 0.5;display: none;box-sizing: border-box;">
+     <section style="display: inline-block;padding: 0.4em;border-radius: 0.5em;background-color: black;color: white;box-sizing: border-box;">
+      点击边框调出视频工具条
+     </section>
+     <section style="width: 0px;margin: 0px auto;border-top: 6px solid black;border-left: 6px solid transparent;border-right: 6px solid transparent;box-sizing: border-box;">
+     </section>
+    </section>
+    <section style="padding: 0.8em;width: 100%;line-height: 0;border-top-left-radius: 0.5em;border-top-right-radius: 0.5em;background-color: rgb(0, 0, 0);box-shadow: rgb(204, 204, 204) 0px 0.1em 0.3em;box-sizing: border-box;">
+     <section style="width: 100%;height: 100%;background-color: black;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);box-sizing: border-box;">
+      <iframe allowfullscreen="" class="video_iframe" data-ratio="1.7851239669421488" data-vidtype="-1" data-w="864" frameborder="0" scrolling="no" src="https://v.qq.com/iframe/preview.html?width=500&amp;height=375&amp;auto=0&amp;vid=c0807ma14a2">
+      </iframe>
+      <section style="top: 0px;left: 0px;width: 100%;height: 40%;box-sizing: border-box;">
+      </section>
+     </section>
+    </section>
+    <section style="width: 100%;height: 1.5em;margin-top: -0.8em;border-bottom-left-radius: 0.5em;border-bottom-right-radius: 0.5em;background-color: rgb(232, 232, 232);box-sizing: border-box;">
+    </section>
+    <img data-ratio="0.4090909" data-type="jpeg" data-w="88" src="https://mmbiz.qpic.cn/mmbiz_jpg/4YFAC7WD8pehl6RBdJicGapn5V730UITs296El3c0Sia0JPe4jvoHvzmje4O0s4fWlnkC5qTKCrDAlSWiafP75EHA/640?wx_fmt=jpeg" style="width: 30%;box-shadow: rgb(204, 204, 204) 0px -0.05em;margin: auto;box-sizing: border-box;" width="30%"/>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 0px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(174, 199, 224);box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: right;margin: 10px 0% -15px;box-sizing: border-box;">
+       <section class="tn-yzk-fuid-text-86195-1516321443662" style="text-align: justify;color: rgba(51, 48, 48, 0.98);font-size: 14px;padding: 0px 10px;box-sizing: border-box;">
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-family: PingFangTC-ultralight;box-sizing: border-box;">
+          这个寒冷的季节
+         </span>
+         <span style="font-family: PingFangTC-ultralight;letter-spacing: 0px;box-sizing: border-box;">
+          因你的关注
+         </span>
+         <span style="font-family: PingFangTC-ultralight;letter-spacing: 0px;box-sizing: border-box;">
+          而变得温暖
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: 0px 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+        <img data-ratio="0.1734375" data-type="png?x-oss-process=style/xmwebp" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/H2xpiciapWEIO2eWWqciagJkIQ8PtXX8ODbKCewmib8apdjUxEzBFBjc6w1QbW8zcapibzeB2yOicpwkgahEWQ4uNYnQ/640?wx_fmt=png?x-oss-process=style/xmwebp" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: middle;width: 50%;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: 0px 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 80%;box-sizing: border-box;">
+        <img data-ratio="1" data-type="jpegwebp" data-w="258" src="https://mmbiz.qpic.cn/mmbiz_jpg/zNTRMSNIPCj1OqvaVjQwHeFrSWEnhFy1iczbTsatackFUCKNntpd1LJxMnlo5icElKcqSRhZZEc3THNPPIVT4zYQ/640?wx_fmt=jpegwebp" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: middle;width: 50%;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style='display: inline-block;width: 150px;height: 110px;vertical-align: top;overflow: hidden;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/w5PDMu74qIPEgjKEsKoiaKPc3ogroWXZic1GDfRUSicXSADHKrVLecSzTlricJyibelibnoZgAicW2dPfBzzyotrgJpGw/640?wx_fmt=png?x-oss-process=style/xmwebp");background-position: 50% 50%;background-repeat: no-repeat;background-size: contain;background-attachment: scroll;padding: 0px 0px 0px 20px;box-sizing: border-box;'>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 18px 0% 0px;box-sizing: border-box;">
+          <section style="font-size: 21px;color: rgb(0, 0, 0);box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             关注
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: -40px 0% 0px;box-sizing: border-box;">
+       <section style="text-align: right;font-size: 12px;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         长按识别二维码
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         关注我们
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>

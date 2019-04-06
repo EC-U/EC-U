@@ -1,0 +1,1177 @@
+
+ <section style="font-size: 14px;line-height: 2;box-sizing: border-box;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.2955665" data-type="jpeg" data-w="1015" src="https://mmbiz.qpic.cn/mmbiz_jpg/wMeIKUh0RD7dicDiaj0qSh3KVepyQS905ZEjsb7jdHoazXIoAoicLXuU5vcDcNmicNkhy3COic8iasV8AbBJAMgnKgmQ/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="display: block;width: auto;vertical-align: top;padding: 10px;color: rgb(46, 164, 166);box-sizing: border-box;max-width: 100%;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;box-sizing: border-box;">
+        <section style="display: inline-block;vertical-align: top;line-height: 1em;box-sizing: border-box;">
+         <section style="width: 0px;margin-right: -0.5em;display: inline-block;vertical-align: top;border-bottom: 1em solid rgb(0, 146, 69);border-left: 0.65em solid transparent;border-right: 0.65em solid transparent;box-sizing: border-box;">
+         </section>
+         <section style="width: 0px;display: inline-block;vertical-align: top;border-top: 1em solid rgb(105, 206, 174);border-left: 0.65em solid transparent;border-right: 0.65em solid transparent;box-sizing: border-box;">
+         </section>
+        </section>
+        <section style="display: inline-block;vertical-align: top;line-height: 1em;padding-left: 6px;padding-right: 6px;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          本期精彩回顾
+         </p>
+        </section>
+        <section style="display: inline-block;vertical-align: top;line-height: 1em;box-sizing: border-box;">
+         <section style="width: 0px;display: inline-block;vertical-align: top;margin-right: -0.5em;border-top: 1em solid rgb(0, 146, 69);border-left: 0.65em solid transparent;border-right: 0.65em solid transparent;box-sizing: border-box;">
+         </section>
+         <section style="width: 0px;display: inline-block;vertical-align: top;border-bottom: 1em solid rgb(105, 206, 174);border-left: 0.65em solid transparent;border-right: 0.65em solid transparent;box-sizing: border-box;">
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="margin-top: 1em;text-align: center;letter-spacing: 1px;line-height: 1.75em;color: rgb(63, 62, 63);max-width: 100%;box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         <p style="border-bottom: 1px solid rgb(210, 210, 210);box-sizing: border-box;text-align: left;text-indent: 0em;margin: 0px;padding: 0px;">
+          <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MjM5NTcxNTQ3MA==&amp;mid=2651792018&amp;idx=1&amp;sn=bf023e729485daa11a19bbf4e5ce05eb&amp;chksm=bd0fc2738a784b651d8c86e53a7aa49675d32f883f8984d966c9002c6ba6655ec4a22f09a3b9&amp;scene=21#wechat_redirect" target="_blank">
+           新刊速递｜华东师范大学学报（教育科学版）2019年第1期
+          </a>
+          <br style="box-sizing: border-box;"/>
+         </p>
+         <p style="border-bottom: 1px solid rgb(210, 210, 210);box-sizing: border-box;text-align: left;text-indent: 0em;margin: 0px;padding: 0px;">
+          <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MjM5NTcxNTQ3MA==&amp;mid=2651792069&amp;idx=1&amp;sn=1e9a207f4e38884bdee9606efc67e167&amp;chksm=bd0fc2248a784b32a720edf77d0dbc6894773e293355ed22255ae9c35103581f9d750be7413a&amp;scene=21#wechat_redirect" target="_blank">
+           特稿 | 吴冠军：后人类状况与中国教育实践:教育终结抑或终身教育？——人工智能时代的教育哲学思考
+          </a>
+          <br style="box-sizing: border-box;"/>
+         </p>
+         <p style="border-bottom: 1px solid rgb(210, 210, 210);box-sizing: border-box;text-align: left;text-indent: 0em;margin: 0px;padding: 0px;">
+          <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MjM5NTcxNTQ3MA==&amp;mid=2651792088&amp;idx=1&amp;sn=6b595469dedc3781572073bfde229b17&amp;chksm=bd0fc2398a784b2f352830e83faf9cf5160b41154d0ec0d04080ef84756b6ed8bceb9ea20531&amp;scene=21#wechat_redirect" target="_blank">
+           徐小洲 , 叶映华：创业教育课程设计及其有效性评价——以浙江大学《创业基础》MOOC课程为样本
+          </a>
+          <br style="box-sizing: border-box;"/>
+         </p>
+         <p style="border-bottom: 1px solid rgb(210, 210, 210);box-sizing: border-box;text-align: left;text-indent: 0em;margin: 0px;padding: 0px;">
+          <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MjM5NTcxNTQ3MA==&amp;mid=2651792095&amp;idx=1&amp;sn=67a5e6cb3860b216998cad3d4e5ef590&amp;chksm=bd0fc23e8a784b283221ce23513591ed575edfc38273ffc91b9928b3cd94917bf80fa4afa113&amp;scene=21#wechat_redirect" target="_blank">
+           臧玲玲 , 梅伟惠：高校创业教育课程生态系统的生成逻辑与建设路径
+          </a>
+          <br style="box-sizing: border-box;"/>
+         </p>
+         <p style="border-bottom: 1px solid rgb(210, 210, 210);box-sizing: border-box;text-align: left;text-indent: 0em;margin: 0px;padding: 0px;">
+          <a data-itemshowtype="0" data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MjM5NTcxNTQ3MA==&amp;mid=2651792139&amp;idx=1&amp;sn=d926f1d0ad0f7918cc79ccfec3234730&amp;chksm=bd0fc3ea8a784afcac35a6abc0c3c741185ab283a519678ef4cbb2d33e927046fac6480d0259&amp;scene=21#wechat_redirect" target="_blank">
+           张敏 , 王敏敏：信息特征和调节定向对大学生创业风险决策的影响
+          </a>
+          <br style="box-sizing: border-box;"/>
+         </p>
+         <p style="border-bottom: 1px solid rgb(210, 210, 210);box-sizing: border-box;text-align: left;text-indent: 0em;margin: 0px;padding: 0px;">
+          <a data-itemshowtype="0" data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MjM5NTcxNTQ3MA==&amp;mid=2651792141&amp;idx=1&amp;sn=1e6fdc06e72587c36e23587ad0fd2318&amp;chksm=bd0fc3ec8a784afac4ad272f56e3f563645eb9f97ec7cc9812a3842e5e48463bce0d747999a9&amp;scene=21#wechat_redirect" target="_blank">
+           杨婷 , 尹向毅：大学如何构建创业支持系统——哥伦比亚大学的探索
+          </a>
+          <br/>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: center;line-height: 2;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="letter-spacing: 0px;box-sizing: border-box;">
+       <span style="font-size: 18px;box-sizing: border-box;">
+        韩国高校创业教育发展的动因、现状
+       </span>
+      </strong>
+     </p>
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="letter-spacing: 0px;box-sizing: border-box;">
+       <span style="font-size: 18px;box-sizing: border-box;">
+        及对我国的启示
+       </span>
+      </strong>
+     </p>
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      1,2 施永川 ,  3 王佳桐
+     </p>
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      1 浙江大学教育学院, 杭州 310028;
+      <span style="letter-spacing: 0px;box-sizing: border-box;">
+       2 温州大学创业人才培养学院, 温州 325035;
+      </span>
+      <span style="letter-spacing: 0px;box-sizing: border-box;">
+       3 韩国国立群山大学技术融合创业学系, 韩国群山 54150
+      </span>
+     </p>
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);border-width: 0px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;text-align: center;box-sizing: border-box;">
+       <section style="display: inline-block;width: 95%;vertical-align: top;background-color: rgb(245, 245, 245);padding: 10px;border-width: 0px;border-radius: 0px;border-style: solid;border-color: rgb(198, 198, 198);box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;padding: 20px 0px;border-style: solid;border-width: 1px;border-radius: 0px;border-color: rgb(198, 198, 198);box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(187, 222, 251);padding: 5px 0px;box-sizing: border-box;">
+              <section powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="margin: 0px 0%;box-sizing: border-box;">
+                <section style="background-color: rgb(255, 255, 255);height: 1px;box-sizing: border-box;">
+                </section>
+               </section>
+              </section>
+              <section powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="box-sizing: border-box;">
+                <section style="text-align: left;color: rgb(25, 118, 210);box-sizing: border-box;">
+                 <p style="text-align: center;margin: 0px;padding: 0px;box-sizing: border-box;">
+                  ★
+                  <strong style="box-sizing: border-box;">
+                   摘要
+                  </strong>
+                  ★
+                 </p>
+                </section>
+               </section>
+              </section>
+              <section powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="margin: 0px 0%;box-sizing: border-box;">
+                <section style="background-color: rgb(255, 255, 255);height: 1px;box-sizing: border-box;">
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin: 10px 0% 0px;box-sizing: border-box;">
+             <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px;box-sizing: border-box;">
+              <section powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="margin: 20px 0% 0px;box-sizing: border-box;">
+                <section style="text-align: justify;font-size: 12px;line-height: 1.8;box-sizing: border-box;">
+                 <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+                  韩国于20世纪80年代开始推广高校创业教育，在政府主导、产学合作和高校自我变革的推动下逐步走向了高质量的发展阶段。经过了近40年的深耕培育，形成以创业支援中心为平台的社会实践教育、以创业学科建设为主导的专业化教育和以依托产学合作的生态化创业教育为主的高校创业教育三大模式，并且在教学、资源开发及成果转化上形成了鲜明的特色。我国高校应该借鉴韩国高校创业教育的经验，重视发挥产教融合在创业教育上的作用，建立和完善创业教育资源开发系统，同时构建具有包容性的创业教育成果评估与转化机制。
+                 </p>
+                 <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+                  关键词：韩国；创业教育；产学合作；LINC；LINC+
+                 </p>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: -23px 0% 0px;box-sizing: border-box;">
+       <section style="display: inline-block;width: 150px;height: 60px;vertical-align: top;overflow: hidden;border-width: 1px;border-radius: 100%;border-style: solid solid none;border-color: rgb(198, 198, 198) rgba(248, 248, 248, 0) rgb(62, 62, 62);background-color: rgb(254, 255, 255);padding: 10px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;box-sizing: border-box;">
+          <section style="text-align: left;color: rgb(25, 118, 210);font-size: 13px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;padding: 5px;background-color: rgb(255, 243, 224);box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;box-sizing: border-box;">
+       <section style="height: 16px;box-sizing: border-box;">
+        <section style="height: 100%;width: 24px;float: left;border-top: 6px solid rgb(255, 167, 38);border-left: 6px solid rgb(255, 167, 38);border-right-color: rgb(255, 167, 38);border-bottom-color: rgb(255, 167, 38);box-sizing: border-box;">
+        </section>
+        <section style="height: 100%;width: 24px;float: right;border-top: 6px solid rgb(255, 167, 38);border-right: 6px solid rgb(255, 167, 38);border-bottom-color: rgb(255, 167, 38);border-left-color: rgb(255, 167, 38);box-sizing: border-box;">
+        </section>
+        <section style="display: inline-block;color: transparent;clear: both;box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="border-width: 1px;border-style: none;border-color: rgb(255, 167, 38);border-radius: 6px;overflow-wrap: break-word;box-sizing: border-box;margin: -13px 3px;padding: 12px;background-color: rgb(255, 255, 255);">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 10px 0%;box-sizing: border-box;">
+          <section style="text-align: justify;line-height: 1.8;font-size: 13px;color: rgb(125, 68, 29);box-sizing: border-box;">
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            <span style="letter-spacing: 0px;box-sizing: border-box;">
+             基金项目：
+            </span>
+            国家社会科学基金2015年教育学重大项目"经济转型升级中的创新创业教育研究"（VIA150002）；浙江省高等教育教学改革项目"面向创新创业的企业孵化式教学模式探索与实践"（JG2015159）
+            <span style="letter-spacing: 0px;box-sizing: border-box;">
+            </span>
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            原文载于《华东师范大学学报（教育科学版）》2019年第1期
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="height: 16px;box-sizing: border-box;">
+        <section style="height: 100%;width: 24px;float: left;border-bottom: 6px solid rgb(255, 167, 38);border-left: 6px solid rgb(255, 167, 38);border-top-color: rgb(255, 167, 38);border-right-color: rgb(255, 167, 38);box-sizing: border-box;">
+        </section>
+        <section style="height: 100%;width: 24px;float: right;border-bottom: 6px solid rgb(255, 167, 38);border-right: 6px solid rgb(255, 167, 38);border-top-color: rgb(255, 167, 38);border-left-color: rgb(255, 167, 38);box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: justify;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      2017/2018年全球创业观察报告显示，韩国政府在创业方面的政策支持在整个亚洲和大洋洲54个经济体中位列第4位，并且在主要发达经济体中排名第1位，其中有很多政策都是着眼于促进高校创业教育发展的(GEM，2018)。2017年，对于韩国的高校创业教育来说是“收官之年”，因为该年是韩国第1个大学创业教育五年计划和产学合作先导工程落幕之年；同时也是具有开创性的一年，韩国教育部在这一年里联合多个政府部门再次发布了新一轮的旨在推动高校创业教育发展的大型事业项目，其中最重要的两个事业项目是第2个大学创业教育五年计划和产学合作工程+项目(Leaders in Industry-University Cooperation Plus, 以下简称LINC+)。截至目前，韩国政府已经不止一次以“多年计划”的形式来推动国内高校创业教育的发展。从20世纪90年代末的BK21工程(Brain Korea21，以下简称BK21)，到新的大学和区域共同创新计划(New University for Regional Innovation，以下简称NURI)，再到前一阶段刚刚结束的产学合作先导工程和第一个大学创业教育五年计划，这些都充分说明了韩国政府对于高校创业教育的重视，并且给予上升到国家战略层面的支持。这些项目既具有连续性又具有全面覆盖性，从内容上看，一方面强调产学合作在创业教育发展中的作用，另一方面重视生态系统的构建。韩国高校创业教育的扶持政策，可以为我国高校创业教育的发展提供启示和借鉴。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 20px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;padding: 0px 8px 8px;background-color: rgb(245, 213, 66);box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: -10px 0% 0px;box-sizing: border-box;">
+       <section style="padding: 3px;display: inline-block;border-bottom: 1px solid rgb(62, 62, 62);line-height: 1.5;letter-spacing: 0.8px;font-size: 18px;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          一、韩国高校创业教育发展的三重动因
+         </strong>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: justify;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      在大力发展创业教育成为全球大趋势的背景下，韩国各个高校掀起了创业教育的热潮。其原因有三：韩国政府主导作用，产业界的积极参与，高校自身主动寻求变革。在这些动因的共同作用下，韩国的高校创业教育不断地走向高质量发展。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 0.5em 0px;box-sizing: border-box;">
+    <section style="border-bottom: 1px solid rgb(249, 110, 87);padding-left: 15px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       (一) 政府大力实施创业人才培养计划为创业教育的发展奠定了制度保障
+      </strong>
+     </p>
+    </section>
+    <section style="border-left: 1px solid rgb(249, 110, 87);height: 25px;margin-top: -16px;margin-left: 8px;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: justify;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      韩国高校创业教育的迅速发展，主要得益于政府长期对高校创业教育的重视(朱春楠，2012)。韩国政府于20世纪60年代起就开始重视提高高校的科学研究水平和培养具有创新精神的人才。在20世纪80年代前后，韩国政府开始制定相应的计划，支持部分高校开展创业教育，并孵化出了不少优秀的企业家和中小企业。一直到20世纪末，其支持力度一直呈上升趋势，但支持范围局限于首尔圈的一些高校或者具有高水平的研究院，其目标主要在于建设国际知名大学和培养创新应用性人才。到了21世纪初，面临着国际金融危机爆发和国内长期失业率居高不下的现状，韩国政府开始制定和实施几乎覆盖所有高校和旨在培养大学生创业能力的大型事业计划，同时定期开展评估，并且根据评估结果给予创业教育财政和人力上的支持。因此从2010年开始，韩国高校的创业教育得到了全面发展，创业教育生态不断趋向完善。截至2017年年底，韩国共有194所高校创建了创业学院或者创业保育中心，同时开设创业课程的高校及创业课程量也随之得到了飞速增长。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 0.5em 0px;box-sizing: border-box;">
+    <section style="border-bottom: 1px solid rgb(249, 110, 87);padding-left: 15px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       (二) 产学合作的大力推广促进了产教融合型创业教育的形成
+      </strong>
+     </p>
+    </section>
+    <section style="border-left: 1px solid rgb(249, 110, 87);height: 25px;margin-top: -16px;margin-left: 8px;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: justify;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      韩国目前形成了非常成熟的产学合作模式(见表 1)，同时也推动着高校创业教育的发展。韩国政府于2004年实施了旨在促进区域和大学的共同进步计划(NURI，2004－2009年)，每年年均投资260亿韩元，共计投资1.24兆韩元(约合12.7亿美元)，最终在地方和高校形成一个有效的产学协作体系并合理运营。该系统旨在为企业、大学、智囊团和政府彼此间的研发、技术转移和人力资源开发提供一个战略工具，该计划的中期评估得到社会各界的认同(NURI Mid-term Evaluation Results Announced，2007)。鉴于NURI的发展经验，韩国教育科技部、韩国国家研究基金会为实现当局政府提出的“创造经济”愿景、实现经济的快速增长出台了新一轮的产学合作大型工程——产学合作先导工程(LINC项目)。该工程由三大政府部门牵头，经过三轮评估遴选出51所高校，从2012年开始，每年资助1700亿韩元，用于促进产教融合和支持创业教育发展(崔鸣哲, 2017, 第14页)。之后，韩国9部门联合出台了“产学合作五年计划”(2016－2020年)，即LINC+项目，这一轮项目特别强调了要进一步推动高校创业教育的发展，鼓励大学毕业生创新创业。无论是NURI还是LINC、LINC+，这三项大型工程的目标都是为了对大学教育进行全面改革，以促进地方企业与大学的直接合作，扩大青年就业和创业规模，增强企业竞争力。产学合作是韩国政府、企业、高校共同推动国家经济、教育、科研发展的重要桥梁，同时也为产教融合型创业教育的形成与发展提供了契机。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.3554987" data-type="png" data-w="782" src="https://mmbiz.qpic.cn/mmbiz_png/wMeIKUh0RD7dicDiaj0qSh3KVepyQS905ZKQ9qOJqQLwC4vOATkrlxFBXlTlvxpv9gnauZzsEzAvVDAqlftQpoNA/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 0.5em 0px;box-sizing: border-box;">
+    <section style="border-bottom: 1px solid rgb(249, 110, 87);padding-left: 15px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       (三) 高校积极追求自我变革有效保障了创业教育的落地
+      </strong>
+     </p>
+    </section>
+    <section style="border-left: 1px solid rgb(249, 110, 87);height: 25px;margin-top: -16px;margin-left: 8px;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: justify;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      无论是韩国政府的大力支持，还是产学合作的推动，其目的都是希望能够推动韩国高等教育的改革，而改革的目标是让教育更加贴近社会发展和科技进步，从而丰富高校的功能内涵和提升高校自身的价值。除了政府相关部门的评估压力和产学合作的激励，韩国高校自身也有发展创业教育的内因。众所周知，韩国高校的入学率在全世界处于前列，进入21世纪以来，韩国高校的毛入学率在80%左右，但是由于受到人口结构、劳动力市场结构、雇用习惯和大学毕业生供过于求等方面的影响，韩国国内的就业形势近年来比较严峻，出现了学生大规模休学和退学现象。高校期待通过发展创业教育解决这一社会难题。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 20px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;padding: 0px 8px 8px;background-color: rgb(245, 213, 66);box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: -10px 0% 0px;box-sizing: border-box;">
+       <section style="padding: 3px;display: inline-block;border-bottom: 1px solid rgb(62, 62, 62);line-height: 1.5;letter-spacing: 0.8px;font-size: 18px;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          二、韩国高校创业教育的三大模式
+         </strong>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: justify;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      韩国高校创业教育在近四十年的发展过程中，逐步形成了以创业支援中心为平台的社会实践教育模式，以创业学科建设为主导的专业化教育模式以及以产学研三维互动的生态化的教育模式，即产教融合型创业教育。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 0.5em 0px;box-sizing: border-box;">
+    <section style="border-bottom: 1px solid rgb(249, 110, 87);padding-left: 15px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       (一) 以创业支援团为平台的社会实践教育模式
+      </strong>
+     </p>
+    </section>
+    <section style="border-left: 1px solid rgb(249, 110, 87);height: 25px;margin-top: -16px;margin-left: 8px;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: justify;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      韩国高校创业教育开展初期是围绕学生社会实践来进行的，最典型的模式就是创业支援团或创业支援中心，目前几乎覆盖每一所大学。韩国西京大学的创业支援中心是典范。其依托教育基金的支持，建立了完备的创业支持体系。该体系设创业能力诊断测试、专题讲座、创业公开课、创业资金扶持等14个模块，以培养学生的创造性思维能力，培养创业支持和创业教育等运营方面的人才(서경대학교.창업지원센터뷉사이트，2018)。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 0.5em 0px;box-sizing: border-box;">
+    <section style="border-bottom: 1px solid rgb(249, 110, 87);padding-left: 15px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       (二) 以创业学科建设为主导的专业化教育模式
+      </strong>
+     </p>
+    </section>
+    <section style="border-left: 1px solid rgb(249, 110, 87);height: 25px;margin-top: -16px;margin-left: 8px;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: justify;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      韩国创业学科的形成离不开韩国政府源源不断的资金投入和切实有效的激励机制。在韩国，中小企业厅是除了教育部之外长期关注高校创业教育发展的一个重要的政府部门。该部门在1986年首次推出《中小企业创业支援法》，1998年又推出了《关于创业企业的特别法》，设立专项资金和创业振兴院推动高校创业学院和研究生院的发展。2000年，韩国教育部提出在未来3年投入1900亿韩元，用以推进创业教育发展。这些宏伟计划及资金的大力支持促进了创业教育专业化、学科化的进程。2013年，全韩境内共有160所四年制高校开设了创业教育课程，而到了2016年，随着韩国政府在五大区域开展的三次大规模支持创业教育发展的计划，几乎每个区域都产生了大量的创业类专业和内容丰富的创业课程，进修人数也逐年上升(见表 2)。整体来看，韩国高校创业学科化进程分为两个阶段：第一阶段是以经管类院校或系部为中心创办创业学专业；第二阶段则全面推广创业学专业建设，在各学校建立创业学部或研究生院并开设一系列课程，实行系统化教育。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.3543165" data-type="png" data-w="556" src="https://mmbiz.qpic.cn/mmbiz_png/wMeIKUh0RD7dicDiaj0qSh3KVepyQS905Z9BpMth4HozX1vc44EELyfY8kpfCQW2zYJicBxaF7U2X0nm2zUYFVicNw/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: justify;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      此外，韩国研究生创业教育也走出了一条特色化道路。面对创业教育需求的不断扩大，韩国政府于2004年将全国划分为首都圈、京畿江源圈、忠清圈、庆尚圈和全罗圈五大区域，在每个区域中各选取1所高校创建了创业研究生院。当年共有50多所高校提出申请，经过激烈竞争，最终指定湖西大学、中央大学、大田大学、晋州产业大学和艺园艺术大学为创业研究生院事业高校(朴钟鹤，2013)，2014年又在成均馆大学、延世大学、国民大学、启明大学、釜山国立大学建立了创业研究生院，并逐渐产生了创业学博士项目。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 0.5em 0px;box-sizing: border-box;">
+    <section style="border-bottom: 1px solid rgb(249, 110, 87);padding-left: 15px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       (三) 产学研三维互动的生态化创业教育模式
+      </strong>
+     </p>
+    </section>
+    <section style="border-left: 1px solid rgb(249, 110, 87);height: 25px;margin-top: -16px;margin-left: 8px;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: justify;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      韩国历次全国性的产学合作计划的实施都给予了韩国创业教育新的发展机遇，尤其是“产学合作先导工程”和“产学合作五年计划”的实施，韩国高校创业教育进入了产学研三维互动的生态化教育阶段(见图 1)。在韩国，有近60所高校目前选择了这种模式，即在顶层设计和组织架构上让产学合作与创业教育得以融合。在这一阶段，被遴选进入产学合作工程和计划的高校，依托提供的基金和资源，在合作基金会或产教融合中心之下建立了师资齐备、多专业融入、成果转化机制健全的创业教育平台(见图 2)。这一方面是为了方便吸收产学基金的投入，另一方面是希望形成综合型的创业教育平台。实践证明，这拓展了创业教育平台的功能性，同时也有利于依托产学合作平台多主体参与的特性，让企业、研发机构、学生创业社团能够充分融合，塑造浓厚的创业氛围。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="1.0676329" data-type="png" data-w="414" src="https://mmbiz.qpic.cn/mmbiz_png/wMeIKUh0RD7dicDiaj0qSh3KVepyQS905Zj8CfAhwkux7J8LTtcUznC6JEWnzgT8JKGOo65dcLRosMOFJDANKWdw/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.3886525" data-type="png" data-w="705" src="https://mmbiz.qpic.cn/mmbiz_png/wMeIKUh0RD7dicDiaj0qSh3KVepyQS905ZcJdYggXicdZHCBPOcWNAc7maNPxlr1u4xU9tHOnsoCa6d0vEvfEpvgw/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 20px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;padding: 0px 8px 8px;background-color: rgb(245, 213, 66);box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: -10px 0% 0px;box-sizing: border-box;">
+       <section style="padding: 3px;display: inline-block;border-bottom: 1px solid rgb(62, 62, 62);line-height: 1.5;letter-spacing: 0.8px;font-size: 18px;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          三、韩国高校创业教育的经验
+         </strong>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: justify;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      韩国高校创业教育逐渐形成了自己的特色。在教学层面上主要表现为受众覆盖广泛、师资队伍国际化、教学形式灵活多样；在资源开发层面上主要表现为资金投入主体多元化、管理人员的专业化、学术研究常态化；在成果评估和转化层面则表现为评估系统完备化和成果转化的开放化。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 0.5em 0px;box-sizing: border-box;">
+    <section style="border-bottom: 1px solid rgb(249, 110, 87);padding-left: 15px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       (一) 创业教育教学层面
+      </strong>
+     </p>
+    </section>
+    <section style="border-left: 1px solid rgb(249, 110, 87);height: 25px;margin-top: -16px;margin-left: 8px;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: justify;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      在创业教育教学层面，韩国高校极力打造校内校外两个平台，充分利用国内国外两种资源，强调师资的多元性和受众的广泛性。
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      1. 课程体系受众覆盖面广泛
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      韩国高校创业教育已经形成比较完备的课程体系，在创业教育课程的内容上十分重视应用性，尤其注重与专业学科的融合。在受众方面，不仅包括本、专科生，同时涵盖到了硕博研究生。如忠北大学将企业家精神和知识产权管理课程作为本科生基础课程；东新大学针对不同年段的本科生将课程分成计划、提高与支援三个层次；亚洲大学则结合学生的专业开设了职业与创业生涯设计、技术融合与商业化课程；韩瑞大学结合自身在航空航天等优势专业开设以服务为导向的H-A-E全球创业学课程。而研究生课程则在本科生课程内容基础上设置更具专业性和国际化的内容(见表 3)，大部分课程都非常注重培养学生分析能力和管理能力，兼具学术性和实用性，鼓励学生以更广阔的视角判断创业项目的可行性，并投入到未来的商业实践中。例如，Kaist大学开设了两年制社会创业MBA课程，在国际上享有很高的声誉，为韩国培养了一大批社会创业领军人才(Kang Minjeong，2017)。有些高校同时也开设了博士课程，注重文理兼修与前沿理论研究相结合，例如群山大学开设的国际创业学博士课程项目。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.5460358" data-type="png" data-w="782" src="https://mmbiz.qpic.cn/mmbiz_png/wMeIKUh0RD7dicDiaj0qSh3KVepyQS905ZkmqLrUuFlnytXw48yMibqbtjrmuS4mbEQO5RJymT597yQJIjyiaTIbcQ/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: justify;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      2. 师资队伍既注重多元化又注重国际化
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      在师资队伍方面，韩国各高校建立了由朋辈导师、本校教授、国际学者和企业家教练组成的多元化师资队伍。其中朋辈导师大多是由已经毕业的优秀校友来担纲，韩国高校经常邀请创业校友返校为学生开展演讲，以实际经历来激发学生们的思考；创业理论课程的讲授则由本校教授承担，同时要求授课教师必须先到企业进行调查、学习和研究，制定相应的学习计划和教学方法。特别要强调的是在韩国高校承担创业教育理论课的教师中，78%的教师有企业工作经验，50%以上的老师有3年以上在企业或研究部门工作的经验(徐小洲, 2013, 第40页)。此外，由于韩国高校长期以来形成的访问制度，韩国高校可以大量聘请欧美国家的创业教育专家进入课堂讲授创业教育课程，这为国际化、高质量创业教育师资提供了保障。国外学者加上本国具有实战经验的师资，使得创业教育能够在创业理论的基础上进行创业实践，同时也能使学生了解不同国家的创业前沿，大大开拓了眼界和格局(朱春楠，2012)。同时，韩国高校也特别注重企业家精神的引领作用，经常邀请地方优秀的企业家作为创业教练，讲授创业实践内容与实战案例，并广泛实施“结对”制度，让企业家精神深入到学生头脑之中。
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      3. 教学形式灵活且偏重课外实践
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      韩国高校创业教育教学形式比较灵活，特别注重学生的体验。除了通过课堂讲授和专题讲座来培养学生的创业技能外，学校更多的是以学生为中心，采用大量非正式课堂的教学形式，鼓励学生们“走出校门，站上讲台、进入创业现场”。这些形式不仅能够提升学生感性体验，而且使创业教育教学更具趣味性和实效性。走出校门通常由创业导师或者创业俱乐部负责带领学生前往当地知名企业或者创业校友企业进行参观，并与企业管理人员交谈，感受企业家精神与企业的运营模式。站上讲台主要是为了增强学生的自信心和营造创业氛围，鼓励学生在创业社团或者路演区域公开阐述自己的创意和创业项目，并通过这一过程分析优秀学生的创业素养, 发现有创业潜力的创业选手和团队，推荐他们参与各类创业竞赛。走进创业现场，则是希望学生通过参与实践活动将书本中企业的经营和管理模式与现实接轨，同时将创业意识和企业家精神与现实碰撞，促使创业意识与企业家精神深深根植于学生心中。可以看出，韩国高校创业教育在教学上既注重学生思维的形成，又注重实践能力的培养，并充分利用好校内校外两种资源和国内国外两种资源。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 0.5em 0px;box-sizing: border-box;">
+    <section style="border-bottom: 1px solid rgb(249, 110, 87);padding-left: 15px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       (二) 创业教育资源与开发层面
+      </strong>
+     </p>
+    </section>
+    <section style="border-left: 1px solid rgb(249, 110, 87);height: 25px;margin-top: -16px;margin-left: 8px;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: justify;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      创业教育资源涉及资金支持、师资配备、课程研发以及平台建设等方方面面，韩国的高校借助政府和地方产业的力量，实现了资源的全方面开发。
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      1. 多方面的创业教育资金来源
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      创业教育的发展首先得得益于资金的投入。韩国高校的一大特色就是吸收各种各样的教育基金来激励本校的发展，尤其是那些具备高端研发能力的高校。在这方面，韩国政府起了主导作用。进入21世纪以后，韩国政府开始投入资金支持高校开展创业教育，例如在2000年，韩国教育部提出在未来3年投入1900亿韩元，以推进创业教育发展；2006—2010年间，韩国政府投入60亿韩元来保障创业研究生院的运营；在2011年政府预算投入约1120亿韩元促进青年创业，其中54.5亿韩元专项用于高校创业教育(2013，朴钟鹤)。2012—2017年间又分别开展产学合作先导工程、产学合作五年计划、创业教育五年计划，2018年春天又启动了第二个创业教育五年计划，投入大量的资金激励大学生甚至硕博学生进行创业活动，使得韩国高校创业教育事业得到充分的发展。同时，而且韩国大型财团如三星、现代、大宇、LG等联合地方非政府组织纷纷建立教育支援基金，支持高校创业教育发展。
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      2. 专业化的创业教育师资队伍
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      韩国于2011年创办了创业教师协会。该协会作为指导性机构对高校创业师资设置比较高的门槛:要求创业专业课教师必须具备企业管理经验; 近年来由于韩国创业学博士的出现，在学历方面也对教师提出更高的要求；而创业兼职讲师除了对创业校友放宽准入之外，其他进入讲师团的校外人员都必须在企业当中担任一定职务，并且必须承担创业学科所含课程量的30%以上。创业教育人力资源除了涉及承担相关课程的教师外，还涉及创业教育管理人员。韩国特别重视人力资源在创业教育上的合理分工，一方面出于创业教育成果转化的考虑，特别注重吸收和培养具备知识产权管理、资本管理和赛事管理等经验的专业人才，另一方面也希望承担课程讲授的教师能够专注课程的开发和研究。分工的合理化使得韩国创业教育人力资源不断走向专业化，同时也大大提升了创业教育的质量。如汉阳大学创业学院与韩国银行界青年创业财团等非营利组织签订创业资源共同开发合作协议，特别强化了在人力资源方面的合作。从2014年开始，青年创业财团为汉阳大学创业学院提供风险管理方面服务，定期派遣高级财务人员为创业学生提供专业的财务管理咨询和培训，同时该组织还在学生与优秀企业家之间建立了对话机制。2016年，该组织又创建“狮子杯”全球创意创业奖学金，奖金最高200万韩元，旨在鼓励学生参与全球创业训练营和国际企业探访。
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      3. 常态化的创业教育理论研究
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      韩国的创业教育研究始于20世纪80年代。随着创业教育的开展，学者们意识到创业教育的重要性，同时政府和高校也认识到创业教育既需要学科化更需要科学化，需要开展创业教育理论研究为创业教育提供理论基础，提升创业教育的水平。在早期，学者们主要从商业、创业、风险等角度的来开展学术活动, 到了20世纪末扩展到心理和测量领域。进入21世纪后，学者们除了关注企业家特点、机会识别、家族企业、风险投资之外，又将目光转向内部创业、国际创业等领域。近年来，由于关注创业教育的研究人员背景呈现出多元化趋势，因此跨学科来研究创业及创业教育的研究成果也逐渐涌现出来。同时，由于韩国很多高校和政府部门纷纷成立创业教育研究中心并重视引进欧美研究学者，所以也产生了一批具有国际性、高水平的学术论文和刊物。目前, 在韩国共有142种期刊开设了创业教育相关栏目，发文涉及的学科也不仅仅局限于社会科学，还涵盖了艺术、自然科学、工程等(Lee Woo Jin，2015)。此外，韩国教育部每年还聘请专家学者撰写《韩国创业监测》《韩国创业教育年表》等学术出版物来介绍韩国高校创业教育发展状况、社会大众评价、优秀案例以及未来发展建议。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 0.5em 0px;box-sizing: border-box;">
+    <section style="border-bottom: 1px solid rgb(249, 110, 87);padding-left: 15px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       (三) 创业教育成果评估与转化层面
+      </strong>
+     </p>
+    </section>
+    <section style="border-left: 1px solid rgb(249, 110, 87);height: 25px;margin-top: -16px;margin-left: 8px;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: justify;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      韩国高校的创业教育评估体系属于成果导向型，拥有比较全面的评价指标，通常采取系统化的评估方式，而在成果转化层面则非常注重开放性和共享性。
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      1. 完备的创业教育成果评估体系
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      在政府层面，主要根据社会效应和校方制定的方案来评估下一年度创业教育基金的投入。如产学合作先导工程在实施前就对高校创业教育采取“333”评估机制，即三个主体(政、企、校)，三个维度(制度、人力、成果转化)，三个阶段。
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      2. 开源的创业教育成果转化路径
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      韩国大部分高校的创业教育所依托的平台都是产学合作，这也就意味着创业教育的成果转化更倾向于能够产业化，同时产学合作平台也打破了创业教育仅在校园的界限，让创业教育成果能够接受产业的洗礼，使企业文化、创新精神等文化养料充满创业教育的全过程。因此韩国的创业教育成果在产学合作平台的转化过程中是一个开源的系统，如朝鲜大学创建的创业教育ESIS成果转化系统(见图 4)。高校一部分创业教育资源可以在产学合作平台中获取，创业教育成果可以提交到产学合作平台进行评价，评价良好后可以进行共同开发，形成具体的创业项目。为了使得这一转化路径顺畅，韩国高校还设置了事后管理指导教师，专门负责为创业教育成果产业化提供帮扶与支持。如浦项科技大学以工业强势学科创业教育为出发点与当地社区和企业建立更加系统和有机的合作伙伴关系，三方互利共赢，让大学创业教育成果通过工业化为高校——区域协同效应做出贡献(见图 5)。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.4568528" data-type="png" data-w="394" src="https://mmbiz.qpic.cn/mmbiz_png/wMeIKUh0RD7dicDiaj0qSh3KVepyQS905Zlc9I2Z9jLpAsG2Znd4eY3AJ1vP7uXY1venzSkRmfaiaYgBW29Pibu0Bw/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.4209115" data-type="png" data-w="373" src="https://mmbiz.qpic.cn/mmbiz_png/wMeIKUh0RD7dicDiaj0qSh3KVepyQS905Zk4biagbrgFzFU7CmXzRhCLRRWHSDwCnCsHNSictHVGgt8Am9PoAG556A/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 20px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;padding: 0px 8px 8px;background-color: rgb(245, 213, 66);border-width: 0px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: -10px 0% 0px;box-sizing: border-box;">
+       <section style="padding: 3px;display: inline-block;border-bottom: 1px solid rgb(62, 62, 62);line-height: 1.5;letter-spacing: 0.8px;font-size: 18px;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          四、韩国高校创业教育对我国的启示
+         </strong>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: justify;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      我国与韩国在地理位置上同属于东亚国家，在文化上又有着很多相似的地方，借鉴韩国高校在平台建设、资源开发以及成果转化方面的创业教育成果，对于我国高校的创业教育有着非常重要的意义。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 0.5em 0px;box-sizing: border-box;">
+    <section style="border-bottom: 1px solid rgb(249, 110, 87);padding-left: 15px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       (一) 重视发挥产教融合在创业教育中的作用
+      </strong>
+     </p>
+    </section>
+    <section style="border-left: 1px solid rgb(249, 110, 87);height: 25px;margin-top: -16px;margin-left: 8px;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: justify;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      目前韩国高校创业教育的最大特色就是依托产学合作促进创业教育的发展，形成了极具生态化的产教融合性创业教育模式。因为国家和地方产业在高校内部建立了具有长期性和持续性的产学合作基金会，所以几乎每所院校都设置了产学合作中心或者产学合作学院，同时大部分高校也把自己的创业学院、创业支援团甚至创业社团都安排到了产学合作中心，甚至将网站的主页都进行合并。这一特色非常具有现实性，是一种成果导向型的模式，具有可持续性；无论是在资金、人力资源的获取上还是在创业教育成果的转化上，都有着“近水楼台先得月”的便利。纵观我国的创业教育，虽然在校企和校地互动上不缺乏优秀的案例，但是真正做到将创业教育纳入到产学合作系统中的少之又少，“产、学、研、创”之间运行不畅。我们可以借鉴韩国的经验，以政府为主导，重视校企、校地的互动与合作。首先，在学校整体层面，建立产教融合中心或者产业学院等相应的机构，并由校领导兼任负责人，作为引领高校产教融合发展的部门，集合各个二级学院的强势专业，结合地方和产业发展需求，形成各类应用性较强的创新实验室，并制定相应的产教融合激励机制，鼓励师生以实验室为平台，结合专业特色和市场需求开展创新活动，甚至开办相应的创业实体；其次，在学校创业教育层面，应该加强专业融入性和产业先导性课程的开发，大力培育和引进“双师型”创业导师，培养学生市场化思维和服务地方和产业发展的意识；最后，考虑到我国高校的现实问题，可以考虑构建创业教育与产学合作需求导向型的共享组织体，即在学校创业教育主管部门与产学合作主管部门之间建立共建共享机制，互相输送资源、互补短板、提供支持，形成开放共享生态体系，从而将产、学、研、创四者紧密联系起来(林娟娟等，2017)。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 0.5em 0px;box-sizing: border-box;">
+    <section style="border-bottom: 1px solid rgb(249, 110, 87);padding-left: 15px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       (二) 建立和完善创业教育资源开发系统
+      </strong>
+     </p>
+    </section>
+    <section style="border-left: 1px solid rgb(249, 110, 87);height: 25px;margin-top: -16px;margin-left: 8px;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: justify;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      韩国高校在创业教育资源开发上充分借助了政府、大企业财团以及非政府组织的力量，韩国社会各界对于创业教育给予了很大的支持。良好的社会支持体系为建立和完善创业教育资源开发系统提供了便利，这就为校内外、海内外创业教育人才的引进，创业教育基金的投入和综合型平台的建设奠定了坚实的物质保障。在我国，参与创业教育资源开发的主体大多都局限于教育系统或者是游离于教育系统边缘的机构和组织，力量较为单薄，并且缺乏一定的集聚效应。这样导致的结果就是创业教育师资队伍专业化和多元化程度不高，创业教育管理和开发难度大，支持资金来源单一，最终导致形成综合型的平台速度缓慢。因此，我国应该继续在全社会营造良好的创业氛围，构建良好的创业教育支持体系。首先，政府应同社会各界尤其是企业家共同建立相关的创业教育基金，丰富创业教育资金的来源，以用于相应的平台建设和人才培养。其次，鼓励创业教育相关协会和公益组织的发展，加大力度培训专门的创业教育管理人才，提升创业教育资源的整合水平。再次，重视创业教育理论研究，开展广泛的学术活动和国际交流，为创业教育的高质量发展奠定行动指南。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 0.5em 0px;box-sizing: border-box;">
+    <section style="border-bottom: 1px solid rgb(249, 110, 87);padding-left: 15px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       (三) 构建具有包容性的创业教育成果评估与转化机制
+      </strong>
+     </p>
+    </section>
+    <section style="border-left: 1px solid rgb(249, 110, 87);height: 25px;margin-top: -16px;margin-left: 8px;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: justify;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      韩国高校的创业教育在成果评估上具有可追溯性，这不仅仅是对学校和学生负责，也是为各参与主体负责，同时也为下一步的投入提供参考依据。尽管创业教育成果评估是按照指标量化打分的，但对于学生层面的评估非常具有包容性，通常会用长远的眼光去审视学生创业素养的形成以及创业项目的成长。韩国高校的创业保育机制对项目的培育起到了很好的作用，会利用数据可视化等手段继续对学生及创业项目进行评估和追踪，并且直接延伸到毕业以后。在成果转化上，强调创业教育最终成果的商业化和产业化，这也源于整个创业教育生态前端工作的扎实性，所以在终端一旦具有可行性，立即就可以嫁接相关产业并依靠创业基金走向市场。因此，我国也可以建立具有包容性的创业教育成果评价和监测体系：首先，构建三大数据库，即创业导师数据库、学生能力数据库和创业项目数据库，提高创业教育管理质量；其次，定期对创业导师、学生能力和创业项目进行评分，并形成分析报告，构建准入和退出机制；最后，将数据和分析报告与企业进行共享，共同遴选符合地方发展和产业需求的成果，并给予能够迅速市场化的相关资源支持。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: justify;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: justify;font-size: 12px;box-sizing: border-box;">
+     <p style="text-align: center;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <span style="letter-spacing: 0px;box-sizing: border-box;">
+      </span>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(247, 247, 247);padding: 10px 0px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0% 10px;box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;border-width: 0px 0px 0px 6px;border-style: solid;border-left-color: rgb(245, 140, 66);border-right-color: rgb(245, 140, 66);padding: 0px 6px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             参考文献
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;box-sizing: border-box;">
+       <section style="display: inline-table;border-collapse: collapse;table-layout: fixed;width: 95%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: justify;font-size: 12px;box-sizing: border-box;">
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            崔鸣哲.(2017).韩国产学合作先导工程(LINC)研究.长春: 吉林大学硕士学位论文.
+           </p>
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            林娟娟, 施永川, 李鹏. (2017). 构建"产业、专业、创业"集成融合的应用型人才培养生态. 国高等教育, (11), 43-45.
+           </p>
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            李昕. (2016). 韩国九部门联合制定"产学合作五年计划". 上海教育, (26), 57-59.
+           </p>
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            朴钟鹤. (2013). 韩国高校创业教育发展与创新——以五所"创业研究生院"为例. 比较教育研究, (5), 63-67.
+           </p>
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            徐小洲. (2013). 当代韩国高等教育研究. 杭州: 浙江大学出版社.
+           </p>
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            朱春楠. (2012). 韩国高校创业教育动因及特色分析. 外国教育研究, (8), 23-29.
+           </p>
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            GEM.(2018).Global Entrepreneurship Monitor Report 2017-2018. Retrieved from: https://www.gemconsortium.org/report.
+           </p>
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            KangMinjeong. (2017). A Study on Social Entrepreneurs Education Method-based on Experiences and Achievement of KAIST Social Entrepreneurship MB. Research Institute for social Enterprise, (6), 187-221.
+           </p>
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            Lee WooJin, Yun HwangBo. (2015). The Chronology of Korean Entrepreneurship Education:The feature analysis and future development of entrepreneurship education. Asia-Pacific Journal of Business Venturing and Entrepreneurship, (10), 171-183.
+           </p>
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            University Restructuring Team.(2018).NURI Mid-term Evaluation Results Announced. Retrieved from: http://english.moe.go.kr/boardCnts/view.do?boardID=265&amp;lev=0&amp;statusYN=C&amp;s=english&amp;m=03&amp;opType=N&amp;boardSeq=1880.
+           </p>
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            중소기업청, (사)한국창업보육협회.(2018).한국창업보육백서 발간예정.Retrieved from: http://www.moe.go.kr/boardCnts/list.do?boardID=325&amp;m=030306&amp;s=moe.
+           </p>
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            서경대학교.창업지원센터뷉사이트.(2018). Retrieved from: https://innovation.skuniv.ac.kr/centers/foundation-support-center/.
+           </p>
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            한국 과학기술정책연구원.(2016).2016년기업가정신모니터링. Retrieved from: http://kiss.kstudy.com/public/public2-article.asp?key=50894335
+           </p>
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            조선대학교.(2018).창업지원센터 홈페이자. Retrieved from: http://linc.chosun.ac.kr/home/?CID=wpage/found01.
+           </p>
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            중앙대학교.(2018).창업대학원홈페이지. Retrieved from: https://www.cau.ac.kr/02_univ/graduateschool/special/special06.php.
+           </p>
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            군산대학교.(2018).융합기술창업 학과사이트. Retrieved from: http://www.kunsan.ac.kr/index.kunsan?menuCd=DOM_000000102003005000&amp;sso=ok.
+           </p>
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            조선대학교.(2018).창업교육소개. Retrieved from: http://linc.chosun.ac.kr/home/?CID=wpage/found01.php.
+           </p>
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            한국교육부.(2018).——사회맞춤형산학협력——선도대학(LINC+) 육성사업 하계 포럼. Retrieved from: http://lincplus.nrf.re.kr/
+           </p>
+           <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            포항대.(2018).학산학협 력사이트. Retrieved from: http://www.postech.ac.kr/research/research-and-business-development-foundation/about-research-and-business-development-foundation.
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.36875" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/wMeIKUh0RD7dicDiaj0qSh3KVepyQS905ZWXh4nYjWdmFCkKxbEnbfkx14ZKa89N0vE9ZoibJ1qtl3u9vpgNz6BYg/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.4828125" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/wMeIKUh0RD7dicDiaj0qSh3KVepyQS905Z0yQaAibfqfDSuzgphReIpEXXeGb9XLLiaHOSztXPNEv2QLQerryKtd8g/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="1.3839836" data-type="jpeg" data-w="487" src="https://mmbiz.qpic.cn/mmbiz_jpg/wMeIKUh0RD7dicDiaj0qSh3KVepyQS905Z1nInGVqELfGE6DaRUYdBxiag0RS4j0Bb8LpgnL5WcRSKmCudGT1Y8FA/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style='display: inline-block;width: 100%;vertical-align: top;background-position: 0% 0%;background-repeat: repeat;background-size: 99.0957%;background-attachment: scroll;letter-spacing: 0px;padding: 15px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/med7UGkwVibia3rhwtBUjWWDrj2akW10liaK0RkeY0d4mpOjkyB6xV7h8Dz4WV1WGx9Xtgo4sicydv285oKQXmicWAw/640?wx_fmt=png");box-sizing: border-box;'>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 5px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;overflow: hidden;height: 70px;border-style: solid;border-width: 0px;border-radius: 5px;border-color: rgb(164, 197, 244);padding: 0px 10px;box-shadow: rgb(133, 134, 135) 0px 0px 8px inset;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 5px 0% 0px;font-size: 15px;text-align: center;box-sizing: border-box;">
+          <section style="display: inline-block;vertical-align: middle;width: 13%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="font-size: 11px;margin: 10px 0%;transform: translate3d(10px, 0px, 0px);-webkit-transform: translate3d(10px, 0px, 0px);-moz-transform: translate3d(10px, 0px, 0px);-o-transform: translate3d(10px, 0px, 0px);box-sizing: border-box;">
+             <section style='box-sizing: border-box;margin: auto;width: 3em;height: 3em;vertical-align: top;background-position: 0% 0%;background-repeat: no-repeat;background-size: 100%;display: inline-block;border-width: 0px;border-radius: 50% 0% 50% 50%;border-style: solid;border-color: rgb(62, 62, 62);box-shadow: rgb(0, 0, 0) 0px 0px 0px;overflow: hidden;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/wMeIKUh0RD7dicDiaj0qSh3KVepyQS905Zk5OIib8tkzgfSCkRCDagQhS1uKJam7um8uic9hzwu3F91vQMSKCnWlYQ/640?wx_fmt=gif");'>
+             </section>
+            </section>
+           </section>
+          </section>
+          <section style="display: inline-block;vertical-align: middle;width: 64%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;padding: 0px 10px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="transform: translate3d(10px, 0px, 0px);-webkit-transform: translate3d(10px, 0px, 0px);-moz-transform: translate3d(10px, 0px, 0px);-o-transform: translate3d(10px, 0px, 0px);box-sizing: border-box;">
+             <section style="font-size: 12px;box-sizing: border-box;">
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               华东师范大学学报
+              </p>
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="letter-spacing: 0px;box-sizing: border-box;">
+               </span>
+               <span style="letter-spacing: 0px;box-sizing: border-box;">
+                微信矩阵
+               </span>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+          <section class="group-empty" style="display: inline-block;vertical-align: middle;width: 22%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;border-color: rgb(113, 215, 0);border-width: 0px;border-radius: 0px;border-style: none;box-sizing: border-box;height: 1px;">
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="font-size: 0px;box-sizing: border-box;">
+        <img data-ratio="1" data-type="gif" data-w="258" src="https://mmbiz.qpic.cn/mmbiz_png/EDpF4JHIeu37fM9AxtaicWlWm2QSvNQYiaKYe01MdWUVicZ7zGuBSsbRrcxLTdkicsOP9tfn7YcSXLRxcdGibrXFOyw/640?wx_fmt=gif" style="opacity: 0;vertical-align: top;display: inline-block;margin-top: -70px;height: 70px;max-height: 70px;min-height: 70px;width: 100%;box-sizing: border-box;" width="100%"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;box-sizing: border-box;">
+       <section style="background-image: linear-gradient(135deg, rgb(223, 142, 77) 0%, rgb(236, 199, 169) 100%);box-sizing: border-box;">
+        <section style="padding: 2px 0px;width: 100%;box-sizing: border-box;">
+         <section powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <section style="display: inline-block;vertical-align: top;width: 33.33%;padding: 0px 1px 0px 2px;box-sizing: border-box;">
+            <section powered-by="xiumi.us" style="box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);padding: 3px;box-sizing: border-box;">
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+                 <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+                  <img class="raw-image" data-ratio="1" data-type="jpeg" data-w="258" src="https://mmbiz.qpic.cn/mmbiz_jpg/wMeIKUh0RD7dicDiaj0qSh3KVepyQS905ZmicmKTCDD477rWAarflYE2QHhlx8aw9vINL1oKRPjO5iadtJf69aVrfQ/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+                 </section>
+                </section>
+               </section>
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="margin: 0px 0%;box-sizing: border-box;">
+                 <section style="background-color: rgb(249, 110, 87);height: 1px;box-sizing: border-box;">
+                 </section>
+                </section>
+               </section>
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="margin: 6px 0% 3px;text-align: center;box-sizing: border-box;">
+                 <section style="font-size: 11px;color: rgb(92, 90, 90);box-sizing: border-box;">
+                  <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+                   华东师大学报
+                  </p>
+                  <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+                   哲学社会科学版
+                  </p>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+           <section style="display: inline-block;vertical-align: top;width: 33.33%;padding: 0px 1px;box-sizing: border-box;">
+            <section powered-by="xiumi.us" style="box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);padding: 3px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+                 <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+                  <img class="raw-image" data-ratio="1" data-type="jpeg" data-w="430" src="https://mmbiz.qpic.cn/mmbiz_jpg/wMeIKUh0RD7dicDiaj0qSh3KVepyQS905Zlm6l3HRCSthicVKEICFn5vEicWpUOESQZGiaEzpZzuq8icyhYD6F3Jib9QQ/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+                 </section>
+                </section>
+               </section>
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="margin: 0px 0%;box-sizing: border-box;">
+                 <section style="background-color: rgb(223, 142, 77);height: 1px;box-sizing: border-box;">
+                 </section>
+                </section>
+               </section>
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="margin: 6px 0% 3px;text-align: center;box-sizing: border-box;">
+                 <section style="font-size: 11px;color: rgb(92, 90, 90);box-sizing: border-box;">
+                  <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+                   华东师大学
+                   <span style="letter-spacing: 0px;box-sizing: border-box;">
+                    报
+                   </span>
+                  </p>
+                  <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+                   自然科学版
+                  </p>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+           <section style="display: inline-block;vertical-align: top;width: 33.33%;padding: 0px 2px 0px 1px;box-sizing: border-box;">
+            <section powered-by="xiumi.us" style="box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);padding: 3px;box-sizing: border-box;">
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+                 <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+                  <img class="raw-image" data-ratio="1" data-type="jpeg" data-w="258" src="https://mmbiz.qpic.cn/mmbiz_jpg/wMeIKUh0RD7dicDiaj0qSh3KVepyQS905ZNTEKagnvqLTQdvIntbHkO21tfLtwhp7ZV4Ew8xvPeheNtziaQsK6f4A/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+                 </section>
+                </section>
+               </section>
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="margin: 0px 0%;box-sizing: border-box;">
+                 <section style="background-color: rgb(223, 142, 77);height: 1px;box-sizing: border-box;">
+                 </section>
+                </section>
+               </section>
+               <section powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="margin: 6px 0% 3px;text-align: center;box-sizing: border-box;">
+                 <section style="font-size: 11px;color: rgb(92, 90, 90);box-sizing: border-box;">
+                  <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+                   华东师大学报
+                  </p>
+                  <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+                   教育科学版
+                  </p>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="font-size: 11px;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      点击「阅读原文」访问
+      <strong style="box-sizing: border-box;">
+       <span style="color: rgb(201, 36, 8);box-sizing: border-box;">
+        华东师范大学学报教育科学版官网
+       </span>
+      </strong>
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>

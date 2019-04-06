@@ -27,5 +27,4 @@
 
    </swiper-item></swiper>
 </view>-->
-<text>666</text>
 <web-view src='{{url}}'></web-view>

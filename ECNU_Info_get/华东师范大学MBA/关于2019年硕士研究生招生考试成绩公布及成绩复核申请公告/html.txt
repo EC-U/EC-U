@@ -1,0 +1,239 @@
+
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 0.55em;margin-bottom: 0.55em;box-sizing: border-box;">
+    <section style="display: inline-block;box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section style="display: inline-block;vertical-align: top;width: 2em;height: 2.16em;border-bottom-left-radius: 0.4em;border-top-left-radius: 0.4em;background-color: rgb(249, 110, 87);box-sizing: border-box;">
+       <section style="line-height: 2.16em;width: 2em;height: 1em;padding-left: 0.5em;color: rgb(255, 255, 255);box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         一
+        </section>
+       </section>
+      </section>
+      <section style="display: inline-block;vertical-align: top;width: 0px;border-left: 0.5em solid rgb(249, 110, 87);border-top: 1.08em solid transparent !important;border-bottom: 1.08em solid transparent !important;box-sizing: border-box;">
+      </section>
+     </section>
+     <section style="float: left;padding: 0.2em 0.3em;margin-top: -2.11111em;margin-bottom: 0.1em;margin-left: 1em;border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);border-radius: 0.4em;box-sizing: border-box;">
+      <section style="padding-right: 5px;padding-left: 1.5em;margin-left: 2px;float: left;display: inline-block;vertical-align: top;box-sizing: border-box;">
+       <p style="box-sizing: border-box;">
+        成绩查询
+       </p>
+      </section>
+     </section>
+     <section style="clear: both;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style='display: inline-block;width: 100%;vertical-align: top;background-position: 0% 0%;background-repeat: repeat;background-size: 48.2185%;background-attachment: scroll;letter-spacing: 0px;padding: 15px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/82wlmOERcicvZhQZ2cfiamsGuh4jwxwaNmFKUaXo9Lzk3gdJC7OGHG0oGo2Tx2W3pVD0pWoCJmiceg5NZcnknoiagQ/640?wx_fmt=png");box-sizing: border-box;'>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         我校2019年硕士研究生招生考试成绩已于2月15日公布，请考生自行登陆我校研究生招生信息网查询，考生可以自行打印成绩单(我校不再另行寄发成绩单)。
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 0.55em;margin-bottom: 0.55em;box-sizing: border-box;">
+    <section style="display: inline-block;box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section style="display: inline-block;vertical-align: top;width: 2em;height: 2.16em;border-bottom-left-radius: 0.4em;border-top-left-radius: 0.4em;background-color: rgb(249, 110, 87);box-sizing: border-box;">
+       <section style="line-height: 2.16em;width: 2em;height: 1em;padding-left: 0.5em;color: rgb(255, 255, 255);box-sizing: border-box;">
+        <p style="clear: none;box-sizing: border-box;">
+         二
+        </p>
+       </section>
+      </section>
+      <section style="display: inline-block;vertical-align: top;width: 0px;border-left: 0.5em solid rgb(249, 110, 87);border-top: 1.08em solid transparent !important;border-bottom: 1.08em solid transparent !important;box-sizing: border-box;">
+      </section>
+     </section>
+     <section style="float: left;padding: 0.2em 0.3em;margin-top: -2.11111em;margin-bottom: 0.1em;margin-left: 1em;border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);border-radius: 0.4em;box-sizing: border-box;">
+      <section style="padding-right: 5px;padding-left: 1.5em;margin-left: 2px;float: left;display: inline-block;vertical-align: top;box-sizing: border-box;">
+       <p style="box-sizing: border-box;">
+        成绩复核
+       </p>
+      </section>
+     </section>
+     <section style="clear: both;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style='display: inline-block;width: 100%;vertical-align: top;background-position: 0% 0%;background-repeat: repeat;background-size: 48.2185%;background-attachment: scroll;letter-spacing: 0px;padding: 15px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/82wlmOERcicvZhQZ2cfiamsGuh4jwxwaNmFKUaXo9Lzk3gdJC7OGHG0oGo2Tx2W3pVD0pWoCJmiceg5NZcnknoiagQ/640?wx_fmt=png");box-sizing: border-box;'>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         <strong>
+          <span style="background-color: rgb(255, 251, 0);color: rgb(255, 0, 0);">
+           管理类联考综合能力（199）、英语二（204）
+          </span>
+         </strong>
+         这两门科目为全国统考科目，
+         <span style="letter-spacing: 0px;box-sizing: border-box;">
+          由上海市按照教育部要求统一组织网上评卷。
+         </span>
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         如果申请复核请登录上海市教育考试院网站申请，目前复核方案已经公布，具体内容如下：
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         1.  全国统考科目初试成绩复核申请将于
+         <strong>
+          <span style="background-color: rgb(255, 251, 0);color: rgb(255, 0, 0);">
+           2月18日9:00至2月19日16:00
+          </span>
+         </strong>
+         进行，考生届时可登录上海市教育考试院“上海招考热线”网站（www.shmeea.edu.cn），点击进入首页“成绩查询”栏目，进行网上申请（不接受现场申请）。
+         <span style="color: rgb(255, 0, 0);">
+          <strong>
+           <span style="background-color: rgb(255, 251, 0);">
+            2月20日10:00起
+           </span>
+          </strong>
+         </span>
+         ，考生可登录该网站查询成绩复核结果。
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         2. 根据有关规定，成绩复核只核查考生答卷是否有漏评、加分错、登分错，不重新评阅答卷；复核结果只向考生提供所复核科目成绩总分，不得查阅答卷。
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         3.
+         <span style="letter-spacing: 0px;box-sizing: border-box;">
+          网上申请成绩复核操作步骤：
+         </span>
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         （1）考生使用考生编号(15位)作为用户名登录成绩复核系统，初始密码为网上报名使用的证件号码后六位数字（不含英文字母），登录后可以修改密码。
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         （2） 登录后需根据系统提示填写部分科目的成绩以验证身份。
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         （3）身份验证通过后，在申请页面中勾选需复核的科目后点击“提交申请”，看到红色字体提示“提交成功”字样表示申请完毕，点击“退出系统”按钮退出。
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         （4）考生如需增减复核的科目，可在开通网上申请的时间段内再次登录系统调整科目，以最后一次“提交成功”为准。
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         特别说明：请考生在上述规定时间内完成申请，逾期不再受理！不再接受现场申请、电话、传真、邮件等形式的复查！
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 0.55em;margin-bottom: 0.55em;box-sizing: border-box;">
+    <section style="display: inline-block;box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section style="display: inline-block;vertical-align: top;width: 2em;height: 2.16em;border-bottom-left-radius: 0.4em;border-top-left-radius: 0.4em;background-color: rgb(249, 110, 87);box-sizing: border-box;">
+       <section style="line-height: 2.16em;width: 2em;height: 1em;padding-left: 0.5em;color: rgb(255, 255, 255);box-sizing: border-box;">
+        <p style="clear: none;box-sizing: border-box;">
+         三
+        </p>
+       </section>
+      </section>
+      <section style="display: inline-block;vertical-align: top;width: 0px;border-left: 0.5em solid rgb(249, 110, 87);border-top: 1.08em solid transparent !important;border-bottom: 1.08em solid transparent !important;box-sizing: border-box;">
+      </section>
+     </section>
+     <section style="float: left;padding: 0.2em 0.3em;margin-top: -2.11111em;margin-bottom: 0.1em;margin-left: 1em;border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);border-radius: 0.4em;box-sizing: border-box;">
+      <section style="padding-right: 5px;padding-left: 1.5em;margin-left: 2px;float: left;display: inline-block;vertical-align: top;box-sizing: border-box;">
+       <p style="box-sizing: border-box;">
+        其他相关事项
+       </p>
+      </section>
+     </section>
+     <section style="clear: both;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style='display: inline-block;width: 100%;vertical-align: top;background-position: 0% 0%;background-repeat: repeat;background-size: 48.2185%;background-attachment: scroll;letter-spacing: 0px;padding: 15px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/82wlmOERcicvZhQZ2cfiamsGuh4jwxwaNmFKUaXo9Lzk3gdJC7OGHG0oGo2Tx2W3pVD0pWoCJmiceg5NZcnknoiagQ/640?wx_fmt=png");box-sizing: border-box;'>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         （一）我校不再给每一位考生寄发书面成绩单，考生可以在查询系统中自行下载或在线打印成绩单。
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         （二）我校复试录取方案需等教育部公布全国分数线后才能制定，
+         <span style="background-color: rgb(255, 251, 0);">
+          <strong>
+           <span style="background-color: rgb(255, 251, 0);color: rgb(255, 0, 0);">
+            预计在3月公布，预计复试时间在3月中下旬，请考生留意华东师范大学MBA官方微信公众号。
+           </span>
+          </strong>
+         </span>
+        </p>
+        <p style="white-space: normal;box-sizing: border-box;">
+         （三）按照往年情况，我校有部分专业有调剂复试的需求，也请考生关注我校研究生招生信息网通知。
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 0.55em;margin-bottom: 0.55em;box-sizing: border-box;">
+    <section style="display: inline-block;box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section style="display: inline-block;vertical-align: top;width: 2em;height: 2.16em;border-bottom-left-radius: 0.4em;border-top-left-radius: 0.4em;background-color: rgb(249, 110, 87);box-sizing: border-box;">
+       <section style="line-height: 2.16em;width: 2em;height: 1em;padding-left: 0.5em;color: rgb(255, 255, 255);box-sizing: border-box;">
+        <p style="clear: none;box-sizing: border-box;">
+         四
+        </p>
+       </section>
+      </section>
+      <section style="display: inline-block;vertical-align: top;width: 0px;border-left: 0.5em solid rgb(249, 110, 87);border-top: 1.08em solid transparent !important;border-bottom: 1.08em solid transparent !important;box-sizing: border-box;">
+      </section>
+     </section>
+     <section style="float: left;padding: 0.2em 0.3em;margin-top: -2.11111em;margin-bottom: 0.1em;margin-left: 1em;border-width: 1px;border-style: solid;border-color: rgb(249, 110, 87);border-radius: 0.4em;box-sizing: border-box;">
+      <section style="padding-right: 5px;padding-left: 1.5em;margin-left: 2px;float: left;display: inline-block;vertical-align: top;box-sizing: border-box;">
+       <p style="box-sizing: border-box;">
+        友情提醒
+       </p>
+      </section>
+     </section>
+     <section style="clear: both;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style='display: inline-block;width: 100%;vertical-align: top;background-position: 0% 0%;background-repeat: repeat;background-size: 48.2185%;background-attachment: scroll;letter-spacing: 0px;padding: 15px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/82wlmOERcicvZhQZ2cfiamsGuh4jwxwaNmFKUaXo9Lzk3gdJC7OGHG0oGo2Tx2W3pVD0pWoCJmiceg5NZcnknoiagQ/640?wx_fmt=png");box-sizing: border-box;'>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;box-sizing: border-box;">
+        <p style="white-space: normal;box-sizing: border-box;">
+         往年研考成绩公布后，有骗子向考生行骗，骗子以帮助考生修改成绩为由骗取考生钱财。骗子一般声称通过黑客手段修改成绩或者以所谓“内部关系”通过复核成绩办法帮助考生修改成绩，这些伎俩对不明白招生录取程序的考生来说有一定欺骗性，但是对于稍微了解一些招生工作程序的人来说，没有任何可行性。我校公布的成绩已经报教育部研究生招生信息系统，对确实存在成绩错误的试卷，需要学校行文并将试卷原件上交查验才能修改成绩！特别提醒广大考生保持理性，认清骗局，以防上当受骗。在以往临近复试时，也发现有骗子冒充我校导师或管理人员向考生借钱的案例，提醒广大考生注意，如果接到类似借钱或索要其他财物的电话或要求时请及时报警。
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>

@@ -1,0 +1,657 @@
+
+ <section class="xmteditor" data-label="powered by xmt.cn" data-tools="新媒体管家" style="display:none;">
+ </section>
+ <section class="xmteditor" data-label="powered by xmt.cn" data-tools="新媒体管家" style="display:none;">
+ </section>
+ <section class="xmt-style-block" data-tools="新媒体排版" style='white-space: normal;font-family: "PingFang SC", "Source Sans Pro", "Hiragino Sans GB", "Helvetica Neue", Helvetica, "Microsoft Yahei", arial, sans-serif;font-size: 14px;background-color: rgb(255, 255, 255);'>
+  <section style='background-image: url("https://mmbiz.qpic.cn/mmbiz_jpg/OAsniaHK5cL5xz07OTobAMpBQic9aR9XOug7E9a6vNfb4jEChyQwVTEWGIvcsozIN6WpZia2VIqz2WLz44rSjEzWw/640?wx_fmt=jpeg");background-repeat: repeat;background-size: 200px 200px;'>
+   <section style="padding: 15px;">
+    <section style="letter-spacing: 2px;line-height: 1.8em;">
+     <p style="text-align: center;">
+      扫码领取
+     </p>
+     <p style="text-align: center;">
+      考研复试资料
+     </p>
+     <p style="text-align: center;">
+      <span style="color: rgb(255, 76, 65);">
+       <strong>
+        <span style="font-size: 24px;">
+         ＋
+        </span>
+       </strong>
+      </span>
+      <br/>
+      毕业论文大礼包
+     </p>
+     <p style="text-align: center;">
+      <br/>
+     </p>
+     <p style="text-align: center;">
+      同时邀你进
+      <strong>
+       <span style="color: rgb(255, 76, 65);">
+        19考研
+       </span>
+      </strong>
+      复试群
+      <br/>
+     </p>
+     <p style="text-align: center;">
+      <span style="color: rgb(0, 128, 255);">
+       ▼
+      </span>
+     </p>
+     <p style="text-align: center;">
+      <img class="" data-copyright="0" data-ratio="1" data-s="300,640" data-type="png" data-w="260" src="https://mmbiz.qpic.cn/mmbiz_png/OAsniaHK5cL5xz07OTobAMpBQic9aR9XOuiaVWiboz2Ce9zputQLZn8BvPPgbetkictOu27OwjQEFhELHZyuvsFia9mA/640?wx_fmt=png" style="box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;width: 223.108px;"/>
+      <br/>
+      <span style="color: rgb(0, 128, 255);">
+       按报考院校所在地区建的群
+      </span>
+     </p>
+     <p style="text-align: center;">
+      <span style="color: rgb(0, 128, 255);">
+       如19考研江苏复试群
+      </span>
+     </p>
+     <p style="text-align: center;">
+      <br/>
+     </p>
+     <p style="padding-right: 0.5em;padding-left: 0.5em;line-height: 1.75em;letter-spacing: 0.5px;text-align: center;">
+      <strong>
+       <span style="color: rgb(255, 76, 65);">
+        20考研
+       </span>
+      </strong>
+      的同学
+     </p>
+     <p style="padding-right: 0.5em;padding-left: 0.5em;line-height: 1.75em;letter-spacing: 0.5px;text-align: center;">
+      也可以来围观
+     </p>
+     <p style="padding-right: 0.5em;padding-left: 0.5em;line-height: 1.75em;letter-spacing: 0.5px;text-align: center;">
+      <br/>
+     </p>
+     <p style="padding-right: 0.5em;padding-left: 0.5em;line-height: 1.75em;letter-spacing: 0.5px;text-align: center;">
+      很可能遇到
+     </p>
+     <p style="padding-right: 0.5em;padding-left: 0.5em;line-height: 1.75em;letter-spacing: 0.5px;text-align: center;">
+      <strong>
+       19考上的直系学长学姐哦~
+       <br/>
+       <br/>
+       第
+      </strong>
+      <span style="color: rgb(255, 76, 0);">
+       <strong>
+        1
+       </strong>
+      </span>
+      <strong>
+       期群已建好
+       <br/>
+       已覆盖所有省、市
+       <br/>
+       <br/>
+      </strong>
+      <span style="color: rgb(255, 76, 0);">
+       <strong>
+        有的群人数都快满500人了
+       </strong>
+      </span>
+      <strong>
+       <br/>
+       小伙伴们在里面讨论可热闹了
+       <br/>
+       <br/>
+       快扫上方二维码拉你进群
+       <br/>
+       部分截图如下
+       <br/>
+      </strong>
+      <span style="color: rgb(255, 76, 0);">
+       <strong>
+        ▼
+       </strong>
+      </span>
+     </p>
+     <p style="text-align: center;">
+      <img class="" data-ratio="1.8004385964912282" data-s="300,640" data-type="png" data-w="456" src="https://mmbiz.qpic.cn/mmbiz_png/M5icKFentlia1IpT3Km6lIYxhfSnibIBGcf25wTbzQM8XmtuicELFeJfZRvyZJvPFJ5iayricjkia7OpWgBibs1icOojnxA/640?wx_fmt=png" style="box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;"/>
+     </p>
+     <p style="padding-right: 0.5em;padding-left: 0.5em;line-height: 1.75em;letter-spacing: 0.5px;text-align: center;">
+      <br/>
+     </p>
+     <p style="text-align: center;">
+      <img class="" data-ratio="2.151315789473684" data-s="300,640" data-type="png" data-w="456" src="https://mmbiz.qpic.cn/mmbiz_png/M5icKFentlia1IpT3Km6lIYxhfSnibIBGcfhFiahn8957lRIUmUTCY7aZ6ajPh1xwS87jmV6OxRIRvheuVumQSQOJA/640?wx_fmt=png" style="box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="white-space: normal;text-align: center;">
+  <br/>
+ </p>
+ <p style="white-space: normal;text-align: center;">
+  <br/>
+ </p>
+ <p style="padding-right: 0.5em;padding-left: 0.5em;white-space: normal;line-height: 1.75em;letter-spacing: 0.5px;">
+  <span style="font-size: 14px;">
+   19考研初试已经过去啦
+   <br/>
+  </span>
+ </p>
+ <p style="padding-right: 0.5em;padding-left: 0.5em;white-space: normal;line-height: 1.75em;letter-spacing: 0.5px;">
+  <span style="font-size: 14px;">
+   有些同学在后台留言
+   <br/>
+   开始关心复试相关问题了
+   <br/>
+   看来初试是妥了
+  </span>
+  <img data-ratio="1" data-type="xmt-emoji" data-w="18" src="https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/emoji_wx/2_06.png" style="display: inline-block;width: 20px;vertical-align: text-bottom;"/>
+  <br/>
+ </p>
+ <p style="padding-right: 0.5em;padding-left: 0.5em;white-space: normal;line-height: 1.75em;letter-spacing: 0.5px;">
+  <br/>
+ </p>
+ <p style="padding-right: 0.5em;padding-left: 0.5em;white-space: normal;line-height: 1.75em;letter-spacing: 0.5px;">
+  <span style="font-size: 14px;">
+   <strong>
+    <span style="color: rgb(255, 76, 65);">
+     今年初试查分时间在2月15号左右~
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="padding-right: 0.5em;padding-left: 0.5em;white-space: normal;line-height: 1.75em;letter-spacing: 0.5px;">
+  <br/>
+ </p>
+ <section class="xmt-style-block" data-tools="新媒体排版" style='padding-right: 0.5em;padding-left: 0.5em;white-space: normal;font-family: "PingFang SC", "Source Sans Pro", "Hiragino Sans GB", "Helvetica Neue", Helvetica, "Microsoft Yahei", arial, sans-serif;font-size: 14px;background-color: rgb(255, 255, 255);'>
+  <section style='background-image: url("https://mmbiz.qpic.cn/mmbiz_jpg/OAsniaHK5cL5xz07OTobAMpBQic9aR9XOug7E9a6vNfb4jEChyQwVTEWGIvcsozIN6WpZia2VIqz2WLz44rSjEzWw/640?wx_fmt=jpeg");background-repeat: repeat;background-size: 200px 200px;'>
+   <section style="padding: 15px;">
+    <section style="letter-spacing: 2px;line-height: 1.8em;">
+     <p style="line-height: 1.75em;letter-spacing: 0.5px;">
+      <strong>
+       先来一波复试常见问题总结
+      </strong>
+     </p>
+     <p>
+      <br/>
+     </p>
+     <section data-width="100%">
+      <section class="" data-style="font-size: 14px; color: inherit; border-color: rgb(245, 245, 244);">
+       <p style="line-height: 1.75em;letter-spacing: 0.5px;">
+        <strong>
+         本科出身让人不安：复试会不会看是不是本校的？
+        </strong>
+       </p>
+       <p>
+        <br/>
+       </p>
+       <p style="line-height: 1.75em;letter-spacing: 0.5px;">
+        说对本校考生没有照顾不太可能，但另一方面大部分考生选择考研目标都不选择自己学校，既然选择了现在的目标院校，好好准备复试才是最优解。
+       </p>
+       <p>
+        <br style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+       </p>
+       <p style="line-height: 1.75em;letter-spacing: 0.5px;">
+        <strong>
+         少壮不努力的黑历史：本科成绩是否影响复试？
+        </strong>
+       </p>
+       <p style="line-height: 1.75em;letter-spacing: 0.5px;">
+        <br/>
+       </p>
+       <p style="line-height: 1.75em;letter-spacing: 0.5px;">
+        学校复试都要求本科成绩单(要有学校教务处公章) ，一般是不影响的，也可以去已经考上的师兄师姐，不过在面试环节也有老师会问，成绩单不理想的同学事先最好准备好说法来解释。
+       </p>
+       <p>
+        <br style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+       </p>
+       <p style="line-height: 1.75em;letter-spacing: 0.5px;">
+        <strong>
+         导师给自己的印象分：复试前是否联系导师？
+        </strong>
+       </p>
+       <p>
+        <br/>
+       </p>
+       <p style="line-height: 1.75em;letter-spacing: 0.5px;">
+        有的学校导师在复试中有一定话语权，那如果能够通过师兄师姐或学校官网（甚至中国知网找到联系方式），还是尽量联系导师，联系导师之前一定要了解导师情况，主要是导师的经历、工作状况、学术研究状况以及师生之间相处情况，邮件是最好的联系方式，发送邮件着重应向导师介绍个人基本情况，学习情况，本科专业课程，毕业论文，研究方向和兴趣等。总的原则就是简洁而又详实，不要有太多套话废话，让老师在尽量短的时间内对个人有个充分的认识
+       </p>
+       <p>
+        <br style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+       </p>
+       <p style="line-height: 1.75em;letter-spacing: 0.5px;">
+        <strong>
+         复试的时候到底需要做什么：复试内容？
+        </strong>
+       </p>
+       <p style="line-height: 1.75em;letter-spacing: 0.5px;">
+        <br/>
+       </p>
+       <p style="line-height: 1.75em;letter-spacing: 0.5px;">
+        复试基本是每个学校自己规定考试项目分值时间。
+       </p>
+       <p>
+        <br/>
+       </p>
+       <p style="line-height: 1.75em;letter-spacing: 0.5px;">
+        但是绝大多数可以大概分为5个部分：
+       </p>
+       <p style="line-height: 1.75em;letter-spacing: 0.5px;">
+        1.英语口语
+       </p>
+       <p style="line-height: 1.75em;letter-spacing: 0.5px;">
+        2.英语听力
+       </p>
+       <p style="line-height: 1.75em;letter-spacing: 0.5px;">
+        3.综合面试
+       </p>
+       <p style="line-height: 1.75em;letter-spacing: 0.5px;">
+        4.专业课笔试
+       </p>
+       <p style="line-height: 1.75em;letter-spacing: 0.5px;">
+        5.专业课面试
+       </p>
+       <p>
+        <br/>
+       </p>
+       <p style="line-height: 1.75em;letter-spacing: 0.5px;">
+        其中比较让人苦恼的是英语口语和专业课笔试，不仅仅是因为我们的“chinglish”开口“醉”，也是因为没有那么多的口语词汇量，面对老师提问基本上都是临场发挥，越紧张越磕磕绊绊接不上话。
+       </p>
+       <p>
+        <br style="max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+       </p>
+       <p style="line-height: 1.75em;letter-spacing: 0.5px;">
+        英语面试一般是学生准备3-5分钟的英语自我介绍，老师问答。
+       </p>
+       <p>
+        <br/>
+       </p>
+       <p style="line-height: 1.75em;letter-spacing: 0.5px;">
+        <strong>
+         老师喜欢问的问题大致有三大类：
+        </strong>
+       </p>
+       <p style="line-height: 1.75em;letter-spacing: 0.5px;">
+        <br/>
+       </p>
+       <p style="line-height: 1.75em;letter-spacing: 0.5px;">
+        1、与个人相关的，类似你业余期间通常是怎么利用的？大学读过哪些书?
+       </p>
+       <p style="line-height: 1.75em;letter-spacing: 0.5px;">
+        2、与学术相关的，如请简要说一下你参与过的课题研究?
+       </p>
+       <p style="line-height: 1.75em;letter-spacing: 0.5px;">
+        3、纯专业相关问题，可能会问到某一个概念的解释
+       </p>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <section class="xmt-style-block" data-tools="新媒体排版" style='white-space: normal;font-family: "PingFang SC", "Source Sans Pro", "Hiragino Sans GB", "Helvetica Neue", Helvetica, "Microsoft Yahei", arial, sans-serif;font-size: 14px;background-color: rgb(255, 255, 255);'>
+  <section class="" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section class="" style="margin-top: 0.5em;margin-bottom: 0.5em;text-align: center;box-sizing: border-box;">
+    <section class="" style="padding: 10px;border-width: 3px;border-style: solid;border-color: rgb(204, 204, 204);box-shadow: rgb(102, 102, 102) 2.82843px 2.82843px 7px;box-sizing: border-box;">
+     <p>
+      <img data-ratio="1" data-type="xmt-emoji" data-w="16" src="https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_95.png" style="display: inline-block;width: 20px;vertical-align: text-bottom;"/>
+     </p>
+     <p>
+      为此给大家准备了
+     </p>
+     <p>
+      复试大礼包
+      <br/>
+      包含往年各大机构复试课程
+     </p>
+     <p style="padding-right: 0.5em;padding-left: 0.5em;line-height: 1.75em;letter-spacing: 0.5px;">
+      <span style="color: rgb(255, 76, 65);">
+       ▼
+      </span>
+     </p>
+     <p>
+      <img class="" data-ratio="0.7233009708737864" data-s="300,640" data-type="png" data-w="412" src="https://mmbiz.qpic.cn/mmbiz_png/OAsniaHK5cL5xz07OTobAMpBQic9aR9XOuzuKic4TGYkERuVs0N8XBOIGfciaI0lbxIbichCwLq50j6rWDvdWgTtaiag/640?wx_fmt=png" style="border-radius: 4px;box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;"/>
+     </p>
+     <p>
+      <br/>
+     </p>
+     <p>
+      <img class="" data-ratio="0.16642120765832105" data-s="300,640" data-type="png" data-w="679" src="https://mmbiz.qpic.cn/mmbiz_png/OAsniaHK5cL5xz07OTobAMpBQic9aR9XOuUL09qrl40iaPibjhYrwzgtCfNQbTySHhm6GsicoppRK6UcwnUVgtkYianQ/640?wx_fmt=png" style="box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;"/>
+     </p>
+     <p style="padding-right: 0.5em;padding-left: 0.5em;line-height: 1.75em;letter-spacing: 0.5px;">
+      <span style="color: rgb(255, 76, 65);">
+       （内含口语、听力课程，邮件、简历模板，调剂技巧等）
+      </span>
+     </p>
+     <p>
+      <br/>
+      还有毕业论文写作大礼包
+      <br/>
+      <span style="color: rgb(255, 76, 65);letter-spacing: 0.5px;">
+       ▼
+      </span>
+     </p>
+     <p>
+      <img class="" data-copyright="0" data-ratio="0.29243937232524964" data-s="300,640" data-type="png" data-w="701" src="https://mmbiz.qpic.cn/mmbiz_png/SLr2BwzknP0Wib25zg0vUTo7ia57Cxeugibk8zG4XQMiaY7TLCQlnUdMQOXNHdIKC2g6f40licjrEffw3J2yxPOIpmg/640?wx_fmt=png" style="box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;border-radius: 4px;"/>
+     </p>
+     <p>
+      <span style="color: rgb(255, 76, 65);letter-spacing: 0.5px;">
+       （内含查重降重软件、行业报告、写作技巧、PPT模板等）
+       <br/>
+       <br/>
+      </span>
+      <span style="letter-spacing: 0.5px;color: rgb(0, 0, 0);">
+       同时再送你一张免费的论文查重券
+      </span>
+      <span style="color: rgb(255, 76, 65);letter-spacing: 0.5px;">
+       <br/>
+       ▼
+      </span>
+     </p>
+     <p>
+      <span style="color: rgb(255, 76, 65);letter-spacing: 0.5px;">
+       <img class="" data-copyright="0" data-ratio="1.775" data-s="300,640" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/SLr2BwzknP3tpwStxIyX6slUjudUDibS7ZoP7hD8iavUrfa3FU8WDOTfM5LPwAHRxWAMHGnXDBdD0b2ymO4pFMLQ/640?wx_fmt=png" style='font-family: "PingFang SC", "Source Sans Pro", "Hiragino Sans GB", "Helvetica Neue", Helvetica, "Microsoft Yahei", arial, sans-serif;font-size: 14px;letter-spacing: 2px;text-align: center;white-space: normal;background-color: rgb(255, 255, 255);box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;width:70%;height:auto;'/>
+       <br/>
+       （
+       <span style='color: rgb(255, 76, 65);font-family: "PingFang SC", "Source Sans Pro", "Hiragino Sans GB", "Helvetica Neue", Helvetica, "Microsoft Yahei", arial, sans-serif;font-size: 14px;letter-spacing: 0.5px;text-align: center;background-color: rgb(255, 255, 255);'>
+        扫码即可领取
+       </span>
+       ）
+      </span>
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="white-space: normal;text-align: center;">
+  <br/>
+ </p>
+ <p style="white-space: normal;text-align: center;">
+  <br/>
+ </p>
+ <p style="white-space: normal;font-size: 16px;">
+  <span style="font-size: 14px;">
+   <strong>
+    同时建立
+   </strong>
+   <span style="color: rgb(255, 76, 65);">
+    <strong>
+     19考研
+    </strong>
+   </span>
+   <strong>
+    复试群，为你的复试保驾护航。
+    <br/>
+    <br/>
+   </strong>
+  </span>
+  <span style="font-size: 14px;color: rgb(0, 128, 255);">
+   <strong>
+    （按报考院校所在地区建立）
+   </strong>
+  </span>
+ </p>
+ <p style="white-space: normal;font-size: 16px;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <span style="font-size: 14px;">
+   <span style="color: rgb(255, 76, 65);">
+    <strong>
+     20考研
+    </strong>
+   </span>
+   的同学也可以来围观，
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <span style="font-size: 14px;">
+   很可能遇到19的直系学长学姐哦~
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p style="white-space: normal;font-size: 16px;">
+  <span style="color: rgb(255, 76, 65);font-size: 14px;">
+   <strong>
+    群里会给大家提供大致信息：
+   </strong>
+  </span>
+ </p>
+ <p style="white-space: normal;font-size: 16px;">
+  <br/>
+ </p>
+ <p style="white-space: normal;font-size: 16px;line-height: 2em;">
+  <span style="font-size: 14px;">
+   1.
+   <strong>
+    及时
+   </strong>
+   的考研
+   <strong>
+    初试资讯
+   </strong>
+  </span>
+ </p>
+ <p style="white-space: normal;font-size: 16px;line-height: 2em;">
+  <span style="font-size: 14px;">
+   2.高分学长学姐
+   <strong>
+    复试经验分享
+   </strong>
+   <br/>
+  </span>
+ </p>
+ <p style="white-space: normal;font-size: 16px;line-height: 2em;">
+  <span style="font-size: 14px;">
+   3.考研派提供发布19考研
+   <strong>
+    最新的调剂信息
+   </strong>
+  </span>
+ </p>
+ <p style="white-space: normal;font-size: 16px;line-height: 2em;">
+  <span style="font-size: 14px;">
+   4.研友
+   <strong>
+    信息共享
+   </strong>
+   <br/>
+   <strong>
+    5.初试后会根据专业、地区建立新的小群
+   </strong>
+   <br/>
+   6.高分考上的同学可以在考研派
+   <strong>
+    兼职辅导
+   </strong>
+   学弟学妹
+  </span>
+ </p>
+ <p style="white-space: normal;font-size: 16px;text-align: left;line-height: 2em;">
+  <span style="color: rgb(255, 76, 65);font-size: 14px;">
+   7.进群抽奖送考研派的
+   <strong>
+    复试一本通
+   </strong>
+  </span>
+ </p>
+ <p style="white-space: normal;font-size: 16px;text-align: center;">
+  <span style="color: rgb(0, 128, 255);font-size: 14px;">
+   ▼
+  </span>
+ </p>
+ <p style="white-space: normal;font-size: 16px;text-align: center;">
+  <img class="" data-copyright="0" data-ratio="0.75" data-s="300,640" data-type="jpeg" data-w="1280" src="https://mmbiz.qpic.cn/mmbiz_jpg/OAsniaHK5cL5xz07OTobAMpBQic9aR9XOu62T4JviaKMb5WDak5oplIRW7I7sKYe0chJqR0jLCTicHkjPDql0dhYww/640?wx_fmt=jpeg" style="height: 419px;box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;border-radius: 4px;width: 557px;"/>
+ </p>
+ <p style="white-space: normal;">
+  <img class="" data-copyright="0" data-ratio="1.3328125" data-s="300,640" data-type="jpeg" data-w="1280" src="https://mmbiz.qpic.cn/mmbiz_jpg/SLr2BwzknP0Wib25zg0vUTo7ia57CxeugibZ1zedFImzAaRZfYMXjBK4YLrX99dSLLAQoRTVs4GHXSfosfKBoIBNA/640?wx_fmt=jpeg" style="box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;border-radius: 4px;"/>
+ </p>
+ <p style="white-space: normal;">
+  <img class="" data-copyright="0" data-ratio="1.3328125" data-s="300,640" data-type="jpeg" data-w="1280" src="https://mmbiz.qpic.cn/mmbiz_jpg/SLr2BwzknP0Wib25zg0vUTo7ia57CxeugibMmjl8MRwn0lhM4JOgzvvYmV1SAnh3EczwvGXaCxibcyvtjVtzDFicLVw/640?wx_fmt=jpeg" style="box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;border-radius: 4px;"/>
+ </p>
+ <p style="white-space: normal;font-size: 16px;text-align: center;">
+  <span style="font-size: 14px;">
+   （本书内含
+   <span style="color: rgb(255, 76, 65);">
+    81篇
+   </span>
+   不同院校专业的复试经验贴，定期抽奖送，也可直接购买）
+  </span>
+ </p>
+ <p style="white-space: normal;font-size: 16px;">
+  <br/>
+ </p>
+ <p style="white-space: normal;font-size: 16px;">
+  <br/>
+ </p>
+ <p style="white-space: normal;font-size: 16px;">
+  <span style="color: rgb(255, 76, 65);font-size: 14px;">
+   <strong>
+    说一下进群的小要求，希望你：
+   </strong>
+  </span>
+ </p>
+ <p style="white-space: normal;font-size: 16px;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <span style="font-size: 14px;">
+   1.在群里不要随便发广告
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <span style="font-size: 14px;">
+   2.可以分享你收集到的信息，无论是初试、复试或者调剂
+  </span>
+ </p>
+ <p style="white-space: normal;text-align: center;">
+  <br/>
+ </p>
+ <section class="xmt-style-block" data-tools="新媒体排版" style='white-space: normal;font-family: "PingFang SC", "Source Sans Pro", "Hiragino Sans GB", "Helvetica Neue", Helvetica, "Microsoft Yahei", arial, sans-serif;font-size: 14px;background-color: rgb(255, 255, 255);'>
+  <section style='background-image: url("https://mmbiz.qpic.cn/mmbiz_jpg/OAsniaHK5cL5xz07OTobAMpBQic9aR9XOug7E9a6vNfb4jEChyQwVTEWGIvcsozIN6WpZia2VIqz2WLz44rSjEzWw/640?wx_fmt=jpeg");background-repeat: repeat;background-size: 200px 200px;'>
+   <section style="padding: 15px;">
+    <section style="letter-spacing: 2px;line-height: 1.8em;">
+     <p style="text-align: center;">
+      扫码领取
+      <br/>
+     </p>
+     <p style="text-align: center;">
+      考研复试资料
+     </p>
+     <p style="text-align: center;">
+      <span style="font-size: 24px;color: rgb(255, 76, 65);">
+       <strong>
+        ＋
+       </strong>
+      </span>
+      <br/>
+      毕业论文大礼包
+      <br/>
+     </p>
+     <p style="text-align: center;">
+      <br/>
+     </p>
+     <p style="text-align: center;">
+      同时邀你进
+      <strong>
+       <span style="color: rgb(255, 76, 65);">
+        19考研复试群
+       </span>
+      </strong>
+     </p>
+     <p style="text-align: center;">
+      <span style="color: rgb(0, 128, 255);">
+       ▼
+      </span>
+     </p>
+     <p style="text-align: center;">
+      <img class="" data-copyright="0" data-ratio="1" data-s="300,640" data-type="png" data-w="260" src="https://mmbiz.qpic.cn/mmbiz_png/OAsniaHK5cL5xz07OTobAMpBQic9aR9XOuiaVWiboz2Ce9zputQLZn8BvPPgbetkictOu27OwjQEFhELHZyuvsFia9mA/640?wx_fmt=png" style="box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;width: 223.108px;"/>
+      <span style="background-color: rgb(255, 76, 65);">
+      </span>
+      <br/>
+     </p>
+     <p style="text-align: center;">
+      <span style="color: rgb(0, 128, 255);">
+       按报考院校所在地区建的群
+      </span>
+     </p>
+     <p style="text-align: center;">
+      <span style="color: rgb(0, 128, 255);">
+       如19考研江苏复试群
+      </span>
+     </p>
+     <p>
+      <br/>
+     </p>
+     <p style="padding-right: 0.5em;padding-left: 0.5em;line-height: 1.75em;letter-spacing: 0.5px;text-align: center;">
+      <strong>
+       <span style="color: rgb(255, 76, 65);">
+        20考研
+       </span>
+      </strong>
+      的同学
+     </p>
+     <p style="padding-right: 0.5em;padding-left: 0.5em;line-height: 1.75em;letter-spacing: 0.5px;text-align: center;">
+      也可以来围观，
+     </p>
+     <p style="padding-right: 0.5em;padding-left: 0.5em;line-height: 1.75em;letter-spacing: 0.5px;text-align: center;">
+      <br/>
+     </p>
+     <p style="padding-right: 0.5em;padding-left: 0.5em;line-height: 1.75em;letter-spacing: 0.5px;text-align: center;">
+      很可能遇到
+     </p>
+     <p style="padding-right: 0.5em;padding-left: 0.5em;line-height: 1.75em;letter-spacing: 0.5px;text-align: center;">
+      19考上的直系学长学姐哦~
+      <br/>
+      <br/>
+      <strong>
+       其它活动推荐
+      </strong>
+      <br/>
+      <span style="color: rgb(255, 76, 0);">
+       ▼
+      </span>
+      <br/>
+      <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA3OTQ4NTQ2NA==&amp;mid=2647492144&amp;idx=1&amp;sn=f6d35ecfcf1cb9f65fe6871a50434a11&amp;chksm=878be947b0fc60517725d7696af9ab6c867cc3296d9f02506950f592eb6fa0c966ad919505f1&amp;scene=21#wechat_redirect" style="text-decoration: underline;" target="_blank">
+       18年58所院校333真题集！！限时免费领取！
+      </a>
+     </p>
+     <p style="padding-right: 0.5em;padding-left: 0.5em;line-height: 1.75em;letter-spacing: 0.5px;text-align: center;">
+      <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA3OTQ4NTQ2NA==&amp;mid=2647492099&amp;idx=1&amp;sn=b67fd62b42b04927ad8d640e0507e18f&amp;chksm=878be974b0fc6062dd3317aa94a382a2e05fb3aa6f5714ea29ad0ebb8655f4ac5303d65450aa&amp;scene=21#wechat_redirect" style="text-decoration: underline;" target="_blank">
+       一个能帮你考120+的333教育综合小程序！
+      </a>
+      <br/>
+      <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA3OTQ4NTQ2NA==&amp;mid=2647492060&amp;idx=1&amp;sn=e760e3af2021e23ecaecb34e413c9b76&amp;chksm=878beaabb0fc63bd6cb70086e13aeedf220ee9c8067a268b311b037d76abf173f66894ffa982&amp;scene=21#wechat_redirect" style="text-decoration: underline;" target="_blank">
+       333教育硕士必背考点！限时免费领取！|中外教育史+教心思维导图
+      </a>
+      <br/>
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="padding-right: 0.5em;padding-left: 0.5em;white-space: normal;line-height: 1.75em;letter-spacing: 0.5px;text-align: center;">
+  <br/>
+ </p>
+ <p style="white-space: normal;text-align: center;">
+  <img class="" data-ratio="0.42075892857142855" data-s="300,640" data-type="png" data-w="896" src="https://mmbiz.qpic.cn/mmbiz_png/OAsniaHK5cL5xz07OTobAMpBQic9aR9XOutq7Blt1RLZcwh2vvXXf83q6dXy4DG1eZXbd0RegFveDzWGeMIqDx7w/640?wx_fmt=png" style="box-shadow: rgb(170, 170, 170) 0px 0px 14px 0px;"/>
+ </p>
+ <p>
+  <br/>
+ </p>

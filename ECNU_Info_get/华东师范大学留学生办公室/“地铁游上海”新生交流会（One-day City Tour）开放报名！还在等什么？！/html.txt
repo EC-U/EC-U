@@ -1,0 +1,867 @@
+
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 10px 0%;box-sizing: border-box;">
+    <section style='display: inline-block;width: 220px;height: 100px;vertical-align: top;overflow: hidden;background-position: 50% 50%;background-repeat: no-repeat;background-size: contain;background-attachment: scroll;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/pLyfwFu0GDjGvLuIvOczDTwAb6Yb3C2GAq1ctpawRRayiayI6DMRWm6Z45EzRJtev0MbfEZStZzONNQIMM4Uic5g/640?wx_fmt=png");box-sizing: border-box;'>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 35px;margin-right: 0%;margin-left: 0%;transform: translate3d(-10px, 0px, 0px);box-sizing: border-box;">
+       <section style="font-size: 18px;color: rgb(229, 115, 115);box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <strong style="box-sizing: border-box;">
+          地铁游上海
+         </strong>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 96%;vertical-align: top;box-shadow: rgb(239, 154, 154) 0px 0px 6px;border-width: 0px;border-style: none;border-color: rgb(62, 62, 62);border-radius: 8px;overflow: hidden;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 30%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.5" data-type="png" data-w="880" src="https://mmbiz.qpic.cn/mmbiz_png/pLyfwFu0GDjGvLuIvOczDTwAb6Yb3C2GM9mc1ekoMu5FnE7G70aJbUibWs1X0OYaNharl2icC5Vs5OqpTXDcibY9w/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 39%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 100%;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.5" data-type="png" data-w="880" src="https://mmbiz.qpic.cn/mmbiz_png/pLyfwFu0GDjGvLuIvOczDTwAb6Yb3C2GM9mc1ekoMu5FnE7G70aJbUibWs1X0OYaNharl2icC5Vs5OqpTXDcibY9w/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 30%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.5" data-type="png" data-w="880" src="https://mmbiz.qpic.cn/mmbiz_png/pLyfwFu0GDjGvLuIvOczDTwAb6Yb3C2GM9mc1ekoMu5FnE7G70aJbUibWs1X0OYaNharl2icC5Vs5OqpTXDcibY9w/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px 15px 8px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 10px 0%;box-sizing: border-box;">
+          <section class="tn-yzk-fuid-text-61658-1548305745155" style="text-align: justify;font-size: 15px;box-sizing: border-box;">
+           <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+            <span style="color: rgb(205, 119, 4);box-sizing: border-box;font-size: 15px;">
+             为了让初来乍到的大家
+            </span>
+           </p>
+           <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+            <span style="color: rgb(205, 119, 4);box-sizing: border-box;font-size: 15px;">
+             充分体验上海的风土人情
+            </span>
+           </p>
+           <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+            <span style="color: rgb(205, 119, 4);box-sizing: border-box;font-size: 15px;">
+             广结好友
+            </span>
+           </p>
+           <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+            <span style="color: rgb(205, 119, 4);box-sizing: border-box;font-size: 15px;">
+             留学生办公室精心规划了
+            </span>
+           </p>
+           <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+            <span style="color: rgb(205, 119, 4);box-sizing: border-box;font-size: 15px;">
+             两条不同风情的上海一日游路线
+            </span>
+           </p>
+           <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+            <span style="color: rgb(205, 119, 4);box-sizing: border-box;font-size: 15px;">
+             采用“地铁游上海”的方式
+            </span>
+           </p>
+           <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+            <span style="color: rgb(205, 119, 4);box-sizing: border-box;font-size: 15px;">
+             脚步丈量上海！
+            </span>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <br/>
+           </p>
+           <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 12px;color: rgba(124, 126, 129, 0.89);box-sizing: border-box;">
+             In order to provide the NEW international students
+            </span>
+           </p>
+           <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 12px;color: rgba(124, 126, 129, 0.89);box-sizing: border-box;">
+             an opportunity to learn Shanghai and make new friends,
+            </span>
+           </p>
+           <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 12px;color: rgba(124, 126, 129, 0.89);box-sizing: border-box;">
+             the International Students Office has planned
+            </span>
+           </p>
+           <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 12px;color: rgba(124, 126, 129, 0.89);box-sizing: border-box;">
+             TWO unique tour routes for you to choose.
+            </span>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <br/>
+           </p>
+           <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+            <span style="color: rgb(205, 119, 4);box-sizing: border-box;font-size: 15px;">
+             PS：途中还设置了
+            </span>
+            <span style="color: rgb(205, 119, 4);box-sizing: border-box;font-size: 17px;">
+             <strong style="box-sizing: border-box;">
+              丰富有趣的游戏环节
+             </strong>
+            </span>
+           </p>
+           <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+            <span style="color: rgb(205, 119, 4);box-sizing: border-box;font-size: 15px;">
+             获胜队伍将获得
+            </span>
+            <span style="color: rgb(205, 119, 4);box-sizing: border-box;font-size: 17px;">
+             <strong style="box-sizing: border-box;">
+              惊喜礼品
+             </strong>
+            </span>
+            <span style="color: rgb(205, 119, 4);box-sizing: border-box;font-size: 15px;">
+             哟！
+            </span>
+           </p>
+           <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+            <span style="color: rgb(205, 119, 4);box-sizing: border-box;font-size: 15px;">
+             赶快来报名吧！
+            </span>
+           </p>
+           <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 12px;color: rgba(124, 126, 129, 0.89);box-sizing: border-box;">
+             Apart from the happy journey,
+            </span>
+           </p>
+           <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 12px;color: rgba(124, 126, 129, 0.89);box-sizing: border-box;">
+             we also have
+             <span style="font-size: 14px;box-sizing: border-box;">
+              <strong style="box-sizing: border-box;">
+               set games
+              </strong>
+             </span>
+            </span>
+           </p>
+           <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 12px;color: rgba(124, 126, 129, 0.89);box-sizing: border-box;">
+             and
+             <span style="font-size: 14px;box-sizing: border-box;">
+              <strong style="box-sizing: border-box;">
+               prizes
+              </strong>
+             </span>
+             for winning teams!
+            </span>
+           </p>
+           <p style="text-align: center;white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 12px;text-decoration: underline;color: rgba(124, 126, 129, 0.89);box-sizing: border-box;">
+             Welcome to join us now!
+            </span>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 60%;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.5811138" data-type="gif" data-w="413" src="https://mmbiz.qpic.cn/mmbiz_gif/pLyfwFu0GDjGvLuIvOczDTwAb6Yb3C2GqbaFY8icIX71WybTDhej8PzsAuhnR8MTOg4kMHB0VrxLa6b334bPaTw/640?wx_fmt=gif" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 40%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="1" data-type="gif" data-w="346" src="https://mmbiz.qpic.cn/mmbiz_gif/pLyfwFu0GDjGvLuIvOczDTwAb6Yb3C2GTiaF4iaZ7K9Sl7ygbcfcKDndhChzJtXLb0ATbNPjpEQGUx5zJbFicZiaeQ/640?wx_fmt=gif" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 30px 0% 20px;padding-left: 5px;padding-right: 5px;box-sizing: border-box;">
+    <section style="transform: rotate(3deg);-webkit-transform: rotate(3deg);-moz-transform: rotate(3deg);-o-transform: rotate(3deg);box-sizing: border-box;">
+     <section style="border-width: 1px;border-style: solid;border-color: rgb(237, 193, 203);background-color: rgb(232, 177, 190);box-sizing: border-box;">
+      <section style="transform: rotate(-3deg);-webkit-transform: rotate(-3deg);-moz-transform: rotate(-3deg);-o-transform: rotate(-3deg);box-sizing: border-box;">
+       <section style="border-width: 1px;border-style: dashed;border-color: rgb(232, 177, 190);width: 100%;padding: 10px;background-color: rgb(255, 255, 255);box-shadow: rgb(166, 90, 108) 0px 0px 6px inset;border-radius: 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="text-align: right;margin-top: -36px;margin-right: 0%;margin-left: 0%;transform: translate3d(10px, 0px, 0px);box-sizing: border-box;">
+          <section style="display: inline-block;width: 30px;height: 60px;vertical-align: top;overflow: hidden;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 100%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="1.8894737" data-type="png" data-w="380" src="https://mmbiz.qpic.cn/mmbiz_png/pLyfwFu0GDjGvLuIvOczDTwAb6Yb3C2GQdfIIiaIEhsXaQexh6YKVLVBOwO1ETQBK7vSbvia9G5UquGMHjibLYbaQ/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 14px;color: rgb(205, 119, 4);line-height: 1.8;box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             参加对象：
+            </strong>
+            2019春季全体留学生
+            <span style="font-size: 18px;box-sizing: border-box;">
+             <strong style="box-sizing: border-box;">
+              新生
+             </strong>
+            </span>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             <span style="font-size: 12px;color: rgba(124, 126, 129, 0.89);box-sizing: border-box;">
+              Applicants
+             </span>
+            </strong>
+            <span style="font-size: 12px;color: rgba(124, 126, 129, 0.89);box-sizing: border-box;">
+             :
+             <span style="font-size: 15px;box-sizing: border-box;">
+              <strong style="box-sizing: border-box;">
+               New Internatioanl students
+              </strong>
+             </span>
+             of 2019 Spring Semester
+            </span>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             出发日期
+            </strong>
+            ：
+            <span style="letter-spacing: 0px;box-sizing: border-box;">
+             2019年3月2日
+            </span>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <span style="letter-spacing: 0px;box-sizing: border-box;">
+             （具体集合时间会在报名成功后在微信群内通知各位）
+            </span>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <span style="color: rgba(124, 126, 129, 0.89);font-size: 12px;box-sizing: border-box;">
+             <strong style="box-sizing: border-box;">
+              Date
+             </strong>
+             ：
+             <span style="letter-spacing: 0px;box-sizing: border-box;">
+              Mar.2nd, 2019.
+             </span>
+            </span>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <span style="letter-spacing: 0px;color: rgba(124, 126, 129, 0.89);font-size: 12px;box-sizing: border-box;">
+             （Departure time for each route will be announced in the Wechat group after the registration.）
+            </span>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             费用
+            </strong>
+            ：
+            <span style="letter-spacing: 0px;box-sizing: border-box;">
+             活动当日请携带20元现金（交通及游戏费用）。
+            </span>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             <span style="letter-spacing: 0px;font-size: 12px;color: rgba(124, 126, 129, 0.89);box-sizing: border-box;">
+              Fee
+             </span>
+            </strong>
+            <span style="letter-spacing: 0px;font-size: 12px;color: rgba(124, 126, 129, 0.89);box-sizing: border-box;">
+             ：Please bring 20 yuan in cash on the day of the event（fees for traffic and game）.
+            </span>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             参加规则
+            </strong>
+            ：
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            1. 请填写表单报名，每条路线满60人后将自动截止报名。数量有限，先到先得。
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            2. 提交报名申请后，
+            <span style="font-size: 16px;box-sizing: border-box;">
+             <strong style="box-sizing: border-box;">
+              请扫描二维码
+             </strong>
+            </span>
+            进入微信群等待通知。
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            3. 报名截止时间：2月26日星期二14:00。若相关路线名额有剩余，或已占有名额的学生放弃，会再次开通报名通道，接受报名。
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             <span style="font-size: 12px;color: rgba(124, 126, 129, 0.89);box-sizing: border-box;">
+              Sign up:
+             </span>
+            </strong>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 12px;color: rgba(124, 126, 129, 0.89);box-sizing: border-box;">
+             1. Please choose the route you want to join，and the sign up will end automatically as the number of applicants is over 60. First come first serves！
+            </span>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 12px;color: rgba(124, 126, 129, 0.89);box-sizing: border-box;">
+             2. After submitting your application, please
+             <span style="font-size: 15px;box-sizing: border-box;">
+              <strong style="box-sizing: border-box;">
+               scan the QR code to enter the WeChat group
+              </strong>
+             </span>
+             to wait for notification.
+            </span>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            <span style="font-size: 12px;color: rgba(124, 126, 129, 0.89);box-sizing: border-box;">
+             3. If there are still more places after 14:00 pm, Feb 26th, or there are students who gave up, you can sign up online for the second round.
+            </span>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 50%;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.6061776" data-type="gif" data-w="518" src="https://mmbiz.qpic.cn/mmbiz_gif/pLyfwFu0GDjGvLuIvOczDTwAb6Yb3C2GeM9ibBw3yiaq492BLE6P7MBhHT7kichLCM6R82u77TibGQ8dMT0APmmhKA/640?wx_fmt=gif" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="text-align: center;margin: 10px 0%;box-sizing: border-box;">
+          <section style="display: inline-block;vertical-align: middle;width: 8%;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="0.7434944" data-type="gif" data-w="269" src="https://mmbiz.qpic.cn/mmbiz_gif/pLyfwFu0GDjGvLuIvOczDTwAb6Yb3C2GreNSGStRLicIpYr2F7jIiaiaAOkVVKPacJ6HpXT8LGECxblNMFY4v7PicQ/640?wx_fmt=gif" style="vertical-align: middle;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+          </section>
+          <section style="display: inline-block;vertical-align: middle;width: 35%;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="1" data-type="png" data-w="198" src="https://mmbiz.qpic.cn/mmbiz_png/pLyfwFu0GDjGvLuIvOczDTwAb6Yb3C2Gy72POp2zNNBJ9qRYYlA7RUicNR4YmaCGTibiaraQXDUWh0MNiczF6a7Hzw/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+          </section>
+          <section style="display: inline-block;vertical-align: middle;width: 8%;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="0.7434944" data-type="gif" data-w="269" src="https://mmbiz.qpic.cn/mmbiz_gif/pLyfwFu0GDjGvLuIvOczDTwAb6Yb3C2GJXptNRyw3cBw9599dL4BaVcRPib9a3RUgPeKaGESeWwSrhT2OdEMKaw/640?wx_fmt=gif" style="vertical-align: middle;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: center;font-size: 14px;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            请通过以下链接或扫描右侧二维码报名
+           </p>
+           <p style="box-sizing: border-box;">
+            <span style="text-decoration: underline;box-sizing: border-box;">
+             http://dlgo8eh3thml6bha.mikecrm.com/FHv0Jzx
+            </span>
+           </p>
+           <p style="box-sizing: border-box;">
+            <span style="font-size: 12px;color: rgba(124, 126, 129, 0.89);box-sizing: border-box;">
+             Please click the link below or scan the QR Code to sign up.
+            </span>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 25%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.6742424" data-type="png" data-w="396" src="https://mmbiz.qpic.cn/mmbiz_png/pLyfwFu0GDjGvLuIvOczDTwAb6Yb3C2GEs5RPxRkibZhGrcMdfbEZsdz0dvmscAAbBibpzItOIjU5lOkia22FwAsg/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 20px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;padding-right: 8px;padding-left: 8px;background-color: rgb(191, 224, 216);border-width: 0px;border-radius: 3px;border-style: dashed;border-color: rgb(62, 62, 62);box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: -23px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="display: inline-block;width: 70px;height: 30px;vertical-align: top;overflow: hidden;border-style: none;border-width: 1px;border-radius: 0%;border-color: rgb(187, 222, 251);box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 100%;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="0.8390625" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/pLyfwFu0GDjGvLuIvOczDTwAb6Yb3C2Gm6iayFwVYrCEJqETGNGaT53NFHoOkXPVuV4qu41N2joHzP2Z6gfXciaA/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-bottom: 3px;margin-left: 0%;box-sizing: border-box;">
+          <section style="font-size: 14px;color: rgb(15, 79, 67);box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             <span style="text-shadow: rgb(255, 255, 255) 2px 0px 2px;box-sizing: border-box;">
+              线路介绍
+             </span>
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 14px;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            线路一：豫园、外滩  Route 1: Yu Garden, The Bund
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.7167969" data-type="jpeg" data-w="1024" src="https://mmbiz.qpic.cn/mmbiz_jpg/pLyfwFu0GDjGvLuIvOczDTwAb6Yb3C2GVzLRdMYXPe7kevExaWmqJa3vTrUK6xbKJmj4Jy7GAm7CqQKSpr7xkQ/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.612037" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/pLyfwFu0GDjGvLuIvOczDTwAb6Yb3C2G9PQ0UV8wicaiaXNe1BGUKlkMxD6WdxLnY82KP8dyo7ckWE4NLDPdcKfg/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="font-size: 12px;box-sizing: border-box;">
+     <p style="white-space: normal;box-sizing: border-box;">
+      外滩位于上海市黄浦江畔，是整个上海近代城市开始的起点。外国的银行、商行、报社云集于此，使得外滩迅速成为全国乃至远东的金融中心。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.615" data-type="jpeg" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_jpg/pLyfwFu0GDjGvLuIvOczDTwAb6Yb3C2GOZlPC7VGXdh6rIEWfiaExI1Xxho6VCO78Lb92QicqCWQk49tDEtgqSFA/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.665" data-type="jpeg" data-w="600" src="https://mmbiz.qpic.cn/mmbiz_jpg/pLyfwFu0GDjGvLuIvOczDTwAb6Yb3C2GE6f814ibmxMMnRAMfx19pVwDZJbYS7SFJibmgoBicftFa6CWDOuEWzKkg/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="font-size: 12px;box-sizing: border-box;">
+     <p style="white-space: normal;box-sizing: border-box;">
+      豫园始建于明代，是极富代表的江南古典园林。为全国重点文物保护单位，也是国家级4A景点。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 20px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;padding-right: 8px;padding-left: 8px;background-color: rgb(191, 224, 216);border-width: 0px;border-radius: 3px;border-style: dashed;border-color: rgb(62, 62, 62);box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: -23px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="display: inline-block;width: 70px;height: 30px;vertical-align: top;overflow: hidden;border-style: none;border-width: 1px;border-radius: 0%;border-color: rgb(187, 222, 251);box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 100%;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="0.8390625" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/pLyfwFu0GDjGvLuIvOczDTwAb6Yb3C2Gm6iayFwVYrCEJqETGNGaT53NFHoOkXPVuV4qu41N2joHzP2Z6gfXciaA/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-bottom: 3px;margin-left: 0%;box-sizing: border-box;">
+          <section style="font-size: 14px;color: rgb(15, 79, 67);box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             <span style="text-shadow: rgb(255, 255, 255) 2px 0px 2px;box-sizing: border-box;">
+              线路介绍
+             </span>
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 14px;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            线路二：七宝古镇 Route 2: Shippo Old Street
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.5625" data-type="gif" data-w="400" src="https://mmbiz.qpic.cn/mmbiz_gif/pLyfwFu0GDjGvLuIvOczDTwAb6Yb3C2G6fP8vspJAyUWDcz98byqmAmAdIgfW8xMBWchsicZgjnGoVlbOKNqjCw/640?wx_fmt=gif" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.562037" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/pLyfwFu0GDjGvLuIvOczDTwAb6Yb3C2GKco0iaXBFBwMv8CGx6vFiafJEj0o8m6wjQh8aCmNZKZZYlYddKguFN4Q/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.6633333" data-type="jpeg" data-w="900" src="https://mmbiz.qpic.cn/mmbiz_jpg/pLyfwFu0GDjGvLuIvOczDTwAb6Yb3C2GibicefZN6EWiaCH75jiakuoJzAYBicsg2gwz8SibThDtnlIjtSuGH6DagRmQ/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="font-size: 12px;box-sizing: border-box;">
+     <p style="white-space: normal;box-sizing: border-box;">
+      七宝老街至今已有1000多年历史。风景如画，是离市区最近的古镇。汇聚众多美食,从南翔小笼到本地汤团,从热气羊肉到咸猪肘,各种当地美食、特色小吃一应俱全,令人目不暇接。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;width: 100%;box-sizing: border-box;">
+     <section style="width: 2.5em;height: 2.5em;margin-bottom: -2.5em;border-left: 2px dotted rgb(193, 193, 193);border-top: 2px dotted rgb(193, 193, 193);box-sizing: border-box;">
+     </section>
+     <section style="padding: 8px;box-sizing: border-box;">
+      <section style="width: 100%;background-color: rgba(255, 255, 255, 0);box-sizing: border-box;">
+       <section powered-by="xiumi.us" style="box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         <section style="display: inline-block;vertical-align: top;width: 50%;padding-right: 5px;box-sizing: border-box;">
+          <section powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+            <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+             <img class="raw-image" data-ratio="0.6653333" data-type="jpeg" data-w="750" src="https://mmbiz.qpic.cn/mmbiz_jpg/pLyfwFu0GDjGvLuIvOczDTwAb6Yb3C2GT2l0lLicx2j4wHlxlAW76uAvMFwhVmnfefoaWqUoYPuKhk3M56YekPw/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+            </section>
+           </section>
+          </section>
+         </section>
+         <section style="display: inline-block;vertical-align: top;width: 50%;padding-left: 5px;box-sizing: border-box;">
+          <section powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+            <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+             <img class="raw-image" data-ratio="0.6787109" data-type="jpeg" data-w="1024" src="https://mmbiz.qpic.cn/mmbiz_jpg/pLyfwFu0GDjGvLuIvOczDTwAb6Yb3C2GkIyLicLma3ibo6jaSvpLv6n2sPIa0n1qEv6gUqjbXMELjga4bhicUicwmA/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section style="width: 2.5em;height: 2.5em;float: right;margin-top: -2.5em;border-right: 2px dotted rgb(193, 193, 193);border-bottom: 2px dotted rgb(193, 193, 193);box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 50%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.9272727" data-type="jpeg" data-w="550" src="https://mmbiz.qpic.cn/mmbiz_jpg/pLyfwFu0GDjGvLuIvOczDTwAb6Yb3C2GRhXCG7NwN9mLiaHuFv2WWtfffRmGCFhocmwYAy1yRkKjUTcPxJQCPMQ/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-right: 0%;margin-left: 0%;text-align: center;box-sizing: border-box;">
+    <section style="padding: 3px;display: inline-block;border-bottom: 5px solid rgb(249, 110, 87);font-size: 21px;line-height: 1.5;box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       识别二维码，关注我们
+      </strong>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;width: 30%;vertical-align: top;border-left: 6px solid rgb(243, 243, 243);border-bottom-left-radius: 0px;border-right: 6px solid rgb(243, 243, 243);border-top-right-radius: 0px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-right: 0%;margin-bottom: 10px;margin-left: 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 95%;vertical-align: top;padding: 10px;border-width: 0px;border-radius: 10px;border-style: none;border-color: rgb(62, 62, 62);overflow: hidden;box-shadow: rgb(231, 231, 231) 0px 0px 6px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;width: 35%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;padding-right: 5px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 100%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="1.0120482" data-type="jpeg" data-w="249" src="https://mmbiz.qpic.cn/mmbiz_jpg/pLyfwFu0GDjGvLuIvOczDTwAb6Yb3C2G8xtyCsnjclBQeOicBoTrEMrkqvFAf4Tt0YicK24PpW7rut3ek9vj0FvA/640?wx_fmt=jpeg" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;width: 65%;padding-left: 5px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="color: rgb(114, 114, 114);box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            获得更多资讯
+           </p>
+           <p style="box-sizing: border-box;">
+            长按二维码关注关注我们
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section class="tn-yzk-fuid-text-55465-1538112404813" style="font-size: 12px;line-height: 1.6;color: rgb(131, 131, 131);box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            华师大留学生办公室
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+          <section style="border-top: 1px dashed rgb(249, 110, 87);box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="display: inline-block;vertical-align: top;width: 16.6666%;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(242, 169, 169) 0px 0px 0px;width: 75%;box-sizing: border-box;">
+              <svg class="svg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" viewbox="0 0 500 500" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+               <path d="M250,497.5L250,497.5C113.3,497.5,2.5,386.7,2.5,250v0C2.5,113.3,113.3,2.5,250,2.5h0  c136.7,0,247.5,110.8,247.5,247.5v0C497.5,386.7,386.7,497.5,250,497.5z" fill="rgb(242,169,169)" style="box-sizing: border-box;">
+               </path>
+               <g style="box-sizing: border-box;">
+                <path d="M215.6,293.7l-19-38.5l-13.4-27.1h-7.9l-35.1,92.2c36.7-0.9,93.1-2.6,128.9-5.6   c33.1-29,75.9-59.4,102.9-86.6H248l-13.4,27.1L215.6,293.7z" fill="rgb(255, 255, 255)" style="box-sizing: border-box;">
+                </path>
+                <path d="M234.7,417c2.7-15.4,6-30.3,10.2-43.9c-19.1,16.2-56.2,31.2-71.6,43.9H234.7z" fill="rgb(255, 255, 255)" style="box-sizing: border-box;">
+                </path>
+                <path d="M112.9,356.3v46.5c0,7.8,6.4,14.2,14.2,14.2h1.4c18.6-15.1,70-40.5,100.6-66.5   C198.2,352.2,143.3,355.8,112.9,356.3z" fill="rgb(255, 255, 255)" style="box-sizing: border-box;">
+                </path>
+                <path d="M160.9,228.2h-47.9v92.8c4.2-0.1,8.5-0.2,12.7-0.2L160.9,228.2z" fill="rgb(255, 255, 255)" style="box-sizing: border-box;">
+                </path>
+                <path d="M127.1,171.5c-7.8,0-14.2,6.3-14.2,14.2V214h50.4l3.3-19.2l-11.5-23.3H127.1z" fill="rgb(255, 255, 255)" style="box-sizing: border-box;">
+                </path>
+                <path d="M372.9,171.5h-96.8L255,214h130.6c0.5-0.5,1-1,1.5-1.5v-26.8C387.1,177.8,380.7,171.5,372.9,171.5z" fill="rgb(255, 255, 255)" style="box-sizing: border-box;">
+                </path>
+                <path d="M267.7,353.5c-8.7,17.6-14.4,39.6-18.7,63.5h123.9c7.8,0,14.2-6.4,14.2-14.2v-67.1   c-32.6,6.5-78,11-115.2,14.2C270.5,351.1,269.1,352.3,267.7,353.5z" fill="rgb(255, 255, 255)" style="box-sizing: border-box;">
+                </path>
+                <path d="M387.1,299.8V253c-18.3,18.2-48.4,37.5-69.7,56.7C338.5,307,368.2,303.8,387.1,299.8z" fill="rgb(255, 255, 255)" style="box-sizing: border-box;">
+                </path>
+                <path d="M215.6,245.8l43.4-87.7h-0.1c4.3-7.4,6.8-15.9,6.8-25.1c0-27.7-22.4-50.1-50.1-50.1   c-27.7,0-50.1,22.4-50.1,50.1c0,9.1,2.5,17.7,6.8,25.1h-0.1L215.6,245.8z M215.6,108c13.8,0,25.1,11.2,25.1,25   c0,13.8-11.2,25.1-25.1,25.1c-13.8,0-25-11.2-25-25.1C190.5,119.3,201.8,108,215.6,108z" fill="rgb(255, 255, 255)" style="box-sizing: border-box;">
+                </path>
+               </g>
+              </svg>
+             </section>
+            </section>
+           </section>
+          </section>
+          <section style="display: inline-block;vertical-align: top;width: 16.6666%;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 75%;box-sizing: border-box;">
+              <svg class="svg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" viewbox="0 0 500 500" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+               <path d="M250,497.5L250,497.5C113.3,497.5,2.5,386.7,2.5,250v0C2.5,113.3,113.3,2.5,250,2.5h0  c136.7,0,247.5,110.8,247.5,247.5v0C497.5,386.7,386.7,497.5,250,497.5z" fill="rgb(199,204,4)" style="box-sizing: border-box;">
+               </path>
+               <g style="box-sizing: border-box;">
+                <path d="M337.2,259v-42.1c0.6-14.1,0-32.1,0-51.7c0-45.4,3.3-82.2-13.1-82.2c-16.5,0-29.8,36.8-29.8,82.2   c0,32.4,6.8,60.3,16.7,73.7V259c-6.5,4.2-10.7,11.6-10.7,19.8v114.3c0,13.1,10.7,23.8,23.8,23.8c13.1,0,23.8-10.7,23.8-23.8V278.9   C347.9,270.6,343.6,263.3,337.2,259z" fill="rgb(255, 255, 255)" style="box-sizing: border-box;">
+                </path>
+                <path d="M224.9,97.2c-4.7,0-8.4,3.5-8.4,7.8v65.8c-4.5-0.4-9.7-0.5-15.3-0.5V105c0-4.3-3.8-7.8-8.4-7.8   c-4.7,0-8.4,3.5-8.4,7.8v65.3c-5.6,0-10.8,0-15.3,0.5V105c0-4.3-3.8-7.8-8.4-7.8c-4.6,0-8.4,3.5-8.4,7.8v79.3   c0,0.1,0.1,0.2,0.1,0.3c0,0.2-0.1,0.3-0.1,0.5c0,13.3,11.6,24.4,27.5,28.5V259c-6.5,4.2-10.7,11.6-10.7,19.8v114.3   c0,13.1,10.7,23.8,23.8,23.8c13.2,0,23.8-10.7,23.8-23.8V278.9c0-8.3-4.3-15.6-10.7-19.8v-45.4c16-4.1,27.5-15.2,27.5-28.5   c0-0.2-0.1-0.3-0.1-0.5c0-0.1,0.1-0.2,0.1-0.3V105C233.3,100.7,229.6,97.2,224.9,97.2z" fill="rgb(255, 255, 255)" style="box-sizing: border-box;">
+                </path>
+               </g>
+              </svg>
+             </section>
+            </section>
+           </section>
+          </section>
+          <section style="display: inline-block;vertical-align: top;width: 16.6666%;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 75%;box-shadow: rgb(191, 225, 211) 0px 0px 0px;box-sizing: border-box;">
+              <svg class="svg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" viewbox="0 0 500 500" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+               <path d="M250,497.5L250,497.5C113.3,497.5,2.5,386.7,2.5,250v0C2.5,113.3,113.3,2.5,250,2.5h0  c136.7,0,247.5,110.8,247.5,247.5v0C497.5,386.7,386.7,497.5,250,497.5z" fill="rgb(191,225,211)" style="box-sizing: border-box;">
+               </path>
+               <g style="box-sizing: border-box;">
+                <rect fill="rgb(255, 255, 255)" height="29.5" style="box-sizing: border-box;" width="42.4" x="166.7" y="260.4">
+                </rect>
+                <rect fill="rgb(255, 255, 255)" height="29.5" style="box-sizing: border-box;" width="42.4" x="166.7" y="313.4">
+                </rect>
+                <rect fill="rgb(255, 255, 255)" height="29.5" style="box-sizing: border-box;" width="42.4" x="166.7" y="206.8">
+                </rect>
+                <rect fill="rgb(255, 255, 255)" height="29.5" style="box-sizing: border-box;" width="42.4" x="227.1" y="260.6">
+                </rect>
+                <rect fill="rgb(255, 255, 255)" height="29.5" style="box-sizing: border-box;" width="42.4" x="227.1" y="207.1">
+                </rect>
+                <rect fill="rgb(255, 255, 255)" height="29.5" style="box-sizing: border-box;" width="42.4" x="166.7" y="153.3">
+                </rect>
+                <rect fill="rgb(255, 255, 255)" height="29.5" style="box-sizing: border-box;" width="42.4" x="227.1" y="153.6">
+                </rect>
+                <path d="M371.2,392.4v-257c0-15.1-12.3-27.4-27.4-27.4h-30.4V83H183.3v25h-30.4c-15.1,0-27.4,12.3-27.4,27.4   v257h-21.2V417h291.5v-24.6H371.2z M227.1,391.5l-74.2,0l-3.9,0V135.4c0-2.2,1.8-3.9,3.9-3.9h190.8c2.2,0,3.9,1.8,3.9,3.9v256.1   l-78.1,0v-77.9h-42.4L227.1,391.5L227.1,391.5z" fill="rgb(255, 255, 255)" style="box-sizing: border-box;">
+                </path>
+                <rect fill="rgb(255, 255, 255)" height="29.5" style="box-sizing: border-box;" width="42.4" x="287.6" y="260.9">
+                </rect>
+                <rect fill="rgb(255, 255, 255)" height="29.5" style="box-sizing: border-box;" width="42.4" x="287.6" y="313.9">
+                </rect>
+                <rect fill="rgb(255, 255, 255)" height="29.5" style="box-sizing: border-box;" width="42.4" x="287.6" y="207.4">
+                </rect>
+                <rect fill="rgb(255, 255, 255)" height="29.5" style="box-sizing: border-box;" width="42.4" x="287.6" y="153.8">
+                </rect>
+               </g>
+              </svg>
+             </section>
+            </section>
+           </section>
+          </section>
+          <section style="display: inline-block;vertical-align: top;width: 16.6666%;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 75%;box-sizing: border-box;">
+              <svg class="svg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" viewbox="0 0 500 500" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+               <path d="M250,497.5L250,497.5C113.3,497.5,2.5,386.7,2.5,250v0C2.5,113.3,113.3,2.5,250,2.5h0  c136.7,0,247.5,110.8,247.5,247.5v0C497.5,386.7,386.7,497.5,250,497.5z" fill="rgb(168, 190, 225)" style="box-sizing: border-box;">
+               </path>
+               <g style="box-sizing: border-box;">
+                <path d="M172.4,261.8c11.8-11,23-22.8,35.6-32.8c13.1-10.4,27.3-19.6,41.6-28.2c5.8-3.5,13.2-4.8,20.1-5.8   c20-2.9,31.6,9.7,26.8,29.2c-4.2,16.9-9.4,33.5-13.9,50.3c-7.9,29.5-15.7,59.1-23.5,88.6c-0.4,1.6-0.5,3.3,0.6,6.2   c15.4-13.8,30.8-27.7,46.5-41.7c7.2,6.2,14.2,12.4,21.3,18.5c0,0.6,0,1.1,0,1.7c-14.1,12.8-28.2,25.7-42.3,38.5   c-15.2,13.9-31.3,26.3-52.2,30.6c-1.1,0-2.3,0-3.4,0c-21.6-7.5-26-14.4-23.8-38.2c0.3-3.1,0.5-6.2,1.3-9.1   c10.4-40.1,20.9-80.2,31.3-120.2c0.5-1.9,0.8-3.8,1.2-5.7c-0.5-0.3-1.1-0.6-1.6-0.9c-14.3,12.8-28.5,25.7-42.6,38.2   c-8.1-5.5-15.6-10.7-23.1-15.9C172.4,264.1,172.4,262.9,172.4,261.8z" fill="rgb(255, 255, 255)" style="box-sizing: border-box;">
+                </path>
+                <path d="M275.3,83c1.2,0.5,2.4,1.3,3.6,1.6c13.5,3,21.5,11.4,24.2,24.8c3.8,18.8-8.7,41.1-26.8,47.4   c-12.6,4.4-24.6,2.9-34.1-7.1c-10.9-11.5-11.2-25.1-6.2-39.2c5.6-16.1,18.3-23.9,34.2-27.4C271.9,83,273.6,83,275.3,83z" fill="rgb(255, 255, 255)" style="box-sizing: border-box;">
+                </path>
+               </g>
+              </svg>
+             </section>
+            </section>
+           </section>
+          </section>
+          <section style="display: inline-block;vertical-align: top;width: 16.6666%;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 75%;box-sizing: border-box;">
+              <svg class="svg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" viewbox="0 0 500 500" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+               <path d="M250,497.5L250,497.5C113.3,497.5,2.5,386.7,2.5,250v0C2.5,113.3,113.3,2.5,250,2.5h0  c136.7,0,247.5,110.8,247.5,247.5v0C497.5,386.7,386.7,497.5,250,497.5z" fill="rgb(232, 208, 138)" style="box-sizing: border-box;">
+               </path>
+               <g style="box-sizing: border-box;">
+                <g style="box-sizing: border-box;">
+                 <path d="M169.2,108.1L169.2,108.1c0-14.2,11.4-25.6,25.6-25.6h110.5c14.1,0,25.6,11.4,25.6,25.6l0,0H169.2z" fill="rgb(255, 255, 255)" style="box-sizing: border-box;">
+                 </path>
+                 <path d="M328.6,114.4H171.4c-18.8,0-34.1,15.2-34.1,34.1l0,145.5c0,16.3,11.5,30,26.8,33.3    c2.4,0.5,4.8,0.7,7.3,0.7h49.9h57.3h49.9c2.5,0,5-0.2,7.3-0.7c15.4-3.3,26.9-17,26.9-33.3l0.1-145.5    C362.7,129.6,347.4,114.4,328.6,114.4z M183.7,314.7c-13.2,0-23.9-10.7-23.9-23.9c0-13.1,10.7-23.8,23.9-23.8    c13.2,0,23.9,10.7,23.9,23.8C207.6,304,196.9,314.7,183.7,314.7z M316.2,314.7c-13.1,0-23.8-10.7-23.8-23.9    c0-13.1,10.7-23.8,23.8-23.8c13.3,0,24,10.7,24,23.8C340.2,304,329.5,314.7,316.2,314.7z M343.4,216.8c0,9.5-7.7,17.1-17.1,17.1    H173.8c-9.5,0-17.1-7.6-17.1-17.1V153c0-9.4,7.6-17,17.1-17h152.5c9.4,0,17.1,7.6,17.1,17V216.8z" fill="rgb(255, 255, 255)" style="box-sizing: border-box;">
+                 </path>
+                 <path d="M382.5,398.1l-10.8-10.8h7.1c3.3,0,5.9-2.6,5.9-5.9c0-3.3-2.6-5.9-5.9-5.9h-18.9l-22.3-22.3h4.8    c2.4,0,4.2-1.9,4.2-4.2c0-2.4-1.9-4.3-4.2-4.3h-13.3l-10.9-11h-32.1l11,11h-94l10.9-11h-32.1l-10.9,11h-13.3    c-2.4,0-4.3,1.9-4.3,4.3c0,2.4,1.9,4.2,4.3,4.2h4.8l-22.3,22.3h-18.9c-3.3,0-5.9,2.6-5.9,5.9c0,3.3,2.7,5.9,5.9,5.9h7.1    l-10.8,10.8c-4.4,4.4-4.4,11.6,0,16c4.4,4.5,11.6,4.5,16,0l26.8-26.8h179.2l26.9,26.8c4.5,4.5,11.7,4.5,16,0    C386.9,409.8,386.9,402.5,382.5,398.1z M172.2,375.5l22.3-22.3h111l22.3,22.3H172.2z" fill="rgb(255, 255, 255)" style="box-sizing: border-box;">
+                 </path>
+                </g>
+               </g>
+              </svg>
+             </section>
+            </section>
+           </section>
+          </section>
+          <section style="display: inline-block;vertical-align: top;width: 16.6666%;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 75%;box-sizing: border-box;">
+              <svg class="svg" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" viewbox="0 0 500 500" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+               <path d="M250,497.5L250,497.5C113.3,497.5,2.5,386.7,2.5,250v0C2.5,113.3,113.3,2.5,250,2.5h0  c136.7,0,247.5,110.8,247.5,247.5v0C497.5,386.7,386.7,497.5,250,497.5z" fill="rgb(208, 181, 232)" style="box-sizing: border-box;">
+               </path>
+               <g style="box-sizing: border-box;">
+                <path d="M418.5,123.8H170.3c-5.3,0-9.5,4.3-9.5,9.5l26.7,125.8c0,4.2,3.4,7.6,7.6,7.6h153.4   c4.2,0,7.6-3.4,7.6-7.6L428,133.3C428,128,423.7,123.8,418.5,123.8z M179.3,169l-4.6-23.7c-0.5-3.1,3.3-5.6,8.5-5.6h40.2   c5.3,0,10,2.5,10.6,5.6l4.5,23.7c0.7,3.1-3.1,5.7-8.4,5.7h-40.4C184.6,174.6,179.9,172.1,179.3,169z M244.4,255.7h-40.3   c-5.3,0-10-5.1-10.6-11.4l-9.8-47.2c-0.7-6.3,3.2-11.4,8.4-11.4h40.3c5.3,0,9.9,5.1,10.6,11.4l9.8,47.2   C253.4,250.6,249.6,255.7,244.4,255.7z M345.2,252.6c0,2.1-1.8,3.8-3.8,3.8h-76.7c-2.1,0-3.8-1.7-3.8-3.8l-13.4-62.9   c0-2.6,2.1-4.8,4.8-4.8h124.2c2.6,0,4.7,2.1,4.7,4.8L345.2,252.6z M385.9,172.7c0,1.1-0.8,1.9-1.9,1.9H247.5c-1,0-1.9-0.8-1.9-1.9   l-6.6-31.5c0-1.3,1-2.4,2.3-2.4h160.2c1.3,0,2.5,1,2.5,2.4L385.9,172.7z" fill="rgb(255, 255, 255)" style="box-sizing: border-box;">
+                </path>
+                <path d="M340.5,276.1H183.9l-49.3-124.7l-3.1-6.8c0,0-9.4-16.4-12.2-19.8c-3.4-4.3-8.8-14.5-18.1-19.7   c-2.4-1.4-5.8-3.4-11-4.1c-10.1-1.3-16.7,5.9-16.7,5.9s-11.4,10.6-1.5,21.3c23.2,25.2,27.6,36.7,27.6,36.7l50.7,139.7   c3.1,8,10.8,13,18.9,13h171.2c11.6,0,20.8-9.2,20.8-20.7C361.3,285.4,352,276.1,340.5,276.1z" fill="rgb(255, 255, 255)" style="box-sizing: border-box;">
+                </path>
+                <path d="M190.8,331.7h-0.7c-18.5,0-33.5,15.1-33.5,33.8c0,18.7,15,33.8,33.5,33.8h0.7   c18.5,0,33.5-15.2,33.5-33.8C224.2,346.8,209.3,331.7,190.8,331.7z" fill="rgb(255, 255, 255)" style="box-sizing: border-box;">
+                </path>
+                <path d="M311.2,331.7h-0.7c-18.4,0-33.5,15.1-33.5,33.8c0,18.7,15,33.8,33.5,33.8h0.7   c18.5,0,33.5-15.2,33.5-33.8C344.6,346.8,329.6,331.7,311.2,331.7z" fill="rgb(255, 255, 255)" style="box-sizing: border-box;">
+                </path>
+               </g>
+              </svg>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

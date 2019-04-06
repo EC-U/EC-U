@@ -1,0 +1,387 @@
+
+ <section style="box-sizing: border-box;">
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;width: 90%;vertical-align: top;background-color: rgba(255, 218, 199, 0.72);box-shadow: rgb(0, 0, 0) 0px 0px 0px;padding-bottom: 20px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 30px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 80%;vertical-align: top;background-color: rgb(224, 221, 222);padding: 10px;border-width: 0px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;font-size: 10px;letter-spacing: 0px;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            the movie
+           </p>
+          </section>
+         </section>
+        </section>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-bottom: 8px;margin-left: 0%;box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;border-left: 3px solid rgb(0, 0, 0);border-bottom-left-radius: 0px;padding-left: 8px;box-sizing: border-box;">
+           <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="text-align: left;font-size: 18px;letter-spacing: 2px;box-sizing: border-box;">
+              <p style="box-sizing: border-box;">
+               <span style="box-sizing: border-box;">
+                <strong style="box-sizing: border-box;">
+                 《指环王1》
+                </strong>
+                <strong style="box-sizing: border-box;">
+                 ←→《云图》
+                </strong>
+               </span>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 20px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="text-align: left;line-height: 2;letter-spacing: 2px;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <span style="letter-spacing: normal;box-sizing: border-box;">
+             <strong style="box-sizing: border-box;">
+              《指环王1》：本周五下午三点
+             </strong>
+            </span>
+           </p>
+           <p style="text-align: center;box-sizing: border-box;">
+            <span style="letter-spacing: normal;box-sizing: border-box;">
+             （图书馆主楼402天堂电影院）
+            </span>
+           </p>
+           <p style="box-sizing: border-box;">
+            <span style="box-sizing: border-box;">
+             <strong style="box-sizing: border-box;">
+              《云图》：本周五下午六点
+             </strong>
+             <br style="box-sizing: border-box;"/>
+            </span>
+           </p>
+           <p style="text-align: center;box-sizing: border-box;">
+            <span style="box-sizing: border-box;">
+             （二教311）
+            </span>
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;box-sizing: border-box;">
+       <section style='display: inline-block;width: 100px;height: 100px;vertical-align: top;overflow: hidden;background-position: 50% 50%;background-repeat: no-repeat;background-size: contain;background-attachment: scroll;background-image: url("https://mmbiz.qpic.cn/mmbiz_gif/PZ8EG8SDFiazHhg4TZgwDoLSZnPZKzzk08rDjsKBmYur6eKgvpIiaIee8jOwCI86YV3mUImTIfnplsnxvzg5SCTg/640?wx_fmt=gif");box-sizing: border-box;'>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 28px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="color: rgb(232, 125, 74);line-height: 1.4;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            经典
+           </p>
+           <p style="box-sizing: border-box;">
+            再现
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 80%;vertical-align: top;background-color: rgb(255, 255, 255);box-shadow: rgba(160, 160, 160, 0.75) 0px 0px 3px;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(225, 225, 225);padding-right: 10px;padding-bottom: 30px;padding-left: 10px;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 15px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="letter-spacing: 1px;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             THE LORD OF
+            </strong>
+            THE RINGS
+           </p>
+          </section>
+         </section>
+        </section>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;box-shadow: rgb(0, 0, 0) 0px 0px 0px;background-color: rgb(224, 221, 222);box-sizing: border-box;">
+           <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin: 2px 0%;box-sizing: border-box;">
+             <section class="tn-yzk-fuid-text-91309-1539266008832" style="color: rgb(62, 62, 62);letter-spacing: 1px;font-size: 18px;box-sizing: border-box;">
+              <p style="box-sizing: border-box;">
+               <strong style="box-sizing: border-box;">
+                指环王1：魔戒再现
+               </strong>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+           <img data-ratio="1.3666667" data-type="jpeg" data-w="600" src="https://mmbiz.qpic.cn/mmbiz_jpg/PZ8EG8SDFiazHhg4TZgwDoLSZnPZKzzk0hp9sBQpH8uicT8W6IBolWBx2uIRjOHk2OXafsBUzRKph752zK6sNQiaw/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 10px 0%;box-sizing: border-box;">
+          <section style="text-align: justify;font-size: 14px;line-height: 2;letter-spacing: 2px;box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            彼得·杰克逊的《指环王1》2001年卜一问世就引发了“中土热潮”。宏大的叙事场面，切合的人物形象，以及精彩的托老的原著——这一切交织，成就了永远的经典、“不可逾越的史诗”。
+           </p>
+          </section>
+         </section>
+        </section>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+           <img data-ratio="0.671875" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/PZ8EG8SDFiazHhg4TZgwDoLSZnPZKzzk0Bq0DnUSypzl6z4hNZYREicVdnPweyzSDwotwTxj8TOHatM7jicTXPFaQ/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: justify;font-size: 14px;line-height: 2;letter-spacing: 2px;box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            甘道夫、阿拉贡、弗罗多、莱格拉斯......这些耳熟能详的名字、迥然不同的种族，替我们缓缓拉开中土壮丽故事的篇章。精灵与矮人，巫师与人类，当他们抱着同样的信念踏上一条注定传奇的道路时，又会碰撞出什么样的火花呢？
+           </p>
+          </section>
+         </section>
+        </section>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+           <img data-ratio="0.6625" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/PZ8EG8SDFiazHhg4TZgwDoLSZnPZKzzk0crSYdoxlxMzrsGjUVZibUSeYwapbt1VRQuBj3bmPJ1wFDoTRiaJrgppQ/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: justify;font-size: 14px;line-height: 2;letter-spacing: 2px;box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            荡气回肠的英雄史诗起源于小小的夏尔的一个小小的哈比人。让我们跟着弗罗多先生一起，和他最忠实的护戒同盟的朋友们，一同从跃马旅店到末日山脉，熊熊烈火中见证至尊魔戒的消亡。
+           </p>
+          </section>
+         </section>
+        </section>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+           <img data-ratio="0.64375" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/PZ8EG8SDFiazHhg4TZgwDoLSZnPZKzzk058KfdibNwu5zEB48FRo5CryeY2NZN5xFZbcJthA12p2QRe4fDBr0l3Q/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: -30px 0% 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 10%;border-color: rgb(160, 160, 160);border-width: 0px;border-radius: 0px;border-style: none;box-sizing: border-box;">
+        <img data-ratio="1" data-type="gif" data-w="300" src="https://mmbiz.qpic.cn/mmbiz_gif/PZ8EG8SDFiazHhg4TZgwDoLSZnPZKzzk0aFnmxTL6Dll9kkJ6biaiaLMJXvA1YvmVesFHb2oyv2mmicicfmoy2KKb1w/640?wx_fmt=gif" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 80%;vertical-align: top;background-color: rgb(255, 255, 255);box-shadow: rgba(160, 160, 160, 0.75) 0px 0px 3px;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(225, 225, 225);padding-right: 10px;padding-bottom: 30px;padding-left: 10px;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 15px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="letter-spacing: 1px;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             CLOUD
+            </strong>
+            ATLAS
+           </p>
+          </section>
+         </section>
+        </section>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;box-shadow: rgb(0, 0, 0) 0px 0px 0px;background-color: rgb(224, 221, 222);box-sizing: border-box;">
+           <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin: 2px 0%;box-sizing: border-box;">
+             <section class="tn-yzk-fuid-text-81388-1539266857368" style="color: rgb(62, 62, 62);letter-spacing: 1px;font-size: 18px;box-sizing: border-box;">
+              <p style="box-sizing: border-box;">
+               <strong style="box-sizing: border-box;">
+                云图
+               </strong>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+           <img data-ratio="1.4833333" data-type="jpeg" data-w="600" src="https://mmbiz.qpic.cn/mmbiz_jpg/PZ8EG8SDFiazHhg4TZgwDoLSZnPZKzzk065yu6Wnh1GxqeAXj7jYKdtvKuL4API8zaibMjXaOJ4HsATGicjUDDYzA/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 10px 0%;box-sizing: border-box;">
+          <section style="text-align: justify;font-size: 14px;line-height: 2;letter-spacing: 2px;color: rgb(62, 62, 62);box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            一场电影，一部乐曲，六个故事，不同人生。
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            《云图》的魅力，绝不仅仅只体现在演职员表上。这是一部慢热的好片，在《云图六重奏》的演绎下串成了一代又一代的悲欢离合。彗星标记之下，是人性中熠熠生光的反抗精神和对自由的执着追求。
+           </p>
+          </section>
+         </section>
+        </section>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+           <img data-ratio="0.6640625" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/PZ8EG8SDFiazHhg4TZgwDoLSZnPZKzzk0UVCRlpKWza08MjiaoDtZjb0r7FMn5fJZdicyM6JmHI7xXtu8ZyzLgciag/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 10px 0%;box-sizing: border-box;">
+          <section style="text-align: justify;font-size: 14px;line-height: 2;letter-spacing: 2px;color: rgb(62, 62, 62);box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            周迅在其中的表现或许能引起你的关注——但请别忘了留意本·卫肖、汤姆·汉克斯、雨果·维文等等演员。在此片中，他们并不仅仅是他们。
+           </p>
+          </section>
+         </section>
+        </section>
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+           <img data-ratio="0.665" data-type="jpeg" data-w="600" src="https://mmbiz.qpic.cn/mmbiz_jpg/PZ8EG8SDFiazHhg4TZgwDoLSZnPZKzzk0FSp0yypPIvFqqic81ARsNSMcXSmFHECMOalZqBDkTUrjsicX8rdmXc6g/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;border-width: 8px;border-style: solid;border-color: rgb(192, 200, 209);padding: 10px;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            非常欢迎大家携家带口前来观影，
+           </p>
+           <p style="box-sizing: border-box;">
+            本次观影活动面向全体师生，快来pick吧！
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-bottom: 20px;margin-left: 0%;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 80%;padding-right: 5px;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 20px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="text-align: justify;color: rgb(166, 166, 166);line-height: 1.8;box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            如果你也爱电影
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="white-space: normal;box-sizing: border-box;">
+            【影视协会出品】
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 20%;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 100%;box-sizing: border-box;">
+           <img data-ratio="1" data-type="gif" data-w="480" src="https://mmbiz.qpic.cn/mmbiz_gif/PZ8EG8SDFiazHhg4TZgwDoLSZnPZKzzk0icxicSrVnibDPhpKiahA2WfbM2coKw41MutlBWo79Bnxy0Pak3Ovl5EIBQ/640?wx_fmt=gif" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="line-height: 2;letter-spacing: 2px;font-size: 10px;box-sizing: border-box;">
+        <p style="text-align: right;box-sizing: border-box;">
+         <span style="color: rgb(160, 160, 160);box-sizing: border-box;">
+          撰文：小时
+         </span>
+        </p>
+        <p style="text-align: right;box-sizing: border-box;">
+         <span style="color: rgb(160, 160, 160);box-sizing: border-box;">
+          排版：网络
+         </span>
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

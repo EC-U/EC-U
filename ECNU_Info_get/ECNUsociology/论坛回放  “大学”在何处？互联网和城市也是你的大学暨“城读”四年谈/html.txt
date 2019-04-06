@@ -1,0 +1,629 @@
+
+ <section style="box-sizing: border-box;">
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(212, 236, 220);padding-top: 10px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px 15px;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 15px;color: rgb(79, 118, 120);line-height: 1.8;box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            2014年，一方面感动于互联网上众多人无私奉献出专业知识和时间，一方面出于教学科研的需要，华东师范大学社会学系李丽梅老师创建了微信公众号
+            <strong>
+             “城读”
+            </strong>
+            ，每周推送中英文城市阅读笔记，延续至今，吸引了越来越多的城市学习者、研究者和实践者的关注。12月26日下午，在“城读”诞生四年之际，社友论坛第七期特邀请李丽梅老师与大家分享她的读书与学习心得。本次论坛在华东师范大学闵行校区法商北楼509室顺利举行，李丽梅老师的分享题目是“把互联网和城市当作大学——‘城读’四年谈”，社会学系刘拥华老师、姚泽麟老师、薛红老师和吴金海老师参与座谈。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: -5px 0% -3px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+        <svg style="vertical-align: middle;max-width: 100%;box-sizing: border-box;" viewbox="0 0 630.7 35" width="630.7" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+         <g style="box-sizing: border-box;">
+          <g style="box-sizing: border-box;">
+           <path d="M10.9,19.9c6,0,10.9,6.7,10.9,15H0C0,26.7,4.9,19.9,10.9,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M32.6,19.9c6,0,10.9,6.7,10.9,15H21.7C21.7,26.7,26.6,19.9,32.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M54.4,19.9c6,0,10.9,6.7,10.9,15H43.5C43.5,26.7,48.4,19.9,54.4,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M76.1,19.9c6,0,10.9,6.7,10.9,15H65.2C65.2,26.7,70.1,19.9,76.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M97.8,19.9c6,0,10.9,6.7,10.9,15H87C87,26.7,91.8,19.9,97.8,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M119.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C108.7,26.7,113.6,19.9,119.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M141.3,19.9c6,0,10.9,6.7,10.9,15h-21.7C130.4,26.7,135.3,19.9,141.3,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M163.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C152.2,26.7,157.1,19.9,163.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M184.9,20c6,0,10.9,6.7,10.9,15H174C174,26.7,178.9,20,184.9,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M206.6,20c6,0,10.9,6.7,10.9,15h-21.7C195.7,26.7,200.6,20,206.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M228.4,20c6,0,10.9,6.7,10.9,15h-21.7C217.5,26.7,222.4,20,228.4,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M250.1,20c6,0,10.9,6.7,10.9,15h-21.7C239.2,26.7,244.1,20,250.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M271.8,20c6,0,10.9,6.7,10.9,15H261C261,26.7,265.8,20,271.8,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M293.6,20c6,0,10.9,6.7,10.9,15h-21.7C282.7,26.7,287.6,20,293.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M315.3,20c6,0,10.9,6.7,10.9,15h-21.7C304.4,26.7,309.3,20,315.3,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M337.1,20c6,0,10.9,6.7,10.9,15h-21.7C326.2,26.7,331.1,20,337.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M358.9,19.9c6,0,10.9,6.7,10.9,15H348C348,26.7,352.9,19.9,358.9,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M380.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C369.7,26.7,374.6,19.9,380.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M402.4,19.9c6,0,10.9,6.7,10.9,15h-21.7C391.5,26.7,396.4,19.9,402.4,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M424.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C413.2,26.7,418.1,19.9,424.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M445.8,19.9c6,0,10.9,6.7,10.9,15H435C435,26.7,439.8,19.9,445.8,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M467.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C456.7,26.7,461.6,19.9,467.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M489.3,19.9c6,0,10.9,6.7,10.9,15h-21.7C478.4,26.7,483.3,19.9,489.3,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M511.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C500.2,26.7,505.1,19.9,511.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M532.9,20c6,0,10.9,6.7,10.9,15H522C522,26.7,526.9,20,532.9,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M554.6,20c6,0,10.9,6.7,10.9,15h-21.7C543.7,26.7,548.6,20,554.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M576.4,20c6,0,10.9,6.7,10.9,15h-21.7C565.5,26.7,570.4,20,576.4,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M598.1,20c6,0,10.9,6.7,10.9,15h-21.7C587.2,26.7,592.1,20,598.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M619.8,20c6,0,10.9,6.7,10.9,15H609C609,26.7,613.8,20,619.8,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+          </g>
+         </g>
+        </svg>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <img data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/1pFtBz8fulggKJ6GIwnLFNicu0KavDSA25PtSnY8zNnibAbWWfRGrkbCZ1Q2Rl5ZphV5mbH8ejEyDUU789hTMyCQ/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgba(252, 223, 215, 0.37);padding-bottom: 10px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: -5px 0% 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+        <svg style="vertical-align: middle;max-width: 100%;box-sizing: border-box;" viewbox="0 0 630.7 35" width="630.7" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+         <g style="box-sizing: border-box;">
+          <g style="box-sizing: border-box;">
+           <path d="M619.8,15c-6,0-10.9-6.7-10.9-15h21.7C630.7,8.3,625.8,15,619.8,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M598.1,15c-6,0-10.9-6.7-10.9-15H609C609,8.3,604.1,15,598.1,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M576.4,15c-6,0-10.9-6.7-10.9-15h21.7C587.2,8.3,582.4,15,576.4,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M554.6,15c-6,0-10.9-6.7-10.9-15h21.7C565.5,8.3,560.6,15,554.6,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M532.9,15c-6,0-10.9-6.7-10.9-15h21.7C543.7,8.3,538.9,15,532.9,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M511.1,15c-6,0-10.9-6.7-10.9-15H522C522,8.3,517.1,15,511.1,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M489.4,15c-6,0-10.9-6.7-10.9-15h21.7C500.3,8.3,495.4,15,489.4,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M467.6,15c-6,0-10.9-6.7-10.9-15h21.7C478.5,8.3,473.6,15,467.6,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M445.8,14.9c-6,0-10.9-6.7-10.9-15h21.7C456.7,8.2,451.8,14.9,445.8,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M424.1,14.9c-6,0-10.9-6.7-10.9-15H435C435,8.2,430.1,14.9,424.1,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M402.4,14.9c-6,0-10.9-6.7-10.9-15h21.7C413.2,8.2,408.4,14.9,402.4,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M380.6,14.9c-6,0-10.9-6.7-10.9-15h21.7C391.5,8.2,386.6,14.9,380.6,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M358.9,14.9c-6,0-10.9-6.7-10.9-15h21.7C369.7,8.2,364.9,14.9,358.9,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M337.1,14.9c-6,0-10.9-6.7-10.9-15H348C348,8.2,343.1,14.9,337.1,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M315.4,14.9c-6,0-10.9-6.7-10.9-15h21.7C326.3,8.2,321.4,14.9,315.4,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M293.6,14.9c-6,0-10.9-6.7-10.9-15h21.7C304.5,8.2,299.6,14.9,293.6,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M271.8,15c-6,0-10.9-6.7-10.9-15h21.7C282.7,8.3,277.8,15,271.8,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M250.1,15c-6,0-10.9-6.7-10.9-15H261C261,8.3,256.1,15,250.1,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M228.4,15c-6,0-10.9-6.7-10.9-15h21.7C239.2,8.3,234.4,15,228.4,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M206.6,15c-6,0-10.9-6.7-10.9-15h21.7C217.5,8.3,212.6,15,206.6,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M184.9,15c-6,0-10.9-6.7-10.9-15h21.7C195.7,8.3,190.9,15,184.9,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M163.1,15c-6,0-10.9-6.7-10.9-15H174C174,8.3,169.1,15,163.1,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M141.4,15c-6,0-10.9-6.7-10.9-15h21.7C152.3,8.3,147.4,15,141.4,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M119.6,15c-6,0-10.9-6.7-10.9-15h21.7C130.5,8.3,125.6,15,119.6,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M97.8,14.9c-6,0-10.9-6.7-10.9-15h21.7C108.7,8.2,103.8,14.9,97.8,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M76.1,14.9c-6,0-10.9-6.7-10.9-15H87C87,8.2,82.1,14.9,76.1,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M54.4,14.9c-6,0-10.9-6.7-10.9-15h21.7C65.2,8.2,60.4,14.9,54.4,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M32.6,14.9c-6,0-10.9-6.7-10.9-15h21.7C43.5,8.2,38.6,14.9,32.6,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M10.9,14.9C4.9,14.9,0,8.2,0-0.1h21.7C21.7,8.2,16.9,14.9,10.9,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+          </g>
+         </g>
+        </svg>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px 15px;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 15px;color: rgb(160, 160, 160);line-height: 1.8;box-sizing: border-box;">
+           <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+            在社会学刘拥华老师简单向大家介绍本期论坛策划初衷之后，李丽梅老师开始了她的精彩分享。李丽梅老师首先对刘老师邀请其参加此次社友论坛表示感谢，感谢能够有这样一次和大家线下面对面地分享“城读”心得的机会。接下来李老师主要从把互联网当作大学和把城市当作大学两个方面展开。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <img data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/1pFtBz8fulggKJ6GIwnLFNicu0KavDSA2ahhNwiazNBUuzt5YGqUiaRMqtmGJcP4vTHM8r0EEUTMaib5LpaxOUp7fQ/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(212, 236, 220);padding-top: 10px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px 15px;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 15px;color: rgb(79, 118, 120);line-height: 1.8;box-sizing: border-box;">
+           <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+            李老师在谈到为什么要把互联网当作大学时，从互联网的历史谈起，主要向大家介绍了对互联网的发明做出巨大贡献的三位人物。第一位是万维网的发明者英国物理学家蒂姆·伯纳斯·李(Tim Berners-Lee)，博纳斯·李并没有为自己的发明申请专利，或是限制它的使用，而是无偿地向公众公开了他的发明成果，使得数以亿计的人能够利用浩瀚的网络资源，从而使网络以前所未有的速度获得发展。正如《时代》周刊对其评论：与所有推动人类进程的发明不同，这是一件纯粹个人的劳动成果。互联网从诞生之日起就预示着一种
+            <strong>
+             开放、自由的精神
+            </strong>
+            ，而这种开放、自由也正是“城读”所珍视和践行的一种精神。第二位是互联网之子——亚伦·斯沃茨（Aaron Swartz），他创建了Internet Open Library（互联网开放图书馆）、Watchdog.net并起草了Guerrilla Open Access Manifesto（游击队开放访问宣言），他始终用生命坚持着互联网真正的开放精神，反对知识私有化，倡导对人类有价值的科学和文化遗产属于全人类。第三位是Sci-hub的创建人——亚历珊卓·艾尔巴金(Alexandra Elbakyan)，艾尔巴金为打破隔离了普通公众与学术知识的高额付费壁垒，分享科技论文成果而创建了免费向全体互联网用户开放约6500万篇已经发表的研究论文的Sci-hub。随后，李老师强调互联网对学习的重要性，互联网可以也应该成为连接书籍、读者、作者、纸张与思想的最好载体，以Google Books为例，截止2015年10月,Google Books已经扫描了2500万本电子书，互联网已经越来越成为我们获取资源的最重要的场所，互联网也是承接人类知识和思想，使生活在当代的人与前人进行对话的场所。正如李老师所说，“城读参考来源主要为英语网站，无数次被互联网上人们无私奉献的时间和专业知识所感动。我想不出比互联网更好的大学。”
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgba(252, 223, 215, 0.37);padding-bottom: 10px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+        <img data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/1pFtBz8fulggKJ6GIwnLFNicu0KavDSA2kxP4jn1R9OosgaeonDwcOLJcEQlLhvAsfjzLVyvToMp719pNluI1sQ/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: -5px 0% 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+        <svg style="vertical-align: middle;max-width: 100%;box-sizing: border-box;" viewbox="0 0 630.7 35" width="630.7" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+         <g style="box-sizing: border-box;">
+          <g style="box-sizing: border-box;">
+           <path d="M619.8,15c-6,0-10.9-6.7-10.9-15h21.7C630.7,8.3,625.8,15,619.8,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M598.1,15c-6,0-10.9-6.7-10.9-15H609C609,8.3,604.1,15,598.1,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M576.4,15c-6,0-10.9-6.7-10.9-15h21.7C587.2,8.3,582.4,15,576.4,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M554.6,15c-6,0-10.9-6.7-10.9-15h21.7C565.5,8.3,560.6,15,554.6,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M532.9,15c-6,0-10.9-6.7-10.9-15h21.7C543.7,8.3,538.9,15,532.9,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M511.1,15c-6,0-10.9-6.7-10.9-15H522C522,8.3,517.1,15,511.1,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M489.4,15c-6,0-10.9-6.7-10.9-15h21.7C500.3,8.3,495.4,15,489.4,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M467.6,15c-6,0-10.9-6.7-10.9-15h21.7C478.5,8.3,473.6,15,467.6,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M445.8,14.9c-6,0-10.9-6.7-10.9-15h21.7C456.7,8.2,451.8,14.9,445.8,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M424.1,14.9c-6,0-10.9-6.7-10.9-15H435C435,8.2,430.1,14.9,424.1,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M402.4,14.9c-6,0-10.9-6.7-10.9-15h21.7C413.2,8.2,408.4,14.9,402.4,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M380.6,14.9c-6,0-10.9-6.7-10.9-15h21.7C391.5,8.2,386.6,14.9,380.6,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M358.9,14.9c-6,0-10.9-6.7-10.9-15h21.7C369.7,8.2,364.9,14.9,358.9,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M337.1,14.9c-6,0-10.9-6.7-10.9-15H348C348,8.2,343.1,14.9,337.1,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M315.4,14.9c-6,0-10.9-6.7-10.9-15h21.7C326.3,8.2,321.4,14.9,315.4,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M293.6,14.9c-6,0-10.9-6.7-10.9-15h21.7C304.5,8.2,299.6,14.9,293.6,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M271.8,15c-6,0-10.9-6.7-10.9-15h21.7C282.7,8.3,277.8,15,271.8,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M250.1,15c-6,0-10.9-6.7-10.9-15H261C261,8.3,256.1,15,250.1,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M228.4,15c-6,0-10.9-6.7-10.9-15h21.7C239.2,8.3,234.4,15,228.4,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M206.6,15c-6,0-10.9-6.7-10.9-15h21.7C217.5,8.3,212.6,15,206.6,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M184.9,15c-6,0-10.9-6.7-10.9-15h21.7C195.7,8.3,190.9,15,184.9,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M163.1,15c-6,0-10.9-6.7-10.9-15H174C174,8.3,169.1,15,163.1,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M141.4,15c-6,0-10.9-6.7-10.9-15h21.7C152.3,8.3,147.4,15,141.4,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M119.6,15c-6,0-10.9-6.7-10.9-15h21.7C130.5,8.3,125.6,15,119.6,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M97.8,14.9c-6,0-10.9-6.7-10.9-15h21.7C108.7,8.2,103.8,14.9,97.8,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M76.1,14.9c-6,0-10.9-6.7-10.9-15H87C87,8.2,82.1,14.9,76.1,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M54.4,14.9c-6,0-10.9-6.7-10.9-15h21.7C65.2,8.2,60.4,14.9,54.4,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M32.6,14.9c-6,0-10.9-6.7-10.9-15h21.7C43.5,8.2,38.6,14.9,32.6,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M10.9,14.9C4.9,14.9,0,8.2,0-0.1h21.7C21.7,8.2,16.9,14.9,10.9,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+          </g>
+         </g>
+        </svg>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px 15px;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 15px;color: rgb(160, 160, 160);line-height: 1.8;box-sizing: border-box;">
+           <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+            第二部分李老师主要为我们讲述了城市的重要性——把城市当作大学。虽然随着互联网的兴起，时空的限制越来越小，地理位置似乎变得越来越不重要了，但是城市仍然有其自身强大的优势，城市的重要性也正在凸显。正如南加州大学助理教授Jorge De la Roca和西班牙CEMFI经济学教授Diego Puga所言：“大城市的好处之一在于促进各种实验和学习，尤其是大城市能为职工提供积累宝贵经验的机会，这种动态的好处可以转化为更高的人力资本，即使在搬离大城市之后，职工仍能受益于这些好处”。城市不成比例地集中了最好的基础设施、优秀的人才等，通过集聚产生效应。随后李老师为我们介绍了首位城市律(The law of primate city)，通过幂率——一种超线性的变化，即城市现象/特征随着城市规模的增加或减少呈现规律变化，来进一步解释城市的优势与重要性。李老师在建议我们
+            <strong>
+             把城市当作大学的同时，也强调整个世界就是一所学校，每个人都是老师，每个人都是学生，希望我们能够不受专业、领域的限制，开阔视野，一切皆可学
+            </strong>
+            。最后李老师
+            <strong>
+             对曾经和目前正在参与“城读”的同学们表达谢意
+            </strong>
+            。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(212, 236, 220);padding-top: 10px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px 15px;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 15px;color: rgb(79, 118, 120);line-height: 1.8;box-sizing: border-box;">
+           <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+            在互动环节，现场的老师和同学提出诸多问题，主要涉及我们如何实现对互联网的“积极”运用而非“消极”使用，如何缩小甚至避免“数字鸿沟”从而让更多人能够共享互联网发展的成果，还有同学询问老师比较青睐的互联网获取知识的网站等，这些问题都得到了李老师的详细回应。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: -5px 0% -3px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+        <svg style="vertical-align: middle;max-width: 100%;box-sizing: border-box;" viewbox="0 0 630.7 35" width="630.7" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+         <g style="box-sizing: border-box;">
+          <g style="box-sizing: border-box;">
+           <path d="M10.9,19.9c6,0,10.9,6.7,10.9,15H0C0,26.7,4.9,19.9,10.9,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M32.6,19.9c6,0,10.9,6.7,10.9,15H21.7C21.7,26.7,26.6,19.9,32.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M54.4,19.9c6,0,10.9,6.7,10.9,15H43.5C43.5,26.7,48.4,19.9,54.4,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M76.1,19.9c6,0,10.9,6.7,10.9,15H65.2C65.2,26.7,70.1,19.9,76.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M97.8,19.9c6,0,10.9,6.7,10.9,15H87C87,26.7,91.8,19.9,97.8,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M119.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C108.7,26.7,113.6,19.9,119.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M141.3,19.9c6,0,10.9,6.7,10.9,15h-21.7C130.4,26.7,135.3,19.9,141.3,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M163.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C152.2,26.7,157.1,19.9,163.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M184.9,20c6,0,10.9,6.7,10.9,15H174C174,26.7,178.9,20,184.9,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M206.6,20c6,0,10.9,6.7,10.9,15h-21.7C195.7,26.7,200.6,20,206.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M228.4,20c6,0,10.9,6.7,10.9,15h-21.7C217.5,26.7,222.4,20,228.4,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M250.1,20c6,0,10.9,6.7,10.9,15h-21.7C239.2,26.7,244.1,20,250.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M271.8,20c6,0,10.9,6.7,10.9,15H261C261,26.7,265.8,20,271.8,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M293.6,20c6,0,10.9,6.7,10.9,15h-21.7C282.7,26.7,287.6,20,293.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M315.3,20c6,0,10.9,6.7,10.9,15h-21.7C304.4,26.7,309.3,20,315.3,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M337.1,20c6,0,10.9,6.7,10.9,15h-21.7C326.2,26.7,331.1,20,337.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M358.9,19.9c6,0,10.9,6.7,10.9,15H348C348,26.7,352.9,19.9,358.9,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M380.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C369.7,26.7,374.6,19.9,380.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M402.4,19.9c6,0,10.9,6.7,10.9,15h-21.7C391.5,26.7,396.4,19.9,402.4,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M424.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C413.2,26.7,418.1,19.9,424.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M445.8,19.9c6,0,10.9,6.7,10.9,15H435C435,26.7,439.8,19.9,445.8,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M467.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C456.7,26.7,461.6,19.9,467.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M489.3,19.9c6,0,10.9,6.7,10.9,15h-21.7C478.4,26.7,483.3,19.9,489.3,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M511.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C500.2,26.7,505.1,19.9,511.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M532.9,20c6,0,10.9,6.7,10.9,15H522C522,26.7,526.9,20,532.9,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M554.6,20c6,0,10.9,6.7,10.9,15h-21.7C543.7,26.7,548.6,20,554.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M576.4,20c6,0,10.9,6.7,10.9,15h-21.7C565.5,26.7,570.4,20,576.4,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M598.1,20c6,0,10.9,6.7,10.9,15h-21.7C587.2,26.7,592.1,20,598.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M619.8,20c6,0,10.9,6.7,10.9,15H609C609,26.7,613.8,20,619.8,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+          </g>
+         </g>
+        </svg>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <img data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/1pFtBz8fulggKJ6GIwnLFNicu0KavDSA2TrGMh4mjAicibaTTfgqn7gBaoVxOSyPDjp5GEmE0PQMl7JzsCsX2SNhA/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <img data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/1pFtBz8fulggKJ6GIwnLFNicu0KavDSA2YHUhKp537l77lvyrYWtQAc31lTOhjI8sj1tauu2EHnP3JRT9OCBTOQ/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <img data-ratio="1.3328125" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/1pFtBz8fulggKJ6GIwnLFNicu0KavDSA2HianKFgPY1YDQDnLzX24ygzMX2YeDXBqGibk6zcVfT1UTG1zEo3JcFrg/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgba(252, 223, 215, 0.37);padding-bottom: 10px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+        <img data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/1pFtBz8fulggKJ6GIwnLFNicu0KavDSA2AakAY23VvzQvN5BaennJntOQ8b8KEbSTcUT7zWbMY9Uh7A6Js5Fwtw/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: -5px 0% 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+        <svg style="vertical-align: middle;max-width: 100%;box-sizing: border-box;" viewbox="0 0 630.7 35" width="630.7" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+         <g style="box-sizing: border-box;">
+          <g style="box-sizing: border-box;">
+           <path d="M619.8,15c-6,0-10.9-6.7-10.9-15h21.7C630.7,8.3,625.8,15,619.8,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M598.1,15c-6,0-10.9-6.7-10.9-15H609C609,8.3,604.1,15,598.1,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M576.4,15c-6,0-10.9-6.7-10.9-15h21.7C587.2,8.3,582.4,15,576.4,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M554.6,15c-6,0-10.9-6.7-10.9-15h21.7C565.5,8.3,560.6,15,554.6,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M532.9,15c-6,0-10.9-6.7-10.9-15h21.7C543.7,8.3,538.9,15,532.9,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M511.1,15c-6,0-10.9-6.7-10.9-15H522C522,8.3,517.1,15,511.1,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M489.4,15c-6,0-10.9-6.7-10.9-15h21.7C500.3,8.3,495.4,15,489.4,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M467.6,15c-6,0-10.9-6.7-10.9-15h21.7C478.5,8.3,473.6,15,467.6,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M445.8,14.9c-6,0-10.9-6.7-10.9-15h21.7C456.7,8.2,451.8,14.9,445.8,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M424.1,14.9c-6,0-10.9-6.7-10.9-15H435C435,8.2,430.1,14.9,424.1,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M402.4,14.9c-6,0-10.9-6.7-10.9-15h21.7C413.2,8.2,408.4,14.9,402.4,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M380.6,14.9c-6,0-10.9-6.7-10.9-15h21.7C391.5,8.2,386.6,14.9,380.6,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M358.9,14.9c-6,0-10.9-6.7-10.9-15h21.7C369.7,8.2,364.9,14.9,358.9,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M337.1,14.9c-6,0-10.9-6.7-10.9-15H348C348,8.2,343.1,14.9,337.1,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M315.4,14.9c-6,0-10.9-6.7-10.9-15h21.7C326.3,8.2,321.4,14.9,315.4,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M293.6,14.9c-6,0-10.9-6.7-10.9-15h21.7C304.5,8.2,299.6,14.9,293.6,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M271.8,15c-6,0-10.9-6.7-10.9-15h21.7C282.7,8.3,277.8,15,271.8,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M250.1,15c-6,0-10.9-6.7-10.9-15H261C261,8.3,256.1,15,250.1,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M228.4,15c-6,0-10.9-6.7-10.9-15h21.7C239.2,8.3,234.4,15,228.4,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M206.6,15c-6,0-10.9-6.7-10.9-15h21.7C217.5,8.3,212.6,15,206.6,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M184.9,15c-6,0-10.9-6.7-10.9-15h21.7C195.7,8.3,190.9,15,184.9,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M163.1,15c-6,0-10.9-6.7-10.9-15H174C174,8.3,169.1,15,163.1,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M141.4,15c-6,0-10.9-6.7-10.9-15h21.7C152.3,8.3,147.4,15,141.4,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M119.6,15c-6,0-10.9-6.7-10.9-15h21.7C130.5,8.3,125.6,15,119.6,15z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M97.8,14.9c-6,0-10.9-6.7-10.9-15h21.7C108.7,8.2,103.8,14.9,97.8,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M76.1,14.9c-6,0-10.9-6.7-10.9-15H87C87,8.2,82.1,14.9,76.1,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M54.4,14.9c-6,0-10.9-6.7-10.9-15h21.7C65.2,8.2,60.4,14.9,54.4,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M32.6,14.9c-6,0-10.9-6.7-10.9-15h21.7C43.5,8.2,38.6,14.9,32.6,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+           <path d="M10.9,14.9C4.9,14.9,0,8.2,0-0.1h21.7C21.7,8.2,16.9,14.9,10.9,14.9z" fill="rgb(255,205,209)" style="box-sizing: border-box;">
+           </path>
+          </g>
+         </g>
+        </svg>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px 15px;box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 15px;color: rgb(160, 160, 160);line-height: 1.8;box-sizing: border-box;">
+           <p style="text-indent: 2em;white-space: normal;box-sizing: border-box;">
+            在本期论坛上，同学们不仅感受到了李老师共享城市知识学习这件事上的坚持，而且在李老师对互联网和城市的诠释中，也开始反思“大学”究竟是什么、在哪里、意义为何等更深层次也更重要的问题。社友论坛再次为师生的学习和精神交流提供了良好的平台。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="font-size: 14px;box-sizing: border-box;">
+     <p style="text-align: right;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="text-align: right;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="text-align: right;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="text-align: right;box-sizing: border-box;">
+      文/梅晶哲 多多
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="text-align: right;box-sizing: border-box;">
+      图/多多 梅晶哲
+     </p>
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

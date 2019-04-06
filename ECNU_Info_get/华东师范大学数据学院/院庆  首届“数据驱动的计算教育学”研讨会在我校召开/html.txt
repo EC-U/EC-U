@@ -1,0 +1,581 @@
+
+ <section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;">
+  <section data-role="outer" label="Powered by 135editor.com">
+   <section class="_135editor" data-id="93435" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section>
+     <section style="padding-right: 15px;padding-left: 15px;box-sizing: border-box;">
+      <section style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+       <section class="_135editor" data-id="86033" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+        <section style="margin-top: 10px;margin-bottom: 10px;padding-right: 3px;padding-left: 3px;box-sizing: border-box;">
+         <section style="font-family: 微软雅黑;width: 6px;height: 6px;margin-left: -3px;border-radius: 100%;color: #fefefe;background-color: #a65bcb;box-sizing: border-box;">
+         </section>
+         <section style="border-left: 1px solid #a65bcb;box-sizing: border-box;">
+          <section style="padding: 3px 10px;box-sizing: border-box;">
+           <section class="135brush" data-brushtype="text" style="text-align: left;">
+            <span style="color: #000000;text-shadow: #b2a2c7 2px 2px 10px;">
+             <strong style="font-size: 19px;white-space: normal;">
+              <span style="font-size: 20px;line-height: 26px;">
+               <strong style="font-size: 19px;">
+                <span style="font-family: Calibri, sans-serif;font-size: 20px;line-height: 26px;">
+                 <section class="_135editor" data-id="41173" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                  <section class="_135editor" data-id="41173" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;display: inline-block;box-sizing: border-box;">
+                   <p style="margin-top: 8px;padding-right: 10px;font-size: 16px;line-height: 28px;max-width: 100%;color: rgb(166, 91, 203);min-height: 28px;border-bottom: 1.5px solid rgb(166, 91, 203);border-top-color: rgb(166, 91, 203);border-right-color: rgb(166, 91, 203);border-left-color: rgb(166, 91, 203);text-align: justify;">
+                    <span class="autonum" data-original-title="" placeholder="1" style="color: rgb(255, 255, 255);display: block;float: left;line-height: 20px;margin-right: 8px;max-width: 100%;padding: 2px 5px;background-color: rgb(166, 91, 203);overflow-wrap: break-word !important;" title="">
+                     <strong style="font-size: 19px;">
+                      <span style="font-size: 20px;line-height: 26px;">
+                       <span style="line-height: 26px;">
+                        首届
+                       </span>
+                      </span>
+                     </strong>
+                    </span>
+                    <strong class="135brush" data-brushtype="text" style="border-color: #a65bcb;">
+                     <strong style="font-size: 19px;">
+                      <span style="font-size: 20px;line-height: 26px;">
+                       <strong style="font-size: 19px;">
+                        <span style="font-size: 20px;line-height: 26px;font-family: 宋体;color: #000000;">
+                         “数据驱动的计算教育学”
+                        </span>
+                       </strong>
+                      </span>
+                     </strong>
+                    </strong>
+                   </p>
+                  </section>
+                 </section>
+                </span>
+               </strong>
+              </span>
+             </strong>
+            </span>
+           </section>
+          </section>
+         </section>
+         <section data-width="100%" style="font-family: 微软雅黑;border-top: 1px solid #a65bcb;width: 100%;float: left;box-sizing: border-box;">
+         </section>
+         <section style="font-family: 微软雅黑;width: 6px;height: 6px;margin-top: -4px;border-radius: 100%;float: right;color: #fefefe;background-color: #a65bcb;box-sizing: border-box;">
+          <br/>
+         </section>
+         <section class="135brush" style="font-family: 微软雅黑;border-left: 1px solid #a65bcb;box-sizing: border-box;">
+          <section style="padding: 3px 10px;box-sizing: border-box;">
+           <p style="text-align: right;">
+            <span style="font-size: 19px;font-family: 等线;color: #000000;text-shadow: #b2a2c7 2px 2px 10px;">
+             <strong>
+              <span style="font-size:20px;line-height:130%;font-family:宋体;">
+               <strong style="font-family: 等线;font-size: 19px;text-align: center;white-space: normal;">
+                <span style="font-size: 20px;line-height: 26px;font-family: 宋体;">
+                 <strong style="font-family: 等线;font-size: 19px;">
+                  <span style="font-size: 20px;line-height: 26px;font-family: 宋体;">
+                   <strong style="font-family: 等线;font-size: 19px;">
+                    <span style="font-size: 20px;line-height: 26px;font-family: 宋体;">
+                     <strong style="font-family: 等线;font-size: 19px;text-align: right;">
+                      <span style="font-size: 20px;line-height: 26px;font-family: 宋体;">
+                       <strong style="font-family: 等线;font-size: 19px;text-align: center;">
+                        <span style="font-size: 20px;line-height: 26px;font-family: 宋体;">
+                         <strong style="font-family: 等线;font-size: 19px;">
+                          <span style="font-size: 20px;line-height: 26px;font-family: 宋体;">
+                           <strong style="font-family: 等线;font-size: 19px;">
+                            <span style="font-size: 20px;line-height: 26px;font-family: 宋体;">
+                             研讨会
+                            </span>
+                           </strong>
+                          </span>
+                         </strong>
+                        </span>
+                       </strong>
+                      </span>
+                     </strong>
+                     在我校顺利召开
+                    </span>
+                   </strong>
+                  </span>
+                 </strong>
+                </span>
+               </strong>
+              </span>
+             </strong>
+            </span>
+           </p>
+          </section>
+         </section>
+         <section style="font-family: 微软雅黑;width: 6px;height: 6px;margin-left: -3px;border-radius: 100%;color: #fefefe;background-color: #a65bcb;box-sizing: border-box;">
+         </section>
+        </section>
+       </section>
+       <p style="font-family: 微软雅黑;">
+        <br/>
+       </p>
+      </section>
+      <section class="_135editor" style="font-family: 微软雅黑;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+       <section class="_135editor" data-id="93344" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+        <section style="margin-right: 0%;margin-left: 0%;font-size: 14px;box-sizing: border-box;">
+         <section data-width="100%" style="display: inline-block;vertical-align: top;border-bottom: 1px dashed rgba(189, 128, 220, 0.952941);border-bottom-right-radius: 0px;border-right: 1px dashed rgba(189, 128, 220, 0.952941);border-top-right-radius: 0px;border-left-width: 0px;padding: 10px;width: 100%;box-sizing: border-box;">
+          <section>
+           <section style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;box-sizing: border-box;">
+            <section data-width="96%" style="display: inline-block;width: 96%;border-style: solid;border-width: 1px 0px 0px 10px;padding-right: 10px;padding-left: 10px;box-shadow: #000000 0px 0px 0px;border-color: #a65bcb;border-radius: 0px;box-sizing: border-box;">
+             <section>
+              <section style="margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+               <section style="color: #828080;box-sizing: border-box;">
+                <p style="box-sizing: border-box;">
+                 <span style="color: #000000;text-shadow: #b2a2c7 2px 2px 10px;">
+                  简介
+                 </span>
+                </p>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+          <section>
+           <section style="box-sizing: border-box;">
+            <section class="135brush" data-brushtype="text" data-width="100%" style="width: 100%;vertical-align: top;padding: 1em 0.8em;color: #3f3f3f;letter-spacing: 1.5px;line-height: 1.75em;box-sizing: border-box;">
+             <p style="text-indent:32px;">
+              <span style="font-family: 宋体;">
+               2018年12月24日，
+               <span style="text-shadow: rgb(178, 162, 199) 2px 2px 10px;">
+                首届“数据驱动的计算教育学”研讨会
+               </span>
+               在我校召开，来自
+               <span style="text-shadow: rgb(178, 162, 199) 2px 2px 10px;">
+                华东师范大学、北京师范大学、东北大学、哈尔滨工业大学、四川大学、西安交通大学、中山大学、百度、批改网
+               </span>
+               等单位的三十余专家学者就此主题开展研讨。
+              </span>
+             </p>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+        <p>
+         <br/>
+        </p>
+        <section class="_135editor" data-id="94059" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <section data-width="100%" style="width: 100%;">
+          <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: flex-end;">
+           <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: center;">
+            <section data-width="100%" style="width: 100%;">
+             <img class="" data-ratio="0.5975" data-type="jpeg" data-w="800" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ZlsC99ba0bvhqthrx1A2mQUj6cYwhDOkr35iadYrsjEQlGIv9Q2rbZCbavicPpYYyAxgceodE8QtdQ/640?wx_fmt=jpeg" style="display: block;" title="undefined"/>
+            </section>
+           </section>
+           <section>
+            <section style="width: 10px;height: 8em;border-top: 1px solid rgb(166, 91, 203);border-right: 1px solid rgb(166, 91, 203);border-left: 1px solid rgb(166, 91, 203);border-bottom: none;box-sizing: border-box;">
+            </section>
+           </section>
+          </section>
+          <section data-width="70%" style="width: 70%;height: 10px;border-right: 1px solid rgb(166, 91, 203);border-bottom: 1px solid rgb(166, 91, 203);border-left: 1px solid rgb(166, 91, 203);border-top: none;float: right;box-sizing: border-box;">
+           <br/>
+           <br/>
+          </section>
+         </section>
+        </section>
+        <p>
+         <br/>
+        </p>
+        <p>
+         <br/>
+        </p>
+       </section>
+      </section>
+      <section style="font-family: 微软雅黑;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+       <section style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+        <section class="_135editor" data-id="93802" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <section style="text-align: center;color:#a65bcb;">
+          <section style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+           <p>
+            <br/>
+           </p>
+          </section>
+          <section style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+           <section class="_135editor" data-id="93802" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+            <section>
+             <section style="display: inline-block;">
+              <section style="text-align: right;margin-bottom: -14px;margin-right:1.6em;">
+               <section style="display: inline-block;background-image: initial;background-position: initial;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;padding-right: 2px;padding-left: 2px;box-sizing: border-box;">
+                //
+               </section>
+              </section>
+              <section style="border-width: 1px;border-style: solid;border-color: rgb(166, 91, 203);box-sizing: border-box;">
+               <section class="135brush" data-brushtype="text" style="padding: 10px 1.5em;letter-spacing: 1.5px;box-sizing: border-box;">
+                <span style="color: #000000;text-shadow: #b2a2c7 2px 2px 10px;">
+                 <h3 style="font-weight: bold;line-height: 1.6em;">
+                  <strong>
+                   <span style="font-family: 宋体;line-height: 173%;">
+                    会议背景
+                   </span>
+                  </strong>
+                 </h3>
+                </span>
+               </section>
+              </section>
+              <section style="text-align: left;margin-top: -14px;margin-left:1.6em;">
+               <section style="display: inline-block;background-image: initial;background-position: initial;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;padding-right: 2px;padding-left: 2px;box-sizing: border-box;">
+                //
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+           <p>
+            <br/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+        <p>
+         <br/>
+        </p>
+       </section>
+       <section class="_135editor" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+        <section class="_135editor" data-id="93479" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <section style="padding-top: 15px;box-sizing: border-box;">
+          <section style="font-size: 14px;padding: 1em 0.8em;border-radius: 10px;background-image: linear-gradient(rgb(236, 229, 240), white);background-position: initial;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;letter-spacing: 1.5px;box-sizing: border-box;">
+           <section data-width="100%" style="width:100%;display:flex;justify-content:flex-start;">
+            <section style="width: 25px;height: 25px;border-radius: 50%;background: #c4a9d2;padding: 2px;margin-top: -25px;box-shadow: gray 2px 2px 5px;box-sizing: border-box;">
+             <img class="" data-ratio="0.65" data-type="png" data-w="20" data-width="80%" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88ZlsC99ba0bvhqthrx1A2mQgB9vuMCEr9ibJ6tAxPfBsLlGYdnhia73DXtQ6wHU84Z8VCic1U2UH1rFg/640?wx_fmt=png" style="display:block;margin-top:5px;width:80%;margin-left:auto;margin-right:auto;transform: rotate(180deg);-webkit-transform: rotate(180deg);-moz-transform: rotate(180deg);-ms-transform: rotate(180deg);-o-transform: rotate(180deg);"/>
+            </section>
+           </section>
+           <section class="135brush">
+            <p style="text-indent:32px;">
+             <span style="font-family: 宋体;">
+              互联网改变世界，也必将深刻地改变教育。互联网企业的极大成功除了昭示数据的极端重要性以外，还为将“有教无类，因材施教，寓教于乐，教学相长”等我国古老教育智慧付诸实践提供了很多鲜活的可资借鉴的案例和理念，这赋予教育信息化新的丰富的内涵。教学过程的数据化和信息化成为当前的重要工作，无感收集的实态教育大数据是促成教育与信息技术深度融合的重要要素，推动教育学研究从“定性”到“定量”转变，使精准教学成为可能。按照科学发现的四个范式的发展路径，融合实证研究、理论研究的理念，在互联网、大数据时代发起“计算教育学”研究，探索其实质性的科学内涵，践行教育理念，建设信息化、智能化的教学环境与辅助工具，与教育学形成学科交叉，开展数据驱动的计算教育学研究具有深刻的现实意义。
+             </span>
+            </p>
+            <p style="text-indent:28px;">
+             <br/>
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+        <section style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <section class="_135editor" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+          <section data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+           <section class="_135editor" data-id="94059" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+            <section data-width="100%" style="width: 100%;">
+             <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: flex-end;">
+              <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: center;">
+               <section style="width: 10px;height:7em;background:#a65bcb;margin-top: 1em;">
+               </section>
+               <section data-width="100%" style="width: 100%;">
+                <img class="" data-ratio="1.3333333333333333" data-type="jpeg" data-w="900" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ZlsC99ba0bvhqthrx1A2mQ0pibPNnLp8DWibw1fKRwsAUQQcLnE5CCUSgcBkdbicw6m9L2EdzgnDjNA/640?wx_fmt=jpeg" style="display: block;" title="11.jpg"/>
+               </section>
+              </section>
+              <section>
+               <section style="width: 10px;height: 8em;border-top: 1px solid rgb(166, 91, 203);border-right: 1px solid rgb(166, 91, 203);border-left: 1px solid rgb(166, 91, 203);border-bottom: none;box-sizing: border-box;">
+               </section>
+              </section>
+             </section>
+             <section data-width="70%" style="width: 70%;height: 10px;border-right: 1px solid rgb(166, 91, 203);border-bottom: 1px solid rgb(166, 91, 203);border-left: 1px solid rgb(166, 91, 203);border-top: none;float: right;box-sizing: border-box;">
+              <br/>
+              <br/>
+             </section>
+            </section>
+           </section>
+           <p>
+            <br/>
+           </p>
+           <section class="_135editor" data-id="94059" data-tools="135编辑器" style="white-space: normal;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+            <section data-width="100%" style="width: 100%;">
+             <section data-width="100%" style="width: 100%;display: flex;justify-content: center;align-items: flex-end;">
+              <section data-width="100%" style="width: 100%;display: flex;justify-content: center;align-items: center;">
+               <section style="margin-top: 1em;width: 10px;height: 7em;background: #a65bcb;">
+               </section>
+               <section data-width="100%" style="width: 100%;">
+                <img class="" data-ratio="1.3333333333333333" data-type="jpeg" data-w="900" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ZlsC99ba0bvhqthrx1A2mQqEoUCObu90iakBHuWjuAKicCnSKsjgKxGwXTQekxyF4DCTDWUibC5qzlQ/640?wx_fmt=jpeg" style="display: block;width: 100%;" title="13.jpg"/>
+               </section>
+              </section>
+              <section>
+               <section style="width: 10px;height: 8em;border-top: 1px solid rgb(166, 91, 203);border-right: 1px solid rgb(166, 91, 203);border-left: 1px solid rgb(166, 91, 203);border-bottom: none;box-sizing: border-box;">
+               </section>
+              </section>
+             </section>
+             <section data-width="70%" style="width: 70%;height: 10px;border-right: 1px solid rgb(166, 91, 203);border-bottom: 1px solid rgb(166, 91, 203);border-left: 1px solid rgb(166, 91, 203);border-top: none;float: right;box-sizing: border-box;">
+             </section>
+            </section>
+           </section>
+           <p>
+            <br/>
+           </p>
+          </section>
+         </section>
+         <section style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+          <section style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+           <section class="_135editor" data-id="93802" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+            <section style="text-align: center;color:#a65bcb;">
+             <section style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+              <section style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+               <section class="_135editor" data-id="93802" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                <section>
+                 <section style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                  <p>
+                   <br/>
+                  </p>
+                 </section>
+                 <section style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                  <section class="_135editor" data-id="93802" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+                   <section>
+                    <section style="display: inline-block;">
+                     <section style="text-align: right;margin-bottom: -14px;margin-right:1.6em;">
+                      <section style="display: inline-block;background-image: initial;background-position: initial;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;padding-right: 2px;padding-left: 2px;box-sizing: border-box;">
+                       //
+                      </section>
+                     </section>
+                     <section style="border-width: 1px;border-style: solid;border-color: rgb(166, 91, 203);box-sizing: border-box;">
+                      <section class="135brush" data-brushtype="text" style="padding: 10px 1.5em;letter-spacing: 1.5px;box-sizing: border-box;">
+                       <span style="color: #000000;text-shadow: #b2a2c7 2px 2px 10px;">
+                        <h3 style="font-weight: bold;line-height: 1.6em;">
+                         <strong>
+                          <span style="font-family: 宋体;line-height: 173%;">
+                           会议内容
+                          </span>
+                         </strong>
+                        </h3>
+                       </span>
+                      </section>
+                     </section>
+                     <section style="text-align: left;margin-top: -14px;margin-left:1.6em;">
+                      <section style="display: inline-block;background-image: initial;background-position: initial;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;padding-right: 2px;padding-left: 2px;box-sizing: border-box;">
+                       //
+                      </section>
+                     </section>
+                    </section>
+                   </section>
+                  </section>
+                  <p>
+                   <br/>
+                  </p>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+         <p>
+          <br/>
+         </p>
+        </section>
+       </section>
+       <section class="_135editor" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+        <section class="_135editor" data-id="93479" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <section style="padding-top: 15px;box-sizing: border-box;">
+          <section style="font-size: 14px;padding: 1em 0.8em;border-radius: 10px;background-image: linear-gradient(rgb(236, 229, 240), white);background-position: initial;background-size: initial;background-repeat: initial;background-attachment: initial;background-origin: initial;background-clip: initial;letter-spacing: 1.5px;box-sizing: border-box;">
+           <section data-width="100%" style="width:100%;display:flex;justify-content:flex-start;">
+            <section style="width: 25px;height: 25px;border-radius: 50%;background: #c4a9d2;padding: 2px;margin-top: -25px;box-shadow: gray 2px 2px 5px;box-sizing: border-box;">
+             <img class="" data-ratio="0.65" data-type="png" data-w="20" data-width="80%" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88ZlsC99ba0bvhqthrx1A2mQgB9vuMCEr9ibJ6tAxPfBsLlGYdnhia73DXtQ6wHU84Z8VCic1U2UH1rFg/640?wx_fmt=png" style="display:block;margin-top:5px;width:80%;margin-left:auto;margin-right:auto;transform: rotate(180deg);-webkit-transform: rotate(180deg);-moz-transform: rotate(180deg);-ms-transform: rotate(180deg);-o-transform: rotate(180deg);"/>
+            </section>
+           </section>
+           <section class="135brush">
+            <section class="_135editor" data-id="93340" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+             <p style="text-indent:32px;">
+              <span style="font-family: 宋体;">
+               前国家自然科学基金委政策局局长，北京师范大学
+               <span style="text-shadow: rgb(128, 100, 162) 2px 2px 10px;">
+                <strong>
+                 郑永和
+                </strong>
+               </span>
+               教授做《科学基金对教育信息科学与技术资助分析》主旨报告，他首先介绍F0701代码设置的时代背景，接着回顾2018年该代码的项目申请/资助情况，总结申请书中存在的共性问题，最后展望2019年该代码的项目申请情况。
+              </span>
+             </p>
+             <p style="text-indent:32px;">
+              <span style="font-family: 宋体;">
+               华东师范大学考试与评价研究院院长
+               <span style="text-shadow: rgb(128, 100, 162) 2px 2px 10px;">
+                <strong>
+                 陈玉琨
+                </strong>
+               </span>
+               教授做《数据驱动的学生自适应学习》主旨报告，他回顾学生自适应学习的发展过程，认为数据驱动是机器教学的基础，机器教学是技术改变教育的早期努力，而智能教育则是教学个性化与创造性的培养，强调数据驱动的自适应学习。
+              </span>
+             </p>
+             <p style="text-indent:32px;">
+              <span style="font-family: 宋体;">
+               批改网创始人兼CEO
+               <span style="text-shadow: rgb(128, 100, 162) 2px 2px 10px;">
+                <strong>
+                 张跃
+                </strong>
+               </span>
+               先生做《大数据时代的英语智能批改》报告，他认为：教育不是灌输，而是点燃火焰，在报告中回顾批改网的发展过程，通过功能演示生动地介绍批改网在大数据时代如何智能地批改英语作文，以及学生如何通过批改网提供的功能提升英文写作能力。
+              </span>
+             </p>
+             <p style="text-indent:32px;">
+              <span style="font-family: 宋体;">
+               华东师范大学数据科学与工程学院副院长
+               <span style="text-shadow: rgb(128, 100, 162) 2px 2px 10px;">
+                <strong>
+                 金澈清
+                </strong>
+               </span>
+               教授做《数据驱动的计算教育学刍议》报告。在大数据时代，更多样的数据采集方式、更大规模的教育数据以及更丰富的教育应用将会使教育学和数据科学与工程交叉融合，形成计算教育学，计算教育学具有特定的研究对象、研究任务、研究内容和关键问题。最后，介绍数据科学与工程学院在这个方向的研究进展和未来规划。
+              </span>
+             </p>
+             <p style="text-indent:32px;">
+              <span style="font-family: 宋体;">
+               华东师范大学副校长
+               <span style="text-shadow: rgb(128, 100, 162) 2px 2px 10px;">
+                <strong>
+                 周傲英
+                </strong>
+               </span>
+               教授主持会议，在自由讨论环节，与会专家一致认为，在“互联网+”时代，数据是新能源，数据作为一种驱动力将会深刻改变教育。同时也要看到，教育本身非常复杂，将技术与教育交叉融合是一个漫长的过程，需要充分尊重教育规律，切实解决教育所面临的关键难题。
+              </span>
+             </p>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <p>
+        <br/>
+       </p>
+       <section class="_135editor" data-id="94059" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+        <section data-width="100%" style="width: 100%;">
+         <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: flex-end;">
+          <section data-width="100%" style="width: 100%;display:flex;justify-content: center;align-items: center;">
+           <section style="width: 10px;height:7em;background:#a65bcb;margin-top: 1em;">
+           </section>
+           <section data-width="100%" style="width: 100%;">
+            <img class="" data-ratio="0.5675" data-type="jpeg" data-w="1200" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ZlsC99ba0bvhqthrx1A2mQHRpNsPatZPVTmNaTcVLmVMCG6iaCTOvvMTmW2J4NnKc4W0m2nWV9giag/640?wx_fmt=jpeg" style="width: 100%;display: block;"/>
+           </section>
+          </section>
+          <section>
+           <section style="width: 10px;height: 8em;border-top: 1px solid rgb(166, 91, 203);border-right: 1px solid rgb(166, 91, 203);border-left: 1px solid rgb(166, 91, 203);border-bottom: none;box-sizing: border-box;">
+           </section>
+          </section>
+         </section>
+         <section data-width="70%" style="width: 70%;height: 10px;border-right: 1px solid rgb(166, 91, 203);border-bottom: 1px solid rgb(166, 91, 203);border-left: 1px solid rgb(166, 91, 203);border-top: none;float: right;box-sizing: border-box;">
+         </section>
+        </section>
+       </section>
+       <section style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+        <p>
+         <br/>
+        </p>
+       </section>
+       <section style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+        <section class="_135editor" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <section style="text-align: center;">
+         </section>
+        </section>
+       </section>
+       <p>
+        <br/>
+       </p>
+       <p>
+        <br/>
+       </p>
+      </section>
+      <section style="font-family: 微软雅黑;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+       <section class="_135editor" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+        <section style="text-align: center;">
+         <section style="display: inline-block;">
+          <img class="" data-ratio="1.2295081967213115" data-type="gif" data-w="61" src="https://mmbiz.qpic.cn/mmbiz_gif/LWU2lqYH88ZlsC99ba0bvhqthrx1A2mQUux34OARKgXpIniah7bllv6l78s3ZyqrIqZFnptZeic37JslfOWiaA0lA/640?wx_fmt=gif" style="width: 40px;display: block;margin-right: auto;margin-left: auto;"/>
+         </section>
+         <section class="135brush" data-brushtype="text" style="color: rgb(63, 62, 63);font-size: 14px;margin-top: -8px;">
+          END
+         </section>
+        </section>
+       </section>
+       <section style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+        <p>
+         <br/>
+        </p>
+        <p style="text-align:right;">
+         <span style="font-size: 12px;color: #595959;">
+          摄影：金撤清
+         </span>
+        </p>
+        <p style="text-align:right;">
+         <span style="font-size: 12px;color: #595959;">
+          撰稿：金撤清
+         </span>
+        </p>
+        <p style="text-align:right;">
+         <span style="font-size: 12px;color: #595959;">
+          排版：吴双
+         </span>
+        </p>
+        <p style="text-align: right;">
+         <br/>
+        </p>
+        <p style="text-align: right;">
+         <br/>
+        </p>
+       </section>
+       <section style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+        <p>
+         <br/>
+        </p>
+        <section class="" data-role="paragraph" style="max-width: 100%;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+         <section class="" data-role="paragraph" style="max-width: 100%;color: rgb(63, 62, 63);letter-spacing: 2px;text-align: center;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+          <section class="" style='max-width: 100%;width: 8em;height: 8em;display: inline-block;vertical-align: bottom;border-radius: 100%;border-width: 2px;border-style: solid;border-color: rgb(166, 91, 203);box-shadow: rgb(204, 204, 204) 0.707107px 0.707107px 2px;background-image: url("https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ZlsC99ba0bvhqthrx1A2mQh0HgPJVic6jBmxFk7nXTXDBzxWHo7iazqLqibxQZp7VSIMxKFpHy64OiaA/640?wx_fmt=jpeg");background-size: cover;background-position: 50% 50%;background-repeat: no-repeat;box-sizing: border-box;'>
+           <section class="" style="max-width: 100%;width: 124px;height: 124px;overflow: hidden;">
+            <strong style="max-width: 100%;">
+             <img class="" data-ratio="1.0020449897750512" data-type="jpeg" data-w="489" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ZlsC99ba0bvhqthrx1A2mQh0HgPJVic6jBmxFk7nXTXDBzxWHo7iazqLqibxQZp7VSIMxKFpHy64OiaA/640?wx_fmt=jpeg" style="opacity: 0;width: 124px !important;visibility: visible !important;" width="100%"/>
+            </strong>
+           </section>
+          </section>
+          <p style="max-width: 100%;min-height: 1em;">
+           <br/>
+          </p>
+          <section class="" style="margin-top: -4em;padding: 4em 15px 10px;max-width: 100%;border-width: 1px;border-style: solid;border-color: rgb(166, 91, 203);border-radius: 16px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <section class="" style="max-width: 100%;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+            <section class="" style="max-width: 100%;">
+             <section class="" style="max-width: 100%;">
+              <p style="max-width: 100%;min-height: 1em;">
+               华东师范大学数据科学与工程学院
+              </p>
+             </section>
+            </section>
+           </section>
+           <section class="" style="max-width: 100%;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+            <section class="" style="padding-top: 0.5em;padding-bottom: 0.5em;max-width: 100%;box-sizing: border-box;">
+             <section class="" style="max-width: 100%;height: 1px;background-color: #a65bcb;">
+             </section>
+            </section>
+           </section>
+           <section class="" style="max-width: 100%;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+            <section class="" style="margin: auto;padding-top: 10px;max-width: 100%;width: 223.188px;box-sizing: border-box;">
+             <img class="" data-ratio="1" data-type="jpeg" data-w="258" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ZlsC99ba0bvhqthrx1A2mQqJIEjI5ZrCmJahaWYia2ZkQH5JJXoEImWShSATovdlicvzDwibnxdQaicw/640?wx_fmt=jpeg" style="vertical-align: middle;width: 258px !important;visibility: visible !important;"/>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <p>
+         <br/>
+        </p>
+        <p>
+         <br/>
+        </p>
+       </section>
+      </section>
+      <section style="font-family: 微软雅黑;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+       <p>
+        <br/>
+       </p>
+      </section>
+     </section>
+    </section>
+   </section>
+   <p>
+    <br/>
+   </p>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

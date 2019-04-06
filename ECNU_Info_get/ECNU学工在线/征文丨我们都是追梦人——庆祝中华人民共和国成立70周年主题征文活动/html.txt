@@ -1,0 +1,788 @@
+
+ <section style="font-size: 13px;line-height: 2;letter-spacing: 2px;padding-right: 15px;padding-left: 15px;color: rgb(120, 76, 16);box-sizing: border-box;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 10px 0% 5px;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;width: 100%;box-shadow: rgb(185, 185, 185) 1.41421px 1.41421px 6px;padding: 10px 10px 5px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-bottom: 15px;margin-left: 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.6169231" data-type="jpeg" data-w="650" src="https://mmbiz.qpic.cn/mmbiz_jpg/LGPuMo1nF8cyic0DaCiaGPpLoiaARUx1jsMD0H2jrvvcQJJAiazedaWsCREIpckcCq14lQcKIkSX9qxWlGEibqEjUXQ/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 5px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;width: 100%;box-shadow: rgb(185, 185, 185) 1.41421px 1.41421px 6px;padding: 10px 10px 15px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: -30px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 50%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;width: 95%;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.2196078" data-type="png" data-w="255" src="https://mmbiz.qpic.cn/mmbiz_png/LGPuMo1nF8cyic0DaCiaGPpLoiaARUx1jsMSWgy3nNWPz3drd9eEfVvc9TicKfiaXm1I4F0zACDvrILfG3VXOU3jxNA/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 50%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 95%;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.2196078" data-type="png" data-w="255" src="https://mmbiz.qpic.cn/mmbiz_png/LGPuMo1nF8cyic0DaCiaGPpLoiaARUx1jsMSWgy3nNWPz3drd9eEfVvc9TicKfiaXm1I4F0zACDvrILfG3VXOU3jxNA/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 8px 0% 18px;box-sizing: border-box;">
+       <section style="border-top: 1px dashed rgb(185, 185, 185);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section class="tn-yzk-fuid-text-33979-1533193513148" style="text-align: left;font-size: 14px;line-height: 2;box-sizing: border-box;">
+        <p style="text-align: center;box-sizing: border-box;">
+         一曲《我和我的祖国》，
+        </p>
+        <p style="text-align: center;box-sizing: border-box;">
+         可曾拨动过你的心弦？
+        </p>
+        <p style="text-align: center;box-sizing: border-box;">
+         一句“我们都在努力奔跑，
+        </p>
+        <p style="text-align: center;box-sizing: border-box;">
+         我们都是追梦人”，
+        </p>
+        <p style="text-align: center;box-sizing: border-box;">
+         是否点燃了你的青春斗志？
+        </p>
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section class="tn-yzk-fuid-text-29917-1533193416558" style="text-align: center;font-size: 14px;box-sizing: border-box;">
+     <p style="text-align: left;text-indent: 2em;box-sizing: border-box;">
+      2019年是中华人民共和国成立70周年，70年风雨岁月峥嵘，70年奋斗谱写华章。为迎接中华人民共和国成立70周年，引领广大青年学子深入学习贯彻习近平新时代中国特色社会主义思想，深切感受70年来我国建设发展的巨大变化，全面展现新时代大学生的理想信念、青春风采和积极奋进的精神风貌，现面向华东师范大学在校学生开展
+      <strong style="box-sizing: border-box;">
+       “我们都是追梦人——庆祝中华人民共和国成立70周年”主题征文
+      </strong>
+      活动。
+      <span style="text-indent: 2em;box-sizing: border-box;">
+       欢迎华东师范大学在校学生朋友们积极参与、踊跃投稿！
+      </span>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;box-sizing: border-box;">
+     <section style="width: 2.6em;height: 2.6em;display: inline-block;vertical-align: middle;line-height: 2.6em;border-radius: 50%;background-color: rgb(120, 76, 16);box-sizing: border-box;">
+      <section style="width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 50%;margin-top: 0.36em;margin-bottom: 0.35em;margin-left: 0.44em;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+       <section style="width: 100%;height: 100%;box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         1
+        </section>
+       </section>
+      </section>
+     </section>
+     <section style="margin: -0.5em auto 0.3em;width: 0px;border-top: 1.1em solid rgb(120, 76, 16);border-left: 1em solid transparent !important;border-right: 1.12em solid transparent !important;box-sizing: border-box;">
+     </section>
+     <section style="border-top: 2px solid rgb(120, 76, 16);display: inline-block;font-size: 14px;padding-top: 1px;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+      <p style="box-sizing: border-box;">
+       <strong style="box-sizing: border-box;">
+        征文主题
+       </strong>
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;width: 98%;vertical-align: top;background-color: rgb(246, 246, 246);border-width: 0px;border-bottom-left-radius: 10px;border-style: none;border-color: rgb(152, 152, 152);border-bottom-right-radius: 10px;box-shadow: rgb(207, 207, 207) 0.707107px 0.707107px 2px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+          <section style="background-color: rgb(207, 207, 207);height: 1px;box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+          <section style="background-color: rgb(207, 207, 207);height: 1px;box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;line-height: 2;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         我们都是追梦人——
+        </p>
+        <p style="box-sizing: border-box;">
+         庆祝中华人民共和国成立70周年
+        </p>
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;box-sizing: border-box;">
+     <section style="width: 2.6em;height: 2.6em;display: inline-block;vertical-align: middle;line-height: 2.6em;border-radius: 50%;background-color: rgb(120, 76, 16);box-sizing: border-box;">
+      <section style="width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 50%;margin-top: 0.36em;margin-bottom: 0.35em;margin-left: 0.44em;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+       <section style="width: 100%;height: 100%;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         2
+        </p>
+       </section>
+      </section>
+     </section>
+     <section style="margin: -0.5em auto 0.3em;width: 0px;border-top: 1.1em solid rgb(120, 76, 16);border-left: 1em solid transparent !important;border-right: 1.12em solid transparent !important;box-sizing: border-box;">
+     </section>
+     <section style="border-top: 2px solid rgb(120, 76, 16);display: inline-block;font-size: 14px;padding-top: 1px;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+      <p style="box-sizing: border-box;">
+       <strong style="box-sizing: border-box;">
+        征文主办单位
+       </strong>
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;width: 98%;vertical-align: top;background-color: rgb(246, 246, 246);border-width: 0px;border-bottom-left-radius: 10px;border-style: none;border-color: rgb(152, 152, 152);border-bottom-right-radius: 10px;box-shadow: rgb(207, 207, 207) 0.707107px 0.707107px 2px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+          <section style="background-color: rgb(207, 207, 207);height: 1px;box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+          <section style="background-color: rgb(207, 207, 207);height: 1px;box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;line-height: 2;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         华东师范大学党委宣传部
+        </p>
+        <p style="box-sizing: border-box;">
+         华东师范大学学生工作党委、学生工作部
+        </p>
+        <p style="box-sizing: border-box;">
+         华东师范大学出版社
+        </p>
+        <p style="box-sizing: border-box;">
+         华东师范大学中国创意写作研究院
+        </p>
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;box-sizing: border-box;">
+     <section style="width: 2.6em;height: 2.6em;display: inline-block;vertical-align: middle;line-height: 2.6em;border-radius: 50%;background-color: rgb(120, 76, 16);box-sizing: border-box;">
+      <section style="width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 50%;margin-top: 0.36em;margin-bottom: 0.35em;margin-left: 0.44em;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+       <section style="width: 100%;height: 100%;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         3
+        </p>
+       </section>
+      </section>
+     </section>
+     <section style="margin: -0.5em auto 0.3em;width: 0px;border-top: 1.1em solid rgb(120, 76, 16);border-left: 1em solid transparent !important;border-right: 1.12em solid transparent !important;box-sizing: border-box;">
+     </section>
+     <section style="border-top: 2px solid rgb(120, 76, 16);display: inline-block;font-size: 14px;padding-top: 1px;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+      <p style="box-sizing: border-box;">
+       <strong style="box-sizing: border-box;">
+        征文时间
+       </strong>
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;width: 98%;vertical-align: top;background-color: rgb(246, 246, 246);border-width: 0px;border-bottom-left-radius: 10px;border-style: none;border-color: rgb(152, 152, 152);border-bottom-right-radius: 10px;box-shadow: rgb(207, 207, 207) 0.707107px 0.707107px 2px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+          <section style="background-color: rgb(207, 207, 207);height: 1px;box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+          <section style="background-color: rgb(207, 207, 207);height: 1px;box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;line-height: 2.5;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         即日起至2019年3月31日
+        </p>
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;box-sizing: border-box;">
+     <section style="width: 2.6em;height: 2.6em;display: inline-block;vertical-align: middle;line-height: 2.6em;border-radius: 50%;background-color: rgb(120, 76, 16);box-sizing: border-box;">
+      <section style="width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 50%;margin-top: 0.36em;margin-bottom: 0.35em;margin-left: 0.44em;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+       <section style="width: 100%;height: 100%;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         4
+        </p>
+       </section>
+      </section>
+     </section>
+     <section style="margin: -0.5em auto 0.3em;width: 0px;border-top: 1.1em solid rgb(120, 76, 16);border-left: 1em solid transparent !important;border-right: 1.12em solid transparent !important;box-sizing: border-box;">
+     </section>
+     <section style="border-top: 2px solid rgb(120, 76, 16);display: inline-block;font-size: 14px;padding-top: 1px;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+      <p style="box-sizing: border-box;">
+       <strong style="box-sizing: border-box;">
+        征文对象
+       </strong>
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;width: 98%;vertical-align: top;background-color: rgb(246, 246, 246);border-width: 0px;border-bottom-left-radius: 10px;border-style: none;border-color: rgb(152, 152, 152);border-bottom-right-radius: 10px;box-shadow: rgb(207, 207, 207) 0.707107px 0.707107px 2px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+          <section style="background-color: rgb(207, 207, 207);height: 1px;box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+          <section style="background-color: rgb(207, 207, 207);height: 1px;box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 12px;line-height: 2;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          1、华东师范大学在校全日制本科生、
+         </span>
+        </p>
+        <p style="box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          硕士研究生、博士研究生。
+         </span>
+        </p>
+        <p style="box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          2、欢迎华东师范大学在校留学生
+         </span>
+        </p>
+        <p style="box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          参加征文活动，
+         </span>
+        </p>
+        <p style="box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          从留学生的视角谈中国的发展。
+         </span>
+        </p>
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;box-sizing: border-box;">
+     <section style="width: 2.6em;height: 2.6em;display: inline-block;vertical-align: middle;line-height: 2.6em;border-radius: 50%;background-color: rgb(120, 76, 16);box-sizing: border-box;">
+      <section style="width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 50%;margin-top: 0.36em;margin-bottom: 0.35em;margin-left: 0.44em;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+       <section style="width: 100%;height: 100%;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         5
+        </p>
+       </section>
+      </section>
+     </section>
+     <section style="margin: -0.5em auto 0.3em;width: 0px;border-top: 1.1em solid rgb(120, 76, 16);border-left: 1em solid transparent !important;border-right: 1.12em solid transparent !important;box-sizing: border-box;">
+     </section>
+     <section style="border-top: 2px solid rgb(120, 76, 16);display: inline-block;font-size: 14px;padding-top: 1px;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+      <p style="box-sizing: border-box;">
+       <strong style="box-sizing: border-box;">
+        征文内容和要求
+       </strong>
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;width: 98%;vertical-align: top;background-color: rgb(246, 246, 246);border-width: 0px;border-bottom-left-radius: 10px;border-style: none;border-color: rgb(152, 152, 152);border-bottom-right-radius: 10px;box-shadow: rgb(207, 207, 207) 0.707107px 0.707107px 2px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+          <section style="background-color: rgb(207, 207, 207);height: 1px;box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+          <section style="background-color: rgb(207, 207, 207);height: 1px;box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 12px;line-height: 2;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+        <p style="text-align: left;text-indent: 2em;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          1、从
+          <strong style="box-sizing: border-box;">
+           个人的成长
+          </strong>
+          和
+          <strong style="box-sizing: border-box;">
+           求学经历
+          </strong>
+          出发，联系家人、家庭、家乡、学校和社会生活实际，
+          <strong style="box-sizing: border-box;">
+           以“亲历者”的视角和口吻
+          </strong>
+          ，生动描述对70年来党和国家走过的辉煌历程和取得的伟大成就的真实感悟，用文字记录和展示党和国家事业新征程中涌现出来的新气象、新精神，书写属于新时代大学生的追梦历程与青春斗志、理想信念与家国情怀。稿件须突出时代性、人民性和现实性。
+         </span>
+        </p>
+        <p style="text-align: left;text-indent: 2em;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="text-align: left;text-indent: 2em;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          2、征文的文体为
+          <strong style="box-sizing: border-box;">
+           非虚构
+          </strong>
+          文体，内容须
+          <strong style="box-sizing: border-box;">
+           原创
+          </strong>
+          ，要有真情实感，字数
+          <strong style="box-sizing: border-box;">
+           2000～5000字
+          </strong>
+          。
+         </span>
+        </p>
+        <p style="text-align: left;text-indent: 2em;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="text-align: left;text-indent: 2em;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          3、征文的标题上方统一标明：我们都是追梦人——庆祝中华人民共和国成立70周年征文；标题正下方为作者信息，依次为院系（院系均为全称）、姓名、联系电话、电子邮箱、个人生活照（一张）；接下来是文章内容。
+         </span>
+        </p>
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;box-sizing: border-box;">
+     <section style="width: 2.6em;height: 2.6em;display: inline-block;vertical-align: middle;line-height: 2.6em;border-radius: 50%;background-color: rgb(120, 76, 16);box-sizing: border-box;">
+      <section style="width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 50%;margin-top: 0.36em;margin-bottom: 0.35em;margin-left: 0.44em;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+       <section style="width: 100%;height: 100%;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         6
+        </p>
+       </section>
+      </section>
+     </section>
+     <section style="margin: -0.5em auto 0.3em;width: 0px;border-top: 1.1em solid rgb(120, 76, 16);border-left: 1em solid transparent !important;border-right: 1.12em solid transparent !important;box-sizing: border-box;">
+     </section>
+     <section style="border-top: 2px solid rgb(120, 76, 16);display: inline-block;font-size: 14px;padding-top: 1px;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+      <p style="box-sizing: border-box;">
+       <strong style="box-sizing: border-box;">
+        征文交稿时间与方式
+       </strong>
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;width: 98%;vertical-align: top;background-color: rgb(246, 246, 246);border-width: 0px;border-bottom-left-radius: 10px;border-style: none;border-color: rgb(152, 152, 152);border-bottom-right-radius: 10px;box-shadow: rgb(207, 207, 207) 0.707107px 0.707107px 2px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+          <section style="background-color: rgb(207, 207, 207);height: 1px;box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+          <section style="background-color: rgb(207, 207, 207);height: 1px;box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 14px;line-height: 2;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+        <p style="text-align: left;text-indent: 2em;box-sizing: border-box;">
+         征文请在
+         <strong style="box-sizing: border-box;">
+          即日起至2019年3月31日
+         </strong>
+         期间以电子稿Word文档的方式发送至电子邮箱：liuzuxi@ecnupress.com.cn，联系人：出版社刘老师，联系电话：021-60298790。
+        </p>
+        <p style="text-align: left;text-indent: 2em;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;box-sizing: border-box;">
+     <section style="width: 2.6em;height: 2.6em;display: inline-block;vertical-align: middle;line-height: 2.6em;border-radius: 50%;background-color: rgb(120, 76, 16);box-sizing: border-box;">
+      <section style="width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 50%;margin-top: 0.36em;margin-bottom: 0.35em;margin-left: 0.44em;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+       <section style="width: 100%;height: 100%;box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         7
+        </p>
+       </section>
+      </section>
+     </section>
+     <section style="margin: -0.5em auto 0.3em;width: 0px;border-top: 1.1em solid rgb(120, 76, 16);border-left: 1em solid transparent !important;border-right: 1.12em solid transparent !important;box-sizing: border-box;">
+     </section>
+     <section style="border-top: 2px solid rgb(120, 76, 16);display: inline-block;font-size: 14px;padding-top: 1px;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+      <p style="box-sizing: border-box;">
+       <strong style="box-sizing: border-box;">
+        征文评选与奖项设置
+       </strong>
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;width: 98%;vertical-align: top;background-color: rgb(246, 246, 246);border-width: 0px;border-bottom-left-radius: 10px;border-style: none;border-color: rgb(152, 152, 152);border-bottom-right-radius: 10px;box-shadow: rgb(207, 207, 207) 0.707107px 0.707107px 2px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+          <section style="background-color: rgb(207, 207, 207);height: 1px;box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+          <section style="background-color: rgb(207, 207, 207);height: 1px;box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 12px;line-height: 2;padding-right: 5px;padding-left: 5px;box-sizing: border-box;">
+        <p style="text-align: left;text-indent: 2em;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          1、本次征文活动的主办单位于4月份组织专家对征文进行评选，
+          <strong style="box-sizing: border-box;">
+           评选结果于5月中旬公布
+          </strong>
+          。征文的奖项设置为：
+         </span>
+         <span style="font-size: 14px;box-sizing: border-box;">
+          一等奖5名、二等奖10名、三等奖20名。由活动主办单位向获奖者颁发证书和奖金（
+          <strong style="box-sizing: border-box;">
+           一等奖奖金5000元，二等奖奖金2500元，三等奖奖金1000元
+          </strong>
+          ）。
+         </span>
+        </p>
+        <p style="text-align: left;text-indent: 2em;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="text-align: left;text-indent: 2em;box-sizing: border-box;">
+         <span style="font-size: 14px;box-sizing: border-box;">
+          2、获奖的征文由华东师范大学出版社择优公开出版。
+         </span>
+        </p>
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;width: 48%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+          <section style="border-top: 1px dotted rgb(23, 23, 20);box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;width: 4%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 100%;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.8808777" data-type="gif" data-w="638" src="https://mmbiz.qpic.cn/mmbiz_gif/LGPuMo1nF8cyic0DaCiaGPpLoiaARUx1jsM4M6slP9qhzIicOJjMxqgMCXAWcicydsza13E2b7cxm5ERj4UgRtLIrvA/640?wx_fmt=gif" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: middle;width: 48%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 0.5em;margin-bottom: 0.5em;box-sizing: border-box;">
+          <section style="border-top: 1px dotted rgb(23, 23, 20);box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="font-size: 12px;color: rgb(77, 72, 72);box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         来源 | 华东师范大学官网
+        </p>
+        <p style="box-sizing: border-box;">
+         责编 | 丁一
+        </p>
+        <p style="box-sizing: border-box;">
+         指导 | 唐婧琦
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.5" data-type="jpeg" data-w="1280" src="https://mmbiz.qpic.cn/mmbiz_jpg/LGPuMo1nF8cyic0DaCiaGPpLoiaARUx1jsMqibyeeaQzpTiaa41MJqn0z6Y3WGY9BX6vafLD2LlqPOC8mh35UoFUt7Q/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="color: rgb(160, 160, 160);font-size: 10px;box-sizing: border-box;">
+        <p style="text-align: center;box-sizing: border-box;">
+         投稿&amp;加入我们：ecnuxg_tg@126.com
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>

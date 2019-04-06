@@ -1,0 +1,60 @@
+
+ <section class="KolEditor" data-role="outer" label="Powered by 365editor" style="font-family:微软雅黑;font-size:16px;">
+  <section class="KolEditor" data-tools-id="90056">
+   <section style="display: flex;flex-direction: column;justify-content: center;align-items: center;">
+    <section style='background-image: url("https://mmbiz.qpic.cn/mmbiz_jpg/5wzOkVxppZBwEFWOMa4Fn8O4ia6UL5LNAmKtNI0tQ8AicibZDKf8sdibSBxhD3iaiaIdC2GC7waPS68H1icf7JeYc2SIw/640?wx_fmt=jpeg");background-repeat: no-repeat;text-align: center;background-size: 100%;width: 169px;height: 23px;line-height: 44px;margin-bottom: -4px;z-index: 2;'>
+     <section style='margin-right: auto;margin-left: auto;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/5wzOkVxppZBwEFWOMa4Fn8O4ia6UL5LNAJktKmgwVS8kJZRoaH9OlO0gcgaLuVFbOpmxMLbGld1YWiasDs28yFAw/640?wx_fmt=png");background-repeat: no-repeat;background-size: 100%;width: 34px;height: 36px;margin-top: -3px;z-index: 2;'>
+     </section>
+     <section style='width: 40px;height: 15px;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/5wzOkVxppZBwEFWOMa4Fn8O4ia6UL5LNAibChMtJaGKWSCMT7oEVh3JQ6ic1CudJeNKia0oWCLS0ye7SMyBcbItqTQ/640?wx_fmt=png");background-repeat: no-repeat;background-size: 100%;margin-top: 1px;margin-right: auto;margin-left: auto;'>
+      <br/>
+     </section>
+    </section>
+    <section style="border-width: 3px;border-style: solid;border-color: rgb(26, 121, 79);padding: 12px;border-radius: 10px;min-height: 80px;box-sizing: border-box;">
+     <section style="border-width: 1px;border-style: dashed;border-color: rgb(26, 121, 79);padding: 24px 18px 18px;border-radius: 10px;box-sizing: border-box;">
+      <section style="padding-top: 10px;padding-bottom: 10px;box-sizing: border-box;">
+       <section class="KolEditor">
+        <img class="" data-ratio="0.7627931769722814" data-type="jpeg" data-w="1876" src="https://mmbiz.qpic.cn/mmbiz_jpg/5wzOkVxppZBwEFWOMa4Fn8O4ia6UL5LNAQCl9Enkel4gYwTtqxDR2oAj953G8DwE3BDk8Wv6Fsls0SrCr3dlWEg/640?wx_fmt=jpeg"/>
+       </section>
+       <p style="white-space: normal;text-indent: 2em;margin-top: 10px;line-height: 1.5em;">
+        <span style="font-family: 宋体;font-size: 16px;">
+         近日，华东师范大学2018年研究生校长奖学金拟获奖名单在全校公示，在经过本人申请、院系推荐、校内初审以及校内外专家联合评审（公开答辩）的层层遴选之后，我所博士研究生胡梦茵喜获该项奖学金。
+        </span>
+       </p>
+       <p style="white-space: normal;text-indent: 2em;margin-top: 10px;line-height: 1.5em;">
+        <span style="font-family: 宋体;font-size: 16px;">
+         校长奖学金设立于2011年，其目的在于促进科研学术发展，激励研究生勤奋学习、创新进取，奖励品学兼优、全面发展的优秀拔尖人才，是为年度品学兼优、具有创新创造能力的优秀学生颁发的学校最高奖励，每年不超过
+         <span style="font-family: Calibri;">
+          10
+         </span>
+         名学生获得此殊荣，竞争十分激烈。
+        </span>
+       </p>
+       <p style="white-space: normal;text-indent: 2em;margin-top: 10px;line-height: 1.5em;">
+        <span style="font-family: 宋体;font-size: 16px;">
+         胡梦茵研究方向为藏区天主教、环境与历史、道德伦理、宗教人类学、族群边界，在相关领域的权威期刊《道风基督教文化评论》、《世界宗教研究》、《民族研究》上发表多篇文章，并另在国外期刊Review of Religion and Chinese Society和
+         <span style="font-size: 16px;font-family: Calibri;">
+          Approaching Religion
+         </span>
+         发表了两篇英文文章，还多次在国内重要学术会议上发表文章。参与了国家社会科学基金重大项目和国家社科基金青年项目。学术表现突出，由此一举斩获校长奖学金和国家奖学金。
+        </span>
+       </p>
+       <p style="white-space: normal;text-indent: 2em;margin-top: 10px;line-height: 1.5em;">
+        <span style="font-size: 16px;font-family: 宋体;">
+         在此热烈恭贺胡梦茵同学获取两项奖学金，同时鼓励我所其他硕士、博士研究生积极参与各项学术活动，学有所思，学有所得。
+        </span>
+       </p>
+       <p style="text-align: center;">
+        <img class="" data-copyright="0" data-ratio="0.525" data-s="300,640" data-type="png" data-w="720" src="https://mmbiz.qpic.cn/mmbiz_png/5wzOkVxppZAlJCBT2AMJCpncuIKwFjGSVpbrcopLU4llnlAmrRRtE9BwxyI3a5OWDicQ2WuoicQpH3dzdTLwibCOg/640?wx_fmt=png" style=""/>
+       </p>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <p style="white-space: normal;">
+   <br/>
+  </p>
+ </section>
+ <p>
+  <br/>
+ </p>

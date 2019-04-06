@@ -1,0 +1,545 @@
+
+ <section class="wxb-style">
+  <section class="active" label="Powered by wxb-style.com" style="font-family: 微软雅黑;">
+   <section class="wxb-style" style="border-width: 0px; border-style: none; border-color: initial;">
+    <section style="border-width: 2px; border-style: solid; border-color: rgba(153, 232, 232, 0.901961); margin: 25px 15px; font-size: 14px; color: rgb(0, 0, 0); background-color: rgb(254, 254, 254);">
+     <section style="margin: -8px -8px 4px 4px; border-width: 2px; border-style: solid; border-color: rgb(198, 198, 199); color: inherit; background-color: rgb(255, 255, 255);">
+      <section class="135brush" data-style="line-height:24px;color:rgb(89, 89, 89); font-size:20px; letter-spacing:5px;word-spacing:5px" style="padding: 15px; margin: -8px -8px 4px 4px; border-width: 2px; border-style: solid; border-color: rgb(198, 198, 199); color: inherit; background-color: inherit;">
+       <p style="line-height: 24px; text-align: center; color: rgb(70, 70, 72); border-color: rgb(198, 198, 199); white-space: normal;">
+        <span style="color: rgb(255, 169, 0); font-size: 20px; letter-spacing: 5px; word-spacing: 5px;">
+         <strong>
+          “情暖师大，公益活动”
+         </strong>
+        </span>
+       </p>
+       <p style="line-height: 24px; color: rgb(70, 70, 72); border-color: rgb(198, 198, 199); white-space: normal; text-align: right;">
+        <span style="color: rgb(255, 169, 0); font-size: 20px; letter-spacing: 5px; word-spacing: 5px;">
+         <strong>
+          ——古美敬老院
+         </strong>
+        </span>
+       </p>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <img data-ratio="0.6654835847382431" data-w="1127" src="http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlFOgKbEp2odZVKARnY7tL1UD6hbNyMlVR5kGxCqYebXC1cXLrrNib9WGdEiayel5o9Y2IEJRXoz2IKQ/0?wx_fmt=jpeg" style=""/>
+  <br/>
+ </p>
+ <p>
+  <br/>
+ </p>
+ <section class="wxb-style">
+  <section class="RankEditor" style="">
+   <section style="max-width: 100%; border-width: 0px; border-style: none; border-color: initial; box-sizing: border-box !important; word-wrap: break-word !important;">
+    <section style="margin-top: 1em; margin-bottom: 1em; max-width: 100%; border-width: 0px; border-style: none; border-color: rgba(245, 97, 8, 0.901961); clear: both; box-sizing: border-box !important; word-wrap: break-word !important;">
+     <section class="white" style="max-width: 100%; text-align: center; font-size: 1em; font-weight: inherit; text-decoration: inherit; color: rgb(255, 255, 255); border-color: rgba(245, 97, 8, 0.901961); box-sizing: border-box !important; word-wrap: break-word !important;">
+      <section style="margin-right: auto; margin-left: auto; max-width: 100%; width: 2em; height: 2em; border-radius: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(255, 255, 255); background-color: rgba(245, 97, 8, 0.901961);">
+       <section style="padding-right: 0.5em; padding-left: 0.5em; max-width: 100%; display: inline-block; font-size: 1em; line-height: 2; color: inherit; box-sizing: border-box !important; word-wrap: break-word !important;">
+        <section style="max-width: 100%; color: inherit; box-sizing: border-box !important; word-wrap: break-word !important;">
+         壹
+        </section>
+       </section>
+      </section>
+      <section style="margin-top: -1em; margin-bottom: 1em; max-width: 100%; color: inherit; box-sizing: border-box !important; word-wrap: break-word !important;">
+       <section style="max-width: 100%; border-top-width: 1px; border-top-style: solid; border-color: rgba(245, 97, 8, 0.901961); width: 164.5px; float: left; color: inherit; box-sizing: border-box !important; word-wrap: break-word !important;">
+       </section>
+       <section style="max-width: 100%; border-top-width: 1px; border-top-style: solid; border-color: rgba(245, 97, 8, 0.901961); width: 164.5px; float: right; color: inherit; box-sizing: border-box !important; word-wrap: break-word !important;">
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="max-width: 100%; width: 0px; height: 0px; clear: both; box-sizing: border-box !important; word-wrap: break-word !important;">
+    </section>
+   </section>
+   <p style="margin-top: 5px; margin-bottom: 5px; max-width: 100%; white-space: normal; box-sizing: border-box !important; word-wrap: break-word !important;">
+    <br/>
+   </p>
+  </section>
+ </section>
+ <section class="wxb-style">
+  <section class="active" donone="shifuMouseDownPic('shifu_p_011')" label="Copyright Reserved by PLAYHUDONG." style="border-style: none; width: 320px; clear: both; overflow: hidden; margin-right: auto; margin-left: auto;">
+   <section style="width: 100%; float: left; padding-right: 0.1em;">
+    <section style="padding: 0.3em 1em; float: left; margin-top: -12em; margin-left: 1em; color: rgb(104, 104, 104); opacity: 0.85; border-radius: 4px; background: rgb(255, 255, 255);">
+     <p>
+      山阴路的秋天
+     </p>
+    </section>
+    <section style="padding: 0.3em 1em; float: left; font-size: 14px; margin-top: -10em; margin-left: 1em; color: rgb(56, 52, 52); opacity: 0.85; border-radius: 4px; background: rgb(255, 255, 255);">
+     <p>
+      我多么想念你走在我身边的样子
+     </p>
+     <p>
+      想起来我的爱就不能停止
+     </p>
+     <p>
+      南京
+     </p>
+    </section>
+   </section>
+   <section donone="shifuMouseDownPic('shifu_p_011')" label="Copyright Reserved by PLAYHUDONG." style="border-style: none; width: 320px; clear: both; overflow: hidden; margin-right: auto; margin-left: auto;">
+    <section style="width: 100%; float: left; padding-right: 0.1em;">
+     <section donone="shifuMouseDownPayStyle('shifu_pay_012')" label="Copyright © 2015 playhudong All Rights Reserved." style="border-width: initial; border-color: initial; border-style: none; margin: 2.5em auto; text-align: center; width: 20em;">
+      <section class="color_back" style="border-radius: 10px; box-shadow: rgb(204, 204, 204) 0px 0px 4px; width: 15.5em; margin-right: auto; margin-left: auto; -webkit-transform: rotate(8deg); transform: rotate(8deg); background-color: rgb(245, 245, 245);">
+       <section style="border-radius: 10px; box-shadow: rgb(204, 204, 204) 0px 0px 4px; width: 15.5em; min-height: 18em; -webkit-transform: rotate(-8deg); transform: rotate(-8deg); padding-top: 1em; padding-bottom: 1em; box-sizing: border-box; background-color: rgb(255, 255, 255);">
+        <section class="color_b" style="padding-bottom: 0.5em; margin-right: 1em; margin-left: 1em; border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: rgb(201, 201, 201);">
+         <p style="font-size: 1.25em !important;">
+          <span style="font-size: 18px;">
+           活动内容
+          </span>
+         </p>
+        </section>
+        <section style="margin-top: 1em; margin-right: 1em; margin-left: 1em; text-align: left; font-size: 0.9em;">
+         <img data-ratio="1.2571428571428571" data-w="35" src="http://mmbiz.qpic.cn/mmbiz_png/picFGgAVjxlFOgKbEp2odZVKARnY7tL1UGkuiaOlmPeib8wMibCUhtBCUqS9BlgGtqrxczA4YTKiabaoCVvJaDSLz4Q/0?wx_fmt=png" style="vertical-align: top; margin-right: 0.8em; width: 1.1em; display: inline-block;"/>
+         <p style="vertical-align: top; margin-top: -4px; line-height: 1.5; display: inline-block; max-width: 13em !important;">
+          <span style="font-size: 15px;">
+           主题：师大古美，情暖孤寡
+          </span>
+         </p>
+        </section>
+        <section style="margin-top: 1em; margin-right: 1em; margin-left: 1em; text-align: left; font-size: 0.9em;">
+         <img data-ratio="1.0285714285714285" data-w="35" src="http://mmbiz.qpic.cn/mmbiz_png/picFGgAVjxlFOgKbEp2odZVKARnY7tL1UocFj3kFoiaxTARhDCSIBNXet0icTyuTLZl1tiaHpm1eZ9vIzias3K6FiaUw/0?wx_fmt=png" style="vertical-align: top; margin-right: 0.8em; width: 1.1em; display: inline-block;"/>
+         <p style="vertical-align: top; margin-top: -4px; line-height: 1.5; display: inline-block; max-width: 13em !important;">
+          <span style="font-size: 15px;">
+           时间：2016年12月3日
+          </span>
+         </p>
+        </section>
+        <section style="margin-top: 1em; margin-left: 1em; text-align: left; font-size: 0.9em;">
+         <img data-ratio="1.2571428571428571" data-w="35" src="http://mmbiz.qpic.cn/mmbiz_png/picFGgAVjxlFOgKbEp2odZVKARnY7tL1UquwW5nzkZiaRVO2lBXQibVpwKYoCdXuibu3Qa1t9qrsI7IS91jb0UX5cg/0?wx_fmt=png" style="vertical-align: top; margin-right: 0.8em; width: 1.1em; display: inline-block;"/>
+         <p style="vertical-align: top; margin-top: -4px; line-height: 1.5; display: inline-block; max-width: 12em !important;">
+          <span style="font-size: 15px;">
+           地点：闵行区古美小区古美敬老院
+          </span>
+         </p>
+        </section>
+        <section style="margin-top: 1em; margin-right: 1em; margin-left: 1em; text-align: left; font-size: 0.9em;">
+         <img data-ratio="0.8333333333333334" data-w="42" src="http://mmbiz.qpic.cn/mmbiz_png/picFGgAVjxlFOgKbEp2odZVKARnY7tL1UNP0oecPYY51DVZicKGHricmuRb5mzic4ibic21xePgbt1tWcdCXQg6jTExA/0?wx_fmt=png" style="vertical-align: top; margin-right: 0.8em; width: 1.1em; display: inline-block;"/>
+         <p style="vertical-align: top; margin-top: -4px; line-height: 1.5; display: inline-block; max-width: 13em !important;">
+          <span style="font-size: 15px;">
+           人员：信息学院研究生会生活部及其他部门志愿者
+          </span>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <section class="wxb-style">
+  <section class="RankEditor" style="">
+   <section style="max-width: 100%; border-width: 0px; border-style: none; border-color: initial; box-sizing: border-box !important; word-wrap: break-word !important;">
+    <section style="margin-top: 1em; margin-bottom: 1em; max-width: 100%; border-width: 0px; border-style: none; border-color: rgba(247, 98, 9, 0.901961); clear: both; box-sizing: border-box !important; word-wrap: break-word !important;">
+     <section class="white" style="max-width: 100%; text-align: center; font-size: 1em; font-weight: inherit; text-decoration: inherit; color: rgb(255, 255, 255); border-color: rgba(247, 98, 9, 0.901961); box-sizing: border-box !important; word-wrap: break-word !important;">
+      <section style="margin-right: auto; margin-left: auto; max-width: 100%; width: 2em; height: 2em; border-radius: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(255, 255, 255); background-color: rgba(247, 98, 9, 0.901961);">
+       <section style="padding-right: 0.5em; padding-left: 0.5em; max-width: 100%; display: inline-block; font-size: 1em; line-height: 2; color: inherit; box-sizing: border-box !important; word-wrap: break-word !important;">
+        <section style="max-width: 100%; color: inherit; box-sizing: border-box !important; word-wrap: break-word !important;">
+         贰
+        </section>
+       </section>
+      </section>
+      <section style="margin-top: -1em; margin-bottom: 1em; max-width: 100%; color: inherit; box-sizing: border-box !important; word-wrap: break-word !important;">
+       <section style="max-width: 100%; border-top-width: 1px; border-top-style: solid; border-color: rgba(247, 98, 9, 0.901961); width: 164.5px; float: left; color: inherit; box-sizing: border-box !important; word-wrap: break-word !important;">
+       </section>
+       <section style="max-width: 100%; border-top-width: 1px; border-top-style: solid; border-color: rgba(247, 98, 9, 0.901961); width: 164.5px; float: right; color: inherit; box-sizing: border-box !important; word-wrap: break-word !important;">
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="max-width: 100%; width: 0px; height: 0px; clear: both; box-sizing: border-box !important; word-wrap: break-word !important;">
+    </section>
+   </section>
+   <p style="margin-top: 5px; margin-bottom: 5px; max-width: 100%; white-space: normal; box-sizing: border-box !important; word-wrap: break-word !important;">
+    <br/>
+   </p>
+  </section>
+ </section>
+ <p style="text-align: center;">
+  <span style="font-size: 15px;">
+   暖心环节之
+  </span>
+  <span style="font-size: 15px;">
+   热身运动
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <span style="font-size: 15px;">
+   爷爷奶奶们骨骼脆弱
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <span style="font-size: 15px;">
+   活动之前先让爷爷奶奶们手脚动起来
+  </span>
+ </p>
+ <section class="wxb-style">
+  <section class="wxb-style" data-id="85643" style="box-sizing: border-box; border-width: 0px; border-style: none; border-color: initial;">
+   <section data-width="65%" style="margin-bottom: 2px; margin-left: 4px; color: rgb(116, 109, 84); border-color: rgb(232, 230, 223); width: 65%; box-sizing: border-box; background-color: rgb(232, 230, 223);">
+    <img border="0" class="" data-ratio="0.665625" data-w="1280" data-width="100%" height="" opacity="" src="http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlFOgKbEp2odZVKARnY7tL1USiaLQT2TV4ibYwg07OWWzwQfTqj5C5JqB7m7wafKr9L4cCA8ojpiajE0g/0?wx_fmt=jpeg" style="border-color: rgb(232, 230, 223); color: inherit; width: 100%;" title="" width="100%"/>
+    <section style="padding: 5px 10px 15px; color: inherit; border-color: rgb(232, 230, 223); box-sizing: border-box;">
+     <p style="color: inherit; border-color: rgb(232, 230, 223); white-space: normal;">
+      <br/>
+     </p>
+    </section>
+   </section>
+   <section style="margin-top: -80px; margin-bottom: 2px; margin-left: 4px; color: rgb(116, 109, 84); border-color: rgb(232, 230, 223); text-align: right; box-sizing: border-box;">
+    <section data-width="65%" style="display: inline-block; width: 65%; color: inherit; border-color: rgb(232, 230, 223); box-sizing: border-box; background-color: rgb(232, 230, 223);">
+     <img border="0" class="" data-ratio="0.665625" data-w="1280" data-width="100%" height="" opacity="" src="http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlFOgKbEp2odZVKARnY7tL1UsRYxWps9nGBSHQ8nElxLveLFJeL0gOFGMrb3UVZKFdBN0NWcplXYUw/0?wx_fmt=jpeg" style="border-color: rgb(232, 230, 223); color: inherit; width: 100%;" title="" width="100%"/>
+     <section style="padding: 5px 10px 15px; color: inherit; border-color: rgb(232, 230, 223); box-sizing: border-box;">
+      <p style="color: inherit; border-color: rgb(232, 230, 223); text-align: left; white-space: normal;">
+       <br/>
+      </p>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <section class="wxb-style">
+  <section label="Powered by wxb-style.com" style="font-family: 微软雅黑;">
+   <section class="wxb-style" data-id="2311" style="box-sizing: border-box; border-width: 0px; border-style: none; border-color: initial;">
+    <section style="border-width: 0px; border-style: initial; border-color: initial; box-sizing: border-box; clear: both;">
+     <section style="box-sizing: border-box;">
+      <img border="0" data-ratio="0.665625" data-w="1280" data-width="100%" height="auto" opacity="" src="http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlFOgKbEp2odZVKARnY7tL1UWhnrHNKymUPbBfCUrnot1jFZOMEbwzEeOsrK7GIW0Ag4RVZDSyV0qA/0?wx_fmt=jpeg" style="box-sizing: border-box; width: 100%;" title="" vspace="0" width="100%"/>
+      <section style="margin-top: 0.5em; box-sizing: border-box;">
+       <section class="wxb-style">
+        <section class="RankEditor" style="">
+         <section style="max-width: 100%; border-width: 0px; border-style: none; border-color: initial; box-sizing: border-box !important; word-wrap: break-word !important;">
+          <section style="margin-top: 1em; margin-bottom: 1em; max-width: 100%; border-width: 0px; border-style: none; border-color: rgba(251, 101, 12, 0.901961); clear: both; box-sizing: border-box !important; word-wrap: break-word !important;">
+           <section class="white" style="max-width: 100%; text-align: center; font-size: 1em; font-weight: inherit; text-decoration: inherit; color: rgb(255, 255, 255); border-color: rgba(251, 101, 12, 0.901961); box-sizing: border-box !important; word-wrap: break-word !important;">
+            <section style="margin-right: auto; margin-left: auto; max-width: 100%; width: 2em; height: 2em; border-radius: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(255, 255, 255); background-color: rgba(251, 101, 12, 0.901961);">
+             <section style="padding-right: 0.5em; padding-left: 0.5em; max-width: 100%; display: inline-block; font-size: 1em; line-height: 2; color: inherit; box-sizing: border-box !important; word-wrap: break-word !important;">
+              <section style="max-width: 100%; color: inherit; box-sizing: border-box !important; word-wrap: break-word !important;">
+               叁
+              </section>
+             </section>
+            </section>
+            <section style="margin-top: -1em; margin-bottom: 1em; max-width: 100%; color: inherit; box-sizing: border-box !important; word-wrap: break-word !important;">
+             <section style="max-width: 100%; border-top-width: 1px; border-top-style: solid; border-color: rgba(251, 101, 12, 0.901961); width: 164.5px; float: left; color: inherit; box-sizing: border-box !important; word-wrap: break-word !important;">
+             </section>
+             <section style="max-width: 100%; border-top-width: 1px; border-top-style: solid; border-color: rgba(251, 101, 12, 0.901961); width: 164.5px; float: right; color: inherit; box-sizing: border-box !important; word-wrap: break-word !important;">
+             </section>
+            </section>
+           </section>
+          </section>
+          <section style="max-width: 100%; width: 0px; height: 0px; clear: both; box-sizing: border-box !important; word-wrap: break-word !important;">
+          </section>
+         </section>
+         <p style="margin-top: 5px; margin-bottom: 5px; max-width: 100%; white-space: normal; box-sizing: border-box !important; word-wrap: break-word !important;">
+          <br/>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="text-align: center;">
+  <span style="font-size: 15px;">
+   热身完毕
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <span style="font-size: 15px;">
+   开始暖心活动
+  </span>
+ </p>
+ <p>
+  <span style="font-size: 15px;">
+  </span>
+ </p>
+ <section class="wxb-style">
+  <section class="RankEditor" style="">
+   <section style="max-width: 100%; border-width: 0px; border-style: none; border-color: initial; box-sizing: border-box !important; word-wrap: break-word !important;">
+    <section style="max-width: 100%; text-align: center; box-sizing: border-box !important; word-wrap: break-word !important;">
+     <section class="active" style="max-width: 100%; color: rgba(245, 95, 7, 0.901961); font-size: 32px; display: inline-block; box-sizing: border-box !important; word-wrap: break-word !important;">
+      <span style="font-size: 20px;">
+       「
+      </span>
+     </section>
+     <section style="margin-right: 5px; margin-left: 15px; max-width: 100%; line-height: 1.5em; display: inline-block; vertical-align: top; box-sizing: border-box !important; word-wrap: break-word !important;">
+      <p style="margin-top: 5px; margin-bottom: 5px; max-width: 100%; font-size: 30px; color: rgba(245, 95, 7, 0.901961); letter-spacing: 8px; white-space: normal; box-sizing: border-box !important; word-wrap: break-word !important;">
+       <span style="max-width: 100%; font-size: 20px; box-sizing: border-box !important; word-wrap: break-word !important;">
+        丢手绢
+       </span>
+      </p>
+      <p style="margin-top: 5px; margin-bottom: 5px; max-width: 100%; color: rgba(245, 95, 7, 0.901961); letter-spacing: 5px; white-space: normal; box-sizing: border-box !important; word-wrap: break-word !important;">
+       <span style="max-width: 100%; font-size: 16px; box-sizing: border-box !important; word-wrap: break-word !important;">
+        Diu Shou Juan
+       </span>
+      </p>
+     </section>
+     <section class="active" style="max-width: 100%; color: rgba(245, 95, 7, 0.901961); font-size: 32px; display: inline-block; box-sizing: border-box !important; word-wrap: break-word !important;">
+      <span style="font-size: 20px;">
+       」
+      </span>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>
+ <section class="wxb-style">
+  <section label="Powered by wxb-style.com" style="font-family: 微软雅黑;">
+   <section class="wxb-style" data-id="2311" style="box-sizing: border-box; border-width: 0px; border-style: none; border-color: initial;">
+    <section style="border-width: 0px; border-style: initial; border-color: initial; box-sizing: border-box; clear: both;">
+     <section style="box-sizing: border-box;">
+      <img border="0" data-ratio="0.665625" data-w="1280" data-width="100%" height="auto" opacity="" src="http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlFOgKbEp2odZVKARnY7tL1U8BB0icM7okoj40uPRfSLdAJM2E0NzA9kCibxicMWJLjZqhYLMA8YgvjLQ/0?wx_fmt=jpeg" style="box-sizing: border-box; width: 100%;" title="" vspace="0" width="100%"/>
+      <section style="margin-top: 0.5em; box-sizing: border-box;">
+       <img border="0" data-ratio="0.665625" data-w="1280" data-width="49%" height="auto" opacity="" src="http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlFOgKbEp2odZVKARnY7tL1UbyAUIA3Qe5Npa0EugzuCJjzhJBsBAdoyYhWszQibvfmzGWrd27NiaNibQ/0?wx_fmt=jpeg" style="box-sizing: border-box; float: left; width: 49%;" title="" vspace="0" width="49%"/>
+       <img border="0" data-ratio="0.665625" data-w="1280" data-width="49%" height="auto" opacity="" src="http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlFOgKbEp2odZVKARnY7tL1UOicFQPb6pBaHuQIyuOseUNviaCtTmgXyvhZMhlvyZwKe14bqAPRNtdjw/0?wx_fmt=jpeg" style="box-sizing: border-box; float: right; width: 49%;" title="" vspace="0" width="49%"/>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>
+ <p style="text-align: center;">
+  <span style="font-size: 15px;">
+   可有勾起儿时的回忆
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <span style="font-size: 15px;">
+   人越来越老
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <span style="font-size: 15px;">
+   向往的
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <span style="font-size: 15px;">
+   却是越来越简单的快乐
+  </span>
+ </p>
+ <p>
+  <span style="font-size: 15px;">
+  </span>
+ </p>
+ <section class="wxb-style">
+  <section class="RankEditor" style="">
+   <section style="max-width: 100%; border-width: 0px; border-style: none; border-color: initial; box-sizing: border-box !important; word-wrap: break-word !important;">
+    <section style="margin-top: 1em; margin-bottom: 1em; max-width: 100%; border-width: 0px; border-style: none; border-color: rgba(245, 95, 7, 0.901961); clear: both; box-sizing: border-box !important; word-wrap: break-word !important;">
+     <section class="white" style="max-width: 100%; text-align: center; font-size: 1em; font-weight: inherit; text-decoration: inherit; color: rgb(255, 255, 255); border-color: rgba(245, 95, 7, 0.901961); box-sizing: border-box !important; word-wrap: break-word !important;">
+      <section style="margin-right: auto; margin-left: auto; max-width: 100%; width: 2em; height: 2em; border-radius: 100%; box-sizing: border-box !important; word-wrap: break-word !important; color: rgb(255, 255, 255); background-color: rgba(245, 95, 7, 0.901961);">
+       <section style="padding-right: 0.5em; padding-left: 0.5em; max-width: 100%; display: inline-block; font-size: 1em; line-height: 2; color: inherit; box-sizing: border-box !important; word-wrap: break-word !important;">
+        <section style="max-width: 100%; color: inherit; box-sizing: border-box !important; word-wrap: break-word !important;">
+         肆
+        </section>
+       </section>
+      </section>
+      <section style="margin-top: -1em; margin-bottom: 1em; max-width: 100%; color: inherit; box-sizing: border-box !important; word-wrap: break-word !important;">
+       <section style="max-width: 100%; border-top-width: 1px; border-top-style: solid; border-color: rgba(245, 95, 7, 0.901961); width: 164.5px; float: left; color: inherit; box-sizing: border-box !important; word-wrap: break-word !important;">
+       </section>
+       <section style="max-width: 100%; border-top-width: 1px; border-top-style: solid; border-color: rgba(245, 95, 7, 0.901961); width: 164.5px; float: right; color: inherit; box-sizing: border-box !important; word-wrap: break-word !important;">
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="max-width: 100%; width: 0px; height: 0px; clear: both; box-sizing: border-box !important; word-wrap: break-word !important;">
+    </section>
+   </section>
+   <p style="margin-top: 5px; margin-bottom: 5px; max-width: 100%; white-space: normal; box-sizing: border-box !important; word-wrap: break-word !important;">
+    <br/>
+   </p>
+  </section>
+ </section>
+ <p style="text-align: center;">
+  <span style="font-size: 15px;">
+   当你老了
+  </span>
+  <span style="font-size: 15px; line-height: inherit;">
+   走不动了
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <span style="font-size: 15px;">
+   炉火旁打盹 回忆青春
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <span style="font-size: 15px;">
+   陪聊天 做家务
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <span style="font-size: 15px;">
+   我们能做的很少
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <span style="font-size: 15px;">
+   所以 我们要做好
+  </span>
+ </p>
+ <section class="wxb-style">
+  <section class="aimeibian imbselect" style="border-width: 0px; border-style: none; border-color: initial; padding: 1px;">
+   <section style="   width: 100%; margin-right: auto; margin-left: auto; overflow: hidden; ">
+    <section style="margin-right: auto; margin-bottom: 1em; margin-left: auto; text-align: center; width: 100%;">
+     <section border-color="rgb(141, 165, 196)" border-width="1" class="ImbWord ImbBorder" style="margin-right: auto; margin-left: auto; padding-bottom: 8px; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: rgb(141, 165, 196); width: 70%; padding-top: 5px; font-size: 1em; color: rgb(141, 165, 196);">
+     </section>
+     <section style="margin-top: 10px; margin-right: 5px; margin-left: 5px;">
+      <img class="ImbBrushImg js_catchingremoteimage" data-ratio="0.665625" data-w="1280" src="http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlFOgKbEp2odZVKARnY7tL1Uy1X1bFEf3QgleCibjmBoftVMbPl2GosfLe1dVUVRa4DRNBFAgrmpKlw/0?wx_fmt=jpeg" style="width: 45%;margin-right:10px;" title="刘诗诗.jpeg"/>
+      <img class="ImbBrushImg js_catchingremoteimage" data-ratio="0.665625" data-w="1280" src="http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlFOgKbEp2odZVKARnY7tL1U76kkHMlLpBm1XvDQ0KVMQDnicgibIiaDhoY9e1B9UtZaK0MJy7CIvKiafA/0?wx_fmt=jpeg" style="width: 45%;" title="刘诗诗2.jpg"/>
+     </section>
+     <section style="width:85%;padding-bottom: 8px;display: inline-block;border-top: solid 1px #8da5c4;margin-top: 1em;">
+     </section>
+     <span style="color: rgb(141, 165, 196); font-size: 1em; line-height: 1.5;">
+     </span>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="text-align: center;">
+  <span style="font-size: 15px;">
+   志愿者们都是可爱的
+   <br/>
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <span style="font-size: 15px;">
+   吝啬自己的爱 就无法得到别人的爱
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <span style="font-size: 15px;">
+   中华美德课 就要结束啦
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <span style="font-size: 15px;">
+   让我们感受下志愿者们高尚的气场
+  </span>
+ </p>
+ <p>
+  <span style="font-size: 15px;">
+  </span>
+ </p>
+ <section class="wxb-style">
+  <section class="wxb-style" data-id="85826" data-tools="135编辑器" style="border-width: 0px; border-style: none; border-color: initial; box-sizing: border-box;">
+   <section class="layout" style="margin-right: auto; margin-left: auto; box-sizing: border-box;">
+    <section style="margin-top: 10px; margin-bottom: 10px; text-align: center; box-sizing: border-box;">
+     <section style="margin-top: 10px; margin-right: 10px; margin-left: 10px; height: 4px; display: inline-block; border-bottom-width: 1px; border-bottom-style: solid; border-color: rgba(239, 95, 11, 0.901961); color: rgb(255, 255, 255); box-sizing: border-box;">
+      <section style="display: inline-block; line-height: 0em; box-sizing: border-box;">
+       <span class="135brush" data-brushtype="text" style="color: #7F7F7F; font-family: 宋体, simsun; font-size: 40px;">
+        STYLE
+       </span>
+      </section>
+     </section>
+    </section>
+    <section data-width="100%" style="border-width: 0px; border-style: initial; border-color: initial; box-sizing: border-box; width: 100%; clear: both; overflow: hidden; margin-top: 10px;">
+     <section data-width="49%" style="box-sizing: border-box; width: 49%; float: left; padding-right: 0.1em;">
+      <img border="0" class="" data-ratio="0.6654835847382431" data-w="1127" data-width="100%" height="auto" opacity="" src="http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlFOgKbEp2odZVKARnY7tL1UJmJEOtjkahDITVvddYia6bTicd2w9vCsnBGUbpEkh7aEOQ18KfAlXm2g/0?wx_fmt=jpeg" style="width: 100%;" title="" width="100%"/>
+      <section class="135brush" data-style="color:rgb(102, 102, 102); font-size:14px; text-align:inherit; text-decoration:inherit" style="box-sizing: border-box;">
+       <p style="color: rgb(102, 102, 102); font-size: 18px; text-align: center; text-decoration: inherit; line-height: normal; white-space: normal;">
+        <span style="color: #3F3F3F;">
+         真诚
+        </span>
+       </p>
+       <p style="color: rgb(102, 102, 102); font-size: 18px; text-decoration: inherit; text-align: center; line-height: normal; white-space: normal;">
+        <br/>
+       </p>
+      </section>
+     </section>
+     <section data-width="49%" style="width: 49%; float: right; padding-left: 0.1em; box-sizing: border-box;">
+      <img border="0" class="" data-ratio="0.665625" data-w="1280" data-width="100%" height="auto" opacity="" src="http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlFOgKbEp2odZVKARnY7tL1UT4wz6NibvJib2oibX6c5fHoNGXNVYngzI86G4u8Hg12iaTMGnHDa3f4pgw/0?wx_fmt=jpeg" style="width: 100%;" title="" width="100%"/>
+      <section class="135brush" data-style="color: rgb(102, 102, 102); font-size: 14px; font-weight: inherit; text-align: inherit; text-decoration: inherit; line-height: inherit;" style="box-sizing: border-box;">
+       <p style="color: rgb(102, 102, 102); font-size: 18px; font-weight: inherit; text-align: center; text-decoration: inherit; line-height: normal; white-space: normal;">
+        <span style="color: #3F3F3F;">
+         有爱
+        </span>
+       </p>
+       <p style="color: rgb(102, 102, 102); font-size: 18px; text-decoration: inherit; text-align: center; line-height: normal; white-space: normal;">
+        <br/>
+       </p>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <span style="font-size: 15px;">
+  </span>
+ </p>
+ <section class="wxb-style">
+  <section class="RankEditor" style="text-align: center;">
+   <section style="margin-top: 1em; max-width: 100%; display: inline-block; vertical-align: top; font-size: 1.5em; font-family: inherit; text-decoration: inherit; border-color: rgba(241, 95, 10, 0.901961); box-sizing: border-box !important; word-wrap: break-word !important;">
+    <section class="white" style="margin-left: 0.5em; max-width: 100%; transform: rotate(0.1deg); width: 2.5em; height: 2.5em; border-radius: 100%; line-height: 2.5em; color: rgb(255, 255, 255); box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgba(241, 95, 10, 0.901961);">
+     <section style="max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+      愿
+     </section>
+    </section>
+    <section style="margin-top: -3em; max-width: 100%; width: 3.5em; height: 3.5em; border-radius: 100%; border-width: 0.1em; border-style: solid; border-color: rgba(241, 95, 10, 0.901961); box-sizing: border-box !important; word-wrap: break-word !important;">
+     <section style="max-width: 100%; width: 80px; height: 80px; border-radius: 100%; color: rgb(255, 255, 255); box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgba(241, 95, 10, 0.901961);">
+      <br/>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <section class="wxb-style">
+  <section style="box-sizing: border-box; background-color: rgb(255, 255, 255);">
+   <section class="Powered-by-wxb.com" style="   box-sizing: border-box; ">
+    <section class="" style=" margin-top: 0.5em; margin-bottom: 0.5em; text-align: center; overflow: hidden;  box-sizing: border-box; ">
+     <section class="" style="display: inline-block; box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <img class="" data-ratio="1.0511363636363635" data-w="176" src="http://mmbiz.qpic.cn/mmbiz/lDFBTVnzECBMgSgkicyibvXyqckTsp7QtCfpqxnW7ex1nYMgpqWoGsz8xtc1Sso4I5Gn2Rr3Zmj8aau3VaNCZBqQ/0?wx_fmt=png" style="width: 11em; height: 12em; margin-right: auto; margin-left: auto; box-sizing: border-box; color: rgb(255, 255, 255); background-color: rgba(249, 96, 8, 0.901961);"/>
+      </section>
+      <section style="margin-top: -9em; margin-bottom: 3em; box-sizing: border-box;">
+       <section class="" style="margin-left: -2em; box-sizing: border-box;">
+        <section class="Powered-by-wxb.com" style="box-sizing: border-box;">
+         <section class="" style=" font-size: 24px;  box-sizing: border-box; ">
+          <section class="" style="display: inline-block; box-sizing: border-box;">
+           <section style="width: 0px; display: inline-block; vertical-align: top; border-right-width: 0.5em; border-right-style: solid; border-right-color: rgba(249, 96, 8, 0.901961); border-bottom-width: 1em; border-bottom-style: solid; border-bottom-color: rgba(249, 96, 8, 0.901961); box-sizing: border-box; border-left-width: 0.5em !important; border-left-style: solid !important; border-left-color: transparent !important; border-top-width: 1em !important; border-top-style: solid !important; border-top-color: transparent !important;">
+           </section>
+           <section class="" style="height: 2em; line-height: 2em; padding-right: 10px; padding-left: 10px; min-width: 6em; display: inline-block; vertical-align: top; color: rgb(255, 255, 255); box-sizing: border-box; background-color: rgba(249, 96, 8, 0.901961);">
+            <section style="box-sizing: border-box;">
+             时光不老
+            </section>
+           </section>
+           <section style="width: 0px; display: inline-block; vertical-align: top; border-left-width: 0.5em; border-left-style: solid; border-left-color: rgba(249, 96, 8, 0.901961); border-top-width: 1em; border-top-style: solid; border-top-color: rgba(249, 96, 8, 0.901961); box-sizing: border-box; border-right-width: 0.5em !important; border-right-style: solid !important; border-right-color: transparent !important; border-bottom-width: 1em !important; border-bottom-style: solid !important; border-bottom-color: transparent !important;">
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section class="" style="margin-left: 2em; box-sizing: border-box;">
+        <section class="Powered-by-wxb.com" style="box-sizing: border-box;">
+         <section class="" style=" font-size: 24px;  box-sizing: border-box; ">
+          <section class="" style="display: inline-block; box-sizing: border-box;">
+           <section style="width: 0px; display: inline-block; vertical-align: top; border-right-width: 0.5em; border-right-style: solid; border-right-color: rgba(249, 96, 8, 0.901961); border-bottom-width: 1em; border-bottom-style: solid; border-bottom-color: rgba(249, 96, 8, 0.901961); box-sizing: border-box; border-left-width: 0.5em !important; border-left-style: solid !important; border-left-color: transparent !important; border-top-width: 1em !important; border-top-style: solid !important; border-top-color: transparent !important;">
+           </section>
+           <section class="" style="height: 2em; line-height: 2em; padding-right: 10px; padding-left: 10px; min-width: 6em; display: inline-block; vertical-align: top; color: rgb(255, 255, 255); box-sizing: border-box; background-color: rgba(249, 96, 8, 0.901961);">
+            <section style="box-sizing: border-box;">
+             我们不散
+            </section>
+           </section>
+           <section style="width: 0px; display: inline-block; vertical-align: top; border-left-width: 0.5em; border-left-style: solid; border-left-color: rgba(249, 96, 8, 0.901961); border-top-width: 1em; border-top-style: solid; border-top-color: rgba(249, 96, 8, 0.901961); box-sizing: border-box; border-right-width: 0.5em !important; border-right-style: solid !important; border-right-color: transparent !important; border-bottom-width: 1em !important; border-bottom-style: solid !important; border-bottom-color: transparent !important;">
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <img data-ratio="0.7421875" data-w="1280" src="http://mmbiz.qpic.cn/mmbiz_jpg/picFGgAVjxlFOgKbEp2odZVKARnY7tL1U9Sib9wx2unJsRbic1L1EavHYaE9dibyWfmXHtzvDRGdFIUOItIloqMeAQ/0?wx_fmt=jpeg"/>
+ </p>

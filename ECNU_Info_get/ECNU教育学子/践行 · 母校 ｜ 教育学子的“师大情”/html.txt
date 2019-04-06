@@ -1,0 +1,756 @@
+
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 96%;vertical-align: top;box-shadow: rgb(239, 154, 154) 0px 0px 6px;border-width: 0px;border-style: none;border-color: rgb(62, 62, 62);border-radius: 8px;overflow: hidden;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 30%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.5" data-type="png" data-w="880" src="https://mmbiz.qpic.cn/mmbiz_png/hOFiaNE65nsCsUdkybWHdKiaJ043RKiaHUViahYHqT4ABPJgnc4gicazANbiaSFKyw5wbYHYqmqAf3qibXeKZ2BTIxfjA/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 39%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 100%;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.5" data-type="png" data-w="880" src="https://mmbiz.qpic.cn/mmbiz_png/hOFiaNE65nsCsUdkybWHdKiaJ043RKiaHUViahYHqT4ABPJgnc4gicazANbiaSFKyw5wbYHYqmqAf3qibXeKZ2BTIxfjA/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 30%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.5" data-type="png" data-w="880" src="https://mmbiz.qpic.cn/mmbiz_png/hOFiaNE65nsCsUdkybWHdKiaJ043RKiaHUViahYHqT4ABPJgnc4gicazANbiaSFKyw5wbYHYqmqAf3qibXeKZ2BTIxfjA/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px 15px 8px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 10px 0%;box-sizing: border-box;">
+          <section class="tn-yzk-fuid-text-61658-1548305745155" style="text-align: justify;font-size: 15px;color: rgb(92, 18, 18);box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            愉快而短暂的寒假悄然而逝，一百多位教育学子怀揣着感恩的心，为他们的学弟学妹们带去了一场场精彩绝伦的“宣讲”盛宴，在母校留下了华师大的印记。以下是部分宣讲活动的成果展示（排名不分先后）：
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.0990741" data-type="png" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_png/hOFiaNE65nsCsUdkybWHdKiaJ043RKiaHUVDZM0icXpjRybCo503E0J0fSDqbahDSAgLJQyRrtibpJQsPuxeCricEYlw/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+    <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;background-color: rgb(255, 205, 210);border-top: 0px none rgb(62, 62, 62);border-top-left-radius: 8px;overflow: hidden;border-bottom: 0px none rgb(62, 62, 62);border-bottom-right-radius: 0px;border-right: 0px none rgb(62, 62, 62);border-top-right-radius: 8px;padding-top: 10px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);border-top: 0px none rgb(62, 62, 62);border-top-left-radius: 4px;overflow: hidden;border-right: 0px none rgb(62, 62, 62);border-top-right-radius: 4px;padding: 10px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section class="tn-yzk-fuid-text-32160-1548244521106" style="font-size: 20px;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            一．浙江省新昌中学
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;color: rgb(92, 18, 18);box-sizing: border-box;">
+           <p style="text-align: center;box-sizing: border-box;">
+            成员：求怡、吴师锐、梁圆卿、
+           </p>
+           <p style="text-align: center;box-sizing: border-box;">
+            王余彬、雷雨
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;border-style: solid;border-width: 1px;border-radius: 0px;border-color: rgb(225, 193, 146);box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 8px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="background-color: rgb(225, 193, 146);height: 1px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 15px;color: rgb(92, 18, 18);line-height: 1.8;box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            2019年1月24日，浙江省新昌中学宣讲组向学弟学妹们送去了来自华师大的问候，介绍了美丽师大。他们播放了关于华东师大的宣传片，并分发了华东师大的相关资料手册和纪念书签，现场气氛其乐融融。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-bottom: 8px;margin-left: 0%;box-sizing: border-box;">
+       <section style="background-color: rgb(225, 193, 146);height: 1px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/hOFiaNE65nsCsUdkybWHdKiaJ043RKiaHUVaBw3iaSlZ0e6wChuomxyic0pjyd6JqZIb2h54QutibFx4XuFxMyTvTzdQ/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/hOFiaNE65nsCsUdkybWHdKiaJ043RKiaHUVMDA4B6u9zh8NnyzWU6a1cIBkyibL981YUw51kQnBkibEQAtaIdShGB3w/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;border-style: solid;border-width: 1px;border-radius: 0px;border-color: rgb(225, 193, 146);box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 8px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="background-color: rgb(225, 193, 146);height: 1px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 15px;color: rgb(92, 18, 18);line-height: 1.8;box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            他们主要对同学们极为关心的招生情况、相关专业与学校生活等问题做了详细的介绍。在宣讲结束后，不少同学和宣讲组交换了联系方式。有几位已经参加过华东师大的夏令营项目的同学表示他们对华东师大向往已久。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-bottom: 8px;margin-left: 0%;box-sizing: border-box;">
+       <section style="background-color: rgb(225, 193, 146);height: 1px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/hOFiaNE65nsCsUdkybWHdKiaJ043RKiaHUVKLjZHhx78YkSJUsGOiavicGSoOe8dkalbnf95vschW7hERk2FUxqDYKw/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/hOFiaNE65nsCsUdkybWHdKiaJ043RKiaHUV3vwEFNBvXQWgEJPmDc347aYEx2ME5icmNkqCbiahGsVI9USDhsvUwHaw/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+    <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;background-color: rgb(255, 205, 210);border-top: 0px none rgb(62, 62, 62);border-top-left-radius: 8px;overflow: hidden;border-bottom: 0px none rgb(62, 62, 62);border-bottom-right-radius: 0px;border-right: 0px none rgb(62, 62, 62);border-top-right-radius: 8px;padding-top: 10px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);border-top: 0px none rgb(62, 62, 62);border-top-left-radius: 4px;overflow: hidden;border-right: 0px none rgb(62, 62, 62);border-top-right-radius: 4px;padding: 10px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section class="tn-yzk-fuid-text-32160-1548244521106" style="font-size: 20px;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            二．上海市洋泾中学
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="color: rgb(92, 18, 18);box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            成员：吕璟、蔡屹婕、王垚、
+           </p>
+           <p style="box-sizing: border-box;">
+            秦天、张智麟、胡佳怡
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;border-style: solid;border-width: 1px;border-radius: 0px;border-color: rgb(225, 193, 146);box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 8px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="background-color: rgb(225, 193, 146);height: 1px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 15px;color: rgb(92, 18, 18);line-height: 1.8;box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            2019年1月22日，华东师范大学招生宣讲团一行6人于上海市洋泾中学开展宣讲活动。除了招生材料之外，宣讲团还带去了师大特色的精美礼品，赠送给参加宣讲会的学弟学妹们，让大家感受到“爱在华师大”的亲切与美丽。宣讲会现场座无虚席，洋泾中学的学弟学妹们对华东师范大学充满了向往。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-bottom: 8px;margin-left: 0%;box-sizing: border-box;">
+       <section style="background-color: rgb(225, 193, 146);height: 1px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.6666667" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/hOFiaNE65nsCsUdkybWHdKiaJ043RKiaHUVykiaNsJ78St4bkB2HQQIg7JFnd4Vee9amZXn3sHgtpCw7sqAl6L3Cjw/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.7503045" data-type="jpeg" data-w="821" src="https://mmbiz.qpic.cn/mmbiz_jpg/hOFiaNE65nsCsUdkybWHdKiaJ043RKiaHUVAMQXTPKWkpDbGlMYP1ctcibqPiaMBXv4PmklXGKPfu3cHJzEa7VkBurw/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;border-style: solid;border-width: 1px;border-radius: 0px;border-color: rgb(225, 193, 146);box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 8px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="background-color: rgb(225, 193, 146);height: 1px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 15px;color: rgb(92, 18, 18);line-height: 1.8;box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            本次宣讲共分为4个板块：平台优势、一流名校、学在师大和爱在师大。通过举例子、列数据、图片展示等方式，宣讲团队在短短半个小时尽力将美好的师大全方位地展示在学弟学妹们眼前。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-bottom: 8px;margin-left: 0%;box-sizing: border-box;">
+       <section style="background-color: rgb(225, 193, 146);height: 1px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.7512136" data-type="jpeg" data-w="824" src="https://mmbiz.qpic.cn/mmbiz_jpg/hOFiaNE65nsCsUdkybWHdKiaJ043RKiaHUVcy07qAGGLrLKhRnZnv2xGvhxyXibBYNszElUOB2kIcSiaI90ZDFwKb6A/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.7515078" data-type="jpeg" data-w="829" src="https://mmbiz.qpic.cn/mmbiz_jpg/hOFiaNE65nsCsUdkybWHdKiaJ043RKiaHUVibluiaMuE3kjltJCB5oqcxnANTOXcZaHRXpH6jZapzWlMBBmc6bNDazg/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+    <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;background-color: rgb(255, 205, 210);border-top: 0px none rgb(62, 62, 62);border-top-left-radius: 8px;overflow: hidden;border-bottom: 0px none rgb(62, 62, 62);border-bottom-right-radius: 0px;border-right: 0px none rgb(62, 62, 62);border-top-right-radius: 8px;padding-top: 10px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);border-top: 0px none rgb(62, 62, 62);border-top-left-radius: 4px;overflow: hidden;border-right: 0px none rgb(62, 62, 62);border-top-right-radius: 4px;padding: 10px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section class="tn-yzk-fuid-text-32160-1548244521106" style="font-size: 20px;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            三．华东师范大学附属第一中学
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="color: rgb(92, 18, 18);box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            成员：陈晗临、王雪雯、姜琳、
+           </p>
+           <p style="box-sizing: border-box;">
+            陈昊、赵心然
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;border-style: solid;border-width: 1px;border-radius: 0px;border-color: rgb(225, 193, 146);box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 8px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="background-color: rgb(225, 193, 146);height: 1px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 15px;color: rgb(92, 18, 18);line-height: 1.8;box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            2019年1月18日，宣讲组来到华东师范大学附属第一中学开展师大宣讲活动。宣讲消除了一附中同学对华东师大所持有的一些刻板印象，并增进了附中同学们对华东师范大学的深入了解。同时，宣讲也加强了附中同学对华东师大的好感，对华东师大美好校园生活的向往，并成功吸引了更多的附中同学报考师大。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-bottom: 8px;margin-left: 0%;box-sizing: border-box;">
+       <section style="background-color: rgb(225, 193, 146);height: 1px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.75" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/hOFiaNE65nsCsUdkybWHdKiaJ043RKiaHUVHMpDicRSYia2Zibs0SiaVB1kPNEdytTtKpIIsicc5WGssrsySckqh0iaiayaQ/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.6666667" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/hOFiaNE65nsCsUdkybWHdKiaJ043RKiaHUVRs8CrMUudzjMrfxtdKPAl8Cr6kic1P61TffZOtomZCn4CLNIic2ia4HrA/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.6666667" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/hOFiaNE65nsCsUdkybWHdKiaJ043RKiaHUVib0xaGB6Lw20UNuCv3He2IP0IVZzgno63fhPv1Xbibsyhxfz2cxIKhSw/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.562963" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/hOFiaNE65nsCsUdkybWHdKiaJ043RKiaHUVF66qSiauHyRwmjGGSpicQyYz0neZHfRDlucTU3fhDBzFRnicAJMsJ9cxA/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+    <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;background-color: rgb(255, 205, 210);border-top: 0px none rgb(62, 62, 62);border-top-left-radius: 8px;overflow: hidden;border-bottom: 0px none rgb(62, 62, 62);border-bottom-right-radius: 0px;border-right: 0px none rgb(62, 62, 62);border-top-right-radius: 8px;padding-top: 10px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);border-top: 0px none rgb(62, 62, 62);border-top-left-radius: 4px;overflow: hidden;border-right: 0px none rgb(62, 62, 62);border-top-right-radius: 4px;padding: 10px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section class="tn-yzk-fuid-text-32160-1548244521106" style="font-size: 20px;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            四．恩施土家族苗族
+           </p>
+           <p style="box-sizing: border-box;">
+            自治州高级中学
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;color: rgb(92, 18, 18);box-sizing: border-box;">
+           <p style="text-align: center;box-sizing: border-box;">
+            成员：向红艳
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;border-style: solid;border-width: 1px;border-radius: 0px;border-color: rgb(225, 193, 146);box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 8px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="background-color: rgb(225, 193, 146);height: 1px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 15px;color: rgb(92, 18, 18);line-height: 1.8;box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            2019年1月28日，恩施土家族苗族自治州高级中学2018级毕业生向红艳带领组员回到母校，开展师大宣讲活动。宣讲采用摊位宣传的模式进行，主要由宣传华师，答疑解惑，意向建群等三部分活动组成。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-bottom: 8px;margin-left: 0%;box-sizing: border-box;">
+       <section style="background-color: rgb(225, 193, 146);height: 1px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="1.3333333" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/hOFiaNE65nsCsUdkybWHdKiaJ043RKiaHUVKwmBibymjuXzU4g0nFD2xLuISb23mVplva1rYSnfmxQKzWEbYCYLHJw/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="1.3333333" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/hOFiaNE65nsCsUdkybWHdKiaJ043RKiaHUVWLVN5cs274Q4XXyczLmaHvSHiaR4xb4hfK19cESETaW1ZQQWgF04Row/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;border-style: solid;border-width: 1px;border-radius: 0px;border-color: rgb(225, 193, 146);box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 8px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="background-color: rgb(225, 193, 146);height: 1px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 15px;color: rgb(92, 18, 18);line-height: 1.8;box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            小小的摊位，凝结的是他们对名校华师的期盼;一张张明信片，传递的是师大立德树人的理念。这半年，总是未知与奋斗相伴，也是失望与希望相交织。2019，我们在华师大再会！
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-bottom: 8px;margin-left: 0%;box-sizing: border-box;">
+       <section style="background-color: rgb(225, 193, 146);height: 1px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="1" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/hOFiaNE65nsCsUdkybWHdKiaJ043RKiaHUVqssZmDLuBbmsrbuic3qdfEW4YPqTHPibOtL5N47WVjIQHyd8MAWLIEJw/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="1" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/hOFiaNE65nsCsUdkybWHdKiaJ043RKiaHUVpr6vDBD1Mdg7zXPGTDf70icGdo86FdzamC5K1hO6RpWgHk6LY3XkhNg/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+    <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;background-color: rgb(255, 205, 210);border-top: 0px none rgb(62, 62, 62);border-top-left-radius: 8px;overflow: hidden;border-bottom: 0px none rgb(62, 62, 62);border-bottom-right-radius: 0px;border-right: 0px none rgb(62, 62, 62);border-top-right-radius: 8px;padding-top: 10px;padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;background-color: rgb(255, 255, 255);border-top: 0px none rgb(62, 62, 62);border-top-left-radius: 4px;overflow: hidden;border-right: 0px none rgb(62, 62, 62);border-top-right-radius: 4px;padding: 10px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section class="tn-yzk-fuid-text-32160-1548244521106" style="font-size: 20px;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            五．合肥市第一中学
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;color: rgb(92, 18, 18);box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            成员：王靓羽、朱清怡、温逍、刘畅、
+           </p>
+           <p style="text-align: center;box-sizing: border-box;">
+            鲍宪峰、孟祥宇、高章燕、邹越龙
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;border-style: solid;border-width: 1px;border-radius: 0px;border-color: rgb(225, 193, 146);box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 8px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="background-color: rgb(225, 193, 146);height: 1px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 15px;color: rgb(92, 18, 18);line-height: 1.8;box-sizing: border-box;">
+           <p style="white-space: normal;box-sizing: border-box;">
+            2019年1月27日，八名成员前往合肥一中进行宣讲。成员们就各自不同的专业展开了分模块介绍环节，将专业导航与师大整体介绍融为一体，内容丰富。此外，活动还设置了问答咨询环节，更加深入地为同学们释疑解惑。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-bottom: 8px;margin-left: 0%;box-sizing: border-box;">
+       <section style="background-color: rgb(225, 193, 146);height: 1px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.6675926" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/hOFiaNE65nsCsUdkybWHdKiaJ043RKiaHUVwz9F8QJv0qWZPezdB7nGjVm5QGKqL8hZIfKaEwpUdvB4ltZ1BOVicZQ/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.6675926" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/hOFiaNE65nsCsUdkybWHdKiaJ043RKiaHUVllqtfHkZnWSS0icJQKsYIiacWfuGLSO4u9icSDia8wia96icicw5BaNDfx4ag/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.6675926" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/hOFiaNE65nsCsUdkybWHdKiaJ043RKiaHUVhygdCibRicq8XJI5sSDNK7KuA2gFctibsw7uy4ygA5xAXlullwUHiaTfUA/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.6675926" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/hOFiaNE65nsCsUdkybWHdKiaJ043RKiaHUVEickpOt48vNH859RXINnOloaGdlBTCLKqaOgKiaCNxveMMKibYSJd29tQ/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;width: 20%;box-sizing: border-box;">
+     <img class="raw-image" data-ratio="0.9074074" data-type="png" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_png/hOFiaNE65nsCsUdkybWHdKiaJ043RKiaHUVJboWdHHFvFO6vj5Hz3eKCUdMPGAvoVmHicdloPbeiajeKp54sZfhUwCA/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: right;box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="box-sizing: border-box;">
+      <span style="letter-spacing: 0px;box-sizing: border-box;">
+       图文收集：陆颖莹
+      </span>
+     </p>
+     <p style="box-sizing: border-box;">
+      <span style="letter-spacing: 0px;box-sizing: border-box;">
+       图文排版：向丽璇
+      </span>
+     </p>
+     <p style="box-sizing: border-box;">
+      <span style="letter-spacing: 0px;box-sizing: border-box;">
+       （教育学部学生联合会实践中心）
+      </span>
+      <br style="box-sizing: border-box;"/>
+     </p>
+     <p style="box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

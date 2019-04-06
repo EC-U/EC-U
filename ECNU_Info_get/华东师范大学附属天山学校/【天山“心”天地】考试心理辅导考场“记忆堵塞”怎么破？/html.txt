@@ -1,0 +1,863 @@
+
+ <section style="box-sizing: border-box;font-size: 16px;">
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 30px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 95%;vertical-align: top;box-shadow: rgb(233, 207, 135) 0px 0px 15px inset;padding: 5px;box-sizing: border-box;">
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: -20px 0% 5px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.0604167" data-type="png" data-w="480" src="https://mmbiz.qpic.cn/mmbiz_png/ve7vbppDLZ76DOiarxAZs8T9s6ic1XdISF5u6EnYHxtYspNhoCJF75KcctVWIBNu1ia02rGzRO7NNEeOMdcs9BSFg/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: bottom;width: 30%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="display: inline-block;vertical-align: top;width: 50%;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin: 0px 0%;box-sizing: border-box;">
+             <section style="width: 2em;display: inline-block;vertical-align: middle;box-sizing: border-box;">
+              <section style="border-width: 1px;border-style: dashed;border-color: rgb(202, 180, 118);width: 2em;height: 2em;float: left;line-height: 2em;box-sizing: border-box;font-size: 18px;">
+               <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+                <strong style="box-sizing: border-box;">
+                 考
+                </strong>
+               </p>
+              </section>
+              <section style="width: 2em;box-sizing: border-box;">
+               <section style="width: 0px;height: 2em;margin: 0px auto -1em;border-left: 1px solid rgb(230, 230, 230);border-top-color: rgb(230, 230, 230);border-right-color: rgb(230, 230, 230);border-bottom-color: rgb(230, 230, 230);box-sizing: border-box;">
+               </section>
+               <section style="width: 2em;height: 0px;border-top: 1px solid rgb(230, 230, 230);border-right-color: rgb(230, 230, 230);border-bottom-color: rgb(230, 230, 230);border-left-color: rgb(230, 230, 230);box-sizing: border-box;">
+               </section>
+              </section>
+              <section style="clear: both;box-sizing: border-box;">
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+          <section style="display: inline-block;vertical-align: top;width: 50%;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin: 0px 0%;box-sizing: border-box;">
+             <section style="width: 2em;display: inline-block;vertical-align: middle;box-sizing: border-box;">
+              <section style="border-width: 1px;border-style: dashed;border-color: rgb(202, 180, 118);width: 2em;height: 2em;float: left;line-height: 2em;box-sizing: border-box;font-size: 18px;">
+               <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+                <strong style="box-sizing: border-box;">
+                 试
+                </strong>
+               </p>
+              </section>
+              <section style="width: 2em;box-sizing: border-box;">
+               <section style="width: 0px;height: 2em;margin: 0px auto -1em;border-left: 1px solid rgb(230, 230, 230);border-top-color: rgb(230, 230, 230);border-right-color: rgb(230, 230, 230);border-bottom-color: rgb(230, 230, 230);box-sizing: border-box;">
+               </section>
+               <section style="width: 2em;height: 0px;border-top: 1px solid rgb(230, 230, 230);border-right-color: rgb(230, 230, 230);border-bottom-color: rgb(230, 230, 230);border-left-color: rgb(230, 230, 230);box-sizing: border-box;">
+               </section>
+              </section>
+              <section style="clear: both;box-sizing: border-box;">
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: bottom;width: 70%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;padding: 0px 5px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: right;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            “记忆堵塞”怎么破？
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0.5em 0px;box-sizing: border-box;">
+       <section style="background-color: rgba(202, 180, 118, 0.5);height: 3px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;letter-spacing: 0px;padding: 10px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 10px 0% 0px;box-sizing: border-box;">
+          <section style="text-align: justify;letter-spacing: 1px;line-height: 2;color: rgb(79, 118, 120);box-sizing: border-box;">
+           <p style="text-indent: 2em;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            期末考试即将来临，在紧张的复习之余，有些同学担心自己会出现“考场失忆、大脑空白”的情况，从而影响正常水平的发挥。那么，在考场上我们该如何应对这种“记忆堵塞”的情况呢？
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-shadow: rgb(0, 0, 0) 0px 0px 0px;border-width: 0px;border-radius: 3px;border-style: none;border-color: rgb(62, 62, 62);overflow: hidden;box-sizing: border-box;">
+           <img class="raw-image" data-ratio="0.724" data-type="jpeg" data-w="500" src="https://mmbiz.qpic.cn/mmbiz_jpg/3najcUbhc7sht5TmByiaEMJTsia7LBbMqq8dF3WgxlVAmx3h0AMW1M4aFQJZibVQJh0f7ia1ibOEyVBAf4YYGfgBHWA/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 10px 0% 0px;box-sizing: border-box;">
+          <section style="text-align: justify;letter-spacing: 1px;line-height: 2;color: rgb(79, 118, 120);box-sizing: border-box;">
+           <p style="text-indent: 2em;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            <span style="text-indent: 2em;box-sizing: border-box;">
+             同学们一定要认识到考试中遇到“题目会做，一时没思路”的情况是一种很常见的现象，不必慌张，你需要沉着冷静，不妨试试以下妙招！
+            </span>
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+          <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+           <section style="display: inline-block;vertical-align: bottom;line-height: 0;width: 1.6em;margin-right: -0.8em;box-sizing: border-box;">
+            <img class="raw-image" data-ratio="1.6866667" data-type="gif" data-w="300" src="https://mmbiz.qpic.cn/mmbiz_gif/CN1JY5HSjrvUrn28ErnXnLy8E0c9ompjibp6ut5JmwOuuzPmJDRUiaJLRZbvvNVNMUyvBFFiaSA0laU0hf9VBc5LA/640?wx_fmt=gif" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+           </section>
+           <section style="border-radius: 5px;display: inline-block;vertical-align: bottom;border-color: rgb(255, 202, 0);border-bottom-style: dashed;border-bottom-width: 1px;padding: 0px 20px;line-height: 1.2em;color: rgb(5, 5, 5);font-size: 18px;box-sizing: border-box;">
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             <strong style="box-sizing: border-box;">
+              环境追忆法
+             </strong>
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: justify;line-height: 1.8;letter-spacing: 1px;box-sizing: border-box;">
+           <p style="text-indent: 2em;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            在考场上，一旦我们想不起自己曾背诵过的公式、概念的时候，我们可以回想一下当时我们背诵这些公式、概念时的某些情景。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgba(255, 202, 0, 0.33);padding: 10px 0px 0px;border-width: 0px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px 15px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="0.6671875" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/3najcUbhc7sht5TmByiaEMJTsia7LBbMqq9BxOYVncQiahj0aqzLxibxDMMm9GXK2OmvQPPYU8AcQGmbElUZHHlRpQ/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin: 10px 0% 0px;box-sizing: border-box;">
+             <section style="text-align: right;color: rgb(79, 118, 120);line-height: 1.8;letter-spacing: 1px;box-sizing: border-box;">
+              <p style="text-indent: 2em;text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               例如，你想起“当时，我是坐在学校操场边的一张石凳上记下它们的，我一边看着场上大汗淋漓的球员，一边反复记下这些公式和概念……”倘若你能回忆起这些东西就好办多了。因为人的记忆是非常奇妙的，有时人只要能回想起初次进行记忆的一些情景，所有的事情都能被自己回忆起来。这一点，已经为无数人的经验所证实。
+              </p>
+              <p style="text-indent: 2em;text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: -5px 0% -3px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+           <svg class="svg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;" viewbox="0 0 630.7 35" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+            <g style="box-sizing: border-box;">
+             <g style="box-sizing: border-box;">
+              <path d="M10.9,19.9c6,0,10.9,6.7,10.9,15H0C0,26.7,4.9,19.9,10.9,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M32.6,19.9c6,0,10.9,6.7,10.9,15H21.7C21.7,26.7,26.6,19.9,32.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M54.4,19.9c6,0,10.9,6.7,10.9,15H43.5C43.5,26.7,48.4,19.9,54.4,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M76.1,19.9c6,0,10.9,6.7,10.9,15H65.2C65.2,26.7,70.1,19.9,76.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M97.8,19.9c6,0,10.9,6.7,10.9,15H87C87,26.7,91.8,19.9,97.8,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M119.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C108.7,26.7,113.6,19.9,119.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M141.3,19.9c6,0,10.9,6.7,10.9,15h-21.7C130.4,26.7,135.3,19.9,141.3,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M163.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C152.2,26.7,157.1,19.9,163.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+             </g>
+             <g style="box-sizing: border-box;">
+              <path d="M184.9,20c6,0,10.9,6.7,10.9,15H174C174,26.7,178.9,20,184.9,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M206.6,20c6,0,10.9,6.7,10.9,15h-21.7C195.7,26.7,200.6,20,206.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M228.4,20c6,0,10.9,6.7,10.9,15h-21.7C217.5,26.7,222.4,20,228.4,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M250.1,20c6,0,10.9,6.7,10.9,15h-21.7C239.2,26.7,244.1,20,250.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M271.8,20c6,0,10.9,6.7,10.9,15H261C261,26.7,265.8,20,271.8,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M293.6,20c6,0,10.9,6.7,10.9,15h-21.7C282.7,26.7,287.6,20,293.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M315.3,20c6,0,10.9,6.7,10.9,15h-21.7C304.4,26.7,309.3,20,315.3,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M337.1,20c6,0,10.9,6.7,10.9,15h-21.7C326.2,26.7,331.1,20,337.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+             </g>
+             <g style="box-sizing: border-box;">
+              <path d="M358.9,19.9c6,0,10.9,6.7,10.9,15H348C348,26.7,352.9,19.9,358.9,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M380.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C369.7,26.7,374.6,19.9,380.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M402.4,19.9c6,0,10.9,6.7,10.9,15h-21.7C391.5,26.7,396.4,19.9,402.4,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M424.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C413.2,26.7,418.1,19.9,424.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M445.8,19.9c6,0,10.9,6.7,10.9,15H435C435,26.7,439.8,19.9,445.8,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M467.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C456.7,26.7,461.6,19.9,467.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M489.3,19.9c6,0,10.9,6.7,10.9,15h-21.7C478.4,26.7,483.3,19.9,489.3,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M511.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C500.2,26.7,505.1,19.9,511.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+             </g>
+             <g style="box-sizing: border-box;">
+              <path d="M532.9,20c6,0,10.9,6.7,10.9,15H522C522,26.7,526.9,20,532.9,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M554.6,20c6,0,10.9,6.7,10.9,15h-21.7C543.7,26.7,548.6,20,554.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M576.4,20c6,0,10.9,6.7,10.9,15h-21.7C565.5,26.7,570.4,20,576.4,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M598.1,20c6,0,10.9,6.7,10.9,15h-21.7C587.2,26.7,592.1,20,598.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M619.8,20c6,0,10.9,6.7,10.9,15H609C609,26.7,613.8,20,619.8,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+             </g>
+            </g>
+           </svg>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="border-radius: 5px;display: inline-block;vertical-align: bottom;border-color: rgb(255, 202, 0);border-bottom-style: dashed;border-bottom-width: 1px;padding: 0px 20px;line-height: 1.2em;color: rgb(5, 5, 5);font-size: 18px;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           顺藤摸瓜法
+          </strong>
+         </p>
+        </section>
+        <section style="display: inline-block;vertical-align: bottom;line-height: 0;width: 1.6em;margin-left: -0.8em;box-sizing: border-box;">
+         <img class="raw-image" data-ratio="1.6866667" data-type="gif" data-w="300" src="https://mmbiz.qpic.cn/mmbiz_gif/CN1JY5HSjrvUrn28ErnXnLy8E0c9ompjibp6ut5JmwOuuzPmJDRUiaJLRZbvvNVNMUyvBFFiaSA0laU0hf9VBc5LA/640?wx_fmt=gif" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;line-height: 1.8;letter-spacing: 1px;box-sizing: border-box;">
+        <p style="text-indent: 2em;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         顺藤摸瓜法，是通过一些微小的线索，循序渐进，最后实现记忆内容一一再现的一种方法。通常来说，通过视觉来巩固大脑中的记忆，远远要比通过听觉来巩固大脑中的记忆更为深刻。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgba(255, 202, 0, 0.33);padding: 10px 0px 0px;border-width: 0px;border-radius: 5px;border-style: none;border-color: rgb(62, 62, 62);overflow: hidden;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px 15px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="0.6618005" data-type="png" data-w="411" src="https://mmbiz.qpic.cn/mmbiz_png/3najcUbhc7sht5TmByiaEMJTsia7LBbMqqMexqWuNmA7SicY56hbB2S16KjMRb4D8DFC5yWmPMLKotCVmicia6OzfSg/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin: 10px 0% 0px;box-sizing: border-box;">
+             <section style="text-align: right;color: rgb(79, 118, 120);line-height: 1.8;letter-spacing: 1px;box-sizing: border-box;">
+              <p style="text-indent: 2em;text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               你可以想想自己在进行记忆时所用到的笔记本或是课本，等等。一旦你想起来这道公式所在的“具体地点”，再进一步搜索到底是在哪一页——“啊，对了，是在有红色墨渍的那一页”“啊，对了，是在有一张笔墨很浓重的大插图的那一页”……如此一来，你便很快能够回忆起一切来了。
+              </p>
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: -5px 0% -3px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+           <svg class="svg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;" viewbox="0 0 630.7 35" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+            <g style="box-sizing: border-box;">
+             <g style="box-sizing: border-box;">
+              <path d="M10.9,19.9c6,0,10.9,6.7,10.9,15H0C0,26.7,4.9,19.9,10.9,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M32.6,19.9c6,0,10.9,6.7,10.9,15H21.7C21.7,26.7,26.6,19.9,32.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M54.4,19.9c6,0,10.9,6.7,10.9,15H43.5C43.5,26.7,48.4,19.9,54.4,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M76.1,19.9c6,0,10.9,6.7,10.9,15H65.2C65.2,26.7,70.1,19.9,76.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M97.8,19.9c6,0,10.9,6.7,10.9,15H87C87,26.7,91.8,19.9,97.8,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M119.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C108.7,26.7,113.6,19.9,119.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M141.3,19.9c6,0,10.9,6.7,10.9,15h-21.7C130.4,26.7,135.3,19.9,141.3,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M163.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C152.2,26.7,157.1,19.9,163.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+             </g>
+             <g style="box-sizing: border-box;">
+              <path d="M184.9,20c6,0,10.9,6.7,10.9,15H174C174,26.7,178.9,20,184.9,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M206.6,20c6,0,10.9,6.7,10.9,15h-21.7C195.7,26.7,200.6,20,206.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M228.4,20c6,0,10.9,6.7,10.9,15h-21.7C217.5,26.7,222.4,20,228.4,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M250.1,20c6,0,10.9,6.7,10.9,15h-21.7C239.2,26.7,244.1,20,250.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M271.8,20c6,0,10.9,6.7,10.9,15H261C261,26.7,265.8,20,271.8,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M293.6,20c6,0,10.9,6.7,10.9,15h-21.7C282.7,26.7,287.6,20,293.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M315.3,20c6,0,10.9,6.7,10.9,15h-21.7C304.4,26.7,309.3,20,315.3,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M337.1,20c6,0,10.9,6.7,10.9,15h-21.7C326.2,26.7,331.1,20,337.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+             </g>
+             <g style="box-sizing: border-box;">
+              <path d="M358.9,19.9c6,0,10.9,6.7,10.9,15H348C348,26.7,352.9,19.9,358.9,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M380.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C369.7,26.7,374.6,19.9,380.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M402.4,19.9c6,0,10.9,6.7,10.9,15h-21.7C391.5,26.7,396.4,19.9,402.4,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M424.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C413.2,26.7,418.1,19.9,424.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M445.8,19.9c6,0,10.9,6.7,10.9,15H435C435,26.7,439.8,19.9,445.8,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M467.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C456.7,26.7,461.6,19.9,467.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M489.3,19.9c6,0,10.9,6.7,10.9,15h-21.7C478.4,26.7,483.3,19.9,489.3,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M511.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C500.2,26.7,505.1,19.9,511.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+             </g>
+             <g style="box-sizing: border-box;">
+              <path d="M532.9,20c6,0,10.9,6.7,10.9,15H522C522,26.7,526.9,20,532.9,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M554.6,20c6,0,10.9,6.7,10.9,15h-21.7C543.7,26.7,548.6,20,554.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M576.4,20c6,0,10.9,6.7,10.9,15h-21.7C565.5,26.7,570.4,20,576.4,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M598.1,20c6,0,10.9,6.7,10.9,15h-21.7C587.2,26.7,592.1,20,598.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M619.8,20c6,0,10.9,6.7,10.9,15H609C609,26.7,613.8,20,619.8,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+             </g>
+            </g>
+           </svg>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="display: inline-block;vertical-align: bottom;line-height: 0;width: 1.6em;margin-right: -0.8em;box-sizing: border-box;">
+         <img class="raw-image" data-ratio="1.6866667" data-type="gif" data-w="300" src="https://mmbiz.qpic.cn/mmbiz_gif/CN1JY5HSjrvUrn28ErnXnLy8E0c9ompjibp6ut5JmwOuuzPmJDRUiaJLRZbvvNVNMUyvBFFiaSA0laU0hf9VBc5LA/640?wx_fmt=gif" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+        </section>
+        <section style="border-radius: 5px;display: inline-block;vertical-align: bottom;border-color: rgb(255, 202, 0);border-bottom-style: dashed;border-bottom-width: 1px;padding: 0px 20px;line-height: 1.2em;color: rgb(5, 5, 5);font-size: 18px;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           审题淘金法
+          </strong>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: justify;line-height: 1.8;letter-spacing: 1px;box-sizing: border-box;">
+        <p style="text-indent: 2em;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         在考场上，考生有时忽然想不起或答不出答案，还有可能是因为审题不准。因此，当你解答不出题目时，可以尝试再次仔细审查题目，看看试题中有没有一些使你灵光一闪的关键词语能够帮助你进行回忆，或者能够刺激你回忆起自己在进行记忆时的状态。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgba(255, 202, 0, 0.33);padding: 10px 0px 0px;border-width: 0px;border-radius: 5px;border-style: none;border-color: rgb(62, 62, 62);overflow: hidden;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px 15px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="0.67" data-type="jpeg" data-w="500" src="https://mmbiz.qpic.cn/mmbiz_jpg/3najcUbhc7sht5TmByiaEMJTsia7LBbMqqpC8UwmBofXfjENrbJqlebhtb8gatibgQib6MWDauSlJq8rBQw7jzTdKA/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin: 10px 0% 0px;box-sizing: border-box;">
+             <section style="text-align: right;color: rgb(79, 118, 120);line-height: 1.8;letter-spacing: 1px;box-sizing: border-box;">
+              <p style="text-indent: 2em;text-align: justify;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               举个例子：有位同学在考数学时，他以附在某考题后面的a﹥0为线索，想出了自己原本忘记了的一道数学公式。其实，当这道题目的出题者写出a﹥0时，就意味着“在a比0大的范围内找出正确的答案”；如果“a不比0大”，那么，考生所运用的公式就错了。而这位聪明的同学正是因为考题中的这个提示，获得了解题的思路。
+              </p>
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: -5px 0% -3px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+           <svg class="svg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;" viewbox="0 0 630.7 35" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+            <g style="box-sizing: border-box;">
+             <g style="box-sizing: border-box;">
+              <path d="M10.9,19.9c6,0,10.9,6.7,10.9,15H0C0,26.7,4.9,19.9,10.9,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M32.6,19.9c6,0,10.9,6.7,10.9,15H21.7C21.7,26.7,26.6,19.9,32.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M54.4,19.9c6,0,10.9,6.7,10.9,15H43.5C43.5,26.7,48.4,19.9,54.4,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M76.1,19.9c6,0,10.9,6.7,10.9,15H65.2C65.2,26.7,70.1,19.9,76.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M97.8,19.9c6,0,10.9,6.7,10.9,15H87C87,26.7,91.8,19.9,97.8,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M119.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C108.7,26.7,113.6,19.9,119.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M141.3,19.9c6,0,10.9,6.7,10.9,15h-21.7C130.4,26.7,135.3,19.9,141.3,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M163.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C152.2,26.7,157.1,19.9,163.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+             </g>
+             <g style="box-sizing: border-box;">
+              <path d="M184.9,20c6,0,10.9,6.7,10.9,15H174C174,26.7,178.9,20,184.9,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M206.6,20c6,0,10.9,6.7,10.9,15h-21.7C195.7,26.7,200.6,20,206.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M228.4,20c6,0,10.9,6.7,10.9,15h-21.7C217.5,26.7,222.4,20,228.4,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M250.1,20c6,0,10.9,6.7,10.9,15h-21.7C239.2,26.7,244.1,20,250.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M271.8,20c6,0,10.9,6.7,10.9,15H261C261,26.7,265.8,20,271.8,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M293.6,20c6,0,10.9,6.7,10.9,15h-21.7C282.7,26.7,287.6,20,293.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M315.3,20c6,0,10.9,6.7,10.9,15h-21.7C304.4,26.7,309.3,20,315.3,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M337.1,20c6,0,10.9,6.7,10.9,15h-21.7C326.2,26.7,331.1,20,337.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+             </g>
+             <g style="box-sizing: border-box;">
+              <path d="M358.9,19.9c6,0,10.9,6.7,10.9,15H348C348,26.7,352.9,19.9,358.9,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M380.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C369.7,26.7,374.6,19.9,380.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M402.4,19.9c6,0,10.9,6.7,10.9,15h-21.7C391.5,26.7,396.4,19.9,402.4,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M424.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C413.2,26.7,418.1,19.9,424.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M445.8,19.9c6,0,10.9,6.7,10.9,15H435C435,26.7,439.8,19.9,445.8,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M467.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C456.7,26.7,461.6,19.9,467.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M489.3,19.9c6,0,10.9,6.7,10.9,15h-21.7C478.4,26.7,483.3,19.9,489.3,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M511.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C500.2,26.7,505.1,19.9,511.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+             </g>
+             <g style="box-sizing: border-box;">
+              <path d="M532.9,20c6,0,10.9,6.7,10.9,15H522C522,26.7,526.9,20,532.9,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M554.6,20c6,0,10.9,6.7,10.9,15h-21.7C543.7,26.7,548.6,20,554.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M576.4,20c6,0,10.9,6.7,10.9,15h-21.7C565.5,26.7,570.4,20,576.4,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M598.1,20c6,0,10.9,6.7,10.9,15h-21.7C587.2,26.7,592.1,20,598.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M619.8,20c6,0,10.9,6.7,10.9,15H609C609,26.7,613.8,20,619.8,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+             </g>
+            </g>
+           </svg>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: middle;box-sizing: border-box;">
+        <section style="border-radius: 5px;display: inline-block;vertical-align: bottom;border-color: rgb(255, 202, 0);border-bottom-style: dashed;border-bottom-width: 1px;padding: 0px 20px;line-height: 1.2em;color: rgb(5, 5, 5);font-size: 18px;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           借力打力法
+          </strong>
+         </p>
+        </section>
+        <section style="display: inline-block;vertical-align: bottom;line-height: 0;width: 1.6em;margin-left: -0.8em;box-sizing: border-box;">
+         <img class="raw-image" data-ratio="1.6866667" data-type="gif" data-w="300" src="https://mmbiz.qpic.cn/mmbiz_gif/CN1JY5HSjrvUrn28ErnXnLy8E0c9ompjibp6ut5JmwOuuzPmJDRUiaJLRZbvvNVNMUyvBFFiaSA0laU0hf9VBc5LA/640?wx_fmt=gif" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;line-height: 1.8;letter-spacing: 1px;box-sizing: border-box;">
+        <p style="text-align: justify;text-indent: 2em;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         如果上面所介绍的几个方法对击退“记忆堵塞”都失去效力的话，我们又该怎么办呢？或许，聪明的考生最后还会拿出一个杀手锏——利用考卷上其他的考题来达到记忆再现的目的。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgba(255, 202, 0, 0.33);padding: 10px 0px 0px;border-width: 0px;border-radius: 5px;border-style: none;border-color: rgb(62, 62, 62);overflow: hidden;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px 15px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+              <img class="raw-image" data-ratio="0.7115903" data-type="jpeg" data-w="371" src="https://mmbiz.qpic.cn/mmbiz_jpg/3najcUbhc7sht5TmByiaEMJTsia7LBbMqqQUr5agEgH3JEowbvfz5BPrccAcWODQ9rWoawME34YNob3mtdd9Kkxw/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin: 10px 0% 0px;box-sizing: border-box;">
+             <section style="text-align: justify;color: rgb(79, 118, 120);line-height: 1.8;letter-spacing: 1px;box-sizing: border-box;">
+              <p style="text-indent: 2em;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               在标准化的考试中，通常都会要求考生解答大量的试题，在这些试题中，往往就有可能隐藏着解出前面考题的一些线索，所以，考生们千万不要轻易放过这些线索。当我们发现它时，应尽可能地展开自己记忆联想的翅膀，让熟悉的知识一一回到你的脑海中。
+              </p>
+              <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <br style="box-sizing: border-box;"/>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: -5px 0% -3px;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+           <svg class="svg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;" viewbox="0 0 630.7 35" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+            <g style="box-sizing: border-box;">
+             <g style="box-sizing: border-box;">
+              <path d="M10.9,19.9c6,0,10.9,6.7,10.9,15H0C0,26.7,4.9,19.9,10.9,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M32.6,19.9c6,0,10.9,6.7,10.9,15H21.7C21.7,26.7,26.6,19.9,32.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M54.4,19.9c6,0,10.9,6.7,10.9,15H43.5C43.5,26.7,48.4,19.9,54.4,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M76.1,19.9c6,0,10.9,6.7,10.9,15H65.2C65.2,26.7,70.1,19.9,76.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M97.8,19.9c6,0,10.9,6.7,10.9,15H87C87,26.7,91.8,19.9,97.8,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M119.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C108.7,26.7,113.6,19.9,119.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M141.3,19.9c6,0,10.9,6.7,10.9,15h-21.7C130.4,26.7,135.3,19.9,141.3,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M163.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C152.2,26.7,157.1,19.9,163.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+             </g>
+             <g style="box-sizing: border-box;">
+              <path d="M184.9,20c6,0,10.9,6.7,10.9,15H174C174,26.7,178.9,20,184.9,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M206.6,20c6,0,10.9,6.7,10.9,15h-21.7C195.7,26.7,200.6,20,206.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M228.4,20c6,0,10.9,6.7,10.9,15h-21.7C217.5,26.7,222.4,20,228.4,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M250.1,20c6,0,10.9,6.7,10.9,15h-21.7C239.2,26.7,244.1,20,250.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M271.8,20c6,0,10.9,6.7,10.9,15H261C261,26.7,265.8,20,271.8,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M293.6,20c6,0,10.9,6.7,10.9,15h-21.7C282.7,26.7,287.6,20,293.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M315.3,20c6,0,10.9,6.7,10.9,15h-21.7C304.4,26.7,309.3,20,315.3,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M337.1,20c6,0,10.9,6.7,10.9,15h-21.7C326.2,26.7,331.1,20,337.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+             </g>
+             <g style="box-sizing: border-box;">
+              <path d="M358.9,19.9c6,0,10.9,6.7,10.9,15H348C348,26.7,352.9,19.9,358.9,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M380.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C369.7,26.7,374.6,19.9,380.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M402.4,19.9c6,0,10.9,6.7,10.9,15h-21.7C391.5,26.7,396.4,19.9,402.4,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M424.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C413.2,26.7,418.1,19.9,424.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M445.8,19.9c6,0,10.9,6.7,10.9,15H435C435,26.7,439.8,19.9,445.8,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M467.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C456.7,26.7,461.6,19.9,467.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M489.3,19.9c6,0,10.9,6.7,10.9,15h-21.7C478.4,26.7,483.3,19.9,489.3,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M511.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C500.2,26.7,505.1,19.9,511.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+             </g>
+             <g style="box-sizing: border-box;">
+              <path d="M532.9,20c6,0,10.9,6.7,10.9,15H522C522,26.7,526.9,20,532.9,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M554.6,20c6,0,10.9,6.7,10.9,15h-21.7C543.7,26.7,548.6,20,554.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M576.4,20c6,0,10.9,6.7,10.9,15h-21.7C565.5,26.7,570.4,20,576.4,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M598.1,20c6,0,10.9,6.7,10.9,15h-21.7C587.2,26.7,592.1,20,598.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+              <path d="M619.8,20c6,0,10.9,6.7,10.9,15H609C609,26.7,613.8,20,619.8,20z" fill="#ffffff" style="box-sizing: border-box;">
+              </path>
+             </g>
+            </g>
+           </svg>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0% 0px;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 16%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;box-sizing: border-box;">
+          <section style='display: inline-block;width: 50px;height: 30px;vertical-align: top;overflow: hidden;background-position: 50% 50%;background-repeat: no-repeat;background-size: contain;background-attachment: scroll;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/zB7o3M8rmMvoYUalHdBHuyjKVFn6jlohytOJpKcXaheXzaF2EqkKRIRKicwHric736HsRcz7PRWb27cyLRLLuklg/640?wx_fmt=png");box-sizing: border-box;'>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin: 6px 0% 0px;box-sizing: border-box;">
+             <section style="font-size: 18px;color: rgb(255, 255, 255);box-sizing: border-box;">
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="text-shadow: rgb(116, 9, 9) 1px 0px 6px;box-sizing: border-box;">
+                考
+               </span>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 16%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;box-sizing: border-box;">
+          <section style='display: inline-block;width: 50px;height: 30px;vertical-align: top;overflow: hidden;background-position: 50% 50%;background-repeat: no-repeat;background-size: contain;background-attachment: scroll;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/zB7o3M8rmMvoYUalHdBHuyjKVFn6jlohytOJpKcXaheXzaF2EqkKRIRKicwHric736HsRcz7PRWb27cyLRLLuklg/640?wx_fmt=png");box-sizing: border-box;'>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin: 6px 0% 0px;box-sizing: border-box;">
+             <section style="font-size: 18px;color: rgb(255, 255, 255);box-sizing: border-box;">
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="text-shadow: rgb(116, 9, 9) 1px 0px 6px;box-sizing: border-box;">
+                试
+               </span>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 16%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;box-sizing: border-box;">
+          <section style='display: inline-block;width: 50px;height: 30px;vertical-align: top;overflow: hidden;background-position: 50% 50%;background-repeat: no-repeat;background-size: contain;background-attachment: scroll;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/zB7o3M8rmMvoYUalHdBHuyjKVFn6jlohytOJpKcXaheXzaF2EqkKRIRKicwHric736HsRcz7PRWb27cyLRLLuklg/640?wx_fmt=png");box-sizing: border-box;'>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin: 6px 0% 0px;box-sizing: border-box;">
+             <section style="font-size: 18px;color: rgb(255, 255, 255);box-sizing: border-box;">
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="text-shadow: rgb(116, 9, 9) 1px 0px 6px;box-sizing: border-box;">
+                顺
+               </span>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 16%;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;box-sizing: border-box;">
+          <section style='display: inline-block;width: 50px;height: 30px;vertical-align: top;overflow: hidden;background-position: 50% 50%;background-repeat: no-repeat;background-size: contain;background-attachment: scroll;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/zB7o3M8rmMvoYUalHdBHuyjKVFn6jlohytOJpKcXaheXzaF2EqkKRIRKicwHric736HsRcz7PRWb27cyLRLLuklg/640?wx_fmt=png");box-sizing: border-box;'>
+           <section powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin: 6px 0% 0px;box-sizing: border-box;">
+             <section style="font-size: 18px;color: rgb(255, 255, 255);box-sizing: border-box;">
+              <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+               <span style="text-shadow: rgb(116, 9, 9) 1px 0px 6px;box-sizing: border-box;">
+                利
+               </span>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0% 10px;box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;border-top: 3px solid rgb(237, 193, 203);border-top-left-radius: 0px;border-bottom: 3px solid rgb(237, 193, 203);border-bottom-right-radius: 0px;padding: 10px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+        <section powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin: 10px 0% 0px;box-sizing: border-box;">
+          <section style="text-align: justify;line-height: 1.8;letter-spacing: 1px;color: rgb(79, 118, 120);box-sizing: border-box;">
+           <p style="text-indent: 2em;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            考试中出现暂时的“记忆堵塞”现象是一种正常的心理现象，不足为奇。只要同学们有坚定的信心和平常的心态，采取适当的办法，就一定能摆脱困境，发挥出自己的水平。
+           </p>
+           <p style="text-indent: 2em;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+            最后，祝同学们在期末考试中取得满意的成绩，加油！
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;font-size: 15px;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         文稿：罗丹
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         编辑：罗丹
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         审核：校务办
+        </p>
+       </section>
+      </section>
+     </section>
+     <section powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;line-height: 0;box-sizing: border-box;">
+        <img class="raw-image" data-ratio="0.9171875" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/3najcUbhc7sht5TmByiaEMJTsia7LBbMqqh57lC8RepcMiceOM5htjBiaSy3roBI6QiatV4p6kLe7QXGy0Wgkvk8Ujw/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>

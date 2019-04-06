@@ -1,0 +1,318 @@
+
+ <p style="white-space: normal;">
+  <span style="font-size: 14px;">
+   <span style="font-family: 微软雅黑; word-wrap: break-word; color: rgb(51, 51, 51); line-height: 21px; background-color: rgb(255, 255, 255);">
+    <strong style="margin: 0px; padding: 0px; max-width: 100%; word-wrap: break-word; text-align: justify; text-indent: 28px; color: rgb(86, 86, 86); font-family: 宋体, Arial, Helvetica, sans-serif; line-height: 30px; box-sizing: border-box !important;">
+     <img data-ratio="0.14031620553359683" data-type="gif" data-w="" src="http://mmbiz.qpic.cn/mmbiz/uSDicXA6ibFoIrbuf72JRGV05vGdKoat78c20IMjHJDMBjibE9PV6JQBBhUmW4uNaYeb794Vk4I5V1Zcq08XcfxPQ/0" style="margin: 0px; padding: 0px; color: rgb(62, 62, 62); line-height: 25.6000003814697px; font-family: 宋体; box-sizing: border-box !important; word-wrap: break-word !important; width: auto !important; visibility: visible !important;" width="auto"/>
+    </strong>
+   </span>
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <span style="font-size: 14px;">
+   <span style="font-family: 微软雅黑; word-wrap: break-word; color: rgb(51, 51, 51); line-height: 21px; background-color: rgb(255, 255, 255);">
+    美国拥有世界上最大的国民高等教育体系，有近3000所大学，上千个大学专业。你可能对那些大学的名字耳熟能详，但你了解大学里的专业吗？不论你是已经在留学中还是即将步上留学的征途，你都需要好好了解一下每一个专业的研究内容以及未来的发展方向。
+   </span>
+   <br style=""/>
+   <br style=""/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word; color: rgb(51, 51, 51); line-height: 21px; background-color: rgb(255, 255, 255);">
+    技术(Technology)
+    <br style="word-wrap: break-word;"/>
+   </span>
+   <br style=""/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word; color: rgb(51, 51, 51); line-height: 21px; background-color: yellow;">
+    计算机科学 Computer Science
+   </span>
+   <br style=""/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word; color: rgb(51, 51, 51); line-height: 21px; background-color: rgb(255, 255, 255);">
+    <br style="word-wrap: break-word;"/>
+   </span>
+   <br style=""/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word; color: rgb(51, 51, 51); line-height: 21px; background-color: rgb(255, 255, 255);">
+    <span style="word-wrap: break-word;">
+     计算机技术
+    </span>
+    已经广泛应用于日常生活、生产、科学研究等方面。计算机科学专业学习计算机系统和软件的原理与设计，研究计算机的应用，以培养软件专业人员为主。主要课程有程序设计、数据结构、计算机系统组织、自动控制与语言、算法原理、数字系统设计、操作系统、软件工程、汇编语言、数据库设计原理、人工智能、机器人等。
+   </span>
+   <br style=""/>
+   <br style=""/>
+   <br style=""/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word; color: rgb(51, 51, 51); line-height: 21px; background-color: rgb(255, 255, 255);">
+    <span style="word-wrap: break-word; font-weight: 700;">
+     基础知识：
+    </span>
+    数学、科学、人文学科；逻辑思维，耐心、细致、永无休止的学习精神。
+   </span>
+   <br style=""/>
+   <br style=""/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word; color: rgb(51, 51, 51); line-height: 21px; background-color: rgb(255, 255, 255);">
+    <span style="word-wrap: break-word; font-weight: 700;">
+     就业：
+    </span>
+    就业市场巨大。80%的学生在公司工作，主要当计算机编程员、计算机系统分析师、计算机工程师、信息系统分析师、管理人员。
+   </span>
+   <br style=""/>
+   <br style=""/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word; color: rgb(51, 51, 51); line-height: 21px; background-color: rgb(255, 255, 255);">
+    <span style="word-wrap: break-word; font-weight: 700;">
+     你知道吗：
+    </span>
+    当你选择了计算机专业，并决定把它作为职业的时候，你就要作好一辈子吃苦的思想准备。计算机日新月异的技术发展使你和学电子工程专业的人一样，只有“活到老，学到老”，才不至于被淘汰。
+   </span>
+   <br style=""/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word; color: rgb(51, 51, 51); line-height: 21px; background-color: rgb(255, 255, 255);">
+    <br style="word-wrap: break-word;"/>
+   </span>
+   <br style=""/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word; color: rgb(51, 51, 51); line-height: 21px; background-color: yellow;">
+    数据与信息处理 Data and Information Processing
+   </span>
+   <br style=""/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word; color: rgb(51, 51, 51); line-height: 21px; background-color: rgb(255, 255, 255);">
+    <br style="word-wrap: break-word;"/>
+   </span>
+   <br style=""/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word; color: rgb(51, 51, 51); line-height: 21px; background-color: rgb(255, 255, 255);">
+    数据与信息处理专业的目标是培养计算机系统管理员，要求学生具有构思、设计、安装、调试的能力，并能执行各种个人、商业和其他组织、机构的计算机办公系统。主要课程有编程、数据结构、信息系统、操作系统、数据修复与采集、目标编程、网络和网页设计、电子商业网站建立等。
+   </span>
+   <br style=""/>
+   <br style=""/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word; color: rgb(51, 51, 51); line-height: 21px; font-weight: 700; background-color: rgb(255, 255, 255);">
+    基础知识
+   </span>
+   <span style="font-family: 微软雅黑; word-wrap: break-word; color: rgb(51, 51, 51); line-height: 21px; background-color: rgb(255, 255, 255);">
+    <span style="word-wrap: break-word; font-weight: 700;">
+     ：
+    </span>
+    数学、物理；有创造性思维，动手能力强，能熬夜，体力好（经常搬动设备）。
+   </span>
+   <br style=""/>
+   <br style=""/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word; color: rgb(51, 51, 51); line-height: 21px; background-color: rgb(255, 255, 255);">
+    <span style="word-wrap: break-word; font-weight: 700;">
+     就业：
+    </span>
+    <span style="font-size: 14px; font-family: 微软雅黑; word-wrap: break-word; color: rgb(51, 51, 51); line-height: 21px; background-color: rgb(255, 255, 255);">
+     市场需求量很大。主要职业为计算机程序员、计算机系统分析师、系统管理员。
+    </span>
+   </span>
+   <br style=""/>
+   <br style=""/>
+   <br style=""/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word; color: rgb(51, 51, 51); line-height: 21px; background-color: yellow;">
+    电机、电子工程技术 Electrical &amp; Electronic Engineering Technology
+   </span>
+   <br style=""/>
+   <br style=""/>
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <span style="font-size: 14px;">
+   <span style="font-family: 微软雅黑; word-wrap: break-word;">
+    电机、电子工程技术专业学习分析、设计、测试、维修、开发、生产电气和电子设备和系统，包括无线电、雷达、电视、工业与医疗设备，也包括计算机系统的设计、生产、测试、维修等。所以，这个专业也叫电机与计算机工程技术。学习的主要课程有电学、系统分析、统计、模拟和数字电路、电子计算机辅助作图（CAD）、微处理机和微控制器、微波技术、光学技术、机械加工、数据通讯、计算机网络和技术报告写作等。
+   </span>
+   <br style="word-wrap: break-word;"/>
+   <br style="word-wrap: break-word;"/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word;">
+    <span style="word-wrap: break-word; font-weight: 700;">
+     基础知识：
+    </span>
+    <span style="word-wrap: break-word;">
+     数学、物理、计算机，逻辑思维、创造性思维、人际交流能力。
+    </span>
+   </span>
+   <br style="word-wrap: break-word;"/>
+   <br style="word-wrap: break-word;"/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word;">
+    <span style="word-wrap: break-word; font-weight: 700;">
+     就业：
+    </span>
+    <span style="font-size: 14px; font-family: 微软雅黑; word-wrap: break-word;">
+     市场需求量中等。 80%以上的学生毕业后进入工业界，其中90%从事专业“对口”的工作，成为电机电子工程师或技术员、计算机工程师，也有的成为企业管理人员、部门主管，少数当计算机分析师、计算机程序师、推销员等等。
+    </span>
+   </span>
+   <br style="word-wrap: break-word;"/>
+   <br style="word-wrap: break-word;"/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word;">
+    <span style="word-wrap: break-word; font-weight: 700;">
+     你知道吗：
+    </span>
+    <span style="word-wrap: break-word;">
+     制造业厂家更喜欢聘用工程技术专家从事生产制造、现场维修服务的工作，而不是传统的设计工程师。因为侧重技术的工程技术专家既知道原理和设计，也有较强的实际动手能力。
+    </span>
+   </span>
+   <br style="word-wrap: break-word;"/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word;">
+    <br style="word-wrap: break-word;"/>
+   </span>
+   <br style="word-wrap: break-word;"/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word; background-color: yellow;">
+    工业生产技术 Industrial Production Technology
+   </span>
+   <br style="word-wrap: break-word;"/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word;">
+    <br style="word-wrap: break-word;"/>
+   </span>
+   <br style="word-wrap: break-word;"/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word;">
+    工业生产技术研究生产施工中的具体技术问题，如生产时间、方法、生产规范、材料运输、设备的利用等。某种工业生产技术可能涉及多种工业生产过程，如化工生产技术可以应用于医药、化学、石油产品的生产；民用工程生产技术可以使用于公路、楼房建筑物、桥梁的建筑等。
+   </span>
+   <br style="word-wrap: break-word;"/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word;">
+    <br style="word-wrap: break-word;"/>
+   </span>
+   <br style="word-wrap: break-word;"/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word;">
+    <span style="word-wrap: break-word; font-weight: 700;">
+     基础知识：
+    </span>
+    <span style="word-wrap: break-word;">
+     数学、物理、计算机；逻辑思维、创造性思维，人际交流能力。
+    </span>
+   </span>
+   <br style="word-wrap: break-word;"/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word;">
+    <br style="word-wrap: break-word;"/>
+   </span>
+   <br style="word-wrap: break-word;"/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word;">
+    <span style="word-wrap: break-word; font-weight: 700;">
+     就业：
+    </span>
+    <span style="word-wrap: break-word;">
+     市场需求量不大。70%以上的毕业生进入工业界，成为企业管理人员、部门主管、工程师。
+    </span>
+   </span>
+   <br style="word-wrap: break-word;"/>
+   <br style="word-wrap: break-word;"/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word;">
+    <span style="word-wrap: break-word; font-weight: 700;">
+     你知道吗：
+    </span>
+    <span style="word-wrap: break-word;">
+     工业生产技术是一种应用广泛的专业，是一种技术应用于多种专业生产领域的“一专多能”的专业。
+    </span>
+   </span>
+   <br style="word-wrap: break-word;"/>
+   <br style="word-wrap: break-word;"/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word; background-color: yellow;">
+    机械工程技术 Mechanical Engineering Technology
+   </span>
+   <br style="word-wrap: break-word;"/>
+   <br style="word-wrap: break-word;"/>
+   <br style="word-wrap: break-word;"/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word;">
+    机械工程技术专业侧重于培养学生解决机械生产过程中的技术问题，学会与机械工程师配合，设计、开发、测试、生产各种机械零部件和机械设备系统，如协助机械工程师测试导航火箭，设计安装电力发电厂等。学习的主要课程除了有机械工程专业的主要课程，如机械原理、统计、材料力学、热力学、流体力学、电机控制、计算机辅助作图外，还有与设备安装和生产过程有关的知识，如生产过程、机械测量与设计、技术交流、质量控制等。当产品进入生产程序前，机械工程技术员要设计装配流程，并画出零部件安装草图，计算成本、设备寿命，预先评估生产过程中可能出现的问题等等。
+   </span>
+   <br style="word-wrap: break-word;"/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word;">
+    <br style="word-wrap: break-word;"/>
+   </span>
+   <br style="word-wrap: break-word;"/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word;">
+    <span style="word-wrap: break-word; font-weight: 700;">
+     基础知识：
+    </span>
+    <span style="word-wrap: break-word;">
+     数学、物理、计算机；逻辑思维、创造性思维，人际交流、动手能力。
+    </span>
+   </span>
+   <br style="word-wrap: break-word;"/>
+   <br style="word-wrap: break-word;"/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word;">
+    <span style="word-wrap: break-word; font-weight: 700;">
+     就业：
+    </span>
+    <span style="word-wrap: break-word;">
+     市场需求量中等。80%以上的毕业生进入工业界，其中90%的毕业生从事与专业“对口”的工作。主要职业有工厂管理人员、部门主管、经理、生产工程师、设计工程师等等。
+    </span>
+   </span>
+   <br style="word-wrap: break-word;"/>
+   <br style="word-wrap: break-word;"/>
+   <span style="font-family: 微软雅黑; word-wrap: break-word;">
+    <span style="word-wrap: break-word; font-weight: 700;">
+     你知道吗：
+    </span>
+    <span style="word-wrap: break-word;">
+     机械工程技术工作经验的积累是提薪、升职的重要因素，这一专业的毕业生就业以后极少继续攻读高学位。所以，具有学士学位的部门经理、工厂主管手下管着高学位的设计工程师的现象并不少见。
+    </span>
+   </span>
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <br/>
+ </p>
+ <p style="white-space: normal;">
+  <span style="font-size: 14px; word-wrap: break-word; font-family: 微软雅黑;">
+   点击“阅读原文”查看其它分类：
+   <br style=""/>
+   <span style="word-wrap: break-word; color: rgb(255, 0, 255); font-weight: 700; background-color: rgb(255, 255, 255);">
+    人文科学篇：
+   </span>
+  </span>
+  <span style="color: rgb(51, 51, 51); word-wrap: break-word; font-size: 14px; font-family: 微软雅黑; background-color: rgb(255, 255, 255);">
+   http://www.sharewithu.com/thread-710969-1-1.html
+  </span>
+  <span style="font-size: 14px; word-wrap: break-word; font-family: 微软雅黑;">
+   <span style="">
+   </span>
+   <br style=""/>
+   <span style="word-wrap: break-word; color: rgb(255, 0, 255); font-weight: 700; background-color: rgb(255, 255, 255);">
+    自然科学篇：
+   </span>
+  </span>
+  <span style="font-size: 14px; word-wrap: break-word; color: rgb(51, 51, 51); font-family: 微软雅黑; background-color: rgb(255, 255, 255);">
+   http://www.sharewithu.com/thread-710974-1-1.html
+  </span>
+  <span style="font-size: 14px; word-wrap: break-word; font-family: 微软雅黑; color: rgb(255, 0, 255); font-weight: 700; background-color: rgb(255, 255, 255);">
+   <br style=""/>
+   商科篇：
+  </span>
+  <span style="color: rgb(51, 51, 51); word-wrap: break-word; font-size: 14px; font-family: 微软雅黑; background-color: rgb(255, 255, 255);">
+   http://www.sharewithu.com/thread-710970-1-1.html
+  </span>
+ </p>
+ <p style="">
+  <br/>
+ </p>
+ <p style="">
+  <span style="margin: 0px; padding: 0px; max-width: 100%; font-size: 12px; box-sizing: border-box !important; word-wrap: break-word !important;">
+   <strong style="margin: 0px; padding: 0px; max-width: 100%; font-size: 14px; line-height: 22px; box-sizing: border-box !important; word-wrap: break-word !important;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; font-size: 12px; font-family: 宋体; color: rgb(0, 112, 192); box-sizing: border-box !important; word-wrap: break-word !important;">
+     GRE小编诚邀页主踊跃投稿，大家一起分享，一起学习！
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="">
+  <span style="margin: 0px; padding: 0px; max-width: 100%; font-size: 12px; box-sizing: border-box !important; word-wrap: break-word !important;">
+   <strong style="margin: 0px; padding: 0px; max-width: 100%; font-size: 14px; line-height: 22px; box-sizing: border-box !important; word-wrap: break-word !important;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; font-size: 12px; font-family: 宋体; color: rgb(0, 112, 192); box-sizing: border-box !important; word-wrap: break-word !important;">
+     <strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+      投稿邮箱：
+     </strong>
+     <strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+      <span style="margin: 0px; padding: 0px; max-width: 100%; font-family: Arial, sans-serif; box-sizing: border-box !important; word-wrap: break-word !important;">
+       online@sharewithu.com
+      </span>
+     </strong>
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="white-space: normal;">
+  <span style="margin: 0px; padding: 0px; max-width: 100%; font-size: 12px; box-sizing: border-box !important; word-wrap: break-word !important;">
+   <strong style="margin: 0px; padding: 0px; max-width: 100%; font-size: 14px; line-height: 22px; box-sizing: border-box !important; word-wrap: break-word !important;">
+    <span style="margin: 0px; padding: 0px; max-width: 100%; font-size: 12px; font-family: 宋体; color: rgb(0, 112, 192); box-sizing: border-box !important; word-wrap: break-word !important;">
+     <strong style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+      <span style="margin: 0px; padding: 0px; max-width: 100%; font-family: Arial, sans-serif; box-sizing: border-box !important; word-wrap: break-word !important;">
+       <br/>
+      </span>
+     </strong>
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p>
+  <br/>
+ </p>

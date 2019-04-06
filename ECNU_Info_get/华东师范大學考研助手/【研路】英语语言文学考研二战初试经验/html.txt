@@ -1,0 +1,176 @@
+
+ <section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;">
+  <section class="_135editor" data-id="93662" data-tools="135编辑器" style="border: 0px none;box-sizing: border-box;">
+   <section style="margin:5px 5px 15px 5px;">
+    <section style="margin-bottom:-20px;display:inline-block;background-color:rgba(151, 228, 249, 0.7);width:30px;height:30px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-ms-transform: rotate(45deg);-o-transform: rotate(45deg);">
+    </section>
+    <section style="margin-left:-3px;margin-bottom:-20px;display:inline-block;background-color:rgba(175, 178, 249, 0.7);width:30px;height:30px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-ms-transform: rotate(45deg);-o-transform: rotate(45deg);">
+    </section>
+    <section data-width="100%" style="width: 100%;vertical-align: top;padding: 10px;border: 1px solid rgb(13, 10, 10);border-top-left-radius: 5px;border-top-right-radius: 5px;border-bottom-right-radius: 5px;border-bottom-left-radius: 5px;overflow: hidden;box-sizing: border-box;">
+     <section style="padding: 1em 0.8em;letter-spacing: 1.5px;color: rgb(63, 63, 63);font-size: 14px;line-height: 1.75em;box-sizing: border-box;">
+      <section class="135brush">
+       <p>
+        <span style="color: #548DD4;">
+         <strong>
+          首先明确目标专业和学校：
+         </strong>
+        </span>
+        我本科非英语专业，我一开始定的是上外，后面发现上外对专业方面的要求很高，这点从他们的加权技术分操作就能看出来，所以我改成华师大，一方面它也算是上海乃至全国比较有名的学校了，二是我去年考过一次，发现题目没有想象中的那门难。比较适合我，如果将来想从事教师行业的话，华师大的背景也会比较有力量。
+       </p>
+      </section>
+     </section>
+    </section>
+    <section style="display: flex;justify-content: flex-end;margin-right:10px;">
+     <section style="margin: -20px 0% 10px;line-height: 1;box-sizing: border-box;transform: translate3d(10px, 0px, 0px);-webkit-transform: translate3d(10px, 0px, 0px);-moz-transform: translate3d(10px, 0px, 0px);-ms-transform: translate3d(10px, 0px, 0px);-o-transform: translate3d(10px, 0px, 0px);">
+      <section style="margin-bottom:-20px;display:inline-block;background-color:rgba(151, 228, 249, 0.7);width:30px;height:30px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-ms-transform: rotate(45deg);-o-transform: rotate(45deg);">
+      </section>
+      <section style="margin-left:-3px;margin-bottom:-20px;display:inline-block;background-color:rgba(175, 178, 249, 0.7);width:30px;height:30px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-ms-transform: rotate(45deg);-o-transform: rotate(45deg);">
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="_135editor" data-id="92792" data-tools="135编辑器" style="border: 0px none;box-sizing: border-box;">
+   <section data-width="100%" style="width: 100%;text-align: center;">
+    <section style="display:inline-block;">
+     <section class="135brush" data-brushtype="text" style="color: rgb(235, 103, 148);padding-right: 50px;padding-left: 50px;font-weight: bold;box-sizing: border-box;">
+      <strong>
+       二外日
+      </strong>
+     </section>
+     <section style="margin-top:-6px;height:30px;">
+      <section data-bgless="spin" data-bglessp="240" data-bgopacity="10%" style="width: 20px;height: 20px;border-top-left-radius: 100%;border-top-right-radius: 100%;border-bottom-right-radius: 100%;border-bottom-left-radius: 100%;opacity: 0.5;float: left;color: rgb(255, 255, 255);box-sizing: border-box;background: rgba(103, 147, 235, 0.901961);">
+      </section>
+      <section style="width: 15px;height: 15px;border-top-left-radius: 100%;border-top-right-radius: 100%;border-bottom-right-radius: 100%;border-bottom-left-radius: 100%;opacity: 0.5;float: left;margin-top: 2px;margin-left: -10px;color: rgb(255, 255, 255);box-sizing: border-box;background: rgb(235, 103, 148);">
+      </section>
+      <section data-width="100%" style="float: left;width: 100%;margin-left: -42px;">
+       <section style="padding-left: 23px;box-sizing: border-box;">
+        <section style="height: 11px;border-bottom-style: dashed;border-bottom-width: 1px;border-bottom-color: rgb(204, 204, 204);margin-left: 20px;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="_135editor" data-role="paragraph" style="border: 0px none;box-sizing: border-box;">
+   <p style="text-indent: 2em;">
+    <span style="font-size: 14px;">
+     日语是我投入时间最多的，因为考的是N3水平，涉及到初级上下册到中级上，而且我的体会是中级上的语法比较拧巴。我买了新东方在线的0基础到N2的课程，三千多块，我一直上到了中级上，然后做了几套题。划重点了亲密，一定要先把课程学完，重点在中级上那本书，然后有时间多做题，多做题，多做题去理解熟悉感受那些语法点。
+    </span>
+   </p>
+  </section>
+  <section class="_135editor" data-role="paragraph" style="border: 0px none;box-sizing: border-box;">
+   <p>
+    <br/>
+   </p>
+  </section>
+  <section class="_135editor" data-id="92792" data-tools="135编辑器" style="border: 0px none;box-sizing: border-box;">
+   <section data-width="100%" style="width: 100%;text-align: center;">
+    <section style="display:inline-block;">
+     <section class="135brush" data-brushtype="text" style="color: rgb(235, 103, 148);padding-right: 50px;padding-left: 50px;font-weight: bold;box-sizing: border-box;">
+      <strong>
+       基础英语
+      </strong>
+     </section>
+     <section style="margin-top:-6px;height:30px;">
+      <section data-bgless="spin" data-bglessp="240" data-bgopacity="10%" style="width: 20px;height: 20px;border-top-left-radius: 100%;border-top-right-radius: 100%;border-bottom-right-radius: 100%;border-bottom-left-radius: 100%;opacity: 0.5;float: left;color: rgb(255, 255, 255);box-sizing: border-box;background: rgba(103, 147, 235, 0.901961);">
+      </section>
+      <section style="width: 15px;height: 15px;border-top-left-radius: 100%;border-top-right-radius: 100%;border-bottom-right-radius: 100%;border-bottom-left-radius: 100%;opacity: 0.5;float: left;margin-top: 2px;margin-left: -10px;color: rgb(255, 255, 255);box-sizing: border-box;background: rgb(235, 103, 148);">
+      </section>
+      <section data-width="100%" style="float: left;width: 100%;margin-left: -42px;">
+       <section style="padding-left: 23px;box-sizing: border-box;">
+        <section style="height: 11px;border-bottom-style: dashed;border-bottom-width: 1px;border-bottom-color: rgb(204, 204, 204);margin-left: 20px;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="_135editor" data-role="paragraph" style="border: 0px none;box-sizing: border-box;">
+   <p style="text-indent: 2em;">
+    <span style="font-size: 14px;">
+     做题过程中时间的安排规划很重要，而怎么规划好，一：考前写作训练工作做好，二考前给自己灌输一个观念，就是时间安排的问题，告诉自己，别陷题，每个题大概多少时间，在考前就给个大致的观念在脑海里。然后说下我自己，基础英语是我最没有放时间在上面的，我就考前背了几篇作文，把作文如何构思，一些过渡词重点看了下，就完了。第二个重点来了，作文要背，为啥，因为你背过了之后，你发现当你写作文的时候，有些单词或词组就自然而然出现在你嘴边了。
+    </span>
+   </p>
+   <section class="_135editor" data-id="image-28423" style="border: 0px none;box-sizing: border-box;">
+    <p style="text-align:center;">
+     <img class="" data-ratio="0.6671732522796353" data-type="jpeg" data-w="658" src="https://mmbiz.qpic.cn/mmbiz_jpg/HqfVjH48Ea89X9gOggBydQadruXRIfnU3qnfql2S0rdAtsxvhmh4CRbn3wUazxpFZzibAvibTKkaWiasy3rDiaGOTw/640?wx_fmt=jpeg" title="五个风化的书籍的底部彼此堆叠在一起"/>
+    </p>
+   </section>
+   <section class="_135editor" data-id="92792" data-tools="135编辑器" style="border: 0px none;box-sizing: border-box;">
+    <section data-width="100%" style="width: 100%;text-align: center;">
+     <section style="display:inline-block;">
+      <section class="135brush" data-brushtype="text" style="color: rgb(235, 103, 148);padding-right: 50px;padding-left: 50px;font-weight: bold;box-sizing: border-box;">
+       <strong>
+        文学和翻译
+       </strong>
+      </section>
+      <section style="margin-top:-6px;height:30px;">
+       <section data-bgless="spin" data-bglessp="240" data-bgopacity="10%" style="width: 20px;height: 20px;border-top-left-radius: 100%;border-top-right-radius: 100%;border-bottom-right-radius: 100%;border-bottom-left-radius: 100%;opacity: 0.5;float: left;color: rgb(255, 255, 255);box-sizing: border-box;background: rgba(103, 147, 235, 0.901961);">
+       </section>
+       <section style="width: 15px;height: 15px;border-top-left-radius: 100%;border-top-right-radius: 100%;border-bottom-right-radius: 100%;border-bottom-left-radius: 100%;opacity: 0.5;float: left;margin-top: 2px;margin-left: -10px;color: rgb(255, 255, 255);box-sizing: border-box;background: rgb(235, 103, 148);">
+       </section>
+       <section data-width="100%" style="float: left;width: 100%;margin-left: -42px;">
+        <section style="padding-left: 23px;box-sizing: border-box;">
+         <section style="height: 11px;border-bottom-style: dashed;border-bottom-width: 1px;border-bottom-color: rgb(204, 204, 204);margin-left: 20px;box-sizing: border-box;">
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <p style="text-indent: 2em;">
+    <span style="font-size: 14px;">
+     先说翻译，翻译我也是最后两个月开始准备的，基本上每天至少翻译一段或者一篇，如果那天没时间翻译的话，我也会把之前的文章在看一遍，我用的是张培基的散文。给大家的经验：还是强调一点，不要像我这样拖到最后，在一开始就准备起来，当然如果你的基础够好，你够自信，那就无所谓了  文学部分，我用的是圣才教育出的笔记书，英美文学各一本，还有常耀信那本书的中文对照版，也是英美各一本，教材用的是华师大本科生上课用的教材，然后基本上把他们要上的作家都看了，然后自己整理了笔记，美国文学整理了二十页左右A4纸的笔记，英美文学有上下册两本书从古英语一直到现代，我整理了大概四十多页的样子。除了书上的内容，还参考了圣才的辅导书和网上查阅的资料，我觉得这个挺好的，因为当你第二遍复习的时候就不用去翻厚厚的书了，效率高。
+    </span>
+   </p>
+   <p style="text-indent: 2em;">
+    <span style="font-size: 14px;">
+     我今年是二战，考的肯定比去年好，三百多分应该没问题，但不知道自己能不能过，如果过不了，只能滚回去上班，然后嫁作他人
+    </span>
+    妇。
+   </p>
+   <section class="_135editor" data-id="93195" data-tools="135编辑器" style="border: 0px none;box-sizing: border-box;">
+    <section data-width="95%" style="width: 95%;">
+     <section style="display: flex;justify-content:center;">
+      <section style="width: 50px;height: 50px;z-index: 2;">
+       <img class="" data-ratio="1" data-type="gif" data-w="512" src="https://mmbiz.qpic.cn/mmbiz_gif/HqfVjH48Ea89X9gOggBydQadruXRIfnUEBGgVgRPGQV74ibiakibwpIvwKib3r1LAybQnTibrOzjI3MTUHJYr1Aib1Og/640?wx_fmt=gif"/>
+      </section>
+      <section data-width="100%" style="margin-left: -30px;margin-top: 25px;width: 100%;">
+       <section style="height: 5px;border: 1px solid rgb(73, 103, 133);box-sizing: border-box;background: rgb(211, 239, 228);">
+       </section>
+       <section style="border-right-width: 1px;border-bottom-width: 1px;border-left-width: 1px;border-style: none solid solid;border-right-color: rgb(73, 103, 133);border-bottom-color: rgb(73, 103, 133);border-left-color: rgb(73, 103, 133);padding: 1em 0.8em;font-size: 14px;color: rgb(63, 63, 63);letter-spacing: 1.5px;line-height: 1.75em;box-sizing: border-box;">
+        <section class="135brush">
+         <p style="text-indent: 2em;">
+          最后，考研不是唯一的一条路，永远不要放弃对生活对人生的追求才是真理！
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <p>
+    <br/>
+   </p>
+   <p style="text-indent: 2em;">
+    <strong>
+     <span style="font-size: 15px;">
+      如果有任何考研复试、调剂问题，欢迎大家点击蓝字：
+      <a data-itemshowtype="0" data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA3OTI4Njg2MA==&amp;mid=2649536980&amp;idx=2&amp;sn=3e15aa1064f7e14cbf7062cde6cd759c&amp;chksm=87addef7b0da57e16b7c8fa27a81c04b2be0ffe383409bb29d05b75bd0613a67638c9a451917&amp;scene=21#wechat_redirect" target="_blank">
+       2019华师大考研复试交流群，欢迎加入！
+      </a>
+     </span>
+    </strong>
+   </p>
+  </section>
+ </section>
+ <p style="text-align: center;">
+  <img class="" data-copyright="0" data-ratio="0.6041666666666666" data-s="300,640" data-type="jpeg" data-w="480" src="https://mmbiz.qpic.cn/mmbiz_jpg/HqfVjH48Ea9x26JJRku7MRCOB4gPOVWCFWfqNCzUArUkmRVn2nTMiaic3aMeJFHmVvbs3nfrKx7lltHY1EhQD6dQ/640?wx_fmt=jpeg" style=""/>
+ </p>
+ <p>
+  <br/>
+ </p>

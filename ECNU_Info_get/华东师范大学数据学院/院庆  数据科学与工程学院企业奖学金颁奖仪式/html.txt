@@ -1,0 +1,387 @@
+
+ <section data-role="outer" label="Powered by 135editor.com" style="font-size:16px;">
+  <section class="article135" style="box-sizing: border-box;padding:0 undefinedpx;">
+   <section class="_135editor" data-id="90102" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section class="135brush" data-style="margin: 20px 0;font-size:16px;color:rgb(51,51,51);" style='padding: 10px;background-repeat: repeat;background-position: center center;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M69iaIakTA8j449br4aQTg756rxutFAExsrPfuUoqMnsZ3QY0el6MnKnw/640?wx_fmt=png");box-sizing: border-box;'>
+     <p style="margin-top: 20px;margin-bottom: 20px;text-indent: 2em;">
+      <span style="font-family: 宋体;font-size: 14px;">
+       2018年12月23日上午，我院企业奖学金颁奖仪式在中北校区科学会堂举行。我院创院院长、华东师范大学副校长周傲英，校长助理雷启立以及相关部门负责人出席仪式。慷慨捐赠奖学金的企业代表也受邀出席仪式并为获奖同学颁奖。仪式由我院副院长周烜教授主持。
+      </span>
+     </p>
+     <section class="_135editor" data-id="92638" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <section data-width="100%" style="width: 100%;margin-right: auto;margin-left: auto;">
+       <section data-width="100%" style="width: 100%;margin-right: auto;margin-left: auto;background: rgb(255, 255, 255);">
+        <section style="display:flex;display: -webkit-flex;justify-content: center;-webkit-justify-content: center;">
+         <section data-width="100%" style="width: 100%;margin-right: -5px;">
+          <section style="padding: 3px;box-sizing: border-box;">
+           <section style="padding: 5px 6px 3px 8px;margin-top: 3px;box-sizing: border-box;">
+            <img class="" data-ratio="0.6683333333333333" data-type="jpeg" data-w="1200" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6F4EIflETialTLQYaT6X1icSPibAPyNic3uCbJPTNuAVOBibcUhJriccvxnUw/640?wx_fmt=jpeg" title="undefined"/>
+           </section>
+          </section>
+         </section>
+         <section data-width="100%" style="width: 100%;border-top: 1px solid rgb(194, 237, 215);border-right: 1px solid rgb(188, 218, 228);box-sizing: border-box;margin-left: -5px;">
+          <section style="padding: 3px;box-sizing: border-box;">
+           <section style="padding:5px;border-top: 1px solid #c2edd7;border-right: 1px solid #bcdae4;box-sizing: border-box;">
+            <img class="" data-ratio="0.6663851351351351" data-type="jpeg" data-w="1184" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6rh2eiblHgmd6MVNQP0BXOP6ic9VoYlMgNXRXVj1l6hdpLHNLicS8l7D7A/640?wx_fmt=jpeg" title="undefined"/>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section style="display:flex;display: -webkit-flex;justify-content: center;-webkit-justify-content: center;margin-top: -20px;">
+         <section data-width="100%" style="width: 100%;box-sizing: border-box;border-top: none;border-right: none;border-left: 1px solid rgb(244, 220, 215);border-bottom: 1px solid rgb(194, 237, 215);margin-right: -5px;">
+          <section style="padding: 3px;box-sizing: border-box;">
+           <section style="border-left: 1px solid rgb(244, 220, 215);border-bottom: 1px solid rgb(194, 237, 215);padding: 5px 6px;margin-top: 3px;box-sizing: border-box;">
+            <img class="" data-ratio="0.6669484361792054" data-type="jpeg" data-w="1183" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6vtdosXbDYYu7BhiaypFAODdkk2vfPDxialwhRUSaOxRkTMaNl45Sg0Lw/640?wx_fmt=jpeg" style="display: block;" title="undefined"/>
+           </section>
+          </section>
+         </section>
+         <section data-width="100%" style="width: 100%;margin-left: -5px;">
+          <section style="padding: 3px;box-sizing: border-box;">
+           <section style="padding: 6px 6px 5px 5px;margin-top: 2px;margin-right: 1px;box-sizing: border-box;">
+            <img class="" data-ratio="0.6658333333333334" data-type="jpeg" data-w="1200" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6xmjV1WsWPuyRAgKXuhib6eYzsVASsibHj0Wws3ZiaIawaXZpticFe3CKNQ/640?wx_fmt=jpeg" style="display: block;" title="undefined"/>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <p style="text-align:left;text-indent:32px;line-height:150%;">
+      <br/>
+     </p>
+     <p style="text-align:left;text-indent:32px;line-height:150%;">
+      <span style="font-family: 宋体;font-size: 14px;">
+       周傲英教授在致辞中说，继蒸汽能(Steam Power)和电能(Electric Power)之后最重要的动能就是数据（Data Power）。成立数据科学与工程学院的目的之一就是培养人才，而人才培养一个重要部分就是与企业的紧密合作。同时，他对宏路数据、云赛智联和中新赛克等企业对我院的慷慨捐赠表示诚挚的感谢。
+      </span>
+     </p>
+     <section class="_135editor" data-id="94384" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <section data-width="95%" style="width: 95%;padding-top: 1.5em;padding-bottom: 1.5em;margin-right: auto;margin-left: auto;box-sizing: border-box;">
+       <section class="135bg" style='background-image: url("https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6ibhfqHMSMJsTdOpibcFeRPeXZYKcTrIKyzdNFUEHg6PUdfuPyNf3g9ZA/640?wx_fmt=jpeg");background-repeat: repeat-y;background-attachment: initial;background-origin: initial;background-clip: initial;background-size: 100%;background-position: 0px 100%;box-shadow: rgb(228, 226, 226) 0px 0px 12px;'>
+        <section style="padding: 0.6em;box-sizing: border-box;">
+         <section data-width="100%" style="width:100%;">
+          <section data-width="100%" style="width:100%;">
+           <img class="" data-ratio="0.6666666666666666" data-type="jpeg" data-w="1200" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6Reic2KuGyT02OiaRR4JZnRxbonovYQxuZoML1aa3KudhrjalqeRHQy3w/640?wx_fmt=jpeg" style="display: block;" title="undefined"/>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="_135editor" data-id="94332" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <section data-width="100%" style="width:100%;">
+       <section style="text-align: center;">
+        <section style="width:4em;display: inline-block;">
+         <img class="" data-ratio="0.3208955223880597" data-type="gif" data-w="134" src="https://mmbiz.qpic.cn/mmbiz_gif/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6P8NII30yO1tBYiciaOzEico4GKlibzibK2icGDvtjc4jxM1kDQpDChWVZh2A/640?wx_fmt=gif" style="width: 4em;display: block;"/>
+        </section>
+       </section>
+      </section>
+     </section>
+     <p style="text-align:left;text-indent:32px;line-height:150%;">
+      <span style="font-family: 宋体;font-size: 14px;">
+       本次颁奖仪式的赞助企业分别是宏路数据技术股份有限公司、云赛智联有限公司和中新赛克科技有限公司。仪式邀请获奖的6位同学对自己的工作和成果做了简要报告。其中，王冬慧同学做了“互联网级银行应用高可用保障的开发与思考”的相关报告，介绍了自己在交通银行参与系统开发的工作经验。郑宁远同学做了“StrokeNet: A neural painting environment”的工作报告，介绍了自己在双创活动中的成果。李志方同学为大家介绍了“面向CPU-GPU异构的大数据处理系统”的新硬件系统的相关报告。殷佳玲同学结合自身的学习、工作经历，为大家做了“研究生培养系统开发与经验分享”的工作报告。戚晓冬同学为大家介绍了关于区块链技术的报告“LinSBFT: 面向大规模网络的BFT协议”。黄立波同学做了“初探教育区块链在数据学院的落地应用”的经验报告。
+      </span>
+     </p>
+     <p style="text-align:left;text-indent:32px;line-height:150%;">
+      <br/>
+     </p>
+     <section class="_135editor" data-id="85948" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <section style="text-align: center;margin-right: 5%;margin-left: 5%;">
+       <p style="line-height: 2em;white-space: normal;">
+        <span style="line-height: 32px;color: rgb(233, 131, 109);">
+         ❖
+        </span>
+        <span style="font-family: 宋体;font-size: 14px;">
+         王冬慧
+        </span>
+       </p>
+       <section data-width="100%" style="display:inline-block;width:100%;">
+        <img border="0" class="" data-ratio="0.6657940663176265" data-type="jpeg" data-w="1146" data-width="100%" height="" opacity="" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M64cy8FAMzgTAhLdeVXkfK6QJViaJY9YToicKFOC6hLDWapCwCShUd3xjQ/640?wx_fmt=jpeg" title="undefined" width="100%"/>
+       </section>
+       <section style="margin-top: -18px;">
+        <img class="" data-ratio="0.05" data-type="png" data-w="500" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M61sribERGcXGjLMjgn34HGhS5QCCFUpeR2lqIZYaor1cJOv3EUDAlZCw/640?wx_fmt=png" style="width: 100%;" title="未标题-1.png"/>
+       </section>
+       <p>
+        <br/>
+       </p>
+       <p style="line-height: 2em;">
+        <span style="line-height: 32px;color: #e9836d;">
+         ❖
+        </span>
+        <span style="font-family: 宋体;font-size: 14px;">
+         郑宁远
+        </span>
+        <img border="0" class="" data-ratio="0.6658333333333334" data-type="jpeg" data-w="1200" data-width="100%" height="" opacity="" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M61Q8kwKViaSV5NQeQ6DGwKG1aPoMiaFjZuOW3icub4u1jl972Y4MdYMgicg/640?wx_fmt=jpeg" style="caret-color: red;" title="undefined" width="100%"/>
+       </p>
+       <section style="margin-top: -18px;">
+        <img class="" data-ratio="0.05" data-type="png" data-w="500" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M61sribERGcXGjLMjgn34HGhS5QCCFUpeR2lqIZYaor1cJOv3EUDAlZCw/640?wx_fmt=png" style="width: 100%;" title="未标题-1.png"/>
+       </section>
+       <p>
+        <br/>
+       </p>
+       <p style="line-height: 2em;">
+        <span style="line-height: 32px;color: #e9836d;">
+         ❖
+        </span>
+        <span style="font-family: 宋体;font-size: 14px;">
+         李志方
+        </span>
+       </p>
+       <section data-width="100%" style="display:inline-block;width:100%;">
+        <img border="0" class="" data-ratio="0.6658333333333334" data-type="jpeg" data-w="1200" data-width="100%" height="" opacity="" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6Mohe9lyYQbErwicA4WDMBdAHzLdzXZUehx3F1FBJfe2K62A3Fib6kJsg/640?wx_fmt=jpeg" title="undefined" width="100%"/>
+       </section>
+       <section style="margin-top: -18px;">
+        <img class="" data-ratio="0.05" data-type="png" data-w="500" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M61sribERGcXGjLMjgn34HGhS5QCCFUpeR2lqIZYaor1cJOv3EUDAlZCw/640?wx_fmt=png" style="width: 100%;" title="未标题-1.png"/>
+       </section>
+       <p>
+        <br/>
+       </p>
+       <p style="line-height: 2em;">
+        <span style="line-height: 32px;color: #e9836d;">
+         ❖
+        </span>
+        <span style="font-family: 宋体;font-size: 14px;">
+         殷佳玲
+        </span>
+       </p>
+       <section data-width="100%" style="display:inline-block;width:100%;">
+        <img border="0" class="" data-ratio="0.6654611211573237" data-type="jpeg" data-w="1106" data-width="100%" height="" opacity="" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6arcQS86AO3Ch0rvVdmaRPxek1VgKrx0xFFkB27ynjKU4NkqxYbWXUA/640?wx_fmt=jpeg" title="undefined" width="100%"/>
+       </section>
+       <section style="margin-top: -18px;">
+        <img class="" data-ratio="0.05" data-type="png" data-w="500" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M61sribERGcXGjLMjgn34HGhS5QCCFUpeR2lqIZYaor1cJOv3EUDAlZCw/640?wx_fmt=png" style="width: 100%;" title="未标题-1.png"/>
+       </section>
+       <p>
+        <br/>
+       </p>
+       <p style="line-height: 2em;">
+        <span style="line-height: 32px;color: #e9836d;">
+         ❖
+        </span>
+        <span style="font-family: 宋体;font-size: 14px;">
+         戚晓东
+        </span>
+       </p>
+       <section data-width="100%" style="display:inline-block;width:100%;">
+        <img border="0" class="" data-ratio="0.6658333333333334" data-type="jpeg" data-w="1200" data-width="100%" height="" opacity="" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6epWIINtNby1ZRjykAQ0GNUibYueT374Mic3BFibA8aib2icxQjqsBCNCIKw/640?wx_fmt=jpeg" title="undefined" width="100%"/>
+       </section>
+       <section style="margin-top: -18px;">
+        <img class="" data-ratio="0.05" data-type="png" data-w="500" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M61sribERGcXGjLMjgn34HGhS5QCCFUpeR2lqIZYaor1cJOv3EUDAlZCw/640?wx_fmt=png" style="width: 100%;" title="未标题-1.png"/>
+       </section>
+       <p>
+        <br/>
+       </p>
+       <p style="line-height: 2em;">
+        <span style="line-height: 32px;color: #e9836d;">
+         ❖
+        </span>
+        <span style="font-family: 宋体;font-size: 14px;">
+         黄立波
+        </span>
+       </p>
+       <section data-width="100%" style="display:inline-block;width:100%;">
+        <img border="0" class="" data-ratio="0.6658333333333334" data-type="jpeg" data-w="1200" data-width="100%" height="" opacity="" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6Z3RnhzVYibicib0gKk3MtOr2wP42bV4etM6Mo2JvhtVWccXCzGtjZnVDQ/640?wx_fmt=jpeg" title="undefined" width="100%"/>
+       </section>
+       <section style="margin-top: -18px;">
+        <img class="" data-ratio="0.05" data-type="png" data-w="500" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M61sribERGcXGjLMjgn34HGhS5QCCFUpeR2lqIZYaor1cJOv3EUDAlZCw/640?wx_fmt=png" style="width: 100%;" title="未标题-1.png"/>
+        <span style="caret-color: red;text-align: left;">
+        </span>
+       </section>
+      </section>
+     </section>
+     <section class="_135editor" data-id="94332" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <section data-width="100%" style="width:100%;">
+       <section style="text-align: center;">
+        <section style="width:4em;display: inline-block;">
+         <img class="" data-ratio="0.3208955223880597" data-type="gif" data-w="134" src="https://mmbiz.qpic.cn/mmbiz_gif/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6P8NII30yO1tBYiciaOzEico4GKlibzibK2icGDvtjc4jxM1kDQpDChWVZh2A/640?wx_fmt=gif" style="width: 4em;display: block;"/>
+        </section>
+       </section>
+      </section>
+     </section>
+     <p style="margin-top: 20px;margin-bottom: 20px;text-indent: 2em;">
+      <span style="font-family: 宋体;font-size: 14px;">
+       在同学们介绍自己的工作和成果的间隙，分别举行了“宏路数据奖学金”、“云赛智联奖学金”和“中新赛克学业奖学金”的颁奖，由资助企业代表向获得奖学金的同学颁发奖状。
+      </span>
+     </p>
+     <section class="_135editor" data-id="us2282760" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <section data-width="90%" style="width: 90%;margin-left: 5%;border-width: 1px;border-style: solid;border-color: rgb(111, 111, 111);box-sizing: border-box;">
+       <section class="135bg">
+        <img class="" data-ratio="0.6658333333333334" data-type="jpeg" data-w="1200" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6wB8O1ib8ueg0ibTwdLIr1xw1uPic6ZTCcdJudWErG89Ms9Az2fxrmT9HA/640?wx_fmt=jpeg" style="border-bottom: 1px solid #6f6f6f;" title="undefined"/>
+       </section>
+       <section style="width: 30px;height: 5px;float: left;border-top: 1px solid rgb(111, 111, 111);margin-top: 5px;margin-left: 10px;box-sizing: border-box;">
+       </section>
+       <section class="135brush" style="margin-left: 10px;font-size: 12px;line-height: 1.75em;color: rgb(63, 63, 63);padding-right: 5px;padding-bottom: 5px;padding-left: 2px;letter-spacing: 1.5px;box-sizing: border-box;">
+        <p>
+         <span style="font-family: 宋体;font-size: 14px;">
+          宏路数据奖学金获奖名单：
+         </span>
+        </p>
+        <p>
+         <span style="font-family: 宋体;font-size: 14px;">
+          陈远哲、顾航、贺小龙，张小磊，黄建伟，王冬慧、郑宁远、2017级本科生（集体奖）
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <p>
+       <br/>
+      </p>
+     </section>
+     <section class="_135editor" data-id="93071" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <section class="_135editor" data-id="us2282760" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+       <section data-width="90%" style="width: 90%;margin-left: 5%;border-width: 1px;border-style: solid;border-color: rgb(111, 111, 111);box-sizing: border-box;">
+        <section class="135bg">
+         <img class="" data-ratio="0.6658333333333334" data-type="jpeg" data-w="1200" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6XibUbhE0XudZ3x6TV8MwgYhdRvg4tMaTmQhITNmnXZBkWSgDrmgqkyw/640?wx_fmt=jpeg" style="border-bottom: 1px solid #6f6f6f;" title="undefined"/>
+        </section>
+        <section style="width: 30px;height: 5px;float: left;border-top: 1px solid rgb(111, 111, 111);margin-top: 5px;margin-left: 10px;box-sizing: border-box;">
+        </section>
+        <section class="135brush" style="margin-left: 10px;font-size: 12px;line-height: 1.75em;color: rgb(63, 63, 63);padding-right: 5px;padding-bottom: 5px;padding-left: 2px;letter-spacing: 1.5px;box-sizing: border-box;">
+         <p>
+          <span style="font-family: 宋体;font-size: 14px;">
+           云赛智联奖学金获奖名单：
+          </span>
+         </p>
+         <p>
+          <span style="font-family: 宋体;font-size: 14px;">
+           韩明聪、郁可人、殷佳玲、李志方
+          </span>
+         </p>
+        </section>
+       </section>
+      </section>
+      <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+       <p>
+        <br/>
+       </p>
+      </section>
+      <section class="_135editor" data-id="93071" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+       <section class="_135editor" data-id="us2282760" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+        <section data-width="90%" style="width: 90%;margin-left: 5%;border-width: 1px;border-style: solid;border-color: rgb(111, 111, 111);box-sizing: border-box;">
+         <section class="135bg">
+          <img class="" data-ratio="0.6658333333333334" data-type="jpeg" data-w="1200" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6rHeHhIxbLYYWTB0Dc3J9kFj6e7Hp0TUxEGIYicIasAxmVjkjzm9HyuA/640?wx_fmt=jpeg" style="border-bottom: 1px solid #6f6f6f;" title="undefined"/>
+         </section>
+         <section style="width: 30px;height: 5px;float: left;border-top: 1px solid rgb(111, 111, 111);margin-top: 5px;margin-left: 10px;box-sizing: border-box;">
+         </section>
+         <section class="135brush" style="margin-left: 10px;font-size: 12px;line-height: 1.75em;color: rgb(63, 63, 63);padding-right: 5px;padding-bottom: 5px;padding-left: 2px;letter-spacing: 1.5px;box-sizing: border-box;">
+          <p>
+           <span style="font-family: 宋体;font-size: 14px;">
+            中新赛克奖学金获奖名单：
+           </span>
+          </p>
+          <p>
+           <span style="font-family: 宋体;font-size: 14px;">
+            王夕、施晋、戚晓东、黄立波
+           </span>
+          </p>
+         </section>
+        </section>
+       </section>
+      </section>
+      <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+       <p>
+        <br/>
+       </p>
+      </section>
+     </section>
+     <section class="_135editor" data-id="94332" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <section data-width="100%" style="width:100%;">
+       <section style="text-align: center;">
+        <section style="width:4em;display: inline-block;">
+         <img class="" data-ratio="0.3208955223880597" data-type="gif" data-w="134" src="https://mmbiz.qpic.cn/mmbiz_gif/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6P8NII30yO1tBYiciaOzEico4GKlibzibK2icGDvtjc4jxM1kDQpDChWVZh2A/640?wx_fmt=gif" style="width: 4em;display: block;"/>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <p style="text-indent: 2em;">
+       <span style="font-family: 宋体;font-size: 14px;">
+        最后，泽阳智能科技董事长、曾入选《福布斯》中国30位30岁以下创业青年的张元刚先生为大家做了“一起迎接人人会编程的物联时代”的精彩演讲，张元刚先生和大家介绍了泽阳科技在物联网、人工智能以及教育方面的工作，也和大家交流了计算机技术对未来世界的影响和改变。
+       </span>
+      </p>
+      <section class="_135editor" data-id="94384" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+       <section data-width="95%" style="width: 95%;padding-top: 1.5em;padding-bottom: 1.5em;margin-right: auto;margin-left: auto;box-sizing: border-box;">
+        <section class="135bg" style='background-image: url("https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M6ibhfqHMSMJsTdOpibcFeRPeXZYKcTrIKyzdNFUEHg6PUdfuPyNf3g9ZA/640?wx_fmt=jpeg");background-repeat: repeat-y;background-attachment: initial;background-origin: initial;background-clip: initial;background-size: 100%;background-position: 0px 100%;box-shadow: rgb(228, 226, 226) 0px 0px 12px;'>
+         <section style="padding: 0.6em;box-sizing: border-box;">
+          <section data-width="100%" style="width:100%;">
+           <section data-width="100%" style="width:100%;">
+            <img class="" data-ratio="0.6658333333333334" data-type="jpeg" data-w="1200" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88aAxNC5OLDSbPV8veibsj6M61cWGAVk02DZv6yQ0NyxX9GycrwSPWoplpyd48xYbl5kflund2UpXHg/640?wx_fmt=jpeg" style="display: block;" title="15.jpg"/>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+      <p>
+       <br/>
+      </p>
+      <p style="text-align:left;text-indent:32px;line-height:150%;">
+       <span style="font-family: 宋体;font-size: 14px;">
+        学院希望通过上午奖学金的颁发仪式和获奖同学的工作汇报，激励全体同学向获奖同学学习，坚持不懈，砥砺奋进，不断提升自己，为个人发展，学院发展，社会发展不懈努力！
+       </span>
+      </p>
+      <p>
+       <br/>
+      </p>
+     </section>
+    </section>
+   </section>
+   <p style="text-align:right;text-indent:32px;line-height:150%;">
+    <span style="line-height: 150%;font-family: 宋体;font-size: 12px;">
+     撰稿 | 黄建伟
+    </span>
+   </p>
+   <p style="text-align:right;text-indent:32px;line-height:150%;">
+    <span style="line-height: 150%;font-family: 宋体;font-size: 12px;">
+     摄影 | 杨大为
+    </span>
+   </p>
+   <p style="text-align:right;text-indent:32px;line-height:150%;">
+    <span style="line-height: 150%;font-family: 宋体;font-size: 12px;">
+     排版 | 韩思绮
+    </span>
+   </p>
+   <section class="_135editor" data-role="paragraph" style="font-family: 微软雅黑;font-size: 16px;white-space: normal;color: rgb(63, 62, 63);letter-spacing: 2px;text-align: center;border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <section class="" style='width: 8em;height: 8em;display: inline-block;vertical-align: bottom;border-radius: 100%;border-width: 2px;border-style: solid;border-color: rgb(166, 91, 203);box-shadow: rgb(204, 204, 204) 0.707107px 0.707107px 2px;background-image: url("https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ajibwiauickXibrP2up4acTVfJH5w383II92lkQN3Ure0zEgUfSA4icljP9icVFBp74f4Rpib7ZPFxNarEA/640?wx_fmt=jpeg");background-size: cover;background-position: 50% 50%;background-repeat: no-repeat;box-sizing: border-box;'>
+     <section class="" style="width: 124px;height: 124px;overflow: hidden;">
+      <strong>
+       <img class="" data-ratio="1.0020449897750512" data-type="jpeg" data-w="489" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ajibwiauickXibrP2up4acTVfJH5w383II92lkQN3Ure0zEgUfSA4icljP9icVFBp74f4Rpib7ZPFxNarEA/640?wx_fmt=jpeg" style="height: 124.25px;width: 124px;opacity: 0;" width="100%"/>
+      </strong>
+     </section>
+    </section>
+    <p>
+     <br/>
+    </p>
+    <section class="" style="margin-top: -4em;padding: 4em 15px 10px;border-width: 1px;border-style: solid;border-color: rgb(166, 91, 203);border-radius: 16px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+     <section class="_135editor" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <section class="">
+       <section class="">
+        <p>
+         华东师范大学数据科学与工程学院
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="_135editor" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <section class="" style="padding-top: 0.5em;padding-bottom: 0.5em;box-sizing: border-box;">
+       <section class="" style="height: 1px;background-color: rgb(166, 91, 203);">
+       </section>
+      </section>
+     </section>
+     <section class="_135editor" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+      <section class="" style="margin: auto;padding-top: 10px;width: 223.188px;box-sizing: border-box;">
+       <img class="" data-ratio="1" data-type="jpeg" data-w="258" src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88ajibwiauickXibrP2up4acTVfJiaWbc4xAiaaAfk9vSldZzgiaPrULOoc1tzcC17WOQwI8MDZz6wL0xznAQ/640?wx_fmt=jpeg" style="vertical-align: middle;"/>
+      </section>
+     </section>
+    </section>
+    <p>
+     <br/>
+    </p>
+   </section>
+   <p style="text-align: center;">
+    <br/>
+   </p>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

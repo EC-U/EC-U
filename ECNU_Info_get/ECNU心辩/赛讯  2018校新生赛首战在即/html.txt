@@ -1,0 +1,224 @@
+
+ <section style="box-sizing: border-box;">
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="transform: translate3d(-5px, 0px, 0px);-webkit-transform: translate3d(-5px, 0px, 0px);-moz-transform: translate3d(-5px, 0px, 0px);-o-transform: translate3d(-5px, 0px, 0px);text-align: center;margin: 30px 0% 10px;box-sizing: border-box;">
+    <section style="display: inline-block;width: 90%;vertical-align: top;background-color: rgba(253, 246, 130, 0.4);border-width: 0px 0px 3px 3px;padding: 0px;border-style: none none solid solid;border-radius: 0px;border-color: rgb(62, 62, 62);box-sizing: border-box;">
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="transform: translate3d(10px, 0px, 0px);-webkit-transform: translate3d(10px, 0px, 0px);-moz-transform: translate3d(10px, 0px, 0px);-o-transform: translate3d(10px, 0px, 0px);margin: -12px 0% 10px;box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgba(252, 246, 130, 0.4);border-style: solid solid none none;border-width: 3px 3px 0px 0px;border-radius: 0px;border-color: rgb(62, 62, 62);padding: 0px 10px 0px 0px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="margin: 10px 0% 0px;box-sizing: border-box;">
+          <section style="font-size: 64px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             校新生赛
+            </strong>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             预告
+            </strong>
+            <strong style="box-sizing: border-box;">
+             <span style="font-size: 50px;">
+             </span>
+            </strong>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(212, 236, 220);padding: 10px 0px 0px;box-sizing: border-box;">
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;padding: 10px 15px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="font-size: 18px;color: rgb(79, 118, 120);text-align: center;line-height: 1.8;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            2018年10月24日（周三）
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            18:00
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            中北田楼教书院128
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="letter-spacing: 0px;box-sizing: border-box;">
+             在一线城市打拼的中国年轻人
+            </strong>
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             应该/不应该为“高房价”买单
+            </strong>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <span style="letter-spacing: 0px;box-sizing: border-box;">
+             正方：心理与认知科学学院
+            </span>
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            反方：教育学部
+           </p>
+          </section>
+         </section>
+        </section>
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;border-width: 2px 1px 1px;border-style: dashed none none;border-color: rgb(44, 90, 160);padding: 0px;background-color: rgb(229, 240, 247);border-radius: 0px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="display: inline-block;width: 100%;vertical-align: top;letter-spacing: 0px;padding: 15px 10px 0px;box-sizing: border-box;">
+           <section class="V5" style="box-sizing: border-box;">
+            <section style="box-sizing: border-box;">
+             <section style="font-size: 28px;text-align: justify;line-height: 1.8;padding: 0px 5px;color: rgb(44, 90, 160);box-sizing: border-box;">
+              <p style="text-align: center;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+               <strong style="box-sizing: border-box;">
+                欢迎大家来看呀~
+               </strong>
+              </p>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="margin: 0px 0%;text-align: right;line-height: 1;font-size: 14px;box-sizing: border-box;">
+          <section style="width: 0px;display: inline-block;vertical-align: top;border-bottom: 0.6em solid rgb(255, 255, 255);border-right: 0.6em solid rgb(255, 255, 255);border-top: 0.6em solid transparent !important;border-left: 0.6em solid transparent !important;box-sizing: border-box;">
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: -5px 0% -3px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+        <svg style="vertical-align: middle;max-width: 100%;box-sizing: border-box;" viewbox="0 0 630.7 35" width="630.7" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+         <g style="box-sizing: border-box;">
+          <g style="box-sizing: border-box;">
+           <path d="M10.9,19.9c6,0,10.9,6.7,10.9,15H0C0,26.7,4.9,19.9,10.9,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M32.6,19.9c6,0,10.9,6.7,10.9,15H21.7C21.7,26.7,26.6,19.9,32.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M54.4,19.9c6,0,10.9,6.7,10.9,15H43.5C43.5,26.7,48.4,19.9,54.4,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M76.1,19.9c6,0,10.9,6.7,10.9,15H65.2C65.2,26.7,70.1,19.9,76.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M97.8,19.9c6,0,10.9,6.7,10.9,15H87C87,26.7,91.8,19.9,97.8,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M119.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C108.7,26.7,113.6,19.9,119.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M141.3,19.9c6,0,10.9,6.7,10.9,15h-21.7C130.4,26.7,135.3,19.9,141.3,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M163.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C152.2,26.7,157.1,19.9,163.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M184.9,20c6,0,10.9,6.7,10.9,15H174C174,26.7,178.9,20,184.9,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M206.6,20c6,0,10.9,6.7,10.9,15h-21.7C195.7,26.7,200.6,20,206.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M228.4,20c6,0,10.9,6.7,10.9,15h-21.7C217.5,26.7,222.4,20,228.4,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M250.1,20c6,0,10.9,6.7,10.9,15h-21.7C239.2,26.7,244.1,20,250.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M271.8,20c6,0,10.9,6.7,10.9,15H261C261,26.7,265.8,20,271.8,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M293.6,20c6,0,10.9,6.7,10.9,15h-21.7C282.7,26.7,287.6,20,293.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M315.3,20c6,0,10.9,6.7,10.9,15h-21.7C304.4,26.7,309.3,20,315.3,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M337.1,20c6,0,10.9,6.7,10.9,15h-21.7C326.2,26.7,331.1,20,337.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M358.9,19.9c6,0,10.9,6.7,10.9,15H348C348,26.7,352.9,19.9,358.9,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M380.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C369.7,26.7,374.6,19.9,380.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M402.4,19.9c6,0,10.9,6.7,10.9,15h-21.7C391.5,26.7,396.4,19.9,402.4,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M424.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C413.2,26.7,418.1,19.9,424.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M445.8,19.9c6,0,10.9,6.7,10.9,15H435C435,26.7,439.8,19.9,445.8,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M467.6,19.9c6,0,10.9,6.7,10.9,15h-21.7C456.7,26.7,461.6,19.9,467.6,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M489.3,19.9c6,0,10.9,6.7,10.9,15h-21.7C478.4,26.7,483.3,19.9,489.3,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M511.1,19.9c6,0,10.9,6.7,10.9,15h-21.7C500.2,26.7,505.1,19.9,511.1,19.9z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+          </g>
+          <g style="box-sizing: border-box;">
+           <path d="M532.9,20c6,0,10.9,6.7,10.9,15H522C522,26.7,526.9,20,532.9,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M554.6,20c6,0,10.9,6.7,10.9,15h-21.7C543.7,26.7,548.6,20,554.6,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M576.4,20c6,0,10.9,6.7,10.9,15h-21.7C565.5,26.7,570.4,20,576.4,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M598.1,20c6,0,10.9,6.7,10.9,15h-21.7C587.2,26.7,592.1,20,598.1,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+           <path d="M619.8,20c6,0,10.9,6.7,10.9,15H609C609,26.7,613.8,20,619.8,20z" fill="#ffffff" style="box-sizing: border-box;">
+           </path>
+          </g>
+         </g>
+        </svg>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <img data-ratio="0.5" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/7KicRju7UxHFLVibCr4WJkZgsiaSMIGGlkF1CAxRBu5w70a2a7ZejiaqvpM8XRtVHFeF5KnLtUgYFmaTJia3Y3cuzUg/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="text-align: left;">
+  <br/>
+ </p>

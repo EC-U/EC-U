@@ -48,10 +48,10 @@ Page({
   },
   
   loadmessages: function() {
-    var that = this; 
     var messages = new Array();
-    var message = new Object();
-    for (var i = 4; i < 7; i++) {
+    var that = this; 
+    for (var i = 10; i < 13; i++) {
+      
       wx.request({
         url: 'http://122.152.233.115:8080/v1/text/' + String(i),
         header: {
@@ -59,7 +59,7 @@ Page({
         },
         method: 'GET',
         success: function (res) {
-          //console.log(res.data.Title);
+          var message = new Object();
           message.Author=res.data.Author;
           message.Title=res.data.Title;
           message.Id = res.data.Id;
@@ -67,16 +67,17 @@ Page({
           message.Text = res.data.Text;
           message.Time = res.data.Time;
           message.Url = res.data.Url;
-          messages.push(message)
+          messages=messages.concat(message)
           that.setData({ messages: messages })
-          
+          console.log(messages);
+          //console.log(message);
         }
 
       })
     }
-    
+    //that.setData({ messages: messages })
     //this.setData({ messages: message })
-    console.log(message);
+    
     //that.data.messages = message;
   },
 

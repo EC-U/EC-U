@@ -15,7 +15,7 @@
 
     <!--课表-->
     <view class="content" wx:for="{{wlist}}">
-      <view class="flex-item kcb-item" bindtap="showCardView" data-statu="open" data-index="{{index}}" style="margin-left:{{(item.xqj-1)*100}}rpx;margin-top:{{(item.skjc-1)*100+5}}rpx;height:{{item.skcd*100-5}}rpx;background-color:{{color1[index%9]}}">
+      <view class="flex-item kcb-item" bindtap="showCardView" data-statu="open" data-index="{{index}}" style="margin-left:{{(item.xqj-1)*100}}rpx;margin-top:{{(item.skjc-1)*100+5}}rpx;height:{{item.skcd*100-5}}rpx;background-color:{{item.color}}">
         <view class="smalltext" >{{item.kcmc}}</view>
       </view>
     </view>
@@ -26,7 +26,6 @@
     </swiper-item>
     <!--sheet1-->
     <swiper-item>
-      <view class='temp'>hello world</view>
       
       <view class='line' wx:for="{{time}}">
         <view style="width:750rpx;margin-top:{{(index+1)*100}}rpx; border-bottom:1rpx solid {{index==3?'orange':'lightgray'}};">
@@ -35,7 +34,7 @@
 
      <!--课表-->
      <view class="content" wx:for="{{list2}}">
-      <view class="flex-item kcb-item" bindtap="showCardView" data-statu="open" data-index="{{index}}" style="margin-left:{{(item.xqj-1)*100}}rpx;margin-top:{{(item.skjc-1)*100+5}}rpx;height:{{item.skcd*100-5}}rpx;background-color:red">
+      <view class="flex-item kcb-item" bindtap="showCardView" data-statu="open" data-index="{{index}}" style="margin-left:{{(item.xqj-1)*100}}rpx;margin-top:{{(item.skjc-1)*100+5}}rpx;height:{{item.skcd*100-5}}rpx;background-color:{{item.color}}">
         <view class="smalltext" >{{item.kcmc}}</view>
       </view>
     </view>

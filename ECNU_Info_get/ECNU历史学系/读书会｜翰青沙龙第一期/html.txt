@@ -1,0 +1,274 @@
+
+ <section style="box-sizing: border-box;">
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: middle;width: 25%;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+        <svg style="vertical-align: middle;max-width: 100%;box-sizing: border-box;" viewbox="0 0 106.5 32.4" width="106.5" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+         <g style="box-sizing: border-box;">
+          <g style="box-sizing: border-box;">
+           <g style="box-sizing: border-box;">
+            <path d="M68.2,12.2L68.2,12.2c0-2.2,1.8-4.1,4.1-4.1h14.3c2.2,0,4.1-1.8,4.1-4.1l0,0     c0-2.2-1.8-4.1-4.1-4.1H35.4c-2.2,0-4.1,1.8-4.1,4.1l0,0c0,2.2-1.8,4.1-4.1,4.1H13.1C10.8,8.1,9,9.9,9,12.2l0,0     c0,2.2,1.8,4.1,4.1,4.1h30.2c2.2,0,4.1,1.8,4.1,4.1l0,0c0,2.2-1.8,4.1-4.1,4.1H4.1c-2.2,0-4.1,1.8-4.1,4.1l0,0     c0,2.2,1.8,4.1,4.1,4.1h51.1c2.2,0,4.1-1.8,4.1-4.1l0,0c0-2.2,1.8-4.1,4.1-4.1h39.2c2.2,0,4.1-1.8,4.1-4.1l0,0     c0-2.2-1.8-4.1-4.1-4.1H72.2C70,16.2,68.2,14.4,68.2,12.2z" fill="rgb(183,225,229)" style="box-sizing: border-box;">
+            </path>
+           </g>
+           <g style="box-sizing: border-box;">
+            <defs>
+             <path d="M68.2,12.2L68.2,12.2c0-2.2,1.8-4.1,4.1-4.1h14.3c2.2,0,4.1-1.8,4.1-4.1l0,0c0-2.2-1.8-4.1-4.1-4.1H35.4      c-2.2,0-4.1,1.8-4.1,4.1l0,0c0,2.2-1.8,4.1-4.1,4.1H13.1C10.8,8.1,9,9.9,9,12.2l0,0c0,2.2,1.8,4.1,4.1,4.1h30.2      c2.2,0,4.1,1.8,4.1,4.1l0,0c0,2.2-1.8,4.1-4.1,4.1H4.1c-2.2,0-4.1,1.8-4.1,4.1l0,0c0,2.2,1.8,4.1,4.1,4.1h51.1      c2.2,0,4.1-1.8,4.1-4.1l0,0c0-2.2,1.8-4.1,4.1-4.1h39.2c2.2,0,4.1-1.8,4.1-4.1l0,0c0-2.2-1.8-4.1-4.1-4.1H72.2      C70,16.2,68.2,14.4,68.2,12.2z" fill="rgb(183,225,229)" style="box-sizing: border-box;">
+             </path>
+            </defs>
+           </g>
+          </g>
+         </g>
+        </svg>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: middle;width: 50%;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: center;font-size: 32px;color: rgb(0, 0, 0);line-height: 1.3;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         翰青沙龙
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: center;font-size: 18px;color: rgb(0, 0, 0);box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         第一期
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: middle;width: 25%;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+        <svg style="vertical-align: middle;max-width: 100%;box-sizing: border-box;" viewbox="0 0 106.5 32.4" width="106.5" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+         <g style="box-sizing: border-box;">
+          <g style="box-sizing: border-box;">
+           <g style="box-sizing: border-box;">
+            <path d="M68.2,12.2L68.2,12.2c0-2.2,1.8-4.1,4.1-4.1h14.3c2.2,0,4.1-1.8,4.1-4.1l0,0     c0-2.2-1.8-4.1-4.1-4.1H35.4c-2.2,0-4.1,1.8-4.1,4.1l0,0c0,2.2-1.8,4.1-4.1,4.1H13.1C10.8,8.1,9,9.9,9,12.2l0,0     c0,2.2,1.8,4.1,4.1,4.1h30.2c2.2,0,4.1,1.8,4.1,4.1l0,0c0,2.2-1.8,4.1-4.1,4.1H4.1c-2.2,0-4.1,1.8-4.1,4.1l0,0     c0,2.2,1.8,4.1,4.1,4.1h51.1c2.2,0,4.1-1.8,4.1-4.1l0,0c0-2.2,1.8-4.1,4.1-4.1h39.2c2.2,0,4.1-1.8,4.1-4.1l0,0     c0-2.2-1.8-4.1-4.1-4.1H72.2C70,16.2,68.2,14.4,68.2,12.2z" fill="rgb(183,225,229)" style="box-sizing: border-box;">
+            </path>
+           </g>
+           <g style="box-sizing: border-box;">
+            <defs>
+             <path d="M68.2,12.2L68.2,12.2c0-2.2,1.8-4.1,4.1-4.1h14.3c2.2,0,4.1-1.8,4.1-4.1l0,0c0-2.2-1.8-4.1-4.1-4.1H35.4      c-2.2,0-4.1,1.8-4.1,4.1l0,0c0,2.2-1.8,4.1-4.1,4.1H13.1C10.8,8.1,9,9.9,9,12.2l0,0c0,2.2,1.8,4.1,4.1,4.1h30.2      c2.2,0,4.1,1.8,4.1,4.1l0,0c0,2.2-1.8,4.1-4.1,4.1H4.1c-2.2,0-4.1,1.8-4.1,4.1l0,0c0,2.2,1.8,4.1,4.1,4.1h51.1      c2.2,0,4.1-1.8,4.1-4.1l0,0c0-2.2,1.8-4.1,4.1-4.1h39.2c2.2,0,4.1-1.8,4.1-4.1l0,0c0-2.2-1.8-4.1-4.1-4.1H72.2      C70,16.2,68.2,14.4,68.2,12.2z" fill="rgb(183,225,229)" style="box-sizing: border-box;">
+             </path>
+            </defs>
+           </g>
+          </g>
+         </g>
+        </svg>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style='display: inline-block;width: 100%;vertical-align: top;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/dNzv7ew4pdAxJhnraF6WkbVYPvzZ0TjJDDGGVDT859nhARKJZ26WBGSjwdLMQrVMnXiaCwAKo1TPZCficDqsj7Ow/640?wx_fmt=png?x-oss-process=style/xmwebp");background-position: 0% 0%;background-repeat: repeat;background-size: 64.8852%;background-attachment: scroll;letter-spacing: 0px;padding: 15px;box-sizing: border-box;'>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="color: rgb(83, 87, 115);line-height: 1.75;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         2018年12月23日下午，由中国近现代史教研室支持的“翰青读书会”在历史学系举行了本学年第一次沙龙。“翰青读书会”最早由历史学系近现代史专业学生组织成立，以本系和思勉高研院中国近现代史硕士、博士同学为主，吸收本系其他专业研究生、高年级本科生和其他相关院系感兴趣同学和青年教师参加。旨在打破“独学无友，孤陋寡闻”的研究屏障，依托华东师范大学中国近现代史领域专家学者的独特优势，为老师同学打造一个课堂之外教学相长、读书讨论的宽广平台。读书会定期举行学术著作阅读报告、研讨和学术书评撰写讨论活动，并邀请系内外专著作者及相关领域学者指导阅读和交流分享。
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0% -20px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 80%;box-sizing: border-box;">
+     <img data-ratio="0.2833333" data-type="gif" data-w="480" src="https://mmbiz.qpic.cn/mmbiz_gif/Sbg086L8Dwrtk6QrngicI7LSrHozeb1MKnOrpzX4BB845icmHdxPy7nPMibGlIv7fPOX4HrCZJgCug5P1VmnNaZbg/640?wx_fmt=gif" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style='display: inline-block;width: 100%;vertical-align: top;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/dNzv7ew4pdAxJhnraF6WkbVYPvzZ0TjJDDGGVDT859nhARKJZ26WBGSjwdLMQrVMnXiaCwAKo1TPZCficDqsj7Ow/640?wx_fmt=png?x-oss-process=style/xmwebp");background-position: 0% 0%;background-repeat: repeat;background-size: 64.8852%;background-attachment: scroll;letter-spacing: 0px;padding: 15px;box-sizing: border-box;'>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="color: rgb(83, 87, 115);line-height: 1.75;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         参加此次沙龙的同学包括历史学系、思勉高研院的各年级研究生，思勉高研院18级博士生郭子健主持会议，并就读书活动的方案向大家做了报告，以征集大家意见。本次沙龙还特别邀请历史学系中国近现代史教研室阮清华老师为大家作首次导言。阮老师以自身治学经历和读书心得为同学们讲授如何把握书中内容、撰写书评以及读书活动互相讨论、批评的重要性。当代文献与史料中心的岳伟老师和杨芳老师，作为历史学系的毕业生，也曾是韩青读书会的“元老”，他们就读书活动的方案、规则提出诸多宝贵建议。最后，大家选读了陈旭麓先生的《近代中国的新陈代谢》一书，并就各自的笔记、问题提出讨论，一起梳理本书的学术脉络和陈旭麓先生的治学方法。
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+        <img data-ratio="0.75" data-type="jpegwebp" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/zvprvIdk8gFP8pibSTdnbOibGBiaJpsHzmgSKWdfo5bVOc4hIGvO4J5G3C3oBCDXRbw9dHDLB3oK8k0YaJgBYPic4w/640?wx_fmt=jpegwebp" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style='display: inline-block;width: 100%;vertical-align: top;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/dNzv7ew4pdAxJhnraF6WkbVYPvzZ0TjJDDGGVDT859nhARKJZ26WBGSjwdLMQrVMnXiaCwAKo1TPZCficDqsj7Ow/640?wx_fmt=png?x-oss-process=style/xmwebp");background-position: 0% 0%;background-repeat: repeat;background-size: 64.8852%;background-attachment: scroll;letter-spacing: 0px;padding: 15px;box-sizing: border-box;'>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="color: rgb(83, 87, 115);line-height: 1.75;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         讨论后，大家就下学期的书目提出意见，并计划邀请在近两年新出版著作的近现代史学者前来讨论，同时也涉猎一些有价值的英文新著、史料，为大家搭建课堂之外的学术成长平台。
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0% -40px;transform: translate3d(-1px, 0px, 0px);-webkit-transform: translate3d(-1px, 0px, 0px);-moz-transform: translate3d(-1px, 0px, 0px);-o-transform: translate3d(-1px, 0px, 0px);box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 30%;box-sizing: border-box;">
+     <img data-ratio="0.50625" data-type="png?x-oss-process=style/xmwebp" data-w="480" src="https://mmbiz.qpic.cn/mmbiz_png/2V2R3zM96OBDFGVWyDeQXu8Iz16Lq3MNuB3gV3v6VpTichhWAwb7ibIg8jVRcpkchPMI0qiaCxYRASpmXCVOLQOLg/640?wx_fmt=png?x-oss-process=style/xmwebp" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style='display: inline-block;width: 100%;vertical-align: top;padding: 15px;border-width: 2px;border-radius: 0px;border-style: solid;border-color: rgb(227, 227, 227);background-image: url("https://mmbiz.qpic.cn/mmbiz_png/iao6RUymezfAx6LFH2ps4t9mEDukwJ2ibELO9RcGEfe6wSb7wSuGRlaEdYfWb8XTeHRYUmcLLImJDsibDHcg1iaIlg/640?wx_fmt=png?x-oss-process=style/xmwebp");background-position: -5.6181% -1.1911%;background-repeat: repeat;background-size: 14.3537%;background-attachment: scroll;box-sizing: border-box;'>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="color: rgb(110, 110, 110);text-align: justify;box-sizing: border-box;">
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         本次读书活动得到历史学系青年教师联谊会的特别赞助，特致谢忱！
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(235, 252, 232);padding: 10px 0px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: -10px 0% 0px;box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="display: inline-block;vertical-align: top;height: 2em;line-height: 2em;background-color: rgb(255, 255, 255);text-align: center;color: rgb(3, 43, 96);padding: 0px 15px;font-size: 21px;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          <strong style="box-sizing: border-box;">
+           注：
+          </strong>
+         </p>
+        </section>
+        <section style="display: inline-block;vertical-align: top;border-left: 0.5em solid rgb(255, 255, 255);border-top: 1em solid rgb(255, 255, 255);border-right: 0.5em solid transparent !important;border-bottom: 1em solid transparent !important;box-sizing: border-box;">
+        </section>
+        <section style="display: inline-block;vertical-align: top;line-height: 2em;box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          <br style="box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;box-sizing: border-box;">
+       <section style="color: rgb(36, 57, 85);padding: 0px 25px;text-align: justify;font-size: 15px;box-sizing: border-box;">
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         翰青读书会自下学期起，开学后每月举办一次，以近现代史新著、史料为主，并邀请专业内名师和新书作者加入，欢迎本校同学参加。
+        </p>
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <span style="font-size: 20px;box-sizing: border-box;">
+          有兴趣加入的同学，请联系郭子健同学微信guozijian33。
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: right;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      编辑：程婷婷
+     </p>
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      审核：李凤华
+     </p>
+    </section>
+   </section>
+  </section>
+ </section>

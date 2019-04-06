@@ -1,14 +1,13 @@
 <view class="item" bindtap="seeDetail">
-  <view class="title">努力拼搏，青春飞扬--记我院学子参加校2018年运动会</view>
+  <view class="title">华东师大学子热议两会顺利闭幕</view>
   <view class="pic">
-    <image src="http://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88Z4WkKsc6iczuYbIWthhMmjHI0NBiaicichKApDZx6icicDDibBSGNxzQ1iad0H0QjoFXicOGX5xu1c4BZiaWAg/0?wx_fmt=jpeg" style="width:50%;height:80px;"></image>
-    <image src="https://mmbiz.qpic.cn/mmbiz_jpg/LWU2lqYH88Z4WkKsc6iczuYbIWthhMmjHKakT3MUDmMuKYwrSpiaOPbicX0q4yoZ5FzVC9ic0Cs1Yv3pyutMyt7JJQ/640?wx_fmt=jpeg" style="width:50%;height:80px;"></image>
-    <view class="introduction">我院第一次参加华东师范大学的运动会，58名本科生和研究生在历时一月余的努力准备之后，踏上了前往运动会的征程。</view>
-  </view>
+    <image src="http://mmbiz.qpic.cn/mmbiz_jpg/hOWxIuT5SrFaS4xHbhvvz4GtJMvbynBicw760pCftTlPqXkOc4hFbyZ7olxibMftRQec3gbcwaNGGvb0RYreyLTg/0?wx_fmt=jpeg" style="width:50%;height:80px;"></image>
+    <image src="https://mmbiz.qpic.cn/mmbiz_jpg/hOWxIuT5SrEE6dmoicFBuXyD1ZbjjeqYPLCAImcZAia2ibmtiav6uOAo7MvLLS4Fjw7MwuKLergglxyM9ibjmnBBZMg/640?wx_fmt=jpeg" style="width:50%;height:80px;"></image>
+    </view>
   <view class="info">
     <view class="desc">
-       <text> 华东师范大学数据学院</text>
-       <text>今天</text>
+       <text> ECNU青年</text>
+       <text>2019年3月18日</text>
     </view>
     <view class="opr">
       <view>x</view>
@@ -18,16 +17,16 @@
 <view class="hr"></view>
 
 <view class="item2" bindtap="seeDetail">
-  <view class="title2">重磅！华东师大成立中国创意写作研究院 获千万资助</view>
+  <view class="title2">万物皆可夸，专属于ECNUer的夸夸群等你来加</view>
   <view class="pic2">
-     <view class="introduction2">让我们看一看本周有什么活动吧~</view>
-     <image src="http://mmbiz.qpic.cn/mmbiz_jpg/bAZ0XOxmB0odPWl2hIjAzQib2Fd6rKp7Pun74Wztoc9xDuCFxQtLK3WtvibUgyfNKC6ecKeyNBtcUAyia8nqUw6IQ/0?wx_fmt=jpeg" style="width:50%;height:80px;"></image>
+     <view class="introduction2">没有什么事是夸两句不能解决的。如果有，那就夸三句~</view>
+     <image src="http://mmbiz.qpic.cn/mmbiz_jpg/3aG8eVtib7kI6bjqoTAoj6CuafAUb8ZDSyibIF4PeNicmhzLTlsXpbLmsPXhfUJXR3WXmVYooMeDDYQo1ctY0ZkoQ/0?wx_fmt=jpeg" style="width:50%;height:80px;"></image>
     
   </view>
   <view class="info">
     <view class="desc">
-       <text>ECNUers</text>
-       <text>2018年10月29日</text>
+       <text>华东师范大学学生会</text>
+       <text>2019年3月17日</text>
     </view>
     <view class="opr">
       <view>x</view>
@@ -37,16 +36,15 @@
 <view class="hr"></view>
 
 <view class="item2" bindtap="seeDetail">
-  <view class="title2">好看的人都来运动啦！</view>
+  <view class="title2">数据学院转专业来了！快来提前了解一下（内附往年资料）！</view>
   <view class="pic2">
-    <view class="introduction2">在华东师大射箭游泳燃烧你的卡路里…</view>
-    <image src="http://mmbiz.qpic.cn/mmbiz_jpg/bAZ0XOxmB0rDopDPrSnjRwmBRia8BwWKrfibIJGxO4fMburgzs8UCl3L5wHz4bkIGYxMRQib7RHSDU4WM9GzEQNIw/0?wx_fmt=jpeg" style="width:50%;height:80px;"></image>
+    <view class="introduction2">带你揭开数据学院的神秘面纱</view>
+    <image src="http://mmbiz.qpic.cn/mmbiz_jpg/BeTh0EJ7ibf4VRSo6kWcFJ7Trks5N1WcS0laicL8Ot25L1jxgMv8yAoKfOCP3K421mvuvibyL0hiagibG0iaJ1tvMTrw/0?wx_fmt=jpeg" style="width:50%;height:80px;"></image>
   </view>
   <view class="info">
     <view class="desc">
-       <text>ECNUers</text>
-       <text>148评论</text>
-       <text>61分钟之前</text>
+       <text>DaSE SU</text>
+       <text>2019年3月17日</text>
     </view>
     <view class="opr">
       <view>x</view>

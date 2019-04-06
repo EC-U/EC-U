@@ -1,0 +1,1599 @@
+
+ <section style="box-sizing: border-box;">
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: middle;width: 50%;padding: 0px 5px;box-sizing: border-box;">
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;text-align: center;box-sizing: border-box;">
+       <section style="display: inline-block;box-sizing: border-box;">
+        <section style="border-radius: 0.5em;border-color: rgb(134, 162, 223);border-style: solid;border-width: 1px;padding: 4px;display: inline-block;background-color: rgb(134, 162, 223);box-sizing: border-box;">
+         <section class="V5" style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <section style="color: rgb(255, 255, 255);box-sizing: border-box;">
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             新生报名指南
+             <br style="box-sizing: border-box;"/>
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section style="width: 0px;border-top: 0.8em solid rgb(134, 162, 223);margin: auto;border-left: 0.8em solid transparent !important;border-right: 0.8em solid transparent !important;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="height: 1.4em;border-left: 1px solid rgb(158, 158, 158);margin-bottom: -0.9em;margin-left: 0.5em;box-sizing: border-box;">
+       </section>
+       <section style="width: 2.5em;border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+       </section>
+       <section style="padding: 0px 0.5em;box-sizing: border-box;">
+        <section style="padding: 10px;box-sizing: border-box;">
+         <section class="V5" style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <section style="text-align: center;font-size: 14px;box-sizing: border-box;">
+            <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+             时间过得真快，院新生辩论赛马上就要开始啦，是时候给大家再一次讲解一波赛制了
+             <br style="box-sizing: border-box;"/>
+            </p>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="width: 2.5em;margin-left: auto;box-sizing: border-box;">
+        <section style="width: 2.5em;border-top: 1px solid rgb(158, 158, 158);box-sizing: border-box;">
+        </section>
+        <section style="height: 1.4em;border-left: 1px solid rgb(158, 158, 158);margin-top: -0.9em;margin-left: 2em;box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: middle;width: 50%;padding: 0px 5px;box-sizing: border-box;">
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="margin-left: auto;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-bottom: -6px;width: 0px;border-bottom: 3px solid rgb(217, 207, 48);border-left: 3px solid rgb(217, 207, 48);border-top: 3px solid rgb(255, 255, 255) !important;border-right: 3px solid rgb(255, 255, 255) !important;box-sizing: border-box;">
+       </section>
+       <section style="border-left: 6px solid rgb(134, 162, 223);border-top: 6px solid rgb(134, 162, 223);border-right-color: rgb(134, 162, 223);border-bottom-color: rgb(134, 162, 223);box-sizing: border-box;">
+        <section style="background-color: rgb(255, 255, 255);padding: 10px;box-sizing: border-box;">
+         <section class="V5" style="box-sizing: border-box;">
+          <section style="text-align: center;margin: 0px 0%;box-sizing: border-box;">
+           <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+            <img data-ratio="1.5009381" data-type="jpeg" data-w="533" src="https://mmbiz.qpic.cn/mmbiz_jpg/7KicRju7UxHFu3RpxDMVmiaVSIIulNDflialC3Pm6U0RwUCjtR94JEklmG5ONrjEOu2jP12oZEicTGuqFLUVe7VDBQ/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-top: -6px;width: 0px;border-top: 3px solid rgb(217, 207, 48);border-right: 3px solid rgb(217, 207, 48);border-bottom: 3px solid rgb(255, 255, 255) !important;border-left: 3px solid rgb(255, 255, 255) !important;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="margin: 0px 0%;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;box-sizing: border-box;">
+     <section style="border-radius: 0.5em;border-color: rgb(134, 162, 223);border-style: solid;border-width: 1px;padding: 4px;display: inline-block;background-color: rgb(134, 162, 223);box-sizing: border-box;">
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="color: rgb(255, 255, 255);box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          赛制介绍
+          <br style="box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section style="width: 0px;border-top: 0.8em solid rgb(134, 162, 223);margin: auto;border-left: 0.8em solid transparent !important;border-right: 0.8em solid transparent !important;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;width: 46%;box-sizing: border-box;">
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="margin: 0.5em 0px;box-sizing: border-box;">
+       <section style="border-top: 1px dotted rgb(18, 39, 54);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: top;width: 8%;box-sizing: border-box;">
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: 8px 0% 10px;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+        <img data-ratio="1.345" data-type="gif" data-w="200" src="https://mmbiz.qpic.cn/mmbiz_gif/7KicRju7UxHFu3RpxDMVmiaVSIIulNDfliaFNIqO84vjQu3UdVIF0eBwGynBN1RqLquohJ9Ie4Deyxs3r05woa8yg/640?wx_fmt=gif" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: top;width: 46%;box-sizing: border-box;">
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="margin: 0.5em 0px;box-sizing: border-box;">
+       <section style="border-top: 1px dotted rgb(18, 39, 54);box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="text-align: center;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       1vs1
+      </strong>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="text-align: center;box-sizing: border-box;">
+    <section style="display: inline-table;border-collapse: collapse;table-layout: fixed;width: 100%;box-sizing: border-box;">
+     <section class="V5" style="display: table-row-group;box-sizing: border-box;">
+      <section style="display: table-row;table-layout: fixed;width: 100%;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgba(126, 154, 220, 0.87);padding: 10px 0px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="margin: 3px 0px;box-sizing: border-box;">
+          <section style="display: inline-block;border-color: rgb(249, 110, 87);border-style: solid;border-width: 1px;background-color: rgb(255, 255, 255);width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 100%;margin-left: auto;margin-right: auto;font-size: 12px;color: rgb(0, 0, 0);box-sizing: border-box;">
+           <p style="display: inline-block;width: 1em;margin: 0px 0.2em;float: right;clear: none;padding: 0px;box-sizing: border-box;">
+            <span style="box-sizing: border-box;">
+             环
+            </span>
+            <span style="letter-spacing: 0px;box-sizing: border-box;">
+             节
+            </span>
+           </p>
+           <p style="clear: both;font-size: 0px;line-height: 0;min-height: 0px;margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgba(126, 154, 220, 0.87);padding: 10px 0px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="margin: 3px 0px;box-sizing: border-box;">
+          <section style="display: inline-block;border-color: rgb(249, 110, 87);border-style: solid;border-width: 1px;background-color: rgb(255, 255, 255);width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 100%;margin-left: auto;margin-right: auto;font-size: 12px;color: rgb(0, 0, 0);box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            时长
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgba(126, 154, 220, 0.87);padding: 10px 0px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="margin: 3px 0px;box-sizing: border-box;">
+          <section style="display: inline-block;border-color: rgb(249, 110, 87);border-style: solid;border-width: 1px;background-color: rgb(255, 255, 255);width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 100%;margin-left: auto;margin-right: auto;color: rgb(0, 0, 0);box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            tips
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;box-sizing: border-box;">
+      <section style="display: table-row;width: 100%;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            开篇立论陈词
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            各2分30秒
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            正方先进行陈词，反方在质询正方后进行陈词
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;box-sizing: border-box;">
+      <section style="display: table-row;width: 100%;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            质询
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            各1分钟
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            正方陈词后反方质询，凡防尘伺候正方质询
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;box-sizing: border-box;">
+      <section style="display: table-row;width: 100%;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            双方对辩
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            各1分钟
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            双方交替轮流方式发言，辩手无权终止对方未完成的发言。
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            双方计时分开进行，一方发言时间完毕后，另一方可以继续发言，直到剩余时间用完为止。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;box-sizing: border-box;">
+      <section style="display: table-row;width: 100%;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            总结陈词
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            各2分30秒
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            反方先进行陈词
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            反驳对方立论架构及总结己方立场
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="text-align: center;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       2vs2
+      </strong>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="text-align: center;box-sizing: border-box;">
+    <section style="display: inline-table;border-collapse: collapse;table-layout: fixed;width: 100%;box-sizing: border-box;">
+     <section class="V5" style="display: table-row-group;box-sizing: border-box;">
+      <section style="display: table-row;table-layout: fixed;width: 100%;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgba(126, 154, 220, 0.87);padding: 10px 0px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="margin: 3px 0px;box-sizing: border-box;">
+          <section style="display: inline-block;border-color: rgb(249, 110, 87);border-style: solid;border-width: 1px;background-color: rgb(255, 255, 255);width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 100%;margin-left: auto;margin-right: auto;font-size: 14px;color: rgb(0, 0, 0);box-sizing: border-box;">
+           <p style="display: inline-block;width: 1em;margin: 0px 0.2em;float: right;clear: none;padding: 0px;box-sizing: border-box;">
+            环节
+           </p>
+           <p style="clear: both;font-size: 0px;line-height: 0;min-height: 0px;margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgba(126, 154, 220, 0.87);padding: 10px 0px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="margin: 3px 0px;box-sizing: border-box;">
+          <section style="display: inline-block;border-color: rgb(249, 110, 87);border-style: solid;border-width: 1px;background-color: rgb(255, 255, 255);width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 100%;margin-left: auto;margin-right: auto;font-size: 14px;color: rgb(0, 0, 0);box-sizing: border-box;">
+           <p style="display: inline-block;width: 1em;margin: 0px 0.2em;float: right;clear: none;padding: 0px;box-sizing: border-box;">
+            时长
+           </p>
+           <p style="clear: both;font-size: 0px;line-height: 0;min-height: 0px;margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgba(126, 154, 220, 0.87);padding: 10px 0px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="margin: 3px 0px;box-sizing: border-box;">
+          <section style="display: inline-block;border-color: rgb(249, 110, 87);border-style: solid;border-width: 1px;background-color: rgb(255, 255, 255);width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 100%;margin-left: auto;margin-right: auto;color: rgb(0, 0, 0);box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            tips
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;box-sizing: border-box;">
+      <section style="display: table-row;width: 100%;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            立论：正方一辩开篇陈词
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            3分钟
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;box-sizing: border-box;">
+      <section style="display: table-row;width: 100%;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            质询：反方二辩盘问正方一辩
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            1分30秒
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            反方二辩针对正方一辩的立论进行针对性的盘问。
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            答辩方只能作答不能反问。
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            质询方有权在任何时候中止答辩方。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;box-sizing: border-box;">
+      <section style="display: table-row;width: 100%;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            立论：反方一辩开篇陈词
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            3分钟
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section class="group-empty" style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;box-sizing: border-box;">
+      <section style="display: table-row;width: 100%;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            质询：正方二辩盘问反方一辩
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            1分30秒
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            同二
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;box-sizing: border-box;">
+      <section style="display: table-row;width: 100%;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            正方二辩申论
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 0px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            1分30秒
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;box-sizing: border-box;">
+      <section style="display: table-row;width: 100%;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            反方一辩质询正方二辩
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            1分30秒
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;width: 33.333%;vertical-align: middle;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            同二
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;box-sizing: border-box;">
+      <section style="display: table-row;width: 100%;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            反方二辩申论
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            1分30秒
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;width: 33.33%;background-color: rgb(241, 241, 241);box-sizing: border-box;">
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: center;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         正方一辩质询反方二辩
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: top;width: 33.33%;background-color: rgb(241, 241, 241);box-sizing: border-box;">
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: center;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         1分30秒
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: top;width: 33.33%;background-color: rgb(241, 241, 241);box-sizing: border-box;">
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="text-align: center;margin: 0px;padding: 0px;box-sizing: border-box;">
+         同二
+        </p>
+        <p style="text-align: center;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: middle;width: 33.33%;background-color: rgb(241, 241, 241);box-sizing: border-box;">
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: center;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         自由辩论
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: middle;width: 33.33%;background-color: rgb(241, 241, 241);box-sizing: border-box;">
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: center;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         各3分钟
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: middle;width: 33.33%;background-color: rgb(241, 241, 241);box-sizing: border-box;">
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="text-align: center;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="text-align: center;margin: 0px;padding: 0px;box-sizing: border-box;">
+         双方计时分开进行，每次一方辩手发言完毕后，另一方计时将立即开始。
+        </p>
+        <p style="text-align: center;margin: 0px;padding: 0px;box-sizing: border-box;">
+         一方发言时间完毕后，另一方可继续发言，直到剩余时间用完为止。
+        </p>
+        <p style="text-align: center;margin: 0px;padding: 0px;box-sizing: border-box;">
+         正方先发言。
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: middle;width: 33.33%;background-color: rgb(241, 241, 241);box-sizing: border-box;">
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: center;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         总结陈词
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: middle;width: 33.33%;background-color: rgb(241, 241, 241);box-sizing: border-box;">
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: center;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         各3分钟
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: middle;width: 33.33%;background-color: rgb(241, 241, 241);box-sizing: border-box;">
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="text-align: center;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="text-align: center;margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br/>
+        </p>
+        <p style="text-align: center;margin: 0px;padding: 0px;box-sizing: border-box;">
+         反方先进行陈词。
+        </p>
+        <p style="text-align: center;margin: 0px;padding: 0px;box-sizing: border-box;">
+         反驳对方立论架构及总结己方的立场。
+        </p>
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: center;box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       <br style="box-sizing: border-box;"/>
+      </strong>
+     </p>
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       <br style="box-sizing: border-box;"/>
+      </strong>
+     </p>
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       4vs4
+      </strong>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="text-align: center;box-sizing: border-box;">
+    <section style="display: inline-table;border-collapse: collapse;table-layout: fixed;width: 100%;box-sizing: border-box;">
+     <section class="V5" style="display: table-row-group;box-sizing: border-box;">
+      <section style="display: table-row;table-layout: fixed;width: 100%;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgba(126, 154, 220, 0.87);padding: 10px 0px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="margin: 3px 0px;box-sizing: border-box;">
+          <section style="display: inline-block;border-color: rgb(249, 110, 87);border-style: solid;border-width: 1px;background-color: rgb(255, 255, 255);width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 100%;margin-left: auto;margin-right: auto;font-size: 14px;color: rgb(0, 0, 0);box-sizing: border-box;">
+           <p style="display: inline-block;width: 1em;margin: 0px 0.2em;float: right;clear: none;padding: 0px;box-sizing: border-box;">
+            环节
+           </p>
+           <p style="clear: both;font-size: 0px;line-height: 0;min-height: 0px;margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgba(126, 154, 220, 0.87);padding: 10px 0px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="margin: 3px 0px;box-sizing: border-box;">
+          <section style="display: inline-block;border-color: rgb(249, 110, 87);border-style: solid;border-width: 1px;background-color: rgb(255, 255, 255);width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 100%;margin-left: auto;margin-right: auto;font-size: 14px;color: rgb(0, 0, 0);box-sizing: border-box;">
+           <p style="display: inline-block;width: 1em;margin: 0px 0.2em;float: right;clear: none;padding: 0px;box-sizing: border-box;">
+            时长
+           </p>
+           <p style="clear: both;font-size: 0px;line-height: 0;min-height: 0px;margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgba(126, 154, 220, 0.87);padding: 10px 0px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="margin: 3px 0px;box-sizing: border-box;">
+          <section style="display: inline-block;border-color: rgb(249, 110, 87);border-style: solid;border-width: 1px;background-color: rgb(255, 255, 255);width: 1.8em;height: 1.8em;line-height: 1.8em;border-radius: 100%;margin-left: auto;margin-right: auto;color: rgb(0, 0, 0);box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            tips
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;box-sizing: border-box;">
+      <section style="display: table-row;width: 100%;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            立论：正方一辩开篇陈词
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            3分30秒
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;box-sizing: border-box;">
+      <section style="display: table-row;width: 100%;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            质询：反方二辩盘问正方一辩
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            1分30秒
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            反方二辩针对正方一辩的立论进行针对性的盘问。
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            答辩方只能作答不能反问。
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            质询方有权在任何时候中止答辩方。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;box-sizing: border-box;">
+      <section style="display: table-row;width: 100%;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            立论：反方一辩开篇陈词
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            3分30秒
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section class="group-empty" style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;box-sizing: border-box;">
+      <section style="display: table-row;width: 100%;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            质询：正方二辩盘问反方一辩
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            1分30秒
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            同二
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;box-sizing: border-box;">
+      <section style="display: table-row;width: 100%;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            正、反方三辩对辩
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            各1分30秒
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            双方交替轮流发言，辩手无权中止对方未完成的言论。
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            双方计时分开进行，一方发言时间完毕，另一方可继续发言，直到剩余时间用完为止。
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            正方先发言。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;box-sizing: border-box;">
+      <section style="display: table-row;width: 100%;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            自由辩论
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            各3分钟
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            双方计时分开进行，每次一方辩手发言完毕后，另一方计时将立即开始。
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            一方发言时间完毕后，另一方可继续发言，直到剩余时间用完为止。
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            正方先发言。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="display: table-row-group;box-sizing: border-box;">
+      <section style="display: table-row;width: 100%;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            总结陈词
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            各3分钟
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 33.333%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);background-color: rgb(241, 241, 241);padding: 10px 0px 5px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            反方先进行陈词。
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            反驳对方立论架构及总结己方的立场。
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <img data-ratio="0.1642066" data-type="png" data-w="542" src="https://mmbiz.qpic.cn/mmbiz_png/7KicRju7UxHFu3RpxDMVmiaVSIIulNDfliaFCMibN4DrOM1oTFuKticQREf7g0NqYcgA2d40oibwVUnpqICVM6R5HJ9w/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="margin: 0px 0%;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;box-sizing: border-box;">
+     <section style="border-radius: 0.5em;border-color: rgb(134, 162, 223);border-style: solid;border-width: 1px;padding: 4px;display: inline-block;background-color: rgb(134, 162, 223);box-sizing: border-box;">
+      <section class="V5" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="color: rgb(255, 255, 255);box-sizing: border-box;">
+         <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+          03 赛制详解
+          <br style="box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section style="width: 0px;border-top: 0.8em solid rgb(134, 162, 223);margin: auto;border-left: 0.8em solid transparent !important;border-right: 0.8em solid transparent !important;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="padding-left: 8px;padding-bottom: 8px;box-sizing: border-box;">
+     <section style="border-color: rgb(192, 200, 209);border-style: solid;border-width: 1px;box-sizing: border-box;">
+      <section style="height: 8px;width: 100%;border-right: 1px solid rgb(192, 200, 209);transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-o-transform: rotate(45deg);transform-origin: right top 0px;-webkit-transform-origin: right top 0px;-moz-transform-origin: right top 0px;-o-transform-origin: right top 0px;margin-bottom: 4px;border-top-color: rgb(192, 200, 209);border-bottom-color: rgb(192, 200, 209);border-left-color: rgb(192, 200, 209);box-sizing: border-box;">
+      </section>
+      <section style="background-color: rgb(255, 255, 255);margin: -7px 4px -8px -6px;border-color: rgb(192, 200, 209);border-style: solid;border-width: 1px;padding: 10px;box-sizing: border-box;">
+       <section class="V5" style="box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           <strong style="box-sizing: border-box;">
+            <span style="font-size: 21px;box-sizing: border-box;">
+             立论陈词
+            </span>
+           </strong>
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           立论要求观点明晰、框架合理、重点突出。
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           <br style="box-sizing: border-box;"/>
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           需要你：
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           • 对题目中的关键字进行定义。
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           • 陈述我方的观点。
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           • 陈述对此观点的论证过程。
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           • 得出结论。
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           <br style="box-sizing: border-box;"/>
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           <strong style="letter-spacing: 0px;box-sizing: border-box;">
+            <span style="font-size: 21px;box-sizing: border-box;">
+             攻辩/质询环节
+            </span>
+           </strong>
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           • 被质询方必须正面回答对方问题。提问和回答都要简洁明确。重复提问和回避问题均要被扣分。每一轮攻辩，攻辩角色不得互换，辩方不得反问，攻方也不得回答问题。
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           • 攻辩尽量针对立论涉及内容。
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           • 双方共同计时，攻辩方可以随时合理地打断对方。
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           <br style="box-sizing: border-box;"/>
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           <strong style="box-sizing: border-box;">
+            <span style="font-size: 21px;box-sizing: border-box;">
+             对辩环节
+            </span>
+           </strong>
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           • 对辩环节由双方站立完成，交替发言，每方总计时90秒。由正方先发言。
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           • 任意一方发言结束，则视为另一方计时开始，中间不停表。攻辩双方任意一方落座视为完成本方攻辩，对方选手在限时内任意发挥（陈词或继续发问）
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           <br style="box-sizing: border-box;"/>
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           <strong style="box-sizing: border-box;">
+            <span style="font-size: 21px;box-sizing: border-box;">
+             自由辩论（4vs4/2vs2）
+            </span>
+           </strong>
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           • 自由辩论时间总共为6分钟，每队各3分钟。正方先发言。
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           • 双方依次轮流发言，一方落座，视为另一方计时开始，直到双方时间用完为止。
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           • 每一位辩手的发言次序、次数和时间均不受限制。
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           进行人身攻击、回避对方的质询及空场、有未发言选手等情形，将影响该队的成绩。
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           <br style="box-sizing: border-box;"/>
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           <strong style="box-sizing: border-box;">
+            <span style="font-size: 21px;box-sizing: border-box;">
+             结辩
+            </span>
+           </strong>
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           • 反方首先结辩
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           • 反驳对方立论架构及总结己方立场。
+          </p>
+          <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+           <br style="box-sizing: border-box;"/>
+          </p>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="margin: 0.5em 0px;box-sizing: border-box;">
+    <section style="width: 2.8em;display: inline-block;box-sizing: border-box;">
+     <img data-ratio="0.3613445" data-type="png" data-w="119" src="https://mmbiz.qpic.cn/mmbiz_png/7KicRju7UxHFu3RpxDMVmiaVSIIulNDfliaFDPPiaa5xO7Lia7ic9lOTCJERVvN0ia4kV2TI39UrC7bcJjPpYd804ia2wA/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+    <section style='width: 100%;border-top: 2px dotted rgba(126, 154, 220, 0.87);margin-top: -0.2em;background: rgba(0, 0, 0, 0) url("https://mmbiz.qpic.cn/mmbiz_png/7KicRju7UxHFu3RpxDMVmiaVSIIulNDfliawFMys6vLRy26yD2U5LkNkkh8RMnQKjdbmKnVpibkMH9JjRtCc8YYGMg/640?wx_fmt=png") repeat-x scroll 0% 0%;box-sizing: border-box;'>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style='display: inline-block;width: 100%;vertical-align: top;box-shadow: rgb(67, 103, 117) 0px 0px 10px inset;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/7KicRju7UxHFu3RpxDMVmiaVSIIulNDfliau6dZXbL7ILTyT4LuM29jKOFia4gZibviaJTa9CnWPjg1JBBhgqAmSn5fw/640?wx_fmt=png");background-position: 42.7805% 56.4516%;background-repeat: repeat;background-size: 87.8999% auto;background-attachment: scroll;background-color: rgb(229, 241, 246);box-sizing: border-box;'>
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;box-shadow: rgb(0, 0, 0) 0px 0px 0px;padding: 10px;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="margin: 10px 0% 0px;box-sizing: border-box;">
+          <section style="text-align: center;color: rgb(14, 14, 14);font-size: 15px;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            心辩的新生赛，是面向所有新生的
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            无论你有没有辩论经验
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            之前了没了解过辩论
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            都可以来报名参加
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            在这场新生赛中，决定你是否能够加入心辩的
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            绝非比赛的输赢（两个领队第一场比赛都输了TAT）
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            亦非仅仅只是场面
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            你对辩论的热情
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            你短短几分钟表现中的闪光点
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            我们都会看在眼里
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            只要你有对辩论的兴趣
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            只要你在比赛中展现了你自己
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            心辩，都欢迎你～
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="text-align: center;margin: 0px 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-shadow: rgb(0, 0, 0) 0px 0px 0px;border-width: 0px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);box-sizing: border-box;">
+        <img data-ratio="0.2078125" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/7KicRju7UxHFu3RpxDMVmiaVSIIulNDflia0wiaibOcOXAF8iaDTwYmuEUx47etr1bVRc96ZjvO44Hr0T1kKJ7xI7cQQ/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="text-align: right;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 40%;box-sizing: border-box;">
+     <img data-ratio="0.49375" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/7KicRju7UxHFu3RpxDMVmiaVSIIulNDfliataHRvs3vmLQicXaiaVxNLR4ZWPiclb2qRpYHwPNzAh3iacj6vQ1NLLm4ibQ/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="font-size: 21px;color: rgb(170, 150, 106);box-sizing: border-box;">
+     <p style="text-align: center;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       <span style="box-sizing: border-box;">
+        最后在节日的尾声也要祝大家
+       </span>
+       ：
+      </strong>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 10px 0%;box-sizing: border-box;">
+    <section style='display: inline-block;width: 200px;height: 160px;vertical-align: top;overflow: hidden;background-image: url("https://mmbiz.qpic.cn/mmbiz_png/7KicRju7UxHFu3RpxDMVmiaVSIIulNDfliaVJBtDLzC04BpIx9YDzybZqaqcNJ6nSuticJkRvcQJsrp8pBgPqDGfEg/640?wx_fmt=png");background-position: 50% 50%;background-repeat: no-repeat;background-size: contain;background-attachment: scroll;padding: 10px;box-sizing: border-box;'>
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" style="box-sizing: border-box;">
+      <section style="transform: translate3d(10px, 0px, 0px);-webkit-transform: translate3d(10px, 0px, 0px);-moz-transform: translate3d(10px, 0px, 0px);-o-transform: translate3d(10px, 0px, 0px);margin: 0px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 40%;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;box-sizing: border-box;">
+           <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-bottom: 10px;text-align: right;transform: translate3d(10px, 0px, 0px);-webkit-transform: translate3d(10px, 0px, 0px);-moz-transform: translate3d(10px, 0px, 0px);-o-transform: translate3d(10px, 0px, 0px);box-sizing: border-box;">
+          <section style="display: inline-block;border-color: transparent;border-style: solid;border-width: 2px;padding: 0.1em 0.3em;color: rgb(170, 150, 106);font-size: 21px;line-height: 1.4;box-sizing: border-box;">
+           <p style="display: inline-block;width: 1em;margin: 0px 0.2em;float: right;clear: none;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             快乐
+            </strong>
+           </p>
+           <p style="clear: both;font-size: 0px;line-height: 0;min-height: 0px;margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: inline-block;vertical-align: top;width: 40%;box-sizing: border-box;">
+        <section class="V5" style="box-sizing: border-box;">
+         <section style="margin-top: 10px;margin-bottom: 10px;text-align: left;box-sizing: border-box;">
+          <section style="display: inline-block;border-color: transparent;border-style: solid;border-width: 2px;padding: 0.1em 0.3em;color: rgb(170, 150, 106);font-size: 21px;line-height: 1.4;box-sizing: border-box;">
+           <p style="display: inline-block;width: 1em;margin: 0px 0.2em;float: right;clear: none;padding: 0px;box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             中秋
+            </strong>
+           </p>
+           <p style="clear: both;font-size: 0px;line-height: 0;min-height: 0px;margin: 0px;padding: 0px;box-sizing: border-box;">
+            <br style="box-sizing: border-box;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="margin: 30px 0% 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 40%;box-sizing: border-box;">
+     <img data-ratio="0.49375" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/7KicRju7UxHFu3RpxDMVmiaVSIIulNDfliaFb0Wbia0X23Nj6mkfedskHO2S2GxT2BibB7fySBYqEdF69iakHVFvyGFw/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+      <br style="box-sizing: border-box;"/>
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <img data-ratio="0.5" data-type="jpeg" data-w="1080" src="https://mmbiz.qpic.cn/mmbiz_jpg/7KicRju7UxHFu3RpxDMVmiaVSIIulNDfliaWich76kXIt7RFc0PiaoEjzmmnicJhN4kR5yd33YcHxvVhKiaNrMpibqU7ibA/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

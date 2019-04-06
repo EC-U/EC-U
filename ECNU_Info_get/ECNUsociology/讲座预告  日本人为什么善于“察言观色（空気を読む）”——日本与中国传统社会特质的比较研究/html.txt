@@ -1,0 +1,53 @@
+
+ <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;clear: both;min-height: 1em;color: rgb(51, 51, 51);font-family: 微软雅黑;font-size: 16px;font-style: normal;font-variant: normal;font-weight: normal;letter-spacing: 0.544000029563904px;line-height: 25.6000003814697px;orphans: auto;text-indent: 0px;text-transform: none;white-space: normal;widows: 1;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-align: center;background-color: rgb(255, 255, 255);">
+  <span style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;font-size: 16px;font-family: 楷体;">
+   <img data-ratio="1.5025773195876288" data-type="png" data-w="388" src="https://mmbiz.qpic.cn/mmbiz_png/30WNPNLJ3sIAJaDJia3UnErIRYYvZEp1PCofyQEceE9HMLXL1H99psPK3cEzjLcPibhWt3CPj0XtGgs8A6dBAG6Q/640?wx_fmt=png" style="margin: 0px;padding: 0px;height: auto !important;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;width: 388px !important;visibility: visible !important;"/>
+  </span>
+ </p>
+ <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;clear: both;min-height: 1em;color: rgb(51, 51, 51);font-family: 微软雅黑;font-size: 16px;font-style: normal;font-variant: normal;font-weight: normal;letter-spacing: 0.544000029563904px;line-height: 25.6000003814697px;orphans: auto;text-indent: 0px;text-transform: none;white-space: normal;widows: 1;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-align: center;background-color: rgb(255, 255, 255);">
+  <br style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+ </p>
+ <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;clear: both;min-height: 1em;color: rgb(51, 51, 51);font-family: 微软雅黑;font-size: 16px;font-style: normal;font-variant: normal;font-weight: normal;letter-spacing: 0.544000029563904px;line-height: 25.6000003814697px;orphans: auto;text-indent: 0px;text-transform: none;white-space: normal;widows: 1;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-align: center;background-color: rgb(255, 255, 255);">
+  <strong style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;">
+   内容简介
+  </strong>
+ </p>
+ <section data-id="94052" data-tools="135编辑器" style="font: 16px/25.6px 微软雅黑;margin: 0px;padding: 0px;border: 0px;text-align: justify;color: rgb(51, 51, 51);text-transform: none;text-indent: 0px;letter-spacing: 0.54px;word-spacing: 0px;white-space: normal;word-wrap: break-word !important;max-width: 100%;box-sizing: border-box;widows: 1;font-size-adjust: none;font-stretch: normal;-webkit-text-stroke-width: 0px;background-color: rgb(255, 255, 255);">
+  <section data-width="100%" style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;width: 677px;">
+   <section data-bgless="spin" data-bglessp="280" data-bgopacity="50%" style="margin: 0px 0px -4.8em;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;width: 5em;height: 5em;border-bottom-right-radius: 100%;background: rgb(231, 246, 253);">
+   </section>
+   <section style="margin: 0px;padding: 0px 0.3em 0px 0.2em;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+    <section style="margin: 0px auto;padding: 0px;border: 1px solid rgb(240, 240, 240);word-wrap: break-word !important;max-width: 100%;box-sizing: border-box !important;box-shadow: 0px 0px 3px rgb(230,230,230);transform: rotate(0deg);">
+     <section data-autoskip="1" data-bgless="spin" data-bglessp="280" data-bgopacity="50%" style="margin: 0px;padding: 1em;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;font-size: 14px;text-align: justify;letter-spacing: 1.5px;line-height: 1.75em;color: rgb(63, 62, 63);background: rgba(255, 255, 255, 0.8);">
+      中国社会的特质是具有开放性，但是个体团结（共同体认同）却相对薄弱；与此形成鲜明对比，日本社会则具有很强的基于共同体认同的集团性，特别是以地方社会场域为特征集体团结力非常强。即：中国传统社会的个体化特质鲜明，而日本却完全相反是一个“整体社会”。
+     </section>
+    </section>
+   </section>
+   <section data-bgless="spin" data-bglessp="120" data-bgopacity="50%" style="margin: -4.7em 0px 0px;padding: 0px;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;width: 5em;height: 5em;border-top-left-radius: 100%;float: right;background: rgb(192, 182, 235);">
+   </section>
+  </section>
+ </section>
+ <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;clear: both;min-height: 1em;color: rgb(51, 51, 51);font-family: 微软雅黑;font-size: 16px;font-style: normal;font-variant: normal;font-weight: normal;letter-spacing: 0.544000029563904px;line-height: 25.6000003814697px;orphans: auto;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 1;word-spacing: 0px;-webkit-text-stroke-width: 0px;background-color: rgb(255, 255, 255);">
+  <br style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;"/>
+ </p>
+ <section data-id="94095" data-tools="135编辑器" style="font: 16px/25.6px 微软雅黑;margin: 0px;padding: 0px;border: 0px;text-align: justify;color: rgb(51, 51, 51);text-transform: none;text-indent: 0px;letter-spacing: 0.54px;word-spacing: 0px;white-space: normal;word-wrap: break-word !important;max-width: 100%;box-sizing: border-box;widows: 1;font-size-adjust: none;font-stretch: normal;-webkit-text-stroke-width: 0px;background-color: rgb(255, 255, 255);">
+  <section style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;background: rgb(247, 247, 247);">
+   <section data-autoskip="1" style="margin: 0px;padding: 1em;max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;font-size: 14px;text-align: justify;letter-spacing: 1.5px;line-height: 1.75em;color: rgb(63, 62, 63);">
+    <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;clear: both;min-height: 1em;">
+     主讲人：田中 比吕志（东京学艺大学教授）
+    </p>
+    <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;clear: both;min-height: 1em;">
+     主持人：张文明（社会发展学院 教授）
+    </p>
+    <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;clear: both;min-height: 1em;">
+     讲座时间：1月3日（周四）15:00—17:00
+    </p>
+    <p style="margin: 0px;padding: 0px;max-width: 100%;box-sizing: border-box !important;word-wrap: break-word !important;clear: both;min-height: 1em;">
+     讲座地点：闵行校区法商北楼525
+    </p>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>

@@ -1,0 +1,227 @@
+
+ <p style="line-height: 25.6px; text-indent: 0em; white-space: normal;">
+  <span style="font-size: 12px; color: rgb(122, 68, 66);">
+   曹妍
+  </span>
+ </p>
+ <p style="line-height: 25.6px; text-indent: 0em; white-space: normal;">
+  <span style="line-height: 1.6; font-size: 12px; color: rgb(122, 68, 66);">
+   华东师范大学晨晖学者、高等教育研究所
+  </span>
+ </p>
+ <p style="line-height: 25.6px; white-space: normal; text-indent: 28px;">
+  <br/>
+ </p>
+ <p style="white-space: normal; text-indent: 2em; text-align: justify; line-height: 1.5em;">
+  各位老师、同学，媒体朋友大家好！很荣幸和各位大咖坐在一起对话。
+ </p>
+ <p style="white-space: normal; text-indent: 2em; text-align: justify; line-height: 1.5em;">
+  <span style="line-height: 1.6;">
+   华东师大教育学部近期针对高等教育入学机会进行了指数构建。结合2007年到2014年各个省的数据情况，我对每个地区的高等教育入学机会和地区差异进行了数据分析。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 2em; text-align: justify; line-height: 1.5em;">
+  <span style="line-height: 1.6;">
+   刚才谈到了很多公平问题，很多教授谈到了扩招以后，从教育结果上来讲是肯定不公平的。但是从教育的角度出发探讨教育结果的公平，似乎对于我们特别是高等教育阶段来讲是一个奢求。在我们放弃结果公平实现可能的情况下，有没有可能在一定程度上实现起点的公平呢？高等教育的起点就是入学考试，考试过后，地区和地区之间是存在着一定差异的，这点大家很清楚。经济学上禀赋的概念也可以利用衡量地区的差异，是指受到历史、政治、经济发展的影响，各个地区的一些固定的不随时间发生变化的差异，比如人口、经济和高等教育资源等。
+  </span>
+  <strong style="line-height: 1.6;">
+   当我们承认地区之间的差异性确实存在的情况下，我们更想关注的是如何能够在后期发展的过程中，让这种差异越来越小。
+  </strong>
+ </p>
+ <p style="white-space: normal; text-indent: 2em; text-align: justify; line-height: 1.5em;">
+  <span style="text-indent: 28px; line-height: 1.6;">
+   入学机会的公平性问题，与整个高考的招生和录取是分不开的。在高考过程当中存在一些矛盾，进而影响到地区高等教育入学机会的提高。第一个矛盾就是高考要求每个考生必须要在户籍所在地进行高考，而随着人口流动规模的不断增加，回到户籍所在地进行高考就变成流动儿童遇到的高考升学问题。同时，在户籍所在地进行高考，地区的适龄人口并非地区常住适龄人口，而是地区户籍的适龄人口。这种情况造成了统计困难，我们无法估计到到底是哪些适龄人口是这个地区应该参加高考的适龄人口。另外一个矛盾在于招生的过程当中，大部分高校都是在全国范围内进行招生的，而高校所在的地区事实上还是希望能够争取到更多的名额给本地的考生，这就造成了属地化的问题。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 2em; text-align: justify; line-height: 1.5em;">
+  <span style="line-height: 1.6;">
+   这样的两个矛盾下，我们建立了一个
+  </span>
+  <strong style="line-height: 1.6;">
+   高等教育入学机会指数
+  </strong>
+  <span style="line-height: 1.6;">
+   。指数当中涉及到三个部分：
+  </span>
+  <strong style="line-height: 1.6;">
+   第一个部分是探讨这个地区实际享有的录取机会。
+  </strong>
+  <span style="line-height: 1.6;">
+   我们采用适龄人口录取率进行衡量，希望看的是在这个地区的适龄人口当中，有多大比例可以接受高等教育。但是在统计上来说，适龄人口的数量遇到了问题。我们采用了六年前这批孩子的毕业生数作为适龄人口数的替代指标，成为适龄人口录取率的分母，统考的录取人数作为分子。
+  </span>
+  <strong style="line-height: 1.6;">
+   第二个比较重要指标实际上衡量每个地区报名人数当中有多大的比例可以被录取。
+  </strong>
+  <span style="line-height: 1.6;">
+   众所周知，各个地区的分数线的差异是很大的，如果不考虑差异，纯粹从报名和录取的比重来看，北京上海同样的报名人数当中可能有相对比较大的比例会获得录取资格。衡量报名的录取率则有助于衡量不同地区高考录取的难易程度。第
+  </span>
+  <strong style="line-height: 1.6;">
+   三个问题主要是关注地区本身的高等教育的资源配置状况。
+  </strong>
+  <span style="line-height: 1.6;">
+   实际上，高等教育的招生情况反映了可以提供的招生容量，这样的容量大小到底多大，对于后期的入学机会还是有很大的关系。这个指标叫招生外溢水平，如果水平大于1，说明考生全部被当地录取了以后，这个地区还有录取机会留给其他地区，说明这个地区的招生状况具有外溢性的，这样当地学生录取的机会也会比较多一些。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 2em; text-align: justify; line-height: 1.5em;">
+  <span style="line-height: 1.6;">
+   通过三个指标就可以构建了
+  </span>
+  <strong style="line-height: 1.6;">
+   高等教育入学机会指数
+  </strong>
+  <span style="line-height: 1.6;">
+   。除此之外，研究还选取了34所优质高校，依次对这些高校2008年、2011年和2014年分省的招生情况进行了统计和收集，构建了
+  </span>
+  <strong style="line-height: 1.6;">
+   优质高校的入学机会指数
+  </strong>
+  <span style="line-height: 1.6;">
+   。
+  </span>
+ </p>
+ <p style="white-space: normal; text-indent: 2em; text-align: justify; line-height: 1.5em;">
+  <span style="line-height: 1.6;">
+   我们看一下研究结果。整体上来说，通过因子分析的办法，平均水平一百分，标准差是二十，少于一百的说明入学机会是低于总体平均水平的，大于一百超过了平均水平。
+  </span>
+  <strong style="line-height: 1.6;">
+   总体上，高等教育入学机会其实有比较大幅的增长，2007年到2011年增长幅度比较大。2011年以后略微有所下降，但是依然是增长的，整体增长幅度达到了32%。从优质高校的入学机会方面可以发现，2008年、2011年、2014年，差异没有特别大，只有一点点增加，增加的幅度在4.6%。
+  </strong>
+ </p>
+ <p style="white-space: normal; text-indent: 2em; text-align: justify; line-height: 1.5em;">
+  <strong>
+   截止到2014年，从各个地区的高等教育入学机会来看，可以发现北京、上海和天津在总的入学机会和优质的入学机会的指数都是非常大的。
+  </strong>
+  其次我们比较关注的是西部地区。
+  <strong>
+   西部地区存在着一定的分化。
+  </strong>
+  其实西部地区的个别省份入学机会是不差的，比如说内蒙古、重庆、宁夏、陕西，其它的西部地区，入学机会基本上排在全国靠后。再看
+  <strong>
+   优质入学机会，除了上海、北京、天津比较突出以外，吉林、重庆、浙江的优质入学机会比较突出。
+  </strong>
+  浙江和吉林能够选取的这34所高校当中就是吉大和浙大，之前合并了很多地方高校，投入到地方本身的名额比较多。浙大2014年总共招生2400人，在当地的招生达到了近50%。
+ </p>
+ <p style="white-space: normal; text-indent: 2em; text-align: justify; line-height: 1.5em;">
+  接下来是各个地区入学机会的增长状况，内蒙古地区是最为突出的，在八年间平均增长率非常高。我们可以推测，一方面内蒙古地区靠近北京，相对于其他的西部地区来说是靠近于高等教育资源丰富地区的。另外一个因素是内蒙古地区的人口相对比较少。另外可能在西部少数民族计划当中获益。在整体水平上来说，并不是每个省份都一样，也不是所有的西部地区都有获益状况。优质入学机会增长比较大的依然是北京、天津、吉林。
+ </p>
+ <p style="white-space: normal; text-indent: 2em; text-align: justify; line-height: 1.5em;">
+  接下来关注地区差异。我们要看公平，公平采用变异系数进行测量。可以发现，
+  <strong>
+   对于总的入学机会来说，地区差异在逐年缩小
+  </strong>
+  ，其中在2010年到2014年地区差异变异缩小幅度更大一点，这对于我们而言是个好消息，说明总的来看入学机会在各地区之间分布差异越来越公平。另一方面可以看到就是
+  <strong>
+   优质高校的入学机会在各地区之间的差异在逐年增大
+  </strong>
+  。对于同样上一流大学的不同地区来说，这个差异是逐年扩大，而不是逐年缩小的，这是我们并不乐于见到的一个现象。我们具体又分了中部、东部、西部来看，总体的入学机会东部和整体差异不大，但是西部地区差异波动比较大。
+ </p>
+ <p style="white-space: normal; text-indent: 2em; text-align: justify; line-height: 1.5em;">
+  回到原有问题，我们再考虑一下到底哪些因素会影响到入学机会。禀赋的差异是固定存在的，我们可以利用面板数据的固定效应模型对禀赋差异进行控制，我们看看在消除了地区差异以后到底哪些因素会影响到入学机会。图里面代表的是回归当中各因素贡献的解释力度，
+  <strong>
+   对于总体入学机会来说，适龄人口的降低显著地增加入学机会，录取人数的提高也显著地提高了入学机会。与之相对比，优质入学机会非常突出的不一样的地方在于，经济发展水平对于影响入学机会具有非常重要的作用。
+  </strong>
+  也就是说，能不能上优质高校，和你所在的地区经济发展水平有着高度的相关关系，同时会在其中贡献非常重要的作用，如果换成地区高等教育财政投入，结果和经济发展水平基本相似。实际上，我们有一个财政中立的原则，入学机会也好，教育结果也好，尽可能和财力水平没有关系。如果一个地区入学机会与都去经济发展水平或财力水平产生高度的相关性，则说明地区之间随着经济发展水平差异或财力水平差异的扩大而扩大。为了让入学机会更加均等，我们希望能够通过高考设置一个像赛车一样公平的起跑点，希望不同的省份一起赛车。现在的问题是同样是赛车，不同地区配置是不一样的，有些省份开得是是跑车，有些开着SUV，有些地区可能是自行车，其本身经济发展水平或从财力水平为后期的发展产生了很强大的拉动力。因此，
+  <strong>
+   对于优质高等教育资源来说，在我国各地区经济差异不均衡的背景下，经济发展水平或者地区的财力水平就成为导致不公平逐渐扩大的主要原因。
+  </strong>
+ </p>
+ <p style="white-space: normal; text-indent: 2em; text-align: justify; line-height: 1.5em;">
+  <span style="line-height: 1.6;">
+   我想和大家介绍的主要就是这些，谢谢大家！
+  </span>
+ </p>
+ <p style="line-height: 25.6px; white-space: normal;">
+  <br/>
+ </p>
+ <p style="line-height: 25.6px; white-space: normal;">
+  <br/>
+ </p>
+ <p style="white-space: normal; max-width: 100%; min-height: 1em; color: rgb(62, 62, 62); line-height: 34.1333px; text-align: center; box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <span style="max-width: 100%; color: rgb(123, 12, 0); box-sizing: border-box !important; word-wrap: break-word !important;">
+   时间：2016年5月7日
+   <br style="max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"/>
+  </span>
+ </p>
+ <p style="white-space: normal; max-width: 100%; min-height: 1em; color: rgb(62, 62, 62); line-height: 34.1333px; text-align: center; box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <span style="max-width: 100%; color: rgb(123, 12, 0); box-sizing: border-box !important; word-wrap: break-word !important;">
+   地点：华东师范大学科学会堂
+  </span>
+ </p>
+ <p style="white-space: normal; max-width: 100%; min-height: 1em; color: rgb(62, 62, 62); line-height: 34.1333px; box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <br style="max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"/>
+ </p>
+ <p style="white-space: normal; max-width: 100%; min-height: 1em; color: rgb(62, 62, 62); line-height: 34.1333px; box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <br style="max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"/>
+ </p>
+ <p style="white-space: normal; max-width: 100%; min-height: 1em; color: rgb(62, 62, 62); line-height: 34.1333px; text-align: center; box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <span style="max-width: 100%; color: rgb(136, 136, 136); box-sizing: border-box !important; word-wrap: break-word !important;">
+   以供给侧改革促进教育公平高峰论坛
+  </span>
+ </p>
+ <p style="white-space: normal; max-width: 100%; min-height: 1em; color: rgb(62, 62, 62); line-height: 34.1333px; text-align: center; box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <span style="max-width: 100%; color: rgb(136, 136, 136); box-sizing: border-box !important; word-wrap: break-word !important;">
+   嘉宾演讲全文权威发布
+  </span>
+ </p>
+ <p style="white-space: normal; max-width: 100%; min-height: 1em; color: rgb(62, 62, 62); line-height: 34.1333px; text-align: center; box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <span style="max-width: 100%; color: rgb(136, 136, 136); box-sizing: border-box !important; word-wrap: break-word !important;">
+   由教育公平协同创新中心
+  </span>
+ </p>
+ <p style="white-space: normal; max-width: 100%; min-height: 1em; color: rgb(62, 62, 62); line-height: 34.1333px; text-align: center; box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <span style="max-width: 100%; color: rgb(136, 136, 136); box-sizing: border-box !important; word-wrap: break-word !important;">
+   与国家教育宏观政策研究院独家提供
+  </span>
+ </p>
+ <p style="white-space: normal; max-width: 100%; min-height: 1em; color: rgb(62, 62, 62); line-height: 34.1333px; text-align: center; box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <span style="max-width: 100%; color: rgb(136, 136, 136); box-sizing: border-box !important; word-wrap: break-word !important;">
+   转载请注明出处
+  </span>
+ </p>
+ <p style="line-height: 25.6px; white-space: normal; max-width: 100%; min-height: 1em; color: rgb(62, 62, 62); box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <span style="max-width: 100%; color: rgb(191, 191, 191); line-height: 22.39px; font-family: 微软雅黑; font-size: 12px; box-sizing: border-box !important; word-wrap: break-word !important;">
+  </span>
+ </p>
+ <p style="line-height: 25.6px; white-space: normal; max-width: 100%; min-height: 1em; color: rgb(62, 62, 62); box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <span style="max-width: 100%; color: rgb(151, 72, 6); font-size: 18px; line-height: 25.6px; widows: auto; box-sizing: border-box !important; word-wrap: break-word !important;">
+   <br style="max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"/>
+  </span>
+ </p>
+ <p style="line-height: 25.6px; white-space: normal; max-width: 100%; min-height: 1em; color: rgb(62, 62, 62); box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <br style="max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"/>
+ </p>
+ <section class="tn-Powered-by-XIUMI" style="line-height: 25.6px; white-space: normal; max-width: 100%; color: rgb(62, 62, 62); box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <section class="tn-Powered-by-XIUMI" style="max-width: 100%; box-sizing: border-box; border-color: rgb(95, 156, 239); color: rgb(51, 51, 51); font-family: inherit; font-size: 1em; text-decoration: inherit; word-wrap: break-word !important;">
+   <section class="tn-Powered-by-XIUMI" style="max-width: 100%; box-sizing: border-box; height: 16px; word-wrap: break-word !important;">
+    <section class="tn-Powered-by-XIUMI" style="max-width: 100%; box-sizing: border-box; border-color: rgb(95, 156, 239); width: 24px; height: 16px; border-top-width: 6px; border-left-width: 6px; border-top-style: solid; border-left-style: solid; float: left; word-wrap: break-word !important;">
+    </section>
+    <section class="tn-Powered-by-XIUMI" style="max-width: 100%; box-sizing: border-box; border-color: rgb(95, 156, 239); width: 24px; height: 16px; border-top-width: 6px; border-right-width: 6px; border-top-style: solid; border-right-style: solid; float: right; word-wrap: break-word !important;">
+    </section>
+    <section class="tn-Powered-by-XIUMI" style="max-width: 100%; box-sizing: border-box; color: transparent; clear: both; display: inline-block; word-wrap: break-word !important;">
+    </section>
+   </section>
+   <section class="tn-Powered-by-XIUMI" style="margin: -13px 3px; padding: 12px; max-width: 100%; box-sizing: border-box; border-radius: 6px; border: 1px solid rgb(95, 156, 239); border-image-source: none; line-height: 1.4; font-family: inherit; word-wrap: break-word !important;">
+    <p style="max-width: 100%; box-sizing: border-box; min-height: 1em; white-space: pre-wrap; text-align: center; word-wrap: break-word !important;">
+     <strong style="max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+      本公众号主要用于发布华东师范大学教育公平协同创新中心的阶段性及重大研究成果，敬请长按以下二维码关注我们！
+     </strong>
+    </p>
+   </section>
+   <section class="tn-Powered-by-XIUMI" style="max-width: 100%; box-sizing: border-box; height: 16px; word-wrap: break-word !important;">
+    <p style="max-width: 100%; box-sizing: border-box; min-height: 1em; white-space: pre-wrap; border-color: rgb(95, 156, 239); width: 24px; height: 16px; border-bottom-width: 6px; border-left-width: 6px; border-bottom-style: solid; border-left-style: solid; float: left; word-wrap: break-word !important;">
+     <strong style="max-width: 100%; text-align: center; line-height: 1.4; font-family: inherit; font-size: 1em; text-decoration: inherit; box-sizing: border-box !important; word-wrap: break-word !important;">
+      <br style="max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"/>
+     </strong>
+    </p>
+   </section>
+  </section>
+ </section>
+ <p style="line-height: 25.6px; max-width: 100%; min-height: 1em; white-space: pre-wrap; color: rgb(62, 62, 62); box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <br style="max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"/>
+ </p>
+ <p style="line-height: 25.6px; max-width: 100%; min-height: 1em; white-space: pre-wrap; color: rgb(62, 62, 62); text-align: center; box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <img data-ratio="1" data-s="300,640" data-type="jpeg" data-w="172" src="http://mmbiz.qpic.cn/mmbiz/3lSKGbngNK7BmOnEFPia2MGk2tKNf9NrM2rqLPDibZN54lXkOkP31h2MbNlXNvpaiaxVIgXwLIvFckkNibYccGaSIg/640?wx_fmt=jpeg" style="box-sizing: border-box !important; word-wrap: break-word !important; width: auto !important; visibility: visible !important;"/>
+ </p>
+ <p>
+  <br/>
+ </p>

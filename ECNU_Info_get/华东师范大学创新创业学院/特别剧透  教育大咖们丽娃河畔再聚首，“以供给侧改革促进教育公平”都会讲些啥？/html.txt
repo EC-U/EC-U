@@ -1,0 +1,349 @@
+
+ <section class="yead_editor" label="Copyright © 2015 Yead All Rights Reserved." style="line-height: 25.6px; white-space: normal;">
+  <section style="margin-right: auto; margin-left: auto;">
+   <section style="height: 40px; box-sizing: border-box; color: inherit;">
+    <section class="yead_bdc" style="height: 40px; width: 100px; float: right; border-top-width: 1px; border-top-style: solid; border-color: rgb(78, 153, 223); border-right-width: 1px; border-right-style: solid; box-sizing: border-box; color: inherit;">
+     <section style="margin-top: -8px; margin-right: -6px; padding: 3px; border-radius: 100%; line-height: 1; display: inline-block; height: 14px; width: 14px; color: rgb(255, 255, 255); float: right; background-color: rgb(254, 254, 254);">
+      <section class="yead_bgc" style="width: 8px; height: 8px; border-radius: 50%; color: rgb(29, 92, 105); background-color: rgb(78, 153, 223);">
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section data-style="font-size: 14px;line-height:1.5em; color: rgb(62, 62, 62);" style="margin-top: -1.2em; padding-right: 15px; padding-left: 15px; line-height: 1.5em; color: rgb(62, 62, 62); display: inline-block;">
+   <p style="margin-top: 5px; margin-bottom: 5px; line-height: 30px; text-indent: 2em;">
+    <span style="color: rgb(0, 130, 255);">
+     <strong>
+      编者按：
+     </strong>
+    </span>
+   </p>
+   <p style="margin-top: 5px; margin-bottom: 5px; line-height: 30px; text-indent: 2em;">
+    <span style="color: rgb(0, 130, 255);">
+     <strong>
+      <span style="max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+       “以供给侧改革促进教育公平”高峰论坛开幕在即，此次论坛受到了社会各界人士的广泛关注，报名情况异常火爆。本期微信推送就为大家剧透一下各位大咖的演讲题目，赶紧一睹为快吧！
+      </span>
+     </strong>
+    </span>
+   </p>
+  </section>
+  <section style="margin-top: -1.4em;">
+   <section style="height: 40px; box-sizing: border-box; color: inherit;">
+    <section class="yead_bdc" style="height: 40px; width: 100px; float: left; border-bottom-width: 1px; border-bottom-style: solid; border-color: rgb(78, 153, 223); border-left-width: 1px; border-left-style: solid; box-sizing: border-box; color: inherit;">
+    </section>
+   </section>
+   <section style="margin-top: -8px; margin-left: -6px; padding: 3px; border-radius: 100%; line-height: 1; display: inline-block; height: 14px; width: 14px; color: rgb(255, 255, 255); float: left; background-color: rgb(254, 254, 254);">
+    <section class="yead_bgc" style="width: 8px; height: 8px; border-radius: 50%; color: rgb(29, 92, 105); background-color: rgb(78, 153, 223);">
+    </section>
+   </section>
+  </section>
+ </section>
+ <p style="margin-top: 5px; margin-bottom: 5px; white-space: normal; font-family: 微软雅黑; font-size: 14px; line-height: normal;">
+  <br/>
+ </p>
+ <p style="margin-top: 5px; margin-bottom: 5px; white-space: normal; font-family: 微软雅黑; font-size: 14px; line-height: normal;">
+  <br/>
+ </p>
+ <p style="line-height: 25.6px; max-width: 100%; min-height: 1em; white-space: pre-wrap; color: rgb(62, 62, 62); text-align: center; box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <span style="max-width: 100%; font-size: 20px; box-sizing: border-box !important; word-wrap: break-word !important;">
+   <strong style="max-width: 100%; color: rgb(0, 32, 96); box-sizing: border-box !important; word-wrap: break-word !important;">
+    <span style="max-width: 100%; font-family: 微软雅黑; box-sizing: border-box !important; word-wrap: break-word !important;">
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="line-height: 25.6px; max-width: 100%; min-height: 1em; white-space: pre-wrap; color: rgb(62, 62, 62); text-align: center; box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <span style="max-width: 100%; font-size: 20px; box-sizing: border-box !important; word-wrap: break-word !important;">
+   <strong style="max-width: 100%; color: rgb(0, 32, 96); box-sizing: border-box !important; word-wrap: break-word !important;">
+    <span style="max-width: 100%; font-family: 微软雅黑; box-sizing: border-box !important; word-wrap: break-word !important;">
+     “以供给侧改革促进教育公平”
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="line-height: 25.6px; max-width: 100%; min-height: 1em; white-space: pre-wrap; color: rgb(62, 62, 62); text-align: center; box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <span style="max-width: 100%; font-size: 20px; box-sizing: border-box !important; word-wrap: break-word !important;">
+   <strong style="max-width: 100%; color: rgb(0, 32, 96); box-sizing: border-box !important; word-wrap: break-word !important;">
+    <span style="max-width: 100%; font-family: 微软雅黑; box-sizing: border-box !important; word-wrap: break-word !important;">
+     高峰论坛议程
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="line-height: 25.6px; max-width: 100%; min-height: 1em; white-space: pre-wrap; color: rgb(62, 62, 62); text-align: center; box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <span style="max-width: 100%; font-size: 20px; box-sizing: border-box !important; word-wrap: break-word !important;">
+   <strong style="max-width: 100%; color: rgb(0, 32, 96); box-sizing: border-box !important; word-wrap: break-word !important;">
+    <span style="max-width: 100%; font-family: 微软雅黑; box-sizing: border-box !important; word-wrap: break-word !important;">
+     <br/>
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="line-height: 25.6px; max-width: 100%; min-height: 1em; white-space: pre-wrap; color: rgb(62, 62, 62); text-align: center; box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <span style="max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+   <strong style="max-width: 100%; color: rgb(0, 32, 96); box-sizing: border-box !important; word-wrap: break-word !important;">
+    <span style="max-width: 100%; font-family: 微软雅黑; box-sizing: border-box !important; word-wrap: break-word !important;">
+     上海·华东师范大学
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="line-height: 25.6px; max-width: 100%; min-height: 1em; white-space: pre-wrap; color: rgb(62, 62, 62); text-align: center; box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <span style="max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+   <strong style="max-width: 100%; color: rgb(0, 32, 96); box-sizing: border-box !important; word-wrap: break-word !important;">
+    <span style="font-size: 14px; max-width: 100%; font-family: 微软雅黑; box-sizing: border-box !important; word-wrap: break-word !important;">
+     <strong style="font-size: 20px; line-height: 25.6px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+      <span style="font-size: 14px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+       2016年5月7日
+      </span>
+     </strong>
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="line-height: 25.6px; max-width: 100%; min-height: 1em; white-space: pre-wrap; color: rgb(62, 62, 62); text-align: center; box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <span style="max-width: 100%; font-size: 14px; box-sizing: border-box !important; word-wrap: break-word !important;">
+   <strong style="max-width: 100%; color: rgb(0, 32, 96); box-sizing: border-box !important; word-wrap: break-word !important;">
+    <span style="max-width: 100%; font-family: 微软雅黑; box-sizing: border-box !important; word-wrap: break-word !important;">
+    </span>
+   </strong>
+  </span>
+  <br/>
+ </p>
+ <p style="line-height: 25.6px; max-width: 100%; min-height: 1em; white-space: pre-wrap; color: rgb(62, 62, 62); text-align: center; box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <span style="max-width: 100%; font-size: 14px; box-sizing: border-box !important; word-wrap: break-word !important;">
+   <strong style="max-width: 100%; color: rgb(0, 32, 96); box-sizing: border-box !important; word-wrap: break-word !important;">
+    <span style="max-width: 100%; font-family: 微软雅黑; box-sizing: border-box !important; word-wrap: break-word !important;">
+     <br/>
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p style="line-height: 25.6px; max-width: 100%; min-height: 1em; white-space: pre-wrap; color: rgb(62, 62, 62); text-align: right; box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <img data-ratio="2.3255395683453237" data-s="300,640" data-type="jpeg" data-w="" src="http://mmbiz.qpic.cn/mmbiz/3lSKGbngNK7wsPJ8RKcNB67WeqjW3TySB0oeqwpzlfy0aLjFsqmsVfgf6tib6lH0kICrcErDibEEPKuqYhqMAhvw/0?wx_fmt=jpeg"/>
+  <br/>
+  <span style="line-height: 25.6px; text-align: right;">
+   （
+  </span>
+  <span style="line-height: 25.6px; text-align: right;">
+   点击图片可放大查看 ）
+  </span>
+ </p>
+ <p style="line-height: 25.6px; white-space: normal; text-align: center;">
+  <br/>
+ </p>
+ <p style="line-height: 25.6px; white-space: normal; text-align: center;">
+  <br/>
+ </p>
+ <p>
+  <br/>
+ </p>
+ <section class="yead_editor" label="Copyright © 2015 Yead All Rights Reserved." style="line-height: 25.6px; white-space: normal;">
+  <blockquote class="yead_bdc" style="margin-top: 5px; margin-bottom: 5px; padding-right: 10px; border: 2px dashed rgb(78, 153, 223); max-width: 100%; color: rgb(62, 62, 62); line-height: 30px; box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+   <p style="margin-top: 5px; margin-bottom: 5px;">
+    <strong>
+     <span style="color: rgb(0, 112, 192);">
+      一、举办单位：
+     </span>
+    </strong>
+   </p>
+   <p>
+    主办：
+   </p>
+   <p>
+    中国教育三十人论坛
+   </p>
+   <p>
+    华东师范大学教育公平协同创新中心
+   </p>
+   <p>
+    国家教育宏观政策研究院
+   </p>
+   <p>
+    <br/>
+   </p>
+   <p>
+    协办：
+   </p>
+   <p>
+    中国教师教育网
+   </p>
+   <p>
+    <br/>
+   </p>
+   <p>
+    <span style="color: rgb(0, 112, 192);">
+     <strong>
+      二、议题：
+     </strong>
+    </span>
+   </p>
+   <p>
+    1.  教育公平与制度创新
+   </p>
+   <p>
+    2.  教育公平与高考改革
+   </p>
+   <p>
+    3.  教育公平与教育效率
+   </p>
+   <p>
+    4.  教育公平与城镇化
+   </p>
+   <p>
+    5.  教育公平与因材施教
+   </p>
+   <p>
+    6.  教育公平与互联网创新
+   </p>
+   <p>
+    <br/>
+   </p>
+   <p class="yead_color">
+    <span style="color: rgb(0, 112, 192);">
+     三、报到事宜
+    </span>
+   </p>
+   <p>
+    论坛时间：2016年5月7日（全天）
+   </p>
+   <p>
+    论坛地点：上海市中山北路3663号华东师范大学学术交流中心（逸夫楼）
+   </p>
+   <p>
+    <br/>
+   </p>
+   <p>
+    <strong>
+     <span style="color: rgb(0, 112, 192);">
+      四、注册须知
+     </span>
+    </strong>
+   </p>
+   <p>
+    <br/>
+   </p>
+   <p>
+    1. 若会议注册网址登录不上，请更换浏览器再做尝试
+   </p>
+   <p>
+    2. 为保证论坛质量，报名后请注意查收邮件通知，具体的会务安排将于5月初以邮件的形式发出。
+   </p>
+   <p>
+    3. 报名截止日期:2016年4月30日
+   </p>
+   <p>
+    <br/>
+   </p>
+   <p>
+    <strong>
+     <span style="color: rgb(0, 112, 192);">
+      五、参会说明
+     </span>
+    </strong>
+   </p>
+   <p style="margin-top: 5px; margin-bottom: 5px; line-height: normal;">
+    本次论坛不收取会务费，参会者交通食宿费自理。
+   </p>
+   <p style="margin-top: 5px; margin-bottom: 5px; line-height: normal;">
+    请点击左下角“阅读原文”报名参会
+   </p>
+   <p style="margin-top: 5px; margin-bottom: 5px; line-height: normal;">
+    联系电话：021-62238289
+   </p>
+   <p style="margin-top: 5px; margin-bottom: 5px; line-height: normal;">
+    联 系 人 ：张 凯
+   </p>
+   <p>
+    <br/>
+   </p>
+  </blockquote>
+ </section>
+ <p>
+  <br/>
+ </p>
+ <p style="line-height: 25.6px; white-space: normal; text-align: center;">
+  <br/>
+ </p>
+ <p style="line-height: 25.6px; white-space: normal; text-align: center;">
+  <img data-ratio="0.48927875243664715" data-s="300,640" data-type="jpeg" data-w="513" src="http://mmbiz.qpic.cn/mmbiz/3lSKGbngNK7wsPJ8RKcNB67WeqjW3TySuDpHSGZEXGymd0ktdWvRmmaCZZkc4QvKMn8X3f7ibdTGmZibV8DANxxA/0?wx_fmt=jpeg"/>
+  <br/>
+ </p>
+ <p style="line-height: 25.6px; white-space: normal; text-align: center;">
+  <strong>
+   <span style="color: rgb(0, 112, 192);">
+    教育大咖来袭
+   </span>
+  </strong>
+ </p>
+ <p style="line-height: 25.6px; white-space: normal; text-align: center;">
+  <strong>
+   <span style="color: rgb(0, 112, 192);">
+    等你来！
+   </span>
+  </strong>
+ </p>
+ <p style="line-height: 25.6px; white-space: normal; text-align: center;">
+  <br/>
+ </p>
+ <p style="line-height: 25.6px; white-space: normal; text-align: center;">
+  <br/>
+ </p>
+ <section class="tn-Powered-by-XIUMI" style="line-height: 25.6px; white-space: normal; max-width: 100%; color: rgb(62, 62, 62); box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <section class="tn-Powered-by-XIUMI" style="max-width: 100%; box-sizing: border-box; border-color: rgb(95, 156, 239); color: rgb(51, 51, 51); font-family: inherit; font-size: 1em; text-decoration: inherit; word-wrap: break-word !important;">
+   <section class="tn-Powered-by-XIUMI" style="max-width: 100%; box-sizing: border-box; height: 16px; word-wrap: break-word !important;">
+    <section class="tn-Powered-by-XIUMI" style="max-width: 100%; box-sizing: border-box; border-color: rgb(95, 156, 239); width: 24px; height: 16px; border-top-width: 6px; border-left-width: 6px; border-top-style: solid; border-left-style: solid; float: left; word-wrap: break-word !important;">
+    </section>
+    <section class="tn-Powered-by-XIUMI" style="max-width: 100%; box-sizing: border-box; border-color: rgb(95, 156, 239); width: 24px; height: 16px; border-top-width: 6px; border-right-width: 6px; border-top-style: solid; border-right-style: solid; float: right; word-wrap: break-word !important;">
+    </section>
+    <section class="tn-Powered-by-XIUMI" style="max-width: 100%; box-sizing: border-box; color: transparent; clear: both; display: inline-block; word-wrap: break-word !important;">
+    </section>
+   </section>
+   <section class="tn-Powered-by-XIUMI" style="margin: -13px 3px; padding: 12px; max-width: 100%; box-sizing: border-box; border-radius: 6px; border: 1px solid rgb(95, 156, 239); border-image-source: none; line-height: 1.4; font-family: inherit; word-wrap: break-word !important;">
+    <p style="max-width: 100%; box-sizing: border-box; min-height: 1em; white-space: pre-wrap; text-align: center; word-wrap: break-word !important;">
+     <strong style="max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;">
+      本公众号主要用于发布华东师范大学教育公平协同创新中心的阶段性及重大研究成果，敬请长按以下二维码关注我们！
+     </strong>
+    </p>
+   </section>
+   <section class="tn-Powered-by-XIUMI" style="max-width: 100%; box-sizing: border-box; height: 16px; word-wrap: break-word !important;">
+    <p style="max-width: 100%; box-sizing: border-box; min-height: 1em; white-space: pre-wrap; border-color: rgb(95, 156, 239); width: 24px; height: 16px; border-bottom-width: 6px; border-left-width: 6px; border-bottom-style: solid; border-left-style: solid; float: left; word-wrap: break-word !important;">
+     <strong style="max-width: 100%; text-align: center; line-height: 1.4; font-family: inherit; font-size: 1em; text-decoration: inherit; box-sizing: border-box !important; word-wrap: break-word !important;">
+      <br style="max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"/>
+     </strong>
+    </p>
+   </section>
+  </section>
+ </section>
+ <p style="line-height: 25.6px; max-width: 100%; min-height: 1em; white-space: pre-wrap; color: rgb(62, 62, 62); box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <br style="max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"/>
+ </p>
+ <p style="line-height: 25.6px; max-width: 100%; min-height: 1em; white-space: pre-wrap; color: rgb(62, 62, 62); text-align: center; box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <img data-ratio="1" data-s="300,640" data-type="jpeg" data-w="172" src="http://mmbiz.qpic.cn/mmbiz/3lSKGbngNK7BmOnEFPia2MGk2tKNf9NrM2rqLPDibZN54lXkOkP31h2MbNlXNvpaiaxVIgXwLIvFckkNibYccGaSIg/640?wx_fmt=jpeg" style="box-sizing: border-box !important; word-wrap: break-word !important; width: auto !important; visibility: visible !important;"/>
+ </p>
+ <p style="max-width: 100%; min-height: 1em; white-space: pre-wrap; color: rgb(62, 62, 62); line-height: 24px; box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <br style="max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important;"/>
+ </p>
+ <p style="line-height: 25.6px; max-width: 100%; min-height: 1em; white-space: pre-wrap; color: rgb(62, 62, 62); text-align: center; box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <span style="max-width: 100%; font-size: 14px; box-sizing: border-box !important; word-wrap: break-word !important;">
+   <strong style="max-width: 100%; color: rgb(0, 32, 96); box-sizing: border-box !important; word-wrap: break-word !important;">
+    <span style="max-width: 100%; font-family: 微软雅黑; box-sizing: border-box !important; word-wrap: break-word !important;">
+     <br/>
+    </span>
+   </strong>
+  </span>
+  <br/>
+ </p>
+ <p style="line-height: 25.6px; max-width: 100%; min-height: 1em; white-space: pre-wrap; color: rgb(62, 62, 62); text-align: center; box-sizing: border-box !important; word-wrap: break-word !important; background-color: rgb(255, 255, 255);">
+  <span style="max-width: 100%; font-size: 14px; box-sizing: border-box !important; word-wrap: break-word !important;">
+   <strong style="max-width: 100%; color: rgb(0, 32, 96); box-sizing: border-box !important; word-wrap: break-word !important;">
+    <span style="max-width: 100%; font-family: 微软雅黑; box-sizing: border-box !important; word-wrap: break-word !important;">
+     <br/>
+    </span>
+   </strong>
+  </span>
+ </p>
+ <p>
+  <br/>
+ </p>

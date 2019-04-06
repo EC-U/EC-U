@@ -1,0 +1,149 @@
+
+ <p data-mpa-powered-by="yiban.io" style="max-width: 100%;min-height: 1em;letter-spacing: 0.544px;white-space: normal;background-color: rgb(255, 255, 255);text-align: left;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <strong style="letter-spacing: 0.544px;text-align: left;">
+   <span style="max-width: 100%;font-family: 微软雅黑, sans-serif;font-size: 14px;letter-spacing: 0.544px;box-sizing: border-box !important;word-wrap: break-word !important;">
+    数据大狮训练营系列讲座 第一期
+   </span>
+  </strong>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.544px;white-space: normal;background-color: rgb(255, 255, 255);text-align: left;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <strong style="letter-spacing: 0.544px;text-align: left;">
+   <span style="max-width: 100%;font-family: 微软雅黑, sans-serif;font-size: 14px;letter-spacing: 0.544px;box-sizing: border-box !important;word-wrap: break-word !important;">
+    讲座题目：
+   </span>
+  </strong>
+  <span style="letter-spacing: 0.544px;text-align: left;max-width: 100%;font-family: 微软雅黑, sans-serif;font-size: 14px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   学习注意力眼动研究和数据分析
+  </span>
+  <br/>
+ </p>
+ <p style="text-align:left;line-height:24px;background:white;">
+  <strong>
+   <span style="max-width: 100%;font-family: 微软雅黑, sans-serif;font-size: 14px;letter-spacing: 0.544px;box-sizing: border-box !important;word-wrap: break-word !important;">
+    主讲人：
+   </span>
+  </strong>
+  <span style="max-width: 100%;font-family: 微软雅黑, sans-serif;font-size: 14px;letter-spacing: 0.544px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   澹台秀林
+  </span>
+ </p>
+ <p style="text-align:left;line-height:24px;background:white;">
+  <strong>
+   <span style="max-width: 100%;font-family: 微软雅黑, sans-serif;font-size: 14px;letter-spacing: 0.544px;box-sizing: border-box !important;word-wrap: break-word !important;">
+    讲座时间：
+   </span>
+  </strong>
+  <span style="max-width: 100%;font-family: 微软雅黑, sans-serif;font-size: 14px;letter-spacing: 0.544px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   2019-2-27  13：00
+  </span>
+ </p>
+ <p style="text-align:left;line-height:24px;background:white;">
+  <strong>
+   <span style="max-width: 100%;font-family: 微软雅黑, sans-serif;font-size: 14px;letter-spacing: 0.544px;box-sizing: border-box !important;word-wrap: break-word !important;">
+    讲座地址：
+   </span>
+  </strong>
+  <span style="max-width: 100%;font-family: 微软雅黑, sans-serif;font-size: 14px;letter-spacing: 0.544px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   华东师范大学中北校区图书馆二楼数字阅览室B201
+  </span>
+ </p>
+ <p style="text-align: left;">
+  <strong>
+   <span style="max-width: 100%;font-family: 微软雅黑, sans-serif;font-size: 14px;letter-spacing: 0.544px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   </span>
+  </strong>
+ </p>
+ <p style="text-align: left;">
+  <strong>
+   <span style="max-width: 100%;font-family: 微软雅黑, sans-serif;font-size: 14px;letter-spacing: 0.544px;box-sizing: border-box !important;word-wrap: break-word !important;">
+    报告人简介：
+   </span>
+  </strong>
+ </p>
+ <p style="text-align: left;">
+  <span style="max-width: 100%;font-family: 微软雅黑, sans-serif;font-size: 14px;letter-spacing: 0.544px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   天津师范大学心理学硕士，上海青研科技有限公司产品经理，研究专员，从事眼动研究相关工作多年，具备丰富的理论基础及应用实践经验。参与研发多款眼动技术应用产品，包括北京大学、中山大学、华东师范大学、国家税务用户研究实验室等重点项目。
+  </span>
+ </p>
+ <p style="text-align: left;">
+  <span style="max-width: 100%;font-family: 微软雅黑, sans-serif;font-size: 14px;letter-spacing: 0.544px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <br/>
+  </span>
+ </p>
+ <p style="line-height: 28px;background: white;text-align: left;">
+  <strong>
+   <span style="max-width: 100%;font-family: 微软雅黑, sans-serif;font-size: 14px;letter-spacing: 0.544px;box-sizing: border-box !important;word-wrap: break-word !important;">
+    讲座内容简介：
+   </span>
+  </strong>
+ </p>
+ <p style="line-height: 28px;background: white;text-align: left;">
+  <span style="font-family: 微软雅黑, sans-serif;font-size: 14px;letter-spacing: 0.544px;text-indent: 28px;">
+   教学反馈是优化教学效果的重要保障，在课堂教学中，教师通过提问、练习、测试、观察面部表情等方式获取教学反馈信息，了解学生对教学内容的掌握情况，及时调整教学的进度、内容、活动与方法。其中，对学生的眼动情况进行监测和记录，收集学生的眼动数据，分析学生的学习过程和学习轨迹，为及时调整教学活动、教学进度和方法提供依据，为学习者提供更加个性化的教学环境。
+  </span>
+ </p>
+ <p style="line-height: 28px;background: white;text-align: left;">
+  <span style="font-family: 微软雅黑, sans-serif;font-size: 14px;letter-spacing: 0.544px;text-indent: 28px;">
+   本次讲座内容根据上述的研究背景，介绍眼动研究的意义、眼动记录的优势和眼动过程的特点；讲述眼动仪原理和形态，并以当前的某些研究作为案例，讲解其理论价值和实用价值。同时介绍眼动仪在其他领域的应用情况，更加全面地了解眼动研究的价值。
+  </span>
+ </p>
+ <p style="text-indent: 28px;line-height: 150%;text-align: left;">
+  <span style="max-width: 100%;font-family: 微软雅黑, sans-serif;font-size: 14px;letter-spacing: 0.544px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <br/>
+  </span>
+ </p>
+ <p style="text-align:center;line-height:150%;">
+  <strong>
+   <span style="max-width: 100%;font-family: 微软雅黑, sans-serif;font-size: 14px;letter-spacing: 0.544px;box-sizing: border-box !important;word-wrap: break-word !important;">
+    报名方式：发送“眼动研究和数据分析培训报名”
+   </span>
+  </strong>
+ </p>
+ <p style="text-align:center;line-height:150%;">
+  <strong>
+   <span style="max-width: 100%;font-family: 微软雅黑, sans-serif;font-size: 14px;letter-spacing: 0.544px;box-sizing: border-box !important;word-wrap: break-word !important;">
+    至“数据大狮”微信公众号
+   </span>
+  </strong>
+ </p>
+ <p style="text-align:center;line-height:150%;">
+  <strong>
+   <span style="max-width: 100%;font-family: 微软雅黑, sans-serif;font-size: 14px;letter-spacing: 0.544px;box-sizing: border-box !important;word-wrap: break-word !important;">
+    <br/>
+   </span>
+  </strong>
+ </p>
+ <p style="text-align: center;">
+  <img class="" data-copyright="0" data-cropselx1="0" data-cropselx2="556" data-cropsely1="0" data-cropsely2="834" data-ratio="1.5" data-s="300,640" data-type="jpeg" data-w="1280" src="https://mmbiz.qpic.cn/mmbiz_jpg/lEnIKZRUIQZBib0pY7SpN6JmrNKVhDuJlHZJ1plXL2ibPkBPoERswu0I2naWHJrh2tZrSficHcQVebDHibYhjJfKMA/640?wx_fmt=jpeg" style="width: 556px;height: 834px;"/>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.544px;white-space: normal;background-color: rgb(255, 255, 255);text-align: center;line-height: 25.5px;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;line-height: 19.5px;font-family: 微软雅黑, sans-serif;font-size: 13px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <br/>
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.544px;white-space: normal;background-color: rgb(255, 255, 255);text-align: center;line-height: 25.5px;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;line-height: 19.5px;font-family: 微软雅黑, sans-serif;font-size: 13px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   微信公众号：数据大狮
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.544px;white-space: normal;background-color: rgb(255, 255, 255);text-align: center;line-height: 25.5px;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;line-height: 19.5px;font-family: 微软雅黑, sans-serif;font-size: 13px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   网址：
+   <span style="max-width: 100%;line-height: 19.5px;color: windowtext;box-sizing: border-box !important;word-wrap: break-word !important;">
+    ssdc.ecnu.edu.cn
+   </span>
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.544px;white-space: normal;background-color: rgb(255, 255, 255);text-align: center;line-height: 25.5px;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;line-height: 19.5px;font-family: 微软雅黑, sans-serif;font-size: 13px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   邮箱：ssdc@admin.ecnu.edu.cn
+  </span>
+ </p>
+ <p style="max-width: 100%;min-height: 1em;letter-spacing: 0.544px;white-space: normal;background-color: rgb(255, 255, 255);text-align: center;line-height: 25.5px;box-sizing: border-box !important;word-wrap: break-word !important;">
+  <span style="max-width: 100%;line-height: 19.5px;font-family: 微软雅黑, sans-serif;font-size: 13px;box-sizing: border-box !important;word-wrap: break-word !important;">
+   <br/>
+  </span>
+ </p>
+ <p style="text-align: center;">
+  <img class="" data-copyright="0" data-ratio="0.71484375" data-s="300,640" data-type="jpeg" data-w="1280" src="https://mmbiz.qpic.cn/mmbiz_jpg/lEnIKZRUIQaFJJWyLa1nIicwlksuFmBPshdMxszdzwsCfY5Dj4IEWfY7TsibCPqXjBRTIucppe0EhCQZ3OOnK93w/640?wx_fmt=jpeg" style=""/>
+ </p>

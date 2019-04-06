@@ -1,0 +1,401 @@
+
+ <section data-role="outer" label="Powered by 135editor.com" style="font-size: 16px;font-family: 微软雅黑;">
+  <section class="article135" style="box-sizing: border-box;padding:0 undefinedpx;">
+   <section class="_135editor" data-id="94250" data-tools="135编辑器" style="border-color: currentcolor;border-style: none;border-width: 0px;box-sizing: border-box;">
+    <section class="_135editor" data-id="91842" data-tools="135编辑器" style="border-color: currentcolor;border-style: none;border-width: 0px;box-sizing: border-box;">
+     <section style="text-align: center;width: auto;">
+      <section style="display:inline-block;clear: both;">
+       <section class="135brush" data-brushtype="text" style='padding: 18px 15px 20px 10px;color: rgb(86, 146, 214);background-image: url("https://mmbiz.qpic.cn/mmbiz_png/3oRvBbmp5KMjLUuN4zLFhkBO8cC9NF9hkhWVQr7iaZulb4gBpUk2LUibIzDuibbt7rIicy8b7jC6LmCvWA856359XA/640?wx_fmt=png");background-repeat: no-repeat;text-align: center;background-size: 100% 100%;font-size: 16px;letter-spacing: 1.5px;box-sizing: border-box;'>
+        <section style="display: flex;justify-content: center;align-items: center;">
+         <section style="width: 20px;margin-left:2px;">
+          <br/>
+          <img class="" data-ratio="0.8936170212765957" data-type="png" data-w="47" src="https://mmbiz.qpic.cn/mmbiz_png/3oRvBbmp5KMjLUuN4zLFhkBO8cC9NF9hiaagv5DZjKeJBEvaicreMNq9huzbA7yaLByFLibzDWj4kiaxlA87YHY3nA/640?wx_fmt=png" style="width: 20px;margin-bottom:-6px;"/>
+         </section>
+         <section class="135brush" data-brushtype="text" style="text-align: justify;font-size: 14px;color: #333333;letter-spacing: 1.5px;">
+          叮咚！期末考试不得不知的那些事儿
+          <br/>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <p style="color: rgb(62, 62, 62);margin-bottom: 15px;margin-top: 15px;text-align: justify;font-size: 14px;font-family: 微软雅黑;text-indent: 2em;">
+    可爱的ECNUer，期末考试如约而至，你准备好了吗？
+   </p>
+   <p style="color: rgb(62, 62, 62);margin-bottom: 15px;margin-top: 15px;text-align: justify;font-size: 14px;font-family: 微软雅黑;text-indent: 2em;">
+    为了备战期末考试，小助除了告诉你转发锦鲤&amp;熬夜复习，还想和你聊聊期末考试不得不知的那些事儿~
+   </p>
+   <p>
+    <br/>
+   </p>
+   <section class="_135editor" data-id="94022" data-tools="135编辑器" style="border-color: currentcolor;border-style: none;border-width: 0px;box-sizing: border-box;">
+    <section style="display: flex;justify-content: center;">
+     <section style="margin-right: -15px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);">
+      <section style="width:0;height:0;border-width:0px 15px 20px 15px;border-style:none solid solid;border-color:transparent transparent #fed77f;transform: scaleY(-1);-webkit-transform: scaleY(-1);-moz-transform: scaleY(-1);-o-transform: scaleY(-1);">
+      </section>
+      <section style="width: 0px;height: 0px;border-width: 0px 15px 20px;border-style: none solid solid;border-color: transparent transparent rgb(254, 215, 127);box-sizing: border-box;">
+      </section>
+     </section>
+     <section class="135brush" data-bgless="spin" data-bglessp="280" data-bgopacity="50%" data-brushtype="text" style="height: 40px;background: rgb(254, 196, 63) none repeat scroll 0% 0%;line-height: 38px;text-align: center;padding: 0px 1.6em;color: rgb(255, 255, 255);letter-spacing: 1.5px;box-sizing: border-box;">
+      关于考试的规定（部分）
+     </section>
+     <section style="margin-left: -15px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);">
+      <section style="width:0;height:0;border-width:0px 15px 20px 15px;border-style:none solid solid;border-color:transparent transparent #fed77f;transform: scaleY(-1);-webkit-transform: scaleY(-1);-moz-transform: scaleY(-1);-o-transform: scaleY(-1);">
+      </section>
+      <section style="width: 0px;height: 0px;border-width: 0px 15px 20px;border-style: none solid solid;border-color: transparent transparent rgb(254, 215, 127);box-sizing: border-box;">
+       <br/>
+      </section>
+     </section>
+    </section>
+   </section>
+   <p style="color: rgb(62, 62, 62);margin-bottom: 15px;margin-top: 15px;text-align: center;font-size: 14px;font-family: 微软雅黑;">
+    （详情查看《华东师范大学本科生课程考核与成绩评定管理办法》）
+   </p>
+   <section class="_135editor" data-id="94007" data-tools="135编辑器" style="border-color: currentcolor;border-style: none;border-width: 0px;box-sizing: border-box;">
+    <section style="padding: 10px;box-sizing: border-box;">
+     <section style="clear: both;">
+     </section>
+     <section style="width: 7em;margin-bottom: -2em;margin-left: -10px;float: left;">
+      <section style="width: 12px;height: 12px;border-radius: 100%;background: rgb(161, 164, 116) none repeat scroll 0% 0%;float: right;margin-top: -7px;box-sizing: border-box;">
+      </section>
+      <section style="background: rgb(254, 254, 254) none repeat scroll 0% 0%;padding: 10px;box-sizing: border-box;">
+       <img class="" data-ratio="0.24615384615384617" data-type="png" data-w="130" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/3oRvBbmp5KMjLUuN4zLFhkBO8cC9NF9hnosgIe3LWfpo2LIcfzSPvf7UgrQ7q5Q2Ho1jkJscib54AjGN8mPOnUA/640?wx_fmt=png" style="width: 100%;background: none rgb(254, 254, 254);display: block;"/>
+      </section>
+      <section style="width: 12px;height: 12px;border-radius: 100%;background: rgb(161, 164, 116) none repeat scroll 0% 0%;float: left;margin-left: 4px;box-sizing: border-box;">
+      </section>
+     </section>
+     <section style="border-color: rgb(161, 164, 116);border-style: solid;border-width: 1px;border-radius: 6px;color: rgb(51, 51, 51);box-sizing: border-box;">
+      <section class="135brush" data-autoskip="1" style="text-align: justify;font-size: 14px;letter-spacing: 1.5px;line-height: 1.75em;padding: 2em 1em 1em 2em;box-sizing: border-box;">
+       <p>
+        1.持本人
+        <span style="font-size: 15px;color: #ff0000;">
+         <strong>
+          校园卡（照片应清晰）、学生证或身份证
+         </strong>
+        </span>
+        提前 10 分钟进入考场，未带证件者，不得参加考试。
+       </p>
+       <p>
+        2.开考 15 分钟后不得进入考场，本场考试按照旷考记，考试进行30 分钟后方可离开考场。
+       </p>
+       <p>
+        3.
+        <span style="color: #ff0000;">
+         <strong>
+          <span style="font-size: 15px;">
+           手机、电脑等电子设备不得带入考场。
+          </span>
+         </strong>
+        </span>
+        参加闭卷考试只准携带必要的文具。参加开卷考试只准携带主考教师规定的书籍笔记和必要的文具。
+       </p>
+       <p>
+        4.
+        <strong>
+         <span style="background: #ffffff none repeat scroll 0% 0%;font-family: Microsoft YaHei, 微软雅黑;color: #ff0000;font-size: 15px;">
+          不得使用红色笔或铅笔答题
+         </span>
+        </strong>
+        <span style="font-size: 14px;font-family: Microsoft YaHei, 微软雅黑;">
+         <span style="font-family: Microsoft YaHei, 微软雅黑;font-size: 14px;">
+          （
+          <span style="font-family: 仿宋_GB2312;">
+           除考试有明确规定使用铅笔答题的科目外）
+          </span>
+         </span>
+         ，否则考核成绩按照零分记载。
+        </span>
+       </p>
+       <p>
+        <span style="font-size: 14px;font-family: Microsoft YaHei, 微软雅黑;">
+         5.
+         <span style="font-family: Microsoft YaHei, 微软雅黑;background-color: #ffffff;font-size: 14px;">
+          <span style="font-family: 仿宋_GB2312;background: #ffffff none repeat scroll 0% 0%;">
+           听从监考老师的安排就座
+          </span>
+          <span style="font-family: 仿宋_GB2312;background-color: #ffffff;">
+           ，
+           <span style="font-family: Microsoft YaHei, 微软雅黑;background: #ffffff none repeat scroll 0% 0%;">
+            考试结束不在考场逗留和大声喧哗。
+           </span>
+          </span>
+         </span>
+        </span>
+       </p>
+      </section>
+     </section>
+    </section>
+   </section>
+   <p style="color: rgb(62,62,62);margin-bottom: 15px;margin-top: 15px;text-align: justify;font-size: 14px;font-family: 微软雅黑;text-align:center;">
+    “分数诚可贵，诚信价更高”
+   </p>
+   <p style="color: rgb(62,62,62);margin-bottom: 15px;margin-top: 15px;text-align: justify;font-size: 14px;font-family: 微软雅黑;text-align:center;">
+    小助要在这里郑重提醒各位ECNUer诚信考试
+   </p>
+   <p style="color: rgb(62,62,62);margin-bottom: 15px;margin-top: 15px;text-align: justify;font-size: 14px;font-family: 微软雅黑;text-align:center;">
+    不然后果很严重
+   </p>
+   <p>
+    <br/>
+   </p>
+   <section class="_135editor" data-id="94022" data-tools="135编辑器" style="border-color: currentcolor;border-style: none;border-width: 0px;box-sizing: border-box;">
+    <section style="display: flex;justify-content: center;">
+     <section style="margin-right: -15px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);">
+      <section style="width:0;height:0;border-width:0px 15px 20px 15px;border-style:none solid solid;border-color:transparent transparent #fed77f;transform: scaleY(-1);-webkit-transform: scaleY(-1);-moz-transform: scaleY(-1);-o-transform: scaleY(-1);">
+      </section>
+      <section style="width: 0px;height: 0px;border-width: 0px 15px 20px;border-style: none solid solid;border-color: transparent transparent rgb(254, 215, 127);box-sizing: border-box;">
+      </section>
+     </section>
+     <section class="135brush" data-bgless="spin" data-bglessp="280" data-bgopacity="50%" data-brushtype="text" style="height: 40px;background: rgb(254, 196, 63) none repeat scroll 0% 0%;line-height: 38px;text-align: center;padding: 0px 1.6em;color: rgb(255, 255, 255);letter-spacing: 1.5px;box-sizing: border-box;">
+      关于考试违纪的规定（部分）
+     </section>
+     <section style="margin-left: -15px;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);">
+      <section style="width:0;height:0;border-width:0px 15px 20px 15px;border-style:none solid solid;border-color:transparent transparent #fed77f;transform: scaleY(-1);-webkit-transform: scaleY(-1);-moz-transform: scaleY(-1);-o-transform: scaleY(-1);">
+      </section>
+      <section style="width: 0px;height: 0px;border-width: 0px 15px 20px;border-style: none solid solid;border-color: transparent transparent rgb(254, 215, 127);box-sizing: border-box;">
+       <br/>
+      </section>
+     </section>
+    </section>
+   </section>
+   <p style="color: rgb(62, 62, 62);margin-bottom: 15px;margin-top: 15px;text-align: center;font-size: 14px;font-family: 微软雅黑;">
+    （详情查看《华东师范大学学生违纪处分办法》）
+   </p>
+   <section class="_135editor" data-id="41173" data-tools="135编辑器" style="border-color: currentcolor;border-style: none;border-width: 0px;box-sizing: border-box;">
+    <section class="_135editor" data-id="41173" data-tools="135编辑器" style="border-color: currentcolor;border-style: none;border-width: 0px;display: inline-block;box-sizing: border-box;">
+     <p style="margin: 8px 0px 0px;padding: 0px 10px 0px 0px;font-weight: bold;font-size: 16px;line-height: 28px;max-width: 100%;color: rgb(170, 166, 149);min-height: 32px;border-bottom-width: 1.5px;border-bottom-style: solid;border-color: rgb(170, 166, 149);text-align: justify;">
+      <span class="autonum" data-original-title="" placeholder="1" style="color: #FFFFFF;display: block;float: left;line-height: 20px;margin: 0px 8px 0px 0px;max-width: 100%;padding: 4px 10px;word-wrap: break-word !important;background-color: #AAA695;" title="">
+       1
+      </span>
+      <span style="color: #FF0000;">
+       <strong class="135brush" data-brushtype="text" style="border-color: rgb(170, 166, 149);color: inherit;">
+        违纪处分包括
+       </strong>
+      </span>
+     </p>
+    </section>
+   </section>
+   <p style="color: rgb(62,62,62);margin-bottom: 15px;margin-top: 15px;text-align: justify;font-size: 14px;font-family: 微软雅黑;">
+    警告；严重警告；记过；留校察看；开除学籍（=退学）
+   </p>
+   <section class="_135editor" data-id="41173" data-tools="135编辑器" style="border-color: currentcolor;border-style: none;border-width: 0px;box-sizing: border-box;">
+    <section class="_135editor" data-id="41173" data-tools="135编辑器" style="border-color: currentcolor;border-style: none;border-width: 0px;display: inline-block;box-sizing: border-box;">
+     <p style="margin: 8px 0px 0px;padding: 0px 10px 0px 0px;font-weight: bold;font-size: 16px;line-height: 28px;max-width: 100%;color: #aaa695;min-height: 32px;border-bottom-width: 1.5px;border-bottom-style: solid;border-color: #aaa695;text-align: justify;">
+      <span class="autonum" data-num="2" data-original-title="" placeholder="1" style="color: #ffffff;display: block;float: left;line-height: 20px;margin: 0px 8px 0px 0px;max-width: 100%;padding: 4px 10px;word-wrap: break-word !important;background-color: #aaa695;" title="">
+       2
+      </span>
+      <span style="color: #FF0000;">
+       <strong class="135brush" data-brushtype="text" style="border-color: #aaa695;color: inherit;">
+        存在下列情况之一者，给予严重警告处分
+       </strong>
+      </span>
+     </p>
+    </section>
+   </section>
+   <p style="color: rgb(62, 62, 62);margin-bottom: 15px;margin-top: 15px;font-size: 14px;font-family: 微软雅黑;text-align: left;">
+    <span style="background: #FFFFFF none repeat scroll 0% 0%;font-family: Microsoft YaHei, 微软雅黑;font-size: 14px;">
+     学生存在下列行为之一，经监考教师口头提醒并要求改正而拒不改正或重犯者。
+    </span>
+   </p>
+   <p style="color: rgb(62, 62, 62);margin-bottom: 15px;margin-top: 15px;font-size: 14px;font-family: 微软雅黑;text-align: left;">
+    <span style="background: #FFFFFF none repeat scroll 0% 0%;font-size: 14px;font-family: Microsoft YaHei, 微软雅黑;">
+     未交卷随意离开座位起立或走动者；
+    </span>
+   </p>
+   <p style="color: rgb(62, 62, 62);margin-bottom: 15px;margin-top: 15px;font-size: 14px;font-family: 微软雅黑;text-align: left;">
+    <span style="background: #FFFFFF none repeat scroll 0% 0%;font-family: Microsoft YaHei, 微软雅黑;font-size: 14px;">
+     未经监考老师允许拿用他人考试用具或计算器者；
+     <br/>
+    </span>
+   </p>
+   <p style="color: rgb(62, 62, 62);margin-bottom: 15px;margin-top: 15px;font-size: 14px;font-family: 微软雅黑;text-align: left;">
+    考试中东张西望，企图偷看他人试卷者；
+   </p>
+   <p style="color: rgb(62,62,62);margin-bottom: 15px;margin-top: 15px;text-align: justify;font-size: 14px;font-family: 微软雅黑;">
+    把试卷、答卷或草稿纸移向邻座或竖起，为他人偷看提供方便的初犯者；
+   </p>
+   <p style="color: rgb(62,62,62);margin-bottom: 15px;margin-top: 15px;text-align: justify;font-size: 14px;font-family: 微软雅黑;">
+    别人拿自己的试卷、答卷、草稿纸等资料未加拒绝者。
+   </p>
+   <section class="_135editor" data-id="41173" data-tools="135编辑器" style="border-color: currentcolor;border-style: none;border-width: 0px;box-sizing: border-box;">
+    <section class="_135editor" data-id="41173" data-tools="135编辑器" style="border-color: currentcolor;border-style: none;border-width: 0px;display: inline-block;box-sizing: border-box;">
+     <p style="margin: 8px 0px 0px;padding: 0px 10px 0px 0px;font-weight: bold;font-size: 16px;line-height: 28px;max-width: 100%;color: #aaa695;min-height: 32px;border-bottom-width: 1.5px;border-bottom-style: solid;border-color: #aaa695;text-align: justify;">
+      <span class="autonum" data-num="3" data-original-title="" placeholder="1" style="color: #ffffff;display: block;float: left;line-height: 20px;margin: 0px 8px 0px 0px;max-width: 100%;padding: 4px 10px;word-wrap: break-word !important;background-color: #aaa695;" title="">
+       3
+      </span>
+      <span style="color: #FF0000;">
+       <strong class="135brush" data-brushtype="text" style="border-color: #aaa695;color: inherit;">
+        存在下列情况之一者，视情节给予记过或留校察看处分
+       </strong>
+      </span>
+     </p>
+    </section>
+   </section>
+   <p style="color: rgb(62,62,62);margin-bottom: 15px;margin-top: 15px;text-align: justify;font-size: 14px;font-family: 微软雅黑;">
+    <span style="background: #FFFFFF none repeat scroll 0% 0%;font-family: Microsoft YaHei, 微软雅黑;font-size: 14px;">
+     传接纸条、试卷、答卷、草稿纸等资料者（不论是否抄用）；
+    </span>
+   </p>
+   <p style="color: rgb(62,62,62);margin-bottom: 15px;margin-top: 15px;text-align: justify;font-size: 14px;font-family: 微软雅黑;">
+    <span style="background: #FFFFFF none repeat scroll 0% 0%;font-family: Microsoft YaHei, 微软雅黑;font-size: 14px;">
+     考试中交头接耳说话、用某种示意动作互相传递有关考试信息者；
+     <br/>
+    </span>
+   </p>
+   <p style="color: rgb(62,62,62);margin-bottom: 15px;margin-top: 15px;text-align: justify;font-size: 14px;font-family: 微软雅黑;">
+    考试过程中利用上厕所间歇在考场外偷看与考试课程有关的资料或与他人交流考试内容者；
+   </p>
+   <p style="color: rgb(62,62,62);margin-bottom: 15px;margin-top: 15px;text-align: justify;font-size: 14px;font-family: 微软雅黑;">
+    <span style="background: #FFFFFF none repeat scroll 0% 0%;font-family: Microsoft YaHei, 微软雅黑;font-size: 14px;">
+     手机等不允许携带的设备放在身边并被监考老师发现（不论是否内含与考试相关内容）；
+    </span>
+   </p>
+   <p style="color: rgb(62,62,62);margin-bottom: 15px;margin-top: 15px;text-align: justify;font-size: 14px;font-family: 微软雅黑;">
+    开卷考试中借用他人笔记、资料等物品或使用非允许的资料者；
+   </p>
+   <p style="color: rgb(62,62,62);margin-bottom: 15px;margin-top: 15px;text-align: justify;font-size: 14px;font-family: 微软雅黑;">
+    闭卷考试中在桌内、座位、文具盒、衣物、身上、试卷答卷下面等处夹带与考试课程有关的纸条、书、笔记、讲义、复习提纲等物品者（不论看与否）；
+   </p>
+   <p style="color: rgb(62,62,62);margin-bottom: 15px;margin-top: 15px;text-align: justify;font-size: 14px;font-family: 微软雅黑;">
+    <span style="background: #FFFFFF none repeat scroll 0% 0%;font-size: 14px;font-family: Microsoft YaHei, 微软雅黑;">
+     以提交论文、报告或作品等形式作为考核的课程，存在严重抄袭或伪造数据者。
+    </span>
+   </p>
+   <section class="_135editor" data-id="41173" data-tools="135编辑器" style="border-color: currentcolor;border-style: none;border-width: 0px;box-sizing: border-box;">
+    <section class="_135editor" data-id="41173" data-tools="135编辑器" style="border-color: currentcolor;border-style: none;border-width: 0px;display: inline-block;box-sizing: border-box;">
+     <p style="margin: 8px 0px 0px;padding: 0px 10px 0px 0px;font-weight: bold;font-size: 16px;line-height: 28px;max-width: 100%;color: #aaa695;min-height: 32px;border-bottom-width: 1.5px;border-bottom-style: solid;border-color: #aaa695;text-align: justify;">
+      <span class="autonum" data-num="4" data-original-title="" placeholder="1" style="color: #ffffff;display: block;float: left;line-height: 20px;margin: 0px 8px 0px 0px;max-width: 100%;padding: 4px 10px;word-wrap: break-word !important;background-color: #aaa695;" title="">
+       4
+      </span>
+      <span style="color: #FF0000;">
+       <strong class="135brush" data-brushtype="text" style="border-color: #aaa695;color: inherit;">
+        存在下列情况之一者，给予留校察看处分
+       </strong>
+      </span>
+     </p>
+    </section>
+   </section>
+   <p style="color: rgb(62,62,62);margin-bottom: 15px;margin-top: 15px;text-align: justify;font-size: 14px;font-family: 微软雅黑;">
+    利用手机等设备接收或传送与考试课程有关的内容或
+    <span style="background: #FFFFFF none repeat scroll 0% 0%;font-family: Microsoft YaHei, 微软雅黑;font-size: 14px;">
+     上网功能搜索与考试课程相关内容
+    </span>
+    ，且在学期间无其他违纪记录，并在事后认错态度良好者；
+   </p>
+   <p style="color: rgb(62,62,62);margin-bottom: 15px;margin-top: 15px;text-align: justify;font-size: 14px;font-family: 微软雅黑;">
+    利用上厕所间歇将答卷或试题带出考场，由他人作答或他人协助作答，且在学期间无其他违纪行为，并在事后认错态度良好者；
+   </p>
+   <section class="_135editor" data-id="41173" data-tools="135编辑器" style="border-color: currentcolor;border-style: none;border-width: 0px;box-sizing: border-box;">
+    <section class="_135editor" data-id="41173" data-tools="135编辑器" style="border-color: currentcolor;border-style: none;border-width: 0px;display: inline-block;box-sizing: border-box;">
+     <p style="margin: 8px 0px 0px;padding: 0px 10px 0px 0px;font-weight: bold;font-size: 16px;line-height: 28px;max-width: 100%;color: #aaa695;min-height: 32px;border-bottom-width: 1.5px;border-bottom-style: solid;border-color: #aaa695;text-align: justify;">
+      <span class="autonum" data-num="5" data-original-title="" placeholder="1" style="color: #ffffff;display: block;float: left;line-height: 20px;margin: 0px 8px 0px 0px;max-width: 100%;padding: 4px 10px;word-wrap: break-word !important;background-color: #aaa695;" title="">
+       5
+      </span>
+      <span style="color: #ff0000;">
+       <strong class="135brush" data-brushtype="text" style="border-color: #aaa695;color: inherit;">
+        <strong class="135brush" data-brushtype="text" style="font-size: 16px;letter-spacing:2px;display:inline-block;">
+         开除学籍
+        </strong>
+        <strong class="135brush" data-brushtype="text" style="font-size: 16px;letter-spacing:2px;display:inline-block;">
+         情形
+        </strong>
+       </strong>
+      </span>
+     </p>
+    </section>
+   </section>
+   <p style="margin-top: 10px;">
+    <span style="font-size: 14px;color: #3F3F3F;">
+     代替他人或者让他人代替自己参加考试、组织作弊、使用通讯设备或其他器材作弊、向他人出售考试试题或答案牟取利益，以及其他严重作弊或扰乱考试秩序行为的，学校可以给予开除学籍处分。
+    </span>
+   </p>
+   <p style="color: rgb(62,62,62);margin-bottom: 15px;margin-top: 15px;text-align: justify;font-size: 14px;font-family: 微软雅黑;">
+    学生处分材料，学校将真实完整地归入学校文书档案和学生本人档案。
+   </p>
+   <p style="color: rgb(62,62,62);margin-bottom: 15px;margin-top: 15px;text-align: justify;font-size: 14px;font-family: 微软雅黑;text-align:center;">
+    <strong>
+     <span style="text-decoration: none;">
+      （受到处分之后，处分材料会一直跟着你哟~）
+     </span>
+    </strong>
+   </p>
+   <section class="_135editor" data-id="87954" data-tools="135编辑器" style="border-color: currentcolor;border-style: none;border-width: 0px;box-sizing: border-box;">
+    <section style="text-align:center;">
+     <section style="display:inline-block;">
+      <section class="_135editor" data-id="88842" data-tools="135编辑器" style="border-color: currentcolor;border-style: none;border-width: 0px;box-sizing: border-box;">
+       <section style="text-align:center;">
+        <section style="display:inline-block;">
+         <img class="_135editor" data-ratio="0.09875" data-type="png" data-w="800" src="https://mmbiz.qpic.cn/mmbiz_png/3oRvBbmp5KMjLUuN4zLFhkBO8cC9NF9hiccZYX4d7QL5ib8jZW9RP8cxfHMhjuDCR7qyO66PFH3apSGRWymwhpDQ/640?wx_fmt=png" style="max-width: 100%;border-color: currentcolor;border-style: none;border-width: 0px;" title="悬挂彩色爱心分割线"/>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+   <section class="_135editor" data-id="91168" data-tools="135编辑器" data-width="99%" style="border-color: currentcolor;border-style: none;border-width: 0px;margin: 0px auto;width: 99%;opacity: 1;box-sizing: border-box;">
+    <section data-width="100%" style="width:100%;text-align: center;">
+     <section data-width="80%" style="display: inline-block;width: 80%;font-size: 14px;line-height: 20px;padding: 20px 0px 0px;box-sizing: border-box;">
+      <section style="width: 35px;background-color: #fefefe;float: left;margin-left: -15px;margin-top: -15px;">
+       <img class="" data-ratio="1.0408163265306123" data-type="png" data-w="49" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/3oRvBbmp5KMjLUuN4zLFhkBO8cC9NF9hYceR9TuxRV2RQVPssoTL0cvY2aFjUBhibaFPIV40KyZibdrqWbNmFm4A/640?wx_fmt=png" style="width: 100%;"/>
+      </section>
+      <section style="width: 35px;background-color: #fefefe;float: right;margin-top: -15px;display: inline-block;margin-right: -15px;">
+       <img class="" data-ratio="1.0408163265306123" data-type="png" data-w="49" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/3oRvBbmp5KMjLUuN4zLFhkBO8cC9NF9hYENMREl7KMtCo6S3icbocSsktwtNboibfibPn9R1vEFzibAPDiccjzCURAg/640?wx_fmt=png" style="width: 100%;"/>
+      </section>
+      <section class="135brush" style="text-align: left;border-color: rgb(140, 144, 211);border-style: solid;border-width: 4px;border-radius: 5px;padding: 10px;box-sizing: border-box;">
+       <p style="text-align: center;line-height: 150%;text-indent: 0em;">
+        <strong>
+         <span style="font-size: 16px;line-height: 150%;font-family: 微软雅黑;color: #ff0000;">
+          诚信考试，拒绝作弊！
+         </span>
+        </strong>
+       </p>
+       <p style="text-align: center;line-height: 150%;text-indent: 0em;">
+        <strong>
+         <span style="font-size: 16px;line-height: 150%;font-family: 微软雅黑;color: #ff0000;">
+          踏实复习，考的全会！
+         </span>
+        </strong>
+       </p>
+       <p style="text-align: left;text-indent: 32px;line-height: 150%;">
+        <span style="font-size: 16px;line-height: 150%;font-family: 微软雅黑;">
+         最后小助预祝大家期末考试取得好成绩，“2019年，有机遇也有挑战，大家还要一起拼搏、一起奋斗。”
+        </span>
+       </p>
+      </section>
+     </section>
+     <section style="width: 30px;margin: 0 auto;margin-top: -10px;">
+      <img class="" data-ratio="0.8275862068965517" data-type="png" data-w="29" data-width="100%" src="https://mmbiz.qpic.cn/mmbiz_png/3oRvBbmp5KMjLUuN4zLFhkBO8cC9NF9hnKHiakPGiayRUIqT8QQ9PpB7wMY2yPzjgibFhy0j4ndYAUPm65xo1hTRw/640?wx_fmt=png" style="width: 100%;"/>
+     </section>
+    </section>
+   </section>
+   <p style="color: rgb(62, 62, 62);margin-bottom: 15px;margin-top: 15px;text-align: right;font-size: 14px;font-family: 微软雅黑;">
+    信息来源 | 教务处
+    <br/>
+    文字、排版 | 阮文龙
+    <br/>
+   </p>
+   <section class="_135editor" data-id="92838" data-tools="135编辑器" style="border-color: currentcolor;border-style: none;border-width: 0px;box-sizing: border-box;">
+    <section style="padding: 10px;background: #e7f2f8 none repeat scroll 0% 0%;color: #4c4c4c;box-sizing: border-box;">
+     <section style="display: flex;justify-content: center;align-items: center;">
+      <section style="font-size: 15px;line-height: 1.6em;text-align: center;">
+       ▼
+      </section>
+      <section style="font-size: 15px;line-height: 1.6em;padding: 0px 10px;text-align: center;box-sizing: border-box;">
+       更多精彩推荐，请关注我们
+      </section>
+      <section style="font-size: 15px;line-height: 1.6em;text-align: center;">
+       ▼
+      </section>
+     </section>
+    </section>
+   </section>
+   <p style="text-align: center;">
+    <img class="" data-copyright="0" data-ratio="0.3333333333333333" data-s="300,640" data-type="jpeg" data-w="966" src="https://mmbiz.qpic.cn/mmbiz_jpg/3oRvBbmp5KMjLUuN4zLFhkBO8cC9NF9hVc3dVGyxgk9cibU18O9JZ6vHfzkJugOdfvo2BHecTEalIkQWibhbFeMA/640?wx_fmt=jpeg" style=""/>
+   </p>
+   <p style="color: rgb(62,62,62);margin-bottom: 15px;margin-top: 15px;text-align: justify;font-size: 14px;font-family: 微软雅黑;">
+    <br/>
+   </p>
+  </section>
+ </section>

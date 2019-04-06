@@ -1,0 +1,778 @@
+
+ <section style="box-sizing: border-box;">
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 0px 0% 10px;text-align: center;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;box-sizing: border-box;">
+     <section style="max-width: 100%;display: inline-block;vertical-align: top;transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);width: 1.3em;margin-right: -0.7em;box-sizing: border-box;">
+      <img data-ratio="1" data-type="png" data-w="100" src="https://mmbiz.qpic.cn/mmbiz_png/KhnTnLF5ribK3rOmiaBxCHNVbZhXZ5g1ZYmgVaJrRyDG3BDkzzHr1wKwtPdMxCYFAt0PfdUgbIeXCQNhicY7exicEg/640?wx_fmt=png" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+     </section>
+     <section style="display: inline-block;vertical-align: top;padding: 2px;border-radius: 4px;margin-top: 0.8em;background-color: rgb(254, 230, 213);box-sizing: border-box;">
+      <section style="border-width: 1px;border-style: dashed;border-color: rgb(255, 255, 255);padding: 0px 10px;border-radius: 4px;line-height: 2;font-size: 28px;text-align: justify;color: rgb(163, 0, 0);letter-spacing: 5px;box-sizing: border-box;">
+       <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+        <strong style="box-sizing: border-box;">
+         喜报
+        </strong>
+       </p>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;font-size: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 10%;box-sizing: border-box;">
+     <svg style="vertical-align: middle;max-width: 100%;box-sizing: border-box;" viewbox="0 0 294.7 95.1" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+      <g style="box-sizing: border-box;">
+       <path d="M241.1,95.1c-2.2-0.2-4.4-0.3-6.7-0.5c-12.2-1.1-24.1-3.6-34.6-10.1c-5-3.1-9.5-6.7-14.3-10.1c-3.7-2.6-7.3-5.3-11.1-7.8   c-4.8-3.3-10.2-5.1-15.9-6c-12.3-2-23.9,0.5-35.1,5.4c-4.7,2.1-9.3,4.5-14,6.4c-6.9,2.8-14,4.3-21.5,4.4   c-10.1,0.1-19.3-2.9-27.8-8.2c-0.1,0-0.1-0.1-0.2-0.3c0.2,0,0.3,0,0.5,0.1c14.2,5.7,28.1,4.6,41.8-1.6c5.3-2.4,9.9-5.8,14.7-9   c7.5-5.1,15.3-9.6,23.9-12.5c11.8-3.9,23.4-3.1,34.8,1.3c7.5,2.8,14.5,6.5,21.5,10.3c6.4,3.5,13,6.8,19.8,9.6   c10.9,4.5,21.7,4.9,33.2,1.9c13.3-3.6,22.7-17.4,18.5-33.2c-4.1-15.3-16.5-20.3-27.4-19.9c-4.1,0.1-8.1,0.8-11.6,2.9   c-6.2,3.5-9.3,9.3-10.6,16c-0.9,4.7,0.2,9.1,3.3,12.8c1.5,1.8,3.3,3.3,5.6,3.9c4.2,1,8.3-1.9,9.3-6.4c0.4-2,0.2-4-0.6-5.8   c-0.7-1.6-1.4-3.1-2.2-4.8c0.3,0.1,0.6,0.1,0.9,0.2c2.3,1.2,4.8,2.1,6.9,3.6c3.8,2.5,5.3,6,4.2,10.7c-1.8,7.9-7.3,13.9-15.1,15.1   c-8.2,1.2-15.2-1.6-20.4-8c-3.7-4.6-3.7-10-2-15.4c0.7-2.1,0.5-3.4-0.8-5.1c-2.6-3.5-4.3-7.4-4.7-11.8c-0.6-7.6,2.6-13.2,8.8-17.3   c6.5-4.3,13.5-5.2,21-3.6c4.4,0.9,8.5,2.5,12.4,4.6c0.5,0.2,0.9,0.5,1.4,0.7c3.1-3.3,6.9-5.5,11.3-6.5c6.7-1.6,13.2-0.5,18.9,3.1   c4.8,3.1,7.7,7.9,8.9,13.6c1,4.9,0.5,9.7-1.2,14.4c-0.3,0.7-0.1,1.2,0.4,1.8c2.1,2.7,4.3,5.3,6,8.2c4.1,7.2,4.5,14.7,0.4,22.1   c-8.2,14.7-20,25.1-36.3,29.9c-2.2,0.7-4.6,0.8-6.9,1.2c-0.4,0.1-0.8,0.2-1.2,0.2C245.3,95.1,243.2,95.1,241.1,95.1z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+       </path>
+       <path d="M0.1,57.2c1.2,0.9,2.3,1.7,3.5,2.5c2.5,1.7,5.1,3.1,8.1,3.3c1.6,0.1,3.3,0,4.8-0.5c4.8-1.7,9.4-3.7,14.1-5.7   c4.4-1.8,8.9-3.3,13.8-3.2c2.3,0.1,4.6,0.4,6.9,0.8c4.2,0.7,5.5,0.4,8.7-2.3c2.7,6.3,8.2,8.4,14.3,9.6c6,1.1,11.4-0.3,16.5-3.4   c6.5-4,8.2-10.2,6.1-16.9c-0.9-3-3.3-4.8-6.1-6.2c-6.8-3.3-13-0.1-16.3,4.8c-1.2,1.8-1.5,3.8-0.3,5.7c0.3,0.5,0.7,0.8,1.4,0.5   c0.7-0.2,1.6-0.3,2.4-0.4c2.6-0.1,4.3,1.2,4.9,3.5c0.5,2.1-0.6,4.6-2.7,5.5c-3.4,1.5-6.7,0.8-9.6-1.3c-2.6-1.9-3.2-4.9-3.6-7.8   c-1.3-10.8,9-19.4,19-18.7c8.6,0.6,16.7,6.7,18.5,14.5c2.1,9-2.6,19.1-11,23.5c-5.9,3-12.1,3.2-18.5,2.1c-3-0.5-5.8-1.5-8.5-2.8   c-5.4-2.6-10.9-4.8-16.7-6c-3.2-0.7-6.2-0.1-9.2,0.9c-5.6,2-11.1,4-16.7,5.9c-3.4,1.2-6.9,1.9-10.6,1.9C7.8,66.9,1.8,62.6,0,57.4   C0,57.4,0,57.3,0.1,57.2z" fill="rgb(255,183,102)" style="box-sizing: border-box;">
+       </path>
+      </g>
+     </svg>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="box-sizing: border-box;">
+    <section style="text-align: justify;font-size: 15px;line-height: 2;letter-spacing: 1px;padding: 0px 10px;box-sizing: border-box;">
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <span style="color: rgb(217, 33, 66);font-size: 17px;">
+       <strong style="box-sizing: border-box;">
+        热烈祝贺我校6位教师在“第二十二届全国教育教学信息化交流展示活动”中荣获佳绩！
+       </strong>
+      </span>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <strong style="box-sizing: border-box;">
+       全国教育教学信息化交流展示活动
+      </strong>
+      始于1998年，是在推进教育信息化、重视和加强教育资源建设的过程中，逐渐成长起来的一项具有广泛影响、涵盖各级各类教育、面向广大教师和专业技术人员的重要赛事。
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      <span style="font-size: 15px;letter-spacing: 1px;">
+       “信息化活动”由教育部有关业务司局指导，中央电化教育馆独立主办，2013年第十七届起更名为“全国教育教学信息化大奖赛” 。2015年10月起更名为“全国教育教学信息化交流展示活动”。
+      </span>
+     </p>
+     <p style="white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+      “信息化活动”旨在提高教师教育技术及网络应用能力、教师信息素养和软件制作水平，促进信息技术与学科教学整合，推动信息技术在教育教学中的广泛应用。
+     </p>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: right;margin-top: 10px;margin-bottom: 10px;font-size: 12px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 10%;box-sizing: border-box;">
+     <svg style="vertical-align: middle;max-width: 100%;box-sizing: border-box;" viewbox="0 0 294.7 95.1" width="100%" x="0px" xmlns="http://www.w3.org/2000/svg" y="0px">
+      <g style="box-sizing: border-box;">
+       <path d="M53.6,95.1c2.2-0.2,4.4-0.3,6.7-0.5c12.2-1.1,24-3.6,34.6-10.1c5-3.1,9.5-6.7,14.3-10.1c3.7-2.6,7.3-5.3,11-7.8   c4.8-3.3,10.2-5.1,15.9-6c12.3-2,23.9,0.5,35.1,5.4c4.7,2.1,9.3,4.5,14,6.4c6.8,2.8,14,4.3,21.5,4.4c10.1,0.1,19.3-2.9,27.7-8.2   c0.1,0,0.1-0.1,0.2-0.3c-0.2,0-0.3,0-0.5,0.1C220,74.1,206,73,192.3,66.7c-5.3-2.4-9.9-5.8-14.7-9c-7.5-5.1-15.3-9.6-23.9-12.5   c-11.8-3.9-23.3-3.1-34.8,1.3c-7.4,2.8-14.5,6.5-21.4,10.3c-6.4,3.5-13,6.8-19.8,9.6c-10.9,4.5-21.7,4.9-33.1,1.9   C31.2,64.7,21.8,50.9,26,35c4.1-15.3,16.5-20.3,27.3-19.9C57.5,15.3,61.4,16,65,18c6.2,3.5,9.3,9.3,10.6,16   c0.9,4.7-0.2,9.1-3.3,12.8c-1.5,1.8-3.3,3.3-5.6,3.9c-4.2,1-8.3-1.9-9.3-6.4c-0.4-2-0.2-4,0.6-5.8c0.7-1.6,1.4-3.1,2.2-4.8   c-0.3,0.1-0.6,0.1-0.9,0.2c-2.3,1.2-4.8,2.1-6.9,3.6c-3.8,2.5-5.3,6-4.2,10.7C50,56,55.5,62.1,63.4,63.2c8.2,1.2,15.2-1.6,20.4-8   c3.7-4.6,3.7-10,2-15.4c-0.7-2.1-0.5-3.4,0.8-5.1c2.6-3.5,4.3-7.4,4.7-11.8c0.6-7.6-2.6-13.2-8.8-17.3c-6.5-4.3-13.5-5.2-21-3.6   C57,2.8,52.9,4.4,49,6.5c-0.5,0.2-0.9,0.5-1.4,0.7c-3.1-3.3-6.9-5.5-11.3-6.5c-6.7-1.6-13.2-0.5-18.9,3.1   c-4.8,3.1-7.7,7.9-8.9,13.6c-1,4.9-0.5,9.7,1.2,14.4c0.3,0.7,0.1,1.2-0.4,1.8c-2.1,2.7-4.3,5.3-6,8.2C-0.8,49-1.1,56.5,2.9,63.8   c8.2,14.7,20,25.1,36.3,29.9c2.2,0.7,4.6,0.8,6.9,1.2c0.4,0.1,0.8,0.2,1.1,0.2C49.4,95.1,51.5,95.1,53.6,95.1z" fill="rgb(218,5,5)" style="box-sizing: border-box;">
+       </path>
+       <path d="M294.5,57.2c-1.2,0.9-2.3,1.7-3.5,2.5c-2.5,1.7-5.1,3.1-8.1,3.3c-1.6,0.1-3.3,0-4.8-0.5c-4.8-1.7-9.4-3.7-14.1-5.7   c-4.4-1.8-8.9-3.3-13.8-3.2c-2.3,0.1-4.6,0.4-6.9,0.8c-4.2,0.7-5.5,0.4-8.7-2.3c-2.7,6.3-8.1,8.4-14.3,9.6   c-6,1.1-11.4-0.3-16.5-3.4c-6.5-4-8.1-10.2-6.1-16.9c0.9-3,3.3-4.8,6.1-6.2c6.8-3.3,13-0.1,16.3,4.8c1.2,1.8,1.5,3.8,0.3,5.7   c-0.3,0.5-0.7,0.8-1.4,0.5c-0.7-0.2-1.6-0.3-2.4-0.4c-2.6-0.1-4.3,1.2-4.9,3.5c-0.5,2.1,0.6,4.6,2.7,5.5c3.4,1.5,6.7,0.8,9.6-1.3   c2.6-1.9,3.2-4.9,3.6-7.8c1.3-10.8-9-19.4-18.9-18.7c-8.6,0.6-16.7,6.7-18.5,14.5c-2.1,9,2.6,19.1,11,23.5c5.9,3,12.1,3.2,18.5,2.1   c3-0.5,5.8-1.5,8.5-2.8c5.4-2.6,10.8-4.8,16.7-6c3.2-0.7,6.2-0.1,9.2,0.9c5.6,2,11.1,4,16.7,5.9c3.4,1.2,6.9,1.9,10.6,1.9   c5.5-0.1,11.5-4.4,13.3-9.6C294.6,57.4,294.6,57.3,294.5,57.2z" fill="rgb(218,5,5)" style="box-sizing: border-box;">
+       </path>
+      </g>
+     </svg>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;text-align: center;box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <section style="width: 20px;height: 20px;background-color: rgb(249, 174, 165);box-sizing: border-box;">
+     </section>
+     <section style="clear: both;box-sizing: border-box;">
+     </section>
+     <section style="margin: -10px 0px;padding: 0px 10px;display: inline-block;vertical-align: top;width: 100%;box-sizing: border-box;">
+      <section style="border-width: 2px;border-style: solid;border-color: rgba(255, 255, 255, 0);padding: 10px;background-color: rgba(246, 212, 218, 0.58);box-sizing: border-box;">
+       <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+        <section style="margin: 10px 0% 0px;box-sizing: border-box;">
+         <section style="text-align: justify;font-size: 15px;line-height: 2;padding: 0px 10px;color: rgb(0, 0, 0);letter-spacing: 1px;box-sizing: border-box;">
+          <p style="clear: none;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+           本届活动，历时3个月，经过报名初审、技术测试、决赛交流等环节，我校谢健美、陈莹、董雨雪、张明、钟慧、邹园园等
+           <strong style="box-sizing: border-box;">
+            6名
+           </strong>
+           老师，分
+           <span style="color: rgb(255, 0, 0);box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             获一~三等奖
+            </strong>
+           </span>
+           ；
+          </p>
+         </section>
+        </section>
+       </section>
+       <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+        <section style="margin: 10px 0% 20px;box-sizing: border-box;">
+         <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+          <img data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/9pWzhibBTfSCLIakAkCMJGpiaCgqt7u2PiawOycPUdrIl9tDZb7c928sxBo998e9jeINSD3xVeicqibPDdsGKHFyjsQ/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+         </section>
+        </section>
+       </section>
+       <section class="V5" powered-by="xiumi.us" style="height: auto;box-sizing: border-box;">
+        <section style="min-height: 40px;margin: 10px 0%;box-sizing: border-box;">
+         <section style="width: 100%;margin: 0px auto;box-sizing: border-box;">
+          <table class="table-box" style="border-collapse: collapse;box-sizing: border-box;" width="100%">
+           <tbody style="box-sizing: border-box;">
+            <tr class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+             <td colspan="1" rowspan="1" style="border-width: 0px 0px 1px;border-color: rgb(62, 62, 62) rgb(62, 62, 62) rgb(202, 198, 198);border-radius: 0px;border-style: none solid dashed none;background-color: rgb(247, 247, 247);padding: 5px;box-sizing: border-box;" width="20.0000%">
+              <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="box-sizing: border-box;">
+                <section style="display: inline-block;width: 100%;vertical-align: middle;border-right: 1px solid rgb(202, 198, 198);border-top-right-radius: 0px;box-sizing: border-box;">
+                 <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+                  <section style="box-sizing: border-box;">
+                   <section style="font-size: 14px;box-sizing: border-box;">
+                    <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+                     谢健美
+                    </p>
+                   </section>
+                  </section>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </td>
+             <td colspan="1" rowspan="1" style="border-width: 0px 0px 1px;border-color: rgb(62, 62, 62) rgb(62, 62, 62) rgb(202, 198, 198);border-radius: 0px;border-style: none none dashed;background-color: rgb(247, 247, 247);padding: 5px;box-sizing: border-box;" width="56.2500%">
+              <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="box-sizing: border-box;">
+                <section style="display: inline-block;width: 100%;vertical-align: middle;border-right: 1px solid rgb(202, 198, 198);border-top-right-radius: 0px;box-sizing: border-box;">
+                 <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+                  <section style="box-sizing: border-box;">
+                   <section style="font-size: 14px;box-sizing: border-box;">
+                    <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+                     《TI图形计算器作图
+                     <span style="letter-spacing: 0px;box-sizing: border-box;">
+                      第一讲
+                     </span>
+                    </p>
+                    <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+                     <span style="letter-spacing: 0px;box-sizing: border-box;">
+                      基本操作》
+                     </span>
+                    </p>
+                   </section>
+                  </section>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </td>
+             <td colspan="1" rowspan="1" style="border-width: 0px 0px 1px;border-color: rgb(62, 62, 62) rgb(62, 62, 62) rgb(202, 198, 198);border-radius: 0px;border-style: none none dashed;background-color: rgb(247, 247, 247);padding: 5px;box-sizing: border-box;" width="20.0000%">
+              <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="box-sizing: border-box;">
+                <section style="display: inline-block;width: 100%;vertical-align: middle;border-width: 0px;box-sizing: border-box;">
+                 <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+                  <section style="box-sizing: border-box;">
+                   <section style="font-size: 14px;box-sizing: border-box;">
+                    <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+                     一等奖
+                    </p>
+                   </section>
+                  </section>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </td>
+            </tr>
+            <tr class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+             <td colspan="1" rowspan="1" style="border-width: 0px 0px 1px;border-color: rgb(62, 62, 62) rgb(62, 62, 62) rgb(202, 198, 198);border-radius: 0px;border-style: none solid dashed none;background-color: rgb(247, 247, 247);padding: 5px;box-sizing: border-box;" width="20.0000%">
+              <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="box-sizing: border-box;">
+                <section style="display: inline-block;width: 100%;vertical-align: middle;border-right: 1px solid rgb(202, 198, 198);border-top-right-radius: 0px;box-sizing: border-box;">
+                 <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+                  <section style="box-sizing: border-box;">
+                   <section style="font-size: 14px;box-sizing: border-box;">
+                    <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+                     陈莹
+                    </p>
+                   </section>
+                  </section>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </td>
+             <td colspan="1" rowspan="1" style="border-width: 0px 0px 1px;border-color: rgb(62, 62, 62) rgb(62, 62, 62) rgb(202, 198, 198);border-radius: 0px;border-style: none none dashed;background-color: rgb(247, 247, 247);padding: 5px;box-sizing: border-box;" width="56.2500%">
+              <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="box-sizing: border-box;">
+                <section style="display: inline-block;width: 100%;vertical-align: middle;border-right: 1px solid rgb(202, 198, 198);border-top-right-radius: 0px;box-sizing: border-box;">
+                 <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+                  <section style="box-sizing: border-box;">
+                   <section style="font-size: 14px;box-sizing: border-box;">
+                    <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+                     《跟着奥巴马了解
+                     <span style="letter-spacing: 0px;box-sizing: border-box;">
+                      美国节日》
+                     </span>
+                    </p>
+                   </section>
+                  </section>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </td>
+             <td colspan="1" rowspan="1" style="border-width: 0px 0px 1px;border-color: rgb(62, 62, 62) rgb(62, 62, 62) rgb(202, 198, 198);border-radius: 0px;border-style: none none dashed;background-color: rgb(247, 247, 247);padding: 5px;box-sizing: border-box;" width="20.0000%">
+              <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="box-sizing: border-box;">
+                <section style="display: inline-block;width: 100%;vertical-align: middle;border-width: 0px;box-sizing: border-box;">
+                 <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+                  <section style="box-sizing: border-box;">
+                   <section style="font-size: 14px;box-sizing: border-box;">
+                    <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+                     一等奖
+                    </p>
+                   </section>
+                  </section>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </td>
+            </tr>
+            <tr class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+             <td colspan="1" rowspan="1" style="border-width: 0px 0px 1px;border-color: rgb(62, 62, 62) rgb(62, 62, 62) rgb(202, 198, 198);border-radius: 0px;border-style: none solid dashed none;background-color: rgb(247, 247, 247);padding: 5px;box-sizing: border-box;" width="20.0000%">
+              <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="box-sizing: border-box;">
+                <section style="display: inline-block;width: 100%;vertical-align: middle;border-right: 1px solid rgb(202, 198, 198);border-top-right-radius: 0px;box-sizing: border-box;">
+                 <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+                  <section style="box-sizing: border-box;">
+                   <section style="font-size: 14px;box-sizing: border-box;">
+                    <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+                     董雨雪
+                    </p>
+                   </section>
+                  </section>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </td>
+             <td colspan="1" rowspan="1" style="border-width: 0px 0px 1px;border-color: rgb(62, 62, 62) rgb(62, 62, 62) rgb(202, 198, 198);border-radius: 0px;border-style: none none dashed;background-color: rgb(247, 247, 247);padding: 5px;box-sizing: border-box;" width="56.2500%">
+              <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="box-sizing: border-box;">
+                <section style="display: inline-block;width: 100%;vertical-align: middle;border-right: 1px solid rgb(202, 198, 198);border-top-right-radius: 0px;box-sizing: border-box;">
+                 <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+                  <section style="box-sizing: border-box;">
+                   <section style="font-size: 14px;box-sizing: border-box;">
+                    <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+                     《新技术研究与评价——
+                    </p>
+                    <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+                     人工智能》
+                    </p>
+                   </section>
+                  </section>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </td>
+             <td colspan="1" rowspan="1" style="border-width: 0px 0px 1px;border-color: rgb(62, 62, 62) rgb(62, 62, 62) rgb(202, 198, 198);border-radius: 0px;border-style: none none dashed;background-color: rgb(247, 247, 247);padding: 5px;box-sizing: border-box;" width="20.0000%">
+              <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="box-sizing: border-box;">
+                <section style="display: inline-block;width: 100%;vertical-align: middle;box-sizing: border-box;">
+                 <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+                  <section style="box-sizing: border-box;">
+                   <section style="font-size: 14px;box-sizing: border-box;">
+                    <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+                     一等奖
+                    </p>
+                   </section>
+                  </section>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </td>
+            </tr>
+            <tr class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+             <td colspan="1" rowspan="1" style="border-width: 0px 0px 1px;border-color: rgb(62, 62, 62) rgb(62, 62, 62) rgb(202, 198, 198);border-radius: 0px;border-style: none solid dashed none;background-color: rgb(247, 247, 247);padding: 5px;box-sizing: border-box;" width="20.0000%">
+              <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="box-sizing: border-box;">
+                <section style="display: inline-block;width: 100%;vertical-align: middle;border-right: 1px solid rgb(202, 198, 198);border-top-right-radius: 0px;box-sizing: border-box;">
+                 <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+                  <section style="box-sizing: border-box;">
+                   <section style="font-size: 14px;box-sizing: border-box;">
+                    <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+                     张明
+                    </p>
+                   </section>
+                  </section>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </td>
+             <td colspan="1" rowspan="1" style="border-width: 0px 0px 1px;border-color: rgb(62, 62, 62) rgb(62, 62, 62) rgb(202, 198, 198);border-radius: 0px;border-style: none none dashed;background-color: rgb(247, 247, 247);padding: 5px;box-sizing: border-box;" width="56.2500%">
+              <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="box-sizing: border-box;">
+                <section style="display: inline-block;width: 100%;vertical-align: middle;border-right: 1px solid rgb(202, 198, 198);border-top-right-radius: 0px;box-sizing: border-box;">
+                 <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+                  <section style="box-sizing: border-box;">
+                   <section style="font-size: 14px;box-sizing: border-box;">
+                    <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+                     《科幻电影的人文内核》
+                    </p>
+                   </section>
+                  </section>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </td>
+             <td colspan="1" rowspan="1" style="border-width: 0px 0px 1px;border-color: rgb(62, 62, 62) rgb(62, 62, 62) rgb(202, 198, 198);border-radius: 0px;border-style: none none dashed;background-color: rgb(247, 247, 247);padding: 5px;box-sizing: border-box;" width="20.0000%">
+              <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="box-sizing: border-box;">
+                <section style="display: inline-block;width: 100%;vertical-align: middle;box-sizing: border-box;">
+                 <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+                  <section style="box-sizing: border-box;">
+                   <section style="font-size: 14px;box-sizing: border-box;">
+                    <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+                     三等奖
+                    </p>
+                   </section>
+                  </section>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </td>
+            </tr>
+            <tr class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+             <td colspan="1" rowspan="1" style="border-width: 0px 0px 1px;border-color: rgb(62, 62, 62) rgb(62, 62, 62) rgb(202, 198, 198);border-radius: 0px;border-style: none solid dashed none;background-color: rgb(247, 247, 247);padding: 5px;box-sizing: border-box;" width="20.0000%">
+              <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="box-sizing: border-box;">
+                <section style="display: inline-block;width: 100%;vertical-align: middle;border-style: solid;border-width: 0px 1px 0px 0px;border-radius: 0px;border-color: rgb(62, 62, 62) rgb(202, 198, 198) rgb(62, 62, 62) rgb(62, 62, 62);box-sizing: border-box;">
+                 <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+                  <section style="box-sizing: border-box;">
+                   <section style="font-size: 14px;box-sizing: border-box;">
+                    <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+                     钟慧
+                    </p>
+                   </section>
+                  </section>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </td>
+             <td colspan="1" rowspan="1" style="border-width: 0px 0px 1px;border-color: rgb(62, 62, 62) rgb(62, 62, 62) rgb(202, 198, 198);border-radius: 0px;border-style: none none dashed;background-color: rgb(247, 247, 247);padding: 5px;box-sizing: border-box;" width="56.2500%">
+              <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="box-sizing: border-box;">
+                <section style="display: inline-block;width: 100%;vertical-align: middle;border-right: 1px solid rgb(202, 198, 198);border-top-right-radius: 0px;box-sizing: border-box;">
+                 <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+                  <section style="box-sizing: border-box;">
+                   <section style="font-size: 14px;box-sizing: border-box;">
+                    <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+                     《The interesting world of plants
+                     <span style="letter-spacing: 0px;box-sizing: border-box;">
+                      》
+                     </span>
+                    </p>
+                   </section>
+                  </section>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </td>
+             <td colspan="1" rowspan="1" style="border-width: 0px 0px 1px;border-color: rgb(62, 62, 62) rgb(62, 62, 62) rgb(202, 198, 198);border-radius: 0px;border-style: none none dashed;background-color: rgb(247, 247, 247);padding: 5px;box-sizing: border-box;" width="20.0000%">
+              <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="box-sizing: border-box;">
+                <section style="display: inline-block;width: 100%;vertical-align: middle;box-sizing: border-box;">
+                 <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+                  <section style="box-sizing: border-box;">
+                   <section style="font-size: 14px;box-sizing: border-box;">
+                    <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+                     三等奖
+                    </p>
+                   </section>
+                  </section>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </td>
+            </tr>
+            <tr class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+             <td colspan="1" rowspan="1" style="border-width: 0px 0px 1px;border-color: rgb(62, 62, 62) rgb(62, 62, 62) rgb(202, 198, 198);border-radius: 0px;border-style: none solid dashed none;background-color: rgb(247, 247, 247);padding: 5px;box-sizing: border-box;" width="20.0000%">
+              <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="box-sizing: border-box;">
+                <section style="display: inline-block;width: 100%;vertical-align: middle;border-right: 1px solid rgb(202, 198, 198);border-top-right-radius: 0px;box-sizing: border-box;">
+                 <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+                  <section style="box-sizing: border-box;">
+                   <section style="font-size: 14px;box-sizing: border-box;">
+                    <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+                     邹园园
+                    </p>
+                   </section>
+                  </section>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </td>
+             <td colspan="1" rowspan="1" style="border-width: 0px 0px 1px;border-color: rgb(62, 62, 62) rgb(62, 62, 62) rgb(202, 198, 198);border-radius: 0px;border-style: none none dashed;background-color: rgb(247, 247, 247);padding: 5px;box-sizing: border-box;" width="56.2500%">
+              <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="box-sizing: border-box;">
+                <section style="display: inline-block;width: 100%;vertical-align: middle;border-width: 0px 1px 0px 0px;border-right-style: solid;border-top-right-radius: 0px;border-right-color: rgb(202, 198, 198);box-sizing: border-box;">
+                 <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+                  <section style="box-sizing: border-box;">
+                   <section style="font-size: 14px;box-sizing: border-box;">
+                    <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+                     《食物中的蛋白质》
+                    </p>
+                   </section>
+                  </section>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </td>
+             <td colspan="1" rowspan="1" style="border-width: 0px 0px 1px;border-color: rgb(62, 62, 62) rgb(62, 62, 62) rgb(202, 198, 198);border-radius: 0px;border-style: none none dashed;background-color: rgb(247, 247, 247);padding: 5px;box-sizing: border-box;" width="20.0000%">
+              <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+               <section style="box-sizing: border-box;">
+                <section style="display: inline-block;width: 100%;vertical-align: middle;box-sizing: border-box;">
+                 <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+                  <section style="box-sizing: border-box;">
+                   <section style="font-size: 14px;box-sizing: border-box;">
+                    <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+                     三等奖
+                    </p>
+                   </section>
+                  </section>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section style="width: 20px;height: 20px;float: right;background-color: rgb(249, 174, 165);box-sizing: border-box;">
+     </section>
+     <section style="clear: both;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 0px 0% 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;display: inline-block;width: 100%;box-sizing: border-box;">
+     <img data-ratio="0.0390625" data-type="jpeg?x-oss-process=style/xmorient" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/HshGGthX5JXbsuHsd0Ff6QkooujPEs2Sibt8LB0et0vJsiaEIDZMgkvKb85D3VPoYUnUIuVTJx7HR69ltFBPTZ7A/640?wx_fmt=jpeg?x-oss-process=style/xmorient" style="vertical-align: middle;max-width: 100%;width: 100%;box-sizing: border-box;" width="100%"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 0px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: bottom;width: 50%;padding: 2px;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(255, 211, 196);box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 100%;box-sizing: border-box;">
+        <section style="width: 2.5em;height: 2.5em;margin-bottom: -2.5em;border-left: 2px dotted rgba(255, 196, 196, 0.76);border-top: 2px dotted rgba(255, 196, 196, 0.76);box-sizing: border-box;">
+        </section>
+        <section style="padding: 8px;box-sizing: border-box;">
+         <section style="width: 100%;background-color: rgb(241, 233, 222);box-sizing: border-box;">
+          <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="margin: 0px 0%;box-sizing: border-box;">
+            <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+             <img data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/9pWzhibBTfSCLIakAkCMJGpiaCgqt7u2PiaicvymPJx2r1XLlciaztCicpIVG2yzdDCJqo2SUW7UicAgZMAO4PblgazVg/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+            </section>
+           </section>
+          </section>
+          <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="margin: 0px 0%;box-sizing: border-box;">
+            <section style="text-align: left;font-size: 14px;line-height: 1.6;letter-spacing: 1px;box-sizing: border-box;">
+             <p style="text-align: center;clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+              谢健美老师
+              <br style="box-sizing: border-box;"/>
+             </p>
+             <p style="text-align: center;clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+              <span style="color: rgb(255, 0, 0);box-sizing: border-box;">
+               一等奖
+              </span>
+             </p>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section style="width: 2.5em;height: 2.5em;float: right;margin-top: -2.5em;border-right: 2px dotted rgba(255, 196, 196, 0.76);border-bottom: 2px dotted rgba(255, 196, 196, 0.76);box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: bottom;width: 50%;padding: 2px;border-width: 0px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 100%;box-sizing: border-box;">
+        <section style="width: 2.5em;height: 2.5em;margin-bottom: -2.5em;float: right;border-right: 2px dotted rgb(197, 227, 211);border-top: 2px dotted rgb(197, 227, 211);box-sizing: border-box;">
+        </section>
+        <section style="padding: 8px;box-sizing: border-box;">
+         <section style="width: 100%;background-color: rgb(241, 233, 222);box-sizing: border-box;">
+          <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="margin: 0px 0%;box-sizing: border-box;">
+            <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+             <img data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/9pWzhibBTfSCLIakAkCMJGpiaCgqt7u2PiabKNqL8eN6IbAeVycBuc7QvOM9XQKSiajEjypMvAMDzcuaqyOUdOiaIvw/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+            </section>
+           </section>
+          </section>
+          <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="margin: 0px 0%;box-sizing: border-box;">
+            <section style="text-align: left;font-size: 14px;line-height: 1.6;letter-spacing: 1px;box-sizing: border-box;">
+             <p style="text-align: center;clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+              陈莹老师
+             </p>
+             <p style="text-align: center;clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+              <span style="color: rgb(255, 0, 0);box-sizing: border-box;">
+               一等奖
+              </span>
+             </p>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section style="width: 2.5em;height: 2.5em;margin-top: -2.5em;border-left: 2px dotted rgb(197, 227, 211);border-bottom: 2px dotted rgb(197, 227, 211);box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 0px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;width: 50%;padding: 2px;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(255, 211, 196);box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 100%;box-sizing: border-box;">
+        <section style="width: 2.5em;height: 2.5em;margin-bottom: -2.5em;float: right;border-right: 2px dotted rgb(197, 227, 211);border-top: 2px dotted rgb(197, 227, 211);box-sizing: border-box;">
+        </section>
+        <section style="padding: 8px;box-sizing: border-box;">
+         <section style="width: 100%;background-color: rgb(241, 233, 222);box-sizing: border-box;">
+          <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="margin: 0px 0%;box-sizing: border-box;">
+            <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+             <img data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/9pWzhibBTfSCLIakAkCMJGpiaCgqt7u2PiaocB3SjMt2WOUjBS4iaIpJGeL8554hiaKufZyMiapq5GMGj1AgxD9udfHg/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+            </section>
+           </section>
+          </section>
+          <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="box-sizing: border-box;">
+            <section style="font-size: 14px;line-height: 1.6;letter-spacing: 1px;box-sizing: border-box;">
+             <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+              董雨雪老师
+             </p>
+             <p style="clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+              <span style="color: rgb(255, 0, 0);box-sizing: border-box;">
+               一等奖
+              </span>
+             </p>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section style="width: 2.5em;height: 2.5em;margin-top: -2.5em;border-left: 2px dotted rgb(197, 227, 211);border-bottom: 2px dotted rgb(197, 227, 211);box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: top;width: 50%;padding: 2px;border-width: 0px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 100%;box-sizing: border-box;">
+        <section style="width: 2.5em;height: 2.5em;margin-bottom: -2.5em;border-left: 2px dotted rgba(255, 196, 196, 0.76);border-top: 2px dotted rgba(255, 196, 196, 0.76);box-sizing: border-box;">
+        </section>
+        <section style="padding: 8px;box-sizing: border-box;">
+         <section style="width: 100%;background-color: rgb(241, 233, 222);box-sizing: border-box;">
+          <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="margin: 0px 0%;box-sizing: border-box;">
+            <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+             <img data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/9pWzhibBTfSCLIakAkCMJGpiaCgqt7u2PiaoWYNQjgXJdbzliciawt7w8BMyVM6JnDiaHFG4awIZa5fwQlwNVxGbqy9Q/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+            </section>
+           </section>
+          </section>
+          <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="box-sizing: border-box;">
+            <section style="text-align: left;font-size: 14px;line-height: 1.6;letter-spacing: 1px;box-sizing: border-box;">
+             <p style="text-align: center;clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+              张明老师
+             </p>
+             <p style="text-align: center;clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+              <span style="color: rgb(255, 0, 0);box-sizing: border-box;">
+               三
+              </span>
+              <span style="color: rgb(255, 0, 0);text-align: left;box-sizing: border-box;">
+               等奖
+              </span>
+             </p>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section style="width: 2.5em;height: 2.5em;float: right;margin-top: -2.5em;border-right: 2px dotted rgba(255, 196, 196, 0.76);border-bottom: 2px dotted rgba(255, 196, 196, 0.76);box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 0px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;width: 50%;padding: 2px;border-style: none;border-width: 1px;border-radius: 0px;border-color: rgb(255, 211, 196);box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 100%;box-sizing: border-box;">
+        <section style="width: 2.5em;height: 2.5em;margin-bottom: -2.5em;float: right;border-right: 2px dotted rgb(197, 227, 211);border-top: 2px dotted rgb(197, 227, 211);box-sizing: border-box;">
+        </section>
+        <section style="padding: 8px;box-sizing: border-box;">
+         <section style="width: 100%;background-color: rgb(241, 233, 222);box-sizing: border-box;">
+          <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="margin: 0px 0%;box-sizing: border-box;">
+            <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+             <img data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/9pWzhibBTfSCLIakAkCMJGpiaCgqt7u2PiahxYy6VDcMZNAl1udXjj3hwyTbA21vhdl80tRZZeLibN4IHmlZcpHROA/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+            </section>
+           </section>
+          </section>
+          <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="box-sizing: border-box;">
+            <section style="text-align: left;font-size: 14px;line-height: 1.6;letter-spacing: 1px;box-sizing: border-box;">
+             <p style="text-align: center;clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+              钟慧老师
+             </p>
+             <p style="text-align: center;clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+              <span style="color: rgb(255, 0, 0);box-sizing: border-box;">
+               三等奖
+              </span>
+             </p>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section style="width: 2.5em;height: 2.5em;margin-top: -2.5em;border-left: 2px dotted rgb(197, 227, 211);border-bottom: 2px dotted rgb(197, 227, 211);box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: top;width: 50%;padding: 2px;border-width: 0px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 0px 0%;box-sizing: border-box;">
+       <section style="display: inline-block;vertical-align: top;width: 100%;box-sizing: border-box;">
+        <section style="width: 2.5em;height: 2.5em;margin-bottom: -2.5em;border-left: 2px dotted rgba(255, 196, 196, 0.76);border-top: 2px dotted rgba(255, 196, 196, 0.76);box-sizing: border-box;">
+        </section>
+        <section style="padding: 8px;box-sizing: border-box;">
+         <section style="width: 100%;background-color: rgb(241, 233, 222);box-sizing: border-box;">
+          <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="margin: 0px 0%;box-sizing: border-box;">
+            <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+             <img data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/9pWzhibBTfSCLIakAkCMJGpiaCgqt7u2PiaOx4h6snROEXD2vYD9Sj70HSvHH8nl3usapbp6Mb5CPocTbDjAouuVg/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+            </section>
+           </section>
+          </section>
+          <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+           <section style="box-sizing: border-box;">
+            <section style="text-align: left;font-size: 14px;line-height: 1.6;letter-spacing: 1px;box-sizing: border-box;">
+             <p style="text-align: center;clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+              邹园园老师
+             </p>
+             <p style="text-align: center;clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+              <span style="color: rgb(255, 0, 0);box-sizing: border-box;">
+               三等奖
+              </span>
+             </p>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+        <section style="width: 2.5em;height: 2.5em;float: right;margin-top: -2.5em;border-right: 2px dotted rgba(255, 196, 196, 0.76);border-bottom: 2px dotted rgba(255, 196, 196, 0.76);box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0%;text-align: center;box-sizing: border-box;">
+    <section style="box-sizing: border-box;">
+     <section style="width: 20px;height: 20px;background-color: rgb(249, 174, 165);box-sizing: border-box;">
+     </section>
+     <section style="clear: both;box-sizing: border-box;">
+     </section>
+     <section style="margin: -10px 0px;padding: 0px 10px;display: inline-block;vertical-align: top;width: 100%;box-sizing: border-box;">
+      <section style="border-width: 2px;border-style: solid;border-color: rgba(255, 255, 255, 0);padding: 10px;background-color: rgba(246, 212, 218, 0.58);box-sizing: border-box;">
+       <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+        <section style="margin: 10px 0% 0px;box-sizing: border-box;">
+         <section style="text-align: justify;font-size: 15px;line-height: 2;padding: 0px 10px;color: rgb(0, 0, 0);letter-spacing: 1px;box-sizing: border-box;">
+          <p style="clear: none;white-space: normal;margin: 0px;padding: 0px;box-sizing: border-box;">
+           此外，我校政治教研组的叶莉老师，在
+           <span style="color: rgb(217, 33, 66);font-size: 16px;">
+            <strong style="box-sizing: border-box;">
+             教育部和上海市的“一师一优课，一课一名师”活动
+            </strong>
+           </span>
+           中，获得“
+           <span style="color: rgb(255, 0, 0);box-sizing: border-box;">
+            <strong style="box-sizing: border-box;">
+             活动优课
+            </strong>
+           </span>
+           ”称号。
+          </p>
+         </section>
+        </section>
+       </section>
+       <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+        <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+         <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+          <img data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/9pWzhibBTfSCLIakAkCMJGpiaCgqt7u2PiaO6MY9hPyqEHveibmLEkNvODgrJUtXpqhXgVcfvKfWiaib95uydBQPOX4g/640?wx_fmt=jpeg" style="vertical-align: middle;max-width: 100%;box-sizing: border-box;"/>
+         </section>
+        </section>
+       </section>
+       <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+        <section style="box-sizing: border-box;">
+         <section style="text-align: left;font-size: 14px;box-sizing: border-box;">
+          <p style="text-align: center;clear: none;margin: 0px;padding: 0px;box-sizing: border-box;">
+           叶莉老师
+          </p>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section style="width: 20px;height: 20px;float: right;background-color: rgb(249, 174, 165);box-sizing: border-box;">
+     </section>
+     <section style="clear: both;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 20px 0% 10px;text-align: center;box-sizing: border-box;">
+    <section style="padding: 3px;display: inline-block;vertical-align: middle;box-sizing: border-box;">
+     <section style="border-radius: 5px;background-color: rgb(212, 36, 38);box-sizing: border-box;">
+      <section style="border-radius: 5px;border-color: rgb(221, 221, 221);padding-left: 8px;padding-right: 8px;border-style: solid;border-width: 1px;display: inline-block;vertical-align: top;margin: 3px 3px -3px -3px;color: rgb(255, 255, 255);font-size: 18px;box-sizing: border-box;">
+       <p style="margin: 0px;padding: 0px;box-sizing: border-box;">
+        向以上获奖老师表示祝贺！
+       </p>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>

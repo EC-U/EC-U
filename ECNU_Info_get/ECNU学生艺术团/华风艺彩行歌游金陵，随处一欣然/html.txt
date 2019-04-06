@@ -1,0 +1,865 @@
+
+ <section style="box-sizing: border-box;">
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 25px 0% 10px;box-sizing: border-box;">
+    <section style='display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;background-position: 47.339% -16.6667%;background-repeat: repeat-y;background-size: 258.782%;background-attachment: scroll;padding-right: 3px;padding-bottom: 5px;padding-left: 3px;border-bottom: 5px none rgb(62, 62, 62);border-bottom-right-radius: 0px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;background-image: url("https://mmbiz.qpic.cn/mmbiz_gif/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2XQ4qS7LciauCxlulhZ0MDEqDZR2ib3ic0kGqBqd864B0tsEAySrICavRgQ/640?wx_fmt=gif");box-sizing: border-box;'>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: -15px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="text-align: left;font-size: 18px;color: rgb(175, 69, 35);box-sizing: border-box;">
+        <p style="text-align: center;box-sizing: border-box;">
+         <strong>
+          行歌游金陵，随处一欣然
+         </strong>
+        </p>
+        <p style="text-align: center;box-sizing: border-box;">
+         <span style="font-size: 16px;box-sizing: border-box;">
+          第十一届金陵合唱节系列活动
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;border-width: 10px;border-style: solid;border-radius: 0px;border-color: rgb(249, 213, 87);box-sizing: border-box;">
+     <img data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2XwrpgAcFxIX5vqb19eERndqj3gaeiagWlTIDhB5RoWiacI4NaAia8DuKIw/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <img data-ratio="0.10625" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2XQ4XslSUBfkN41Hib4Vc6bpX8eqicQ7ySLYXVCjRvfNDCFMzYB34WlYHg/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="float: left;width: 14px;box-sizing: border-box;">
+     <section style="width: 0px;float: left;border-width: 4px;border-style: solid;border-color: rgb(249, 213, 87) transparent transparent rgb(249, 213, 87);box-sizing: border-box;">
+     </section>
+     <section style="width: 0px;border-width: 7px;border-style: solid;border-color: transparent rgb(249, 213, 87) rgb(249, 213, 87) transparent;box-sizing: border-box;">
+     </section>
+    </section>
+    <section style="float: right;width: 14px;box-sizing: border-box;">
+     <section style="width: 0px;float: right;border-width: 4px;border-style: solid;border-color: rgb(249, 213, 87) rgb(249, 213, 87) transparent transparent;box-sizing: border-box;">
+     </section>
+     <section style="width: 0px;border-width: 7px;border-style: solid;border-color: transparent transparent rgb(249, 213, 87) rgb(249, 213, 87);box-sizing: border-box;">
+     </section>
+    </section>
+    <section style="clear: both;box-sizing: border-box;">
+    </section>
+    <section style="padding-right: 14px;padding-left: 14px;margin-top: -14px;box-sizing: border-box;">
+     <section style="height: 14px;background-color: rgb(249, 213, 87);box-sizing: border-box;">
+     </section>
+    </section>
+    <section style="display: inline-block;width: 100%;background-color: rgb(249, 213, 87);padding-left: 10px;padding-right: 10px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="clear: none;box-sizing: border-box;">
+         长三角暨江苏城市合唱交流论坛与合唱展演活动于2018年11月10日在江苏省首府南京市如期开展。我校VIVA合唱团应邀赴南京演出，用圆满完成的合唱作品和饱满昂扬的表演态度再一次于秦淮河畔唱响VIVA之声，彰显华师之风。
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="float: left;width: 14px;box-sizing: border-box;">
+     <section style="width: 0px;float: left;margin-top: 6px;border-width: 4px;border-style: solid;border-color: transparent transparent rgb(249, 213, 87) rgb(249, 213, 87);box-sizing: border-box;">
+     </section>
+     <section style="width: 0px;border-width: 7px;border-style: solid;border-color: rgb(249, 213, 87) rgb(249, 213, 87) transparent transparent;box-sizing: border-box;">
+     </section>
+    </section>
+    <section style="float: right;width: 14px;box-sizing: border-box;">
+     <section style="width: 0px;float: right;margin-top: 6px;border-width: 4px;border-style: solid;border-color: transparent rgb(249, 213, 87) rgb(249, 213, 87) transparent;box-sizing: border-box;">
+     </section>
+     <section style="width: 0px;border-width: 7px;border-style: solid;border-color: rgb(249, 213, 87) transparent transparent rgb(249, 213, 87);box-sizing: border-box;">
+     </section>
+    </section>
+    <section style="clear: both;box-sizing: border-box;">
+    </section>
+    <section style="padding-right: 14px;padding-left: 14px;margin-top: -14px;box-sizing: border-box;">
+     <section style="height: 14px;background-color: rgb(249, 213, 87);box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <img data-ratio="0.1375" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2X5TDUTXxEUJr1S8icEEgAebQPO6oZcclDpf4LLg63DDyoITtqUlpiboicg/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="width: 2.25em;height: 2.25em;margin-left: auto;border-top: 5px solid rgb(249, 213, 87);border-right: 5px solid rgb(249, 213, 87);transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);box-sizing: border-box;">
+    </section>
+    <section style="margin-top: -2.25em;box-sizing: border-box;">
+     <section style="padding: 10px;background-color: rgb(242, 242, 242);box-sizing: border-box;">
+      <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="padding: 10px;box-sizing: border-box;">
+         <p style="box-sizing: border-box;text-align: left;">
+          11月9日，秋日午后暖而不烈的阳光给大巴车镀上了闪耀的光晕，也给我们兴致勃勃乘坐大巴车前往南京的心情镀上了愉快的颜色。南京，已经不是VIVA合唱团第一次踏足了。去年的初夏，我们就已经受邀来到这座被无数歌声吟唱、环绕、回响的城市，参加第三届江苏紫金合唱节，用《小河淌水》、《贝加尔湖畔》在南京的城市回忆录中留下了华东师范大学VIVA合唱团的专属之声。而今年的深秋，我团被再一次邀请回到金陵城下歌唱，许多老团员的心里都有了一种特殊的亲近之感。所以哪怕是排除万难、暂时放下课业，我们也要再次书写VIVA在南京城的荣耀与团魂。
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="margin-bottom: -2.25em;box-sizing: border-box;">
+     <section style="padding: 10px;background-color: rgb(242, 242, 242);box-sizing: border-box;">
+      <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="padding: 10px;box-sizing: border-box;">
+         <p style="text-align: left;">
+          近5个小时的舟车劳顿后，我们全团成员终于再次踏足这一片古老但与时俱进的土地。在安排好住宿问题之后，我团团员并不敢卸下一整个下午奔波的疲惫，马不停蹄地集合在酒店餐厅继续为第二天的排练进行巩固与磨合。酒店的厅堂并不大，还有桌椅摆放占据了空间，我们能进行排练的空间实在是限之又限，但是在将近“80后”仍和我们坚守在一起的指挥任老师那股“轴”劲的感染下，我们逐渐在狭小空间的混响中找到彼此声音之间的配合与默契，也逐渐明白了我们自来到南京的那一刻起肩膀上所承载的荣光和使命。
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="width: 2.25em;height: 2.25em;border-bottom: 5px solid rgb(249, 213, 87);border-left: 5px solid rgb(249, 213, 87);transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin: 10px 0% -45px;transform: translate3d(10px, 0px, 0px);-webkit-transform: translate3d(10px, 0px, 0px);-moz-transform: translate3d(10px, 0px, 0px);-o-transform: translate3d(10px, 0px, 0px);box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 20%;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+     <img data-ratio="1" data-type="png" data-w="219" src="https://mmbiz.qpic.cn/mmbiz_png/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2XhKNoUHkBxHIyw6wEWsyUaE1wRDDiap5eINfaCicic69GRw9agamibWdLOA/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 8px 0% 18px;padding-left: 0.5em;padding-right: 0.5em;box-sizing: border-box;">
+    <section style="box-sizing: border-box;width: 100%;border-width: 4px;border-style: solid;border-color: white;box-shadow: rgb(102, 102, 102) 3.53553px 3.53553px 8px;display: inline-block;height: auto !important;">
+     <img data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2Xey5icOyNdAkscLRJJ5r8NCDdqReOOGErtcySjftKd9jyHTzaFF3WWDg/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <img data-ratio="0.10625" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2XQ4XslSUBfkN41Hib4Vc6bpX8eqicQ7ySLYXVCjRvfNDCFMzYB34WlYHg/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 0.5em;margin-bottom: 0.5em;text-align: center;box-sizing: border-box;">
+    <section style="border-width: 10px;border-style: solid;border-color: rgba(247, 239, 226, 0.5);margin-bottom: -2.5em;padding: 10px;background-color: rgb(249, 213, 87);box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="clear: none;box-sizing: border-box;">
+         <span style="text-indent: 32px;font-size: 16px;">
+          <span style="font-family:宋体;">
+           将近一小时的排练结束
+          </span>
+         </span>
+         <span style="text-indent: 32px;font-family: 宋体;font-size: 16px;">
+          ，时钟已经指向了晚上八点，近八个小时没有补充能量的我们已经有些困倦到极限了。老师们也很细腻地察觉到了我们的状态，心疼之下“命令”我们立刻解散去觅食。此次我们下榻的旅店距离
+         </span>
+         <span style="text-indent: 32px;font-size: 16px;">
+          <span style="font-family:宋体;">
+           老门东仅有
+          </span>
+          20
+          <span style="font-family:宋体;">
+           分钟路程
+          </span>
+         </span>
+         <span style="text-indent: 32px;font-family: 宋体;font-size: 16px;">
+          ，在得到“命令”之后，
+         </span>
+         <span style="text-indent: 32px;font-size: 16px;">
+          <span style="font-family:宋体;">
+           大家兵分几路，在咸亨酒店、南京大排档等
+          </span>
+         </span>
+         <span style="text-indent: 32px;font-family: 宋体;font-size: 16px;">
+          的南京美景、美食中
+         </span>
+         <span style="text-indent: 32px;font-size: 16px;">
+          <span style="font-family:宋体;">
+           流连忘返。
+          </span>
+         </span>
+         <span style="text-indent: 32px;font-family: 宋体;font-size: 16px;">
+          许是在炸汤圆走地鸡臭豆腐盐水鸭氤氲的菜香里，我们也能会一会这“王谢风流”，只是奈何不能“通宵一醉，更数八千秋”。
+         </span>
+        </p>
+        <p style="clear: none;box-sizing: border-box;">
+         <br/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="float: left;text-align: start;padding-left: 10px;display: inline-block;max-width: 5em !important;box-sizing: border-box;">
+     <img data-ratio="0.6875" data-type="gif" data-w="128" src="https://mmbiz.qpic.cn/mmbiz_gif/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2X9K6hvTWNghQvD2aAZLVDkZgXMa9eVVI22QHY1WAObkbedvJge4CR5g/640?wx_fmt=gif" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+    <section style="float: right;text-align: start;padding-right: 10px;display: inline-block;max-width: 5em !important;box-sizing: border-box;">
+     <img data-ratio="0.6875" data-type="gif" data-w="128" src="https://mmbiz.qpic.cn/mmbiz_gif/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2XdckYlW4X8SM0mgXxjzA0V7Yabb21g7gpIVJuqFL3sHeUkSpHlHBSMA/640?wx_fmt=gif" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+    <section style="clear: both;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 95%;vertical-align: top;box-shadow: rgba(0, 0, 0, 0.53) 0px 0px 8px;border-width: 0px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);padding: 10px;background-color: rgb(234, 228, 204);box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="display: inline-block;width: 100%;vertical-align: top;box-shadow: rgba(0, 0, 0, 0.53) 0px 0px 8px inset;padding: 10px;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="display: inline-block;vertical-align: top;width: 50%;padding-right: 5px;box-shadow: rgb(0, 0, 0) 0px 0px 0px;box-sizing: border-box;">
+           <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+              <img data-ratio="1.3328125" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2Xzemb4wfsZribRCgV91LQWRLsfhHIDNZttPGTubad58icbdUcUGxUKnbw/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+           <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+              <img data-ratio="0.4625" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2XzlmrIJPsicjOpDTMP2IAJIlpYSLEUbZ8spxATdCQz3GPP0nxKTh7vVA/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+          </section>
+          <section style="display: inline-block;vertical-align: top;width: 50%;padding-left: 5px;box-sizing: border-box;">
+           <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-bottom: 10px;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+              <img data-ratio="1" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2X9OwvekDKVbDDv0FM8hD0FIschf5nbib0pjniaO2z4dp6kIdXguT0oia8g/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+           <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+              <img data-ratio="0.7484375" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2X5L8ibcTNUJW4p2TiaaNpjictibhCUwUDRm71B2tzYDq3LVibI3FBFsWepBA/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+    <section style="display: inline-block;vertical-align: top;width: 33.33%;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+       </section>
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+        <img data-ratio="0.259375" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2X3NQUkicuZ39DHclr2yQziblMMFz7EW028lniazHI7ddbB1XqFOhp2ZybA/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: top;width: 33.33%;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+        <img data-ratio="0.259375" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2X3NQUkicuZ39DHclr2yQziblMMFz7EW028lniazHI7ddbB1XqFOhp2ZybA/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="display: inline-block;vertical-align: top;width: 33.33%;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="text-align: center;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+        <img data-ratio="0.259375" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2X3NQUkicuZ39DHclr2yQziblMMFz7EW028lniazHI7ddbB1XqFOhp2ZybA/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="border-right: 6px solid rgb(247, 188, 0);border-bottom: 6px solid rgb(247, 188, 0);border-top-color: rgb(247, 188, 0);border-left-color: rgb(247, 188, 0);box-sizing: border-box;">
+     <section style="background-color: rgb(245, 245, 245);padding: 10px;box-sizing: border-box;">
+      <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="text-align: center;box-sizing: border-box;">
+         <p style="text-align: left;box-sizing: border-box;">
+          <span style="text-indent: 32px;font-family: 宋体;font-size: 16px;">
+           11月10日，这养人养神的南京美食与山水让每一位VIVA团员都神采奕奕，整装待发面对今日的发声。
+          </span>
+         </p>
+         <p style="text-align: left;">
+          <span style="text-indent: 32px;font-family: 宋体;font-size: 16px;">
+           我们在事先约定的会场内见到了耄耋之年的杨鸿年教授，并虚心受教于杨教授的金陵群文大讲堂。他带领着南京合唱协会青年研习班合团逐字逐句的跟我们解释不用语句所需表达出的不同情感，那种悉心教导的模样像极了一位父亲在对自己的儿女进行谆谆教诲。虽然杨教授八十多高龄使他的声音需要借助传声设备才能传达到我们每一个人的耳边，但杨教授对于合唱艺术一丝不苟的态度却不用凭借任何东西就传达到了我们每一个人的心底。
+          </span>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-top: -6px;width: 0px;border-top: 3px solid rgb(89, 99, 176);border-right: 3px solid rgb(89, 99, 176);border-bottom: 3px solid rgb(255, 255, 255) !important;border-left: 3px solid rgb(255, 255, 255) !important;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-table;border-collapse: collapse;table-layout: fixed;width: 100%;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="display: table-row-group;box-sizing: border-box;">
+      <section style="display: table-row;width: 100%;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 50%;border-style: none dashed none none;border-width: 1px 0px 1px 1px;border-radius: 0px;border-color: rgb(62, 62, 62);box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="float: left;width: 20px;height: 20px;overflow: hidden;box-sizing: border-box;">
+           <section style="margin-top: -10px;margin-left: -10px;width: 20px;height: 20px;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(219, 206, 178);box-sizing: border-box;">
+           </section>
+          </section>
+          <section style="float: right;width: 20px;height: 20px;overflow: hidden;box-sizing: border-box;">
+           <section style="margin-top: -10px;margin-right: -10px;float: right;width: 20px;height: 20px;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(219, 206, 178);box-sizing: border-box;">
+           </section>
+          </section>
+          <section style="padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+           <section style="height: 10px;border-top: 1px solid rgb(219, 206, 178);box-sizing: border-box;">
+           </section>
+          </section>
+          <section style="border-left: 1px solid rgb(219, 206, 178);border-right: 1px solid rgb(219, 206, 178);border-top-color: rgb(219, 206, 178);border-bottom-color: rgb(219, 206, 178);padding-right: 15px;padding-bottom: 10px;padding-left: 15px;box-sizing: border-box;">
+           <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+              <img data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2XCLeostrDKfb6GWhzkvDARNtsL4vMWhYWqGBU0p4MANCUa5LqsUUC3g/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+          </section>
+          <section style="float: left;width: 20px;height: 10px;overflow: hidden;box-sizing: border-box;">
+           <section style="margin-bottom: -10px;margin-left: -10px;width: 20px;height: 20px;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(219, 206, 178);box-sizing: border-box;">
+           </section>
+          </section>
+          <section style="float: right;width: 20px;height: 10px;overflow: hidden;box-sizing: border-box;">
+           <section style="margin-bottom: -10px;margin-right: -10px;float: right;width: 20px;height: 20px;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(219, 206, 178);box-sizing: border-box;">
+           </section>
+          </section>
+          <section style="padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+           <section style="height: 10px;border-bottom: 1px solid rgb(219, 206, 178);box-sizing: border-box;">
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 50%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="float: left;width: 20px;height: 20px;overflow: hidden;box-sizing: border-box;">
+           <section style="margin-top: -10px;margin-left: -10px;width: 20px;height: 20px;border-radius: 50%;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+           </section>
+          </section>
+          <section style="float: right;width: 20px;height: 20px;overflow: hidden;box-sizing: border-box;">
+           <section style="margin-top: -10px;margin-right: -10px;float: right;width: 20px;height: 20px;border-radius: 50%;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+           </section>
+          </section>
+          <section style="padding-right: 2px;padding-left: 2px;box-sizing: border-box;">
+           <section style="height: 10px;background-color: rgb(219, 206, 178);box-sizing: border-box;">
+           </section>
+          </section>
+          <section style="background-color: rgb(219, 206, 178);padding-right: 15px;padding-bottom: 10px;padding-left: 15px;box-sizing: border-box;">
+           <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+              <img data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2XL8xwAGcudiaTiciaGoW7ToQicvXcWfaKfudiagicsvynyZCssg7GdNHiaY01g/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+          </section>
+          <section style="clear: both;box-sizing: border-box;">
+          </section>
+          <section style="float: left;width: 20px;height: 10px;overflow: hidden;box-sizing: border-box;">
+           <section style="margin-bottom: -10px;margin-left: -10px;width: 20px;height: 20px;border-radius: 50%;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+           </section>
+          </section>
+          <section style="float: right;width: 20px;height: 10px;overflow: hidden;box-sizing: border-box;">
+           <section style="margin-bottom: -10px;margin-right: -10px;float: right;width: 20px;height: 20px;border-radius: 50%;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+           </section>
+          </section>
+          <section style="padding-right: 2px;padding-left: 2px;box-sizing: border-box;">
+           <section style="height: 10px;background-color: rgb(219, 206, 178);box-sizing: border-box;">
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <img data-ratio="0.10625" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2XQ4XslSUBfkN41Hib4Vc6bpX8eqicQ7ySLYXVCjRvfNDCFMzYB34WlYHg/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-block;width: 94%;vertical-align: top;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+       <section style="box-shadow: rgb(170, 170, 170) 0px 0px 10px inset;border-color: rgb(192, 200, 209);padding: 10px;border-width: 1px;border-style: solid;background-color: rgb(250, 250, 239);box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="box-sizing: border-box;">
+          <section style="text-align: left;color: rgb(51, 51, 51);box-sizing: border-box;">
+           <p style="box-sizing: border-box;">
+            <span style="text-indent: 32px;font-family: 宋体;font-size: 16px;">
+             午饭过后，加紧排练、彩排、又排练，经过上午杨教授的指导我们明白对于每一首合唱作品最终效果的追求是无止境的，我们仍然还有许多需要提高弥补的地方。这一次不需要老师们地催促与引导，我们每一位团员都自发地抓紧一切时间心无杂念地投入到歌曲的磨合中去。
+            </span>
+           </p>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+       <section style="background-image: linear-gradient(135deg, rgb(55, 186, 240) 0%, rgb(212, 236, 244) 100%);box-sizing: border-box;">
+        <section style="padding: 3px;box-sizing: border-box;">
+         <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+          <section style="margin-right: 0%;margin-left: 0%;text-align: right;box-sizing: border-box;">
+           <section style="display: inline-block;width: 100%;vertical-align: top;background-color: rgb(255, 255, 254);padding-top: 10px;padding-bottom: 10px;box-sizing: border-box;">
+            <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+             <section style="box-sizing: border-box;">
+              <section style="display: inline-block;vertical-align: top;width: 50%;box-sizing: border-box;">
+               <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="text-align: center;margin-right: 0%;margin-left: 0%;transform: translate3d(-12px, 0px, 0px);box-sizing: border-box;">
+                 <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+                  <img data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2X4B915iaXDPhPYHjX3gvFRMA7x6icIu9oNIY2ibf9GnduYGFeIcAW6MMYw/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+                 </section>
+                </section>
+               </section>
+              </section>
+              <section style="display: inline-block;vertical-align: top;width: 50%;box-sizing: border-box;">
+               <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+                <section style="text-align: center;margin-right: 0%;margin-left: 0%;transform: translate3d(12px, 0px, 0px);box-sizing: border-box;">
+                 <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+                  <img data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2XsZHtCdqIhSR9BH3deHtPJNN3yh4ZuBJrpHic0BjbjicIrA5OK6Byor9Q/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <img data-ratio="0.1375" data-type="png" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_png/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2X5TDUTXxEUJr1S8icEEgAebQPO6oZcclDpf4LLg63DDyoITtqUlpiboicg/640?wx_fmt=png" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;box-sizing: border-box;">
+     <section style="padding-right: 12px;padding-left: 12px;margin-bottom: -1px;box-sizing: border-box;">
+      <section style="border-bottom: 1px solid rgb(249, 213, 87);border-top-color: rgb(249, 213, 87);border-right-color: rgb(249, 213, 87);border-left-color: rgb(249, 213, 87);box-sizing: border-box;">
+       <br/>
+      </section>
+     </section>
+    </section>
+    <section style="border-left: 1px solid rgb(249, 213, 87);border-right: 1px solid rgb(249, 213, 87);border-top-color: rgb(249, 213, 87);border-bottom-color: rgb(249, 213, 87);padding-left: 10px;padding-right: 10px;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="text-align: left;box-sizing: border-box;">
+        <p style="text-align: left;">
+         <br/>
+        </p>
+        <section style="display: inline-block;width: 94%;vertical-align: top;box-sizing: border-box;">
+         <span style="text-indent: 32px;font-family: 宋体;font-size: 16px;">
+          下午三点，演出准时拉开帷幕。和以往的每一次演出一样，我们都会在后台静静地候场，在临上台时，细心地聆听指挥任老师最后的叮咛和鼓励。这次选取的曲目是《小河淌水》与《大鱼》。《小河淌水》将是我们第二次在南京唱响了，时隔一年半，VIVA合唱团的人员有所变动，但是每一位团员对于合唱成果的追求是不变的，冥冥中也希望能让南京城为我们检阅这一年半VIVA合唱团的成长与努力。《大鱼》，不夸张的说，是我们团的人气歌曲。当歌曲被我们所熟悉所喜爱的时候，它的艺术灵魂与艺术情感才能被我们更好地演绎。当由音符与和声还有我们每一位成员内心的悸动与感动组成重重叠叠的声浪，温柔地推向观众时，沉醉的不仅仅是满场的观众，更是整个金陵城。
+         </span>
+        </section>
+        <p>
+         <br/>
+        </p>
+       </section>
+      </section>
+     </section>
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin: 10px 0%;box-sizing: border-box;">
+       <section style="height: 16px;box-sizing: border-box;">
+        <section style="height: 100%;width: 24px;float: left;border-top: 6px solid rgb(255, 167, 38);border-left: 6px solid rgb(255, 167, 38);border-right-color: rgb(255, 167, 38);border-bottom-color: rgb(255, 167, 38);box-sizing: border-box;">
+        </section>
+        <section style="height: 100%;width: 24px;float: right;border-top: 6px solid rgb(255, 167, 38);border-right: 6px solid rgb(255, 167, 38);border-bottom-color: rgb(255, 167, 38);border-left-color: rgb(255, 167, 38);box-sizing: border-box;">
+        </section>
+        <section style="display: inline-block;color: transparent;clear: both;box-sizing: border-box;">
+        </section>
+       </section>
+       <section style="border-width: 1px;border-style: solid none;border-color: rgb(255, 167, 38);border-radius: 6px;overflow-wrap: break-word;box-sizing: border-box;margin: -13px 3px;padding: 12px;background-color: rgb(255, 255, 255);">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="text-align: center;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+           <img data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2Xnc2KibNKpEJxehBX4d9ZaSRfca9fDbahm9jqPLicvlX2caJWad41TYPw/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="height: 16px;box-sizing: border-box;">
+        <section style="height: 100%;width: 24px;float: left;border-bottom: 6px solid rgb(255, 167, 38);border-left: 6px solid rgb(255, 167, 38);border-top-color: rgb(255, 167, 38);border-right-color: rgb(255, 167, 38);box-sizing: border-box;">
+        </section>
+        <section style="height: 100%;width: 24px;float: right;border-bottom: 6px solid rgb(255, 167, 38);border-right: 6px solid rgb(255, 167, 38);border-top-color: rgb(255, 167, 38);border-left-color: rgb(255, 167, 38);box-sizing: border-box;">
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="max-width: 100%;box-sizing: border-box;">
+     <section style="float: left;width: 16px;box-sizing: border-box;">
+      <section style="border-bottom: 1px solid rgb(249, 213, 87);width: 16px;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-o-transform: rotate(45deg);transform-origin: left bottom 0px;-webkit-transform-origin: left bottom 0px;-moz-transform-origin: left bottom 0px;-o-transform-origin: left bottom 0px;border-top-color: rgb(249, 213, 87);border-right-color: rgb(249, 213, 87);border-left-color: rgb(249, 213, 87);box-sizing: border-box;">
+      </section>
+      <section style="width: 0px;margin-top: 4px;border-width: 4px;border-style: solid;border-color: transparent transparent rgb(249, 213, 87) rgb(249, 213, 87);box-sizing: border-box;">
+      </section>
+     </section>
+     <section style="float: right;width: 16px;text-align: right;box-sizing: border-box;">
+      <section style="border-bottom: 1px solid rgb(249, 213, 87);width: 16px;transform: rotate(-45deg);-webkit-transform: rotate(-45deg);-moz-transform: rotate(-45deg);-o-transform: rotate(-45deg);transform-origin: right bottom 0px;-webkit-transform-origin: right bottom 0px;-moz-transform-origin: right bottom 0px;-o-transform-origin: right bottom 0px;border-top-color: rgb(249, 213, 87);border-right-color: rgb(249, 213, 87);border-left-color: rgb(249, 213, 87);box-sizing: border-box;">
+      </section>
+      <section style="width: 0px;margin-left: auto;margin-top: 4px;border-width: 4px;border-style: solid;border-color: transparent rgb(249, 213, 87) rgb(249, 213, 87) transparent;box-sizing: border-box;">
+      </section>
+     </section>
+     <section style="clear: both;box-sizing: border-box;">
+     </section>
+     <section style="padding-right: 12px;padding-left: 12px;margin-top: -1px;box-sizing: border-box;">
+      <section style="border-bottom: 1px solid rgb(249, 213, 87);border-top-color: rgb(249, 213, 87);border-right-color: rgb(249, 213, 87);border-left-color: rgb(249, 213, 87);box-sizing: border-box;">
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;text-align: center;box-sizing: border-box;">
+    <section style="border-bottom: 1px dotted rgb(249, 213, 87);padding-top: 3px;width: 100%;margin-bottom: -3px;box-sizing: border-box;">
+    </section>
+    <section style="height: 5px;line-height: 5px;box-sizing: border-box;">
+     <section style="display: inline-block;vertical-align: top;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+      <span style="width: 5px;height: 5px;float: left;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(249, 213, 87);box-sizing: border-box;">
+      </span>
+      <span style="width: 5px;height: 5px;float: left;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(249, 213, 87);margin-left: 5px;box-sizing: border-box;">
+      </span>
+      <span style="width: 5px;height: 5px;float: left;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(249, 213, 87);margin-left: 5px;box-sizing: border-box;">
+      </span>
+      <span style="width: 5px;height: 5px;float: left;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(249, 213, 87);margin-left: 5px;box-sizing: border-box;">
+      </span>
+      <span style="width: 5px;height: 5px;float: left;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(249, 213, 87);margin-left: 5px;box-sizing: border-box;">
+      </span>
+     </section>
+     <section style="clear: both;box-sizing: border-box;">
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="margin-bottom: -12px;text-align: center;box-sizing: border-box;">
+     <section style="display: inline-block;vertical-align: bottom;width: 6px;box-sizing: border-box;">
+      <section style="width: 2px;margin: auto;height: 16px;background-color: rgb(17, 19, 22);box-sizing: border-box;">
+       <br/>
+      </section>
+      <section style="width: 6px;height: 6px;border-radius: 50%;background-color: rgb(17, 19, 22);box-sizing: border-box;">
+       <br/>
+      </section>
+     </section>
+    </section>
+    <section style="border-right: 5px solid rgb(214, 240, 252);border-bottom: 5px solid rgb(214, 240, 252);border-top-color: rgb(214, 240, 252);border-left-color: rgb(214, 240, 252);box-sizing: border-box;">
+     <section style="background-color: rgb(255, 222, 3);padding: 10px;box-sizing: border-box;">
+      <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="text-align: center;box-sizing: border-box;">
+         <section style="display: inline-block;width: 94%;vertical-align: top;box-sizing: border-box;">
+          <span style="text-indent: 32px;font-family: 宋体;font-size: 16px;">
+           谁说秦淮河畔响起的
+          </span>
+         </section>
+        </section>
+        <section style="text-align: center;box-sizing: border-box;">
+         <section style="display: inline-block;width: 94%;vertical-align: top;box-sizing: border-box;">
+          <span style="text-indent: 32px;font-family: 宋体;font-size: 16px;">
+           只能是商女后庭的亡国之音
+          </span>
+         </section>
+        </section>
+        <section style="text-align: center;box-sizing: border-box;">
+         <section style="display: inline-block;width: 94%;vertical-align: top;box-sizing: border-box;">
+          <span style="text-indent: 32px;font-family: 宋体;font-size: 16px;">
+           <br/>
+          </span>
+         </section>
+         <section style="display: inline-block;width: 94%;vertical-align: top;box-sizing: border-box;">
+          <span style="text-indent: 32px;font-family: 宋体;font-size: 16px;">
+           我们唱出的就是属于
+          </span>
+         </section>
+         <section style="display: inline-block;width: 94%;vertical-align: top;box-sizing: border-box;">
+          <span style="text-indent: 32px;font-family: 宋体;font-size: 16px;color: rgb(255, 41, 65);">
+           <strong>
+            VIVA新时代的青春之响
+           </strong>
+          </span>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="transform: rotate(0deg);-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-o-transform: rotate(0deg);margin-top: -5px;width: 5px;height: 5px;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin: 10px 0%;box-sizing: border-box;">
+    <section style="display: inline-table;border-collapse: collapse;table-layout: fixed;width: 100%;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="display: table-row-group;box-sizing: border-box;">
+      <section style="display: table-row;width: 100%;box-sizing: border-box;">
+       <section style="display: table-cell;vertical-align: middle;width: 50%;border-style: none dashed none none;border-width: 1px 0px 1px 1px;border-radius: 0px;border-color: rgb(62, 62, 62);box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="float: left;width: 20px;height: 20px;overflow: hidden;box-sizing: border-box;">
+           <section style="margin-top: -10px;margin-left: -10px;width: 20px;height: 20px;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(219, 206, 178);box-sizing: border-box;">
+           </section>
+          </section>
+          <section style="float: right;width: 20px;height: 20px;overflow: hidden;box-sizing: border-box;">
+           <section style="margin-top: -10px;margin-right: -10px;float: right;width: 20px;height: 20px;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(219, 206, 178);box-sizing: border-box;">
+           </section>
+          </section>
+          <section style="padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+           <section style="height: 10px;border-top: 1px solid rgb(219, 206, 178);box-sizing: border-box;">
+           </section>
+          </section>
+          <section style="border-left: 1px solid rgb(219, 206, 178);border-right: 1px solid rgb(219, 206, 178);border-top-color: rgb(219, 206, 178);border-bottom-color: rgb(219, 206, 178);padding-right: 15px;padding-bottom: 10px;padding-left: 15px;box-sizing: border-box;">
+           <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+              <img data-ratio="0.7515625" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2Xx3nCQDdDQf9diaHTonKQwJPx58KjBPC2ccwI8Noe48SJdib6bereUq2w/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+          </section>
+          <section style="float: left;width: 20px;height: 10px;overflow: hidden;box-sizing: border-box;">
+           <section style="margin-bottom: -10px;margin-left: -10px;width: 20px;height: 20px;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(219, 206, 178);box-sizing: border-box;">
+           </section>
+          </section>
+          <section style="float: right;width: 20px;height: 10px;overflow: hidden;box-sizing: border-box;">
+           <section style="margin-bottom: -10px;margin-right: -10px;float: right;width: 20px;height: 20px;border-radius: 50%;border-width: 1px;border-style: solid;border-color: rgb(219, 206, 178);box-sizing: border-box;">
+           </section>
+          </section>
+          <section style="padding-right: 10px;padding-left: 10px;box-sizing: border-box;">
+           <section style="height: 10px;border-bottom: 1px solid rgb(219, 206, 178);box-sizing: border-box;">
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+       <section style="display: table-cell;vertical-align: middle;width: 50%;border-width: 1px;border-radius: 0px;border-style: none;border-color: rgb(62, 62, 62);box-sizing: border-box;">
+        <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+         <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+          <section style="float: left;width: 20px;height: 20px;overflow: hidden;box-sizing: border-box;">
+           <section style="margin-top: -10px;margin-left: -10px;width: 20px;height: 20px;border-radius: 50%;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+           </section>
+          </section>
+          <section style="float: right;width: 20px;height: 20px;overflow: hidden;box-sizing: border-box;">
+           <section style="margin-top: -10px;margin-right: -10px;float: right;width: 20px;height: 20px;border-radius: 50%;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+           </section>
+          </section>
+          <section style="padding-right: 2px;padding-left: 2px;box-sizing: border-box;">
+           <section style="height: 10px;background-color: rgb(219, 206, 178);box-sizing: border-box;">
+           </section>
+          </section>
+          <section style="background-color: rgb(219, 206, 178);padding-right: 15px;padding-bottom: 10px;padding-left: 15px;box-sizing: border-box;">
+           <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+            <section style="margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+             <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+              <img data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2XIribBnrzX6IZD7L3ynjTBkic67ZibOQbfC6wv32BtHwhf7ftMaq1jj0iaw/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+             </section>
+            </section>
+           </section>
+          </section>
+          <section style="clear: both;box-sizing: border-box;">
+          </section>
+          <section style="float: left;width: 20px;height: 10px;overflow: hidden;box-sizing: border-box;">
+           <section style="margin-bottom: -10px;margin-left: -10px;width: 20px;height: 20px;border-radius: 50%;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+           </section>
+          </section>
+          <section style="float: right;width: 20px;height: 10px;overflow: hidden;box-sizing: border-box;">
+           <section style="margin-bottom: -10px;margin-right: -10px;float: right;width: 20px;height: 20px;border-radius: 50%;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+           </section>
+          </section>
+          <section style="padding-right: 2px;padding-left: 2px;box-sizing: border-box;">
+           <section style="height: 10px;background-color: rgb(219, 206, 178);box-sizing: border-box;">
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;box-sizing: border-box;">
+     <img data-ratio="0.75" data-type="jpeg" data-w="640" src="https://mmbiz.qpic.cn/mmbiz_jpg/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2Xo2MWM5mLSsX6XrHO0lsr3IaV7niaVbanfyDicQkVgudgsQrDy10JRgcw/640?wx_fmt=jpeg" style="vertical-align: middle;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;text-align: left;">
+    <section style="display: inline-block;width: 100%;border-width: 1px;border-style: solid;border-color: rgb(249, 213, 87);padding: 10px;box-shadow: rgb(204, 204, 204) 0.2em 0.2em 0.3em;box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <p style="box-sizing: border-box;">
+         <br/>
+        </p>
+        <section style="display: inline-block;width: 94%;vertical-align: top;box-sizing: border-box;">
+         <span style="text-indent: 32px;font-family: 宋体;font-size: 16px;">
+          演出结束后，我们收获到了许多业内人士对我们演出的专业认可和赞誉，下场时反复有来来往往的人跟我们说：“恭喜你们，演出太成功了！”。那一声声的称赞不仅仅消弭了我们这两天连续奔波与大强度排练的倦惫，更是为每一位团员的歌唱自信都添了砖加了瓦。比我们更加激动的是指挥任老师，将合唱视为自己终生事业的他为了践行这一信念就是几十年，但是在看到自己和自己带领的孩子们圆满完成一场演出时78岁的任老师还是开心得像一位很容易就被满足孩子。
+         </span>
+        </section>
+        <section style="display: inline-block;width: 94%;vertical-align: top;box-sizing: border-box;">
+         <span style="text-indent: 32px;font-family: 宋体;font-size: 16px;">
+          说南京一下雪，就成了金陵。距离今年的初雪可能还有一段时日，但是希望我们VIVA合唱团的歌声，能让南京回到那个婉柔缠绵、低吟浅唱、善乐善音的金陵。这一次的南京之行，让VIVA之声再一次被南京城记忆和回响，让VIVA之冠再缀上一颗星光，我们，做到了。
+         </span>
+        </section>
+        <p>
+         <br/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-top: 10px;margin-right: 0%;margin-left: 0%;box-sizing: border-box;">
+    <section style="max-width: 100%;vertical-align: middle;display: inline-block;width: 40%;box-sizing: border-box;">
+     <img data-ratio="0.668" data-type="png" data-w="250" src="https://mmbiz.qpic.cn/mmbiz_png/34FWyXRWHicTbu6Fk81IDCFaaIa049ib2XRiakc3y3UJBU8Vga6ammnP3SpyicMoRbicDEqMX2LEcn7LTjdk7W9XKicw/640?wx_fmt=png" style="vertical-align: middle;width: 100%;box-sizing: border-box;"/>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="text-align: center;margin-right: 0%;margin-bottom: 10px;margin-left: 0%;box-sizing: border-box;">
+    <section style="display: inline-block;min-width: 10%;max-width: 100%;vertical-align: top;padding-top: 3px;padding-right: 8px;padding-left: 8px;background-color: rgb(187, 222, 251);border-width: 0px;border-radius: 3px;border-style: dashed;border-color: rgb(62, 62, 62);box-sizing: border-box;">
+     <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+      <section style="margin-right: 0%;margin-bottom: 3px;margin-left: 0%;box-sizing: border-box;">
+       <section style="font-size: 15px;color: rgb(96, 125, 139);padding-right: 8px;padding-left: 8px;box-sizing: border-box;">
+        <p style="text-align: left;box-sizing: border-box;">
+         行歌游金陵，随处一欣然。
+         <br style="box-sizing: border-box;"/>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+  <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+   <section style="margin-top: 10px;margin-bottom: 10px;box-sizing: border-box;">
+    <section style="width: 1em;height: 1em;float: left;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+     <section style="width: 0.33em;height: 0.33em;margin-left: 0.17em;margin-top: 0.17em;background-color: rgb(255, 224, 219);box-sizing: border-box;">
+     </section>
+     <section style="width: 0.5em;height: 0.5em;margin-left: 0.5em;background-color: rgb(255, 224, 219);box-sizing: border-box;">
+     </section>
+    </section>
+    <section style="width: 1em;height: 1em;float: right;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+     <section style="width: 0.33em;height: 0.33em;margin-left: 0.57em;margin-top: 0.17em;background-color: rgb(255, 224, 219);box-sizing: border-box;">
+     </section>
+     <section style="width: 0.5em;height: 0.5em;background-color: rgb(255, 224, 219);box-sizing: border-box;">
+     </section>
+    </section>
+    <section style="margin-bottom: -1em;padding-top: 10px;padding-bottom: 10px;background-color: rgb(255, 224, 219);box-sizing: border-box;">
+     <section style="box-sizing: border-box;">
+      <section class="V5" powered-by="xiumi.us" style="box-sizing: border-box;">
+       <section style="box-sizing: border-box;">
+        <section style="text-align: center;box-sizing: border-box;">
+         <p style="clear: none;box-sizing: border-box;">
+          南京
+          <img data-ratio="1" data-w="20" src="https://res.wx.qq.com/mpres/htmledition/images/icon/common/emotion_panel/smiley/smiley_66.png" style="display:inline-block;width:20px;vertical-align:text-bottom;"/>
+          再会
+          <br style="box-sizing: border-box;"/>
+         </p>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section style="width: 1em;height: 1em;float: left;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+     <section style="width: 0.5em;height: 0.5em;margin-left: 0.5em;background-color: rgb(255, 224, 219);box-sizing: border-box;">
+     </section>
+     <section style="width: 0.33em;height: 0.33em;margin-left: 0.17em;background-color: rgb(255, 224, 219);box-sizing: border-box;">
+     </section>
+    </section>
+    <section style="width: 1em;height: 1em;float: right;background-color: rgb(255, 255, 255);box-sizing: border-box;">
+     <section style="width: 0.5em;height: 0.5em;background-color: rgb(255, 224, 219);box-sizing: border-box;">
+     </section>
+     <section style="width: 0.33em;height: 0.33em;margin-left: 0.57em;background-color: rgb(255, 224, 219);box-sizing: border-box;">
+     </section>
+    </section>
+    <section style="clear: both;box-sizing: border-box;">
+    </section>
+   </section>
+  </section>
+ </section>
+ <p>
+  <br/>
+ </p>
+ <p style="text-align: right;">
+  <span style="font-size: 12px;color: rgb(136, 136, 136);">
+   文案|惟扬、马昕怡
+  </span>
+ </p>
+ <p style="text-align: right;">
+  <span style="font-size: 12px;color: rgb(136, 136, 136);">
+   图片|VIVA团员
+  </span>
+ </p>
+ <p style="text-align: right;">
+  <span style="font-size: 12px;color: rgb(136, 136, 136);">
+   排版|马昕怡
+  </span>
+ </p>
+ <p style="text-align: right;">
+  <span style="color:#888888;">
+   <span style="font-size: 12px;">
+    编辑|
+    <span style="color: rgb(136, 136, 136);font-size: 12px;text-align: right;">
+     没去南京的大侠
+    </span>
+   </span>
+  </span>
+ </p>

@@ -1,0 +1,811 @@
+
+ <section data-role="outer" label="Powered by 135editor.com" style="font-size: 16px;">
+  <section class="article135" style="box-sizing: border-box;">
+   <section class="_135editor" data-role="paragraph" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+    <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+     <span style="font-family: PingFangTC-Light;font-size: 13px;color: #953734;">
+      在校园里，是否有一些善举让你温暖许久？
+     </span>
+    </p>
+    <p style="margin-left: 10px;margin-right: 10px;text-align: center;">
+     <span style="font-family: PingFangTC-Light;font-size: 13px;color: #953734;">
+      是否有一些细节触动你的心灵？
+     </span>
+    </p>
+    <p style="margin-left: 10px;margin-right: 10px;text-align: center;">
+     <span style="font-family: PingFangTC-Light;font-size: 13px;color: #953734;">
+      两年一度的“感动师大·青年学子”人物评选活动如约而至。
+     </span>
+    </p>
+    <p style="margin-left: 10px;margin-right: 10px;text-align: center;">
+     <span style="font-family: PingFangTC-Light;font-size: 13px;color: #953734;">
+      本届评选活动以“榜样的力量”为主题，
+     </span>
+    </p>
+    <p style="margin-left: 10px;margin-right: 10px;text-align: center;">
+     <span style="font-family: PingFangTC-Light;font-size: 13px;color: #953734;">
+      走近那些可爱可敬的师大人，
+     </span>
+    </p>
+    <p style="margin-left: 10px;margin-right: 10px;text-align: center;">
+     <span style="font-family: PingFangTC-Light;font-size: 13px;color: #953734;">
+      聆听他们的感人故事，
+     </span>
+    </p>
+    <p style="margin-left: 10px;margin-right: 10px;text-align: center;">
+     <span style="font-family: PingFangTC-Light;font-size: 13px;color: #953734;">
+      为我们带来前行的力量。
+     </span>
+    </p>
+    <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+     <br/>
+    </p>
+    <section class="_135editor" data-id="94537" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section data-width="90%" style="width:90%;margin:20px auto;">
+      <section style="border-width: 2px;border-style: dashed;border-color: rgb(199, 213, 230);border-radius: 10px;margin-top: -30px;margin-bottom: -30px;box-sizing: border-box;">
+       <section class="135brush" data-autoskip="1" style="font-size: 14px;letter-spacing: 1.5px;line-height: 1.75em;color: rgb(77, 144, 154);padding: 1em;box-sizing: border-box;">
+        <p style="margin-left: 10px;margin-right: 10px;">
+         <span style="font-family: PingFangTC-Light;">
+          为实现习近平总书记对青年建功新时代的殷切期望，发现和培养师大青年在砥砺奋进新时代中的典型代表，校团委决定于2019年2月至5月举办2018年度“感动师大·青年学子”人物评选活动。本届“感动师大·青年学子”人物评选活动以“榜样的力量”为主题，将在全校范围内发掘师生身边青年（团体）榜样的感人事迹，进一步传承师大精神，弘扬师大文化，提升师大青年形象，增强师大青年社会影响力。现将有关事宜通知如下：
+         </span>
+        </p>
+       </section>
+      </section>
+     </section>
+    </section>
+    <section class="_135editor" data-id="94065" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+      <br/>
+     </p>
+     <section style="display: flex;justify-content: center;align-items: center;">
+      <section style="display: inline-block;background: rgb(255, 227, 10);border-radius: 6px;padding: 3px 7px;font-weight: bold;box-sizing: border-box;">
+       <span style="font-family: PingFangTC-Light;font-size: 14px;">
+        01
+       </span>
+      </section>
+      <section style="display: inline-block;margin-top: 6px;margin-left: 5px;">
+       <section class="135brush" data-brushtype="text" style="font-weight: bold;letter-spacing: 2px;line-height: 1.75em;text-align: center;color: rgb(63, 63, 63);">
+        <span style="font-family: PingFangTC-Light;font-size: 14px;">
+         主题与宗旨
+        </span>
+       </section>
+       <section style="width: 3em;border-bottom: 2px solid rgb(63, 63, 63);float: right;box-sizing: border-box;">
+       </section>
+       <section data-width="90%" style="clear: both;width: 90%;border-bottom: 2px solid rgb(63, 63, 63);float: right;margin-top: 3px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <p>
+      <br/>
+     </p>
+    </section>
+    <p style="text-indent: 0em;">
+     <br/>
+    </p>
+    <p style="margin-right: 10px;margin-left: 10px;text-indent: 0em;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;">
+      <strong style="caret-color: red;">
+       活动主题：
+      </strong>
+      <span style="caret-color: red;">
+       “榜样的力量”——2018年度“感动师大·青年学子”人物评选。
+      </span>
+     </span>
+    </p>
+    <p style="text-indent: 0em;">
+     <br/>
+    </p>
+    <p style="margin-right: 10px;margin-left: 10px;text-indent: 0em;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;">
+      <strong>
+       活动宗旨：
+      </strong>
+      挖掘新时代师大青年典型，树立新时代师大青年表率，在广大青年师生中切实树立见贤思齐、奋斗成才的价值导向，引领师大青年在习近平总书记关于青年工作的重要思想指引下，在学校“双一流”建设历程中奋勇前行。
+     </span>
+    </p>
+    <section class="_135editor" data-id="94065" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+      <br/>
+     </p>
+     <section style="display: flex;justify-content: center;align-items: center;">
+      <section style="display: inline-block;background: rgb(255, 227, 10);border-radius: 6px;padding: 3px 7px;font-weight: bold;box-sizing: border-box;">
+       <span style="font-family: PingFangTC-Light;font-size: 14px;">
+        02
+       </span>
+      </section>
+      <p style="line-height: 1.75em;">
+       <br/>
+      </p>
+      <section style="display: inline-block;margin-top: 6px;margin-left: 5px;">
+       <section class="135brush" data-brushtype="text" style="font-weight: bold;letter-spacing: 2px;line-height: 1.75em;text-align: center;color: rgb(63, 63, 63);">
+        <span style="font-family: PingFangTC-Light;font-size: 14px;">
+         活动时间
+        </span>
+       </section>
+       <section style="width: 3em;border-bottom: 2px solid rgb(63, 63, 63);float: right;box-sizing: border-box;">
+       </section>
+       <section data-width="90%" style="clear: both;width: 90%;border-bottom: 2px solid rgb(63, 63, 63);float: right;margin-top: 3px;box-sizing: border-box;">
+       </section>
+      </section>
+      <p>
+       <br/>
+      </p>
+     </section>
+    </section>
+    <p style="text-indent: 37px;text-align: center;line-height: 1.75em;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;caret-color: red;">
+     </span>
+    </p>
+    <p style="text-indent: 37px;text-align: left;line-height: 1.75em;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;caret-color: red;">
+     </span>
+    </p>
+    <p style="text-align: center;text-indent: 0em;line-height: 1.75em;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;caret-color: red;">
+      2019年2月至5月
+     </span>
+    </p>
+    <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+     <br/>
+    </p>
+    <p style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;line-height: 1.75em;">
+     <br/>
+    </p>
+    <section style="display: flex;justify-content: center;align-items: center;">
+     <section style="display: inline-block;background: rgb(255, 227, 10);border-radius: 6px;padding: 3px 7px;font-weight: bold;box-sizing: border-box;">
+      <span style="font-family: PingFangTC-Light;font-size: 14px;">
+       03
+      </span>
+     </section>
+     <section style="display: inline-block;margin-top: 6px;margin-left: 5px;">
+      <section class="135brush" data-brushtype="text" style="font-weight: bold;letter-spacing: 2px;line-height: 1.75em;text-align: center;color: rgb(63, 63, 63);">
+       <span style="font-family: PingFangTC-Light;font-size: 14px;">
+        评选要求
+       </span>
+      </section>
+      <section style="width: 3em;border-bottom: 2px solid rgb(63, 63, 63);float: right;box-sizing: border-box;">
+      </section>
+      <section data-width="90%" style="clear: both;width: 90%;border-bottom: 2px solid rgb(63, 63, 63);float: right;margin-top: 3px;box-sizing: border-box;">
+      </section>
+     </section>
+    </section>
+    <p>
+     <br/>
+    </p>
+    <p style="text-indent: 37px;">
+     <br/>
+    </p>
+    <p style="margin-right: 10px;margin-left: 10px;text-indent: 0em;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;">
+      <strong>
+       评选对象：
+      </strong>
+     </span>
+    </p>
+    <p style="margin-right: 10px;margin-left: 10px;text-indent: 0em;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;">
+      1.我校全日制本科生、研究生个人或团体；
+     </span>
+    </p>
+    <p style="margin-right: 10px;margin-left: 10px;text-indent: 0em;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;">
+      2.我校35岁以下青年教职员工个人或团体。
+     </span>
+    </p>
+    <p style="text-indent: 0em;">
+     <br/>
+    </p>
+    <p style="margin-right: 10px;margin-left: 10px;text-indent: 0em;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;">
+      <strong>
+       评选条件：
+      </strong>
+     </span>
+    </p>
+    <p style="margin-right: 10px;margin-left: 10px;text-indent: 0em;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;">
+      在学校“双一流”建设中，有突出表现和感人事迹的，均可参加本次评选。具体须具备以下一种或几种特点：
+     </span>
+    </p>
+    <p style="margin-right: 10px;margin-left: 10px;text-indent: 0em;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;">
+      1.在勤奋学习、学术科技、创新创业、志愿服务、社会实践、见义勇为、环保生态等方面取得突出成绩，引起学校和社会广泛关注；
+     </span>
+    </p>
+    <p style="margin-right: 10px;margin-left: 10px;text-indent: 0em;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;">
+      2.在国家或国际的重大活动、重大工程中甘于奉献，事迹感人，表现突出；
+     </span>
+    </p>
+    <p style="margin-right: 10px;margin-left: 10px;text-indent: 0em;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;">
+      3.爱岗敬业，在平凡的岗位上做出了不平凡的事迹；
+     </span>
+    </p>
+    <p style="margin-right: 10px;margin-left: 10px;text-indent: 0em;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;">
+      4.以个人或团体的力量坚持多年为社会、为他人做好事，体现中国传统美德和良好社会风尚；
+     </span>
+    </p>
+    <p style="margin-right: 10px;margin-left: 10px;text-indent: 0em;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;">
+      5.在其他方面有感人事迹，个人或团体的经历和行为体了现新时代价值取向、时代精神和青年追求。
+     </span>
+    </p>
+    <p style="text-indent: 0em;">
+     <br/>
+    </p>
+    <section class="_135editor" data-id="94065" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+      <br/>
+     </p>
+     <section style="display: flex;justify-content: center;align-items: center;">
+      <section style="display: inline-block;background: rgb(255, 227, 10);border-radius: 6px;padding: 3px 7px;font-weight: bold;box-sizing: border-box;">
+       <span style="font-family: PingFangTC-Light;font-size: 14px;">
+        04
+       </span>
+      </section>
+      <section style="display: inline-block;margin-top: 6px;margin-left: 5px;">
+       <section class="135brush" data-brushtype="text" style="font-weight: bold;letter-spacing: 2px;line-height: 1.75em;text-align: center;color: rgb(63, 63, 63);">
+        <span style="font-family: PingFangTC-Light;font-size: 14px;">
+         评选程序
+        </span>
+       </section>
+       <section style="width: 3em;border-bottom: 2px solid rgb(63, 63, 63);float: right;box-sizing: border-box;">
+       </section>
+       <section data-width="90%" style="clear: both;width: 90%;border-bottom: 2px solid rgb(63, 63, 63);float: right;margin-top: 3px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <p>
+      <br/>
+     </p>
+    </section>
+    <section class="_135editor" data-id="94553" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section style="display: flex;justify-content: center;align-items: center;margin-top:0.5em;">
+      <section style="width:5px;height:1.2em;border-radius:25px;background: #ffc000;transform: rotate(30deg);-webkit-transform: rotate(30deg);-moz-transform: rotate(30deg);-ms-transform: rotate(30deg);-o-transform: rotate(30deg);">
+      </section>
+      <section style="width:5px;height:1.2em;border-radius:25px;background: #ffc000;margin-left:5px;transform: rotate(30deg);-webkit-transform: rotate(30deg);-moz-transform: rotate(30deg);-ms-transform: rotate(30deg);-o-transform: rotate(30deg);">
+      </section>
+      <section class="135brush" data-brushtype="text" style="font-weight: bold;padding: 1px 1em;letter-spacing: 1.5px;box-sizing: border-box;">
+       <span style="font-size: 14px;font-family: PingFangTC-Light;">
+        （一）第一阶段：填表报名、确定候选人（即日起至3月12日）
+       </span>
+      </section>
+      <section style="width:5px;height:1.2em;border-radius:25px;background: #ffc000;transform: rotate(30deg);-webkit-transform: rotate(30deg);-moz-transform: rotate(30deg);-ms-transform: rotate(30deg);-o-transform: rotate(30deg);">
+      </section>
+      <section style="width:5px;height:1.2em;border-radius:25px;background: #ffc000;margin-left:5px;transform: rotate(30deg);-webkit-transform: rotate(30deg);-moz-transform: rotate(30deg);-ms-transform: rotate(30deg);-o-transform: rotate(30deg);">
+      </section>
+     </section>
+    </section>
+    <p style="text-indent: 0em;">
+     <br/>
+    </p>
+    <p style="line-height: 150%;text-indent: 0em;margin-left: 10px;margin-right: 10px;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;">
+      <strong>
+       <span style="line-height: 150%;">
+        1.填表报名
+       </span>
+      </strong>
+     </span>
+    </p>
+    <p style="line-height: 150%;text-indent: 0em;margin-left: 10px;margin-right: 10px;">
+     <span style="line-height: 150%;font-family: PingFangTC-Light;font-size: 14px;">
+      （1）个人或团体自荐
+     </span>
+    </p>
+    <p style="line-height: 150%;text-indent: 0em;margin-left: 10px;margin-right: 10px;">
+     <span style="line-height: 150%;font-family: PingFangTC-Light;font-size: 14px;">
+      ①满足评选条件的个人或团体可自行填写《2018年度“感动师大·青年学子”登记表》，向所在团支部自荐报名；
+     </span>
+    </p>
+    <p style="line-height: 150%;text-indent: 0em;margin-left: 10px;margin-right: 10px;">
+     <span style="line-height: 150%;font-family: PingFangTC-Light;font-size: 14px;">
+      ②各团支部根据自荐情况进行民主评议，向所在单位团委推荐合适人选；
+     </span>
+    </p>
+    <p style="line-height: 150%;text-indent: 0em;margin-left: 10px;margin-right: 10px;">
+     <span style="line-height: 150%;font-family: PingFangTC-Light;font-size: 14px;">
+      ③各团委根据本单位团支部推荐情况进行民主评议，须在充分听取群众意见的基础上，确定本单位向校团委推荐的合适人选，推荐人选原则上不超过2人；
+     </span>
+    </p>
+    <p style="line-height: 150%;text-indent: 0em;margin-left: 10px;margin-right: 10px;">
+     <span style="line-height: 150%;font-family: PingFangTC-Light;font-size: 14px;">
+      ④直属团总支、团支部根据本单位自荐情况，直接向校团委推荐本单位合适人选，推荐人选原则上不超过2人。
+     </span>
+    </p>
+    <p style="margin-right: 10px;margin-left: 10px;text-indent: 0em;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;">
+      各学部、书院、院、系（所）团委，直属团总支、团支部确定本单位推荐的自荐人选后，须将填写完整的《2018年度“感动师大·青年学子”登记表》
+      <strong>
+       电子版打包发送到邮箱
+      </strong>
+      <span style="color: rgb(49, 133, 155);">
+       <strong>
+        ecnugandongshida@163.com
+       </strong>
+      </span>
+      ，
+      <strong>
+       同时将所有人选加盖团组织公章的纸质版材料（一式两份）交至校团委办公室。所有材料提交截止日期为
+      </strong>
+      <span style="color: rgb(49, 133, 155);">
+       <strong>
+        201
+       </strong>
+       <strong>
+        9
+       </strong>
+       <strong>
+        年3月1
+       </strong>
+       <strong>
+        2
+       </strong>
+       <strong>
+        日（周二）
+       </strong>
+       <strong>
+        17:00
+       </strong>
+      </span>
+      <strong>
+       。
+      </strong>
+     </span>
+    </p>
+    <p style="text-indent: 0em;">
+     <br/>
+    </p>
+    <p style="line-height: 150%;text-indent: 0em;margin-left: 10px;margin-right: 10px;">
+     <span style="line-height: 150%;font-family: PingFangTC-Light;font-size: 14px;">
+      （2）团员联名推荐
+     </span>
+    </p>
+    <p style="line-height: 150%;text-indent: 0em;margin-left: 10px;margin-right: 10px;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;">
+      <span style="line-height: 150%;">
+       我校30名及以上团员可联名向组委会推荐候选人。联名团员须将填写完整的《2018年度“感动师大·青年学子”登记表》
+      </span>
+      <strong>
+       <span style="line-height: 150%;">
+        电子版发送到邮箱
+       </span>
+      </strong>
+      <span style="color: rgb(49, 133, 155);">
+       <strong>
+        <span style="line-height: 150%;">
+         ecnugandongshida@163.com
+        </span>
+       </strong>
+      </span>
+      <strong>
+       <span style="line-height: 150%;">
+        ，材料提交
+       </span>
+      </strong>
+      <strong>
+       <span style="line-height: 150%;">
+        截止日期为
+       </span>
+      </strong>
+      <span style="color: rgb(49, 133, 155);">
+       <strong>
+        <span style="line-height: 150%;">
+         201
+        </span>
+       </strong>
+       <strong>
+        <span style="line-height: 150%;">
+         9
+        </span>
+       </strong>
+       <strong>
+        <span style="line-height: 150%;">
+         年3月1
+        </span>
+       </strong>
+       <strong>
+        <span style="line-height: 150%;">
+         2
+        </span>
+       </strong>
+       <strong>
+        <span style="line-height: 150%;">
+         日（周二）
+        </span>
+       </strong>
+       <strong>
+        <span style="line-height: 150%;">
+         17:00
+        </span>
+       </strong>
+      </span>
+      <strong>
+       <span style="line-height: 150%;">
+        。
+       </span>
+      </strong>
+     </span>
+    </p>
+    <p style="line-height: 150%;text-indent: 0em;">
+     <br/>
+    </p>
+    <p style="line-height: 150%;text-indent: 0em;margin-left: 10px;margin-right: 10px;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;">
+      <strong>
+       <span style="line-height: 150%;">
+        2.确定候选人
+       </span>
+      </strong>
+     </span>
+    </p>
+    <p style="line-height: 150%;text-indent: 0em;margin-left: 10px;margin-right: 10px;">
+     <span style="line-height: 150%;font-family: PingFangTC-Light;font-size: 14px;">
+      校团委根据各单位推荐人选及团员联名推荐人选，在广泛征求意见基础上确定初选候选人。
+     </span>
+    </p>
+    <section class="_135editor" data-id="94399" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+      <br/>
+     </p>
+    </section>
+    <section class="_135editor" data-id="94553" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section style="display: flex;justify-content: center;align-items: center;margin-top:0.5em;">
+      <section style="width:5px;height:1.2em;border-radius:25px;background: #ffc000;transform: rotate(30deg);-webkit-transform: rotate(30deg);-moz-transform: rotate(30deg);-ms-transform: rotate(30deg);-o-transform: rotate(30deg);">
+      </section>
+      <section style="width:5px;height:1.2em;border-radius:25px;background: #ffc000;margin-left:5px;transform: rotate(30deg);-webkit-transform: rotate(30deg);-moz-transform: rotate(30deg);-ms-transform: rotate(30deg);-o-transform: rotate(30deg);">
+      </section>
+      <section class="135brush" data-brushtype="text" style="font-weight: bold;padding: 1px 1em;letter-spacing: 1.5px;box-sizing: border-box;">
+       <span style="font-family: PingFangTC-Light;font-size: 14px;">
+        第二阶段：人物宣传（2019年3月至4月）
+       </span>
+      </section>
+      <section style="width:5px;height:1.2em;border-radius:25px;background: #ffc000;transform: rotate(30deg);-webkit-transform: rotate(30deg);-moz-transform: rotate(30deg);-ms-transform: rotate(30deg);-o-transform: rotate(30deg);">
+      </section>
+      <section style="width:5px;height:1.2em;border-radius:25px;background: #ffc000;margin-left:5px;transform: rotate(30deg);-webkit-transform: rotate(30deg);-moz-transform: rotate(30deg);-ms-transform: rotate(30deg);-o-transform: rotate(30deg);">
+      </section>
+     </section>
+    </section>
+    <p style="line-height: 150%;text-indent: 0em;margin-left: 10px;margin-right: 10px;">
+     <br/>
+    </p>
+    <p style="line-height: 150%;text-indent: 0em;margin-left: 10px;margin-right: 10px;">
+     <span style="line-height: 150%;font-family: PingFangTC-Light;font-size: 14px;">
+      校团委将利用校内各大媒体平台，对候选人事迹进行广泛宣传报道。
+     </span>
+    </p>
+    <section class="_135editor" data-id="94399" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+      <br/>
+     </p>
+    </section>
+    <section class="_135editor" data-id="94553" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section style="display: flex;justify-content: center;align-items: center;margin-top:0.5em;">
+      <section style="width:5px;height:1.2em;border-radius:25px;background: #ffc000;transform: rotate(30deg);-webkit-transform: rotate(30deg);-moz-transform: rotate(30deg);-ms-transform: rotate(30deg);-o-transform: rotate(30deg);">
+      </section>
+      <section style="width:5px;height:1.2em;border-radius:25px;background: #ffc000;margin-left:5px;transform: rotate(30deg);-webkit-transform: rotate(30deg);-moz-transform: rotate(30deg);-ms-transform: rotate(30deg);-o-transform: rotate(30deg);">
+      </section>
+      <section class="135brush" data-brushtype="text" style="font-weight: bold;padding: 1px 1em;letter-spacing: 1.5px;box-sizing: border-box;">
+       <span style="font-family: PingFangTC-Light;font-size: 14px;">
+        第三阶段：人物评选（2019年4月）
+       </span>
+      </section>
+      <section style="width:5px;height:1.2em;border-radius:25px;background: #ffc000;transform: rotate(30deg);-webkit-transform: rotate(30deg);-moz-transform: rotate(30deg);-ms-transform: rotate(30deg);-o-transform: rotate(30deg);">
+      </section>
+      <section style="width:5px;height:1.2em;border-radius:25px;background: #ffc000;margin-left:5px;transform: rotate(30deg);-webkit-transform: rotate(30deg);-moz-transform: rotate(30deg);-ms-transform: rotate(30deg);-o-transform: rotate(30deg);">
+      </section>
+     </section>
+    </section>
+    <p style="margin-right: 10px;margin-left: 10px;text-indent: 0em;">
+     <br/>
+    </p>
+    <p style="margin-right: 10px;margin-left: 10px;text-indent: 0em;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;">
+      校团委将结合广大师生在网络平台对初选候选人的评价，在广泛征集意见基础上，综合评判考量，确定2018年度“感动师大·青年学子”人物。
+     </span>
+    </p>
+    <section class="_135editor" data-id="94399" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+      <br/>
+     </p>
+    </section>
+    <section class="_135editor" data-id="94553" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <section style="display: flex;justify-content: center;align-items: center;margin-top:0.5em;">
+      <section style="width:5px;height:1.2em;border-radius:25px;background: #ffc000;transform: rotate(30deg);-webkit-transform: rotate(30deg);-moz-transform: rotate(30deg);-ms-transform: rotate(30deg);-o-transform: rotate(30deg);">
+      </section>
+      <section style="width:5px;height:1.2em;border-radius:25px;background: #ffc000;margin-left:5px;transform: rotate(30deg);-webkit-transform: rotate(30deg);-moz-transform: rotate(30deg);-ms-transform: rotate(30deg);-o-transform: rotate(30deg);">
+      </section>
+      <section class="135brush" data-brushtype="text" style="font-weight: bold;padding: 1px 1em;letter-spacing: 1.5px;box-sizing: border-box;">
+       <span style="font-family: PingFangTC-Light;font-size: 14px;">
+        第四阶段：人物表彰（2019年5月）
+       </span>
+      </section>
+      <section style="width:5px;height:1.2em;border-radius:25px;background: #ffc000;transform: rotate(30deg);-webkit-transform: rotate(30deg);-moz-transform: rotate(30deg);-ms-transform: rotate(30deg);-o-transform: rotate(30deg);">
+      </section>
+      <section style="width:5px;height:1.2em;border-radius:25px;background: #ffc000;margin-left:5px;transform: rotate(30deg);-webkit-transform: rotate(30deg);-moz-transform: rotate(30deg);-ms-transform: rotate(30deg);-o-transform: rotate(30deg);">
+      </section>
+     </section>
+    </section>
+    <p style="margin-right: 10px;margin-left: 10px;text-indent: 0em;">
+     <br/>
+    </p>
+    <p style="margin-right: 10px;margin-left: 10px;text-indent: 0em;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;">
+      举办2018年度“感动师大·青年学子”颁奖典礼，对2018年度“感动师大·青年学子”人物进行表彰。
+     </span>
+    </p>
+    <p style="text-indent: 0em;">
+     <br/>
+    </p>
+    <section class="_135editor" data-id="94065" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+      <br/>
+     </p>
+     <section style="display: flex;justify-content: center;align-items: center;">
+      <section style="display: inline-block;background: rgb(255, 227, 10);border-radius: 6px;padding: 3px 7px;font-weight: bold;box-sizing: border-box;">
+       <span style="font-family: PingFangTC-Light;font-size: 14px;">
+        05
+       </span>
+      </section>
+      <section style="display: inline-block;margin-top: 6px;margin-left: 5px;">
+       <section class="135brush" data-brushtype="text" style="font-weight: bold;letter-spacing: 2px;line-height: 1.75em;text-align: center;color: rgb(63, 63, 63);">
+        <span style="font-family: PingFangTC-Light;font-size: 14px;">
+         奖项设置
+        </span>
+       </section>
+       <section style="width: 3em;border-bottom: 2px solid rgb(63, 63, 63);float: right;box-sizing: border-box;">
+       </section>
+       <section data-width="90%" style="clear: both;width: 90%;border-bottom: 2px solid rgb(63, 63, 63);float: right;margin-top: 3px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <p>
+      <br/>
+     </p>
+    </section>
+    <p style="text-indent: 0em;">
+     <br/>
+    </p>
+    <p style="margin-right: 10px;margin-left: 10px;text-align: center;text-indent: 0em;">
+     <strong>
+      <span style="font-family: PingFangTC-Light;font-size: 14px;color: #31859b;">
+       1.“2018年度‘感动师大·青年学子’奖”6-8名；
+      </span>
+     </strong>
+    </p>
+    <p style="margin-right: 10px;margin-left: 10px;text-align: center;text-indent: 0em;">
+     <strong>
+      <span style="font-family: PingFangTC-Light;font-size: 14px;color: #31859b;">
+       2.“2018年度‘感动师大·青年学子’提名奖”若干名。
+      </span>
+     </strong>
+    </p>
+    <p style="text-indent: 0em;">
+     <br/>
+    </p>
+    <section class="_135editor" data-id="94065" data-tools="135编辑器" style="border-width: 0px;border-style: none;border-color: initial;box-sizing: border-box;">
+     <p style="text-align: center;margin-left: 10px;margin-right: 10px;">
+      <br/>
+     </p>
+     <section style="display: flex;justify-content: center;align-items: center;">
+      <section style="display: inline-block;background: rgb(255, 227, 10);border-radius: 6px;padding: 3px 7px;font-weight: bold;box-sizing: border-box;">
+       <span style="font-family: PingFangTC-Light;font-size: 14px;">
+        06
+       </span>
+      </section>
+      <section style="display: inline-block;margin-top: 6px;margin-left: 5px;">
+       <section class="135brush" data-brushtype="text" style="font-weight: bold;letter-spacing: 2px;line-height: 1.75em;text-align: center;color: rgb(63, 63, 63);">
+        <span style="font-family: PingFangTC-Light;font-size: 14px;">
+         联系方式
+        </span>
+       </section>
+       <section style="width: 3em;border-bottom: 2px solid rgb(63, 63, 63);float: right;box-sizing: border-box;">
+       </section>
+       <section data-width="90%" style="clear: both;width: 90%;border-bottom: 2px solid rgb(63, 63, 63);float: right;margin-top: 3px;box-sizing: border-box;">
+       </section>
+      </section>
+     </section>
+     <p>
+      <br/>
+     </p>
+    </section>
+    <p style="text-indent: 0em;">
+     <br/>
+    </p>
+    <p style="margin-right: 10px;margin-left: 10px;text-align: center;text-indent: 0em;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;">
+      联系人：袁老师
+     </span>
+    </p>
+    <p style="margin-right: 10px;margin-left: 10px;text-align: center;text-indent: 0em;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;">
+      电话：54342654
+     </span>
+    </p>
+    <p style="margin-right: 10px;margin-left: 10px;text-align: center;text-indent: 0em;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;">
+      邮箱：ecnugandongshida@163.com
+     </span>
+    </p>
+    <p style="margin-right: 10px;margin-left: 10px;text-align: center;text-indent: 0em;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;">
+      地址：闵行校区学生之家B区102室
+     </span>
+    </p>
+    <p style="margin-right: 10px;margin-left: 10px;text-align: center;text-indent: 0em;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;">
+      中北校区大学生活动中心302室
+     </span>
+    </p>
+    <p style="text-indent: 0em;">
+     <br/>
+    </p>
+    <p style="margin-right: 10px;margin-left: 10px;text-indent: 0em;text-align: center;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;">
+      <span style="color: rgb(49, 133, 155);">
+       <strong>
+        点击“阅读原文”下载
+       </strong>
+      </span>
+     </span>
+    </p>
+    <p style="margin-right: 10px;margin-left: 10px;text-indent: 0em;text-align: center;">
+     <span style="font-family: PingFangTC-Light;font-size: 14px;">
+      <span style="color: rgb(49, 133, 155);">
+       <strong>
+        《2018年度“感动师大·青年学子”登记表》
+       </strong>
+      </span>
+     </span>
+    </p>
+    <p style="max-width: 100%;box-sizing: border-box;min-height: 1em;color: rgb(214, 214, 214);font-size: 12px;text-align: right;white-space: normal;background-color: rgb(255, 255, 255);word-wrap: break-word !important;">
+     <br/>
+    </p>
+    <section style="max-width: 100%;box-sizing: border-box;font-size: 14px;font-family: Optima-Regular, PingFangTC-light;word-wrap: break-word !important;">
+     <section powered-by="xiumi.us" style="max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+      <section style="max-width: 100%;box-sizing: border-box;word-wrap: break-word !important;">
+       <section style="max-width: 100%;box-sizing: border-box;text-align: right;font-size: 12px;word-wrap: break-word !important;">
+        <p style="max-width: 100%;box-sizing: border-box;min-height: 1em;word-wrap: break-word !important;">
+         <span style="max-width: 100%;box-sizing: border-box;font-family: Optima-Regular, PingFangTC-light;color: rgb(178, 178, 178);word-wrap: break-word !important;">
+          编辑 | 林易
+         </span>
+        </p>
+        <p style="max-width: 100%;box-sizing: border-box;min-height: 1em;word-wrap: break-word !important;">
+         <span style="max-width: 100%;box-sizing: border-box;font-family: Optima-Regular, PingFangTC-light;color: rgb(178, 178, 178);word-wrap: break-word !important;">
+          责任编辑  | 张琦慧
+         </span>
+        </p>
+        <section powered-by="xiumi.us" style="max-width: 677px;box-sizing: border-box;font-size: 16px;overflow-wrap: break-word;word-wrap: break-word !important;">
+         <section style="max-width: 677px;box-sizing: border-box;overflow-wrap: break-word;word-wrap: break-word !important;">
+          <section style="max-width: 677px;box-sizing: border-box;font-size: 5px;overflow-wrap: break-word;word-wrap: break-word !important;">
+           <p style="max-width: 677px;box-sizing: border-box;min-height: 5px;text-align: center;overflow-wrap: break-word;word-wrap: break-word !important;">
+            <img class="__bg_gif" data-copyright="0" data-ratio="0.5555555555555556" data-type="gif" data-w="819" src="https://mmbiz.qpic.cn/mmbiz_gif/hOWxIuT5SrEhloshYqlMHKHtNCSFzDAxXNknutcTBGqBpibaVcZvDN2WFOuOicqMF64MDqmXvnao7NxRUS6YlDxA/640?wx_fmt=gif" style="max-width: 677px;box-sizing: border-box;overflow-wrap: break-word;word-wrap: break-word !important;visibility: visible !important;width: 677px !important;"/>
+           </p>
+           <p style="max-width: 677px;box-sizing: border-box;min-height: 5px;overflow-wrap: break-word;word-wrap: break-word !important;">
+            <br style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word;word-wrap: break-word !important;"/>
+           </p>
+          </section>
+         </section>
+        </section>
+        <section style="max-width: 677px;box-sizing: border-box;font-size: 16px;overflow-wrap: break-word;word-wrap: break-word !important;">
+         <section powered-by="xiumi.us" style="max-width: 677px;box-sizing: border-box;overflow-wrap: break-word;word-wrap: break-word !important;">
+          <section style="max-width: 677px;box-sizing: border-box;overflow-wrap: break-word;word-wrap: break-word !important;">
+           <section style="max-width: 677px;box-sizing: border-box;color: rgba(62, 62, 62, 0.74);font-size: 12px;overflow-wrap: break-word;word-wrap: break-word !important;">
+            <section style="max-width: 677px;box-sizing: border-box;color: rgb(175, 175, 175);font-size: 16px;letter-spacing: 0.54px;widows: 1;overflow-wrap: break-word;word-wrap: break-word !important;">
+             <section powered-by="xiumi.us" style="max-width: 677px;box-sizing: border-box;overflow-wrap: break-word;word-wrap: break-word !important;">
+              <section style="max-width: 677px;box-sizing: border-box;overflow-wrap: break-word;word-wrap: break-word !important;">
+               <section style="max-width: 677px;box-sizing: border-box;font-size: 5px;overflow-wrap: break-word;word-wrap: break-word !important;">
+                <section style="max-width: 677px;box-sizing: border-box;color: rgba(62, 62, 62, 0.74);font-size: 16px;overflow-wrap: break-word;word-wrap: break-word !important;">
+                 <section style="max-width: 677px;box-sizing: border-box;overflow-wrap: break-word;word-wrap: break-word !important;">
+                  <section style="max-width: 677px;box-sizing: border-box;overflow-wrap: break-word;word-wrap: break-word !important;">
+                   <section style="max-width: 677px;box-sizing: border-box;color: rgb(214, 214, 214);font-size: 12px;letter-spacing: 0px;line-height: 19.2px;overflow-wrap: break-word;word-wrap: break-word !important;">
+                    <section data-role="paragraph" style="max-width: 677px;box-sizing: border-box;border-color: rgb(178, 178, 178);border-style: none;border-width: 0px;color: rgb(178, 178, 178);font-family: -apple-system-font, BlinkMacSystemFont, Arial, sans-serif;font-stretch: 100%;letter-spacing: 0.54px;line-height: 25.6px;text-align: center;overflow-wrap: break-word;word-wrap: break-word !important;">
+                     <section style="margin-top: 14px;padding: 7px;max-width: 677px;box-sizing: border-box;border-color: rgb(215, 215, 215);border-style: solid;border-width: 1px;font-family: 微软雅黑;font-size: 14px;letter-spacing: 1px;line-height: 18.3px;overflow-wrap: break-word;word-wrap: break-word !important;">
+                      <p style="max-width: 661px;box-sizing: border-box;min-height: 14px;overflow-wrap: break-word;word-wrap: break-word !important;">
+                       <span style="max-width: 100%;box-sizing: border-box;color: rgb(136, 136, 136);font-size: 12px;font-weight: 700;overflow-wrap: break-word;word-wrap: break-word !important;">
+                        阅 读 更 多
+                       </span>
+                       <strong style="max-width: 100%;box-sizing: border-box;color: rgb(160, 160, 160);text-align: right;overflow-wrap: break-word;word-wrap: break-word !important;">
+                        <span style="max-width: 100%;box-sizing: border-box;background-clip: border-box;background-image: none;background-position: 0% 0%;background-repeat: repeat;background-size: auto;border-color: rgb(120, 172, 254);border-style: none;border-width: 0px;bottom: auto;color: rgb(120, 172, 254);height: auto;left: auto;line-height: normal;max-height: none;min-height: 0px;min-width: 0px;top: auto;visibility: visible;overflow-wrap: break-word;z-index: auto;word-wrap: break-word !important;">
+                        </span>
+                       </strong>
+                      </p>
+                      <p style="max-width: 661px;box-sizing: border-box;min-height: 14px;overflow-wrap: break-word;word-wrap: break-word !important;">
+                       <br/>
+                      </p>
+                      <p style="max-width: 661px;box-sizing: border-box;min-height: 14px;overflow-wrap: break-word;text-align: left;line-height: 1.75em;word-wrap: break-word !important;">
+                       <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA5MjgxOTQyNQ==&amp;mid=2650506915&amp;idx=1&amp;sn=e0fbbd7d65092b0a7c12f7d97f9d4993&amp;chksm=88687c2dbf1ff53bb8d65fa9ad2c926197c3698bbcdca10244da90a2b860f5fc10b3ebe22a67&amp;scene=21#wechat_redirect" style="color: rgb(87, 107, 149);font-family: 微软雅黑;font-size: 14px;letter-spacing: 1px;text-align: left;white-space: normal;widows: 1;-webkit-tap-highlight-color: rgba(0, 0, 0, 0);max-width: 100%;box-sizing: border-box;overflow-wrap: break-word;word-wrap: break-word !important;" target="_blank">
+                        <span style="max-width: 100%;box-sizing: border-box;font-weight: 700;text-align: right;overflow-wrap: break-word;word-wrap: break-word !important;">
+                         <strong style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word;word-wrap: break-word !important;">
+                          <strong style="max-width: 100%;box-sizing: border-box;background-clip: border-box;background-image: none;background-position: 0% 0%;background-repeat: repeat;background-size: auto;border-color: rgb(0, 0, 0);border-style: none;border-width: 0px;bottom: auto;display: inline;float: none;height: auto;left: auto;line-height: 18.3px;max-height: none;min-height: 0px;min-width: 0px;top: auto;visibility: visible;overflow-wrap: break-word;z-index: auto;word-wrap: break-word !important;">
+                           ·
+                          </strong>
+                         </strong>
+                         <strong style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word;word-wrap: break-word !important;">
+                          <strong style="max-width: 100%;box-sizing: border-box;background-clip: border-box;background-image: none;background-position: 0% 0%;background-repeat: repeat;background-size: auto;border-color: rgb(120, 172, 254);border-style: none;border-width: 0px;bottom: auto;display: inline;float: none;height: auto;left: auto;line-height: 18.3px;max-height: none;min-height: 0px;min-width: 0px;top: auto;visibility: visible;overflow-wrap: break-word;z-index: auto;word-wrap: break-word !important;">
+                          </strong>
+                         </strong>
+                        </span>
+                       </a>
+                       <a data-itemshowtype="0" data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA5MjgxOTQyNQ==&amp;mid=2650507934&amp;idx=1&amp;sn=3653e8b8bb498986e03368c2bb3a1bb1&amp;chksm=88687010bf1ff90665461b860c253e70a740f3c22038f4d08f0e27b8cdc1f919157c6f8e7f4a&amp;scene=21#wechat_redirect" target="_blank">
+                        支部风采|Week2·大夏书院历史专业2017级1班团支部
+                       </a>
+                       <br/>
+                      </p>
+                      <p style="max-width: 661px;box-sizing: border-box;min-height: 14px;overflow-wrap: break-word;text-align: left;line-height: 1.75em;word-wrap: break-word !important;">
+                       <a data-itemshowtype="0" data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA5MjgxOTQyNQ==&amp;mid=2650507922&amp;idx=1&amp;sn=6241a027f66766471cabd2df60b28b15&amp;chksm=8868701cbf1ff90a23332323343cdf9c4de5b9f912886d2a0f1f87a5939843c46cd44814f52c&amp;scene=21#wechat_redirect" target="_blank">
+                       </a>
+                       <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA5MjgxOTQyNQ==&amp;mid=2650506915&amp;idx=1&amp;sn=e0fbbd7d65092b0a7c12f7d97f9d4993&amp;chksm=88687c2dbf1ff53bb8d65fa9ad2c926197c3698bbcdca10244da90a2b860f5fc10b3ebe22a67&amp;scene=21#wechat_redirect" style="color: rgb(87, 107, 149);font-family: 微软雅黑;font-size: 14px;letter-spacing: 1px;text-align: left;white-space: normal;widows: 1;-webkit-tap-highlight-color: rgba(0, 0, 0, 0);max-width: 100%;box-sizing: border-box;overflow-wrap: break-word;word-wrap: break-word !important;" target="_blank">
+                        <span style="max-width: 100%;box-sizing: border-box;font-weight: 700;text-align: right;overflow-wrap: break-word;word-wrap: break-word !important;">
+                         <strong style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word;word-wrap: break-word !important;">
+                          <strong style="max-width: 100%;box-sizing: border-box;background-clip: border-box;background-image: none;background-position: 0% 0%;background-repeat: repeat;background-size: auto;border-color: rgb(0, 0, 0);border-style: none;border-width: 0px;bottom: auto;display: inline;float: none;height: auto;left: auto;line-height: 18.3px;max-height: none;min-height: 0px;min-width: 0px;top: auto;visibility: visible;overflow-wrap: break-word;z-index: auto;word-wrap: break-word !important;">
+                           ·
+                          </strong>
+                         </strong>
+                         <strong style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word;word-wrap: break-word !important;">
+                          <strong style="max-width: 100%;box-sizing: border-box;background-clip: border-box;background-image: none;background-position: 0% 0%;background-repeat: repeat;background-size: auto;border-color: rgb(120, 172, 254);border-style: none;border-width: 0px;bottom: auto;display: inline;float: none;height: auto;left: auto;line-height: 18.3px;max-height: none;min-height: 0px;min-width: 0px;top: auto;visibility: visible;overflow-wrap: break-word;z-index: auto;word-wrap: break-word !important;">
+                          </strong>
+                         </strong>
+                        </span>
+                       </a>
+                       <a data-itemshowtype="0" data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA5MjgxOTQyNQ==&amp;mid=2650507922&amp;idx=1&amp;sn=6241a027f66766471cabd2df60b28b15&amp;chksm=8868701cbf1ff90a23332323343cdf9c4de5b9f912886d2a0f1f87a5939843c46cd44814f52c&amp;scene=21#wechat_redirect" target="_blank">
+                        今年的2月26日，居然发生了这样重大的变化……
+                       </a>
+                       <br/>
+                      </p>
+                      <p style="max-width: 661px;box-sizing: border-box;min-height: 14px;overflow-wrap: break-word;text-align: left;line-height: 1.75em;word-wrap: break-word !important;">
+                       <span style="color: rgb(87, 107, 149);font-family: 微软雅黑;font-size: 14px;letter-spacing: 1px;text-align: right;widows: 1;-webkit-tap-highlight-color: rgba(0, 0, 0, 0);max-width: 100%;box-sizing: border-box;overflow-wrap: break-word !important;font-weight: 700;">
+                        <strong style="max-width: 100%;box-sizing: border-box;overflow-wrap: break-word;word-wrap: break-word !important;">
+                         <strong style="max-width: 100%;box-sizing: border-box;background-clip: border-box;background-image: none;background-position: 0% 0%;background-repeat: repeat;background-size: auto;border-color: rgb(0, 0, 0);border-style: none;border-width: 0px;bottom: auto;display: inline;float: none;height: auto;left: auto;line-height: 18.3px;max-height: none;min-height: 0px;min-width: 0px;top: auto;visibility: visible;overflow-wrap: break-word;z-index: auto;word-wrap: break-word !important;">
+                          <a data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA5MjgxOTQyNQ==&amp;mid=2650506915&amp;idx=1&amp;sn=e0fbbd7d65092b0a7c12f7d97f9d4993&amp;chksm=88687c2dbf1ff53bb8d65fa9ad2c926197c3698bbcdca10244da90a2b860f5fc10b3ebe22a67&amp;scene=21#wechat_redirect" style="color: rgb(87, 107, 149);font-family: 微软雅黑;font-size: 14px;letter-spacing: 1px;text-align: left;white-space: normal;widows: 1;-webkit-tap-highlight-color: rgba(0, 0, 0, 0);max-width: 100%;box-sizing: border-box;overflow-wrap: break-word;word-wrap: break-word !important;" target="_blank">
+                           ·
+                          </a>
+                         </strong>
+                        </strong>
+                       </span>
+                       <a data-itemshowtype="0" data-linktype="2" href="http://mp.weixin.qq.com/s?__biz=MzA5MjgxOTQyNQ==&amp;mid=2650507958&amp;idx=1&amp;sn=a6bf7da5de094e950ab75ff747e5f815&amp;chksm=88687038bf1ff92e5d4c1ad7e2e10bc443dd6aed274be01e395876c368ae20a547380724a5fd&amp;scene=21#wechat_redirect" target="_blank">
+                        拿什么标签定义刷爆华东师大人朋友圈的张思源？
+                       </a>
+                       <br/>
+                      </p>
+                      <p style="max-width: 661px;box-sizing: border-box;min-height: 14px;color: rgb(136, 136, 136);text-align: right;overflow-wrap: break-word;word-wrap: break-word !important;">
+                       <br/>
+                      </p>
+                      <p style="margin-bottom: 5px;max-width: 661px;box-sizing: border-box;min-height: 14px;color: rgb(160, 160, 160);overflow-wrap: break-word;word-wrap: break-word !important;">
+                       <span style="max-width: 100%;box-sizing: border-box;color: rgb(136, 136, 136);font-size: 12px;font-weight: 700;overflow-wrap: break-word;word-wrap: break-word !important;">
+                        关 键 词 回 复
+                       </span>
+                      </p>
+                      <p style="margin-right: 8px;margin-left: 8px;max-width: 661px;box-sizing: border-box;min-height: 14px;color: rgb(160, 160, 160);overflow-wrap: break-word;word-wrap: break-word !important;">
+                       <span style="max-width: 100%;box-sizing: border-box;color: rgb(177, 177, 177);font-size: 12px;overflow-wrap: break-word;word-wrap: break-word !important;">
+                        师大青年/科创/行知/志愿者/支部风采/师说/河边人/阅读/特工大队/校车/校历/小花吃/毕业季
+                       </span>
+                      </p>
+                      <p style="margin-top: 10px;margin-bottom: 5px;max-width: 661px;box-sizing: border-box;min-height: 14px;color: rgb(136, 136, 136);overflow-wrap: break-word;word-wrap: break-word !important;">
+                       <span style="max-width: 100%;box-sizing: border-box;font-size: 12px;overflow-wrap: break-word;word-wrap: break-word !important;">
+                        更 多 精 彩，关 注 菜 单
+                       </span>
+                      </p>
+                     </section>
+                    </section>
+                   </section>
+                  </section>
+                 </section>
+                </section>
+               </section>
+              </section>
+             </section>
+            </section>
+           </section>
+          </section>
+         </section>
+        </section>
+       </section>
+      </section>
+     </section>
+    </section>
+   </section>
+  </section>
+ </section>
