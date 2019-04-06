@@ -47,6 +47,11 @@ Page({
       url: '../schedule2/schedule2',
     })
   },
+  create: function () {
+    wx.navigateTo({
+      url: '../create/create',
+    })
+  },
   test: function () {
     wx.navigateTo({
       url: '../test/test',

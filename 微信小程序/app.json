@@ -7,7 +7,8 @@
     "pages/schedule2/schedule2",
     "pages/category/category",
     "pages/test/test",
-    "pages/login/login"
+    "pages/login/login",
+    "pages/create/create"
   ],
   "window":{
     "backgroundTextStyle":"light",
