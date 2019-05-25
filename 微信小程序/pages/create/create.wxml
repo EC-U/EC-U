@@ -1,54 +1,23 @@
-<view class="create page">
-	<view class="header  border-t border-b ">
-		<view class="header-left header-btn" bindtap="cancelTask">取消</view>
-		<view class="header-center header-btn">新建任务</view>
-		<block wx:if="{{pageType=='create'}}">
-			<view class="header-right header-btn {{addBtnStatus}}" bindtap="saveTask" >添加</view>
-		</block>
-		<block wx:elif="{{pageType=='update'}}">
-			<view class="header-right header-btn {{addBtnStatus}}" bindtap="updateTask" data-taskkey="{{task.key}}">修改</view>
-		</block>
-	</view>
+<form bindsubmit='formSubmit'>
+  <text>标题：</text>
+  <input placeholder="最多15个字" type="text" bindinput="onChangeTitle" maxlength="15" value="{{task.title}}"/>
 
-	<view class="create_body">
-		<view class="block border-t border-b">
-			<view class="title block_line">
-				<input placeholder="标题:最多15个字" type="text" bindinput="onChangeTitle" maxlength="15" value="{{task.title}}"/>
-			</view>
+  <text>日期：</text>
+  <picker mode="date" start='2019-04-08' bindchange="onChangeDate">
+    <view class="picker">选择时间</view>
+  </picker>
 
-			<view class="block_line border-t">
-				<text>优先级</text>
-				<picker mode="selector" range="{{taskImportant}}" bindchange="onChangeImportant">
-					<view class="picker">666</view>
-				</picker>
-			</view>
-		</view>
+  <text>时间：</text>
+  <picker mode="time" start="07:00" bindchange="onChangeTime">
+    <view class="picker">选择时间</view>
+  </picker>
 
-		<view class="block border-t border-b">
-			<view class="all-day  block_line border-b">
-				<text>全天</text>
-				<switch bindchange="onChangeAllDay"></switch>
-			</view>
-			<view class="start  block_line border-b">
-				<text>开始</text>
-				<picker mode="time" value="{{taskTime.startTime}}" start="{{taskTime.startTimeBeginLimit}}" end="24:59" bindchange="onChangeStartTime">
-				    <view class="picker">
-				      {{taskTime.date}} {{taskTime.startTime}}
-				    </view>
-				</picker>
-			</view>
-			<view class="end  block_line ">
-				<text>结束</text>
-				<picker mode="time" value="{{taskTime.endTime}}" start="{{taskTime.endTimeBeginLimit}}" end="24.59" bindchange="onChangeEndTime">
-				    <view class="picker">
-				      {{taskTime.date}} {{taskTime.endTime}}
-				    </view>
-				</picker>
-			</view>
-		</view>
-		<block wx:if="{{pageType=='update'}}" >
-			<view class="delete-btn" bindtap="removeTask">删除日程</view>
-		</block>
+  <text>地点：</text>
+  <input placeholder="最多15个字" type="text" bindinput="onChangePosition" maxlength="15" value="{{task.title}}"/>
 
-	</view>
-</view>
+  <text>添加到：</text>
+  <picker bindchange="onChangeNum">
+    <view class="picker">选择表层</view>
+  </picker>
+  <button form-type='submit'>确定</button>
+</form>

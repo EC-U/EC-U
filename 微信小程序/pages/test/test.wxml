@@ -1,6 +1,7 @@
 <!--pages/test/test.wxml-->
 
-<text>{{text}}</text>
-=======
-<button type="primary" bindtap="btnClick">{{test.btnText}}</button>
+<text>test</text>
 
+<button bindtap='watch'>产看剪切板</button>
+
+<view>这里是剪切板内容：{{clipdata}}</view>

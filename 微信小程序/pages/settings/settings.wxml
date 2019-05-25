@@ -69,4 +69,10 @@
        <text> ></text>
      </view>
   </view>
+  <view class="item" bindtap="test">
+    <view class="title">剪切板测试</view>
+    <view class="detail2">
+      <text> ></text>
+    </view>
+  </view>
 </view>

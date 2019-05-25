@@ -1,11 +1,10 @@
-
 .create .header{
 	justify-content: space-between;
-	height:44px;
+	height:14px;
 	box-shadow:1px 1px 1px #aaa;
 }
 .create .create_body{
-	margin-top:44px;
+	margin-top:14px;
 	font-size:15px;
 	/*padding-top:1px;*/
 }
